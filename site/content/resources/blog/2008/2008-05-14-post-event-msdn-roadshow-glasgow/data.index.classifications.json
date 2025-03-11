@@ -289,12 +289,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content includes personal reflections on attending the MSDN Roadshow and individual experiences, but the primary focus is on the event itself rather than a deeper exploration of Agile, Scrum, or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content provides a personal account of attending the MSDN Roadshow, which aligns with the Personal category by sharing individual experiences and reflections. However, the focus is more on the event and technical insights rather than deep personal insights related to Agile, Scrum, or DevOps methodologies. The mention of personal experiences is present but not the primary focus, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

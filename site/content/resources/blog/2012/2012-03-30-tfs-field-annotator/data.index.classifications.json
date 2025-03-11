@@ -268,12 +268,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:00:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a specific software tool (TFS Field Annotator) that aids in managing TFS Work Items, which aligns with the category's focus on tools and software relevant to Agile and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the TFS Field Annotator tool, providing a description of its features and installation instructions. While it does mention a specific product, the discussion lacks depth regarding its application within Agile or DevOps methodologies. The content does not provide reviews, analyses, or broader discussions that would enhance understanding of Agile principles, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -286,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:35:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which is part of the Azure DevOps suite, but primarily focuses on a specific tool rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a tool related to TFS (Team Foundation Server), which is part of the Azure DevOps suite. However, it lacks a direct focus on Azure DevOps functionalities, methodologies, or best practices. The mention of TFS is relevant but does not delve into broader Azure DevOps topics such as CI/CD, Agile practices, or integration with other tools. The depth of discussion is limited to the specific tool without exploring its implications within the Azure DevOps ecosystem.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",

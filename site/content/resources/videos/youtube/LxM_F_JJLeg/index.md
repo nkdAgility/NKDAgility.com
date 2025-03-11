@@ -34,7 +34,7 @@ tags:
 - Organisational Culture
 - Software Developers
 - Team Collaboration
-- Team Performance
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

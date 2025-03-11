@@ -28,6 +28,7 @@ tags:
 - Team Motivation
 - People and Process
 - Agile Philosophy
+- Agile Product Management
 - Value Delivery
 sitemap:
   filename: sitemap.xml

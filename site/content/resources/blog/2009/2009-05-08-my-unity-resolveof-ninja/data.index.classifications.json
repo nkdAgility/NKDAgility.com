@@ -211,11 +211,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:43:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of the Unity Application Block and demonstrates coding practices, but it primarily focuses on a specific coding example rather than broader engineering practices or methodologies that enhance agility in software development.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the implementation of the Unity Application Block and demonstrates a practical example of dependency injection in VB.NET. While it touches on technical practices, such as creating a singleton instance and using the 'My' namespace, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The focus is more on a specific coding example rather than on overarching technical excellence concepts like TDD, CI/CD, or modular architecture.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -1111,12 +1114,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:09:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content primarily discusses the use of the Unity Application Block and its implementation in VB for a WPF application, which involves Windows development. However, it does not primarily focus on the Windows operating system itself, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the integration of the Unity Application Block within a .NET context, specifically focusing on Visual Studio and VB.NET. While it mentions the 'My' namespace, which is specific to Windows applications, the overall discussion is more centred on software development practices rather than Windows operating system management or troubleshooting. The content lacks a direct focus on Windows installation, configuration, or updates, leading to a lower confidence score in alignment with the Windows category.",
+    "level": "Quaternary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

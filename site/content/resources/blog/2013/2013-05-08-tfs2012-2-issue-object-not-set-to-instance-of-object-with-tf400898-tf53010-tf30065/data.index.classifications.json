@@ -1063,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:45:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:54:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses errors and known bugs related to configuration in Team Foundation Server, providing insights into system setup and necessary updates for proper configuration.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) configuration, specifically errors encountered during the setup and operation of areas and iterations. It provides detailed insights into troubleshooting these errors, which aligns well with the category of System Configuration. The discussion includes specific error codes, their implications, and recommended actions, indicating a strong focus on configuration management and troubleshooting. However, while it does touch on configuration aspects, the depth of discussion on broader system optimisation strategies and configuration management tools is somewhat limited, which prevents a higher confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1117,11 +1120,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T19:45:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:29:49",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Server 2012.2, which operates within the Windows environment and is used for development projects on Windows-based platforms. The troubleshooting and bug-fixing details provided also relate directly to the Windows operating system's integration with Visual Studio and TFS.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) 2012.2, which operates within the Windows environment. It explicitly mentions Windows in the context of error messages and troubleshooting steps, indicating a strong focus on Windows-related issues. The discussion includes installation and update procedures for Visual Studio, which is closely tied to Windows. The depth of the discussion is significant, providing detailed error messages, troubleshooting steps, and references to known bugs and fixes, all of which align well with the key topics outlined for the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

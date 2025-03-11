@@ -33,6 +33,7 @@ sitemap:
   priority: 0.6
 tags:
 - Miscellaneous
+- People and Process
 - Personal
 resourceTypes:
 - video

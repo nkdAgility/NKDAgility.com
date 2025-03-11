@@ -493,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T12:05:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily focuses on setting up version control structures and best practices for managing source code, which aligns with operational efficiency strategies within Agile frameworks. However, it briefly touches on Scrum without a deep focus, making it a secondary theme.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses various aspects of structuring projects and version control in a way that aligns with operational practices, particularly in the context of Agile and Scrum methodologies. It provides practical guidance on maintaining a clean and efficient project structure, which is essential for operational efficiency. However, while it touches on relevant topics, the depth of discussion on broader operational strategies and metrics is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1216,11 +1219,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:40:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses folder layout for version control and branching strategies, which are relevant topics for software developers working within Agile and Scrum frameworks.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on best practices for structuring projects and version control in a software development context, particularly within Team Foundation Server (TFS) and Scrum methodologies. It discusses the importance of maintaining a clear folder structure, automated builds, and the management of branches, which are relevant to Agile and DevOps practices. However, while it touches on these themes, it lacks a broader discussion on Agile principles or the integration of DevOps, which slightly limits its alignment with the category's core themes.",
     "level": "Secondary"
   },
   "Coaching": {

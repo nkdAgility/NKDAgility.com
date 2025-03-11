@@ -26,14 +26,14 @@ categories:
 - Social Technologies
 tags:
 - Agile Project Management
-- Scrum Master
-- Scrum Team
 - People and Process
+- Scrum Team
 - Team Collaboration
 - Self Organisation
 - Software Development
 - Team Performance
 - Agile Frameworks
+- Scrum Master
 - Professional Scrum
 
 ---

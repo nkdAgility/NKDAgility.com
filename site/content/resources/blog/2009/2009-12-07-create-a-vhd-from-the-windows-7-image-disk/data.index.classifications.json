@@ -1054,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:42:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of creating a VHD from a Windows image, outlining detailed steps for configuration and setup, which aligns closely with the definition of 'System Configuration'.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the process of creating a VHD from a Windows 7 image, which directly relates to system configuration. It discusses specific steps involved in the configuration of a virtual hard disk, including copying files, using tools like WinRar and imageX, and modifying boot settings with bcdedit commands. The detailed procedural nature of the content aligns well with the key topics of system configuration, such as software installation and configuration, and system optimisation strategies. However, while the content is rich in practical steps, it lacks a broader discussion on best practices or troubleshooting, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1165,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T02:23:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:07:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the steps to convert a Windows Image file to a Virtual Hard Disk, detailing processes that may help in diagnosing and resolving issues related to system setup and installation. While it includes personal anecdotes, the core focus is on practical steps for addressing a technical issue.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the process of creating a VHD from a Windows image, which involves steps that could be seen as troubleshooting related to system setup and installation. However, it lacks explicit discussions on diagnosing or resolving specific issues, which is a key aspect of the Troubleshooting category. The content does provide some practical steps and tools, but it does not delve deeply into problem-solving methodologies or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {

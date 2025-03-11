@@ -34,13 +34,13 @@ tags:
 - Agile Product Management
 - Agile Project Management
 - Scrum Product Development
-- Product Backlog
 - Product Owner
 - Professional Scrum
 - Scaling Scrum
 - Scrum Team
-- Agile Planning
 - Large Scale Agility
+- Scaling Agility
+- Software Development
 categories:
 - Scrum
 preview: 146713119-1-1.jpg

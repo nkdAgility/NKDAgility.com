@@ -250,12 +250,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T18:55:15",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T10:30:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses release management strategies, deployment processes, and the importance of quality assurance in delivering software products, aligning closely with the principles of product delivery.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses release management, deployment strategies, and the importance of quality output in software delivery. It aligns well with the core themes of product delivery, such as the integration of development and operations, the role of automation, and the need for effective processes. The depth of discussion on tools like Team Foundation Server and Octopus for managing releases further supports its relevance to the category.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -286,11 +289,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T18:55:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:55:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies and methodologies for release management, focusing on ensuring quality output and effective deployment processes, which aligns closely with value delivery principles.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses various aspects of release management, focusing on how to deliver value through effective deployment strategies and automation. It highlights the importance of creating potentially shippable output and the role of tools like NuGet and Octopus in facilitating continuous delivery. The discussion aligns well with the principles of iterative development and the need for cross-functional collaboration, although it leans more towards technical implementation details than broader value delivery strategies.",
     "level": "Secondary"
   },
   "Azure DevOps": {

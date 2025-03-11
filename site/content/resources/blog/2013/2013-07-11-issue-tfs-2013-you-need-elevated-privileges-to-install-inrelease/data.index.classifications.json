@@ -286,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:53:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to installing InRelease within a Team Foundation Server 2013 context, which is part of the Azure DevOps suite. However, the primary focus is on the installation process rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content discusses an installation issue related to InRelease within the context of Team Foundation Server 2013, which is part of the Azure DevOps suite. However, it primarily focuses on a specific technical problem rather than providing a broader discussion on Azure DevOps functionalities, best practices, or methodologies. The mention of Team Foundation Server is relevant but not sufficient to classify the content as primarily focused on Azure DevOps.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -1165,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:47:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:27:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting an installation issue in Team Foundation Server 2013 related to elevated privileges, providing specific steps to resolve the problem.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific installation issue related to InRelease 3 and Team Foundation Server 2013, detailing the problem of needing elevated privileges. It provides a clear diagnosis of the issue, identifies the cause, and offers a practical solution, which aligns well with the core themes of troubleshooting. The depth of discussion is substantial, as it includes step-by-step instructions for resolving the problem, demonstrating a thorough understanding of the troubleshooting process.",
     "level": "Secondary"
   },
   "Experimentation": {

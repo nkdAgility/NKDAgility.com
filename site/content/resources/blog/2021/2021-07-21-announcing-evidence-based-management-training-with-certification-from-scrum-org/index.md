@@ -34,11 +34,11 @@ tags:
 - Ability to Innovate
 - Agile Leadership
 - Agile Project Management
-- Metrics and Learning
 - Agile Frameworks
 - Agile Strategy
-- News and Reviews
 - Strategic Goals
+- Decision Making
+- Empirical Process Control
 categories:
 - Leadership
 - Social Technologies

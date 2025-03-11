@@ -28,6 +28,7 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Software Development
+- Coaching
 
 ---
 The world is spinning faster than ever, with more players than ever.

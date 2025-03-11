@@ -38,10 +38,10 @@ tags:
 - Scrum Product Development
 - Software Development
 - Modern Source Control
-- Operational Practices
 - Professional Scrum
 - Agile Frameworks
 - Agile Project Management
+- Operational Practices
 - Pragmatic Thinking
 preview: metro-visual-studio-2005-128-link-1-1.png
 

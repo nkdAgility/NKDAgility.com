@@ -37,7 +37,7 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Agile Transformation
-- Organisational Agility
+- Pragmatic Thinking
 
 ---
 In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of Scrum. This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.

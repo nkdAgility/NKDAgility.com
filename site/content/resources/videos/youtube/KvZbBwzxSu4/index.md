@@ -37,8 +37,8 @@ tags:
 - Agile Product Operating Model
 - Decision Making
 - Organisational Agility
+- Sociotechnical Systems
 - Agile Leadership
-- Change Management
 resourceTypes:
 - video
 categories:

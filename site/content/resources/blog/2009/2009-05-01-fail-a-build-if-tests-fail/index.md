@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Automated Testing
-- Azure Pipelines
 - Continuous Integration
 - Engineering Practices
-- Operational Practices
 - Software Development
 - Technical Mastery
 - Troubleshooting
 - Technical Excellence
+- Install and Configuration
+- Azure Pipelines
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Engineering Excellence

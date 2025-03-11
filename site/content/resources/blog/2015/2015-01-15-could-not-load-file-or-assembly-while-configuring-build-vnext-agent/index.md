@@ -26,10 +26,10 @@ tags:
 - Install and Configuration
 - Windows
 - Software Development
-- Azure Pipelines
 - System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling
+- Azure Pipelines
 - Azure DevOps
 categories:
 - DevOps

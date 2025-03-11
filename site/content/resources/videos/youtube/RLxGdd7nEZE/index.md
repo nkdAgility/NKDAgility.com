@@ -30,11 +30,11 @@ sitemap:
 tags:
 - People and Process
 - Organisational Physics
+- Pragmatic Thinking
 - Sociotechnical Systems
 - Systems Thinking
-- Organisational Change
-- Pragmatic Thinking
 - Change Management
+- Organisational Change
 resourceTypes:
 - video
 categories:

@@ -27,11 +27,10 @@ isShort: true
 tags:
 - Miscellaneous
 - People and Process
+- Customer Retention
 - Product Discovery
 - Product Strategy
-- Product Validation
 - Customer Feedback Loops
-- Customer Retention
 - Customer Satisfaction
 sitemap:
   filename: sitemap.xml

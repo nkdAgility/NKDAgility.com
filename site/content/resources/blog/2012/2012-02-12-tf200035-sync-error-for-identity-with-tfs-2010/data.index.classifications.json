@@ -382,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T22:15:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:36:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on a technical issue related to Team Foundation Server (TFS), detailing the troubleshooting steps taken, including understanding Active Directory settings, TFS service accounts, and methods to ensure system stability, which aligns with software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content provides a detailed investigation into a specific technical issue related to Team Foundation Server (TFS) and Active Directory integration. It discusses troubleshooting steps, error messages, and potential solutions, which align with the principles of software craftsmanship and engineering practices. However, while it touches on technical mastery, the focus is more on problem-solving rather than broader best practices or methodologies in software development.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -589,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T22:15:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:01:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS), which is a software development tool. It delves into troubleshooting synchronization problems with Active Directory in the context of a TFS setup, and it outlines methods to resolve these issues, which aligns with software development practices and methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Server (TFS) and Active Directory integration, which falls under the broader umbrella of software development practices, particularly in the context of version control and collaborative development. It provides a detailed account of troubleshooting steps, error messages, and potential resolutions, demonstrating a practical application of software development methodologies. However, while it touches on relevant topics, the focus is more on a specific problem rather than a comprehensive discussion of software development methodologies or best practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {

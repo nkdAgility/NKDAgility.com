@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/information-sync
 tags:
 - Windows
-- Troubleshooting
 - Products and Books
 - Miscellaneous
 categories: []

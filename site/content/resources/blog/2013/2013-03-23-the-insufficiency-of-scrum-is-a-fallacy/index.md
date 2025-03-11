@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/the-insufficiency-of-scrum-is-a-fallacy
 tags:
 - People and Process
+- Software Developers
 - Agile Frameworks
-- Agile Planning
 - Agile Project Management
 - Engineering Practices
 - Professional Scrum

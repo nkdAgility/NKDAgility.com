@@ -23,7 +23,6 @@ aliasesArchive:
 - /ad-update-o-matic
 - /resources/blog/ad-update-o-matic
 tags:
-- Operational Practices
 - Software Development
 - Working Software
 categories: []

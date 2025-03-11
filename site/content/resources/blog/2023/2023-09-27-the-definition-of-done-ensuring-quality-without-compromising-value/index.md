@@ -28,16 +28,7 @@ aliasesArchive:
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
 tags:
-- Transparency
-- Professional Scrum
 - Definition of Done
-- Working Software
-- Scrum Product Development
-- Agile Project Management
-- Product Delivery
-- Software Development
-- Transparency and Accountability
-- Increment
 categories:
 - Scrum
 - Social Technologies

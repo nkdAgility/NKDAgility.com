@@ -31,14 +31,14 @@ sitemap:
 tags:
 - People and Process
 - Software Development
+- Pragmatic Thinking
 - Agile Philosophy
-- Agile Strategy
 - Agile Transformation
 - Agile Values and Principles
-- Pragmatic Thinking
 - Complexity Thinking
 - Sociotechnical Systems
 - Agile Frameworks
+- Agile Strategy
 resourceTypes:
 - video
 categories:

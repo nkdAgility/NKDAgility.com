@@ -28,13 +28,13 @@ tags:
 - Agile Project Management
 - People and Process
 - Scrum Master
+- Scrum Team
 - Agile Frameworks
 - Professional Scrum
 - Software Development
-- Accountability
 - Scrum Product Development
+- Accountability
 - Pragmatic Thinking
-- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6

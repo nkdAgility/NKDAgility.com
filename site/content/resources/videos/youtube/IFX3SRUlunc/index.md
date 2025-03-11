@@ -31,10 +31,10 @@ tags:
 - Lean Principles
 - Lean Thinking
 - Value Delivery
+- Product Delivery
 - Decision Making
 - Discovery and Learning
 - Product Discovery
-- Product Owner
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -184,12 +184,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:48:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of quality engineering and its impact on team effectiveness and value delivery, which aligns with team performance themes. However, it primarily focuses on quality assurance practices rather than directly addressing team dynamics or collaboration.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the importance of delivering high-quality products and the concept of 'shift left' in software development, which can indirectly relate to team performance. However, it lacks explicit discussions on team dynamics, collaboration, or Agile methodologies. The focus is more on quality assurance practices rather than strategies for enhancing team effectiveness or collaboration.",
+    "level": "Quaternary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -1015,12 +1018,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:12:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'shift left', which relates to integrating quality early in the development process, a principle aligned with Test First Development. However, it does not explicitly focus on writing tests before code or the specific practices of TDD, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions the concept of 'shift left', which aligns with the idea of integrating quality early in the development process, a principle related to Test First Development. However, it does not explicitly discuss Test-Driven Development (TDD) or the specific practices of writing tests before code. The discussion lacks depth and detail on the principles, benefits, and tools associated with Test First Development, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",

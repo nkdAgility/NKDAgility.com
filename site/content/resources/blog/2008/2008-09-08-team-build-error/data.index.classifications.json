@@ -661,12 +661,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:45:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue encountered in a software build process, including mentions of MS Build, Visual Studio versions, and Team Foundation Server, which are relevant to software developers. However, it does not explicitly address Agile methodologies, DevOps practices, or broader discussions on productivity and collaboration that are central to the category.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific build error encountered in a software development context, which is relevant to software developers. However, it lacks explicit discussions on Agile or DevOps methodologies, best practices, or modern engineering practices. While it touches on technical issues related to software development, it does not delve into the broader themes of collaboration, productivity, or the role of developers within Agile frameworks, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",
@@ -1354,12 +1357,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:11:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a build error in MS Build, which is related to the continuous integration process, but the primary focus is on a specific technical issue rather than on CI principles or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a specific build error encountered during a software build process, which is related to Continuous Integration practices. However, it primarily focuses on troubleshooting a specific issue rather than exploring the broader principles or best practices of CI. While there are mentions of build configurations and tools (like MSBuild and TFS), the discussion lacks depth in terms of CI principles, automated testing, or team collaboration. Therefore, it aligns with the category but does not provide a comprehensive exploration of CI.",
+    "level": "Quaternary"
   },
   "Social Technologies": {
     "category": "Social Technologies",

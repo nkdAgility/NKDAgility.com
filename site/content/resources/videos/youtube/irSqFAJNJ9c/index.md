@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Transparency
 - Agile Project Management
 - Scrum Product Development
 - Product Owner
 - Scrum Team
-- Agile Frameworks
 - Software Development
 - Team Collaboration
 - Team Performance
+- Agile Product Management
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

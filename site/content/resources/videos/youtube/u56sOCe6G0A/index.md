@@ -38,9 +38,9 @@ tags:
 - Agile Frameworks
 - Operational Practices
 - Software Development
-- Agile Project Management
 - Pragmatic Thinking
 - Throughput
+- Agile Project Management
 - Lean Thinking
 - Value Delivery
 resourceTypes:

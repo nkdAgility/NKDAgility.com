@@ -217,21 +217,27 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:32:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:53:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical techniques for installing and configuring TFS in a network environment, including specific steps and solutions to common issues.",
+    "final_score": 66.0,
+    "reasoning": "The content provides a practical solution for installing TFS in a network environment, specifically addressing issues related to proxy servers and DNS errors. It discusses a specific technique (modifying the hosts file) and references a method for renaming the server, which aligns with the category's focus on practical techniques and tooling. However, the discussion lacks depth in exploring broader methodologies or frameworks and does not mention any Agile or DevOps tools explicitly, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:32:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:18:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to installing TFS, which is part of the application lifecycle, but primarily focuses on technical installation problems rather than the broader aspects of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical issue related to installing TFS (Team Foundation Server) in a network environment, which is tangentially related to Application Lifecycle Management. However, it does not explicitly address the stages of the application lifecycle, best practices, or governance. The mention of 'ALM' in the tags suggests a connection, but the primary focus is on a technical installation problem rather than a comprehensive discussion of ALM principles or practices.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

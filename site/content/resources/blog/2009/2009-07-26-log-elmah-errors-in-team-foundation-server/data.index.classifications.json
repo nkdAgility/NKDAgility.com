@@ -358,11 +358,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T02:17:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:42:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of error logging with Team Foundation Server (TFS), which is a tool used in the application lifecycle management process. It covers aspects of managing work items, error logging, and the interaction between application errors and TFS, aligning well with the principles of Application Lifecycle Management.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on logging errors in Team Foundation Server (TFS) and managing work items, which are integral to the application lifecycle management process. It discusses the creation, retrieval, and management of work items, which aligns with the stages of application lifecycle management, particularly in the maintenance phase. The content also touches on best practices for error logging and integration with TFS, which supports application governance. However, while it provides a good level of detail, it lacks broader discussions on metrics, KPIs, and risk management strategies, which are also key aspects of ALM.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -385,11 +388,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T03:05:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:08:27",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of error logging in Team Foundation Server using Elmah, which includes technical aspects of software architecture, logging methodologies, and code examples that reflect principles of software craftsmanship.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed exploration of integrating Elmah error logging with Team Foundation Server (TFS), showcasing best practices in software design and architecture. It discusses methodologies for error handling, logging, and work item management, which align closely with the principles of clean code and software craftsmanship. The depth of the discussion is significant, with extensive code examples and explanations of how to implement the solution effectively, demonstrating a strong grasp of technical concepts and practices relevant to software engineering excellence.",
     "level": "Secondary"
   },
   "Product Discovery": {

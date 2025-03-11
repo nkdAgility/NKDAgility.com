@@ -41,7 +41,6 @@ categories:
 - Social Technologies
 tags:
 - Scrum Product Development
-- Agile Planning
 - Professional Scrum
 - Agile Project Management
 

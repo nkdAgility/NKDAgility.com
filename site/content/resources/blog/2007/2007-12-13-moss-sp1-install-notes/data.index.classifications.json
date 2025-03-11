@@ -1087,12 +1087,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:27",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T10:48:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 59.0,
-    "reasoning": "The content discusses the installation of the 2007 Microsoft Office Servers Service Pack 1, which requires Windows SharePoint Services and relates to the Windows operating system. However, the primary focus is on SharePoint rather than Windows directly.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the installation of the 2007 Microsoft Office Servers Service Pack 1, which is directly related to the Windows operating system as it requires Windows SharePoint Services. There are explicit mentions of Windows and its components, indicating a strong relevance to the category. The discussion includes installation procedures and prerequisites, aligning well with the core themes of the Windows category. However, while the content is detailed, it does not delve deeply into broader Windows topics such as troubleshooting or performance optimisation, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1132,12 +1135,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:13:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installing a service pack for a software product, which relates to deployment practices, but the focus is more on installation steps rather than specific deployment strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the installation of a service pack for SharePoint, which relates to deployment in a very general sense. However, it lacks a detailed discussion on specific deployment strategies or methodologies. The focus is more on installation steps rather than strategic approaches to deployment, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Test Automation": {
     "category": "Test Automation",

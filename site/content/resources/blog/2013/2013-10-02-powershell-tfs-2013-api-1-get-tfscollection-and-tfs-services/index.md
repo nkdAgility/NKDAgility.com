@@ -29,12 +29,12 @@ aliasesArchive:
 - /blog/powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
 - /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 tags:
+- Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
-- Modern Source Control
-- Software Development
 - System Configuration
 - Technical Mastery
+- Modern Source Control
 categories: []
 preview: metro-powershell-logo-1-1.png
 

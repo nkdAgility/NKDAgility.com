@@ -23,7 +23,13 @@ aliasesArchive:
 - /quality-centre-to-team-foundation-server-in-one-complex-step
 - /resources/blog/quality-centre-to-team-foundation-server-in-one-complex-step
 tags:
+- Practical Techniques and Tooling
 - Products and Books
+- Application Lifecycle Management
+- Software Development
+- News and Reviews
+- Install and Configuration
+- Pragmatic Thinking
 categories: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 

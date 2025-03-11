@@ -40,8 +40,8 @@ tags:
 - People and Process
 - Agile Frameworks
 - Software Development
-- Flow Efficiency
 - Pragmatic Thinking
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - System Configuration
 - Install and Configuration
-- Deployment Strategies
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

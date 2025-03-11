@@ -27,12 +27,12 @@ tags:
 - Practical Techniques and Tooling
 - Modern Source Control
 - System Configuration
-- Application Lifecycle Management
-- Operational Practices
 - Pragmatic Thinking
 - Software Development
 - Technical Mastery
 - Troubleshooting
+- Application Lifecycle Management
+- Operational Practices
 categories:
 - DevOps
 - Engineering Excellence

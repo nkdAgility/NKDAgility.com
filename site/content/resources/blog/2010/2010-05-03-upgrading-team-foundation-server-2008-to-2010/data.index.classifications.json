@@ -385,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T01:18:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:40:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the technical processes involved in upgrading Team Foundation Server, including best practices, verification of installations, database management, and project migration, which align with principles of software craftsmanship and engineering excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading Team Foundation Server from 2008 to 2010, detailing specific steps, commands, and considerations for a successful migration. It discusses best practices for database backup and restoration, as well as the importance of maintaining project history and integrity during the upgrade. While it does not explicitly mention broader software craftsmanship principles, the depth of technical detail and the focus on engineering practices related to TFS upgrades align well with the category of Technical Mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -493,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T01:18:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:05:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses strategies and practices related to upgrading Team Foundation Server, which involves operational tasks relevant to maintaining and optimizing workflows within Agile and Lean environments.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in upgrading Team Foundation Server, which includes operational tasks such as backing up databases and restoring them. While it touches on aspects of operational practices, such as ensuring minimal disruption during the upgrade and verifying installations, it lacks a broader discussion on strategies for enhancing operational efficiency or continuous improvement within Agile or DevOps frameworks. The depth of discussion is more procedural than strategic, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

@@ -730,11 +730,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T11:56:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:11:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to source control management in software development, particularly the challenges and processes involved in managing branches within a version control system.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the challenges and processes involved in using TFS as an ALM tool, specifically focusing on source control and branching strategies. It provides a detailed account of a specific issue encountered with branch management, which aligns well with software development practices. The mention of merging branches and the steps taken to resolve the issue demonstrates a clear understanding of version control systems, a key topic in software development. The depth of discussion is substantial, as it outlines specific actions taken to rectify the situation, indicating a practical application of software development methodologies.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -1063,11 +1066,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T11:56:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:45:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to source control branching and merging strategies, with a focus on resolving specific problems encountered in a version control system.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses specific issues related to source control, particularly the complexities of branching and merging in a version control system. It provides a detailed account of a problematic scenario involving multiple branches and the steps taken to resolve it, which aligns well with the core themes of Modern Source Control. However, while it does mention source control practices, the focus on the broader context of ALM (Application Lifecycle Management) and the challenges faced by the team slightly detracts from a purely focused discussion on version control methodologies. Therefore, the confidence score reflects a strong alignment with the category but acknowledges the presence of secondary topics.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {

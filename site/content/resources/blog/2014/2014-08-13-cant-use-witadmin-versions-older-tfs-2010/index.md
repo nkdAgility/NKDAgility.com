@@ -27,10 +27,10 @@ aliasesArchive:
 - /blog/you-can't-use-witadmin-on-versions-older-than-tfs-2010
 - /resources/blog/cant-use-witadmin-versions-older-tfs-2010
 tags:
-- Software Development
 - Troubleshooting
 - Install and Configuration
 - Pragmatic Thinking
+- Software Development
 - Practical Techniques and Tooling
 - System Configuration
 categories: []

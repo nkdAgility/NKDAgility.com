@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which is part of the Azure DevOps suite, but the primary focus is on personal experiences and challenges rather than Azure DevOps functionalities or best practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is a predecessor to Azure DevOps, and touches on its functionalities and customisation. However, it does not explicitly mention Azure DevOps or its specific services, focusing instead on TFS and its integration with SharePoint. While there is some alignment with the themes of project management and customisation, the depth of discussion is more about TFS rather than Azure DevOps itself.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -1228,11 +1231,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical implementations and challenges faced while using TFS for project management, but it doesn't primary focus on Agile, Scrum, or DevOps specific methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the practical application of TFS in a real-world project management context, highlighting the complexities and customizations required. It reflects on problem-solving strategies and adaptability in response to evolving requirements, which aligns with the core themes of Pragmatic Thinking. However, while it touches on relevant topics, the depth of discussion on specific Agile or Scrum methodologies is limited, preventing a higher confidence score.",
     "level": "Tertiary"
   },
   "Release Management": {

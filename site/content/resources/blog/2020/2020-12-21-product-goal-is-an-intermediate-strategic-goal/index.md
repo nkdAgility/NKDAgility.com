@@ -30,10 +30,10 @@ tags:
 - Resilience and Change
 - Agile Product Operating Model
 - Agile Project Management
+- Market Adaptability
 - Ability to Innovate
 - Change Management
 - Enterprise Agility
-- Evidence Based Leadership
 categories:
 - Product Management
 - Leadership

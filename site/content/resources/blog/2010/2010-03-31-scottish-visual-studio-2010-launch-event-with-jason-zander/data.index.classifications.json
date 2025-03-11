@@ -145,11 +145,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:41:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a launch event for Visual Studio 2010, which is a software product relevant to Agile and DevOps practices, but it primarily focuses on the event details rather than providing a review or analysis of the product itself.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on an event launch for Visual Studio 2010, which is a product, but it lacks in-depth discussion or analysis of the product itself or its relevance to Agile methodologies or DevOps practices. While it mentions speakers and sessions related to Visual Studio, it does not provide reviews, analyses, or recommendations that would typically align with the 'Products and Books' category. Therefore, while there is some relevance, it is not the primary focus.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -376,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:06:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a launch event for Visual Studio 2010 and includes presentations related to development tools and collaboration features, indicating a focus on technical subjects relevant to software development.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on an event announcement rather than a discussion of technical mastery. While it mentions Visual Studio 2010 and includes speakers who may touch on relevant topics, the overall emphasis is on the event logistics and speakers rather than on best practices, principles, or methodologies of software craftsmanship. The alignment with the category is weak, as it lacks in-depth discussion of technical topics.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

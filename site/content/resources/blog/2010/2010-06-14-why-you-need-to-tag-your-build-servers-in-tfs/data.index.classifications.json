@@ -892,11 +892,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:05:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the management of build servers and tagging within a continuous integration context, emphasizing challenges faced in a CI environment with multiple developers and geographically diverse teams.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the use of gated check-ins and the management of build servers, which are relevant to Continuous Integration practices. It highlights the importance of tagging build agents to streamline the build process and reduce issues related to dependencies. However, while it touches on CI principles, the discussion lacks depth in exploring broader CI concepts, best practices, or tools beyond the specific context of build server management.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -1216,11 +1219,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-16T00:54:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:40:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses best practices for managing build servers in a software development environment, which aligns with the role of software developers in utilizing tools and practices that enhance collaboration and productivity.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the management of build servers in a software development context, which is relevant to software developers. It touches on the implications of build server configuration on developer productivity and collaboration, aligning with Agile and DevOps principles. However, the focus is primarily on technical implementation rather than broader Agile or DevOps methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Coaching": {

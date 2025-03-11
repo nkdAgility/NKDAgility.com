@@ -211,12 +211,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:06:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Test-Driven Development (TDD) and related technical practices, but it is primarily focused on an event and speaker rather than a deep exploration of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content mentions Test-Driven Development (TDD) and discusses MVVM in the context of building test-driven programs, which aligns with the principles of Technical Excellence. However, the overall focus is more on the event details and speaker background rather than an in-depth exploration of TDD or related engineering practices. The discussion lacks substantial detail on how these practices enhance agility or project success, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1210,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:40:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Test-Driven Development (TDD) and methods relevant to developers, which aligns with the category, but it primarily focuses on a specific talk rather than the broader themes of Agile and DevOps.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Test-Driven Development (TDD) and the MVVM pattern, which are relevant to software developers. However, it primarily focuses on a specific event and speaker rather than a broader discussion on Agile or DevOps methodologies. While there are mentions of TDD and related practices, the overall context does not deeply engage with the themes of Agile or DevOps, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

@@ -32,6 +32,7 @@ tags:
 - Agile Project Management
 - Software Development
 - Team Collaboration
+- Team Performance
 - Coaching
 sitemap:
   filename: sitemap.xml

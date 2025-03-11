@@ -589,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:52:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses using the TFS API with PowerShell, which involves software engineering practices related to version control, connecting with services, and automation, aligning with software development methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API, which is a software development practice. It discusses specific coding techniques, such as importing assemblies and creating functions to connect to TFS services, aligning well with best practices in coding and software design. The depth of discussion is significant, providing detailed code examples and explanations of various TFS components, which enhances its relevance to software development methodologies. Overall, the content is highly relevant to the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -625,11 +628,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T20:30:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:26:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses using PowerShell to interact with the TFS Version Control server and includes examples of functions for connecting to TFS services related to version control, suggesting that version control is a primary topic of discussion.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses using PowerShell to interact with the TFS 2013 API, which is a version control system. It includes specific references to version control services and functionalities, such as connecting to TFS Version Control and managing work items. However, while it touches on relevant topics, the depth of discussion on best practices, methodologies, or strategies for modern source control is limited, focusing more on technical implementation rather than broader principles or workflows.",
     "level": "Secondary"
   },
   "Empirical Process Control": {

@@ -31,8 +31,8 @@ aliasesArchive:
 - /blog/alm-consulting-in-scotland--uk--scandinavia-&amp;-europe
 - /resources/blog/alm-consulting-scotland-uk-scandinavia-europe
 tags:
-- Coaching
 - Application Lifecycle Management
+- Coaching
 - Practical Techniques and Tooling
 - Software Development
 - Operational Practices
@@ -40,7 +40,7 @@ tags:
 - Product Delivery
 - Agile Project Management
 - People and Process
-- Deployment Strategies
+- Software Developers
 categories:
 - Engineering Excellence
 - DevOps

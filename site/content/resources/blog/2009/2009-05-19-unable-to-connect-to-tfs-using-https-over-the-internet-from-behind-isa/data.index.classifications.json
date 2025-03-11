@@ -583,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to connecting to TFS and includes problem-solving related to Visual Studio, which falls under software development challenges, but it is not the primary focus.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses a specific technical issue related to connecting to TFS (Team Foundation Server) through a proxy, which is relevant to software development practices. However, the discussion is primarily focused on a specific problem and workaround rather than broader software development methodologies or practices. While it mentions a bug and a workaround, it lacks depth in discussing software development principles or methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -1051,12 +1054,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:43:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to connecting to TFS and proxy authentication, which are related to system configuration and integration challenges, but the primary focus seems to be troubleshooting rather than configuration processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to connecting to TFS through a proxy server, which touches on system configuration aspects like proxy settings and authentication. However, it primarily focuses on a specific problem and workaround rather than providing a comprehensive discussion on system configuration principles or best practices. The mention of a bug and the workaround indicates some alignment with configuration issues, but the depth and breadth of the discussion are limited.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

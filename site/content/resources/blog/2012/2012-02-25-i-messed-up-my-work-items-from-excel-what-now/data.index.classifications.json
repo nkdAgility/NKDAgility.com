@@ -787,11 +787,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T21:31:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:35:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides practical problem-solving strategies for a specific situation in TFS related to bulk editing in Excel, which aligns with pragmatic thinking in the context of Agile and DevOps. It discusses adaptive strategies for data correction and lessons to avoid future issues, demonstrating the application of real-world problem-solving techniques.",
+    "final_score": 74.0,
+    "reasoning": "The content provides practical solutions to a real-world problem involving TFS and Excel, demonstrating pragmatic thinking in navigating complex issues. It discusses specific strategies for identifying and correcting errors in work items, which aligns with the core themes of pragmatic problem-solving in Agile contexts. However, while it offers detailed guidance, the primary focus is on a specific incident rather than broader Agile or Scrum principles, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1165,12 +1168,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:31:47",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T12:00:45",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily addresses the issue of erroneous bulk changes in work items using Excel and provides detailed troubleshooting steps and solutions to revert those changes. It discusses specific problems encountered, the impact on data integrity, and systematic approaches to diagnose and resolve the issues, which aligns closely with the troubleshooting category.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content focuses extensively on troubleshooting issues related to erroneous changes made to work items in TFS after editing in Excel. It discusses specific problems encountered, such as misalignment of data and the inability to revert changes, which directly aligns with the identification and resolution of technical issues. The author provides detailed solutions and methodologies for diagnosing and fixing these problems, demonstrating a strong conceptual alignment with the troubleshooting category. The depth of discussion is significant, as it includes multiple problems, solutions, and practical steps to mitigate the issues, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",

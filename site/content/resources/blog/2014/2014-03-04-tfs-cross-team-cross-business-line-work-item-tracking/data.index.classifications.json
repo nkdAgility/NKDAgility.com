@@ -223,11 +223,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T11:06:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:25:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of Team Foundation Server (TFS) to enhance collaboration and efficiency across multiple teams and projects, which aligns with technical practices that improve software development processes.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implementation of solutions within Team Foundation Server (TFS) to address specific organisational challenges, which aligns with technical excellence in terms of improving engineering practices. However, while it touches on aspects of modular architecture and team collaboration, it lacks a deeper exploration of methodologies like TDD or CI/CD, which are central to the category. The focus is more on operational challenges rather than on enhancing agility or technical practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -250,11 +253,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T11:06:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:51:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to managing work items and team collaboration within Team Foundation Server (TFS) for software delivery, which aligns with product delivery methodologies and practices.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the implementation of a solution within TFS to facilitate collaboration across multiple teams and projects, which directly relates to product delivery methodologies. It addresses challenges in work item tracking, team collaboration, and project management, aligning well with the core themes of product delivery. The depth of discussion on specific solutions, such as the use of a single Team Project and Team Field, demonstrates a thorough understanding of the practical aspects of delivering software products effectively.",
     "level": "Secondary"
   },
   "Beta Codex": {

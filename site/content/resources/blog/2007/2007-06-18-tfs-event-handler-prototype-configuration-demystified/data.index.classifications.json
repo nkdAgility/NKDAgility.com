@@ -379,11 +379,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T08:18:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:52:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on configuring the TFS Event Handler prototype, detailing the necessary configuration options, settings, and code examples. It discusses system setup and configuration in depth, which aligns well with the category of System Configuration.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on configuring the TFS Event Handler Prototype, including specific configuration options, XML snippets, and explanations of various parameters. It directly addresses system configuration by discussing installation steps, service options, and event handler setup, which are all critical aspects of configuring a system for optimal performance. The depth of discussion is substantial, covering multiple configuration elements and their implications, thus aligning well with the category's focus on practical system configuration methodologies.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -586,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:16:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration and usage of TFS Event Handlers within a software development context, detailing specific configuration options and event types related to Team Foundation Server, which is relevant to software engineering practices.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed guide on configuring a TFS Event Handler, which is a specific aspect of software development related to event-driven programming and integration with Team Foundation Server. It discusses configuration options, service settings, and event handling, which are relevant to software engineering practices. However, while it touches on important software development concepts, it lacks broader discussions on methodologies or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {

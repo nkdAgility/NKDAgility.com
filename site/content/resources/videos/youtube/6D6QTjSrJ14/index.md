@@ -32,11 +32,11 @@ sitemap:
 tags:
 - Discovery and Learning
 - Continuous Learning
-- Customer Feedback Loops
 - People and Process
+- Customer Feedback Loops
 - Coaching
-- Personal
 - Customer Satisfaction
+- Personal
 - Value Delivery
 resourceTypes:
 - video

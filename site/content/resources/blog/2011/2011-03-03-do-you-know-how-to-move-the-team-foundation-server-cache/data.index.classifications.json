@@ -1057,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical steps to move the Team Foundation Server cache, detailing configuration changes needed in the directory structure and app settings, which aligns well with system configuration practices.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the process of moving the Team Foundation Server (TFS) cache, which is a specific system configuration task. It provides detailed steps for creating a new directory, setting permissions, and modifying the web.config file, all of which are directly related to system configuration practices. The discussion aligns well with the category's core themes, such as best practices for software configuration and troubleshooting common issues. The depth of the discussion is substantial, offering practical instructions and considerations for optimising server space and performance. Overall, the content is highly relevant to the System Configuration category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1168,11 +1171,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T00:41:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses how to move the Team Foundation Server cache, outlining steps that entail diagnosing and resolving potential issues related to permissions and configuration, which aligns with troubleshooting.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a step-by-step guide on moving the Team Foundation Server (TFS) cache, which involves identifying potential issues (like permissions) and resolving them. It explicitly mentions troubleshooting aspects, such as checking permissions if a folder does not appear. However, while it aligns with troubleshooting themes, the depth of discussion is somewhat limited to a specific task without broader troubleshooting methodologies or tools.",
     "level": "Secondary"
   },
   "Experimentation": {

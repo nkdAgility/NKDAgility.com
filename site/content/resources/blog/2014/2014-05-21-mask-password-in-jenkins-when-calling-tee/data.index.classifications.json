@@ -379,11 +379,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T10:42:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:25:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a technical issue related to configuring Jenkins to mask passwords, which aligns with the practices of software engineering and security in software development.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific technical issue related to Jenkins and password management, which aligns with the principles of software craftsmanship and security best practices. However, while it touches on the importance of masking passwords and configuration, it lacks a broader discussion on software design principles or methodologies that contribute to high-quality software development. The focus is primarily on a practical solution rather than a comprehensive exploration of technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -1063,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T10:42:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:50:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of a Jenkins plugin to mask passwords during builds, which is a clear aspect of system configuration practices and security considerations.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the configuration of Jenkins to mask passwords, which directly relates to system configuration practices. It provides a detailed account of the steps taken to address a specific configuration issue, including the use of plugins and environment settings. The focus on security considerations and the practicalities of configuring Jenkins aligns well with the core themes of the category. However, while the content is rich in detail, it could benefit from a broader discussion on general configuration management practices.",
     "level": "Secondary"
   },
   "Product Strategy": {

@@ -30,16 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
-- Estimation
 - Throughput
-- Flow Efficiency
-- Agile Project Management
-- Software Developers
-- Metrics and Learning
-- Pragmatic Thinking
-- Cycle Time
-- Agile Product Management
 resourceTypes:
 - video
 categories:

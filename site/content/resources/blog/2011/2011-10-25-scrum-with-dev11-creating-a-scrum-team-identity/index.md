@@ -27,11 +27,10 @@ aliasesArchive:
 - /blog/scrum-with-visual-studio-11--creating-a-scrum-team-identity
 - /resources/blog/scrum-with-dev11-creating-a-scrum-team-identity
 tags:
-- Scrum Team
 - News and Reviews
+- Scrum Team
 - Practical Techniques and Tooling
 - Agile Frameworks
-- Agile Transformation
 - Software Development
 categories:
 - Social Technologies

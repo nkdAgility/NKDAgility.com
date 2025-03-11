@@ -32,10 +32,10 @@ tags:
 - Discovery and Learning
 - Pragmatic Thinking
 - Practical Techniques and Tooling
-- Azure DevOps
 - Continuous Learning
 - Metrics and Learning
 - People and Process
+- Value Delivery
 - Ability to Innovate
 - Change Management
 - Engineering Practices

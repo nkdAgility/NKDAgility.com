@@ -376,11 +376,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:42:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:50:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting configuration-related issues encountered during the installation of Team Foundation Server, specifically addressing errors related to system setup and configuration in a QA environment.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server, detailing specific errors encountered during the setup process. It explicitly mentions configuration issues related to IIS and ASP.NET, which are central to system configuration. The depth of discussion includes troubleshooting steps and the impact of specific configurations on system performance, aligning well with the key topics of the category. However, while the content is focused on configuration, it does not explore broader methodologies or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -1108,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T21:42:40",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T12:15:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses a specific error encountered during the deployment of Team Foundation Server, including diagnostic steps and the resolution of the error 28936 and associated 404 status. It focuses on identifying technical problems and providing solutions, which directly aligns with the scope of troubleshooting.",
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses a specific error encountered during the deployment of Team Foundation Server, detailing the error codes and the troubleshooting steps taken to resolve the issue. It aligns well with the core themes of troubleshooting by providing insights into diagnosing a technical problem and implementing a solution. The depth of discussion includes specific actions taken, such as checking permissions and reinstalling components, which further supports its classification in the troubleshooting category.",
     "level": "Primary"
   },
   "Entrepreneurship": {

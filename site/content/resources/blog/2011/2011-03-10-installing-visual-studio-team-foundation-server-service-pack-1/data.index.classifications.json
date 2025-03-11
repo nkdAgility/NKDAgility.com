@@ -265,11 +265,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:03:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the installation process and issues related to a specific software product, Team Foundation Server, which is relevant to Agile and DevOps practices.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the installation process of a specific software product, Team Foundation Server 2010 Service Pack 1. It includes detailed descriptions of the installation steps, issues encountered, and troubleshooting methods, which aligns with the category's focus on tools and software that facilitate Agile practices and DevOps integration. However, it lacks a broader analysis or review of the product's effectiveness in promoting Agile principles, which limits its depth of discussion. Overall, while the content is relevant, it does not fully explore the category's key topics, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -283,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:38:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Team Foundation Server, which is part of the Azure DevOps suite, but primarily focuses on personal experiences and troubleshooting rather than broader Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the installation process of Team Foundation Server (TFS) and its service pack, which is a component of Azure DevOps. However, it lacks a broader discussion on Azure DevOps functionalities, best practices, or methodologies. The focus is more on personal experiences and troubleshooting rather than on the core themes of Azure DevOps, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",

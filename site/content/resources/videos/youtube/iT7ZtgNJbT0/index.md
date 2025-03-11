@@ -34,6 +34,7 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Software Development
+- Software Developers
 resourceTypes:
 - video
 categories:

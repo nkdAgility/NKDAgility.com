@@ -37,11 +37,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:44:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses specific coding practices and modifications related to WPF and resource management, which are relevant to technical excellence, but the primary focus is on implementation details rather than broader engineering methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses specific coding practices and modifications related to WPF and resource management, which aligns with technical excellence. However, it lacks a broader discussion on methodologies like TDD or CI/CD, and the depth of technical principles is limited to specific code examples without a comprehensive exploration of engineering practices.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -838,11 +841,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-11T12:10:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses technical implementation details related to WPF and resource management, but does not focus on Agile engineering practices, methodologies, or principles such as clean code or test-driven development.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical implementation details related to WPF and resource management, which does not directly address the core principles of Agile engineering practices. While there are mentions of code modifications and error handling, the focus is on specific coding challenges rather than broader engineering practices like clean code, TDD, or CI/CD. The depth of discussion is moderate, but it lacks a clear connection to the key topics outlined in the Engineering Practices category.",
     "level": "Quaternary"
   },
   "Sprint Review": {

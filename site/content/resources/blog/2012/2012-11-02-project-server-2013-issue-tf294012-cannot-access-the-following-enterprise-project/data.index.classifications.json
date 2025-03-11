@@ -214,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:31:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to Project Server and Team Foundation Server, including permissions management and a PowerShell solution, which aligns with technical practices. However, it primarily focuses on troubleshooting rather than broader engineering methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions management. While it touches on technical aspects, such as the need for correct permission modes and the use of PowerShell commands, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The mention of switching permission modes is relevant but does not delve into principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -376,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:56:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific technical issue related to Project Server and Team Foundation Server, including troubleshooting steps and a solution involving permission management. While it touches on technical aspects, it primarily focuses on a specific problem rather than broader principles of software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions management. While it does touch on technical aspects, such as the need for proper permissions and the use of PowerShell commands, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that would align it more closely with the 'Technical Mastery' category. The depth of discussion is limited to a specific problem and its solution, rather than exploring overarching principles of software engineering.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

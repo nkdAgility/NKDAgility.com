@@ -490,11 +490,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T01:51:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:41:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses strategies for using Team Foundation Server (TFS) to streamline project management, process templates, and workflow optimization, which aligns with operational practices aimed at enhancing efficiency.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the use of Areas in Team Foundation Server (TFS) to optimise project management and streamline workflows, which aligns well with operational practices. It provides detailed insights into the pros and cons of using a single Team Project per client, emphasising process standardisation, efficiency, and the implications of configuration. The depth of discussion on practical applications and strategies for improving operational efficiency in TFS supports a high confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -628,11 +631,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T01:51:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:06:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for source control, project configurations, and the implications of using Areas for code management. The focus on version control practices in managing multiple projects within a single TFS Team Project aligns it closely with the category, especially regarding the organization of code and work items.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) for managing projects and version control, specifically focusing on the use of Areas and Team Projects. It provides insights into best practices for structuring projects, which aligns with modern source control methodologies. The depth of discussion includes pros and cons, implications for version control, and practical examples, indicating a strong focus on version control practices. However, it also touches on broader project management concepts, which slightly detracts from its primary focus on modern source control.",
     "level": "Secondary"
   },
   "Empirical Process Control": {

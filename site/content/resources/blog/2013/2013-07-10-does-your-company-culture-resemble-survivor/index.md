@@ -27,11 +27,11 @@ aliasesArchive:
 - /blog/does-your-company-culture-resemble-survivor-
 - /resources/blog/does-your-company-culture-resemble-survivor
 tags:
+- People and Process
 - Agile Transformation
 - Sociotechnical Systems
 - Agile Leadership
 - Agile Values and Principles
-- People and Process
 - Software Developers
 - Software Development
 - Team Collaboration

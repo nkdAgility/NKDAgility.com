@@ -382,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:28:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical issues related to using InRelease with Team Foundation Server 2013, providing detailed solutions and best practices, including a PowerShell script for resolving the connection error. It aligns with best practices in software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific issue with Team Foundation Server (TFS) and provides detailed solutions, including a PowerShell script. While it does touch on technical aspects and offers practical solutions, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that would typically fall under the 'Technical Mastery' category. The depth of technical detail is moderate, but the primary focus is on resolving a specific problem rather than exploring overarching technical excellence.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1063,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T18:50:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:53:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration and connection issues of Team Foundation Server (TFS) in relation to InRelease, providing solutions that involve system setup and configuration, including the use of PowerShell for configuration management.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses troubleshooting and solutions related to configuring Team Foundation Server (TFS) and InRelease, which directly aligns with system configuration. It provides specific instructions on how to set up connections correctly, including the use of PowerShell scripts for configuration management. The depth of discussion is substantial, detailing multiple solutions and their implications, which enhances its relevance to the category. However, while it is focused on configuration, it does not extensively cover broader best practices or optimisation strategies, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Product Strategy": {

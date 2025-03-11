@@ -592,11 +592,14 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T12:14:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses server naming conventions, which are relevant to system organization, but lacks a focus on SRE principles, practices, or the integration of development and operations.",
+    "final_score": 22.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, which is tangentially related to SRE principles, particularly in terms of system organisation and identification. However, it lacks direct mentions of SRE concepts such as reliability, scalability, or performance optimisation. The discussion is more focused on naming strategies rather than the broader implications of reliability engineering, thus resulting in a low confidence score.",
     "level": "Quaternary"
   },
   "Product Strategy": {
@@ -1090,12 +1093,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses server naming conventions with a specific example involving Microsoft operating systems, indicating that it is related to the Windows environment but is primarily focused on naming strategies rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, with a brief mention of a Microsoft operating system. However, it primarily focuses on naming strategies rather than installation, configuration, or troubleshooting of Windows itself. The alignment with Windows is weak, as the content does not delve into specific Windows features or management practices.",
+    "level": "Quaternary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

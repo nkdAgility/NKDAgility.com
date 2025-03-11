@@ -27,10 +27,10 @@ aliasesArchive:
 - /blog/tfs-build-reports-licencies-licx--unable-to-load-type
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 tags:
+- Software Development
+- Pragmatic Thinking
 - Continuous Integration
 - Install and Configuration
-- Pragmatic Thinking
-- Software Development
 - System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling

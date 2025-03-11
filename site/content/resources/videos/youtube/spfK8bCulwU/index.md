@@ -29,6 +29,7 @@ tags:
 - Agile Product Management
 - Product Owner
 - Scrum Product Development
+- Entrepreneurship
 - Agile Project Management
 - Professional Scrum
 sitemap:

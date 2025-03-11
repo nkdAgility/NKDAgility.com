@@ -33,9 +33,8 @@ categories:
 tags:
 - Practical Techniques and Tooling
 - Software Development
-- Application Lifecycle Management
 - Modern Source Control
-- Continuous Integration
+- Application Lifecycle Management
 - Operational Practices
 - Events and Presentations
 - Technical Excellence

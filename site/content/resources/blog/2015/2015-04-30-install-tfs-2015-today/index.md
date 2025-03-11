@@ -24,7 +24,7 @@ aliasesArchive:
 - /resources/blog/install-tfs-2015-today
 tags:
 - Install and Configuration
-- System Configuration
+- Windows
 categories: []
 preview: nakedalm-experts-visual-studio-alm-11-11.png
 

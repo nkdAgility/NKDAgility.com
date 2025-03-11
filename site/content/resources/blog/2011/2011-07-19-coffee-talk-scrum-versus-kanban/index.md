@@ -31,6 +31,7 @@ tags:
 - Software Development
 - Agile Frameworks
 - Agile Project Management
+- Software Developers
 categories:
 - Social Technologies
 preview: metro-event-128-link-1-1.png

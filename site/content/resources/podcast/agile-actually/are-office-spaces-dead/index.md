@@ -15,8 +15,8 @@ slug: are-office-spaces-dead
 aliases:
 - /resources/HRq1a_8gAJF
 tags:
-- News and Reviews
 - People and Process
+- News and Reviews
 
 ---
 In this month's edition of Agile Actually, Martin and Simon explore the rise of remote work and whether working from the office, as we knew it, is dead.

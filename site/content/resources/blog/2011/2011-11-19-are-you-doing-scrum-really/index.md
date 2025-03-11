@@ -33,10 +33,10 @@ tags:
 - Scrum Master
 - Scrum Team
 - Software Development
-- Agile Planning
-- News and Reviews
 - People and Process
 - Professional Scrum
+- Software Developers
+- Team Performance
 categories:
 - Scrum
 - Social Technologies

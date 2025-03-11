@@ -28,11 +28,11 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- People and Process
 - Scrum Team
 - Agile Frameworks
 - Agile Project Management
 - Coaching
+- People and Process
 - Self Organisation
 - Team Performance
 - Pragmatic Thinking

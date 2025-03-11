@@ -556,11 +556,14 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-13T18:02:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:56:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the concept of Cycle Time within the context of Azure DevOps and its relation to Kanban strategies, including how Cycle Time is measured and its implications for workflow management.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses Cycle Time in the context of Azure DevOps and its relation to work item states, but it primarily focuses on visualisation strategies and board configurations rather than in-depth analysis or strategies for improving Cycle Time. While Cycle Time is mentioned and explained, it is not the primary focus of the content, which leans more towards practical implementation of a Caman strategy.",
     "level": "Secondary"
   },
   "Team Motivation": {
@@ -709,11 +712,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-13T18:03:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:19:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the implementation of Kanban strategies using Azure DevOps, which is relevant to software developers working within Agile and DevOps frameworks. It covers best practices for managing work, visualisation techniques, and the importance of collaboration among team members, aligning well with the key topics outlined for the category.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on using Azure DevOps to implement a Caman strategy, which is relevant to software developers working in Agile environments. It discusses the configuration of boards, work item states, and the importance of visualisation in a hybrid work setting, all of which are pertinent to the role of software developers. However, while it touches on Agile principles and tools, the depth of discussion on broader Agile methodologies and developer collaboration is somewhat limited, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Azure Boards": {

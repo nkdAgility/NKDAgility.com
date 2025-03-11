@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T23:03:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a TFS Integration Platform Adapter, which is directly related to Azure DevOps functionalities, particularly in the context of work item tracking and migration processes.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the creation of a TFS Integration Platform Adapter, which is directly related to Azure DevOps functionalities. It includes specific references to work item tracking, migration processes, and error handling within the context of TFS, which is part of Azure DevOps. The depth of technical detail provided about the implementation and troubleshooting of the adapter indicates a strong alignment with Azure DevOps practices, particularly in relation to CI/CD and work item management. However, the focus on specific implementation details may detract slightly from broader discussions on Azure DevOps as a whole.",
     "level": "Secondary"
   },
   "Personal": {
@@ -358,12 +361,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T23:03:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:22",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development and integration of a TFS Integration Platform Adapter, which is closely related to managing the lifecycle of software applications, particularly in the context of migration and updates of work items. It addresses aspects of application lifecycle management such as change management, integration of tools, and the handling of work item states, which are central to ALM practices.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses the development and integration of a TFS Integration Platform Adapter, which relates to the application lifecycle management process, particularly in the context of migration and updates of work items. It touches on aspects of deployment and maintenance, but lacks comprehensive coverage of all lifecycle stages and best practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",

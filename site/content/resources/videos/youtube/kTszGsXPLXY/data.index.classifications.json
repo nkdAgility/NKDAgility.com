@@ -361,11 +361,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T05:10:56",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T09:57:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the use of metrics such as cycle time to analyse and improve workflows, which aligns with the theme of throughput. However, it primarily focuses on the implementation of Kanban rather than throughput as a central topic.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the use of metrics, specifically cycle time, to analyse and improve workflows, which aligns with the concept of throughput. However, the primary focus is on introducing Kanban rather than a deep exploration of throughput itself. While it mentions measuring cycle time and using data to drive discussions, it lacks a comprehensive examination of throughput's significance or strategies for optimisation, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -559,11 +562,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T05:11:28",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:20:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses practical strategies for implementing Kanban in an organisation, emphasising the use of data analytics and workshops to improve workflow. While it primarily focuses on Kanban, it aligns with pragmatic thinking by highlighting real-world applications and problem-solving techniques relevant to Agile environments.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses practical strategies for implementing Kanban in an organisation, emphasising the importance of data analysis and team discussions to improve workflow. It aligns well with the core themes of pragmatic thinking by providing real-world applications of Kanban principles, highlighting the role of metrics in decision-making, and suggesting workshops to foster team collaboration. However, while it touches on Agile concepts, it lacks a deeper exploration of the complexities and uncertainties typically associated with project management, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {

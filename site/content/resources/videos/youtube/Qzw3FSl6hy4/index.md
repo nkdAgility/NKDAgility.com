@@ -30,7 +30,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Discovery
 - People and Process
 resourceTypes:
 - video

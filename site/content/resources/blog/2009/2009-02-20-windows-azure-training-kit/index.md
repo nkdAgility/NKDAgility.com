@@ -25,6 +25,7 @@ aliasesArchive:
 tags:
 - Products and Books
 - Events and Presentations
+- News and Reviews
 preview: metro-cloud-azure-link-3-1.png
 categories: []
 

@@ -29,10 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - Product Delivery
 - Working Software
 - Agile Project Management
-- Agile Frameworks
 - Agile Philosophy
 - Agile Planning
 - Agile Strategy

@@ -33,9 +33,9 @@ sitemap:
 tags:
 - People and Process
 - Coaching
+- Continuous Learning
 - Pragmatic Thinking
 - Personal
-- Continuous Learning
 resourceTypes:
 - video
 categories:

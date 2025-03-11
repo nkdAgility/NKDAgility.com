@@ -358,11 +358,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T21:53:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:37:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of upgrading a process template in Team Foundation Server (TFS), which is a key aspect of managing the application lifecycle, particularly in the context of deployment and maintenance stages. It includes detailed steps for managing work items, queries, and reports, which are integral to application lifecycle management practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the process of upgrading a process template in a Team Foundation Server (TFS) environment, which is relevant to Application Lifecycle Management (ALM). It touches on aspects such as managing work items, queries, and reports, which are part of the application lifecycle. However, the discussion lacks a comprehensive exploration of the entire lifecycle stages and best practices, focusing instead on specific technical steps. Therefore, while it aligns with ALM, it does not provide a deep or broad enough discussion to warrant a higher confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -385,12 +388,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T22:41:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:02:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the technical processes involved in upgrading a process template in Team Foundation Server, detailing methodologies, commands, and practices related to software lifecycle management and engineering excellence.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading a process template in TFS, detailing specific steps and commands involved. It discusses best practices for managing work items, queries, and reports, which aligns with the principles of software craftsmanship. However, while it provides a good level of detail, it lacks broader discussions on software design principles or methodologies that would enhance its alignment with the 'Technical Mastery' category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

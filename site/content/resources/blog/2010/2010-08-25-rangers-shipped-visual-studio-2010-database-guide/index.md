@@ -25,11 +25,11 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Products and Books
-- Modern Source Control
-- Technical Mastery
 - Install and Configuration
 - Software Development
 - Application Lifecycle Management
+- Modern Source Control
+- Technical Mastery
 categories:
 - DevOps
 - Engineering Excellence

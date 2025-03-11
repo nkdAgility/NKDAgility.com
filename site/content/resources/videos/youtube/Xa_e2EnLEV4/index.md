@@ -35,6 +35,7 @@ sitemap:
 tags:
 - People and Process
 - Personal
+- Transparency and Accountability
 resourceTypes:
 - video
 categories: []

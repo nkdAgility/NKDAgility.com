@@ -31,13 +31,13 @@ tags:
 - Organisational Agility
 - Agile Project Management
 - Empirical Process Control
+- Market Adaptability
 - People and Process
 - Agile Values and Principles
 - Business Agility
 - Change Management
 - Continuous Learning
 - Hypothesis Driven Development
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

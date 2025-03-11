@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 tags:
 - Software Development
+- Pragmatic Thinking
 - Application Lifecycle Management
 - Decision Making
-- Pragmatic Thinking
 - Practical Techniques and Tooling
 - Technical Mastery
 - Azure DevOps

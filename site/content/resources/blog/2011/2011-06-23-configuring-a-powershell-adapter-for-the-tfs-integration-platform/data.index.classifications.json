@@ -793,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T22:42:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for integrating TFS with Perforce, highlighting the use of PowerShell as a flexible tool. It focuses on real-world problem-solving techniques and configurations necessary for effective migration, making it highly relevant to pragmatic thinking in Agile contexts.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical problem-solving strategies for integrating TFS with Perforce using PowerShell, which aligns with pragmatic thinking. It highlights adaptability and real-world applications of DevOps principles, particularly in configuring the TFS Integration Platform. However, while it provides some depth in terms of configuration and execution, it lacks extensive case studies or evidence-based management practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1063,12 +1066,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T22:42:10",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T10:37:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, detailing the processes, methodologies, and settings involved in system setup and integration. It discusses best practices for configuration settings, the use of PowerShell scripts, and the management of migration sources, which align closely with the key topics of system configuration.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on configuring a PowerShell adapter for the TFS Integration Platform, which directly relates to system configuration. It discusses the setup process, configuration files, and the use of PowerShell scripts to manage data migration between systems. The depth of discussion includes specific code examples, configuration settings, and practical steps for installation and execution, aligning well with the key topics of system configuration. The content does not deviate into unrelated areas, maintaining a strong focus on the technical aspects of configuring systems.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

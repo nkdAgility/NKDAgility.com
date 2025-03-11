@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Increment
-- People and Process
 - Agile Product Operating Model
 - Agile Project Management
 - Agile Values and Principles
@@ -33,6 +32,7 @@ tags:
 - Empirical Process Control
 - Enterprise Agility
 - Large Scale Agility
+- Market Adaptability
 categories:
 - Social Technologies
 - Engineering Excellence

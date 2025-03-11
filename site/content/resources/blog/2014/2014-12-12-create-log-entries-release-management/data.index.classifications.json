@@ -385,12 +385,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T23:31:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:23:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical challenges and solutions related to creating log entries in Release Management, focusing on scripting practices and output management in PowerShell, which aligns with software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses specific technical challenges related to creating log entries in Release Management, which aligns with the principles of software craftsmanship and improving code quality. However, while it provides some depth in terms of troubleshooting and scripting, it lacks a broader discussion on best practices or methodologies that would elevate it to a higher level of technical mastery. The focus is primarily on a personal experience rather than a comprehensive exploration of technical principles.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -592,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T23:32:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:48:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of creating log entries in Release Management, which is a key aspect of software deployment and development practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical issues encountered while creating a release pipeline in a software development context, specifically focusing on logging outputs during deployment. It mentions specific commands and scripting practices relevant to PowerShell, which aligns with software development methodologies. However, the narrative includes personal anecdotes and experiences that detract from a purely technical focus, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {

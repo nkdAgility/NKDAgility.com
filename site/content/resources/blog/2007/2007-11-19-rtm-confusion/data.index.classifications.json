@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses confusion regarding the installation and availability of Visual Studio 2008 components, which relates to installation and configuration, but it is primarily focused on the author's personal experience and questions rather than providing clear, actionable instructions.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily expresses confusion regarding the availability of specific software components related to Visual Studio 2008, particularly Team Explorer and Team Suite. While it touches on installation-related issues, such as the need for Team Foundation Server and the .NET 3.5 redistributable, it lacks detailed installation procedures or configuration best practices. The discussion is more about seeking clarification than providing actionable instructions, which diminishes its alignment with the category's core themes.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -844,12 +847,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses issues related to finding and integrating Team Explorer with Visual Studio 2008 and Team Foundation Server, which are relevant to source control practices, but the primary focus is on confusion regarding downloads and installation, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses confusion regarding the availability of Visual Studio 2008 components, specifically Team Explorer and Team Foundation Server. While it touches on source control indirectly by mentioning Team Foundation Server, it does not delve into any modern source control practices, methodologies, or strategies. The focus is more on installation issues rather than version control principles or collaboration workflows.",
+    "level": "Quaternary"
   },
   "Increment": {
     "category": "Increment",

@@ -382,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T18:25:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:28:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses technical issues and solutions regarding the configuration of InRelease and Team Foundation Server, focusing on permissions and access management, which are aspects of software engineering practices.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses a technical issue related to configuring InRelease with Team Foundation Server, focusing on permissions and access management. While it does touch on aspects of software engineering, such as service accounts and command-line operations, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that would typically fall under the 'Technical Mastery' category. The depth of the discussion is moderate, providing a solution to a specific problem but not exploring the underlying principles of software quality or architecture.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1060,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T18:25:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:53:35",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring InRelease with Team Foundation Server, addressing permission issues and providing technical steps to resolve them. It aligns closely with system configuration processes and best practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the configuration of InRelease with Team Foundation Server (TFS), detailing specific permissions and account settings necessary for proper functionality. It explicitly mentions the need for certain permissions and provides a command-line solution to add an account to the 'Team Foundation Service Accounts' group, which is a direct aspect of system configuration. The discussion aligns well with the core themes of system configuration, such as best practices for software installation and configuration, and troubleshooting common configuration issues. The depth of the discussion is substantial, as it includes error messages, possible reasons for connection failures, and a detailed solution, indicating a thorough exploration of the topic.",
     "level": "Secondary"
   },
   "Product Strategy": {

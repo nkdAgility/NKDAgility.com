@@ -340,12 +340,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation of Visual Studio 2010 Beta 1, which is a product update relevant to technology, but it primarily focuses on the installation process rather than providing a broader review or industry news.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Beta 1, which is more of a technical tutorial than a news or review piece. While it mentions the product and provides some insights into its features, it lacks a broader discussion on industry trends or evaluations that would align it with the 'News and Reviews' category. The content does not provide substantial commentary or analysis that would inform readers about the impact of this release on Agile or DevOps practices.",
+    "level": "Quaternary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1111,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:43:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily focuses on installing Visual Studio 2010, which runs on Windows, it does not provide detailed guidance on Windows-specific topics such as configuration, troubleshooting, or system updates.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the installation process of Visual Studio 2010, which is a software application that runs on the Windows operating system. While it does not explicitly focus on Windows itself, the installation of Visual Studio is inherently tied to the Windows environment. The discussion includes details about the installation options and improvements over previous versions, which aligns with the category's focus on installation procedures. However, it lacks broader discussions on Windows configuration, troubleshooting, or updates, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {

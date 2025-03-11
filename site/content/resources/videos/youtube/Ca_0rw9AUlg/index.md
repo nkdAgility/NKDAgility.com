@@ -35,9 +35,9 @@ tags:
 - Systems Thinking
 - Organisational Change
 - Sociotechnical Systems
+- Pragmatic Thinking
 - Change Management
 - Complexity Thinking
-- Pragmatic Thinking
 - Organisational Culture
 resourceTypes:
 - video

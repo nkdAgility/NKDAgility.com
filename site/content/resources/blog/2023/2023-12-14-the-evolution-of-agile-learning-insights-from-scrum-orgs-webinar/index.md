@@ -31,13 +31,13 @@ tags:
 - Discovery and Learning
 - Events and Presentations
 - People and Process
-- Change Management
 - Continuous Learning
-- Agile Frameworks
 - Pragmatic Thinking
 - Coaching
+- Agile Frameworks
 - Products and Books
 - Agile Transformation
+- Change Management
 categories:
 - Social Technologies
 - Scrum

@@ -274,12 +274,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T07:25:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:14:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the interplay between motivation and discipline within Agile and Scrum environments, focusing on how these human factors contribute to successful Agile transformations.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on the concepts of motivation and discipline, which are relevant to human behaviour in a work context. However, it lacks explicit discussions on team dynamics, structured methodologies, or processes that enhance productivity. The focus is more on individual attributes rather than the interplay between people and structured processes, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -292,12 +295,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T07:25:31",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the relationship between discipline and motivation in the context of Agile and Scrum, applying Agile principles to successful project transformation.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-11T11:37:14",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 9.0,
+    "reasoning": "The content primarily discusses the concepts of motivation and discipline without any direct reference to Agile Project Management principles, methodologies, or practices. It lacks specific mentions of agile frameworks, roles, or techniques, resulting in a very low confidence score for alignment with the category.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",

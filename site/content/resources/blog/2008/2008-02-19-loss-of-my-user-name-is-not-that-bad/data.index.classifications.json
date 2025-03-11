@@ -316,12 +316,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:47:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of the 'System.DirectoryServices.AccountManagement' assembly in .NET for accessing Active Directory, which relates to engineering practices in software development. However, it primarily focuses on specific implementation details rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of the 'System.DirectoryServices.AccountManagement' assembly in .NET for accessing Active Directory, which relates to technical practices in software development. However, it lacks a broader discussion on methodologies or principles that enhance agility or quality in engineering practices. The focus is primarily on specific code implementations rather than on overarching themes of technical excellence such as TDD, CI/CD, or modular architecture.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -370,11 +373,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the setup and configuration of Active Directory in .NET applications, which relates to system configuration practices. However, the primary focus is on code usage rather than broader configuration principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of the 'System.DirectoryServices.AccountManagement' namespace in .NET for accessing and manipulating Active Directory objects, which relates to system configuration in terms of user authentication and security management. However, it lacks a comprehensive exploration of configuration methodologies or best practices, focusing instead on specific code examples and personal insights. This results in a moderate confidence score, as it touches on relevant topics but does not delve deeply into the broader principles of system configuration.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {

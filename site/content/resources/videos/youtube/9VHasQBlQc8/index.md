@@ -34,10 +34,10 @@ tags:
 - Agile Values and Principles
 - Agile Leadership
 - Organisational Culture
-- Team Collaboration
-- Personal
 - Team Motivation
+- Team Collaboration
 - Team Performance
+- Personal
 resourceTypes:
 - video
 categories:

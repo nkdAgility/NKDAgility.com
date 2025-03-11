@@ -793,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:39:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides a detailed account of troubleshooting and problem-solving in a complex TFS upgrade scenario, illustrating practical strategies and the importance of real-world application, which aligns well with pragmatic thinking.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed account of a real-world problem encountered during a TFS upgrade, showcasing practical problem-solving strategies and the application of experience-based decision-making. It discusses specific issues faced, the steps taken to resolve them, and the eventual decision to abandon the repaired database due to potential future problems. This aligns well with the core themes of pragmatic thinking, particularly in the context of navigating complexity and uncertainty in project management. The depth of discussion is significant, as it includes technical details and considerations that reflect a pragmatic approach to problem-solving.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1117,11 +1120,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T12:04:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the upgrade and troubleshooting of TFS 2010, which is a product that runs on Windows. While it is primarily about TFS, it intersects with Windows environment management and issues that might arise during installation and servicing in a Windows context.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) 2010, which operates within the Windows environment. It includes specific references to hotfixes and patches that are relevant to Windows, as well as troubleshooting steps that are directly applicable to Windows users. The depth of discussion is significant, detailing the upgrade process, problems encountered, and solutions attempted, which aligns well with the core themes of the Windows category. However, while the content is focused on Windows, it is somewhat specific to TFS and may not cover broader Windows operating system topics extensively.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

@@ -25,6 +25,7 @@ duration: 243
 isShort: false
 tags:
 - People and Process
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.4

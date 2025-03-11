@@ -250,11 +250,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T23:39:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:23:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the setup and management of a release management environment in Azure, which is directly related to the deployment phase of product delivery. It covers aspects of creating a standard environment, automated deployment, and the use of tools that facilitate the delivery of software products.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on creating a standard environment for release management in Azure, which directly relates to the deployment phase of product delivery. It discusses the setup of various tools and environments that facilitate the deployment of software, aligning well with the methodologies and practices involved in delivering usable software products. The mention of automated deployment, resource management, and application insights indicates a strong alignment with product delivery principles. However, while the content is detailed, it lacks a broader discussion on iterative development or cross-functional team roles, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -295,11 +298,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T23:39:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:48:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation of a standard environment for release management using Azure services, specifically mentioning Visual Studio Online, Release Management, and Azure configurations, which are central to Azure DevOps functionalities.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on creating a standard environment for release management using Azure, detailing specific Azure services like Visual Studio Online, Release Management, and Application Insights. It discusses the setup and configuration of these services, which aligns closely with Azure DevOps functionalities. The depth of discussion is substantial, providing insights into the practical implementation of Azure DevOps tools, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Personal": {

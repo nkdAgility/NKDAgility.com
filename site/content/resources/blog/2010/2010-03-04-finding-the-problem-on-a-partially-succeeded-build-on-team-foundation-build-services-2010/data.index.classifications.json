@@ -358,11 +358,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T01:33:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:41:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of identifying and resolving issues in a build within the context of Team Foundation Server, which is a tool used in Application Lifecycle Management. It covers aspects of bug tracking, code review, and integration with Agile practices, making ALM a central theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses troubleshooting a build failure in Team Foundation Build Services, which is related to the application lifecycle, particularly in the context of deployment and maintenance. However, it lacks a comprehensive exploration of the entire application lifecycle management process, such as governance, compliance, and risk management strategies. While it touches on creating a bug in the backlog, it does not delve deeply into best practices or tools for application lifecycle management, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -874,11 +877,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T01:39:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:07:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses how to troubleshoot and resolve issues in a software build process, focusing on functional software quality and practical steps to ensure software works correctly in a development environment.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses troubleshooting a build failure and the implications of code quality, which are relevant to working software. It touches on best practices like code reviews and bug tracking, aligning with the category's focus on delivering functional software. However, the discussion is primarily technical and lacks a broader exploration of working software principles, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {

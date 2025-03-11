@@ -250,11 +250,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T19:18:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:30:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the methodologies and practices involved in automated deployment and testing, which are central to the product delivery process. It covers aspects such as standard environments, deployment pipelines, and the integration of testing within the deployment process, aligning well with the key topics of product delivery.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the methodologies and practices related to automated deployment and testing within the context of software product delivery. It covers the setup of standard environments, the importance of consistent deployment mechanisms, and the integration of testing within the deployment pipeline, all of which are core aspects of product delivery. The depth of discussion on deployment strategies and the use of tools like Nuget and PowerShell scripts further solidifies its relevance to the category.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -295,11 +298,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:18:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:55:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of automated deployment and testing within Visual Studio Team Foundation Server, which is a component of Azure DevOps. It covers the setup of Standard Environments, deployment pipelines, and integration with tools like NuGet, aligning closely with Azure DevOps functionalities.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the implementation of automated deployment and testing within Visual Studio Team Foundation Server (TFS), which is a component of Azure DevOps. It provides detailed insights into creating and managing Standard Environments, which directly relates to CI/CD practices in Azure DevOps. The mention of deployment pipelines, automated testing, and integration with tools like NuGet aligns well with Azure DevOps functionalities. However, while the content is rich in detail, it does not explicitly cover all Azure DevOps services or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {

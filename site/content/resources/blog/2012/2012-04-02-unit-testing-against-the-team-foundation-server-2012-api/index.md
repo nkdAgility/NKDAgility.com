@@ -23,14 +23,14 @@ aliasesArchive:
 - /unit-testing-against-the-team-foundation-server-2012-api
 - /resources/blog/unit-testing-against-the-team-foundation-server-2012-api
 tags:
+- Software Development
 - Technical Excellence
 - Practical Techniques and Tooling
 - Test Driven Development
-- Automated Testing
 - Technical Mastery
 - Test First Development
-- Software Development
 - Test Automation
+- Automated Testing
 - Engineering Practices
 - Pragmatic Thinking
 categories:

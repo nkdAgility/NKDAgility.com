@@ -23,7 +23,6 @@ aliasesArchive:
 - /live-framework
 - /resources/blog/live-framework
 tags:
-- System Configuration
 - Practical Techniques and Tooling
 - Software Development
 preview: metro-cloud-azure-link-2-2.png

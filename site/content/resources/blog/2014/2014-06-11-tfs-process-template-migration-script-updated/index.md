@@ -29,10 +29,10 @@ tags:
 - System Configuration
 - Operational Practices
 - Software Development
-- Application Lifecycle Management
-- Pragmatic Thinking
 - Technical Mastery
 - Troubleshooting
+- Pragmatic Thinking
+- Application Lifecycle Management
 categories:
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png

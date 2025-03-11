@@ -649,11 +649,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to customizing work item tracking in Team Foundation Server (TFS), which is closely related to Azure Boards and its functionalities in managing Agile projects.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue encountered while customising a process template in Azure Boards, including the handling of work items and the importance of the 'Team Field'. It provides a detailed account of troubleshooting a bug related to work item creation, which aligns with the functionalities of Azure Boards. However, while it touches on relevant topics, the focus is primarily on a specific technical issue rather than a broader exploration of Azure Boards' features or best practices.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -1060,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T11:53:56",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T10:26:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content discusses customizing a process template in Team Foundation Server (TFS), including configuration issues and solutions related to work item tracking, which are directly relevant to system configuration practices and methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to configuring a process template in TFS (Team Foundation Server), which directly relates to system configuration. It details the steps taken to troubleshoot a configuration error, including the use of developer tools and the identification of a bug related to field requirements in work item definitions. The discussion aligns well with the core themes of system configuration, such as troubleshooting common configuration issues and ensuring proper setup for optimal performance. However, while it provides a good level of detail, it does not extensively cover broader best practices or strategies for system optimisation, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Product Strategy": {

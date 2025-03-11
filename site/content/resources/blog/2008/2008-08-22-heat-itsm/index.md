@@ -23,8 +23,8 @@ aliasesArchive:
 - /heat-itsm
 - /resources/blog/heat-itsm
 tags:
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - Products and Books
 categories:
 - Engineering Excellence

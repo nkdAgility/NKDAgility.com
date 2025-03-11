@@ -30,13 +30,13 @@ tags:
 - People and Process
 - Agile Product Operating Model
 - Agile Project Management
-- Product Delivery
 - Product Owner
 - Agile Philosophy
 - Agile Product Management
 - Agile Strategy
 - Agile Transformation
-- Business Agility
+- Organisational Agility
+- Scrum Team
 categories:
 - Product Management
 - Scrum

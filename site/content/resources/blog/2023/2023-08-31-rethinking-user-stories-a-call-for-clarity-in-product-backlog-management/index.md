@@ -32,10 +32,10 @@ tags:
 - Transparency
 - Product Delivery
 - Scrum Product Development
+- Software Development
 - Agile Project Management
 - Pragmatic Thinking
 - Product Owner
-- Software Development
 - Agile Product Management
 - People and Process
 categories:

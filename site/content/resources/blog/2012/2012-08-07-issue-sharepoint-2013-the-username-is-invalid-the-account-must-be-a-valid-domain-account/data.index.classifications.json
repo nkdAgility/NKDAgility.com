@@ -376,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:33:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring SharePoint and offers a solution using PowerShell commands, which pertains to technical practices in software engineering, but it primarily focuses on specific SharePoint issues rather than overarching principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific technical issue related to SharePoint 2013 configuration, providing a solution through PowerShell commands. While it does touch on technical aspects, such as the limitations of SharePoint in non-domain environments and the use of SQL Server, it lacks a broader discussion on software craftsmanship, best practices, or principles of clean code. The depth of the solution is practical but does not delve into methodologies or principles that would elevate it to a discussion of technical mastery.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1108,12 +1111,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:58:33",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring SharePoint 2013, which involves using PowerShell commands and relates to the Windows environment. However, the primary focus is on SharePoint rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses an issue related to SharePoint 2013, which is a software application that runs on Windows servers. While it touches on configuration and troubleshooting aspects relevant to Windows environments, the focus is more on SharePoint rather than Windows itself. The mention of PowerShell commands indicates some alignment with Windows management, but the depth of discussion is limited to SharePoint-specific solutions rather than broader Windows operating system topics.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

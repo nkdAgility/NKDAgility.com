@@ -30,9 +30,9 @@ tags:
 - Business Agility
 - Organisational Change
 - Change Management
-- Market Adaptability
 - Resilience and Change
 - Enterprise Agility
+- Market Adaptability
 categories:
 - Leadership
 - Social Technologies

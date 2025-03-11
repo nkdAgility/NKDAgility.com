@@ -27,10 +27,10 @@ aliasesArchive:
 - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 - /resources/blog/benefits-visual-studio-online-enterprise
 tags:
-- Practical Techniques and Tooling
-- Application Lifecycle Management
 - Azure DevOps
+- Practical Techniques and Tooling
 - Products and Books
+- Application Lifecycle Management
 - Release Management
 - Software Development
 - Organisational Agility

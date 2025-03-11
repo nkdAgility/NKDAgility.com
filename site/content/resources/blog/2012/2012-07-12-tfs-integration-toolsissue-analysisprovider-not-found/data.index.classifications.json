@@ -1057,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:09:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:59:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses an issue related to integrating TFS Integration Tools and addresses a specific problem with system configuration regarding .NET framework versions and application settings. It provides insights into troubleshooting a common configuration issue, making it relevant to the key topics of system configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to the configuration of TFS Integration Tools, particularly focusing on a problem with the AnalysisProvider not being found due to .NET framework compatibility. It provides a workaround that involves changing application settings, which aligns with system configuration practices. However, while it touches on configuration aspects, the depth of discussion is somewhat limited to a specific error and its resolution, rather than a broader exploration of system configuration principles.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1111,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:09:53",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:34:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses a specific issue related to TFS Integration Tools that has implications for Windows-based application settings, particularly concerning .NET Framework versions. While the primary focus is on a specific technical issue, it is closely related to Windows software management and configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to TFS Integration Tools, which operates within the Windows environment. It mentions .NET Framework versions, which are relevant to Windows applications. However, the primary focus is on troubleshooting a specific error rather than broader Windows installation, configuration, or management topics. While there are relevant mentions of Windows-related technologies, the depth of discussion is limited to a specific problem without extensive exploration of Windows as an operating system.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

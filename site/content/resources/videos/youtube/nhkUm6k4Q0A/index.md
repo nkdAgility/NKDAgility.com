@@ -31,6 +31,7 @@ sitemap:
 tags:
 - People and Process
 - Coaching
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

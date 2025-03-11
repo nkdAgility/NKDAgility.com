@@ -31,12 +31,12 @@ tags:
 - Product Backlog
 - Software Development
 - Professional Scrum
-- Software Developers
 - Agile Frameworks
-- Agile Planning
 - Agile Project Management
 - Azure Boards
 - Pragmatic Thinking
+- Azure DevOps
+- Practical Techniques and Tooling
 categories:
 - Scrum
 - Social Technologies

@@ -28,14 +28,14 @@ isShort: false
 tags:
 - Complexity Thinking
 - Pragmatic Thinking
+- Software Development
 - Code and Complexity
 - Continuous Delivery
 - People and Process
 - Product Delivery
-- Engineering Practices
 - Software Developers
+- Engineering Practices
 - Technical Excellence
-- Working Software
 resourceTypes:
 - video
 sitemap:

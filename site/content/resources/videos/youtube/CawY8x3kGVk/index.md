@@ -35,11 +35,11 @@ sitemap:
 tags:
 - People and Process
 - Scrum Team
+- Software Development
 - Agile Project Management
 - Software Developers
 - Technical Leadership
 - Pragmatic Thinking
-- Software Development
 - Agile Frameworks
 - Self Organisation
 - Agile Product Management

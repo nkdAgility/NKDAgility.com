@@ -1057,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T22:24:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:22:25",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the planning and considerations necessary for upgrading Team Foundation Server (TFS), which involves system configuration aspects such as schema changes, database management, and upgrade strategies.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the upgrade process for Team Foundation Server (TFS) 2015, which involves planning and executing a system configuration change. It mentions the need for database restoration, trial upgrades, and considerations for disk space, all of which align with system configuration practices. However, while it touches on important aspects of configuration, such as schema changes and planning, it lacks a comprehensive exploration of best practices or detailed methodologies, which affects the depth of discussion.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1210,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:48:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process for Team Foundation Server (TFS), which is relevant to software developers, particularly in the context of version control and project management tools. However, it does not delve into Agile or DevOps methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the upgrade process for Team Foundation Server (TFS) 2015, which is relevant to software developers, particularly in the context of version control and project management tools. However, it lacks a direct focus on Agile or DevOps methodologies, and does not delve into best practices or the role of developers in these frameworks. The discussion is primarily about the technical aspects of upgrading TFS rather than the broader implications for software development practices.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

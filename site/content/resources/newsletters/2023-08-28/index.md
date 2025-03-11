@@ -25,12 +25,12 @@ tags:
 - Discovery and Learning
 - Scrum Team
 - Continuous Learning
-- Events and Presentations
 - News and Reviews
 - Product Owner
 - Products and Books
-- Scrum Master
 - Customer Retention
+- Customer Satisfaction
+- Software Developers
 
 ---
 Greetings,

@@ -27,13 +27,13 @@ duration: 299
 isShort: false
 tags:
 - Scrum Master
+- Team Performance
 - Agile Product Management
 - Agile Project Management
 - Scrum Team
 - Agile Frameworks
 - People and Process
 - Software Development
-- Team Performance
 - Pragmatic Thinking
 - Software Developers
 sitemap:

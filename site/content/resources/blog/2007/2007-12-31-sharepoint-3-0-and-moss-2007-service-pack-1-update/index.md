@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 - Windows
 - Practical Techniques and Tooling
 categories: []

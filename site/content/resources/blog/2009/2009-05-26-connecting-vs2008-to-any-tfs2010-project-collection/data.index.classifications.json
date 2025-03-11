@@ -286,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting Visual Studio 2008 to TFS 2010, which is related to Azure DevOps services, but the primary focus is on the connection process rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses connecting Visual Studio 2008 to TFS 2010, which is related to Azure DevOps services, specifically Team Foundation Server (TFS). However, it lacks a broader discussion on Azure DevOps functionalities, methodologies, or best practices. The focus is primarily on a technical connection rather than the overall suite of Azure DevOps tools or practices, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -1210,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:43:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses connecting Visual Studio to TFS, which is relevant to software developers, particularly in the context of using tools that may align with Agile and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses connecting Visual Studio 2008 to TFS 2010, which is a technical topic relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. While it mentions tools and some technical details, it does not delve into best practices, team dynamics, or the broader implications of these tools within Agile or DevOps contexts. Therefore, the confidence score reflects a moderate relevance to the category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

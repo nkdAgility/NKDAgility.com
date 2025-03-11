@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Product Owner
-- Accountability
 - People and Process
 - Scrum Product Development
 - Agile Project Management
@@ -37,6 +36,7 @@ tags:
 - Scrum Team
 - Professional Scrum
 - Software Development
+- Agile Frameworks
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png

@@ -628,11 +628,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T22:09:53",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T12:01:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 31,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content discusses branching and merging strategies, build configuration within Visual Studio 2010, and how source control integrates with development practices. These are significant aspects of modern source control, although the overall focus includes tool-specific usage.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses branching and merging strategies, which are key aspects of modern source control. It provides a good overview of how these practices integrate with build processes in Visual Studio 2010, aligning well with the core themes of the category. The depth of discussion on branching and merging, along with the mention of build configurations, indicates a strong focus on version control practices. However, the content is somewhat limited to Visual Studio 2010 and does not explore broader methodologies or tools extensively, which slightly reduces the overall confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -892,12 +895,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T22:09:53",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T10:36:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses branching and merging strategies and build configuration within Visual Studio 2010, which are essential components of Continuous Integration. However, it focuses primarily on Visual Studio's features and tools rather than the principles and practices of CI as a standalone topic.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses branching, merging, and build processes within Visual Studio 2010, which are relevant to Continuous Integration practices. However, it lacks explicit mention of CI principles or tools specifically designed for CI, such as Jenkins or Travis CI. The depth of discussion on build configuration and integration with source control indicates a moderate level of detail, but it does not fully explore the broader implications of CI on team collaboration or automated testing.",
+    "level": "Tertiary"
   },
   "Market Share": {
     "category": "Market Share",

@@ -382,11 +382,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:42:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:50:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration steps necessary to address a specific error in Team Foundation Server, including how to change server URLs, manage server names, and adjust settings to ensure correct operation. This directly aligns with system configuration practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) and addresses specific issues related to server name resolution and proxy settings, which are critical aspects of system configuration. It provides detailed steps for troubleshooting and modifying server settings, aligning well with the core themes of system optimisation and configuration management. The depth of discussion is substantial, as it includes specific commands and XML configurations necessary for resolving the issue, demonstrating a strong focus on practical configuration processes.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -589,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T21:42:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:15:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and configurations related to Team Foundation Server (TFS), which is directly connected to software development practices, including project creation and management processes.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses a specific error related to Team Foundation Server (TFS) and provides detailed steps to troubleshoot and resolve the issue. While it does touch on aspects of software development, such as server configuration and project creation, it lacks broader discussions on methodologies or best practices in software development. The focus is more on a technical issue rather than a comprehensive exploration of software development principles.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {

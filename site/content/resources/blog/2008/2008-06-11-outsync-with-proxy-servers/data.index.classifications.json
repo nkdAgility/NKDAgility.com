@@ -436,12 +436,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses modifying a configuration file for .NET applications to work with proxy servers, which aligns with technical practices but primarily focuses on a specific application scenario rather than broader principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a specific technical solution for configuring a .NET application to work with proxy servers, which aligns with the principles of software craftsmanship. However, it lacks broader discussions on best practices, code quality, or architectural principles, making it a secondary focus rather than a primary exploration of technical mastery.",
+    "level": "Quaternary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -688,11 +691,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mainly discusses configuring a .NET application to work behind a proxy server, which is a technical topic related to Windows environments, but does not focus primarily on the Windows operating system itself.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses a specific configuration related to a .NET application that may run on Windows, but it does not explicitly focus on Windows as an operating system. While it mentions a configuration file and proxy settings, the primary focus is on syncing contacts with Outlook and does not delve into broader Windows topics such as installation, troubleshooting, or system updates. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
     "level": "Tertiary"
   },
   "Product Strategy": {

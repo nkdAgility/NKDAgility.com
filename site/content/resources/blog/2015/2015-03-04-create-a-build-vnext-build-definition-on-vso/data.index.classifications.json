@@ -250,11 +250,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T22:34:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:22:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build definition in a new build system, which is a crucial aspect of the product delivery process, particularly in the context of continuous integration and deployment.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, which is a crucial aspect of the product delivery process. It discusses various tasks, configurations, and options that are directly related to the deployment and continuous integration aspects of software delivery. While it does not explicitly mention agile methodologies or iterative development, it aligns well with the core themes of product delivery, particularly in the context of deployment and build management. The depth of discussion on build tasks and configurations indicates a strong focus on practical application in the product delivery process.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -295,12 +298,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T22:34:09",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T11:48:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition within Azure DevOps, detailing specific features, tasks, and options available in the system, which aligns closely with Azure DevOps functionalities.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on creating a Build vNext definition within Azure DevOps (formerly VSO), discussing specific features, configurations, and tasks available in the build system. It directly mentions Azure DevOps and its functionalities, aligning well with the key topics of CI/CD implementation and best practices. The depth of discussion is substantial, covering various aspects of the build process, including task configurations and integration with Git repositories, which reinforces its relevance to the Azure DevOps category.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",

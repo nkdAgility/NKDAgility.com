@@ -181,12 +181,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content provides an update on the TFS Event Handler project, which aligns with industry news, but lacks broader context or analysis related to Agile or DevOps.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content provides an update on the TFS Event Handler project, which could be seen as a news item. However, it lacks a broader context regarding Agile or DevOps practices, and it does not offer a review or analysis of the tool's impact on the industry. The focus is primarily on bug fixes and updates rather than insights or evaluations that would guide practitioners.",
+    "level": "Quaternary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -901,11 +904,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions updates to a specific software project, addressing bugs and usability issues, which relates to aspects of working software, but it is primarily focused on an event handler project rather than broadly relevant concepts of working software.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses an update to the TFS Event Handler, mentioning bug fixes and a new release, which indicates a focus on delivering functional software. However, it lacks detailed discussion on the characteristics of working software, best practices, or customer feedback mechanisms, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test Automation": {

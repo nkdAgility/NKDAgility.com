@@ -33,10 +33,10 @@ sitemap:
 tags:
 - People and Process
 - Pragmatic Thinking
-- Agile Project Management
 - Agile Transformation
 - Software Development
 - Coaching
+- Agile Project Management
 - Agile Frameworks
 - Mentoring
 resourceTypes:

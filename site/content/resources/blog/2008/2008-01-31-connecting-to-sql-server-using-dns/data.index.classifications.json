@@ -1090,12 +1090,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:13:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses connecting to a SQL Server using DNS with specific reference to Windows authentication and tools related to Windows Server, but it primarily focuses on SQL Server rather than Windows OS features.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses connecting to SQL Server using DNS, which involves Windows Authentication and the use of the setspn tool, indicating a strong focus on Windows-related functionalities. The mention of Windows Server 2003 Admin Pack and the detailed steps for setting up SPNs align well with the core themes of installation, configuration, and troubleshooting within the Windows environment. However, while the content is relevant, it does not cover broader aspects of Windows management or optimisation, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1108,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T19:06:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:47:50",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the identification and resolution of connection issues related to SQL Server, including troubleshooting steps and methods for setting up SPNs for authentication.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on troubleshooting connectivity issues with SQL Server using DNS. It explicitly discusses the need for the SQL Server Browser service and SPN setup, which are critical for resolving authentication problems. The detailed steps provided for diagnosing the issue, including the conditions under which the connection fails or succeeds, align well with the core themes of troubleshooting. However, while the content is rich in practical advice, it could benefit from a more structured approach to problem-solving techniques and tools, which would enhance its depth of discussion.",
     "level": "Secondary"
   },
   "Entrepreneurship": {

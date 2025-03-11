@@ -385,12 +385,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T11:31:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:51:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the installation and configuration of the Release Management Client for Visual Studio, which relates to software delivery and deployment practices, a relevant aspect of technical mastery. However, it primarily focuses on installation instructions rather than broader engineering principles or practices.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Client for Visual Studio 2013, which is a technical task. However, it lacks a broader discussion on software craftsmanship, best practices, or principles of clean code. While it does touch on aspects of configuring a release pipeline, it does not delve into methodologies or practices that contribute to high-quality software development. Therefore, while there are relevant technical elements, the overall focus is more on installation rather than mastery of technical principles.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -961,11 +964,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T11:31:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:26:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the installation and configuration aspects of the Release Management Client, which is directly related to release management practices.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of the Release Management Client for Visual Studio 2013, which is directly related to release management practices. It discusses aspects of setting up a release pipeline, configuring environments, and user management, all of which align with the core themes of release management. However, while it provides practical details, it lacks a broader discussion on strategies or metrics related to release management, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Product Owner": {

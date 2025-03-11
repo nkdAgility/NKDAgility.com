@@ -24,11 +24,10 @@ aliasesArchive:
 - /resources/blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 tags:
 - Install and Configuration
-- Pragmatic Thinking
 - Troubleshooting
 - Practical Techniques and Tooling
 - Software Development
-- Operational Practices
+- Pragmatic Thinking
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

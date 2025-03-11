@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/blog/windows-communication-framework-evaluation
 tags:
 - Software Development
+- Windows
 preview: metro-binary-vb-128-link-1-1.png
 categories: []
 

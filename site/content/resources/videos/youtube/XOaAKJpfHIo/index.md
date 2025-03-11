@@ -34,10 +34,10 @@ tags:
 - Software Developers
 - People and Process
 - Pragmatic Thinking
-- Market Adaptability
-- Organisational Agility
 - Working Software
-- Agile Philosophy
+- Market Adaptability
+- Customer Retention
+- Organisational Agility
 resourceTypes:
 - video
 categories:

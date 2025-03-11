@@ -27,14 +27,14 @@ aliasesArchive:
 - /blog/big-scrum--are-you-doing-mechanical-scrum
 - /resources/blog/big-scrum-are-you-doing-mechanical-scrum
 tags:
+- Software Development
+- Agile Project Management
 - Agile Values and Principles
 - Professional Scrum
 - Scaling Scrum
 - Scrum Values
 - Agile Frameworks
-- Agile Project Management
 - Software Developers
-- Software Development
 - Agile Product Management
 - Agile Transformation
 categories:

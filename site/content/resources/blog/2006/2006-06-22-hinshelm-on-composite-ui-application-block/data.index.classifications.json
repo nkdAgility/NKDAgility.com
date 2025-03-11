@@ -850,12 +850,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving techniques related to the Composite UI Application Block and how to implement a ToolStripPanel UI Adapter. It provides specific code implementations and discusses real-world application of adapting existing components to enhance functionality.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a technical implementation of a UI adapter within the Composite UI Application Block (CAB). While it does touch on practical problem-solving by discussing two approaches to extend functionality, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The depth of the technical details is significant, but the overall alignment with the core themes of pragmatic thinking is limited, as it does not address adaptability or real-world applications in a project management context.",
+    "level": "Quaternary"
   },
   "MVP": {
     "category": "MVP",
@@ -868,11 +871,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:19:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses code implementation and adaptation techniques within a specific software framework (CAB) and includes best practices for creating UI adapters, which aligns closely with software craftsmanship and engineering practices.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed discussion on implementing a specific technical solution within the Composite UI Application Block (CAB), focusing on extending functionality through code. It explicitly mentions best practices in software design, such as inheritance and factory patterns, which align with the principles of clean code and software craftsmanship. The depth of the discussion is significant, as it includes code examples and explanations of the implementation process, demonstrating a strong grasp of technical concepts. However, it lacks broader discussions on topics like testing, continuous integration, or technical debt management, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Working Agreements": {

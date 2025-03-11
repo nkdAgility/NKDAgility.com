@@ -25,13 +25,12 @@ aliasesArchive:
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
-- People and Process
+- Miscellaneous
 - Practical Techniques and Tooling
 - Remote Working
 - Application Lifecycle Management
 - Azure Boards
 - Collaboration Tools
-- Miscellaneous
 - Sociotechnical Systems
 - Software Development
 

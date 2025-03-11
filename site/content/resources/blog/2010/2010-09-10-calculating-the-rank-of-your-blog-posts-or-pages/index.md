@@ -23,14 +23,7 @@ aliasesArchive:
 - /calculating-the-rank-of-your-blog-posts-or-pages
 - /resources/blog/calculating-the-rank-of-your-blog-posts-or-pages
 tags:
-- Software Development
-- Code and Complexity
-- Ability to Innovate
-- Discovery and Learning
 - Metrics and Learning
-- Practical Techniques and Tooling
-- Decision Making
-- Experimentation
 categories: []
 preview: metro-binary-vb-128-link-11-11.png
 

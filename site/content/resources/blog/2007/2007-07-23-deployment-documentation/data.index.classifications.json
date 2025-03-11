@@ -190,11 +190,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T21:31:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:51:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the deployment process, including the need for effective rollback strategies and vendor collaboration, which are central to product delivery.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the deployment process of a complex application, detailing the challenges and proposed solutions for managing deployments across multiple environments. It discusses the need for effective rollback mechanisms and the importance of vendor collaboration in delivering stable software, which aligns well with the core themes of product delivery. The depth of discussion on deployment strategies and the emphasis on quality assurance through controlled updates further supports a high confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -382,11 +385,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:43:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:16:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and processes of deploying and configuring a business application across multiple servers and environments. It emphasizes the need for a systematic approach to deployment, rollback strategies, and configuration management, which are central to system configuration discussions.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the deployment process and configuration of a complex application across multiple servers and environments. It mentions the need for tracking and controlling deployments, updating configuration files, and implementing rollback functions, which are all relevant to system configuration. However, while it touches on these aspects, the primary focus is on the deployment process and vendor interactions rather than a comprehensive exploration of system configuration methodologies. Therefore, while there is significant relevance, it does not fully meet the criteria for a primary focus on system configuration.",
     "level": "Secondary"
   },
   "Ability to Innovate": {

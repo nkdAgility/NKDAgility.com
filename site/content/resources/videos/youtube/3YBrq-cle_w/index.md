@@ -33,7 +33,7 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Software Development
-- Pragmatic Thinking
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

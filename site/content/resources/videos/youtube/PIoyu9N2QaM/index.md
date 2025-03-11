@@ -39,7 +39,6 @@ tags:
 - Professional Scrum
 - Agile Frameworks
 - Software Development
-- Accountability
 resourceTypes:
 - video
 categories:

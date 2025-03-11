@@ -28,6 +28,7 @@ aliasesArchive:
 - /resources/blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
 tags:
 - Troubleshooting
+- Windows
 preview: metro-SSWLogo-128-link-5-5.png
 categories: []
 

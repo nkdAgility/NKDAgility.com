@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-ctp1-imminent
 tags:
 - Troubleshooting
-- Software Development
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

@@ -27,10 +27,10 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Professional Scrum
-- Pragmatic Thinking
 - Software Development
 - Agile Transformation
 - People and Process
+- Pragmatic Thinking
 - Software Developers
 categories:
 - Scrum

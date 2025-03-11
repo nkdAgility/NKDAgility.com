@@ -23,12 +23,7 @@ aliasesArchive:
 - /introduction-to-visual-studio-11
 - /resources/blog/introduction-to-visual-studio-11
 tags:
-- Products and Books
-- Install and Configuration
 - News and Reviews
-- Practical Techniques and Tooling
-- Software Development
-- Events and Presentations
 categories: []
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 

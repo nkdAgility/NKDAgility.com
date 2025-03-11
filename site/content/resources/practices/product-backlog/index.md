@@ -25,7 +25,10 @@ card:
 categories:
 - Scrum
 tags:
-- Agile Planning
+- Agile Project Management
+- Professional Scrum
+- Scrum Product Development
+- Product Backlog
 
 ---
 ## What is a Product Backlog?

@@ -379,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:35:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integrating corporate IDs with Visual Studio 2012 Team Foundation Service and mentions aspects of account management and API integration, which aligns with software development practices, though it primarily focuses on a specific implementation rather than broader principles of technical mastery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the use of Live IDs with Visual Studio 2012 Team Foundation Service, which is more focused on user management and domain setup rather than software craftsmanship or engineering practices. While it touches on some technical aspects, such as API integration and user authentication, it lacks a deep exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1111,12 +1114,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:01:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content primarily discusses managing Live IDs and their integration with Visual Studio 2012 Team Foundation Service, which is used within the Windows ecosystem. While not entirely focused on Windows OS itself, it does touch on aspects relevant to Windows users, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses the use of Live IDs with Visual Studio 2012 Team Foundation Service, which is a specific application rather than the Windows operating system itself. While it mentions Windows Live IDs, the focus is on managing Live IDs and their integration with Visual Studio, rather than on Windows installation, configuration, or troubleshooting. The discussion lacks depth regarding Windows-specific features or issues, leading to a low confidence score in alignment with the Windows category.",
+    "level": "Quaternary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

@@ -175,12 +175,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:15:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily reviews a new search tool, Tafiti, and discusses its features and usability, which aligns with the review aspect of the category. However, it lacks a broader context of industry news or trends.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a personal review of the Tafiti search tool, which is a specific product rather than a broader industry update or trend. While it does provide insights into the tool's features and usability, it lacks a discussion on Agile or DevOps methodologies, and does not address industry news or reviews in a comprehensive manner. The review is more anecdotal and personal, which detracts from its alignment with the category's focus on industry relevance.",
+    "level": "Quaternary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1090,11 +1093,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:50:17",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Tafiti, a Microsoft search tool, and mentions using it on Virtual Workstations, which suggests a link to the Windows environment, but it does not offer detailed guidance or insights specifically on Windows as an operating system.",
+    "final_score": 52.0,
+    "reasoning": "The content discusses Tafiti, a search front end from Microsoft, which indicates a connection to the Windows operating system. However, the focus is primarily on the features of Tafiti rather than on Windows itself, such as installation, configuration, or troubleshooting. While it mentions the need for a good computer to run it and references virtual workstations, these points are not explored in depth. Overall, the content aligns with the Windows category but lacks a comprehensive discussion of Windows-specific topics.",
     "level": "Tertiary"
   },
   "Lean Principles": {

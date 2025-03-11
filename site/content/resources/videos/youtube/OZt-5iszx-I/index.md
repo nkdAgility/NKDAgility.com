@@ -31,12 +31,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Value Delivery
 - Customer Feedback Loops
 - Discovery and Learning
 - Product Delivery
 - Product Owner
 - Product Validation
-- Value Delivery
 - Agile Philosophy
 - Agile Planning
 - Agile Project Management

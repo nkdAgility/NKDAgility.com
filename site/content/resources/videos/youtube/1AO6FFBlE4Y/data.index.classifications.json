@@ -568,11 +568,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T12:12:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:49:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to poor quality code and its impacts on productivity, brand reputation, and engineering practices, aligning well with the themes of pragmatic thinking in Agile and DevOps contexts.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the practical implications of poor quality code and its impact on productivity, brand reputation, and overall project management. It provides real-world examples, such as the case of CrowdStrike and the Azure DevOps team, illustrating how addressing technical debt and improving engineering practices can lead to significant productivity gains and better outcomes. The focus on practical problem-solving strategies and the integration of lessons learned from experience aligns well with the core themes of Pragmatic Thinking. However, while the content is rich in examples and insights, it does not explicitly mention Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -721,11 +724,14 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-12T12:12:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:12:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the implications of poor quality code and the long-term costs associated with technical debt, including lost productivity and missed opportunities. It highlights the importance of addressing technical debt to improve team velocity and product quality, making it a central theme throughout the discussion.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the implications of poor quality code, which directly relates to technical debt. It highlights the costs associated with maintaining multiple versions of a product, the cognitive load on engineers, and the long-term impacts of past design decisions. The narrative includes specific examples of how addressing technical debt can lead to improved productivity and brand reputation, aligning well with the core themes of the category. The depth of discussion is significant, providing detailed insights into the consequences of neglecting technical debt and the benefits of remediation strategies.",
     "level": "Secondary"
   },
   "Scrum Values": {

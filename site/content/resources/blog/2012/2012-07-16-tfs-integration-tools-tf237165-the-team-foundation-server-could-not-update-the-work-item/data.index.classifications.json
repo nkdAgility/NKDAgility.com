@@ -214,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:59:05",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to TFS Integration Tools and provides a workaround, which touches on engineering practices, but it is primarily focused on a specific error rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS Integration Tools and provides a workaround for a configuration error. While it touches on technical aspects, such as mapping and validation errors, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is primarily on troubleshooting rather than on principles of technical excellence like TDD, CI/CD, or modular architecture.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -583,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:18:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific error related to the Team Foundation Server and provides a workaround, which falls under the context of software development practices and tools.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific error related to Team Foundation Server (TFS) integration tools, which is relevant to software development practices, particularly in the context of version control and work item management. It provides a workaround for a configuration error, demonstrating practical problem-solving within a software development environment. However, while it touches on relevant topics, the discussion lacks depth in broader software development methodologies or practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {

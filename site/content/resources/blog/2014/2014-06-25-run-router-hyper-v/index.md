@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/run-a-router-on-hyper-v
 - /resources/blog/run-router-hyper-v
 tags:
-- Windows
 - Install and Configuration
+- Windows
 - System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling

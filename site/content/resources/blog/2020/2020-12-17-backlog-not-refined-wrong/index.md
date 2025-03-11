@@ -34,6 +34,7 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Project Management
+- Definition of Ready
 categories:
 - Scrum
 - Social Technologies

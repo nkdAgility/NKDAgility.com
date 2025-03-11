@@ -286,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:07:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Team Foundation Server (TFS), which is part of the Azure DevOps suite, but primarily focuses on the installation process rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the installation of Team Foundation Server (TFS) 2010, which is a component of Azure DevOps. However, it lacks a broader discussion on Azure DevOps functionalities, methodologies, or best practices. The focus is on installation steps rather than the integration or use of Azure DevOps in a CI/CD context, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -1210,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:42:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on installing Team Foundation Server (TFS) which is relevant to software development tools, but it does not engage deeply with Agile or DevOps methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Foundation Server (TFS) and does not explicitly discuss the role of software developers within Agile or DevOps frameworks. While it mentions TFS, which is a tool relevant to developers, it lacks a discussion on best practices, methodologies, or the impact of Agile and DevOps on developer productivity. The content is more technical and procedural rather than thematic, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

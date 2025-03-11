@@ -289,11 +289,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T13:10:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:55:26",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban as a tool, which is relevant to Agile practices, but it does not focus on specific products or literature in depth.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses Kanban as a tool, which aligns with the category's focus on products that facilitate Agile practices. However, it lacks specific references to literature or detailed analysis of methodologies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
@@ -307,12 +310,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T13:10:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:18:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses transparency and continuous improvement, which are relevant to Value Stream Management, but it primarily focuses on Kanban as a tool rather than directly addressing the core principles of Value Stream Management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions transparency and continuous improvement, which are relevant to Value Stream Management, but it primarily focuses on Kanban as a tool rather than discussing the core principles or techniques of Value Stream Management. The discussion lacks depth and does not explicitly address value flow or waste elimination.",
+    "level": "Quaternary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",

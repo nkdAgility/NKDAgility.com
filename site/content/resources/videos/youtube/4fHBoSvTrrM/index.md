@@ -33,13 +33,13 @@ tags:
 - People and Process
 - Professional Scrum
 - Scrum Master
-- Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
+- Agile Frameworks
+- Software Development
 - Coaching
 - Personal
 - Scrum Team
-- Team Performance
 resourceTypes:
 - video
 layout: video

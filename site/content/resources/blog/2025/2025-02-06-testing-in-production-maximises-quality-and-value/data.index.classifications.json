@@ -538,11 +538,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-11T14:25:40",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T09:46:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 72.0,
-    "reasoning": "The content discusses audience-based deployment strategies and their application within Microsoft, specifically mentioning Windows and its deployment model. While the primary focus is on deployment practices and DevOps methodologies, Windows is a significant aspect of the discussion, making it a major but secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses audience-based deployment strategies and how Microsoft has implemented these strategies within its products, including Windows. While Windows is mentioned multiple times, the primary focus of the content is on deployment methodologies rather than specific Windows installation, configuration, or troubleshooting. The depth of discussion on Windows is moderate, as it provides insights into how Windows has adapted these strategies but lacks detailed guidance on managing the Windows environment itself.",
     "level": "Secondary"
   },
   "Sprint Review": {
@@ -925,11 +928,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-11T14:27:13",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T11:10:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses modern deployment strategies, including audience-based deployment and progressive delivery, which are central to effective release management practices. It addresses key aspects such as feedback loops, risk management, and continuous delivery, making it highly relevant to the category.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses modern release strategies, particularly audience-based deployment, which aligns closely with release management principles. It covers key aspects such as incremental feature releases, feedback loops, and the importance of real-time telemetry, all of which are central to effective release management. The depth of discussion is significant, providing detailed insights into practices that enhance release processes, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Test Driven Development": {

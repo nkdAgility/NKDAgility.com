@@ -1090,11 +1090,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:17:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content involves creating custom proxies for Windows Communication Foundation (WCF) services, which directly relates to development within the Windows environment. However, the primary focus is on a specific programming issue rather than broader Windows operating system topics.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses creating custom proxies for Windows Communication Foundation (WCF) services, which is a specific aspect of the Windows environment. However, the focus is primarily on the technical implementation rather than broader Windows topics such as installation, configuration, or troubleshooting. While it does mention Windows and relates to .NET, it lacks depth in discussing Windows as an operating system and does not cover key topics like system updates or performance optimisation.",
     "level": "Tertiary"
   },
   "Lean Principles": {
@@ -1225,12 +1228,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:52:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses a practical solution to a problem related to web services and custom proxies, showing a practical application that could align with pragmatic thinking, but the primary focus is on implementation rather than broader frameworks like Agile, Scrum, or DevOps.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a practical solution to a specific problem encountered with web services and WCF proxies, which aligns with pragmatic thinking. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve deeply into the complexities of project management or decision-making processes. The focus is primarily on a technical implementation rather than a comprehensive exploration of pragmatic strategies.",
+    "level": "Quaternary"
   },
   "Release Management": {
     "category": "Release Management",

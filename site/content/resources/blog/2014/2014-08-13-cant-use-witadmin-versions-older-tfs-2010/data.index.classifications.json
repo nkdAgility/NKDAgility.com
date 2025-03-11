@@ -586,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T09:57:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:24:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server (TFS), WITADMIN commands, and software version compatibility, which are relevant to software development practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific issue related to using WITADMIN with TFS versions, which is relevant to software development practices, particularly in the context of version control and migration processes. It provides a detailed account of troubleshooting and upgrading software, aligning with best practices in software development. However, while it touches on relevant topics, the primary focus is on a specific problem rather than broader methodologies or frameworks, which slightly limits its overall alignment and depth.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1171,11 +1174,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T09:57:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:49:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific technical issue encountered while using WITADMIN with TFS versions, detailing the steps taken to identify and resolve the problem, thus aligning well with troubleshooting.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed account of a specific troubleshooting scenario involving WITADMIN and TFS versions. It explicitly discusses the identification of an error message, the confusion surrounding version compatibility, and the steps taken to resolve the issue by updating the server. The narrative aligns closely with the core themes of troubleshooting, including diagnosing software issues and implementing solutions. The depth of discussion is significant, as it outlines the thought process and actions taken to resolve the problem, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Experimentation": {

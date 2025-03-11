@@ -29,12 +29,12 @@ aliasesArchive:
 tags:
 - News and Reviews
 - Products and Books
-- Software Development
 - Agile Project Management
+- Software Development
 - Scrum Master
 - Agile Frameworks
-- Pragmatic Thinking
 - People and Process
+- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

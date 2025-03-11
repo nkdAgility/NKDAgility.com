@@ -32,14 +32,14 @@ sitemap:
 tags:
 - Professional Scrum
 - Scrum Product Development
-- Transparency
 - Daily Scrum
 - Empirical Process Control
 - People and Process
+- Transparency
+- Agile Frameworks
 - Scrum Team
 - Scrum Master
 - Software Developers
-- Team Collaboration
 resourceTypes:
 - video
 layout: video

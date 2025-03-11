@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/reformat-your-css-on-the-fly
 tags:
 - Software Development
-- Troubleshooting
 - Install and Configuration
 - Practical Techniques and Tooling
 categories: []

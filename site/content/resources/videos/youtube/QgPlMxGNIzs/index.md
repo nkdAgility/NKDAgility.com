@@ -30,11 +30,11 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
+- People and Process
 - Agile Frameworks
 - Agile Leadership
 - Agile Project Management
 - Organisational Agility
-- People and Process
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation

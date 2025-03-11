@@ -40,11 +40,11 @@ categories:
 tags:
 - Evidence Based Leadership
 - Evidence Based Management
-- Value Delivery
 - Decision Making
 - Experimentation
-- Metrics and Learning
+- Value Delivery
 - Ability to Innovate
+- Metrics and Learning
 - Empirical Process Control
 - Hypothesis Driven Development
 - Strategic Goals

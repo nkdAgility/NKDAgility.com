@@ -583,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:31:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:59:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the installation of Eclipse and connecting it to TFS, which are relevant to software development practices, specifically concerning tools and version control integration.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Eclipse and TFS, which are tools used in software development. It discusses practical steps and considerations for setting up a development environment, which aligns with software engineering practices. The mention of version control and the integration of TFS with Eclipse further solidifies its relevance to the Software Development category. However, the content lacks in-depth discussion of methodologies or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -619,11 +622,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T21:31:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content is primarily about integrating Eclipse with Team Foundation Server (TFS), which directly relates to version control systems and their setup. It discusses installation and connection to a version control system, emphasizing how to manage version control tasks within an IDE.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the installation and setup of Eclipse with TFS, which is a version control system. It mentions version control concepts and the integration of TFS with Eclipse, indicating a focus on source control practices. However, the discussion lacks depth in terms of methodologies and best practices, primarily focusing on installation steps rather than broader strategies or workflows.",
     "level": "Secondary"
   },
   "Empirical Process Control": {

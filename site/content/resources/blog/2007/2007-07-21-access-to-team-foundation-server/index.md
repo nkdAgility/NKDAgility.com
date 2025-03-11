@@ -25,8 +25,6 @@ aliasesArchive:
 tags:
 - Miscellaneous
 - Application Lifecycle Management
-- Software Development
-- Troubleshooting
 categories: []
 
 ---

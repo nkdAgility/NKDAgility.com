@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Organisational Agility
+- People and Process
 - Business Agility
 - Market Adaptability
-- People and Process
+- Sociotechnical Systems
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
 - Change Management
 - Organisational Change
-- Beta Codex
 resourceTypes:
 - video
 categories:

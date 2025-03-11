@@ -244,12 +244,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T21:32:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:10:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an agile coach, which is related to agile methodologies and their impact on team effectiveness, but it does not primarily focus on the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the role of an agile coach, which is related to product delivery methodologies. However, it lacks a detailed discussion on the end-to-end process of delivering software products, focusing instead on the comparison between agile and professional coaching without delving into specific practices or methodologies relevant to product delivery.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",
@@ -271,11 +274,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T21:32:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:33:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of an agile coach in enhancing team effectiveness and the interplay between coaching and agile practices, which aligns with the themes of collaboration and process improvement.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of an agile coach in enhancing team effectiveness, which aligns well with the category's focus on human behaviour and structured methodologies. It highlights the interplay between technical knowledge and team dynamics, indicating a strong conceptual alignment. However, while it touches on the importance of coaching in agile environments, it lacks detailed exploration of team collaboration or specific processes, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Test Driven Development": {

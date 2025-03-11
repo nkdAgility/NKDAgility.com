@@ -790,11 +790,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T19:39:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:29:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content is primarily focused on practical problem-solving using PowerShell to manage virtual machines within a Hyper-V environment, demonstrating real-world applications of scripting and automation that align with pragmatic approaches to tackling complex IT challenges.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on practical problem-solving techniques using PowerShell to manage virtual machines in a Hyper-V environment. It discusses real-world applications of scripting to automate updates and configurations, which aligns with the core themes of pragmatic thinking. However, while it touches on adaptability and experience-based solutions, it lacks a deeper exploration of Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1114,11 +1117,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T19:39:57",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-11T11:54:41",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 50,
-    "final_score": 90.0,
-    "reasoning": "The content primarily discusses executing PowerShell scripts on Windows virtual machines (VMs) managed by Hyper-V, detailing the processes of configuring, starting, and updating these VMs, which are all specific to the Windows environment.",
+    "final_score": 88.0,
+    "reasoning": "The content primarily focuses on executing PowerShell scripts against Windows 8 virtual machines using Hyper-V, which directly relates to the Windows operating system. It discusses installation and configuration of software, troubleshooting issues with elevated privileges, and managing virtual machines, all of which are key topics within the Windows category. The depth of discussion is substantial, providing detailed code examples and explanations of the processes involved, thus demonstrating a strong alignment with the core themes of the Windows category.",
     "level": "Primary"
   },
   "Deployment Strategies": {

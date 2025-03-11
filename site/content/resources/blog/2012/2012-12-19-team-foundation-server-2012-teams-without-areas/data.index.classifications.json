@@ -295,11 +295,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-14T16:29:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:31:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the usage of a team field in TFS (Team Foundation Server), which is closely related to Azure Boards as it involves managing work items in an Agile context. The article provides detailed steps and customization guidance, focusing on how to configure boards for team-specific workflows, which aligns well with the functionalities and best practices of Azure Boards.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the use of a 'team field' in TFS (Team Foundation Server), which is related to Azure Boards, but it primarily focuses on customisation and configuration rather than the broader functionalities and best practices of Azure Boards in Agile project management. While it touches on aspects of work item types and team settings, it lacks a comprehensive exploration of Azure Boards' role in Agile methodologies, making it a secondary focus rather than a primary discussion.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -1087,11 +1090,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:25:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:56:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content provides a detailed guide on configuring Team Foundation Server (TFS) to use a team field instead of an area path, including step-by-step installation-like instructions and configuration steps that directly support implementing Agile methodologies.",
+    "final_score": 76.0,
+    "reasoning": "The content provides a detailed step-by-step guide on configuring Team Foundation Server (TFS) to use a 'team field' instead of areas, which directly aligns with installation and configuration processes. It includes specific instructions, warnings, and best practices, demonstrating a strong focus on practical implementation. The content is rich in technical details and actionable insights, making it highly relevant to the category.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {

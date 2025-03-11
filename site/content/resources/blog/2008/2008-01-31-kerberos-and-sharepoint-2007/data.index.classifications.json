@@ -319,12 +319,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:13:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical tasks related to Kerberos authentication in SharePoint, which touches on engineering practices but is primarily focused on specific implementation details rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps required for configuring Kerberos authentication with SharePoint, which is a specific engineering practice. However, it lacks broader discussions on methodologies or principles that enhance agility or technical excellence in software development. While it provides detailed instructions (high depth), it does not explicitly mention concepts like TDD, CI/CD, or modular architecture, leading to a lower alignment score.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1108,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T19:31:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:47:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the setup and configuration of Kerberos authentication with SharePoint, including the necessary steps and commands to troubleshoot and resolve potential issues related to Domain Admin permissions and Service Principal Names (SPNs).",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the necessary steps for configuring Kerberos authentication with SharePoint, which involves troubleshooting potential issues related to service principal names (SPNs) and domain account configurations. While it provides specific commands and context for implementation, it lacks a broader discussion on diagnosing or resolving issues that may arise during the process. The focus is primarily on setup rather than troubleshooting, which slightly diminishes its alignment with the category.",
     "level": "Secondary"
   },
   "Entrepreneurship": {

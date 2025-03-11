@@ -322,12 +322,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:17:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of TFS with SharePoint, which relates to engineering practices, but the primary focus is on implementation details rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the integration of TFS with SharePoint, which touches on technical practices but lacks a strong focus on the principles of Technical Excellence. While it mentions testing and project management aspects, it does not delve deeply into methodologies like TDD or CI/CD, nor does it explore modular architecture or emergent design principles. The discussion is more operational and practical rather than a thorough examination of engineering practices that enhance agility and quality.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -577,11 +580,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T10:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content mentions the integration of TFS and SharePoint, which is related to software development tools, but it does not primarily focus on software development practices or the role of software developers in Agile or DevOps contexts.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses the integration of TFS with SharePoint, which is relevant to software development practices. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more technical than thematic. While it mentions project management tools, it does not delve into best practices or the role of developers in Agile contexts.",
     "level": "Quaternary"
   },
   "Software Development": {

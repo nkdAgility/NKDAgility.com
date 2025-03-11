@@ -28,8 +28,8 @@ card:
 categories:
 - Social Technologies
 tags:
-- Agile Values and Principles
 - Agile Philosophy
+- Agile Values and Principles
 - Software Development
 
 ---

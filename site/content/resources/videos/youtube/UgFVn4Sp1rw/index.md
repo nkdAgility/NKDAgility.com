@@ -32,9 +32,9 @@ tags:
 - Ability to Innovate
 - Decision Making
 - Scrum Product Development
+- Strategy
 - Agile Product Operating Model
 - Agile Project Management
-- Evidence Based Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

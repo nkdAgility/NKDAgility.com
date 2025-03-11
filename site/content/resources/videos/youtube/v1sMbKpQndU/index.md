@@ -39,9 +39,9 @@ tags:
 - Team Performance
 - Agile Project Management
 - Mentoring
+- Software Development
 - Professional Scrum
 - Team Collaboration
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

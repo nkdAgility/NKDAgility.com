@@ -31,9 +31,7 @@ tags:
 - News and Reviews
 - Practical Techniques and Tooling
 - Working Software
-- Frequent Releases
 - Software Development
-- System Configuration
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

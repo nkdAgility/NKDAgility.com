@@ -36,10 +36,10 @@ tags:
 - Sprint Review
 - Increment
 - Agile Product Management
+- Events and Presentations
 - Product Delivery
 - People and Process
 - Agile Project Management
-- Events and Presentations
 - Product Owner
 resourceTypes:
 - video

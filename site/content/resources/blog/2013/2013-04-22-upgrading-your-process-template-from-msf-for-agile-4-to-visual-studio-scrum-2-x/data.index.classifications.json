@@ -532,12 +532,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T19:59:53",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:30:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses upgrading process templates related to Visual Studio Scrum, which is a part of Agile practices. However, it primarily focuses on technical details and implementation rather than broader Agile transformation strategies or principles.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading process templates within Visual Studio Scrum, which is a specific implementation of Agile practices. While it mentions Scrum and touches on Agile concepts, it lacks a broader discussion on Agile transformation strategies, principles, or cultural shifts. The depth of discussion is limited to technical steps without exploring the underlying Agile principles or change management strategies, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -649,11 +652,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T19:59:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:55:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on upgrading process templates related to Visual Studio Scrum, which connects to managing work items in Azure Boards for Agile projects. It discusses work item types, customisations, and the use of scripts for management, making it a relevant topic for Azure Boards.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the process of upgrading process templates within the context of Visual Studio Scrum, which is related to Azure Boards. It mentions work item types and customisation, aligning with Azure Boards' functionalities. However, the focus is more on the technical aspects of migration rather than a comprehensive exploration of Azure Boards' features or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Collaboration Tools": {

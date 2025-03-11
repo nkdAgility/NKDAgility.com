@@ -30,12 +30,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Product Delivery
 - Increment
 - Agile Leadership
 - Agile Product Operating Model
 - Agile Values and Principles
-- People and Process
 - Working Software
 - Agile Frameworks
 - Agile Philosophy

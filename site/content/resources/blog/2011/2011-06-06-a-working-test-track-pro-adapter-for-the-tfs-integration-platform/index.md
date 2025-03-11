@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Working Software
-- Application Lifecycle Management
 - Operational Practices
 - Software Developers
 - Software Development
 - System Configuration
-- Technical Mastery
 - Troubleshooting
 - Install and Configuration
+- Technical Mastery
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 

@@ -30,6 +30,7 @@ sitemap:
 tags:
 - People and Process
 - Personal
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

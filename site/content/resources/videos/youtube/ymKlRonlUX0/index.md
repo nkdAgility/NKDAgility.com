@@ -32,13 +32,13 @@ tags:
 - Empirical Process Control
 - Pragmatic Thinking
 - Agile Planning
-- Agile Project Management
 - Software Development
 - Agile Philosophy
+- Agile Project Management
 - People and Process
 - Agile Product Management
-- Software Developers
 - Agile Transformation
+- Software Developers
 resourceTypes:
 - video
 categories:

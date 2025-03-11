@@ -27,11 +27,11 @@ isShort: true
 tags:
 - Agile Project Management
 - Agile Transformation
-- Product Delivery
 - Working Software
 - Pragmatic Thinking
 - Software Development
 - Agile Product Management
+- Product Delivery
 - Agile Planning
 - People and Process
 sitemap:

@@ -583,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:43:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to upgrading Team Foundation Server (TFS) and SQL collation conflicts, which are relevant to software development practices and operations.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to upgrading Team Foundation Server (TFS) and SQL collation, which is relevant to software development practices, particularly in the context of version control and deployment. However, while it touches on a technical problem and solution, it lacks broader discussions on methodologies or best practices in software development, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1213,11 +1216,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T12:08:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses an issue related to upgrading TFS, but it primarily focuses on a technical error regarding SQL collation that doesn't directly engage with the role of software developers in Agile or DevOps contexts.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses a technical issue related to upgrading Team Foundation Server (TFS) and SQL collation conflicts, which is relevant to software developers. However, it lacks explicit discussion of Agile or DevOps methodologies, and the focus is primarily on a specific technical problem rather than broader practices or principles that enhance productivity or collaboration in software development.",
     "level": "Quaternary"
   },
   "Coaching": {

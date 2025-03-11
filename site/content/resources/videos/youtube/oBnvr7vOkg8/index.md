@@ -32,7 +32,9 @@ tags:
 - Software Development
 - Personal
 - Pragmatic Thinking
+- Organisational Change
 - Agile Transformation
+- Software Developers
 resourceTypes:
 - video
 categories:

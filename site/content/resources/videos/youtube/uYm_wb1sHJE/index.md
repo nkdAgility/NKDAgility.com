@@ -34,13 +34,13 @@ tags:
 - Events and Presentations
 - Sprint Review
 - Agile Project Management
-- People and Process
 - Scrum Product Development
 - Agile Frameworks
 - Agile Product Management
 - Pragmatic Thinking
-- Professional Scrum
 - Scrum Master
+- Software Development
+- People and Process
 resourceTypes:
 - video
 categories:

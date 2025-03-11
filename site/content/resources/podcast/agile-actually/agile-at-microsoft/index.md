@@ -18,6 +18,7 @@ tags:
 - Transparency
 - People and Process
 - Transparency and Accountability
+- Empirical Process Control
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2024/04/37154808-1713453740943-610b708628f26.jpg)

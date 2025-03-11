@@ -34,8 +34,8 @@ tags:
 - Events and Presentations
 - Software Development
 - Professional Scrum
-- Scrum Master
 - Practical Techniques and Tooling
+- Scrum Master
 - Agile Project Management
 - Software Developers
 categories:

@@ -30,13 +30,13 @@ tags:
 - Agile Project Management
 - Professional Scrum
 - Scrum Product Development
-- Scrum Team
 - Software Development
 - Team Collaboration
 - Team Performance
 - Agile Frameworks
 - Agile Transformation
 - People and Process
+- Pragmatic Thinking
 categories:
 - Scrum
 preview: 1130646316-1-1-1.jpg

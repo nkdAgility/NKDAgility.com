@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a specific implementation of WPF (Windows Presentation Foundation) and the use of attached properties for scaling UI elements, which relates to code quality and complexity in terms of maintainability and design patterns like MVVM. However, it does not deeply explore broader principles of software code quality or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a specific implementation of WPF (Windows Presentation Foundation) and the use of attached properties for scaling UI elements. While it does touch on aspects of code quality through the use of dependency properties and MVVM (Model-View-ViewModel) patterns, it lacks a broader discussion on the complexities of software development processes or the principles of software code quality. The depth of technical detail is significant, but it does not sufficiently explore the interplay between code quality and complexity, which is central to the 'Code and Complexity' category.",
+    "level": "Quaternary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -586,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T02:46:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:42:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses WPF, including specific coding practices and techniques related to UI development in a software project, aligning well with software development topics.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on implementing a WPF behaviour for scaling UI elements, which directly relates to software development practices, particularly in the context of UI design and MVVM architecture. It includes code examples, explanations of dependency properties, and practical applications of the discussed concepts, demonstrating a strong alignment with software development methodologies and best practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {

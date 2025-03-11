@@ -29,12 +29,12 @@ tags:
 - Transparency and Accountability
 - Value Delivery
 - Decision Making
-- Business Agility
 - Change Management
 - Continuous Learning
-- Discovery and Learning
 - Organisational Culture
 - Pragmatic Thinking
+- Team Collaboration
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -29,12 +29,12 @@ aliasesArchive:
 tags:
 - Agile Project Management
 - Scrum Product Development
+- Software Development
 - People and Process
 - Professional Scrum
-- Agile Frameworks
 - Agile Transformation
-- Software Development
 - Scrum Team
+- Agile Frameworks
 - Agile Product Management
 - Transparency
 categories:

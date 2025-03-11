@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T01:05:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:40:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a key component of Azure DevOps, detailing installation, configuration, and integration with other services like SharePoint. It aligns well with Azure DevOps functionalities and practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the upgrade process from TFS 2010 RC to TFS 2010 RTM, which is a part of Azure DevOps services. It includes detailed steps on installation, configuration, and integration with SharePoint, which are relevant to Azure DevOps functionalities. The depth of discussion is significant, providing practical insights and experiences related to TFS, which is a core component of Azure DevOps. However, it lacks broader discussions on Azure DevOps methodologies or best practices, slightly affecting the overall alignment score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -358,11 +361,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T01:06:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:06:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2010, which is a key aspect of Application Lifecycle Management. It covers stages such as deployment and maintenance, as well as tools and practices related to managing the application lifecycle.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2010, which is a tool used in Application Lifecycle Management (ALM). It covers various stages of the application lifecycle, including installation, configuration, and testing, which are integral to managing software applications. The content also touches on best practices for upgrades and integration with other tools like SharePoint, aligning well with ALM principles. However, while it provides substantial detail on the upgrade process, it lacks a broader discussion on governance, compliance, and metrics, which are also key aspects of ALM.",
     "level": "Secondary"
   },
   "Daily Scrum": {

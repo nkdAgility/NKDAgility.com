@@ -1060,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:01:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the setup and troubleshooting of system configurations, specifically related to TFS, SCVMM, and Active Directory configuration for reporting services. It provides detailed insights into the hardware and software setup, configuration problems encountered, and resolutions, which align well with the category of System Configuration.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the configuration and setup of various systems, specifically TFS and SCVMM, detailing the hardware specifications, installation processes, and troubleshooting steps related to system configuration issues. It discusses best practices for configuring services, the importance of SPNs in Active Directory, and the implications of service account permissions, which are all key aspects of system configuration. The depth of discussion is substantial, providing detailed insights into specific problems encountered during configuration and their resolutions, thus aligning well with the category's core themes.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1114,11 +1117,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:36:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to the installation and configuration of TFS (Team Foundation Server) and SCVMM (System Center Virtual Machine Manager) in a Windows environment, including Active Directory, Kerberos authentication, and Reporting Services, which are all relevant to managing Windows systems.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses issues related to the installation and configuration of TFS (Team Foundation Server) and SCVMM (System Centre Virtual Machine Manager) within a Windows environment. It includes specific troubleshooting steps for common problems encountered during setup, such as Kerberos authentication issues and SPN (Service Principal Name) configuration, which are directly relevant to Windows server management. The depth of discussion is significant, as it provides detailed insights into the configuration and operational challenges faced in a Windows context, thus aligning well with the key topics outlined for the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

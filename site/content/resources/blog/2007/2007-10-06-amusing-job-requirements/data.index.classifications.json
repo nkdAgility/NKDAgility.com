@@ -346,12 +346,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:48",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes references to articles by Joel on Software, which are relevant to the discussion of job requirements and skills in the context of software development, but the primary focus is on job specifications rather than a detailed analysis of products or books.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses a job specification and the absurdity of the required skills for a programming role. While it briefly mentions a book ('Joel on Software') and provides links to articles that could be relevant to job seekers and employers, the main focus is on critiquing the job requirements rather than providing a review or analysis of products or literature related to Agile or DevOps. The discussion lacks depth in terms of how these resources enhance understanding of Agile methodologies or DevOps practices.",
+    "level": "Quaternary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -1225,12 +1228,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical advice for employers and job seekers regarding skill requirements and role definitions in programming, which aligns with pragmatic thinking in a professional context.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the unrealistic expectations in job specifications and provides practical advice for both employers and job seekers. While it touches on the importance of defining essential skills and the need for depth in programming knowledge, it lacks a direct focus on Agile, Scrum, or DevOps frameworks. The discussion is more about general job market realities than pragmatic problem-solving in complex environments.",
+    "level": "Quaternary"
   },
   "Release Management": {
     "category": "Release Management",

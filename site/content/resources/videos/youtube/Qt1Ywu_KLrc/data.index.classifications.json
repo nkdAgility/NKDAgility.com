@@ -349,11 +349,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T23:35:35",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T10:02:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Azure DevOps migration, but it includes significant references to Windows-specific tools and installation procedures, especially with mentions of 'Chocolatey' and 'Winget', which are Windows package managers. The discussion of installations related to Windows and the context surrounding these tools make Windows a major theme in the content, but Azure DevOps remains the central focus.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the installation and configuration of Azure DevOps tools specifically for Windows environments, including references to using Chocolatey and Winget, which are package managers for Windows. It also addresses troubleshooting issues related to command prompts in Windows. However, the primary focus is on Azure DevOps migration rather than Windows itself, which slightly reduces the confidence score. The depth of discussion regarding Windows-specific tools and configurations is substantial, but the overall emphasis on Azure DevOps migration limits its alignment with the Windows category.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -631,11 +634,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T23:35:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:25:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Azure DevOps migration tools, providing a step-by-step guide on their installation and usage, which aligns with discussions on tools pertinent to DevOps practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on a practical guide for using Azure DevOps migration tools, which aligns with discussions on tools that facilitate Agile practices. However, it lacks explicit reviews or analyses of literature or methodologies related to Agile or DevOps, which diminishes its alignment with the 'Products and Books' category. The depth of discussion is technical and detailed but does not delve into broader implications or insights that would typically be expected in a product review or analysis context.",
     "level": "Secondary"
   },
   "Sprint Review": {

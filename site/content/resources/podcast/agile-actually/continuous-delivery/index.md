@@ -15,8 +15,8 @@ slug: continuous-delivery
 aliases:
 - /resources/pGqagcI_q5y
 tags:
-- Transparency and Accountability
 - People and Process
+- Transparency and Accountability
 - News and Reviews
 
 ---

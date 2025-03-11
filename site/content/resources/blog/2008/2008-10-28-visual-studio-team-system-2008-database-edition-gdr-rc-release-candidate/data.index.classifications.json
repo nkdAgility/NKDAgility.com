@@ -697,11 +697,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:45:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Visual Studio Team System 2008, which is related to the Windows environment, but the primary focus is not specifically on Windows operating system installation, configuration, or troubleshooting.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the release candidate for Visual Studio Team System 2008 Database Edition, which is a software application that runs on the Windows operating system. However, it does not explicitly focus on Windows itself, such as installation, configuration, or troubleshooting of the OS. The mentions of downloading and documentation are related to the software rather than the Windows environment. Therefore, while there is some relevance to Windows, it is not the primary focus of the content.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -1327,12 +1330,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:10:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of a software update and includes download links, which implies some level of software installation and configuration, but it is not the main focus.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the release candidate of a software product, including download links and documentation. While it touches on aspects of software installation, it lacks a detailed exploration of system configuration methodologies or best practices. The focus is more on the announcement and availability of the software rather than on configuring systems for optimal performance or reliability.",
+    "level": "Quaternary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

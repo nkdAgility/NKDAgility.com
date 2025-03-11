@@ -316,11 +316,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:44",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Test Driven Development and discusses technical aspects of developing a SharePoint application, but the primary focus is on the author's personal project and learning experience rather than on broader engineering practices.",
+    "final_score": 47.0,
+    "reasoning": "The content briefly mentions Test-Driven Development (TDD) as part of the development process, which aligns with the category's focus on engineering practices. However, the primary focus is on the author's personal project and learning experience with SharePoint, rather than a detailed discussion of technical excellence principles. The depth of discussion on TDD is limited, and while there is some alignment with the category's themes, it does not delve into broader practices like CI/CD or modular architecture.",
     "level": "Tertiary"
   },
   "People and Process": {
@@ -1225,12 +1228,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a practical project involving the development of a SharePoint application, indicating a hands-on approach and the application of problem-solving techniques. However, it primarily focuses on the project details rather than explicitly addressing Agile, Scrum, or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the development of a SharePoint application, which implies a practical approach to problem-solving and learning through experience. However, it lacks explicit references to Agile, Scrum, or DevOps frameworks, and the focus is more on the technical aspects of SharePoint rather than on pragmatic thinking in a project management context. The depth of discussion is moderate, as it outlines the author's intentions and methodologies but does not delve into specific strategies or case studies related to Agile or Lean principles.",
+    "level": "Quaternary"
   },
   "Release Management": {
     "category": "Release Management",

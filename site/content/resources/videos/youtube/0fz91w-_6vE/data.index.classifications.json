@@ -244,12 +244,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T08:37:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:38:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses the role of a consultant in DevOps and the importance of optimizing value delivery, it touches on some aspects that relate to Continuous Delivery, such as the need for efficiency in builds and the feedback loop. However, Continuous Delivery is not the central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses DevOps and the flow of value in software delivery, which relates to Continuous Delivery principles. However, it lacks explicit mentions of Continuous Delivery practices and does not delve deeply into automation, testing, or deployment processes specific to CD. The focus is more on general DevOps challenges rather than the specific methodologies of Continuous Delivery.",
+    "level": "Quaternary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -319,12 +322,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T08:37:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:15:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Agile principles, but primarily focuses on the role of a consultant in a DevOps context rather than Agile Planning as a primary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses aspects of DevOps and the importance of optimising workflows and feedback loops, which are relevant to Agile principles. However, it primarily focuses on the role of a consultant in a DevOps context rather than explicitly addressing Agile Planning methodologies or practices. While there are mentions of Agile and Scrum, they are not the primary focus of the discussion, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",

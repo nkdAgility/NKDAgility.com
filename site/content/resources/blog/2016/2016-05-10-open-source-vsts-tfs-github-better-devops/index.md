@@ -30,13 +30,13 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
+- Software Development
 - Continuous Integration
 - System Configuration
 - Modern Source Control
-- Operational Practices
 - Software Developers
-- Software Development
 - Azure Pipelines
+- Pragmatic Thinking
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-14-14.png

@@ -31,9 +31,9 @@ tags:
 - Enterprise Agility
 - Market Adaptability
 - Decision Making
+- People and Process
 - Resilience and Change
 - Decision Theory
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

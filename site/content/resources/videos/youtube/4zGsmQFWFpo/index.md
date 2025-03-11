@@ -37,7 +37,7 @@ tags:
 - Technical Leadership
 - Pragmatic Thinking
 - Team Performance
-- Discovery and Learning
+- Agile Leadership
 resourceTypes:
 - video
 layout: video

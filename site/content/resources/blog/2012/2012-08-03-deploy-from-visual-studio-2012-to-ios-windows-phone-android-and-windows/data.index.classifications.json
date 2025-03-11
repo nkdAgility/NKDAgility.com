@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:30:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:33:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses methods of deploying applications across multiple platforms using Visual Studio and C#, quality assurance practices, and the implications for software development and engineering, aligning with key software development topics.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the deployment of applications across multiple platforms using Visual Studio, which is a core aspect of software development. It covers methodologies for building applications, including the use of a single codebase and the implications for development teams. The discussion on ALM (Application Lifecycle Management) and the benefits of a holistic build process further aligns with software development practices. The depth of detail regarding platform-specific and generic UI approaches, as well as the integration with Team Foundation Server for source control and automated builds, demonstrates a strong focus on software engineering processes.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -874,11 +877,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T21:30:57",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T11:58:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "While the content focuses on demonstrating a software solution for cross-platform application development, it primarily discusses the capabilities and advantages of deploying functional software effectively across multiple platforms. It does emphasize aspects of delivering value to customers and highlights features that support working software, making it relevant to the category, albeit as a secondary theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses a demonstration of a software solution that allows for cross-platform application development, which aligns with the concept of delivering functional software. It mentions the benefits of a unified codebase and the ability to deploy across multiple platforms, which relates to the delivery of working software. However, the discussion lacks depth in terms of best practices for ensuring software quality and does not provide specific metrics or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {

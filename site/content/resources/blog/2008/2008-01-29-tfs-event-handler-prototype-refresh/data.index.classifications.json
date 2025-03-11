@@ -319,12 +319,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:13:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses bug fixes and enhancements related to a specific software prototype, which touches on aspects of technical practices. However, it primarily focuses on the operational aspects of the TFS Event Handler rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses bug fixes and installation instructions for a specific software prototype, which does not directly address the principles of Technical Excellence. While it mentions upgrading to a newer version of Visual Studio and .NET, it lacks a focus on methodologies like TDD, CI/CD, or modular architecture. The discussion is more operational and practical rather than theoretical or methodological, leading to a low confidence score in alignment with the category.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -571,12 +574,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:48:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the TFS Event Handler and its use, specifically focusing on how developers can create and implement event handlers in a team server environment, which has implications for team collaboration and productivity.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a specific software tool (TFS Event Handler) and its bugs, along with installation instructions and potential use cases. While it touches on aspects relevant to software developers, such as fixing bugs and enhancing functionality, it lacks a direct focus on Agile or DevOps methodologies. The discussion is more technical and operational rather than exploring the broader themes of collaboration, productivity, or modern engineering practices that are central to the category.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",

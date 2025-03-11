@@ -769,11 +769,14 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-14T16:29:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:56:30",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses continuous delivery and the challenges of deploying software with minimal impact, which aligns well with deployment strategies. It also mentions specific issues related to deployment frequency and risk management in releases.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the shift towards continuous delivery and the challenges associated with deploying software frequently, which aligns with deployment strategies. However, it primarily focuses on the cultural and organisational aspects of software development rather than specific methodologies or practices of deployment. While it mentions issues like minimal production impact and updating components, it lacks detailed exploration of specific deployment strategies such as Blue-Green Deployments or Canary Releases.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1000,11 +1003,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-14T16:29:58",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:31:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of delivering software frequently and the challenges of maintaining a continuous delivery model, which relates to throughput. Although it is primarily focused on the general shift in software development practices and specific examples from Microsoft, throughput as a concept appears as a significant aspect of the discussion.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the need for more frequent software delivery and the challenges associated with continuous delivery, which aligns with the concept of throughput. However, while it touches on the importance of delivering value efficiently, it lacks detailed techniques for measuring throughput or specific strategies for optimisation. The primary focus is on cultural shifts and organisational challenges rather than a thorough exploration of throughput metrics or improvement strategies.",
     "level": "Secondary"
   },
   "Test Driven Development": {

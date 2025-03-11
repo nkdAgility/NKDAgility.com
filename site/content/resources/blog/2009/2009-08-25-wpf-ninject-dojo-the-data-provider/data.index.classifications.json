@@ -790,12 +790,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical implementation strategies for dependency injection in a WPF project, emphasizing real-world application and problem-solving in a programming context, though it is primarily focused on technical implementation rather than broader Agile or Scrum concepts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implementation of a custom DataSourceProvider using Ninject for dependency injection in a WPF application. While it touches on practical problem-solving in a software development context, it lacks a strong focus on Agile, Scrum, or DevOps principles. The discussion is more technical and specific to WPF rather than addressing broader pragmatic thinking strategies or real-world applications in project management.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1213,12 +1216,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:42:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses dependency injection and its implementation in a WPF application, which are relevant topics for software developers, but it does not clearly focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the implementation of dependency injection in a WPF application using Ninject, which is relevant to software development practices. However, it lacks explicit references to Agile or DevOps methodologies, and while it touches on modern engineering practices, it does not delve deeply into the collaborative or iterative aspects that are central to the Software Developers category. The focus is more on technical implementation rather than the broader role of developers within Agile or DevOps frameworks.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

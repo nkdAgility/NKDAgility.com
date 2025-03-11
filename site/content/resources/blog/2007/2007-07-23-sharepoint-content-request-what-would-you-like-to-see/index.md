@@ -31,8 +31,6 @@ aliasesArchive:
 categories: []
 tags:
 - Miscellaneous
-- Practical Techniques and Tooling
-- Application Lifecycle Management
 
 ---
 what-would-you-like-to-see-

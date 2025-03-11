@@ -26,6 +26,7 @@ tags:
 - Azure DevOps
 - Practical Techniques and Tooling
 - Pragmatic Thinking
+- Install and Configuration
 - Software Development
 - Troubleshooting
 sitemap:

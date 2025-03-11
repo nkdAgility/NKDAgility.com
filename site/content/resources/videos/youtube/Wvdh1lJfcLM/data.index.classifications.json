@@ -577,12 +577,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T12:30:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:17:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from TFS to Azure DevOps, mentioning Agile and Scrum in the context of process templates, indicating a secondary theme related to Agile Project Management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on migration services from TFS to Azure DevOps, with only brief mentions of Agile methodologies, specifically in the context of changing process templates from Scrum to Agile. While it touches on aspects of project management, it lacks a comprehensive discussion of Agile principles, frameworks, or practices, which diminishes its alignment with the core themes of Agile Project Management.",
+    "level": "Quaternary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1213,12 +1216,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:30:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:54:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses migration tools and services related to Azure DevOps, which aligns with the category's focus on tools that facilitate Agile practices and DevOps integration. However, it primarily focuses on the migration process rather than providing reviews or analyses of specific products or literature.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses migration services and tools related to Azure DevOps, which aligns with the category of Products and Books. It explicitly mentions specific tools and services, such as the Azure DevOps data migration tool and Martin Azure DevOps migration tools, indicating a direct focus on products. The discussion also touches on practical applications and considerations for using these tools, which enhances its relevance to Agile and DevOps practices. However, while the content is detailed, it lacks a broader analysis or review of literature related to Agile methodologies, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",

@@ -25,13 +25,13 @@ duration: 137
 isShort: false
 tags:
 - Agile Product Management
+- Products and Books
 - Agile Project Management
 - Product Owner
 - Professional Scrum
 - Scrum Product Development
 - Agile Frameworks
 - People and Process
-- Products and Books
 - Value Delivery
 - Agile Transformation
 sitemap:

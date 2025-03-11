@@ -29,6 +29,7 @@ tags:
 - Agile Project Management
 - People and Process
 - Personal
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

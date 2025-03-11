@@ -946,12 +946,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T11:10:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses the flaws of traditional branching models and advocates for continuous delivery practices, which align with Agile principles of delivering value and adaptability. However, it primarily focuses on technical aspects of version control rather than a broader discussion of Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical aspects of branching strategies in software development, specifically critiquing traditional models like branch promotion and advocating for alternatives like GitHub Flow and Release Flow. While it touches on concepts related to agility, such as delivering value and reducing complexity, it lacks a direct discussion of Agile principles or the broader Agile mindset. The emphasis is on practical implementation rather than the philosophical underpinnings of Agile, leading to a lower confidence score in alignment with the Agile Philosophy category.",
+    "level": "Quaternary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1048,12 +1051,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-11T09:47:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses the inefficiencies of traditional branching models in software development, emphasising the importance of continuous delivery and value delivery, which aligns with Lean principles. However, it primarily focuses on Git workflows rather than Lean methodologies directly.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses software delivery models and the inefficiencies of branch promotion, which indirectly relates to Lean principles of minimising waste and maximising value. However, it primarily focuses on Agile practices and Git workflows rather than explicitly addressing Lean methodologies or tools. While there are mentions of reducing complexity and improving delivery speed, the core themes of Lean, such as value stream mapping and waste reduction techniques, are not thoroughly explored.",
+    "level": "Quaternary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",

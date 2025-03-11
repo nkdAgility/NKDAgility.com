@@ -517,11 +517,14 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T12:14:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "While the content discusses testing an application related to Active Directory updates, it primarily focuses on the application development process and not on hypothesis-driven experimentation or Agile methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions testing in the context of an application for updating Active Directory, but it lacks a structured approach to hypothesis-driven experimentation. While there is a mention of testing procedures, it does not delve into systematic experimentation or validation of assumptions, which are core to the category of Experimentation. The focus is more on the application development process rather than on experimentation as a method for continuous improvement.",
     "level": "Quaternary"
   },
   "Forecasting": {
@@ -1288,12 +1291,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of an application to automate updates in Active Directory, indicating a focus on improving operational processes through automation. However, the primary topic is more about a specific tool/application rather than broader operational practices, hence it's a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the creation of an application to automate updates to Active Directory, which touches on operational efficiency through automation. However, it lacks a direct focus on broader operational practices, methodologies, or strategies within Agile, DevOps, or Lean frameworks. The mention of testing and user permissions indicates some operational considerations, but the overall discussion is more about a specific application rather than a comprehensive exploration of operational practices.",
+    "level": "Quaternary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",

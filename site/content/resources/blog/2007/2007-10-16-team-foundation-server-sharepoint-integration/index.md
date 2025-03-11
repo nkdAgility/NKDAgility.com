@@ -23,9 +23,8 @@ aliasesArchive:
 - /team-foundation-server-sharepoint-integration
 - /resources/blog/team-foundation-server-sharepoint-integration
 tags:
-- Practical Techniques and Tooling
-- Application Lifecycle Management
 - Software Development
+- Practical Techniques and Tooling
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

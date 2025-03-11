@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T23:57:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:23:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a Domain Controller in Azure, which involves software deployment and management practices relevant to software development and infrastructure management.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed walkthrough of configuring a Domain Controller in Azure, which directly relates to software development practices, particularly in the context of cloud infrastructure and deployment. It discusses specific steps, tools, and considerations relevant to software engineering, such as the installation of Active Directory and the use of Azure for deployment. The content aligns well with key topics in software development, including system design and deployment practices, and offers substantial detail on the processes involved, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1063,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T23:58:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:49:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of configuring a Domain Controller in Azure, including installation and setup of Active Directory, which aligns closely with system configuration practices.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the practical steps involved in configuring a Domain Controller (DC) in Azure, which aligns closely with the System Configuration category. It discusses best practices for setting up virtual machines, installing Active Directory, and managing configurations, demonstrating a clear understanding of system optimisation and configuration management. The depth of detail provided, including specific commands and configuration options, further supports its relevance to the category. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

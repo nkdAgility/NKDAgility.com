@@ -154,12 +154,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:51:29",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of Release Management 2013, which is a software product relevant to Agile and DevOps practices, but it primarily focuses on personal experiences and lacks in-depth analysis or reviews.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the installation and configuration of Release Management 2013, which is a software product relevant to DevOps practices. It includes direct mentions of specific tools (Release Management Server, Client, and Deployment Agent) and provides insights into their usage. However, while it touches on the practical application of these tools, it lacks a deeper analysis or review of the methodologies behind them, which would strengthen its alignment with the category. Overall, the focus on a specific product and its practical implications supports a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -784,12 +787,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:25:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical aspects of installation and configuration of Release Management 2013, which relates to real-world applications of software tools in a potentially Agile context, but it is primarily about the installation process rather than a comprehensive discussion on pragmatic thinking strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses practical experiences with Release Management 2013, highlighting the author's hands-on work and the challenges faced during installations. While it touches on real-world applications, it lacks a strong focus on Agile, Scrum, or DevOps principles, which are central to the category of Pragmatic Thinking. The discussion is more about specific tools and installations rather than broader problem-solving strategies or frameworks.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

@@ -36,11 +36,11 @@ tags:
 - Agile Planning
 - Professional Scrum
 - Scrum Product Development
+- Software Development
 - Product Delivery
+- Agile Frameworks
 - Backlog Refinement
 - Agile Planning Tools
-- Scrum Team
-- Team Performance
 resourceTypes:
 - video
 categories:

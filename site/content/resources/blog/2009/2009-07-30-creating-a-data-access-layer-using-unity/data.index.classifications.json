@@ -586,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T02:51:20",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T10:42:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content focuses primarily on creating a Data Access layer using Unity, discussing dependency injection, interfaces, factory design patterns, and configuration, all of which are central to software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on creating a data access layer using Unity, which is a software development practice. It explicitly mentions concepts such as dependency injection, interfaces, and factory patterns, aligning well with software design principles. The depth of the discussion includes code examples and explanations of the implementation, demonstrating a strong focus on software engineering practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -787,12 +790,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the implementation of a data access layer using Unity, which includes practical coding techniques and a configuration approach. While it does not directly focus on Agile, Scrum, or DevOps, it reflects pragmatic thinking through its application of methods to solve specific programming problems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a data access layer using Unity, which lacks a direct discussion on pragmatic thinking principles. While it touches on practical problem-solving through the use of dependency injection and factory patterns, it does not explicitly address Agile, Scrum, or DevOps frameworks. The discussion is more about coding practices than about navigating complexity or applying experience-based strategies in project management contexts.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

@@ -385,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T00:46:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:39:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation and technical details of event handling in Team Foundation Server 2010, focusing on the technical aspects of creating an event handler using the ISubscriber interface. It includes best practices for implementation and integrates principles of software craftsmanship within a technical context.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on implementing event handling in Team Foundation Server 2010, which aligns with technical mastery in software craftsmanship. It discusses the use of interfaces, event processing, and the structure of code, demonstrating a solid understanding of software engineering principles. However, while it touches on best practices and technical details, it lacks a broader discussion on methodologies or principles that contribute to high-quality software development, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -1216,12 +1219,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-16T00:46:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:04:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the implementation details of event handling in Team Foundation Server (TFS), which directly relates to the work of software developers in managing and customizing software delivery processes, particularly in an Agile/DevOps context.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the implementation of event handling in Team Foundation Server (TFS) 2010, which is relevant to software developers working with TFS. However, it lacks a direct focus on Agile or DevOps methodologies, and while it touches on technical aspects of software development, it does not delve into best practices or collaborative frameworks that are central to the Software Developers category. The discussion is more technical and implementation-focused rather than exploring the broader role of developers within Agile or DevOps contexts.",
+    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",

@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Pragmatic Thinking
 - Complexity Thinking
 - Business Agility
 - Discovery and Learning
+- People and Process
 - Market Adaptability
 - Organisational Agility
+- Personal
 - Agile Philosophy
 - Empirical Process Control
-- Personal
 resourceTypes:
 - video
 categories:

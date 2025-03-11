@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/always-prompted-for-credentials-in-tfs-2010-
 - /resources/blog/always-prompted-for-credentials-in-tfs-2010
 tags:
+- Troubleshooting
 - Install and Configuration
 - Windows
-- Troubleshooting
 - System Configuration
 - Practical Techniques and Tooling
 preview: metro-visual-studio-2005-128-link-6-6.png

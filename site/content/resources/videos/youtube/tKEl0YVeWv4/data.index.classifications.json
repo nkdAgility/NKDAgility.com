@@ -271,11 +271,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T15:14:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:47:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the role of automation in software development, particularly in relation to automated deployments, testing, and the importance of maintaining a production-ready state. It aligns well with Continuous Delivery principles, highlighting the need for automation to mitigate risks and improve deployment processes.",
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the role of automation in software development, particularly in relation to deployment and testing, which are core aspects of Continuous Delivery. It highlights the importance of automated processes to ensure reliability and speed in delivering software changes, aligning well with the principles of Continuous Delivery. The examples provided, such as Azure DevOps and Facebook's deployment strategies, illustrate real-world applications of these concepts. However, while the focus is strong, it does not explicitly mention Continuous Delivery as a term, which slightly lowers the direct mention score.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -307,11 +310,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-12T15:14:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:10:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of automation in software development, particularly in relation to automated testing and deployment, which are key components of Continuous Integration. It provides examples of how automation can prevent issues during deployments and enhance the reliability of code changes, aligning well with CI principles.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses automation extensively, which is a key component of Continuous Integration (CI). It highlights the importance of automated testing and deployment, which are critical practices in CI. However, while it touches on CI principles, it does not explicitly define CI or delve deeply into its best practices or tools. The examples provided, such as Azure DevOps and Facebook's deployment strategies, illustrate CI concepts but do not focus solely on CI as a primary topic. Therefore, while there is a strong connection to CI, the content lacks a comprehensive exploration of the category, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Lean Principles": {

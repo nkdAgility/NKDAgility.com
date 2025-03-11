@@ -31,8 +31,8 @@ tags:
 - Operational Practices
 - Software Developers
 - Technical Mastery
-- Azure DevOps
 - Digital Transformation
+- Frequent Releases
 categories:
 - DevOps
 - Engineering Excellence

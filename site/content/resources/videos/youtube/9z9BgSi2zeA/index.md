@@ -32,6 +32,7 @@ sitemap:
 tags:
 - People and Process
 - Sociotechnical Systems
+- Agile Project Management
 resourceTypes:
 - video
 categories:

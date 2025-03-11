@@ -31,8 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Value Delivery
 - Organisational Agility
+- Value Delivery
 - People and Process
 - Market Adaptability
 - Agile Philosophy

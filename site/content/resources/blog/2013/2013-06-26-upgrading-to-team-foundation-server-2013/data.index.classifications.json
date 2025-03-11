@@ -313,11 +313,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:25:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:28:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server 2013, providing insights and recommendations that align with industry updates and evaluations relevant to Agile and DevOps practices.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the upgrade process for Team Foundation Server 2013, providing detailed insights and personal experiences related to the upgrade. While it does mention the release of a new version, which aligns with industry news, the overall emphasis is on technical procedures rather than broader industry trends or reviews. The depth of discussion is significant, but it lacks a comprehensive analysis of the implications of the upgrade on Agile or DevOps practices, which diminishes its alignment with the core themes of the category.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -385,12 +388,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:05:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:54:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and upgrade process for Team Foundation Server 2013, detailing best practices and methodologies involved in maintaining software systems, which falls under the realm of technical mastery in software engineering.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the practical aspects of upgrading Team Foundation Server 2013, including backup strategies and installation processes. While it touches on some technical practices, such as the importance of backups and system configurations, it lacks a deeper exploration of software craftsmanship principles, clean code practices, or methodologies that contribute to high-quality software development. The discussion is more operational than strategic, which limits its alignment with the 'Technical Mastery' category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

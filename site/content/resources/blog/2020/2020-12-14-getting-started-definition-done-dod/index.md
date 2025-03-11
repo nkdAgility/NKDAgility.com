@@ -29,6 +29,7 @@ aliasesArchive:
 - /resources/blog/getting-started-definition-done-dod
 tags:
 - Increment
+- Working Software
 - Definition of Done
 - Scrum Product Development
 - Software Development

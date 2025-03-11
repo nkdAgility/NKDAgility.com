@@ -82,11 +82,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-13T22:06:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:19:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of Test First principles, particularly Test Driven Development (TDD), in delivering functional and high-quality software that meets customer needs. It emphasises validation, quality assurance, and the iterative process of software development, aligning closely with the key topics of the Working Software category.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of Test First principles, particularly in the context of Test Driven Development (TDD), which directly relates to delivering functional and high-quality software. It highlights how these practices ensure that the software meets customer expectations and reduces maintenance costs, aligning well with the core themes of working software. The depth of discussion is significant, providing detailed insights into the benefits of Test First methodologies and their role in achieving working software, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -265,11 +268,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-13T22:07:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:44:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the principles and practices of Test First methodologies, including Test Driven Development (TDD), which is a key aspect of automated testing. It explores how these practices contribute to software quality and reliability, aligning well with the category's focus on automated testing in software development.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the principles of Test First and its relationship with automated testing methodologies such as Test Driven Development (TDD), Acceptance Test Driven Development (ATDD), and Behaviour Driven Development (BDD). It highlights the importance of automated tests in ensuring software quality and reliability, aligning well with the core themes of the Automated Testing category. The depth of discussion is significant, providing detailed insights into the benefits and practices of implementing automated testing, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

@@ -30,10 +30,10 @@ aliasesArchive:
 - /resources/blog/engaging-with-complexity-sharepoint-edition
 tags:
 - Install and Configuration
-- Software Development
 - System Configuration
-- Troubleshooting
+- Software Development
 - Practical Techniques and Tooling
+- Troubleshooting
 - Pragmatic Thinking
 - Technical Mastery
 categories: []

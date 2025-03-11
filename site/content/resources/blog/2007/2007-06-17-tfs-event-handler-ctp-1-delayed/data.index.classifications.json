@@ -574,20 +574,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:17:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses enhancements around the Team Foundation Server and software components relevant to developers, but it doesn't focus primarily on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the development of a TFS Event Handler and related enhancements, which is relevant to software development. However, it lacks explicit references to Agile or DevOps methodologies, and the focus is more on personal circumstances and specific technical implementations rather than broader discussions on best practices or team dynamics in software development.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:40",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:52:08",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses enhancements and functionalities related to TFS (Team Foundation Server) Event Handlers, which are technical aspects of software development, particularly in relation to managing and processing software events. However, it also includes personal remarks and contextual details that make it less focused solely on software development, hence a confidence level on the higher side of secondary relevance.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses enhancements to a framework related to Team Foundation Server (TFS) and mentions various components and their functionalities, which aligns with software development practices. However, the primary focus is on personal circumstances and a lack of depth in discussing methodologies or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {

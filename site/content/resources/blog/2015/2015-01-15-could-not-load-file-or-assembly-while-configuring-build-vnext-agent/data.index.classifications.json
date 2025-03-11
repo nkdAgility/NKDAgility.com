@@ -988,11 +988,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-14T23:17:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:22:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to configuring the Build vNext Agent, which is a component of Azure Pipelines, and provides specific troubleshooting steps relevant to Azure DevOps services.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses issues related to the Build vNext Agent, which is a component of Azure Pipelines. It explicitly mentions the configuration of the build agent and the challenges faced during its setup, aligning well with the core themes of Azure Pipelines. The depth of discussion includes specific error messages and troubleshooting steps, indicating a good level of detail. However, it does not cover broader CI/CD practices or deployment strategies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -1060,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T23:17:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:48:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of the Build vNext Agent on Windows Server 2012 R2, including troubleshooting a specific error related to assembly loading and the necessary steps to resolve it, which aligns with system configuration practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific issue encountered while configuring the Build vNext Agent on Windows Server 2012 R2, which directly relates to system configuration. It provides a detailed account of the error, its cause, and a workaround, demonstrating a clear focus on the practicalities of configuring a system. The mention of disabling strong naming for .NET as a solution further aligns with configuration management practices. Overall, the content is rich in detail and directly addresses a configuration issue, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

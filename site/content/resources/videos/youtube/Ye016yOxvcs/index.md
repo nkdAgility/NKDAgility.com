@@ -34,6 +34,8 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
+- Agile Project Management
+- People and Process
 resourceTypes:
 - video
 categories:

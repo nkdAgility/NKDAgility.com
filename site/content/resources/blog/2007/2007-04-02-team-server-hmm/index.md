@@ -28,10 +28,10 @@ aliasesArchive:
 - /resources/blog/team-server-hmm
 tags:
 - Practical Techniques and Tooling
-- Modern Source Control
 - Products and Books
-- Software Development
 - Miscellaneous
+- Modern Source Control
+- Software Development
 - System Configuration
 - Troubleshooting
 - Windows

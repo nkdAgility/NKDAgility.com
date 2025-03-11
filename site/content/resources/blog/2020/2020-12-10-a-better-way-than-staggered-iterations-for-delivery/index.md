@@ -25,6 +25,7 @@ aliasesArchive:
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
 - Value Delivery
+- Practical Techniques and Tooling
 - Product Delivery
 - Technical Excellence
 - People and Process
@@ -33,7 +34,6 @@ tags:
 - Test First Development
 - Business Agility
 - Cycle Time
-- Empirical Process Control
 categories:
 - Scrum
 preview: staggered-iterations-for-delivery1-2-2.png

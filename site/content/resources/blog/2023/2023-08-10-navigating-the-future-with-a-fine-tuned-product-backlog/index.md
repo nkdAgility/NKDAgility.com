@@ -32,8 +32,8 @@ tags:
 - Agile Product Operating Model
 - Backlog Refinement
 - Scrum Product Development
-- Agile Frameworks
 - Agile Planning
+- Agile Planning Tools
 categories:
 - Scrum
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg

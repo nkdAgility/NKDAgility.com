@@ -34,7 +34,6 @@ tags:
 - System Configuration
 - Azure DevOps
 - Application Lifecycle Management
-- Technical Mastery
 - Troubleshooting
 categories:
 - DevOps

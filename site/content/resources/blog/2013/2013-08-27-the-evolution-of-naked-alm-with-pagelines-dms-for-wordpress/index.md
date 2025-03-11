@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Products and Books
 - Practical Techniques and Tooling
-- System Configuration
 categories: []
 preview: metro-pagelines-11-11.png
 

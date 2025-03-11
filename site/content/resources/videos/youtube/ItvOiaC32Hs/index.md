@@ -31,6 +31,7 @@ tags:
 - Strategy
 - People and Process
 - Team Motivation
+- Pragmatic Thinking
 - Team Performance
 sitemap:
   filename: sitemap.xml

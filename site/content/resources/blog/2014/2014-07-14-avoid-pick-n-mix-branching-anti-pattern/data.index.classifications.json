@@ -250,11 +250,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T09:12:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:24:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the implications of the pick-n-mix branching anti-pattern on product delivery, including planning, quality assurance, and deployment strategies. It provides practical solutions and methodologies for improving the delivery process, aligning closely with the key topics of the Product Delivery category.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the pick-n-mix branching anti-pattern and its implications on product delivery, including the importance of planning, feature branching, and the impact on quality assurance and customer trust. It provides detailed insights into methodologies for improving the delivery process, aligning closely with the core themes of product delivery. The depth of discussion on transitioning to a feature branching model and the consequences of poor practices further supports a high confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -286,11 +289,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T09:12:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:50:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implications of branching strategies on software delivery, highlighting how poor practices can lead to technical debt and loss of business trust, which directly relates to value delivery in Agile and DevOps contexts.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its negative impact on value delivery, highlighting issues such as technical debt, failed releases, and loss of business trust. It provides a detailed analysis of branching models and their implications for delivering value to customers, aligning well with the principles of iterative development and continuous delivery. However, while it touches on value delivery, the primary focus is on technical implementation details rather than broader strategies or methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {

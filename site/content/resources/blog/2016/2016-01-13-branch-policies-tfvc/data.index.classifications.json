@@ -151,11 +151,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T11:47:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content discusses implementing branch policies in TFVC, focusing on best practices for managing code quality and maintainability through policies such as branch locks, code reviews, and work item requirements. It emphasizes technical solutions and approaches relevant to software engineering excellence, which aligns well with the Technical Mastery category.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implementation of branch policies in TFVC, which relates to software engineering practices. However, while it touches on technical aspects, such as code reviews and work item requirements, it lacks a broader discussion on software craftsmanship principles or methodologies. The focus is more on specific implementation details rather than overarching best practices or principles of technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -259,12 +262,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T22:59:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:21:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of branch policies in TFVC to enhance workflow management and operational efficiency in a software development context, which aligns with the key topics of operational practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the implementation of branch policies in TFVC, which relates to operational practices in terms of workflow management and process optimisation. However, it lacks a broader discussion on operational efficiency and does not delve deeply into metrics or continuous improvement strategies, which are key aspects of the category.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

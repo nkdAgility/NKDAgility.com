@@ -33,8 +33,6 @@ aliasesArchive:
 tags:
 - Pragmatic Thinking
 - Operational Practices
-- Release Management
-- Technical Mastery
 - Practical Techniques and Tooling
 categories:
 - DevOps

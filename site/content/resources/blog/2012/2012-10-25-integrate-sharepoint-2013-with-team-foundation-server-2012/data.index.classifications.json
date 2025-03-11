@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:56:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, detailing installation and configuration processes. While it touches on technical practices, it does not delve deeply into methodologies that enhance agility or engineering excellence, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, detailing installation and configuration steps. While it touches on technical aspects, such as installation processes and configuration wizards, it lacks a direct discussion on engineering practices or methodologies that enhance agility in software development. The mention of Scrum dashboards is too brief and does not delve into the principles of Technical Excellence, such as TDD or CI/CD. Overall, the content is more operational than strategic, leading to a low confidence score in alignment with the category.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1213,12 +1216,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:31:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of SharePoint 2013 with Team Foundation Server 2012, which is relevant to software developers, particularly in the context of Agile methodologies and project management tools. However, the primary focus is on installation and configuration rather than on broader Agile or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2013 with Team Foundation Server 2012, which is relevant to software developers but does not explicitly discuss Agile or DevOps methodologies. While it touches on some aspects of software development practices, such as configuration and installation processes, it lacks a direct focus on the role of developers within Agile or DevOps frameworks. The depth of discussion is moderate, providing detailed steps for integration, but it does not explore best practices or collaborative strategies that are central to the Software Developers category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

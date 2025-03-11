@@ -55,12 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a specific issue related to the configuration of Integrated Authentication on Team Foundation Server, which falls under installation and configuration topics. However, the primary focus is on troubleshooting a specific error rather than providing a comprehensive guide or step-by-step instructions.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses a specific issue related to Integrated Authentication and its interaction with host headers in a Team Foundation Server (TFS) environment. While it does touch on a technical problem that could be relevant to installation and configuration, the primary focus is on troubleshooting a specific error rather than providing a comprehensive guide or detailed installation/configuration instructions. The mention of a fix and the context of server setup indicates some alignment with the category, but the depth of discussion is limited to a single issue rather than broader installation or configuration practices.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -949,12 +952,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific technical issue related to Integrated Authentication on TFS and IIS, along with troubleshooting and solutions, which can be considered a technical mastery topic but is more focused on a particular problem rather than broader principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a specific technical issue related to Integrated Authentication and its interaction with IIS and Windows Server configurations. While it touches on a technical problem and provides a solution, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that contribute to high-quality software development. The focus is primarily on troubleshooting a specific error rather than exploring principles of clean code, architecture, or engineering practices.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",

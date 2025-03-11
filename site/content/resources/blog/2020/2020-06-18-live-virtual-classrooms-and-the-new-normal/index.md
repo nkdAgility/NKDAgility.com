@@ -27,12 +27,12 @@ aliasesArchive:
 - /blog/live-virtual-classroom's-and-the-new-normal
 - /resources/blog/live-virtual-classrooms-and-the-new-normal
 tags:
-- People and Process
 - Remote Working
+- People and Process
 - Resilience and Change
+- Pragmatic Thinking
 - Sociotechnical Systems
 - Personal
-- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

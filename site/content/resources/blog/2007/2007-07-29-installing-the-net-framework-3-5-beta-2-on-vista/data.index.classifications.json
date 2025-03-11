@@ -952,12 +952,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:16:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on the installation process of the .NET Framework 3.5 and troubleshooting steps, which is a technical topic, but it mainly involves specific instructions rather than a broader discussion on software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific technical issue related to installing the .NET Framework, which is a practical aspect of software development. However, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that contribute to technical mastery. While it does provide a solution to a technical problem, it does not delve into principles of clean code, architecture, or other key topics outlined in the category definition.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1108,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T22:16:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:51:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting the installation of the .NET Framework 3.5 Beta 2 on Vista, detailing steps taken to identify and resolve the issue encountered during the installation process.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on troubleshooting the installation of the .NET Framework 3.5 Beta 2 on Vista, detailing the steps taken to resolve the issue. It explicitly mentions the problem encountered and provides a clear solution, aligning well with the core themes of the Troubleshooting category. The depth of discussion is moderate, as it includes specific steps and references to hotfixes, but could benefit from more comprehensive diagnostic techniques or tools used during the process.",
     "level": "Secondary"
   },
   "Entrepreneurship": {

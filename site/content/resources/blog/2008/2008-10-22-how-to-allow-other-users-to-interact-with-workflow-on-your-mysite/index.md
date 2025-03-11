@@ -30,6 +30,7 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
+- People and Process
 preview: metro-sharepoint-128-link-15-15.png
 categories: []
 

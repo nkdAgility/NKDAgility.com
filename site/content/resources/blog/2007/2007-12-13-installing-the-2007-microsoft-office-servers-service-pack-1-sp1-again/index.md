@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-(sp1)----again---
 - /resources/blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 tags:
-- Windows
 - Troubleshooting
+- Windows
 - Install and Configuration
 - System Configuration
 categories: []

@@ -30,8 +30,8 @@ aliasesArchive:
 - /resources/blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
+- System Configuration
 - Practical Techniques and Tooling
 - Software Development
 categories: []

@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/tfs-error--msb4018-the--buildshadowtask--task-failed-unexpectedly
 - /resources/blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 tags:
+- Troubleshooting
 - Windows
 - Software Development
-- Troubleshooting
 - Practical Techniques and Tooling
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []

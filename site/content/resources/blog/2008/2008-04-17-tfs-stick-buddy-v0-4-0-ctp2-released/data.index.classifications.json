@@ -865,12 +865,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:12:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the release of version 0.4.0 of TFS Stick Buddy, focusing on the updates and improvements made in this new version, which aligns well with the concept of Frequent Releases.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the release of a specific version of TFS Stick Buddy, mentioning the features and improvements in that release. However, it lacks a broader discussion on the principles of frequent releases, continuous delivery, or the strategies and practices that support such an approach. While it does mention the release itself, it does not delve into the implications of frequent releases or how they fit into a larger agile or DevOps framework.",
+    "level": "Quaternary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1090,11 +1093,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T19:12:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:47:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses a software tool (TFS Sticky Buddy) that integrates with Team Foundation Server (TFS), which is commonly used in Windows environments. While it is closely related to Windows through its usage context, the focus is more on the software functionalities rather than explicit aspects of the Windows operating system itself.",
+    "final_score": 63.0,
+    "reasoning": "The content discusses the TFS Sticky Buddy application, which is related to Windows as it operates within the Windows environment and integrates with Visual Studio and TFS. However, the primary focus is on the application itself rather than on Windows as an operating system. While there are mentions of Windows-related functionalities, the depth of discussion is more about the application features than Windows-specific topics like installation, configuration, or troubleshooting. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
     "level": "Secondary"
   },
   "Lean Principles": {

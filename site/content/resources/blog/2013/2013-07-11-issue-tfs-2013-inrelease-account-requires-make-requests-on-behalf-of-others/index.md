@@ -29,10 +29,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Technical Mastery
+- System Configuration
 - Operational Practices
 - Software Development
-- System Configuration
 - Troubleshooting
 - Azure DevOps
 - Pragmatic Thinking

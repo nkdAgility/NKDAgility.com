@@ -27,16 +27,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - People and Process
-- Agile Planning
-- Empirical Process Control
-- Agile Frameworks
-- Agile Philosophy
-- Agile Project Management
-- Agile Transformation
-- Customer Feedback Loops
-- Evidence Based Leadership
 resourceTypes:
 - video
 layout: video

@@ -26,14 +26,14 @@ aliasesArchive:
 tags:
 - People and Process
 - Increment
-- Agile Values and Principles
+- Software Development
 - Agile Philosophy
 - Agile Project Management
 - Agile Transformation
 - Software Developers
-- Software Development
 - Team Performance
 - Agile Product Management
+- Agile Values and Principles
 categories:
 - Social Technologies
 - Scrum

@@ -1060,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T02:22:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:07:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses URL rewriting and the configuration of IIS rewrite modules, which are directly related to system configuration and optimization for SEO purposes. It explores setup processes, configuration management tools (URL Rewrite, SEO Toolkit), and practical implementation strategies, aligning closely with the category.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses URL rewriting and the configuration of IIS modules, which are relevant to system configuration. It provides specific details about the tools (URL Rewrite and SEO Toolkit) and their limitations, indicating a focus on configuration management. However, the primary focus is on SEO rather than broader system configuration practices, which slightly reduces the confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1114,11 +1117,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T02:22:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:41:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses URL rewriting and SEO techniques in the context of IIS (Internet Information Services), which is a web server application that runs on the Windows operating system. While the main focus is on SEO and URL management, the relevance to Windows is significant as it directly relates to components used within the Windows ecosystem.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses URL rewriting in the context of IIS (Internet Information Services), which is a web server software created by Microsoft for use with the Windows operating system. While the primary focus is on SEO and URL management, it does mention specific Windows-related tools like the URL Rewrite module and the SEO Toolkit, indicating a connection to the Windows environment. However, the discussion is more about web development practices rather than a comprehensive exploration of Windows OS functionalities, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

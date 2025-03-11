@@ -30,11 +30,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Discovery and Learning
 - Agile Leadership
-- Organisational Culture
+- Discovery and Learning
 - Coaching
 - Organisational Agility
+- Organisational Culture
 - Personal
 - Sociotechnical Systems
 - Continuous Learning

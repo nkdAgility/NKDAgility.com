@@ -33,9 +33,9 @@ tags:
 - Decision Making
 - Evidence Based Management
 - Metrics and Learning
+- Value Delivery
 - Value Stream Management
 - Ability to Innovate
-- Value Delivery
 - Evidence Based Leadership
 - Flow Efficiency
 - Operational Practices

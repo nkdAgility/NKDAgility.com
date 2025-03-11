@@ -28,12 +28,12 @@ tags:
 - Continuous Learning
 - Discovery and Learning
 - People and Process
-- Team Performance
 - Customer Feedback Loops
 - Organisational Agility
 - Team Collaboration
 - Agile Project Management
 - Agile Transformation
+- Empirical Process Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6

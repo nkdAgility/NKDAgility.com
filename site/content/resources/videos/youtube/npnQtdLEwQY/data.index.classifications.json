@@ -373,11 +373,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:58:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:47:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical debt and its implications on software quality and development processes, which are relevant to software developers. However, it primarily focuses on the concept of technical debt rather than specific Agile or DevOps practices, making it a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses technical debt and its implications on software quality and development processes, which are relevant to software developers. However, it lacks explicit references to Agile or DevOps methodologies, which are central to the category. While it touches on the importance of quality and architectural decisions, it does not delve deeply into best practices or tools that support Agile and DevOps, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scaled Agile": {
@@ -1036,11 +1039,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T11:58:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:11:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses technical debt and quality issues in software development, with a specific example related to Azure DevOps. However, the primary focus is on technical debt management rather than Azure DevOps functionalities or practices.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses technical debt and its implications on software quality, with a specific mention of Azure DevOps in the context of a production incident. However, the primary focus is on technical debt rather than Azure DevOps itself. While there is some alignment with Azure DevOps principles, the depth of discussion on Azure DevOps services and practices is limited, making it a secondary topic rather than the main focus.",
     "level": "Tertiary"
   },
   "Products and Books": {

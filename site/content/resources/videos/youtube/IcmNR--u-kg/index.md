@@ -2,7 +2,7 @@
 title: "Transform Your Team's Skills: The Power of Immersive Learning in the Workplace"
 description: Transform your team's skills with immersive learning! Discover how hands-on experiences and coaching can enhance real-world application and foster growth.
 date: 2023-07-31T07:00:12Z
-weight: 775
+weight: 855
 ResourceId: IcmNR--u-kg
 ResourceType: videos
 ResourceImport: true

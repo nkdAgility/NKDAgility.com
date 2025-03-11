@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Software Development
 - Practical Techniques and Tooling
-- Modern Source Control
 - Application Lifecycle Management
 - Operational Practices
 - Install and Configuration
+- Modern Source Control
 - Azure DevOps
 - System Configuration
 - Software Developers

@@ -26,10 +26,10 @@ tags:
 - Application Lifecycle Management
 - Practical Techniques and Tooling
 - Software Development
-- Modern Source Control
-- System Configuration
 - Operational Practices
+- System Configuration
 - Pragmatic Thinking
+- Modern Source Control
 - Azure DevOps
 - Agile Frameworks
 - Agile Project Management

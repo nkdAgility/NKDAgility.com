@@ -30,6 +30,7 @@ sitemap:
 tags:
 - Software Developers
 - Software Development
+- Product Delivery
 - Value Delivery
 resourceTypes:
 - video

@@ -26,14 +26,14 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Product Delivery
+- Working Software
 - Value Delivery
 - Transparency
 - Increment
+- People and Process
 - Agile Product Operating Model
 - Agile Values and Principles
 - Agile Frameworks
-- Agile Philosophy
-- Agile Planning
 categories:
 - Scrum
 - Social Technologies

@@ -32,11 +32,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Scrum Master
-- Scrum Team
 - Agile Project Management
 - Personal
 - Software Development
+- Scrum Master
 resourceTypes:
 - video
 categories:

@@ -1057,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T00:02:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:23:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Visual Studio 2015 alongside 2013 on Windows 10, detailing best practices and considerations for software installation, which aligns well with the System Configuration category.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Visual Studio 2015 alongside 2013 on Windows 10, which aligns well with the category of System Configuration. It discusses specific installation steps, configuration options, and considerations for optimising the setup. However, while it provides practical advice and mentions configuration aspects, the depth of technical detail could be improved, and some sections veer into personal anecdotes and opinions, which slightly detracts from the strict focus on system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1111,12 +1114,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T00:02:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:49:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the installation of Visual Studio 2015 on Windows 10, including troubleshooting installation errors and configuration settings specific to the Windows environment.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2015 on Windows 10, which is a direct discussion of the Windows operating system. It includes specific installation procedures, troubleshooting tips related to Windows, and mentions of Windows features and updates. The depth of discussion is substantial, covering various aspects of the installation process and user experience on Windows. Overall, the content aligns well with the key topics outlined for the Windows category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

@@ -382,11 +382,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:39:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical issue related to database corruption during a software upgrade, detailing troubleshooting steps and SQL commands, which aligns closely with software craftsmanship and engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific technical issue encountered during a software upgrade, focusing on database corruption and the resolution process. While it does touch on technical aspects, such as SQL commands and error handling, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that would align it more closely with the 'Technical Mastery' category. The primary focus is on troubleshooting rather than on overarching engineering practices.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -1060,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:04:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrading process of TFS 2005 to TFS 2010 and identifies specific configuration issues encountered during the upgrade, including database connection errors and database corruption. This aligns with system configuration as it deals with the practicalities of configuring a system (TFS) and troubleshooting related issues.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses a specific issue encountered during the upgrade of TFS 2005 to TFS 2010, which directly relates to system configuration. It details the error message, the troubleshooting steps taken, and the command used to check and repair the database, all of which are relevant to system configuration practices. The discussion includes practical steps for resolving a configuration issue, aligning well with the category's focus. However, while the content is rich in detail regarding the specific problem, it does not cover broader best practices or methodologies for system configuration, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

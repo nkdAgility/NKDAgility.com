@@ -28,13 +28,13 @@ aliasesArchive:
 - /resources/blog/one-team-project
 tags:
 - Agile Planning Tools
-- Agile Planning
-- Agile Project Management
 - Software Developers
 - Software Development
+- Agile Project Management
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Azure Boards
+- Agile Planning
 - People and Process
 - Product Delivery
 categories:

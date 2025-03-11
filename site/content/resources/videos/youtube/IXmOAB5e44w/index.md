@@ -28,11 +28,10 @@ isShort: false
 tags:
 - People and Process
 - Miscellaneous
-- Discovery and Learning
+- Team Collaboration
 - Continuous Learning
 - Employee Engagement
 - Software Development
-- Team Collaboration
 - Team Motivation
 sitemap:
   filename: sitemap.xml

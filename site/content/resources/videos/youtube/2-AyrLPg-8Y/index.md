@@ -32,9 +32,9 @@ tags:
 - Agile Leadership
 - Agile Strategy
 - Agile Transformation
-- Business Agility
 - Continuous Learning
 - Decision Making
+- Empirical Process Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6

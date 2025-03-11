@@ -589,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:03:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:30:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the process of migrating source code between Team Foundation Servers using Git-Tf, focusing on practical software development techniques.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the process of migrating source code between Team Foundation Server (TFS) and Git, which is a key aspect of software development practices. It discusses specific tools (Git-Tf) and commands, demonstrating a clear understanding of version control systems and collaborative development. The depth of discussion includes practical examples and commands, aligning well with the core themes of software development methodologies and practices. The content does not merely mention software development but delves into a specific technical process, providing a high level of detail and practical guidance.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1216,12 +1219,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration of source code using Git and TFS, which relates to software development practices. However, it does not primarily focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating source code between Team Foundation Server and Git, which is relevant to software developers. However, it lacks explicit discussions on Agile or DevOps methodologies, and does not delve into best practices or collaborative aspects of software development. While it provides some depth in terms of technical commands and procedures, it does not align closely with the core themes of the category, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

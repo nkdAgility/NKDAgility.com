@@ -292,12 +292,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:17:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, but the primary focus is on SharePoint integration rather than Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and SharePoint integration, which are tangentially related to Azure DevOps but do not focus on Azure DevOps itself. There are no direct mentions of Azure DevOps services or functionalities, and the discussion lacks depth regarding Azure DevOps principles or practices.",
+    "level": "Quinary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -583,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:52:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and SharePoint in the context of creating sub-sites, which is relevant to software development practices. However, it leans more towards a technical troubleshooting discussion rather than a broader methodological approach within software development.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a technical issue related to the integration of Team Foundation Server (TFS) with SharePoint, which falls under software development practices. It mentions specific tools and configurations, indicating a focus on software engineering processes. However, while it touches on relevant topics, such as project creation and error handling, the depth of discussion is limited to a specific problem without broader context on methodologies or best practices in software development.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {

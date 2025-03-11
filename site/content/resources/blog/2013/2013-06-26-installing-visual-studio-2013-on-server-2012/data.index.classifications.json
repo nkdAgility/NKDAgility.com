@@ -376,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 2013, which relates to software tooling and technical setup, but it focuses more on the installation steps rather than broader software craftsmanship principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013, which is a technical task but does not delve into broader principles of software craftsmanship or engineering practices. While it mentions aspects of configuration and user experience, it lacks a discussion on best practices, code quality, or methodologies that contribute to high-quality software development. Therefore, it has a low confidence score in the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1054,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:08:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:28:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration process of Visual Studio 2013, which aligns with the practices involved in setting up software to achieve optimal performance.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Visual Studio 2013 on Server 2012, which aligns well with the category of System Configuration. It discusses the installation process, requirements, and considerations for configuring the software, which are all relevant to system configuration practices. However, while it provides a fair amount of detail about the installation steps and personal experiences, it lacks a deeper exploration of broader system optimisation strategies or configuration management tools, which slightly limits its depth of discussion. Overall, the content is a strong fit for the category, but not exhaustive in its exploration of all aspects of system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {

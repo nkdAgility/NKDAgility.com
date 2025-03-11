@@ -25,6 +25,7 @@ aliasesArchive:
 tags:
 - Digital Transformation
 - News and Reviews
+- Pragmatic Thinking
 categories:
 - DevOps
 preview: government-cloud-640x400-1-1.png

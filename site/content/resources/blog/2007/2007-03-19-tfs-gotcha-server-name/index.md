@@ -31,10 +31,10 @@ categories: []
 tags:
 - Install and Configuration
 - Windows
-- Practical Techniques and Tooling
 - Software Development
 - System Configuration
 - Troubleshooting
+- Practical Techniques and Tooling
 
 ---
 If you are installing TFS in a large network that utilises proxy servers, especialy those that strip network credentials for what it thinks are internet sites, then you may run into problems..

@@ -26,6 +26,7 @@ duration: 237
 isShort: false
 tags:
 - People and Process
+- Agile Project Management
 - Accountability
 - Professional Scrum
 - Team Performance
@@ -34,7 +35,6 @@ tags:
 - Agile Product Management
 - Pragmatic Thinking
 - Team Collaboration
-- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

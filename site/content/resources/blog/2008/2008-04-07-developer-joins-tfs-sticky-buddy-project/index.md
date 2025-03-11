@@ -23,7 +23,7 @@ aliasesArchive:
 - /developer-joins-tfs-sticky-buddy-project
 - /resources/blog/developer-joins-tfs-sticky-buddy-project
 tags:
-- Software Development
+- News and Reviews
 categories: []
 
 ---

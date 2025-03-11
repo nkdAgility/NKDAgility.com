@@ -30,6 +30,7 @@ tags:
 - System Configuration
 - Troubleshooting
 - Install and Configuration
+- Pragmatic Thinking
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

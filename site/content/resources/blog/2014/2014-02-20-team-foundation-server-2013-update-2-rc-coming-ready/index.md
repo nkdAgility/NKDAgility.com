@@ -31,9 +31,9 @@ aliasesArchive:
 - /blog/team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
 - /resources/blog/team-foundation-server-2013-update-2-rc-coming-ready
 tags:
-- Software Development
 - News and Reviews
 - Practical Techniques and Tooling
+- Software Development
 - Install and Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png

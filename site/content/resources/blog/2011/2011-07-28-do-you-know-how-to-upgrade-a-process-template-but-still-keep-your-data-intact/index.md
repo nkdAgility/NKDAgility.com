@@ -31,8 +31,8 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Operational Practices
-- Pragmatic Thinking
 - System Configuration
+- Pragmatic Thinking
 - Troubleshooting
 - Technical Mastery
 categories: []

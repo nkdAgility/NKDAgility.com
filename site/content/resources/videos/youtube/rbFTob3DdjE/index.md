@@ -26,8 +26,9 @@ duration: 39
 isShort: true
 tags:
 - Team Collaboration
-- People and Process
 - Collaboration Tools
+- People and Process
+- Agile Project Management
 - Team Performance
 sitemap:
   filename: sitemap.xml

@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/tfs-2012-issue--get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 - /resources/blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 tags:
+- Troubleshooting
 - Install and Configuration
 - Software Development
-- Troubleshooting
 - Practical Techniques and Tooling
 - System Configuration
 categories: []

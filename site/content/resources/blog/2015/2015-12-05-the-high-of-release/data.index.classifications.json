@@ -151,11 +151,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T11:47:48",
+    "ai_confidence": 85.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
     "final_score": 78.0,
-    "reasoning": "The content primarily discusses a specific event where the author presented on DevOps tools, sharing insights from that presentation and detailing the focus of their session.",
+    "reasoning": "The content explicitly mentions attending the Microsoft Future Decoded event and discussing a presentation on Release Management tools, which directly aligns with the category of Events and Presentations. The focus on DevOps and the details about the session indicate a strong connection to the themes of the category. However, while the content provides insights into the tools discussed, it lacks extensive detail on the event itself or broader discussions that typically characterise presentations, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -346,11 +349,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-14T22:59:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:22:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the release of new DevOps tools by Microsoft, which aligns with industry news and updates relevant to Agile and DevOps practices.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses a recent event (Microsoft Future Decoded) and provides insights into new Release Management tools related to DevOps, which aligns well with the category. It mentions specific tools and their applications, indicating a focus on industry updates. However, while it provides some detail, it lacks a comprehensive review or analysis of the tools, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {

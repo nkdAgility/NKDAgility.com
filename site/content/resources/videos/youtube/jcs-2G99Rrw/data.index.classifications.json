@@ -28,12 +28,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:19:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses issues related to the product backlog in Azure DevOps, specifically around the hierarchy of work items and how it affects backlog management. However, the primary focus is on general usage issues of Azure DevOps rather than a comprehensive discussion on the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Azure DevOps and mentions the product backlog in the context of work item hierarchy and management. However, while it touches on the concept of the product backlog, the primary focus is on the issues users face with Azure DevOps rather than a comprehensive exploration of backlog management techniques or practices. The discussion lacks depth in terms of backlog refinement, prioritisation, and the role of the Product Owner, which are key aspects of the Product Backlog category.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -568,11 +571,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T23:54:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:56:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical issues and mistakes in using Azure DevOps, highlighting real-world applications and problem-solving strategies relevant to Agile practices. It focuses on the practical implications of using the tool effectively, which aligns well with the category of Pragmatic Thinking.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical issues faced by users of Azure DevOps, highlighting real-world problems and solutions in an Agile context. It provides insights into the evolution of Azure DevOps and its intended use, which aligns with pragmatic thinking. However, while it mentions Agile practices and the intent behind the tool, the focus is more on specific issues rather than broader problem-solving strategies or case studies, leading to a slightly lower depth score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {

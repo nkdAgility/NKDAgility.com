@@ -35,8 +35,8 @@ tags:
 - Agile Strategy
 - Pragmatic Thinking
 - Technical Leadership
-- Value Delivery
 - Azure DevOps
+- Deployment Frequency
 resourceTypes:
 - video
 layout: video

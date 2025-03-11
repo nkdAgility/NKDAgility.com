@@ -583,12 +583,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuration specifics for a SharePoint system, which is a software product, but it primarily focuses on proxy settings rather than broader software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses proxy server settings specifically for SharePoint 2007, which is a technical aspect of software configuration. However, it lacks a broader discussion on software development methodologies, practices, or frameworks. The focus is primarily on a specific implementation detail rather than the software development lifecycle or best practices, leading to a low confidence score in alignment with the Software Development category.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -952,12 +955,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:49:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical configurations for proxy settings within SharePoint, which relates to software engineering practices, but it mainly focuses on specific implementation rather than broader principles or methodologies of technical mastery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on specific technical configurations for SharePoint 2007, which does not align with the broader principles of software craftsmanship or engineering excellence. While it provides some technical details, it lacks a discussion on best practices, code quality, or methodologies that contribute to high-quality software development. The mention of proxy settings is too narrow and does not encompass the key topics outlined in the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",

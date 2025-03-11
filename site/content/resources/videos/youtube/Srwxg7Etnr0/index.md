@@ -31,13 +31,13 @@ tags:
 - People and Process
 - Scrum Product Development
 - Scrum Team
+- Software Development
 - Agile Planning
 - Scrum Master
 - Agile Project Management
-- Software Development
 - Agile Product Management
 - Professional Scrum
-- Agile Frameworks
+- Software Developers
 resourceTypes:
 - video
 categories:

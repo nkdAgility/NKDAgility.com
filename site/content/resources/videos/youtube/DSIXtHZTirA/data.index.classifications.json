@@ -301,11 +301,14 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-12T08:19:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T09:48:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of performance engineering and user experience, which are closely related to customer satisfaction. It highlights how understanding user needs and gathering feedback can enhance the overall experience, making customer satisfaction a significant theme. However, the primary focus is on technical implementation and processes rather than a direct exploration of customer satisfaction principles.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of performance engineering and its direct impact on user satisfaction, which aligns well with the principles of customer satisfaction. It highlights the need for understanding customer needs through feedback and telemetry, and it describes a process for enhancing user experience through iterative testing and deployment. However, while customer satisfaction is a significant theme, the primary focus is more on technical implementation and performance rather than a holistic view of customer satisfaction strategies. Therefore, the confidence score reflects a strong alignment with the category but acknowledges that it is not the sole focus.",
     "level": "Secondary"
   },
   "Lean Thinking": {
@@ -328,11 +331,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T08:19:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:12:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses performance engineering, automated testing, and continuous delivery, which are central to Agile engineering practices. It emphasises the importance of testing in production, automation, and user feedback, aligning well with the principles of high-quality software engineering.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses performance engineering and the importance of getting software into production quickly, which aligns with Agile principles. It mentions automated testing and audience-based deployment, reflecting aspects of CI/CD. However, the primary focus is on performance rather than core engineering practices like clean code or TDD, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {

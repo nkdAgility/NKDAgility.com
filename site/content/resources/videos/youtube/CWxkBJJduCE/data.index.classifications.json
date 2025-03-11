@@ -328,12 +328,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:02:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:49:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses pair programming and its impact on productivity and architecture, which touches on team dynamics and technical practices. However, it primarily focuses on technical aspects without a strong emphasis on the organisational context or broader sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses pair programming and test-driven development (TDD) in the context of software architecture, which touches on technical practices but lacks a strong focus on the sociotechnical interplay. While it hints at productivity and team dynamics, it does not explicitly address organisational culture, communication, or the broader sociotechnical implications of these practices. Therefore, while there is some relevance, it does not meet the primary focus required for a higher confidence score.",
+    "level": "Quaternary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -826,11 +829,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:12:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Test-Driven Development (TDD) and pair programming, which are modern engineering practices relevant to software developers. However, it does not engage deeply with Agile or DevOps principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Test-Driven Development (TDD) and pair programming, which are modern engineering practices relevant to software developers. However, it lacks explicit references to Agile or DevOps methodologies, which are central to the category. The discussion is somewhat detailed but does not fully explore the broader implications of these practices within Agile frameworks or team dynamics.",
     "level": "Secondary"
   },
   "Engineering Practices": {

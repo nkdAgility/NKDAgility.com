@@ -1114,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T20:20:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses an issue related to access permissions in the Program Files directory on a Windows operating system, specifically in the context of TFS Integration Tools. It provides a workaround that involves modifying permissions, which is a key aspect of managing the Windows environment.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Tools, which operates within the Windows environment. It mentions an 'Unauthorized Access Exception' when trying to write to a directory in 'C:Program Files', indicating a direct interaction with the Windows file system. However, while it touches on troubleshooting and permissions, it lacks broader discussions on Windows installation, configuration, or updates, which are key themes of the category. The depth of discussion is moderate, focusing on a specific error rather than a comprehensive guide on Windows management.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1168,11 +1171,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T20:20:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:59:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific issue related to access permissions in TFS Integration Tools, providing insights on diagnosing and resolving the problem, which aligns well with troubleshooting methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific issue related to the TFS Integration Tools, detailing the 'Unauthorized Access Exception' and providing a workaround to resolve the problem. It aligns well with the core themes of troubleshooting by identifying a technical issue, explaining the context, and offering a practical solution. The depth of discussion is substantial, as it not only describes the error but also suggests a method to rectify it, demonstrating a clear understanding of troubleshooting methodologies.",
     "level": "Secondary"
   },
   "Experimentation": {

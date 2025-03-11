@@ -589,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:30:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:27:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of SharePoint with Team Foundation Server (TFS), which is relevant to software development processes and practices, particularly in the context of Application Lifecycle Management (ALM) and collaboration tools used in software project management.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server (TFS), which is a relevant topic within the software development domain. It discusses specific steps and configurations, aligning well with best practices in software development and version control systems. The depth of discussion is substantial, providing detailed instructions and considerations for integration, which is crucial for software engineering outcomes. However, the content leans heavily on a specific tool integration rather than broader software development methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1111,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:30:36",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T11:53:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the installation and configuration of SharePoint Server 2013 on Windows Server 2012, which falls within the Windows category's focus on installation and configuration settings. However, the primary theme revolves around SharePoint integration rather than Windows itself.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the integration of SharePoint 2013 with Team Foundation Server 2013, which involves installation and configuration steps that are relevant to the Windows operating system. While it does mention Windows Server and installation procedures, the focus is more on SharePoint and TFS rather than on Windows itself. The content does not delve deeply into Windows-specific troubleshooting, updates, or performance optimisation, which are key themes of the Windows category. Therefore, while there is some relevance, it does not fully align with the primary focus of the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

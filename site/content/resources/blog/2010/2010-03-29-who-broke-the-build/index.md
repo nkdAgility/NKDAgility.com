@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/who-broke-the-build
 tags:
 - Windows
-- Application Lifecycle Management
 - Modern Source Control
 - Software Developers
 - System Configuration
 - Accountability
-- Azure DevOps
 - Azure Pipelines
 - Continuous Delivery
 - Continuous Integration
+- Engineering Practices
+- Operational Practices
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - Engineering Excellence

@@ -31,11 +31,11 @@ sitemap:
 tags:
 - Agile Product Management
 - Value Delivery
+- Product Strategy
 - Product Owner
 - Product Validation
 - Agile Product Operating Model
 - Product Discovery
-- Product Strategy
 - Agile Strategy
 - People and Process
 - Pragmatic Thinking

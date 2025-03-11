@@ -29,12 +29,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
 - Agile Planning Tools
 - Agile Product Management
-- Product Owner
+- Agile Project Management
 - Product Backlog
 - Product Delivery
+- Product Owner
 - Software Development
 - Transparency
 - Value Delivery

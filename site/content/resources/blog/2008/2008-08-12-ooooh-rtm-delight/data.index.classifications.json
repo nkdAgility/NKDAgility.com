@@ -283,12 +283,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:11:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Team Foundation Server, which is part of Azure DevOps, but primarily focuses on other aspects of .NET and Visual Studio improvements.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content mentions Team Foundation Server (TFS), which is part of Azure DevOps, but it primarily focuses on the release of various Microsoft products and improvements in the .NET Framework. While there is some discussion of TFS, it lacks a comprehensive exploration of Azure DevOps functionalities, methodologies, or best practices, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -667,12 +670,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improvements and features in Visual Studio and Team Foundation Server that are relevant to developers, but it lacks a strong focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses various tools and technologies relevant to software developers, such as Visual Studio, Team Foundation Server, and the .NET Framework. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. While it mentions improvements beneficial to developers, it does not delve into best practices or the role of developers within Agile or DevOps contexts, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",

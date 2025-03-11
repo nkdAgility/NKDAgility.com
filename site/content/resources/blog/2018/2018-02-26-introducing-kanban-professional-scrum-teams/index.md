@@ -33,10 +33,10 @@ tags:
 - Agile Frameworks
 - News and Reviews
 - Operational Practices
-- Products and Books
 - Software Developers
 - Software Development
 - Pragmatic Thinking
+- Events and Presentations
 categories:
 - Social Technologies
 - Kanban

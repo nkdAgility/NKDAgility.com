@@ -30,7 +30,6 @@ tags:
 - Azure DevOps
 - Azure Pipelines
 - Release Management
-- Product Delivery
 - Software Development
 - Install and Configuration
 categories:

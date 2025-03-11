@@ -33,7 +33,6 @@ tags:
 - Discovery and Learning
 - Continuous Learning
 - Pragmatic Thinking
-- Agile Philosophy
 - Metrics and Learning
 resourceTypes:
 - video

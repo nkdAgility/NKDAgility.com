@@ -40,12 +40,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:10:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Event Handler and its improvements, which relate to software development practices, but it primarily focuses on the tool's features rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the release of a specific tool (TFS Event Handler) and its features, which does not directly discuss engineering practices or methodologies that enhance agility in software development. While it mentions technical aspects of the tool, such as its development in .NET and the ability to notify users of changes, it lacks a broader discussion on principles like TDD, CI/CD, or modular architecture. The content is more about a product update than a discourse on technical excellence.",
+    "level": "Quaternary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -442,12 +445,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:44:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improvements and features of a specific software tool (TFS Event Handler) and provides technical details, but the main focus is more on the tool's functionality rather than broader principles of software craftsmanship or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the release of a specific tool (TFS Event Handler) and its features, which does not directly address the principles of software craftsmanship or engineering excellence. While it provides some technical details about the tool and its implementation, it lacks a broader discussion on best practices, methodologies, or principles that contribute to high-quality software development. The mention of technical aspects is present but not the primary focus, leading to a low confidence score in the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Accountability": {
     "category": "Accountability",

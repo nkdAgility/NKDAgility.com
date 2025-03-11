@@ -31,7 +31,6 @@ tags:
 - Azure DevOps
 - One Engineering System (1ES)
 - People and Process
-- Digital Transformation
 - Software Developers
 - Software Development
 - Operational Practices

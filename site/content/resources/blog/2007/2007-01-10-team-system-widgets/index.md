@@ -23,6 +23,7 @@ aliasesArchive:
 - /team-system-widgets
 - /resources/blog/team-system-widgets
 tags:
+- Miscellaneous
 - Products and Books
 categories: []
 

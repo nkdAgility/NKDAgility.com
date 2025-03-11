@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:15:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of using Visual Studio 2008, including project upgrades and prerequisites, which are related to installation and configuration, but the primary focus is on user experience and features rather than detailed installation or configuration procedures.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses various aspects of using Visual Studio 2008, including the need to upgrade existing projects and the implications of targeting different .NET Framework versions. It mentions the installation of the Team Explorer client and the need to manually adjust project settings, which aligns with installation and configuration topics. However, the discussion lacks detailed step-by-step instructions or troubleshooting advice, which limits its depth in the category.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -1090,12 +1093,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:50:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Visual Studio 2008, which includes mentions of targeting multiple versions of the .NET Framework for Windows and provides insights relevant to Windows application development. However, the primary focus is on Visual Studio rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses Visual Studio 2008, which is a development environment for Windows applications. It mentions Windows in the context of project creation and framework targeting, indicating a focus on Windows development. However, the primary focus is on Visual Studio features rather than Windows OS management or troubleshooting, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

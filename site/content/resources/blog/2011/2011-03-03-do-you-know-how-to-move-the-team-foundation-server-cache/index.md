@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Windows
-- Software Development
 - System Configuration
-- Troubleshooting
+- Software Development
 - Practical Techniques and Tooling
+- Troubleshooting
 categories: []
 
 ---

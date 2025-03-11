@@ -265,11 +265,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:00:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Visual Studio 11 and its Team Foundation Server, which are tools relevant to Agile practices, but the primary focus is on the health check service rather than a detailed analysis or review of the products themselves.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Visual Studio 11 and its Team Foundation Server, which are tools relevant to Agile practices. However, the focus is primarily on a service offering rather than a detailed review or analysis of the product itself. While there are mentions of upgrading and enabling features, the depth of discussion on how these tools enhance Agile methodologies is limited.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -283,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:35:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Visual Studio 11 Team Foundation Server, which is part of the Azure DevOps suite, but the primary focus is on health checks and upgrades rather than Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content mentions Visual Studio 11 Team Foundation Server, which is part of the Azure DevOps suite, but it primarily focuses on upgrading and health checks rather than discussing Azure DevOps functionalities or best practices in detail. The discussion is more about the transition process and support rather than the core themes of Azure DevOps, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",

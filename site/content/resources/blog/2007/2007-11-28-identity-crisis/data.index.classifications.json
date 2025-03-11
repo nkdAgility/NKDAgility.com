@@ -346,12 +346,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:14:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Microsoft's Identity Lifecycle Manager 2007 as a potential solution for user identity management, which aligns with the category's focus on tools and software relevant to business practices. However, it primarily focuses on the implementation and functionality of the product rather than providing a review or analysis typical of the category.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses Microsoft's Identity Lifecycle Manager 2007 as a solution for managing user identities, which aligns with the category of Products and Books. It provides a detailed overview of the product's features, benefits, and potential applications in a business context, demonstrating a clear focus on a specific software product. The discussion includes direct mentions of the product's capabilities and its relevance to operational efficiency and compliance, which are key themes in Agile and DevOps practices. However, while the content is rich in detail about the product, it lacks a broader analysis or comparison with other tools or literature, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -373,11 +376,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T20:09:39",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:48:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the implementation and potential benefits of Microsoft's Identity Lifecycle Manager 2007, focusing on system configuration aspects like integration of disparate user identity systems and automation of processes in an organization's infrastructure. While it heavily revolves around the software and its functions, it does delve into configuration-related themes, making it a major but secondary theme.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the implementation of Microsoft's Identity Lifecycle Manager 2007, which is directly related to system configuration as it involves setting up and managing user identities across various systems. It mentions specific agents and connectors, which aligns with the category's focus on configuration management tools. However, while it provides some detail on the functionality and benefits of ILM, it lacks a comprehensive exploration of best practices or troubleshooting strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {

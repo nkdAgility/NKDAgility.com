@@ -34,11 +34,11 @@ aliasesArchive:
 tags:
 - People and Process
 - Agile Project Management
-- Agile Frameworks
 - Product Delivery
 - Value Delivery
-- Agile Product Management
 - Agile Leadership
+- Agile Product Management
+- Agile Frameworks
 - Scrum Product Development
 - Technical Leadership
 categories:

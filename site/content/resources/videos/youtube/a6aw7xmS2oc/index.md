@@ -32,8 +32,8 @@ tags:
 - Decision Making
 - Evidence Based Leadership
 - Metrics and Learning
-- Product Delivery
 - Scrum Product Development
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

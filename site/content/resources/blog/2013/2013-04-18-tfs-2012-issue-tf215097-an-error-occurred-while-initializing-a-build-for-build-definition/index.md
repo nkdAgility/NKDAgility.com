@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 tags:
 - Install and Configuration
-- Continuous Integration
 - Software Development
 - System Configuration
 - Troubleshooting

@@ -952,12 +952,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:13:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical challenge related to moving SQL Server databases in the context of SharePoint, touching on some relevant aspects of database management and technical solutions. However, it mainly focuses on the plan for moving databases rather than broader software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the technical challenge of moving SQL Server databases for SharePoint, which touches on aspects of software architecture and database management. However, it lacks a comprehensive exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development. The focus is primarily on a specific technical issue rather than broader engineering excellence.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1225,12 +1228,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:47:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides a practical plan for moving SQL Server databases related to SharePoint, which involves problem-solving and real-world application of techniques to mitigate challenges. However, it is primarily focused on specific technical steps rather than broader discussions of Agile, Scrum, or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a practical problem related to moving SQL Server databases in a SharePoint context, which aligns with pragmatic thinking. It mentions a specific plan and considerations for mitigating potential issues, demonstrating real-world application. However, the discussion lacks depth in terms of broader Agile or DevOps principles and does not explicitly mention these frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",

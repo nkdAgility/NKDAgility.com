@@ -29,11 +29,11 @@ aliasesArchive:
 - /blog/visual-studio-2010-overview---intellitrace-and-test-impact-analysis
 - /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 tags:
-- Automated Testing
 - Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
 - Technical Excellence
+- Automated Testing
 - Events and Presentations
 - Application Lifecycle Management
 - Technical Mastery

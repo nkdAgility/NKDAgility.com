@@ -40,8 +40,8 @@ tags:
 - Agile Product Management
 - Agile Transformation
 - Professional Scrum
-- Team Performance
 - Scrum Master
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

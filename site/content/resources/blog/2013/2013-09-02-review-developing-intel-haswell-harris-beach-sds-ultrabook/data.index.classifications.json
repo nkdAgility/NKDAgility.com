@@ -208,11 +208,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T10:27:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance with Windows 8 and development tools, rather than discussing engineering practices or methodologies that enhance agility in software development.",
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance with Windows 8.1, rather than discussing engineering practices or methodologies that enhance software development. While there are mentions of development tools like Visual Studio and some technical aspects related to the laptop's capabilities, the discussion lacks depth in terms of technical excellence principles such as TDD, CI/CD, or modular architecture. The content does not provide a structured analysis of how these technical aspects contribute to agile practices or project success.",
     "level": "Quaternary"
   },
   "Complexity Thinking": {
@@ -376,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:52:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the performance of a laptop for software development, including specific technical challenges and experiences with Windows 8.1 and Visual Studio, which are relevant to software craftsmanship. However, the primary focus is on the review of the laptop rather than on broader engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a personal review of a laptop and its performance with Windows 8 and development tools, rather than discussing best practices or principles of software craftsmanship. While it mentions the use of Visual Studio and some technical aspects of development, these are secondary to the overall narrative of the review. The discussion lacks depth in technical methodologies or engineering practices, which are essential for a higher confidence score in the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
