@@ -23,8 +23,8 @@ aliasesArchive:
 - /access-to-team-foundation-server
 - /resources/blog/access-to-team-foundation-server
 tags:
-- Application Lifecycle Management
 - Miscellaneous
+- Application Lifecycle Management
 - Software Development
 - Troubleshooting
 categories: []

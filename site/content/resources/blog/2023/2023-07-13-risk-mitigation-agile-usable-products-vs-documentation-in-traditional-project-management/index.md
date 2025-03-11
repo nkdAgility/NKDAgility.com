@@ -33,11 +33,11 @@ tags:
 - Product Delivery
 - Agile Project Management
 - Increment
+- Value Delivery
 - Agile Philosophy
 - Agile Strategy
 - Agile Values and Principles
 - Software Development
-- Working Software
 categories:
 - Social Technologies
 - Product Management

@@ -241,12 +241,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T19:39:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:10:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile leadership and its impact on team dynamics, which is relevant to product delivery, but it primarily focuses on leadership styles rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses agile leadership in contrast to traditional management, which is tangentially related to product delivery. While it mentions agile methodologies, it lacks a direct focus on the end-to-end process of delivering software products. The discussion does not delve into specific practices or methodologies related to product delivery, such as testing, deployment, or cross-functional teams, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",

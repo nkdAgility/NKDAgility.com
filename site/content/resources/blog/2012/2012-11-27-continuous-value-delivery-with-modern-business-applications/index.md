@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
 - Continuous Delivery
-- Software Developers
 - Value Delivery
 - Working Software
 - Business Agility
@@ -33,10 +32,11 @@ tags:
 - News and Reviews
 - Product Delivery
 - Software Development
+- Technical Excellence
 categories:
-- Social Technologies
 - DevOps
 - Engineering Excellence
+- Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 
 ---

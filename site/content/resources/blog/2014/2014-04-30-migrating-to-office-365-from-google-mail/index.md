@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Install and Configuration
-- System Configuration
 - Practical Techniques and Tooling
+- System Configuration
 categories: []
 preview: metro-office-128-link-3-3.png
 

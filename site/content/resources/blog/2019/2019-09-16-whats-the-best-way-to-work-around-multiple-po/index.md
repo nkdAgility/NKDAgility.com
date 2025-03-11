@@ -36,7 +36,7 @@ tags:
 - Scrum Team
 - Agile Product Operating Model
 - Agile Project Management
-- Product Delivery
+- Value Delivery
 categories:
 - Scrum
 preview: 495173592-1-1.jpg

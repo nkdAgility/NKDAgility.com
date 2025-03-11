@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 tags:
 - Practical Techniques and Tooling
-- Modern Source Control
 - Install and Configuration
 - Software Development
+- Modern Source Control
 categories: []
 
 ---

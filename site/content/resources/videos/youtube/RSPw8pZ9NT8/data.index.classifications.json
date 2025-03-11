@@ -37,12 +37,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T19:03:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:09:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of workflow optimisation and forecasting that relate to product management, but it primarily focuses on Kanban and its application rather than the strategic alignment of customer needs and business objectives.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Kanban as a workflow strategy and its application in various processes, including Scrum and DevOps. While it touches on aspects of monitoring workflow and improving delivery, it lacks a direct focus on the strategic alignment of customer needs, business objectives, and technical capabilities that characterises product management. The discussion is more centred on operational methodologies rather than the strategic frameworks and decision-making processes that guide product managers. Therefore, while there are relevant elements, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -136,11 +139,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T19:03:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:09:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the Kanban framework, its principles, and its application in various contexts, making it a clear focus of the discussion.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the Kanban framework, discussing its principles, applications, and how it can be used to optimise workflows. It provides a detailed exploration of Kanban's role in monitoring processes and enhancing value delivery, which aligns well with the core themes of Agile frameworks. However, while it mentions Scrum and other methodologies, the depth of discussion is primarily centred on Kanban, which slightly limits its overall alignment with the broader category of Agile frameworks.",
     "level": "Secondary"
   },
   "Revenue per Employee": {

@@ -382,11 +382,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T23:56:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:32:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the technical process of configuring a Domain Controller in Azure, including best practices for virtual machine setup, Active Directory installation, and management. It aligns well with the principles of software craftsmanship and engineering practices.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed walkthrough of configuring a Domain Controller in Azure, which aligns closely with best practices in software architecture and engineering. It discusses the technical aspects of setting up Active Directory, including the installation of required components and the promotion of the server to a domain controller. The depth of discussion is significant, covering various technical considerations and configurations, which demonstrates a strong focus on technical mastery. However, while it is primarily technical, some sections could be seen as tangentially related to broader project management or operational concerns, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {

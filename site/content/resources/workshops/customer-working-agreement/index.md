@@ -33,12 +33,12 @@ tags:
 - Working Agreements
 - Agile Planning
 - Agile Project Management
-- Software Development
 - Transparency
 - Agile Product Management
 - Transparency and Accountability
 - People and Process
 - Product Delivery
+- Agile Frameworks
 
 ---
 ## Customer Working Agreement

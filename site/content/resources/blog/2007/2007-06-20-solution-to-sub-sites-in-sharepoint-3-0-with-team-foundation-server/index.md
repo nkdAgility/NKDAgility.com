@@ -25,9 +25,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Pragmatic Thinking
-- Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
+- Software Development
 - Operational Practices
 preview: nakedalm-logo-128-link-1-1.png
 categories: []

@@ -379,12 +379,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:52:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:06:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an error related to Team Foundation Version Control, which is a part of Azure Repos, but it primarily focuses on the error message and troubleshooting rather than exploring broader functionalities or best practices of Azure Repos itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific error (TF14002) related to Team Foundation Version Control (TFVC), which is a component of Azure Repos. However, the discussion is primarily focused on a specific issue rather than a broader exploration of Azure Repos functionalities or best practices. While it mentions source control and references Team Foundation, it lacks depth in discussing the overall role of Azure Repos, branching strategies, or integration with CI/CD processes. Therefore, it aligns with the category but does not provide a comprehensive overview.",
+    "level": "Quaternary"
   },
   "Definition of Done": {
     "category": "Definition of Done",

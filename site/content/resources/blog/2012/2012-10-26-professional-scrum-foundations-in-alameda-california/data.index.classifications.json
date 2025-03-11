@@ -229,11 +229,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T16:30:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:41:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Professional Scrum Foundations course, which focuses on Scrum practices and methodologies that are integral to the product delivery process, including sprints, team dynamics, and stakeholder involvement.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the Professional Scrum Foundations course, which is directly related to Agile methodologies and the product delivery process. It covers key aspects such as team dynamics, iterative development through sprints, stakeholder involvement, and the importance of feedback loops. The depth of discussion on practical applications of Scrum, including the roles, artefacts, and events, aligns well with the core themes of product delivery. However, while it is focused on Scrum, it does not delve deeply into broader product delivery strategies or metrics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -1381,12 +1384,15 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T11:49:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:41:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team dynamics and the role of various stakeholders in the Scrum process, indicating a secondary theme of leadership in fostering collaboration and accountability.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Professional Scrum Foundations course, detailing its structure and activities rather than discussing leadership practices. While there are mentions of team dynamics and the importance of collaboration, these are secondary to the technical aspects of Scrum implementation. The discussion lacks depth in leadership strategies or frameworks, which are essential for a higher confidence score in the Leadership category.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

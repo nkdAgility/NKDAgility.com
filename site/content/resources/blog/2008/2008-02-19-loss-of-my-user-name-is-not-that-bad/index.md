@@ -27,8 +27,8 @@ aliasesArchive:
 - /loss-of-my-user-name-is-not-that-bad
 - /resources/blog/loss-of-my-user-name-is-not-that-bad
 tags:
-- Software Development
 - Windows
+- Software Development
 categories: []
 preview: metro-binary-vb-128-link-2-2.png
 

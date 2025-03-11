@@ -26,12 +26,12 @@ isShort: false
 tags:
 - Operational Practices
 - Practical Techniques and Tooling
-- Team Collaboration
 - Agile Frameworks
 - Agile Project Management
 - People and Process
 - Software Development
 - Flow Efficiency
+- Team Collaboration
 - Pragmatic Thinking
 - Transparency
 sitemap:

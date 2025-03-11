@@ -35,9 +35,9 @@ tags:
 - People and Process
 - Personal
 - Transparency and Accountability
-- Agile Values and Principles
 - Scrum Values
 - Transparency
+- Agile Values and Principles
 resourceTypes:
 - video
 categories:

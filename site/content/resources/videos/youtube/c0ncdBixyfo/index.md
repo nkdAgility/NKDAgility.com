@@ -37,7 +37,7 @@ tags:
 - Change Management
 - Employee Engagement
 - Organisational Physics
-- Organisational Psychology
+- Team Collaboration
 resourceTypes:
 - video
 categories:

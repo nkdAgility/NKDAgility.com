@@ -30,12 +30,12 @@ aliasesArchive:
 - /resources/blog/visual-studio-2010-overview-intellitrace-and-test-impact-analysis
 tags:
 - Automated Testing
-- Application Lifecycle Management
 - Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
 - Technical Excellence
 - Events and Presentations
+- Application Lifecycle Management
 - Technical Mastery
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:

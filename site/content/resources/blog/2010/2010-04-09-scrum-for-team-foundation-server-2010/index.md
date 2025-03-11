@@ -29,10 +29,10 @@ tags:
 - Software Development
 - Agile Planning Tools
 - Agile Project Management
-- Product Delivery
 - Agile Frameworks
 - Agile Planning
 - Practical Techniques and Tooling
+- Product Delivery
 categories:
 - Social Technologies
 - Scrum

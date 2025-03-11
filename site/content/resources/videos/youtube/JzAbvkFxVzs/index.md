@@ -29,11 +29,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Pragmatic Thinking
 - Scrum Master
 - Software Development
 - Agile Philosophy
 - Agile Project Management
-- Pragmatic Thinking
 - People and Process
 - Agile Values and Principles
 - Agile Frameworks

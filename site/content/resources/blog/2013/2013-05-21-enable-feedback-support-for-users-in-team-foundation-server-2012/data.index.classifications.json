@@ -352,12 +352,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T18:41:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:39:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses enabling feedback support in Team Foundation Server 2012, which is a tool related to Application Lifecycle Management. It covers configuration steps that are essential for managing the application lifecycle, particularly in the context of user feedback and permissions, aligning well with the principles of ALM.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on enabling feedback support in Team Foundation Server 2012, which is a specific aspect of application management. While it touches on configuration and permissions, it lacks a comprehensive discussion of the broader application lifecycle stages, best practices, or tools that are central to Application Lifecycle Management. The mention of feedback features does relate to user input in the lifecycle but does not delve into governance, compliance, or integration with Agile/DevOps principles, which are key themes of the category.",
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",

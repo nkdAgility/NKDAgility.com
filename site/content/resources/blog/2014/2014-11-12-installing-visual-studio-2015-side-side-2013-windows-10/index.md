@@ -29,10 +29,10 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Windows
-- Software Development
 - System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling
+- Software Development
 - Products and Books
 categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png

@@ -337,11 +337,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-15T18:03:03",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:37:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the journey of the TFS team towards agility, including challenges faced and the importance of transparency and quality in agile practices. However, the primary focus is on the product and its updates rather than a broader exploration of organisational agility principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the transition of the Team Foundation Server (TFS) team towards agility, highlighting the challenges faced and the importance of transparency and quality in a shorter release cycle. It mentions the concept of 'undone work' and technical debt, which are relevant to organisational agility. However, while it touches on agile practices and the journey towards agility, it does not delve deeply into broader organisational strategies or cultural shifts, which limits its overall depth in the context of organisational agility.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -1378,12 +1381,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:15:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:37:19",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to Agile practices within the Team Foundation Server team, highlighting the challenges and improvements related to Scrum principles, but it primarily focuses on the product's readiness and historical context rather than a detailed exploration of social technologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the transition of the Team Foundation Server (TFS) team to Agile practices, specifically mentioning Sprints and the challenges of embracing agility. However, it lacks a detailed exploration of Scrum, Kanban, Lean, or Agile methodologies as frameworks. While it touches on concepts like transparency and technical debt, it does not provide in-depth analysis or structured discussion on these methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

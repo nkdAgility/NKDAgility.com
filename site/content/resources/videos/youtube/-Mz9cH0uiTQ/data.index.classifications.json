@@ -46,11 +46,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T08:32:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:20:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding client needs and delivering value, which aligns with product management principles. However, it primarily focuses on consulting and Agile practices rather than the strategic aspects of product management.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of consultants in understanding and delivering customer needs, which aligns with product management principles. It touches on the importance of aligning client requests with actual needs, a key aspect of product management. However, the focus is more on consulting practices rather than direct product management strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Asynchronous Development": {
@@ -658,12 +661,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-18T10:22:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:20:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses client needs in an organisational context and touches on leadership issues and employee engagement but primarily focuses on Agile consulting and frameworks, which distracts from core psychological themes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses client engagement and the role of consultants in understanding organisational needs, which touches on aspects of motivation and leadership. However, it primarily focuses on Agile methodologies and consulting practices rather than core psychological principles. The mention of leadership issues and engagement pipelines indicates some alignment with organisational psychology, but the overall depth and focus on technical practices limit its relevance to the category.",
+    "level": "Quaternary"
   },
   "Azure Boards": {
     "category": "Azure Boards",

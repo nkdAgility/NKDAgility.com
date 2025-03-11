@@ -1168,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-10T18:39:49",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to managing versioned and un-versioned repositories in TFS 2012, touching on troubleshooting issues with version control. However, it is also focused on the implementation of a specific feature rather than a systematic troubleshooting methodology.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012 and the implications of using it, particularly in relation to cleaning up old files in version control. While it touches on the challenges of managing versioned repositories and provides a solution, it lacks a focused discussion on troubleshooting techniques or methodologies. The content is more about the features and usage of TFS rather than diagnosing and resolving specific technical issues, which is essential for a strong alignment with the Troubleshooting category.",
     "level": "Secondary"
   },
   "Experimentation": {

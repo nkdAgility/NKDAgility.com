@@ -34,7 +34,6 @@ tags:
 - Software Development
 - Technical Excellence
 - Engineering Practices
-- Personal
 - News and Reviews
 
 ---

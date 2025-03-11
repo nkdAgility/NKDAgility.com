@@ -35,7 +35,6 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - People and Process
-- Pragmatic Thinking
 - Coaching
 resourceTypes:
 - video

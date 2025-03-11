@@ -292,12 +292,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:59:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a proof of concept related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, but the primary focus is on the specific application and its usage rather than broader Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a proof of concept related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it lacks a detailed exploration of Azure DevOps functionalities, best practices, or methodologies. While TFS is mentioned, the discussion does not delve into CI/CD practices or integration with other Azure DevOps tools, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

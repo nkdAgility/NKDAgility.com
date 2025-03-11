@@ -27,6 +27,7 @@ aliasesArchive:
 - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-(linkedin-question)
 - /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 tags:
+- Azure DevOps
 - Software Developers
 - Modern Source Control
 - News and Reviews
@@ -35,7 +36,6 @@ tags:
 - Software Development
 - System Configuration
 - Application Lifecycle Management
-- Azure DevOps
 - Collaboration Tools
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []

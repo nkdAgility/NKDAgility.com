@@ -33,6 +33,7 @@ tags:
 - People and Process
 - Agile Product Management
 - Products and Books
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

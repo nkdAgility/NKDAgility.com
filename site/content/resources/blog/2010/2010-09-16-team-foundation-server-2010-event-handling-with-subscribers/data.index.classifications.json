@@ -292,12 +292,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:14:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:49:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses event handling in Team Foundation Server (TFS) 2010, which is a component of Azure DevOps, focusing on implementing event subscribers and their functionalities.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) 2010, which is a predecessor to Azure DevOps. While it touches on event handling and customisation within TFS, it does not explicitly mention Azure DevOps or its services. The discussion aligns with some core themes of Azure DevOps, such as customisation and integration, but lacks depth in terms of Azure DevOps-specific functionalities and best practices. Overall, the content is relevant but not directly focused on Azure DevOps.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",

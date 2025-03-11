@@ -583,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:04:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a service factory architecture, detailing techniques and methodologies related to software development, with a focus on handling services across different locations and managing client-server interactions.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the creation of a managed service factory, which is a software design pattern relevant to software development. It provides a detailed explanation of how to implement a service manager that can handle both local and remote services, aligning with best practices in software architecture. The mention of interfaces and service contracts indicates a focus on coding practices. However, while the content is rich in technical detail, it lacks explicit references to broader software development methodologies or frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {

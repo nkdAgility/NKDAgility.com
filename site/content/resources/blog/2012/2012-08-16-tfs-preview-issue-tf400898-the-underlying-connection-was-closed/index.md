@@ -30,6 +30,8 @@ aliasesArchive:
 - /resources/blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
 tags:
 - Troubleshooting
+- Software Development
+- Modern Source Control
 categories: []
 preview: metro-problem-icon-4-4.png
 

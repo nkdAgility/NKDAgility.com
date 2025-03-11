@@ -1051,11 +1051,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:31:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:44:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses primarily on the installation and configuration process of Eclipse and its integration with TFS on a specific operating system, detailing the steps taken to set up the software environment which aligns with system configuration.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Eclipse and its integration with TFS on a Windows 8 system. It discusses specific steps for setting up the Java Development Kit (JDK), Eclipse, and the TFS plugin, which aligns well with the category of System Configuration. The content provides detailed instructions and considerations for ensuring that the software is correctly configured to work together, which reflects best practices in software installation and configuration. However, while the content is rich in practical steps, it lacks a broader discussion on optimisation strategies or troubleshooting common configuration issues, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Product Strategy": {

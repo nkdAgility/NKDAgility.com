@@ -39,7 +39,7 @@ tags:
 - Agile Project Management
 - Pragmatic Thinking
 - Software Development
-- Professional Scrum
+- Coaching
 resourceTypes:
 - video
 categories:

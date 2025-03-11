@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Miscellaneous
 - Pragmatic Thinking
-- Digital Transformation
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

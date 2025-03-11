@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:24:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:40:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses improvements in Visual Studio ALM, which is closely related to Azure DevOps services, particularly in the context of CI/CD, test management, and version control. It highlights specific features and functionalities that align with Azure DevOps, making it a major theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various improvements in Visual Studio ALM, which is closely related to Azure DevOps, particularly in terms of features like Git integration, test management, and Kanban boards. It explicitly mentions Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, while it provides a good overview of new features, it lacks a deeper exploration of best practices or methodologies specific to Azure DevOps, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -1369,12 +1372,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:48:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:40:38",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban principles and features related to Agile practices within Visual Studio ALM, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses various improvements in Visual Studio ALM, including features related to Kanban and test management, which align with the principles of Agile methodologies. However, the primary focus is on specific software features rather than a comprehensive discussion of social technologies or frameworks like Scrum or Lean. The mention of Kanban swim lanes indicates some relevance, but the overall depth and direct engagement with the core themes of social technologies are limited.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

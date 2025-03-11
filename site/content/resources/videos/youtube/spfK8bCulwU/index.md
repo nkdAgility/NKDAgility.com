@@ -27,8 +27,8 @@ duration: 183
 isShort: false
 tags:
 - Agile Product Management
-- Scrum Product Development
 - Product Owner
+- Scrum Product Development
 - Agile Project Management
 - Professional Scrum
 sitemap:

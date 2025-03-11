@@ -28,11 +28,11 @@ aliasesArchive:
 - /resources/blog/cant-use-witadmin-versions-older-tfs-2010
 tags:
 - Software Development
-- System Configuration
 - Troubleshooting
 - Install and Configuration
 - Pragmatic Thinking
 - Practical Techniques and Tooling
+- System Configuration
 categories: []
 
 ---

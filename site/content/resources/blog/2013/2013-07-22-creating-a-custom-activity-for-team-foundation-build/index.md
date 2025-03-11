@@ -26,11 +26,11 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Software Development
-- Azure DevOps
 - Azure Pipelines
 - Continuous Integration
 - Operational Practices
 - Technical Mastery
+- Azure DevOps
 - Technical Excellence
 categories:
 - DevOps

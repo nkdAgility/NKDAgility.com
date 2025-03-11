@@ -29,6 +29,7 @@ sitemap:
 tags:
 - Scrum Product Development
 - Product Backlog
+- Product Owner
 resourceTypes:
 - video
 layout: video

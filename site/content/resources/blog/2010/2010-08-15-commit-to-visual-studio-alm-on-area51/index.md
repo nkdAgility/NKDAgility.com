@@ -23,11 +23,7 @@ aliasesArchive:
 - /commit-to-visual-studio-alm-on-area51
 - /resources/blog/commit-to-visual-studio-alm-on-area51
 tags:
-- News and Reviews
-- Application Lifecycle Management
 - Miscellaneous
-- Modern Source Control
-- Software Development
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

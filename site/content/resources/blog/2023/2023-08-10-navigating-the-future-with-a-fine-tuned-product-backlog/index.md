@@ -26,11 +26,11 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Product Backlog
+- Professional Scrum
 - Product Delivery
 - Value Delivery
 - Agile Product Operating Model
 - Backlog Refinement
-- Professional Scrum
 - Scrum Product Development
 - Agile Frameworks
 - Agile Planning

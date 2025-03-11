@@ -27,8 +27,8 @@ tags:
 - News and Reviews
 - Software Development
 - Code and Complexity
-- Technical Excellence
 - Technical Mastery
+- Technical Excellence
 - Engineering Practices
 - Practical Techniques and Tooling
 - Technical Debt

@@ -28,11 +28,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Miscellaneous
 - Personal
 - Product Owner
 - Agile Product Management
 - Coaching
-- Miscellaneous
 - Pragmatic Thinking
 resourceTypes:
 - video

@@ -1228,12 +1228,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:52:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the MVVM pattern, which relates to the principles of clean code and separation of concerns, but it is primarily about MVVM itself rather than core Agile engineering practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the MVVM (Model-View-ViewModel) pattern, which is relevant to clean code and separation of concerns, aligning with the principles of Engineering Practices. However, it primarily focuses on MVVM without delving deeply into Agile methodologies or practices like TDD, CI/CD, or automation. The discussion is somewhat technical but lacks comprehensive detail on the broader engineering practices, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Technical Debt": {
     "category": "Technical Debt",

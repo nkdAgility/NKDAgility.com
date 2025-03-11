@@ -34,12 +34,12 @@ tags:
 - Operational Practices
 - Strategy
 - Agile Frameworks
-- Team Collaboration
 - Agile Project Management
 - Lean Thinking
 - People and Process
 - Pragmatic Thinking
 - Software Development
+- Team Collaboration
 resourceTypes:
 - video
 categories:

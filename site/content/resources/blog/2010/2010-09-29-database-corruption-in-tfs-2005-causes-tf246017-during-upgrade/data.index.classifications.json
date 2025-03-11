@@ -787,11 +787,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T01:08:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:49:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses practical problem-solving strategies in the context of a technical upgrade involving TFS, demonstrating real-world application of troubleshooting techniques and database management.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a practical problem encountered during a TFS upgrade, detailing the error and the steps taken to resolve it. It highlights the importance of real-world application of problem-solving techniques, such as using the 'dbcc checkdb' command to identify and repair database corruption. However, while it aligns with pragmatic thinking through its focus on practical solutions, it lacks a broader discussion on Agile, Scrum, or DevOps frameworks, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

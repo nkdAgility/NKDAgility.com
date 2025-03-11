@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - System Configuration
-- Azure DevOps
 - Software Development
 - Technical Mastery
 - Troubleshooting
 - Install and Configuration
+- Azure DevOps
 - Pragmatic Thinking
 - Windows
 categories: []

@@ -214,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-10T18:31:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses the use of a mobile application for managing Azure virtual machines, which is more focused on operational aspects rather than engineering practices or methodologies that enhance agility in software development.",
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on managing Azure virtual machines through a mobile application, which is more about operational efficiency than technical excellence in engineering practices. While it briefly mentions PowerShell scripts and the management of VMs, it lacks in-depth discussion on methodologies like TDD, CI/CD, or modular architecture. The alignment with the core themes of technical excellence is weak, as the content does not delve into principles that enhance agility or high-quality engineering practices.",
     "level": "Quaternary"
   },
   "Complexity Thinking": {

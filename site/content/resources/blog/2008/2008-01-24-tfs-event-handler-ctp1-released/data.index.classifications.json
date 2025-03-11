@@ -289,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:59:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which is part of the Azure DevOps suite, but primarily focuses on a specific event handler tool rather than broader Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific version of a TFS Event Handler, which is related to Team Foundation Server (TFS), a component of Azure DevOps. However, it lacks a comprehensive discussion on Azure DevOps as a whole, focusing instead on a specific tool without delving into broader functionalities, best practices, or methodologies associated with Azure DevOps. The mention of TFS indicates a connection, but the content does not explore Azure DevOps services or practices in depth.",
+    "level": "Quaternary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

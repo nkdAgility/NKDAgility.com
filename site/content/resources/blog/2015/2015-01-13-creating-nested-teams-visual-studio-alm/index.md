@@ -31,10 +31,10 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - System Configuration
-- Application Lifecycle Management
 - Azure Boards
 - Software Development
 - Pragmatic Thinking
+- Application Lifecycle Management
 categories:
 - Kanban
 preview: nakedalm-experts-visual-studio-alm-17-17.png

@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/isdope3qkx4/hqdefault.jpg
 duration: 2351
 isShort: false
 tags:
+- People and Process
 - Events and Presentations
 - Software Developers
 sitemap:

@@ -33,10 +33,10 @@ tags:
 - Scrum Product Development
 - Agile Planning
 - Agile Values and Principles
-- Product Delivery
 - Scrum Team
 - Software Development
 - Agile Frameworks
+- Agile Philosophy
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

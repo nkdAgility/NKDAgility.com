@@ -24,8 +24,8 @@ aliasesArchive:
 - /resources/blog/interviewing-for-microsoft
 tags:
 - Personal
-- Continuous Learning
 - Miscellaneous
+- Continuous Learning
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

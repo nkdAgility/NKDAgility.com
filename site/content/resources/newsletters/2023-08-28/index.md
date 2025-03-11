@@ -24,13 +24,13 @@ tags:
 - Agile Product Management
 - Discovery and Learning
 - Scrum Team
-- Agile Project Management
 - Continuous Learning
 - Events and Presentations
 - News and Reviews
 - Product Owner
 - Products and Books
 - Scrum Master
+- Customer Retention
 
 ---
 Greetings,

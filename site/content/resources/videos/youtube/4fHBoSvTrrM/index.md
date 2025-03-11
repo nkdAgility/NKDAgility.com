@@ -36,10 +36,10 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Pragmatic Thinking
+- Coaching
 - Personal
 - Scrum Team
 - Team Performance
-- Coaching
 resourceTypes:
 - video
 layout: video

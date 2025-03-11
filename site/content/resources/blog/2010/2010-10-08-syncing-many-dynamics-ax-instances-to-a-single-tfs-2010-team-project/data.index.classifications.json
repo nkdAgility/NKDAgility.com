@@ -292,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:11:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:49:46",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of Microsoft Dynamics AX with Team Foundation Server (TFS), which is part of the Azure DevOps suite. It focuses on managing source code and work items within TFS, aligning with Azure DevOps functionalities.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the integration of Microsoft Dynamics AX with Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides practical guidance on managing multiple AX instances within TFS, touching on aspects of project management and version control. However, while it mentions TFS, it does not explicitly cover broader Azure DevOps functionalities or best practices, which limits its alignment with the category. The depth of discussion is moderate, focusing on specific configurations and strategies, but lacks comprehensive coverage of Azure DevOps as a whole.",
     "level": "Secondary"
   },
   "Personal": {

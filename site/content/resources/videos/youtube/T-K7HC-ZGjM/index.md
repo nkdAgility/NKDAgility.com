@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Professional Scrum
-- Scrum Product Development
 - Agile Frameworks
+- Scrum Product Development
 - Agile Planning
 - Agile Project Management
 - Pragmatic Thinking

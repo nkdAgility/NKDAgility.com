@@ -33,13 +33,13 @@ tags:
 - Transparency
 - Evidence Based Leadership
 - Metrics and Learning
+- Organisational Agility
 - People and Process
 - Ability to Innovate
 - Empirical Process Control
 - Evidence Based Management
 - Pragmatic Thinking
 - Agile Strategy
-- Decision Making
 resourceTypes:
 - video
 categories:

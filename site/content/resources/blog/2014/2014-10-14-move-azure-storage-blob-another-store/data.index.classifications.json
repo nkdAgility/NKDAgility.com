@@ -1054,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T17:51:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:33:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of moving Azure storage blobs, including the use of PowerShell for configuring and managing Azure storage accounts, which directly relates to system configuration practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the process of moving an Azure storage blob, which involves specific configuration steps and PowerShell commands. It directly addresses the technical aspects of system configuration, such as setting up storage accounts and managing virtual hard disks (VHDs). The discussion includes practical details about authentication and the use of PowerShell for configuration tasks, aligning well with the core themes of system configuration. However, while it provides a good level of detail, it does not delve deeply into broader configuration management strategies or optimisation techniques, which slightly limits the depth score.",
     "level": "Secondary"
   },
   "Product Strategy": {

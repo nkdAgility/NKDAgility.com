@@ -26,11 +26,11 @@ duration: 56
 isShort: true
 tags:
 - Agile Values and Principles
-- People and Process
 - Strategic Goals
 - Agile Strategy
 - Agile Product Management
 - Organisational Agility
+- People and Process
 - Strategy
 - Agile Product Operating Model
 - Agile Leadership

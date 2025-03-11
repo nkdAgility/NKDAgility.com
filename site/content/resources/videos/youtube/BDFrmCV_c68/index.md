@@ -40,7 +40,6 @@ tags:
 - Product Owner
 - Decision Making
 - Evidence Based Leadership
-- Experimentation
 resourceTypes:
 - video
 categories:

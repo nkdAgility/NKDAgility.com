@@ -31,12 +31,12 @@ sitemap:
 tags:
 - Discovery and Learning
 - Experimentation
-- People and Process
 - Product Discovery
 - Hypothesis Driven Development
 - Pragmatic Thinking
 - Product Validation
 - Continuous Learning
+- People and Process
 - Agile Product Management
 - Organisational Agility
 resourceTypes:

@@ -34,6 +34,7 @@ tags:
 - Agile Transformation
 - Software Developers
 - Pragmatic Thinking
+- Team Collaboration
 - Scrum Master
 sitemap:
   filename: sitemap.xml

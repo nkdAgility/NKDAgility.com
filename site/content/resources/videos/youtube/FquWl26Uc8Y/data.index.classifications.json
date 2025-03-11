@@ -988,11 +988,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T12:00:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T17:49:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of technical debt and the implications of shipping bad code, which relates to clean code principles and the importance of maintaining code quality. However, it primarily focuses on the consequences of poor coding practices rather than established engineering methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of technical debt, which is relevant to engineering practices, particularly in the context of clean code and the implications of shipping poor-quality code. However, it lacks explicit references to Agile methodologies, clean code principles, or practices like TDD and CI/CD. The discussion is somewhat superficial and does not delve deeply into the methodologies or practices that would enhance the understanding of engineering practices in an Agile context.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {

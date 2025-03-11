@@ -35,9 +35,9 @@ tags:
 - Software Developers
 - Software Development
 - Operational Practices
-- Personal
 - Pragmatic Thinking
 - Practical Techniques and Tooling
+- Organisational Agility
 resourceTypes:
 - video
 categories:

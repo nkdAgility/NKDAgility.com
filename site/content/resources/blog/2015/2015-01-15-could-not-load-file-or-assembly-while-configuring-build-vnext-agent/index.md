@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Windows
-- Azure Pipelines
 - Software Development
+- Azure Pipelines
 - System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling

@@ -28,13 +28,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Decision Making
-- Evidence Based Leadership
-- Metrics and Learning
 - Evidence Based Management
-- People and Process
-- Decision Theory
-- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

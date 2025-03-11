@@ -25,7 +25,6 @@ card:
 categories:
 - Scrum
 tags:
-- Scrum Product Development
 - Agile Planning
 - Software Development
 

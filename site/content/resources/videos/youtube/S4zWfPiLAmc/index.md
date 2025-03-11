@@ -39,10 +39,10 @@ tags:
 - Empirical Process Control
 - Evidence Based Management
 - Agile Project Management
-- Decision Making
 - Operational Practices
 - Pragmatic Thinking
 - Software Development
+- Throughput
 resourceTypes:
 - video
 categories:

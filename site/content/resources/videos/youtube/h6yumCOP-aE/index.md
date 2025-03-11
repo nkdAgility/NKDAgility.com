@@ -35,10 +35,10 @@ sitemap:
 tags:
 - People and Process
 - Team Collaboration
+- Pragmatic Thinking
 - Team Performance
 - Working Agreements
 - Agile Project Management
-- Pragmatic Thinking
 - Strategy
 - Self Organisation
 - Sociotechnical Systems

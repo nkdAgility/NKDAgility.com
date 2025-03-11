@@ -27,9 +27,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Agile Product Management
 - Product Delivery
-- People and Process
 - Scrum Product Development
 - Scrum Team
 - Sprint Review

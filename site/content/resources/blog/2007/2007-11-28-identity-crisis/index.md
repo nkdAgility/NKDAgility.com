@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/identity-crisis
 tags:
 - Windows
-- Digital Transformation
 - System Configuration
 categories: []
 preview: nakedalm-logo-128-link-1-1.png

@@ -33,7 +33,6 @@ tags:
 - Application Lifecycle Management
 - Digital Transformation
 - Operational Practices
-- Personal
 - Software Development
 - Install and Configuration
 - Practical Techniques and Tooling

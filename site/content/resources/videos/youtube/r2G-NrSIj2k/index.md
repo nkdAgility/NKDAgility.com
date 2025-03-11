@@ -27,9 +27,9 @@ tags:
 - Code and Complexity
 - Modern Source Control
 - Practical Techniques and Tooling
-- Technical Mastery
 - Engineering Practices
 - Technical Excellence
+- Technical Mastery
 - Operational Practices
 - Pragmatic Thinking
 sitemap:

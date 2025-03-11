@@ -26,13 +26,13 @@ tags:
 - Practical Techniques and Tooling
 - Windows
 - Modern Source Control
-- Continuous Integration
 - Release Management
 - Pragmatic Thinking
 - Software Development
 - System Configuration
 - Technical Mastery
 - Troubleshooting
+- Continuous Integration
 categories:
 - DevOps
 preview: naked-alm-jenkins-logo-9-9.png

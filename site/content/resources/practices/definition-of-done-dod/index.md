@@ -43,10 +43,10 @@ categories:
 tags:
 - Definition of Done
 - Increment
+- Working Software
 - Product Delivery
 - Scrum Product Development
 - Software Development
-- Working Software
 - Professional Scrum
 
 ---

@@ -34,8 +34,8 @@ tags:
 - Agile Product Management
 - Product Owner
 - Product Backlog
-- Software Development
 - Product Delivery
+- Software Development
 - Transparency
 - Value Delivery
 - Agile Planning

@@ -33,8 +33,8 @@ tags:
 - Discovery and Learning
 - Continuous Learning
 - Customer Feedback Loops
-- Coaching
 - People and Process
+- Coaching
 - Personal
 - Customer Satisfaction
 - Value Delivery

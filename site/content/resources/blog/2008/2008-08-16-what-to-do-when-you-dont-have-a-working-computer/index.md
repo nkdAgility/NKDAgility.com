@@ -28,6 +28,7 @@ aliasesArchive:
 - /resources/blog/what-to-do-when-you-dont-have-a-working-computer
 tags:
 - Miscellaneous
+- Windows
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

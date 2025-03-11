@@ -961,12 +961,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T19:45:49",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:39:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses known bugs and fixes in Team Foundation Server, which relates to the release process, but it primarily focuses on specific errors and their troubleshooting rather than the broader strategies or practices of release management.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific error encountered in Team Foundation Server (TFS) and its resolution, which is more focused on troubleshooting than on the broader strategies and practices of release management. While it does mention a known bug and a go-live licence, which are tangentially related to release management, the overall emphasis is on technical issues rather than the planning, scheduling, or controlling of software releases.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",

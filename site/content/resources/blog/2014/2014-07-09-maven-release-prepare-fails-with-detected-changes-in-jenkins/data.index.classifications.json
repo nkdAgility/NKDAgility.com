@@ -889,11 +889,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T17:51:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:33:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of Jenkins with TFS, detailing issues related to build processes and configuration that are essential to Continuous Integration practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses issues related to Jenkins and TFS in the context of a CI workflow, specifically focusing on a problem encountered during a Maven release process. It mentions the integration of Jenkins with TFS and the challenges of managing detected changes, which aligns with CI principles. However, while it touches on CI practices, the discussion lacks depth in exploring broader CI concepts, best practices, or tools beyond the specific issue at hand. The primary focus is on a technical problem rather than a comprehensive exploration of CI principles.",
     "level": "Secondary"
   },
   "Market Share": {

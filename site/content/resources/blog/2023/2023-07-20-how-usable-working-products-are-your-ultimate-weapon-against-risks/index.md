@@ -26,6 +26,7 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Product Delivery
+- Value Delivery
 - Increment
 - Market Adaptability
 - Agile Product Operating Model
@@ -33,7 +34,6 @@ tags:
 - Customer Feedback Loops
 - Engineering Practices
 - Software Developers
-- Software Development
 categories:
 - Social Technologies
 - Engineering Excellence

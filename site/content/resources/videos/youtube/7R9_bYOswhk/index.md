@@ -31,8 +31,8 @@ sitemap:
 tags:
 - People and Process
 - Scrum Master
-- Agile Project Management
 - Agile Leadership
+- Agile Project Management
 - Mentoring
 - Scrum Team
 - Technical Leadership

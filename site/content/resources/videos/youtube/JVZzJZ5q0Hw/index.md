@@ -34,13 +34,13 @@ tags:
 - People and Process
 - Agile Product Management
 - Agile Planning
+- Professional Scrum
 - Scrum Product Development
 - Product Delivery
 - Backlog Refinement
 - Agile Planning Tools
 - Scrum Team
 - Team Performance
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

@@ -27,7 +27,6 @@ tags:
 - Practical Techniques and Tooling
 - Working Software
 - Application Lifecycle Management
-- Frequent Releases
 - Software Development
 - Troubleshooting
 categories: []

@@ -33,6 +33,7 @@ tags:
 - Scrum Master
 - Software Development
 - People and Process
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

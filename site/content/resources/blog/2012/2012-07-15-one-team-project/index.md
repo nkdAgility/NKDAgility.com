@@ -32,11 +32,11 @@ tags:
 - Agile Project Management
 - Software Developers
 - Software Development
-- Azure DevOps
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Azure Boards
 - People and Process
+- Product Delivery
 categories:
 - Social Technologies
 - Scrum

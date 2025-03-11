@@ -688,12 +688,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:56:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and issues related to resource management and theming within a Windows application context, making Windows a major theme, but it is not the sole focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses WPF (Windows Presentation Foundation) and resource management within a Windows application context. However, it lacks explicit mentions of the Windows operating system itself, focusing instead on coding practices and error handling in WPF. While it aligns conceptually with Windows development, it does not delve deeply into installation, configuration, or troubleshooting of the Windows OS, which are key themes of the category.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

@@ -1057,12 +1057,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:47:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses challenges and solutions related to migrating system configurations from Subversion to TFS, including conflict resolution and settings adjustments, which are central to system configuration practices. It addresses specific configuration issues and provides a methodical approach to resolving them.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to migrating a Subversion repository to Team Foundation Server, which involves system configuration aspects such as handling conflicts, settings adjustments, and the use of migration tools. While it does not explicitly cover broader system configuration best practices, it delves into specific configuration issues and resolutions, aligning with the category's focus. However, the depth of discussion on general configuration management principles is somewhat limited, hence the moderate confidence score.",
+    "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

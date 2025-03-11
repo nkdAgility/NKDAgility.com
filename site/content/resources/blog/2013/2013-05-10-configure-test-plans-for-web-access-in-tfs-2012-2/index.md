@@ -27,7 +27,6 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - System Configuration
-- Application Lifecycle Management
 - Software Development
 - Troubleshooting
 - Pragmatic Thinking

@@ -27,6 +27,7 @@ isShort: false
 tags:
 - Events and Presentations
 - People and Process
+- News and Reviews
 sitemap:
   filename: sitemap.xml
   priority: 0.6

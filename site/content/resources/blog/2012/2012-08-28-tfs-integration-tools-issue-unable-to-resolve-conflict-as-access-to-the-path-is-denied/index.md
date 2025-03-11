@@ -31,9 +31,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
+- System Configuration
 - Modern Source Control
 - Software Development
-- System Configuration
 - Troubleshooting
 categories: []
 preview: metro-problem-icon-4-4.png

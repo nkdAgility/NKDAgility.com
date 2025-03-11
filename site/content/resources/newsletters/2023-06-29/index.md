@@ -20,16 +20,16 @@ aliasesArchive:
 categories:
 - Scrum
 - Social Technologies
-- Product Management
+- Leadership
 tags:
 - Agile Transformation
 - Continuous Learning
 - Discovery and Learning
-- Agile Frameworks
 - Agile Project Management
 - Events and Presentations
 - Organisational Agility
 - People and Process
+- Agile Frameworks
 - Business Agility
 - Agile Strategy
 

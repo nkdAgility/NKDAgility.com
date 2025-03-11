@@ -31,12 +31,12 @@ tags:
 - Practical Techniques and Tooling
 - System Configuration
 - Troubleshooting
-- Pragmatic Thinking
 - Azure DevOps
 - Agile Frameworks
 - Azure Boards
 - Operational Practices
 - Software Development
+- Pragmatic Thinking
 categories:
 - Scrum
 

@@ -35,9 +35,9 @@ tags:
 - Team Collaboration
 - Personal
 - Discovery and Learning
-- Agile Leadership
 - Agile Philosophy
 - Agile Transformation
+- Team Motivation
 resourceTypes:
 - video
 categories:

@@ -33,10 +33,10 @@ tags:
 - Organisational Agility
 - Resilience and Change
 - Organisational Change
-- People and Process
 - Change Management
 - Agile Philosophy
 - Beta Codex
+- People and Process
 - Enterprise Agility
 - Market Adaptability
 resourceTypes:

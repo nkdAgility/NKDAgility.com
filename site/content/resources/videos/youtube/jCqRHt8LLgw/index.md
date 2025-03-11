@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/jCqRHt8LLgw/maxresdefault.jpg
 duration: 1756
 isShort: false
 tags:
+- Agile Project Management
 - People and Process
 - Events and Presentations
 - Software Developers

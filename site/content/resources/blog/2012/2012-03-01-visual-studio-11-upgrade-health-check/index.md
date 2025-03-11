@@ -28,11 +28,11 @@ tags:
 - People and Process
 - Practical Techniques and Tooling
 - Products and Books
-- Team Performance
 - Agile Frameworks
 - Azure DevOps
 - Product Delivery
 - Software Development
+- System Configuration
 categories:
 - Social Technologies
 - Scrum

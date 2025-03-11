@@ -625,11 +625,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-14T21:06:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:30:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of migrating a repository from Codeplex to GitHub, detailing specific tools and techniques related to version control, such as Git-TF and Git commands. It focuses on practical aspects of using modern source control systems, making it a major theme.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the process of migrating a repository from Codeplex to GitHub, which directly relates to modern source control practices. It discusses specific tools (GitHub Import tool, Git-TF) and techniques for managing version control during the migration, aligning well with the key topics of version control systems and collaboration workflows. The depth of discussion is substantial, providing detailed steps and considerations for the migration process, including handling branches and repository history. However, while it is focused on source control, it does not delve deeply into broader best practices or methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {

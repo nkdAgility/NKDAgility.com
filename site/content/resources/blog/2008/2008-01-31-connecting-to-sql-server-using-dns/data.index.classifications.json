@@ -373,11 +373,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T19:06:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:59:27",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content mainly discusses the configuration required to connect to a SQL Server using DNS, detailing steps to set up SPNs and the SQL Server Browser service, which aligns well with system configuration practices.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the configuration of SQL Server using DNS, detailing the setup of the SQL Server Browser service and Service Principal Names (SPNs). It provides specific commands and conditions for successful connection, which aligns well with the core themes of system configuration. The depth of discussion is substantial, as it includes practical steps and considerations for security and performance, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Ability to Innovate": {

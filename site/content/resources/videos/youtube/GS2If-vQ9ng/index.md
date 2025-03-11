@@ -27,7 +27,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Project Management
 - Agile Strategy
 - Agile Transformation
 - Miscellaneous

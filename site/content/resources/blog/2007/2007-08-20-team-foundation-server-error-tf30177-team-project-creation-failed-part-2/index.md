@@ -31,7 +31,6 @@ aliasesArchive:
 tags:
 - Windows
 - Troubleshooting
-- Pragmatic Thinking
 - Software Development
 - System Configuration
 - Install and Configuration

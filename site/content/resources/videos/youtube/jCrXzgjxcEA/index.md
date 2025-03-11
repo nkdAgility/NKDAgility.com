@@ -30,10 +30,10 @@ tags:
 - Agile Project Management
 - Azure Boards
 - Cycle Time
-- Lead Time
 - Software Developers
 - Agile Frameworks
 - Operational Practices
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

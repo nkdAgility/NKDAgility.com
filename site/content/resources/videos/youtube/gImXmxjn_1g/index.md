@@ -31,6 +31,7 @@ tags:
 - People and Process
 - Pragmatic Thinking
 - Team Collaboration
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

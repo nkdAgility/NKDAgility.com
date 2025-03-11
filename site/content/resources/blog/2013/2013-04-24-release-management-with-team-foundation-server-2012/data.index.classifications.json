@@ -220,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T18:55:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:39:41",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses release management practices, automation, and the importance of quality output in software delivery, aligning closely with the principles of Technical Excellence.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses various aspects of release management and deployment processes using Team Foundation Server 2012, which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD). It highlights the importance of automation, quality output, and the responsibilities of development teams, which are key themes in technical excellence. However, while it touches on relevant topics, the primary focus is on release management rather than a broader discussion of technical excellence methodologies, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -1378,12 +1381,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:18:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:39:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of release management and deployment processes, which are relevant to Agile practices and team dynamics, but it primarily focuses on technical implementation rather than the core principles of Scrum, Kanban, Lean, or Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses release management and deployment strategies using Team Foundation Server 2012, which touches on aspects of Agile practices and team dynamics. However, it primarily focuses on technical implementation rather than the core principles of Scrum, Kanban, Lean, or Agile methodologies. While there are mentions of team responsibilities and the importance of quality output, the discussion lacks depth in the specific frameworks and practices that define Social Technologies.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

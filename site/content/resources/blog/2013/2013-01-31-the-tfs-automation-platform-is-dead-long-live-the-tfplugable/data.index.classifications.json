@@ -220,12 +220,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T19:25:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:40:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the development and deployment of extensions for Team Foundation Server, which relates to engineering practices and methodologies. However, it primarily focuses on the project and its management rather than deeply exploring technical excellence principles like TDD, CI/CD, or modular architecture.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the development of a solution for deploying extensions in Team Foundation Server (TFS), which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD) practices. It mentions the need for a streamlined process for managing TFS extensions, which relates to modular architecture and the importance of efficient deployment pipelines. However, while it touches on relevant technical practices, the discussion lacks depth in exploring broader engineering methodologies or principles of technical excellence, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

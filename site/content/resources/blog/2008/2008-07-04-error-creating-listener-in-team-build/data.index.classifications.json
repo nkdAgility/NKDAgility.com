@@ -1222,11 +1222,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T12:50:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:57:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific error encountered while running tests, and provides a solution related to permissions and access rights, which aligns directly with troubleshooting technical issues.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error encountered while running tests against web services, which directly relates to troubleshooting. It identifies the issue (access rights to create listeners in IIS) and provides a solution (granting the service account specific permissions). This aligns well with the core themes of the category, as it involves diagnosing a technical problem and implementing a resolution. The depth of discussion is substantial, detailing the steps taken to resolve the issue, which enhances the overall confidence score.",
     "level": "Secondary"
   },
   "Scrum Master": {

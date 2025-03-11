@@ -29,7 +29,6 @@ aliasesArchive:
 - /xbox--live-to-twitter-update-(v0-2-3)
 - /blog/xbox--live-to-twitter-update-(v0-2-3)
 tags:
-- Discovery and Learning
 - Software Development
 - Working Software
 categories: []

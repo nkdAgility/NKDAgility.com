@@ -32,9 +32,9 @@ tags:
 - Customer Feedback Loops
 - Empirical Process Control
 - Metrics and Learning
+- Coaching
 - Personal
 - Team Collaboration
-- Coaching
 resourceTypes:
 - video
 categories:

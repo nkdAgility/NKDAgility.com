@@ -26,10 +26,10 @@ tags:
 - Practical Techniques and Tooling
 - Products and Books
 - Modern Source Control
-- Application Lifecycle Management
 - Technical Mastery
 - Install and Configuration
 - Software Development
+- Application Lifecycle Management
 categories:
 - DevOps
 - Engineering Excellence

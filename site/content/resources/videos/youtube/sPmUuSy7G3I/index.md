@@ -27,6 +27,7 @@ duration: 312
 isShort: false
 tags:
 - People and Process
+- Pragmatic Thinking
 - Scrum Team
 - Agile Project Management
 - Scrum Product Development
@@ -35,7 +36,6 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Agile Product Management
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

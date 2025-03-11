@@ -31,6 +31,7 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Frameworks
+- People and Process
 categories:
 - Scrum
 - Social Technologies

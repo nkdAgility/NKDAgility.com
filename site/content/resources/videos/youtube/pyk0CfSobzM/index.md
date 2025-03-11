@@ -32,11 +32,11 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Scrum Master
-- Agile Frameworks
 - Agile Planning
 - Agile Project Management
 - Pragmatic Thinking
 - Software Development
+- Agile Frameworks
 - Agile Product Management
 resourceTypes:
 - video

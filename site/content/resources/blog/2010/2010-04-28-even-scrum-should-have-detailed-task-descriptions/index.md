@@ -30,9 +30,9 @@ tags:
 - Software Development
 - People and Process
 - Software Developers
-- Definition of Ready
 - Team Collaboration
 - Pragmatic Thinking
+- Transparency
 categories:
 - Social Technologies
 - Scrum

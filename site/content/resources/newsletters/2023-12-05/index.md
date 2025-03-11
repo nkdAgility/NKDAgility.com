@@ -22,9 +22,9 @@ categories:
 - Social Technologies
 - Product Management
 tags:
+- People and Process
 - Continuous Learning
 - Discovery and Learning
-- People and Process
 - Professional Scrum
 - Agile Transformation
 - Events and Presentations

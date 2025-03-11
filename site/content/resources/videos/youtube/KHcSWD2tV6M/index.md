@@ -29,6 +29,7 @@ tags:
 - People and Process
 - Team Collaboration
 - Team Performance
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

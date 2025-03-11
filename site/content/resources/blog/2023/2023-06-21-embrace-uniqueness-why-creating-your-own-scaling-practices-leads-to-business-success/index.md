@@ -28,11 +28,11 @@ aliasesArchive:
 - /blog/embrace-uniqueness--why-creating-your-own-scaling-practices-leads-to-business-success
 - /resources/blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 tags:
-- Business Agility
 - Agile Strategy
 - Organisational Agility
 - Organisational Culture
 - People and Process
+- Business Agility
 - Pragmatic Thinking
 - Strategy
 - Enterprise Agility

@@ -38,9 +38,9 @@ tags:
 - Agile Project Management
 - Transparency and Accountability
 - Personal
+- Software Development
 - Pragmatic Thinking
 - Software Developers
-- Software Development
 resourceTypes:
 - video
 categories:

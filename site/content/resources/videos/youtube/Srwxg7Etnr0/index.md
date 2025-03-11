@@ -33,11 +33,11 @@ tags:
 - Scrum Team
 - Agile Planning
 - Scrum Master
-- Team Collaboration
 - Agile Project Management
 - Software Development
 - Agile Product Management
 - Professional Scrum
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

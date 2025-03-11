@@ -316,11 +316,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:02:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a custom proxy class in .NET, which relates to engineering practices and maintainability, but it is primarily focused on implementation details rather than broader technical excellence principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on creating a custom proxy class in .NET, which touches on aspects of maintainability and code quality. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it does provide a specific example of code, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
     "level": "Tertiary"
   },
   "People and Process": {

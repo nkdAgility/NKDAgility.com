@@ -31,6 +31,7 @@ sitemap:
 tags:
 - Business Agility
 - Market Adaptability
+- Organisational Agility
 - Agile Strategy
 - Strategy
 - Agile Values and Principles
@@ -38,7 +39,6 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management
-- Change Management
 resourceTypes:
 - video
 categories:

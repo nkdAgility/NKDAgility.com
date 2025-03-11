@@ -247,12 +247,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T01:05:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:51:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2010, which is a critical aspect of product delivery, including installation, configuration, and testing phases. It provides practical insights into the methodologies and practices involved in delivering a software product effectively.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from a release candidate to a release to manufacturing version. While it touches on deployment and configuration, it lacks a broader discussion on methodologies, practices, or strategies that are central to product delivery. The details provided are more about the upgrade process rather than the overarching principles of delivering software products effectively.",
+    "level": "Quaternary"
   },
   "Beta Codex": {
     "category": "Beta Codex",

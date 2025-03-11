@@ -38,6 +38,7 @@ tags:
 - People and Process
 - Software Development
 - Pragmatic Thinking
+- Software Developers
 resourceTypes:
 - video
 categories:

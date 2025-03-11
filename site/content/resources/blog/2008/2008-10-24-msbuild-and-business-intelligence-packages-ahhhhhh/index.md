@@ -32,11 +32,11 @@ aliasesArchive:
 - /resources/blog/msbuild-and-business-intelligence-packages-ahhhhhh
 tags:
 - Automated Testing
-- Test Automation
 - Software Development
 - System Configuration
 - Technical Mastery
 - Troubleshooting
+- Test Automation
 - Practical Techniques and Tooling
 - Technical Excellence
 - Engineering Practices

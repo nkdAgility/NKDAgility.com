@@ -32,12 +32,12 @@ tags:
 - Agile Values and Principles
 - Increment
 - Agile Product Operating Model
-- Business Agility
 - Decision Making
 - Empirical Process Control
 - People and Process
 - Value Delivery
 - Agile Frameworks
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

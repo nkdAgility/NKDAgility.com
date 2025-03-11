@@ -30,13 +30,13 @@ tags:
 - Throughput
 - Practical Techniques and Tooling
 - Agile Project Management
-- Metrics and Learning
 - Agile Frameworks
 - News and Reviews
 - Operational Practices
 - Products and Books
 - Software Developers
 - Software Development
+- Pragmatic Thinking
 categories:
 - Social Technologies
 - Kanban

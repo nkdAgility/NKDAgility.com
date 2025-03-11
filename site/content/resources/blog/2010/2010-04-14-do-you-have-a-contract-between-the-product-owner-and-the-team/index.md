@@ -36,7 +36,7 @@ tags:
 - Agile Product Management
 - Professional Scrum
 - Team Collaboration
-- Software Developers
+- Software Development
 categories:
 - Scrum
 preview: metro-sharepoint-128-link-1-1.png

@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/install-release-management-2013
 tags:
 - Install and Configuration
-- System Configuration
 - Release Management
 - Practical Techniques and Tooling
+- System Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

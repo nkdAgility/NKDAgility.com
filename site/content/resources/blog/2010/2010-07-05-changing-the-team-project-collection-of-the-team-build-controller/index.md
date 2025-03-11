@@ -32,7 +32,7 @@ tags:
 - Troubleshooting
 - Practical Techniques and Tooling
 - Azure DevOps
-- Application Lifecycle Management
+- Azure Pipelines
 preview: metro-SSWLogo-128-link-6-6.png
 categories:
 - DevOps

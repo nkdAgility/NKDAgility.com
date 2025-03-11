@@ -33,7 +33,6 @@ tags:
 - Continuous Integration
 - Software Development
 - Technical Mastery
-- Operational Practices
 - Modern Source Control
 - Pragmatic Thinking
 - Technical Excellence

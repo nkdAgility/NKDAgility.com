@@ -32,12 +32,12 @@ sitemap:
 tags:
 - Agile Product Management
 - Product Delivery
+- Business Agility
 - Discovery and Learning
 - Market Adaptability
 - Agile Product Operating Model
 - Agile Project Management
 - Agile Values and Principles
-- Business Agility
 - Customer Feedback Loops
 - Decision Making
 resourceTypes:

@@ -27,11 +27,7 @@ aliasesArchive:
 - /blog/do-you-have-msdn-at-work--use-visual-studio-ultimate-for-free-at-home-
 - /resources/blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 tags:
-- Products and Books
 - Windows
-- Software Development
-- News and Reviews
-- Practical Techniques and Tooling
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

@@ -220,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T23:18:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:31:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of a new build system (vNext) for TFS and VSO, which relates to Continuous Integration practices and the technical setup of build agents, aligning well with the principles of Technical Excellence.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on configuring a Build vNext Agent, which is a technical task related to Continuous Integration practices. It discusses the modular nature of the new build system and the benefits of the pool model over the previous collection/controller model, aligning with the principles of technical excellence. However, while it touches on relevant topics, the depth of discussion is more procedural than conceptual, lacking a broader exploration of how these practices enhance agility or team collaboration.",
     "level": "Secondary"
   },
   "Complexity Thinking": {

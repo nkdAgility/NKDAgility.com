@@ -32,12 +32,12 @@ tags:
 - Empirical Process Control
 - Organisational Agility
 - Scrum Values
-- Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
 - Agile Strategy
 - Agile Transformation
 - People and Process
+- Software Development
 resourceTypes:
 - video
 categories:

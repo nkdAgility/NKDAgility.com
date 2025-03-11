@@ -1087,11 +1087,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T19:55:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:00:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses issues and solutions related to installing and troubleshooting SharePoint, which is closely linked to the Windows operating system. The mention of SharePoint's interaction with Windows and specific Windows error messages indicates that the focus is on the Windows environment.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses issues related to the installation and troubleshooting of SharePoint, which is a Windows-based application. It explicitly mentions Windows SharePoint Services and includes specific error messages and solutions that are directly tied to the Windows environment. The depth of discussion is significant, as it provides a detailed account of the problems faced and the steps taken to resolve them, including commands relevant to Windows. However, while the focus is on SharePoint, the broader context of Windows operating system management is not fully explored, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Lean Principles": {

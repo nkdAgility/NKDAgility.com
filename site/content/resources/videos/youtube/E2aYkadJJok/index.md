@@ -29,8 +29,8 @@ tags:
 - Lean Thinking
 - Operational Practices
 - Practical Techniques and Tooling
-- Pragmatic Thinking
 - Throughput
+- Pragmatic Thinking
 - Software Development
 - Flow Efficiency
 sitemap:

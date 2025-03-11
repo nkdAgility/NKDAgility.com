@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/modelling-teams-in-team-foundation-server-2013
 tags:
 - Software Development
-- Application Lifecycle Management
 - Practical Techniques and Tooling
 - Modern Source Control
+- Application Lifecycle Management
 - Operational Practices
 - Install and Configuration
 - Azure DevOps

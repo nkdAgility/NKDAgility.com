@@ -151,12 +151,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T08:57:40",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-10T18:33:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses a specific presentation at the NDC London event, detailing the session's focus, content, and the speaker's intent to engage with the audience. It aligns with the category's emphasis on talks and presentations related to Agile and software engineering.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on a specific presentation at NDC London, detailing the speaker's session, its objectives, and the intended audience. It explicitly mentions the event, the session title, and the topics to be covered, aligning well with the category's focus on events and presentations. The depth of discussion is significant, as it outlines the session's content, scenarios to be presented, and requests for audience feedback, demonstrating a thorough engagement with the event's context.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1378,12 +1381,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:11:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:33:00",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile Project Management and features of Team Foundation Server (TFS) that relate to Scrum and Agile practices, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and Visual Studio Online (VSO) in the context of application lifecycle management (ALM) and Agile practices. While it mentions Agile Project Management and includes references to Scrum-like scenarios, the primary focus is on TFS features and demos rather than a thorough exploration of social technologies or frameworks like Scrum, Kanban, or Lean. The discussion is somewhat aligned with the category but lacks depth in the core principles and methodologies of social technologies.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

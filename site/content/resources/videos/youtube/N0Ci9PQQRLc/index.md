@@ -26,12 +26,12 @@ duration: 423
 isShort: false
 tags:
 - People and Process
+- Pragmatic Thinking
 - Software Development
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
 - Software Developers
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

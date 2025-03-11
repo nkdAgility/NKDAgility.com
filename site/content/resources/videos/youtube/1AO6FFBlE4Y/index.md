@@ -27,13 +27,13 @@ tags:
 - Code and Complexity
 - Engineering Practices
 - Technical Excellence
+- Software Development
 - Value Delivery
 - Product Delivery
 - Working Software
 - Technical Debt
 - Operational Practices
 - Technical Mastery
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

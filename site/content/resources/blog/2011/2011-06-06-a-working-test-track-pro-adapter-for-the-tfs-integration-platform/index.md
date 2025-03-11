@@ -26,13 +26,13 @@ tags:
 - Practical Techniques and Tooling
 - Working Software
 - Application Lifecycle Management
-- Azure DevOps
 - Operational Practices
 - Software Developers
 - Software Development
 - System Configuration
 - Technical Mastery
 - Troubleshooting
+- Install and Configuration
 categories:
 - Engineering Excellence
 

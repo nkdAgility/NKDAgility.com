@@ -36,8 +36,8 @@ tags:
 - Business Agility
 - Change Management
 - Continuous Learning
-- Discovery and Learning
 - Hypothesis Driven Development
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

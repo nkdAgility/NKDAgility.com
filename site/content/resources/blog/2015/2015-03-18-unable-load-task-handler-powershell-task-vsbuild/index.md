@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
+- Software Development
 - System Configuration
 - Azure Pipelines
 - Continuous Integration
 - Pragmatic Thinking
-- Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
 - Azure DevOps

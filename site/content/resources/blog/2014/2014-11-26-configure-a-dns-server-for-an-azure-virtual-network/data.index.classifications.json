@@ -214,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:32:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on configuring a DNS server in an Azure Virtual Network, which involves technical procedures and practices relevant to networking and infrastructure management. However, the discussion does not delve deeply into broader engineering practices or methodologies typically encompassed by the Technical Excellence category.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring a DNS server within an Azure Virtual Network, which is a technical task. However, it lacks explicit discussions on broader engineering practices or methodologies that enhance agility in software development. While it touches on aspects of network configuration and management, it does not delve into topics like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. The depth of discussion is moderate, providing practical commands and steps, but it does not explore the implications of these practices on overall project success or team collaboration.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

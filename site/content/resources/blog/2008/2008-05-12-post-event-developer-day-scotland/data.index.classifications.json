@@ -286,12 +286,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T18:11:31",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:58:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content shares personal reflections on a developer event, including insights gained from various presentations, which aligns with the Personal category. However, it primarily focuses on the event and speakers rather than deep personal experiences or challenges related to Agile, Scrum, or DevOps.",
-    "level": "Secondary"
+    "final_score": 59.0,
+    "reasoning": "The content reflects personal experiences and insights gained from attending a developer event, which aligns with the Personal category. However, the focus is more on the event and speakers rather than deep personal reflections or challenges faced in Agile or Scrum contexts. The mention of personal takeaways is present but lacks depth and detail, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

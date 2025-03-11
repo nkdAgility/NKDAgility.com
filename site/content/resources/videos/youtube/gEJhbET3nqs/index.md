@@ -24,6 +24,7 @@ preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
 duration: 245
 isShort: false
 tags:
+- Events and Presentations
 - Organisational Change
 - Agile Leadership
 - Pragmatic Thinking

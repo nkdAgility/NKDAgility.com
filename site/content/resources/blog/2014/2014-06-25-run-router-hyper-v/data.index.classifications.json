@@ -376,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T10:18:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:33:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical solution involving running router firmware on Hyper-V, covering aspects of software and network configuration, which aligns well with software craftsmanship and methodologies pertinent to high-quality technical practices.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on a practical implementation of running a router on Hyper-V, which involves technical details and specific steps. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While it does touch on technical aspects, such as VM configuration and network settings, it does not delve deeply into the principles of clean code, testing, or architectural best practices that are central to the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

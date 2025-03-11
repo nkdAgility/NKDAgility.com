@@ -1060,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T15:21:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:41:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of Team Foundation Server and its integration with Project Server, including permission settings and service account management, which are central to system configuration.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses a specific issue related to the configuration of Team Foundation Server (TFS) and its integration with Project Server 2013. It explicitly mentions the error TF294003 and provides a detailed solution involving the adjustment of service accounts, which is a critical aspect of system configuration. The discussion aligns well with key topics such as troubleshooting configuration issues and best practices for permissions management. The depth of the discussion is substantial, as it includes specific steps taken to resolve the issue, demonstrating a clear understanding of system configuration principles.",
     "level": "Secondary"
   },
   "Product Strategy": {

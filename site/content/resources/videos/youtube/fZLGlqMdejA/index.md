@@ -46,7 +46,7 @@ resourceTypes:
 categories:
 - Scrum
 - Social Technologies
-- Product Management
+- Leadership
 
 ---
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 

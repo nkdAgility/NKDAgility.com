@@ -688,12 +688,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:57:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses issues related to the installation of Visual Studio 2008 SP1, which is relevant to Windows as it is a Windows application. However, the primary focus is on Team Explorer and troubleshooting its functionality rather than the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses an issue related to Team Explorer after installing Visual Studio 2008 SP1 RTM, which is directly tied to the Windows operating system environment. It explicitly mentions the installation of a service pack, a key aspect of Windows updates, and addresses troubleshooting steps taken to resolve the issue. The discussion aligns well with the core themes of the Windows category, particularly in terms of troubleshooting and system updates. The depth of the discussion is moderate, providing specific details about the error encountered and the steps attempted to resolve it, but it could benefit from more comprehensive troubleshooting techniques or configuration settings related to Windows itself.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

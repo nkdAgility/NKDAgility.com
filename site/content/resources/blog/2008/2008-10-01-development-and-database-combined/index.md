@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/development-and-database-combined
 tags:
 - News and Reviews
-- Application Lifecycle Management
 - Products and Books
 preview: nakedalm-logo-128-link-1-1.png
 categories: []

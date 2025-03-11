@@ -30,8 +30,8 @@ aliasesArchive:
 - /resources/blog/visual-studio-2010-overview-microsoft-test-manager
 tags:
 - Practical Techniques and Tooling
-- Application Lifecycle Management
 - Software Development
+- Application Lifecycle Management
 - Events and Presentations
 - Test Automation
 - Technical Excellence

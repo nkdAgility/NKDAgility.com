@@ -26,12 +26,12 @@ isShort: false
 tags:
 - People and Process
 - Agile Product Management
+- Value Delivery
 - Agile Product Operating Model
 - Software Development
 - Hypothesis Driven Development
 - Product Delivery
 - Product Strategy
-- Value Delivery
 - Agile Philosophy
 - Agile Strategy
 sitemap:

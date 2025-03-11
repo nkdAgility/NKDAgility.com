@@ -26,6 +26,7 @@ categories:
 - Scrum
 - Social Technologies
 tags:
+- Forecasting
 - Metrics and Learning
 - Cycle Time
 - Scrum Team
@@ -34,7 +35,6 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Estimation
-- Forecasting
 - Operational Practices
 
 ---

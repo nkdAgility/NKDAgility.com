@@ -30,9 +30,9 @@ sitemap:
 tags:
 - Product Delivery
 - Value Delivery
-- People and Process
 - Software Development
 - Software Developers
+- People and Process
 - Pragmatic Thinking
 - Market Adaptability
 - Organisational Agility

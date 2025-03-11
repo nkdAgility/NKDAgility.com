@@ -1051,11 +1051,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:47:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:37:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses on the installation of InRelease 3 within the context of Team Foundation Server 2013, detailing the need for elevated privileges and the steps to configure the installation process correctly. This aligns with system configuration practices, particularly regarding software installation and configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the installation process of InRelease 3 within the context of Team Foundation Server 2013, which directly relates to system configuration. It explicitly mentions the need for elevated privileges, a key aspect of configuring software installations. The discussion aligns with the category's themes, particularly regarding best practices for software installation and troubleshooting common configuration issues. However, while it provides a practical solution, the depth of discussion is somewhat limited to a specific scenario, which prevents a higher confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

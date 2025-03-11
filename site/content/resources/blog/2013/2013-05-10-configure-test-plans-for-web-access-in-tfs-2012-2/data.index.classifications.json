@@ -352,12 +352,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T18:50:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:39:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring Test Plans within TFS, which is a tool used in the application lifecycle management process. It addresses aspects of application governance, configuration management, and the integration of teams within the application lifecycle, making it a central theme.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on configuring Test Plans within TFS 2012.2, which is a specific aspect of application lifecycle management. While it discusses the management of test plans and their configurations, it lacks a broader discussion on the entire application lifecycle, governance, or integration of methodologies like Agile or DevOps. The depth of discussion is limited to technical configurations rather than strategic management practices, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",

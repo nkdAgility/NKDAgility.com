@@ -33,10 +33,10 @@ tags:
 - Metrics and Learning
 - Agile Planning
 - Cycle Time
-- People and Process
 - Scrum Product Development
 - Scrum Team
 - Software Development
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

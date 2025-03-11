@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
 tags:
 - Practical Techniques and Tooling
+- Azure DevOps
 - Software Developers
 - Software Development
-- Azure DevOps
 - Azure Pipelines
 - Continuous Integration
 - Install and Configuration

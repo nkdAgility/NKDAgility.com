@@ -31,8 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
-- Practical Techniques and Tooling
 - Operational Practices
+- Practical Techniques and Tooling
 - Lean Thinking
 - Transparency and Accountability
 - Metrics and Learning

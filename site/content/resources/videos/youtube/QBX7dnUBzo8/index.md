@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Organisational Agility
 - Enterprise Agility
 - People and Process
 - Systems Thinking
@@ -39,7 +40,6 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Change Management
-- Metrics and Learning
 resourceTypes:
 - video
 categories:

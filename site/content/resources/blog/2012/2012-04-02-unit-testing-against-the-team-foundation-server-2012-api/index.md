@@ -27,12 +27,12 @@ tags:
 - Practical Techniques and Tooling
 - Test Driven Development
 - Automated Testing
+- Technical Mastery
 - Test First Development
 - Software Development
 - Test Automation
 - Engineering Practices
 - Pragmatic Thinking
-- Software Developers
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png

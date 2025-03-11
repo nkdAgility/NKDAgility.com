@@ -292,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:09:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:43:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the migration of data to TFS 2012, which is part of the Azure DevOps suite, and provides detailed technical steps related to the TFS Integration Platform, making Azure DevOps the central theme.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the migration of data from FogBugz to TFS 2012 using the TFS Integration Platform, which is a part of Azure DevOps. It provides detailed steps and technical insights into setting up a development environment, configuring adapters, and handling data imports, all of which are relevant to Azure DevOps functionalities. However, while it is focused on TFS, it does not explicitly cover broader Azure DevOps services or methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {

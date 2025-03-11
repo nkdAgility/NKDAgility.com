@@ -1054,11 +1054,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T11:05:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:34:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of configuring email migration from Google Mail to Office 365, specifically focusing on IMAP setup, configuration through PowerShell, and troubleshooting related issues. It fits well within the scope of system configuration as it involves setting up and optimizing system performance during migration.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating email from Google Mail to Office 365, which involves configuring IMAP and PowerShell commands. It discusses specific methods for setting up email accounts, troubleshooting issues, and executing commands to facilitate the migration process. The depth of discussion includes detailed PowerShell scripts and the challenges faced during configuration, aligning well with the core themes of system configuration. However, while it is focused on configuration, it does not cover broader system optimisation or security considerations, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

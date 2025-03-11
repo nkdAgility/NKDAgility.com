@@ -23,13 +23,7 @@ aliasesArchive:
 - /upgrading-to-team-foundation-server-2012-update-1
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1
 tags:
-- System Configuration
 - Install and Configuration
-- Windows
-- Practical Techniques and Tooling
-- Products and Books
-- Software Development
-- Azure DevOps
 categories: []
 
 ---

@@ -721,12 +721,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:06:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides specific instructions related to troubleshooting a software deployment issue, which touches on software technicalities; however, the primary focus is on a specific operational error rather than overarching technical principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily addresses a specific error related to the use of SignTool and CAPICOM, providing a step-by-step solution. While it touches on technical aspects, such as file management and permissions, it lacks a broader discussion on software craftsmanship, design principles, or engineering practices. The focus is more on troubleshooting rather than on the methodologies or principles that contribute to high-quality software development.",
+    "level": "Quaternary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",

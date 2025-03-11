@@ -1057,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T02:51:20",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-10T18:53:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses using Unity for dependency injection and configuration management concerning access layers, making configuration a significant theme. However, the focus is more on coding practices and software development rather than direct system configuration methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the configuration of a Unity container and the setup of a data access layer, which aligns with system configuration principles. However, the focus is more on implementation details and coding practices rather than broader system configuration methodologies. While it touches on configuration management through the use of XML configuration files and assembly visibility, it lacks a comprehensive exploration of best practices or optimisation strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

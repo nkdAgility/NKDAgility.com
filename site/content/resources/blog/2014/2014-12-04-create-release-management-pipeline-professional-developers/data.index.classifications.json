@@ -157,11 +157,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T23:43:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:32:16",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a presentation given at NDC London 2014, detailing the speaker's plans and experiences related to the talk, which focuses on creating a Release Management pipeline. It includes insights and demonstrations intended for an audience, aligning well with the category of events and presentations.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a Release Management pipeline, with a brief mention of the author's presentation at NDC London 2014. While it does touch on the context of a presentation, the majority of the content is dedicated to detailed technical instructions and configurations, which detracts from its alignment with the Events and Presentations category. The depth of discussion is more about the implementation rather than sharing insights or experiences from the event itself.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -1378,12 +1381,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:10:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:32:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of team dynamics and collaboration in the context of a Release Management pipeline, which aligns with Agile practices, but the primary focus is on technical implementation rather than the methodologies themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the creation of a Release Management pipeline and touches on aspects of team collaboration and deployment processes, which are relevant to Agile practices. However, it lacks a direct focus on Scrum, Kanban, Lean, or explicit Agile methodologies. The mention of team dynamics and feedback loops is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

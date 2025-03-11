@@ -27,10 +27,7 @@ aliasesArchive:
 - /blog/windows-mobile-6-black-shadow-(4-0)
 - /resources/blog/windows-mobile-6-black-shadow-4-0
 tags:
-- Install and Configuration
 - Windows
-- System Configuration
-- Troubleshooting
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

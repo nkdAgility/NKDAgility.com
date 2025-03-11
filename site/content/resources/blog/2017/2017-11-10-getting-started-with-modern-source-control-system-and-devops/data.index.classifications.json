@@ -247,11 +247,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T18:59:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:29:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of source control, automated release pipelines, and practices that enhance the delivery of software products, aligning closely with the principles of product delivery.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses various aspects of product delivery, particularly focusing on the importance of source control, automated release pipelines, and practices that enhance software delivery. It aligns well with key topics such as continuous delivery, the role of cross-functional teams, and the significance of quality assurance. However, while it provides substantial detail on these practices, it occasionally veers into broader discussions about source control systems and personal experiences, which slightly detracts from its primary focus on product delivery methodologies.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1378,12 +1381,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:08:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:29:20",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the importance of collaboration within software teams, but it primarily focuses on source control and DevOps rather than being solely about social technologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses various aspects of modern source control systems and DevOps practices, with some references to Scrum and Agile methodologies. However, while it mentions Scrum and the importance of becoming a professional Scrum team, the primary focus is on source control and DevOps rather than a deep exploration of social technologies or frameworks like Scrum, Kanban, Lean, or Agile practices. The discussion lacks detailed exploration of the core themes of collaboration, continuous improvement, and value delivery that are central to the Social Technologies category.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

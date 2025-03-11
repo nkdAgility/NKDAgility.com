@@ -31,6 +31,7 @@ tags:
 - Team Motivation
 - People and Process
 - Organisational Psychology
+- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6

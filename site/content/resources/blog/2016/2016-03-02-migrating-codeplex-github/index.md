@@ -28,8 +28,8 @@ aliasesArchive:
 - /resources/blog/migrating-codeplex-github
 tags:
 - Software Development
-- Modern Source Control
 - Install and Configuration
+- Modern Source Control
 - Practical Techniques and Tooling
 categories: []
 preview: clip_image001-1-1.png

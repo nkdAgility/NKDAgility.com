@@ -28,6 +28,7 @@ tags:
 - Discovery and Learning
 - Continuous Learning
 - Experimentation
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

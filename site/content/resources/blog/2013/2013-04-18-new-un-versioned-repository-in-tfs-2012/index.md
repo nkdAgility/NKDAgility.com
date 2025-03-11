@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Modern Source Control
 - Software Development
-- Troubleshooting
 - Install and Configuration
 - Practical Techniques and Tooling
 - Operational Practices
+- Troubleshooting
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png

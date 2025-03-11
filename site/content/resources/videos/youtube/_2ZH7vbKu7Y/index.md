@@ -33,11 +33,11 @@ sitemap:
 tags:
 - Discovery and Learning
 - People and Process
-- Personal
 - Continuous Learning
 - Agile Leadership
 - Change Management
 - Organisational Change
+- Personal
 - Pragmatic Thinking
 - Team Collaboration
 - Team Motivation

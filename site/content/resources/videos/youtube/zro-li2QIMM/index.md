@@ -27,6 +27,7 @@ isShort: true
 tags:
 - Mentoring
 - Personal
+- Pragmatic Thinking
 - Agile Values and Principles
 - People and Process
 - Agile Frameworks
@@ -34,7 +35,6 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Agile Strategy
-- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

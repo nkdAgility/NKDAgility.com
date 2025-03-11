@@ -30,9 +30,9 @@ aliasesArchive:
 - /resources/blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
 - Windows
+- System Configuration
 - Practical Techniques and Tooling
 - Pragmatic Thinking
 - Software Development

@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Operational Practices
 - Software Development
-- System Configuration
 - Working Software
 categories: []
 preview: metro-sharepoint-128-link-1-1.png

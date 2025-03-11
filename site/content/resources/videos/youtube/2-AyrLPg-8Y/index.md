@@ -26,7 +26,6 @@ duration: 17
 isShort: true
 tags:
 - People and Process
-- Agile Product Management
 - Agile Project Management
 - Ability to Innovate
 - Agile Frameworks
@@ -35,6 +34,7 @@ tags:
 - Agile Transformation
 - Business Agility
 - Continuous Learning
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

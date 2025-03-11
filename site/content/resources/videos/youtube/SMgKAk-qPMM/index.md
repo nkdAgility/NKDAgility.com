@@ -35,9 +35,9 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Agile Transformation
-- Pragmatic Thinking
 - Agile Product Management
 - Software Developers
+- Pragmatic Thinking
 - Agile Planning
 resourceTypes:
 - video

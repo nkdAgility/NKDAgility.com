@@ -26,10 +26,10 @@ tags:
 - Events and Presentations
 - Agile Frameworks
 - Agile Project Management
-- Agile Transformation
 - Professional Scrum
 - Pragmatic Thinking
 - Software Development
+- Agile Transformation
 - People and Process
 - Software Developers
 categories:

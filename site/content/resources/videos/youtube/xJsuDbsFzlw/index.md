@@ -34,7 +34,7 @@ tags:
 - Events and Presentations
 - People and Process
 - Pragmatic Thinking
-- Product Delivery
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

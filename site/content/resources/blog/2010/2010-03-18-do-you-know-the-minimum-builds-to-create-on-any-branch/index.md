@@ -31,12 +31,12 @@ tags:
 - Automated Testing
 - Modern Source Control
 - Application Lifecycle Management
-- Azure DevOps
 - Azure Pipelines
 - Continuous Integration
 - Engineering Practices
 - Operational Practices
 - Software Development
+- Technical Mastery
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - DevOps

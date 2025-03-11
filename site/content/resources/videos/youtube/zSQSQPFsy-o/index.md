@@ -36,8 +36,8 @@ tags:
 - Agile Frameworks
 - Agile Philosophy
 - Agile Transformation
-- Professional Scrum
 - Software Development
+- Agile Product Management
 resourceTypes:
 - video
 categories:

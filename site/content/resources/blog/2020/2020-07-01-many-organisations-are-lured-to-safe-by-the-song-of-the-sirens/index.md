@@ -31,8 +31,8 @@ tags:
 - Agile Strategy
 - Change Management
 - Large Scale Agility
-- Organisational Agility
 - Organisational Change
+- Organisational Culture
 categories:
 - Social Technologies
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg

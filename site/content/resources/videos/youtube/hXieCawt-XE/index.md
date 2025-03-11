@@ -35,11 +35,11 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Operational Practices
+- Throughput
 - Agile Frameworks
 - Pragmatic Thinking
 - Agile Project Management
 - Lean Principles
-- Throughput
 resourceTypes:
 - video
 categories:

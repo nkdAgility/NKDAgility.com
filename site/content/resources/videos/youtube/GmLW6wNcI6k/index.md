@@ -37,9 +37,9 @@ tags:
 - Business Agility
 - Discovery and Learning
 - Market Adaptability
+- Organisational Agility
 - Agile Philosophy
 - Empirical Process Control
-- Organisational Agility
 - Personal
 resourceTypes:
 - video

@@ -25,8 +25,8 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - Agile Project Management
-- Agile Frameworks
 - Software Development
+- Agile Frameworks
 - Practical Techniques and Tooling
 - Software Developers
 categories:

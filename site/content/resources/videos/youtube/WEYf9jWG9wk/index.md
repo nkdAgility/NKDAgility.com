@@ -35,8 +35,8 @@ tags:
 - Pragmatic Thinking
 - Lean Product Development
 - Product Discovery
+- Product Validation
 - Business Agility
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

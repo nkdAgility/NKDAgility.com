@@ -31,8 +31,8 @@ tags:
 - Technical Debt
 categories:
 - Engineering Excellence
-- Social Technologies
 - Product Management
+- Scrum
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 
 ---

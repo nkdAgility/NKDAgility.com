@@ -31,12 +31,12 @@ tags:
 - Flow Efficiency
 - Agile Project Management
 - Agile Transformation
-- Lean Thinking
 - Operational Practices
 - Pragmatic Thinking
 - Software Development
 - Throughput
 - Agile Frameworks
+- Lean Thinking
 - People and Process
 resourceTypes:
 - video

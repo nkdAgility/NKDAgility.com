@@ -27,7 +27,6 @@ aliasesArchive:
 - /blog/tfs-event-handler--ctp-1-delayed
 - /resources/blog/tfs-event-handler-ctp-1-delayed
 tags:
-- Technical Mastery
 - Install and Configuration
 - Miscellaneous
 - Software Development

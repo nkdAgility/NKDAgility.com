@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/create-log-entries-release-management
 tags:
 - Windows
-- Application Lifecycle Management
 - Release Management
 - System Configuration
 - Azure Pipelines
@@ -37,6 +36,7 @@ tags:
 - Technical Mastery
 - Troubleshooting
 - Practical Techniques and Tooling
+- Azure DevOps
 categories:
 - DevOps
 - Engineering Excellence

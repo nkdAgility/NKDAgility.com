@@ -34,6 +34,7 @@ tags:
 - People and Process
 - Software Development
 - Team Performance
+- Pragmatic Thinking
 - Software Developers
 sitemap:
   filename: sitemap.xml

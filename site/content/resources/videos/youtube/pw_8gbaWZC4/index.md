@@ -34,7 +34,7 @@ tags:
 - Operational Practices
 - Flow Efficiency
 - Practical Techniques and Tooling
-- Value Delivery
+- Throughput
 sitemap:
   filename: sitemap.xml
   priority: 0.6

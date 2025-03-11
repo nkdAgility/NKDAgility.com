@@ -322,11 +322,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T22:12:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:05:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical implementation of creating a WCF Service Host, which involves engineering practices related to service architecture, security, and configuration. It aligns well with the principles of technical excellence in software development.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a WCF service, detailing specific code snippets and configurations. While it does not explicitly mention concepts like TDD, CI/CD, or modular architecture, it aligns with the principles of technical excellence through its emphasis on code quality and service behaviour configurations. However, the discussion lacks depth in exploring broader engineering practices or methodologies that enhance agility, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "People and Process": {

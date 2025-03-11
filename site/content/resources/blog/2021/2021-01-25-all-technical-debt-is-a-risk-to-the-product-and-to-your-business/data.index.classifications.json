@@ -1264,11 +1264,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-11T20:40:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:24:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the impact of technical debt on product delivery and the organisational changes made at Microsoft to improve processes, highlighting the importance of team dynamics, leadership, and culture in addressing these challenges.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of technical debt on product delivery and the importance of understanding it from a business perspective. It touches on team dynamics, leadership, and the need for a culture of quality, which aligns with the category. However, the primary focus is on technical debt rather than the interplay of people and processes, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
@@ -1384,12 +1387,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:04:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:24:25",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the implications of technical debt on product delivery and business, while also detailing the transition to Scrum practices at Microsoft, highlighting the importance of collaboration and continuous improvement.",
-    "level": "Secondary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses technical debt and its implications on product delivery, which indirectly relates to Agile practices, particularly through the mention of Scrum and the shift to 3-week Sprints. However, the primary focus is on the risks associated with technical debt rather than a detailed exploration of social technologies or frameworks like Scrum, Kanban, Lean, or Agile. The discussion lacks depth in terms of specific methodologies and their principles, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

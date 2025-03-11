@@ -33,8 +33,8 @@ sitemap:
 tags:
 - People and Process
 - Scrum Master
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
 - Personal
 - Continuous Learning
 - Pragmatic Thinking

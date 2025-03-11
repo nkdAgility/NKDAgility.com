@@ -292,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:26:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:44:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server (TFS) 2012, which is a key component of Azure DevOps, along with Lab Management. It provides detailed steps and insights into the deployment process, aligning with Azure DevOps functionalities.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) 2012, which is a key component of Azure DevOps. It discusses various aspects of TFS, including integration with Lab Management and System Centre Virtual Machine Manager (SCVMM), which are relevant to Azure DevOps functionalities. The depth of discussion is significant, providing detailed steps and considerations for deployment, which aligns well with the category's focus on best practices and methodologies associated with Azure DevOps. However, the content does not explicitly mention Azure DevOps itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {

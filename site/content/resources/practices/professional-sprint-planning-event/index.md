@@ -39,12 +39,12 @@ card:
 categories:
 - Scrum
 tags:
+- Agile Planning
 - People and Process
 - Agile Product Management
 - Product Delivery
 - Scrum Product Development
 - Scrum Team
-- Agile Planning
 - Professional Scrum
 - Agile Frameworks
 - Agile Project Management

@@ -35,10 +35,10 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Agile Project Management
-- Professional Scrum
 - Team Collaboration
 - Agile Product Management
 - Transparency and Accountability
+- Professional Scrum
 resourceTypes:
 - video
 categories:

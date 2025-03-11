@@ -30,11 +30,11 @@ tags:
 - Scrum Master
 - People and Process
 - Scrum Team
-- Team Performance
 - Agile Frameworks
 - Agile Project Management
 - Coaching
 - Self Organisation
+- Team Performance
 - Pragmatic Thinking
 resourceTypes:
 - video

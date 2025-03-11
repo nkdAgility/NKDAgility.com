@@ -313,12 +313,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:04:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for collaboration between distinct teams (factory and product development) and the importance of efficient workflows, which are relevant to DevOps principles. However, it primarily focuses on software factories and web services rather than core DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of 'Software Factories' and the roles of different teams in software development, which hints at some principles of DevOps, such as collaboration and efficiency. However, it lacks explicit mentions of DevOps practices like CI/CD, automation, or cultural shifts. The focus is more on traditional software development methodologies rather than the integration of development and operations, which is central to DevOps.",
+    "level": "Quaternary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -331,11 +334,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-16T21:44:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T19:04:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the roles and dynamics of different teams (Factory Development Team, Product Development Team, Developer Evangelist) in the context of software development processes, highlighting the importance of collaboration and communication between these roles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the roles of different teams (factory team, product team, developer evangelist) and their interactions, which aligns with team dynamics and collaboration. However, while it touches on the importance of adapting processes and the human factors involved, the primary focus is more on technical methodologies and structures rather than a deep exploration of human behaviour and process improvement.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

@@ -23,7 +23,6 @@ aliasesArchive:
 - /live-framework
 - /resources/blog/live-framework
 tags:
-- Collaboration Tools
 - System Configuration
 - Practical Techniques and Tooling
 - Software Development

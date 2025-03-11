@@ -1057,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T00:07:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:32:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of Active Directory and Visual Studio Online accounts, detailing the processes involved in setting up single sign-on and managing user identities, which aligns closely with system configuration practices.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on configuring Active Directory Federated Services (ADFS) to enable seamless Single-Sign-On (SSO) for Visual Studio Online (VSO) and Azure accounts. It discusses specific steps for linking accounts, managing user access, and ensuring continuity during the migration process. The detailed instructions and warnings provided indicate a strong alignment with system configuration practices, particularly in the context of software and identity management. The depth of discussion is substantial, covering various aspects of configuration management and user account integration, which are central to the category of System Configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {

@@ -292,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T01:33:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:52:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting a build failure in Team Foundation Build Services, which is part of Azure DevOps. It includes specific references to creating work items and managing bugs within the context of Azure DevOps, indicating a strong focus on its functionalities.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses troubleshooting a build failure in Team Foundation Build Services, which is part of Azure DevOps. It includes specific steps for navigating the build system, creating work items, and integrating Agile practices like Scrum. The discussion is detailed and directly relevant to Azure DevOps functionalities, particularly in the context of CI/CD and project management. However, it does not cover broader Azure DevOps services or methodologies extensively, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Personal": {

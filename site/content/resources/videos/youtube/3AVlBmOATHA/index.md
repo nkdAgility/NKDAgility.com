@@ -27,8 +27,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
 - People and Process
+- Agile Leadership
 - Agile Strategy
 - Agile Transformation
 - Change Management

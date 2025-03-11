@@ -28,10 +28,10 @@ aliasesArchive:
 - /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 tags:
+- Product Backlog
 - Transparency
 - Product Delivery
 - Scrum Product Development
-- Product Backlog
 - Agile Project Management
 - Pragmatic Thinking
 - Product Owner

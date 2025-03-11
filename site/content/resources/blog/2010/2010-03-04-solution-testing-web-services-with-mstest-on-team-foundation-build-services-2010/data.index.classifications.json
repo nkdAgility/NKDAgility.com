@@ -553,11 +553,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-16T01:39:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:52:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the implementation of automated tests using MSTest, including unit tests and integration tests, specifically for web services, and addresses issues related to running tests in a build environment.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed discussion on automated testing, specifically focusing on unit tests and integration tests using MSTest. It explains the setup required for automated tests in a build environment, including the use of attributes like HostType and UrlToTest, which are essential for running tests against web services. The depth of the discussion is significant, covering practical examples and troubleshooting tips, which aligns well with the principles and practices of automated testing in software development.",
     "level": "Secondary"
   },
   "Team Performance": {

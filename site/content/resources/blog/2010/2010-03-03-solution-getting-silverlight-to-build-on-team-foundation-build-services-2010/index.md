@@ -32,11 +32,11 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Azure DevOps
 - Continuous Integration
 - Operational Practices
 - Pragmatic Thinking
 - Technical Mastery
+- Technical Excellence
 categories:
 - DevOps
 - Engineering Excellence

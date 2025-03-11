@@ -370,11 +370,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T19:15:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:59:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to managing and configuring Active Directory permissions, including a practical code implementation that is focused on access control list (ACL) management, which is a key aspect of system configuration.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the removal of Access Control Lists (ACLs) for inactive Active Directory accounts, which is a specific aspect of system configuration related to security settings. It provides a code snippet that demonstrates how to manipulate directory security objects, aligning with the category's focus on configuration management and troubleshooting. However, while it touches on relevant topics, the discussion lacks depth in broader system optimisation strategies and best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {

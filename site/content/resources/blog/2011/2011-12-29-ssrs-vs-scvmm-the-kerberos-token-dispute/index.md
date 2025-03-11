@@ -29,10 +29,10 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Pragmatic Thinking
 - Software Development
 - Troubleshooting
 - Windows
+- Pragmatic Thinking
 - Technical Mastery
 categories: []
 

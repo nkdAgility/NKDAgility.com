@@ -38,9 +38,9 @@ tags:
 - Agile Project Management
 - Software Developers
 - Technical Leadership
-- Agile Frameworks
 - Pragmatic Thinking
 - Software Development
+- Agile Frameworks
 - Self Organisation
 - Agile Product Management
 resourceTypes:

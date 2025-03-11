@@ -34,7 +34,6 @@ tags:
 - Continuous Learning
 - Pragmatic Thinking
 - Agile Philosophy
-- Operational Practices
 - Metrics and Learning
 resourceTypes:
 - video

@@ -32,8 +32,8 @@ tags:
 - Agile Product Management
 - People and Process
 - Agile Product Operating Model
-- Agile Project Management
 - Team Motivation
+- Agile Project Management
 - Product Owner
 - Personal
 - Employee Engagement

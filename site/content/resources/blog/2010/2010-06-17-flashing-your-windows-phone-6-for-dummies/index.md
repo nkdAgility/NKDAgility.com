@@ -23,11 +23,7 @@ aliasesArchive:
 - /flashing-your-windows-phone-6-for-dummies
 - /resources/blog/flashing-your-windows-phone-6-for-dummies
 tags:
-- Install and Configuration
 - Windows
-- System Configuration
-- Troubleshooting
-- Practical Techniques and Tooling
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 

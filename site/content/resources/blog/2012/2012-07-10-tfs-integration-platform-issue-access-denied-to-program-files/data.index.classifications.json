@@ -1057,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:20:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:44:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific access issue related to the configuration of the TFS Integration Tools, including permissions and workarounds, which are central to system configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue related to access permissions in the context of the TFS Integration Tools, which is a part of system configuration. It directly addresses a configuration problem (access denied) and provides a workaround that involves modifying permissions, aligning with best practices for system setup. However, while it touches on configuration management, the depth of discussion is somewhat limited, focusing primarily on a single issue rather than broader configuration strategies or methodologies.",
     "level": "Secondary"
   },
   "Product Strategy": {

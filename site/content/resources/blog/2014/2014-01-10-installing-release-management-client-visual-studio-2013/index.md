@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
-- Application Lifecycle Management
 - Release Management
 - Software Development
 - System Configuration
 - Azure DevOps
+- Application Lifecycle Management
 - Technical Mastery
 - Troubleshooting
 categories:

@@ -274,11 +274,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:27:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:42:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses various tools and software products related to requirement management within the context of Agile methodologies, specifically focusing on Team Foundation Server and its integrations with partner products.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses various tools and products related to requirement management within the context of Agile methodologies and Team Foundation Server (TFS). It provides detailed insights into specific software solutions, their functionalities, and how they integrate with Agile practices. The mention of multiple products, including Team Companion and Caliber, along with their applications in real-world scenarios, demonstrates a strong alignment with the category. The depth of discussion regarding the tools' features and their relevance to Agile further supports a high confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -1369,12 +1372,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:50:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T18:42:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various tools and methodologies related to requirement management and Agile practices, indicating a significant focus on Agile principles and their application in team dynamics.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS), with some references to Agile practices and project management tools. However, it lacks a focused discussion on the core frameworks of Scrum, Kanban, Lean, or Agile methodologies. While Agile is mentioned, it is not the primary focus, and the depth of discussion on social technologies and their role in collaboration and continuous improvement is limited.",
+    "level": "Quaternary"
   },
   "Leadership": {
     "category": "Leadership",

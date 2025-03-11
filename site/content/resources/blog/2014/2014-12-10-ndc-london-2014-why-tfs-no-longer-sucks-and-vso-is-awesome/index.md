@@ -34,9 +34,9 @@ tags:
 - Release Management
 - Azure DevOps
 - News and Reviews
-- Product Delivery
 - Software Development
 - Troubleshooting
+- Install and Configuration
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png

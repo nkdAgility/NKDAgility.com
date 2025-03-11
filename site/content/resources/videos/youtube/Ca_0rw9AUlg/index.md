@@ -34,11 +34,11 @@ tags:
 - Organisational Physics
 - Systems Thinking
 - Organisational Change
-- Organisational Culture
 - Sociotechnical Systems
 - Change Management
 - Complexity Thinking
 - Pragmatic Thinking
+- Organisational Culture
 resourceTypes:
 - video
 categories:

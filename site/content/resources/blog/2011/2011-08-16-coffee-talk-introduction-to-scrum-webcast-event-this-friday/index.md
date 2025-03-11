@@ -36,7 +36,7 @@ tags:
 - Professional Scrum
 - Scrum Team
 - Software Development
-- Product Delivery
+- Software Developers
 categories:
 - Scrum
 preview: metro-event-128-link-2-2.png

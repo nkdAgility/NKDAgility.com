@@ -31,9 +31,9 @@ aliasesArchive:
 - /blog/deploy-from-visual-studio-2012-to-ios--windows-phone--android-and-windows
 - /resources/blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 tags:
-- Application Lifecycle Management
 - Software Development
 - Windows
+- Application Lifecycle Management
 - Practical Techniques and Tooling
 - Working Software
 - Product Delivery

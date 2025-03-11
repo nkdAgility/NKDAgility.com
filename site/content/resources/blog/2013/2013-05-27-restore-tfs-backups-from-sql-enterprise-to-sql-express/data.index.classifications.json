@@ -376,12 +376,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-10T18:39:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical aspects of restoring TFS backups on different SQL Server editions, detailing SQL commands, error messages, and troubleshooting steps, which aligns with key topics of software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the technical aspects of restoring TFS backups from SQL Enterprise to SQL Express, focusing on specific SQL Server features and commands. While it provides practical solutions and SQL commands, it lacks a broader discussion on software craftsmanship principles or best practices in software design and architecture. The depth of technical detail is moderate, but it does not fully align with the core themes of Technical Mastery, such as clean code principles or agile engineering practices.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",

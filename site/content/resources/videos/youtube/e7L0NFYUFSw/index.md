@@ -27,9 +27,9 @@ isShort: false
 tags:
 - Agile Project Management
 - Agile Frameworks
+- Software Development
 - Software Developers
 - People and Process
-- Software Development
 - Agile Planning
 sitemap:
   filename: sitemap.xml

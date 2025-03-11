@@ -316,12 +316,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-10T19:02:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a resilient and scalable Team Foundation Server Event Handler, which relates to engineering practices, but it does not delve deeply into methodologies or principles of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a TFS Event Handler in .NET 3.5, which touches on technical implementation but lacks a direct discussion on broader engineering practices or methodologies that enhance agility in software development. While it mentions resilience and scalability, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. The discussion is more about specific technical tasks rather than the principles that underpin technical excellence.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",

@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: false
 tags:
+- Product Delivery
 - Professional Scrum
 - Transparency
 - Agile Frameworks
@@ -34,7 +35,6 @@ tags:
 - Agile Product Management
 - People and Process
 - Product Owner
-- Transparency and Accountability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

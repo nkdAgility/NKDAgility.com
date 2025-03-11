@@ -35,8 +35,8 @@ tags:
 - Agile Transformation
 - Scrum Master
 - Empirical Process Control
-- Software Development
 - Discovery and Learning
+- Software Development
 - Pragmatic Thinking
 resourceTypes:
 - video

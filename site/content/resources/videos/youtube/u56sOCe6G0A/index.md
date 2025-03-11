@@ -37,9 +37,9 @@ tags:
 - Practical Techniques and Tooling
 - Agile Frameworks
 - Operational Practices
+- Software Development
 - Agile Project Management
 - Pragmatic Thinking
-- Software Development
 - Throughput
 - Lean Thinking
 - Value Delivery

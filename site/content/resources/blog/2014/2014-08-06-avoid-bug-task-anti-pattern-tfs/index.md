@@ -29,7 +29,6 @@ aliasesArchive:
 - /resources/blog/
 tags:
 - Practical Techniques and Tooling
-- People and Process
 - Azure DevOps
 - Product Delivery
 - Product Owner
@@ -38,9 +37,11 @@ tags:
 - Agile Planning
 - Agile Project Management
 - Agile Transformation
+- Azure Boards
 categories:
 - DevOps
 - Engineering Excellence
+- Social Technologies
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 
 ---

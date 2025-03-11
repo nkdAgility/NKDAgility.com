@@ -32,11 +32,11 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
-- Metrics and Learning
 - Decision Making
 - Evidence Based Leadership
 - Organisational Agility
 - Agile Strategy
+- Metrics and Learning
 - Business Agility
 - Enterprise Agility
 - Agile Project Management

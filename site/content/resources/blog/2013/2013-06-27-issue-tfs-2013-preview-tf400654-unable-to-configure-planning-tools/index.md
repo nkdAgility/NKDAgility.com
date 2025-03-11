@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Troubleshooting
-- Software Development
 - System Configuration
+- Software Development
 - Practical Techniques and Tooling
 - Azure DevOps
 categories:
