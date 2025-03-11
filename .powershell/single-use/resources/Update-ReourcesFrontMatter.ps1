@@ -207,27 +207,19 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     # $categories = $marketingClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
     # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'marketing' -values @($categories) -Overwrite
     #-----------------Categories-------------------
-    $categoryClassification = Get-CategoryConfidenceWithChecksum  -updateMissing `
-        -ClassificationType "categories" `
-        -Catalog $categoriesCatalog `
-        -CacheFolder $hugoMarkdown.FolderPath `
-        -ResourceContent  $BodyContent `
-        -ResourceTitle $hugoMarkdown.FrontMatter.title
-    $categories = $categoryClassification | ConvertFrom-Json | Sort-Object -Property @{Expression = "final_score"; Descending = $true }, @{Expression = "category"; Descending = $false } |  Select-Object -First 3 | ForEach-Object { $_.category }
+    $categoryClassification = Get-ClassificationsForType -updateMissing -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
+    $categoryClassificationOrdered = Get-ClassificationOrderedList -classifications $categoryClassification | Select-Object -First 3
+    $categories = $categoryClassificationOrdered | ForEach-Object { $_.category }
 
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
     #-----------------Tags-------------------
-    $tagClassification = Get-CategoryConfidenceWithChecksum -updateMissing `
-        -ClassificationType "tags" `
-        -Catalog $tagsCatalog `
-        -CacheFolder $hugoMarkdown.FolderPath `
-        -ResourceContent  $BodyContent `
-        -ResourceTitle $hugoMarkdown.FrontMatter.title
-    $tags = $tagClassification | ConvertFrom-Json | Sort-Object -Property @{Expression = "final_score"; Descending = $true }, @{Expression = "category"; Descending = $false } |  Select-Object -First 10 | ForEach-Object { $_.category }
+    $tagClassification = Get-ClassificationsForType -updateMissing -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
+    $tagClassificationOrdered = Get-ClassificationOrderedList -classifications $tagClassification | Select-Object -First 10
+    $tags = $tagClassificationOrdered | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
     # =================COMPLETE===================
-    $eeResult = Get-ClassificationFromCache -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Engineering Excellence"
-    $tlResult = Get-ClassificationFromCache -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Technical Leadership"
+    $eeResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Engineering Excellence"
+    $tlResult = Get-Classification -CacheFolder $hugoMarkdown.FolderPath  -ClassificationName "Technical Leadership"
     $weight = [math]::Round(((1000 - ($eeResult.final_score * 10)) + (1000 - ($tlResult.final_score * 10))) / 2)
     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'weight' -fieldValue $weight -addAfter 'date' -Overwrite
     # =================CONTENT===================

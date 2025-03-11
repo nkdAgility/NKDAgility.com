@@ -34,19 +34,16 @@ $catalogues["catalog"]["tags"] = Get-CatalogHashtable -Classification "tags"
 $catalogues["catalog_full"] = $catalogues["catalog"]["categories"] + $catalogues["catalog"]["tags"]
 $catalogues["marketing"] = Get-CatalogHashtable -Classification "marketing"
 
-function Get-CategoryConfidenceWithChecksum {
+function Get-ClassificationsForType {
     param (
-        [string]$ResourceContent,
-        [string]$ResourceTitle,
-        [string]$CacheFolder,
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown,
         [string]$ClassificationType = "classification",
         [switch]$batch,
         [switch]$updateMissing
     )
 
-    if (!(Test-Path $CacheFolder)) {
-        New-Item -ItemType Directory -Path $CacheFolder -Force | Out-Null
-    }
+    $CacheFolder = $hugoMarkdown.FolderPath
 
     $batchFile = Join-Path $CacheFolder "data.index.classifications.$ClassificationType.batch"
     $batchJsonlOutout = Join-Path $CacheFolder "data.index.classifications.$ClassificationType-output.jsonl"
@@ -156,7 +153,7 @@ function Get-CategoryConfidenceWithChecksum {
                         Write-ErrorLog "Error parsing AI response for $CacheFolder. Skipping."
                         continue
                     }
-                    $newEntry = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
+                    $newEntry = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $hugoMarkdown.FrontMatter.title -ResourceContent $hugoMarkdown.BodyContent
                     if ($cachedData.ContainsKey($newEntry.category)) {
                         $oldEntry = $cachedData.($newEntry.category)
                         if ([System.DateTimeOffset]$oldEntry.calculated_at -gt $newEntry.calculated_at) {
@@ -267,8 +264,8 @@ function Get-CategoryConfidenceWithChecksum {
 
                 do not wrap the json in anything else, just return the json object.
 
-                **Content Title:** "$ResourceTitle"  
-                **Content:** "$ResourceContent"
+                **Content Title:** "$($hugoMarkdown.FrontMatter.Title)"  
+                **Content:** "$($hugoMarkdown.BodyContent)"
 "@
             $prompts += $prompt
         }
@@ -299,7 +296,7 @@ function Get-CategoryConfidenceWithChecksum {
                 #Write-Progress -Id 2 -Activity "Classification of $ClassificationType" -Status "Processing prompt [$count/$($prompts.count)]" -PercentComplete (($count / $prompts.count) * 100)
                 # Calls processing
                 $aiResponseJson = Get-OpenAIResponse -Prompt $prompt
-                $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -ResourceTitle $ResourceTitle -ResourceContent $ResourceContent
+                $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -hugoMarkdown $hugoMarkdown
                 if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
                     $oldConfidence = $cachedData[$result.category]?.ai_confidence ?? 0
                     $DaysAgo = if ($cachedData[$result.category]?.calculated_at -is [DateTime]) {
@@ -328,17 +325,13 @@ function Get-CategoryConfidenceWithChecksum {
     #==========================================
     #=================return===================
     #==========================================
-    $finalSelection = Get-FinalSelection -categoryScores $CatalogFromCache
-    return $finalSelection | Sort-Object final_score -Descending | ConvertTo-Json -Depth 2
+    return $CatalogFromCache.Values | Sort-Object final_score -Descending
     #==========================================
     #================/return===================
     #==========================================
-    
-   
-       
 }
 
-function Get-ClassificationFromCache {
+function Get-Classification {
     param (
         [string]$CacheFolder,
         [string]$ClassificationName
@@ -355,6 +348,16 @@ function Get-ClassificationFromCache {
         }
     }
     Return $cachedData.$ClassificationName
+}
+
+function Get-ClassificationOrderedList { 
+    param (
+        [array]$Classifications,
+        [int] $minScore = 70
+    )
+    return $Classifications | 
+    Where-Object { $_.final_score -gt $minScore } | 
+    Sort-Object -Property @{Expression = "final_score"; Descending = $true }, @{Expression = "ai_alignment"; Descending = $true }, @{Expression = "ai_depth"; Descending = $true }, @{Expression = "category"; Descending = $false }
 }
 
 function Get-FinalSelection { 
@@ -402,9 +405,9 @@ function Get-ComputedLevel {
 
 function Get-ConfidenceFromAIResponse {
     param (
-        [string]$AIResponseJson,
-        [string]$ResourceTitle,
-        [string]$ResourceContent
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown,
+        [string]$AIResponseJson
     )
     $responceOK = $true
     try {
@@ -448,7 +451,7 @@ function Get-ConfidenceFromAIResponse {
     # Non-AI Confidence Calculation
     $nonAiConfidence = 0
     $categoryWords = $category -split '\s+'
-    $contentWords = ($ResourceTitle + " " + $ResourceContent) -split '\s+'
+    $contentWords = ($hugoMarkdown.FrontMatter.title + " " + $hugoMarkdown.BodyContent) -split '\s+'
     $escapedCategory = [Regex]::Escape($category)
 
     if ($category -in $contentWords) {
