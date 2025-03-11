@@ -348,33 +348,27 @@ function Get-Classification {
 function Get-ClassificationOrderedList { 
     param (
         [array]$Classifications,
-        [int] $minScore = 70
+        [int] $minScore = 30,
+        [string[]]$levels = @("Primary", "Secondary", "Tertiary", "Quaternary", "Quinary"),
+        [switch]$byLevel
     )
-    return $Classifications | 
-    Where-Object { $_.final_score -gt $minScore } | 
-    Sort-Object -Property @{Expression = "final_score"; Descending = $true }, @{Expression = "ai_alignment"; Descending = $true }, @{Expression = "ai_depth"; Descending = $true }, @{Expression = "category"; Descending = $false }
-}
 
-function Get-FinalSelection { 
-    param (
-        [hashtable]$categoryScores,
-        [string[]]$levels = @("Primary", "Secondary", "Tertiary", "Quaternary", "Quinary")
-    )
-    
-    $finalSelection = @()
-
-    foreach ($level in $levels) {
-        $currentSelection = $categoryScores.Values | Where-Object { $_.final_score -gt 30 -and $_.level -eq $level } | Sort-Object final_score -Descending
-        if ($currentSelection.Count -gt 0) {
-            $finalSelection += $currentSelection
-            break
-        }
+    $filtered = $Classifications | Where-Object { $_.final_score -gt $minScore }
+    $selected = @()
+    if ($byLevel) {
+        foreach ($level in $levels) {
+            $currentSelection = $filtered | Where-Object { $_.level -eq $level } | Sort-Object final_score -Descending
+            if ($currentSelection.Count -gt 0) {
+                $selected += $currentSelection
+                break
+            }
+        }    
     }
-
-    return $finalSelection | Sort-Object final_score -Descending
+    else {
+        $selected = $filtered | Sort-Object final_score -Descending
+    }
+    return $selected | Sort-Object -Property @{Expression = "final_score"; Descending = $true }, @{Expression = "ai_alignment"; Descending = $true }, @{Expression = "ai_depth"; Descending = $true }, @{Expression = "category"; Descending = $false }
 }
-
-
 
 function Get-ComputedConfidence {
     param (

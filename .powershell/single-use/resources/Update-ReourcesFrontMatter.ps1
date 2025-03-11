@@ -208,13 +208,13 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
     # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'marketing' -values @($categories) -Overwrite
     #-----------------Categories-------------------
     $categoryClassification = Get-ClassificationsForType -updateMissing -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
-    $categoryClassificationOrdered = Get-ClassificationOrderedList -classifications $categoryClassification | Select-Object -First 3
+    $categoryClassificationOrdered = Get-ClassificationOrderedList -byLevel -classifications $categoryClassification | Select-Object -First 3
     $categories = $categoryClassificationOrdered | ForEach-Object { $_.category }
 
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
     #-----------------Tags-------------------
     $tagClassification = Get-ClassificationsForType -updateMissing -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
-    $tagClassificationOrdered = Get-ClassificationOrderedList -classifications $tagClassification | Select-Object -First 10
+    $tagClassificationOrdered = Get-ClassificationOrderedList -byLevel -classifications $tagClassification | Select-Object -First 10
     $tags = $tagClassificationOrdered | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
     # =================COMPLETE===================
