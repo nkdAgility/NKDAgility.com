@@ -27,12 +27,12 @@ aliasesArchive:
 - /blog/using-the-build-vnext-capabilities-and-demands-system
 - /resources/blog/using-build-vnext-capabilities-demands-system
 tags:
+- Azure Pipelines
 - Windows
 - Install and Configuration
 - Azure DevOps
 - Practical Techniques and Tooling
 - Software Development
-- Azure Pipelines
 - System Configuration
 - Continuous Integration
 categories:

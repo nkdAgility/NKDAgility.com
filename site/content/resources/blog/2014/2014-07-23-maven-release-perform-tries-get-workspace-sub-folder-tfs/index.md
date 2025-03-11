@@ -27,11 +27,11 @@ aliasesArchive:
 - /blog/maven-release-perform-tries-to-do-a-get-to-a-workspace-sub-folder-in-tfs
 - /resources/blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
 tags:
-- Software Development
-- Pragmatic Thinking
-- Technical Mastery
 - Troubleshooting
+- Software Development
+- Technical Mastery
 - Practical Techniques and Tooling
+- Pragmatic Thinking
 - Install and Configuration
 - System Configuration
 - Release Management

@@ -35,12 +35,12 @@ tags:
 - People and Process
 - Scrum Product Development
 - Cross Functional Teams
-- Product Delivery
 - Professional Scrum
 - Scrum Team
 - Software Development
-- Value Delivery
 - Team Collaboration
+- Team Performance
+- Agile Frameworks
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-6-6.png

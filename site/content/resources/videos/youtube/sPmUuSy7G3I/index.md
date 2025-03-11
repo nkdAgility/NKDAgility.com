@@ -31,11 +31,11 @@ tags:
 - Scrum Team
 - Agile Project Management
 - Scrum Product Development
-- Team Collaboration
 - Team Performance
 - Agile Frameworks
 - Agile Planning
 - Agile Product Management
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

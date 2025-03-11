@@ -379,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:35:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation process and user interface of Visual Studio 11, touching on aspects that might be related to software development tools but lacks a strong focus on principles of software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11, which is more of a user experience and setup guide rather than a discussion on technical mastery. While it mentions aspects of the user interface and installation efficiency, it lacks in-depth discussions on software craftsmanship, architecture, or engineering practices. The content does not delve into best practices, code quality, or methodologies that contribute to high-quality software development, which are essential for the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1054,12 +1057,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:00:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Visual Studio 11, mentioning aspects of the installation process, ease of use, and UI configurations. While it does contain some relevant elements to system configuration, it primarily focuses on the installation experience rather than a detailed exploration of system configuration methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the installation process of Visual Studio 11 on Windows 7, which includes some aspects of system configuration, such as the installation experience and user interface. However, it lacks a detailed exploration of configuration management tools, optimisation strategies, or troubleshooting common configuration issues. While it does mention the installation being painless and the lack of configuration required, these points are not elaborated upon in a way that aligns with the core themes of system configuration. Therefore, while there are relevant mentions, the depth and conceptual alignment are limited.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

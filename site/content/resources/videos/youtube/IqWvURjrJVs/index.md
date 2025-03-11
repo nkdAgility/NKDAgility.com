@@ -24,16 +24,7 @@ preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false
 tags:
-- Agile Frameworks
-- Coaching
-- Organisational Agility
 - People and Process
-- Agile Product Management
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Market Adaptability
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4

@@ -32,11 +32,11 @@ tags:
 - System Configuration
 - Azure Pipelines
 - Pragmatic Thinking
-- Software Development
-- Technical Mastery
 - Troubleshooting
 - Practical Techniques and Tooling
+- Software Development
 - Azure DevOps
+- Application Lifecycle Management
 categories:
 - DevOps
 - Engineering Excellence

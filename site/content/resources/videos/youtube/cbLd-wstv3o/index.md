@@ -39,6 +39,7 @@ tags:
 - Agile Product Management
 - Ability to Innovate
 - Product Owner
+- Product Delivery
 resourceTypes:
 - video
 categories:

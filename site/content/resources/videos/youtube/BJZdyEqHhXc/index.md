@@ -30,10 +30,10 @@ tags:
 - Decision Making
 - Pragmatic Thinking
 - Sensemaking
-- Sociotechnical Systems
 - Resilience and Change
 - Miscellaneous
 - Organisational Agility
+- Organisational Physics
 sitemap:
   filename: sitemap.xml
   priority: 0.6

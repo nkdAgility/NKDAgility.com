@@ -277,20 +277,26 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-15T20:27:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the features and benefits of upgrading to Visual Studio Team Foundation Server (TFS), which aligns with the category's focus on tools and software that facilitate Agile practices and DevOps integration.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the upgrade and features of TFS (Team Foundation Server) and Visual Studio ALM, which are software products relevant to Agile methodologies. It provides insights into the capabilities of these tools and their application in a real-world scenario, aligning with the category's focus on discussions about products. However, while it mentions Agile principles, the depth of discussion on literature or methodologies is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T20:27:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:59:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade to TFS 2012 and its implications for value delivery, including continuous value delivery, process improvement, and the benefits of Agile methodologies in enhancing customer satisfaction.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the upgrade to TFS 2012 and its capabilities, particularly in relation to Agile methodologies and continuous value delivery. It explicitly mentions 'Continuous Value Delivery' and explores how TFS can enhance processes and deliver value to customers. The discussion aligns well with the core themes of value delivery, such as iterative development and the importance of aligning product development with customer needs. However, while it provides substantial detail, it also includes technical implementation aspects that slightly detract from its primary focus on value delivery.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -1384,12 +1390,15 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T11:52:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:59:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses presenting to senior management and the importance of leadership in advocating for Agile practices and tools, but it primarily focuses on technical aspects of TFS and Visual Studio rather than leadership strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the presentation of TFS and its capabilities, touching on aspects of leadership such as convincing management and discussing Agile methodologies. However, the primary focus is on technical implementation and features of TFS rather than on leadership practices or strategies. While there are mentions of engaging with senior management and the importance of Agile, these are secondary to the technical details presented.",
+    "level": "Quaternary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

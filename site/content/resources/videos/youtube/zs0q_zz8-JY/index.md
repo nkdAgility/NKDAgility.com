@@ -31,6 +31,7 @@ tags:
 - Scrum Team
 - Agile Leadership
 - Technical Leadership
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

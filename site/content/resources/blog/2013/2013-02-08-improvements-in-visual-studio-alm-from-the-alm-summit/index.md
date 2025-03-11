@@ -23,10 +23,10 @@ aliasesArchive:
 - /improvements-in-visual-studio-alm-from-the-alm-summit
 - /resources/blog/improvements-in-visual-studio-alm-from-the-alm-summit
 tags:
-- Practical Techniques and Tooling
 - Application Lifecycle Management
-- Modern Source Control
 - News and Reviews
+- Practical Techniques and Tooling
+- Modern Source Control
 - Software Development
 - Operational Practices
 - Working Software

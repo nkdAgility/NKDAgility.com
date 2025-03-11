@@ -30,7 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - Agile Product Management
+- Software Developers
 - Agile Planning
 - Agile Project Management
 - Scrum Product Development
@@ -38,8 +40,6 @@ tags:
 - Operational Practices
 - People and Process
 - Pragmatic Thinking
-- Software Developers
-- Software Development
 resourceTypes:
 - video
 layout: video

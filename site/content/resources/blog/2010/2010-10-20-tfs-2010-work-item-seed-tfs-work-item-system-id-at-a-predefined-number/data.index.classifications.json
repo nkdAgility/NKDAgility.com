@@ -382,11 +382,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T00:46:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:04:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on coding techniques and the use of APIs to solve a specific technical problem related to TFS work item IDs, aligning well with discussions on software engineering practices and methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on a specific technical solution for managing work item IDs in TFS 2010, which involves coding practices and API usage. While it does touch on aspects of software craftsmanship, such as the importance of clean code and the use of APIs, the discussion lacks depth in broader engineering principles and best practices. The content is more of a practical guide than a comprehensive exploration of technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -790,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:46:23",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T10:39:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses a practical coding solution for setting a specific Work Item ID in TFS, which involves problem-solving methods relevant in an Agile context. However, it lacks a broader discussion of Agile, Scrum, or DevOps principles and mainly focuses on a coding task.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a practical solution to a specific problem within the TFS (Team Foundation Server) environment, demonstrating pragmatic thinking through the application of coding techniques to achieve a desired outcome. It provides a real-world scenario where the author navigates the complexities of work item ID management, showcasing adaptability and problem-solving strategies. The depth of discussion includes code snippets and explanations of the process, aligning well with the core themes of pragmatic thinking, particularly in the context of Agile and DevOps. However, while it is focused on practical application, it lacks broader discussions on Agile or Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

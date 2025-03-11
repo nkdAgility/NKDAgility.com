@@ -325,11 +325,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T02:12:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:49:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses engineering practices such as shifting quality assurance left, test-driven development, pair programming, and the importance of clean code and architecture. It aligns well with the principles of Agile development and emphasizes methodologies that enhance software quality and team effectiveness.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the concept of 'shift left' in quality assurance, which aligns closely with the principles of clean code, test-driven development (TDD), and the importance of integrating testing and support into the engineering process. It highlights the need for engineering teams to take ownership of their code, including testing and maintenance, which is a core tenet of Agile practices. The discussion on pair programming and TDD further reinforces the focus on high-quality engineering practices. The depth of the discussion is significant, providing detailed insights into how these practices can enhance productivity and product quality, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -343,11 +346,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T02:12:53",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T11:12:50",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "Content primarily discusses quality assurance practices in software engineering, specifically focusing on the concept of 'shift left', test-driven development, and the importance of integrating quality into the development process. It aligns closely with key topics in software development methodologies and practices.",
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the concept of 'shift left' in quality assurance, which is a critical aspect of modern software development practices. It elaborates on the importance of integrating testing and support into the development process, aligning closely with best practices in coding and software design. The discussion includes references to Agile methodologies, test-driven development, and the need for collaboration within engineering teams, all of which are core themes of the Software Development category. The depth of the discussion is significant, providing detailed insights into how these practices can lead to better software quality and efficiency, thus justifying a high confidence score.",
     "level": "Primary"
   },
   "Engineering Excellence": {

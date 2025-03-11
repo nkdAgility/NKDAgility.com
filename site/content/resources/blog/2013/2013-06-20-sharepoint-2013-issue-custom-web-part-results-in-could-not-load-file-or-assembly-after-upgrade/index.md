@@ -29,7 +29,11 @@ aliasesArchive:
 - /blog/sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 - /resources/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 tags:
+- Install and Configuration
 - Troubleshooting
+- System Configuration
+- Software Development
+- Practical Techniques and Tooling
 categories: []
 preview: metro-sharepoint-128-link-8-8.png
 

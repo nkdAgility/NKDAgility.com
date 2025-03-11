@@ -214,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to TFS Integration Tools and provides workarounds, which aligns with technical practices, but it does not primarily focus on broader engineering methodologies or principles of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS Integration Tools and provides a workaround for a runtime conflict. While it touches on a technical problem, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is more on troubleshooting rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1165,11 +1168,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T18:49:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:29:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific issue encountered during a TFS Integration migration, detailing the problem, its causes, and providing workarounds, which aligns well with troubleshooting methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific issue encountered during a source control migration using TFS Integration Tools, which directly aligns with the troubleshooting category. It identifies the problem (unable to find a unique local path) and provides insights into the cause of the issue, as well as practical workarounds to resolve it. The depth of discussion includes details about the character limit and strategies to avoid duplicates, demonstrating a thorough understanding of the troubleshooting process. Overall, the content is highly relevant and focused on diagnosing and resolving a technical issue.",
     "level": "Secondary"
   },
   "Experimentation": {

@@ -1063,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:31:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2008 to TFS 2010, including aspects of system configuration, hardware considerations, and process template upgrades, which are central to system configuration discussions.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the upgrade process from TFS 2008 to TFS 2010, which includes significant discussions on configuration aspects necessary for a successful upgrade. It explicitly mentions the configuration within the product to ensure optimal performance, aligning well with the core themes of system configuration. The depth of discussion is substantial, covering various upgrade strategies, potential pitfalls, and best practices, which are all relevant to system configuration. However, while the content is rich in practical advice, it does not delve deeply into broader configuration management tools or automation, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1171,11 +1174,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:31:05",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:58:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily focuses on the process of upgrading from TFS 2008 to TFS 2010, discussing potential issues, choices, and experiences related to the upgrade process, which suggests elements of troubleshooting related to configuration and migration challenges.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the upgrade process from TFS 2008 to TFS 2010, which includes identifying potential issues and providing solutions for a smooth transition. While it does touch on troubleshooting aspects, such as the challenges of in-place upgrades and process template migrations, the primary focus is on the upgrade process itself rather than a systematic approach to troubleshooting. Therefore, while there is relevant content, it does not fully align with the core themes of troubleshooting.",
     "level": "Secondary"
   },
   "Experimentation": {

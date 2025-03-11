@@ -32,10 +32,10 @@ tags:
 - Practical Techniques and Tooling
 - Product Owner
 - Release Management
-- Azure DevOps
-- News and Reviews
 - Software Development
 - Troubleshooting
+- Azure DevOps
+- News and Reviews
 - Install and Configuration
 categories:
 - DevOps

@@ -130,11 +130,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-11T22:50:07",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:16:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of DevOps in the continuous delivery of value to customers, which aligns with the principles of working software. However, the primary focus is on the relationship between DevOps and Agile rather than solely on working software itself.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of DevOps in the context of delivering working software to customers, highlighting the overlap between Agile and DevOps practices. It explicitly mentions the need for continuous delivery of usable working value and the significance of customer feedback, which aligns well with the core themes of the 'Working Software' category. The depth of discussion is substantial, as it explores the relationship between Agile and DevOps and their roles in software delivery, although it could benefit from more specific examples or metrics related to working software.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -229,11 +232,14 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-11T22:50:27",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of DevOps and Agile in delivering value to customers, which is a significant aspect of customer retention. However, it primarily focuses on the methodologies rather than specific strategies for retaining customers, making it a major but secondary theme.",
+    "calculated_at": "2025-03-11T11:41:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of DevOps in delivering value to customers, which aligns with customer retention strategies. It highlights the need for continuous delivery and feedback loops, both of which are crucial for maintaining user engagement. However, while it touches on relevant themes, it lacks specific techniques or metrics for measuring customer satisfaction and engagement, which slightly lowers the depth of discussion.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {

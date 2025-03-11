@@ -625,11 +625,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:55:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the migration process from TF Service to TF Server, focusing on source control user mappings and configuration, which are relevant to modern source control practices.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the migration from TF Service to TF Server, which is relevant to source control practices. It mentions user identity mapping in source control and the configuration of the TFS Integration Platform, indicating a focus on version control systems. However, the discussion lacks depth in best practices and methodologies, and while it touches on source control, it does not explore broader themes like branching strategies or code review processes.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -1063,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:30:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration processes involved in migrating from TF Service to TF Server, specifically focusing on user account mapping and system setup. It provides detailed steps on configuring the TFS Integration Platform for this migration, which aligns with system configuration practices.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the configuration aspects of migrating from TF Service to TF Server, detailing specific steps and considerations for user account mapping and system integration. It discusses the configuration of the TFS Integration Platform, which is directly related to system setup and optimisation. The depth of discussion is substantial, covering both source control and work item tracking configurations, which aligns well with the key topics of system configuration. However, while the content is rich in practical details, it does not delve deeply into broader system optimisation strategies or security considerations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

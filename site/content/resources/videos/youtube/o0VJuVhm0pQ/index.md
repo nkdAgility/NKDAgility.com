@@ -29,12 +29,12 @@ sitemap:
   priority: 0.6
 tags:
 - Empirical Process Control
-- People and Process
 - Scrum Product Development
 - Software Development
 - Agile Frameworks
 - Agile Project Management
 - Agile Product Management
+- People and Process
 - Pragmatic Thinking
 - Product Delivery
 - Value Delivery

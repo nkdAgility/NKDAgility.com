@@ -391,11 +391,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-12T09:16:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:49:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 88.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of automated testing in software engineering, its benefits, and strategies for implementation, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of automated testing in software engineering, highlighting its role in reducing human error, providing fast feedback, and improving software quality. It covers various aspects such as the need for unit tests, the impact of test infrastructure, and the shift from long-running tests to faster ones. The discussion aligns well with the core themes of automated testing, including methodologies, best practices, and the significance of automation in the development process. The depth of the discussion is substantial, providing detailed insights into the implementation and benefits of automated testing, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -472,11 +475,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T09:16:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:12:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses automated testing, TDD, and the importance of fast-running tests within the context of modern software engineering practices, which aligns closely with the role of software developers in Agile and DevOps methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses automated testing and its importance in software engineering, which aligns with modern engineering practices relevant to software developers. It touches on concepts like Test-Driven Development (TDD) and the integration of DevOps principles, indicating a connection to Agile methodologies. However, the focus is more on the technical aspects of testing rather than explicitly discussing the role of software developers within Agile and DevOps frameworks. The depth of discussion on Agile and DevOps is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Test First Development": {

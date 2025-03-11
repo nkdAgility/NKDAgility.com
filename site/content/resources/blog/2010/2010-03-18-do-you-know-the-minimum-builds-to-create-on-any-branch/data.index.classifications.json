@@ -358,12 +358,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T01:22:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:41:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the importance of build processes in software development, which is a key aspect of Application Lifecycle Management.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of build servers and outlines specific types of builds (Gate, CI, Nightly) that are essential for managing the software development process. While it does touch on aspects of application lifecycle management, such as testing and build processes, it lacks a comprehensive discussion on the broader stages of the application lifecycle or governance practices. The focus is primarily on build strategies rather than the overall management of the application lifecycle.",
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -403,12 +406,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:51:51",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T12:06:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the setup and types of builds in a team project context, which aligns with Continuous Delivery principles, particularly regarding automation and maintaining a production-ready state through automated builds and tests.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of build servers and outlines a structured approach to setting up builds for a team project, which aligns with Continuous Delivery principles. However, it lacks explicit mention of Continuous Delivery as a concept and does not delve deeply into automation, deployment strategies, or risk management, which are key aspects of the category.",
+    "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",

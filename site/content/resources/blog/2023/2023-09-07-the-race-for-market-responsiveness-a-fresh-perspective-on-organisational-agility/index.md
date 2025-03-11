@@ -36,8 +36,8 @@ tags:
 - Organisational Change
 - Agile Philosophy
 - Agile Strategy
+- People and Process
 - Pragmatic Thinking
-- Strategic Goals
 categories:
 - Social Technologies
 preview: naked-agility-technically-survivalisoptional-1-1.jpg

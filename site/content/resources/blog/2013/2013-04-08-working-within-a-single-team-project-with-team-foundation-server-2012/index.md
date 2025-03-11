@@ -26,13 +26,13 @@ tags:
 - Software Developers
 - Software Development
 - Team Collaboration
-- Operational Practices
 - Pragmatic Thinking
 - Practical Techniques and Tooling
-- Agile Planning
 - Working Software
 - People and Process
 - Application Lifecycle Management
+- Operational Practices
+- Agile Planning
 categories:
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-5-5.png

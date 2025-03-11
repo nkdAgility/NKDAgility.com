@@ -30,10 +30,10 @@ tags:
 - People and Process
 - Software Development
 - Agile Philosophy
-- Agile Project Management
 - Empirical Process Control
 - Complexity Thinking
 - Agile Frameworks
+- Agile Project Management
 - Pragmatic Thinking
 - Agile Values and Principles
 - Sensemaking

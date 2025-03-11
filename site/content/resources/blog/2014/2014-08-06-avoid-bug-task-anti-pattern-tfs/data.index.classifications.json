@@ -223,11 +223,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T09:08:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:24:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in the context of Agile practices, highlighting its impact on software quality, team communication, and testing methodologies, which aligns with the principles of Technical Excellence.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the 'Bug as Task' anti-pattern in the context of Agile practices, highlighting its negative impact on software quality and team dynamics. While it touches on some technical aspects, such as testing and communication, the primary focus is on the implications of this anti-pattern rather than on specific engineering practices or methodologies that enhance technical excellence. The discussion lacks depth in exploring established technical practices like TDD or CI/CD, which are central to the category of Technical Excellence.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -250,11 +253,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T09:08:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:50:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Bug as Task anti-pattern in the context of Agile methodologies and its impact on product delivery, including communication, testing practices, and team dynamics.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the 'Bug as Task' anti-pattern in the context of Agile methodologies and its impact on product delivery. It highlights issues related to planning, communication, and testing, which are core themes of product delivery. The depth of discussion on the consequences of this anti-pattern and the proposed solutions indicates a strong focus on improving product delivery processes. However, while it aligns well with the category, it does not cover all aspects of product delivery comprehensively, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {

@@ -24,6 +24,7 @@ aliasesArchive:
 - /there-is-no-place-like-production
 - /resources/blog/there-is-no-place-like-production
 tags:
+- Value Delivery
 - Increment
 - Agile Product Management
 - Product Delivery
@@ -33,7 +34,6 @@ tags:
 - Agile Product Operating Model
 - Lean Product Development
 - Metrics and Learning
-- Product Discovery
 categories:
 - Product Management
 - Social Technologies

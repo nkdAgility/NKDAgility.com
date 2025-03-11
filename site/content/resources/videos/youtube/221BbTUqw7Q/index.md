@@ -37,8 +37,8 @@ tags:
 - Agile Project Management
 - Professional Scrum
 - Agile Frameworks
-- Empirical Process Control
 - Pragmatic Thinking
+- Empirical Process Control
 - Agile Product Management
 - Scrum Product Development
 - Scrum Team

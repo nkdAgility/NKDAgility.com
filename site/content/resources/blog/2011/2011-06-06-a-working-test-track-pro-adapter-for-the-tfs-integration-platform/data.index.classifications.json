@@ -358,11 +358,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T22:46:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development and functionality of a Test Track Pro Adapter for the TFS Integration Platform, which is closely related to managing the lifecycle of software applications, particularly in the context of integration and migration processes. It includes details about change management, conflict resolution, and the handling of work items, which are relevant to Application Lifecycle Management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the development of a Test Track Pro Adapter for the TFS Integration Platform, which involves aspects of application lifecycle management, such as change management and integration processes. However, it lacks a comprehensive exploration of the entire application lifecycle stages and best practices, focusing more on technical implementation details rather than broader ALM methodologies.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -385,11 +388,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T23:37:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, detailing methods, practices, and code exemplifications relevant to software engineering and technical excellence.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed account of developing a Test Track Pro Adapter for the TFS Integration Platform, showcasing technical challenges, debugging efforts, and code snippets. It discusses refactoring for bug fixes, which aligns with principles of clean code and software craftsmanship. The depth of technical detail, including specific code implementations and the handling of change actions, demonstrates a strong focus on software engineering practices. However, while it touches on technical mastery, it does not explicitly discuss broader best practices or methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {

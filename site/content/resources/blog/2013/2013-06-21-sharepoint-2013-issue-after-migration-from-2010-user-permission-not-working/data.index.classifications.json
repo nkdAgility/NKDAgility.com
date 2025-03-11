@@ -1060,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:29:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration steps needed when migrating from SharePoint 2010 to SharePoint 2013, focusing on user authentication settings and PowerShell scripts for system configuration, which are central to system performance and reliability in a specific environment.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the configuration of SharePoint 2013, specifically addressing issues related to user permissions and authentication after a migration from SharePoint 2010. It discusses the new authentication mechanism, the need for configuration adjustments, and provides a PowerShell script for automating the configuration process. This aligns well with the key topics of system configuration, such as best practices for software installation and configuration, troubleshooting common configuration issues, and the role of automation in system configuration. The depth of discussion is substantial, providing both context and a practical solution, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1168,12 +1171,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T11:54:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily focuses on diagnosing and resolving issues related to user permissions and authentication after migrating from SharePoint 2010 to 2013. It discusses specific problems encountered during the migration, the identification of these issues, and provides a solution through PowerShell scripts, fitting squarely within the troubleshooting category.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific issue related to user permissions after migrating from SharePoint 2010 to SharePoint 2013, which directly aligns with troubleshooting. It provides a detailed account of the problem, the findings, and a clear solution involving PowerShell scripts, demonstrating a strong focus on diagnosing and resolving a technical issue. The depth of discussion is substantial, covering both the problem and the solution comprehensively, which enhances its relevance to the troubleshooting category.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

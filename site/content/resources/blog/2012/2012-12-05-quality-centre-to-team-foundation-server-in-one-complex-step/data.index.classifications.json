@@ -1228,12 +1228,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T15:38:12",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:31:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses tools and methods related to data migration and synchronization between Quality Centre and Team Foundation Server, which involves engineering practices related to software development. However, it lacks a strong focus on broader principles or techniques for achieving technical excellence in software engineering; instead, it focuses more on specific tools and migration processes.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses tools for migrating and synchronising data between Quality Centre and Team Foundation Server, which touches on technical practices but lacks a strong focus on broader engineering methodologies or principles that enhance agility in software development. While it mentions specific tools and their capabilities, it does not delve deeply into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1282,12 +1285,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-14T15:38:12",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-11T11:56:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 86.0,
-    "reasoning": "The content provides a detailed analysis and comparison of various tools for migrating from Quality Centre to Team Foundation Server, including reviews and insights into their features and practicality, which aligns closely with discussions on products relevant to Agile and DevOps.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on discussing various tools for migrating from Quality Centre to Team Foundation Server, which aligns well with the category of 'Products and Books'. It provides detailed reviews and comparisons of specific software products, including their features, drawbacks, and practical applications in the context of Agile methodologies. The depth of discussion is significant, as it includes a thorough analysis of multiple tools, their capabilities, and recommendations based on user needs. The content does not stray into unrelated topics, maintaining a clear focus on products relevant to Agile and DevOps practices.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",

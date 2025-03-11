@@ -29,10 +29,10 @@ tags:
 - Agile Frameworks
 - System Configuration
 - Operational Practices
-- Pragmatic Thinking
-- Software Developers
 - Software Development
 - Products and Books
+- Pragmatic Thinking
+- Software Developers
 categories:
 - Scrum
 - Social Technologies

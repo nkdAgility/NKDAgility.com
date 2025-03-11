@@ -30,13 +30,13 @@ tags:
 - Scrum Team
 - Software Development
 - Professional Scrum
-- Scrum Product Development
 - Team Collaboration
 - Team Performance
 - Agile Project Management
-- Pragmatic Thinking
 - People and Process
+- Scrum Product Development
 - Agile Frameworks
+- Agile Product Management
 categories:
 - Scrum
 - Social Technologies

@@ -33,14 +33,14 @@ sitemap:
 tags:
 - Agile Leadership
 - People and Process
+- Business Agility
 - Agile Philosophy
 - Enterprise Agility
-- Market Adaptability
 - Agile Project Management
 - Agile Strategy
 - Agile Transformation
-- Business Agility
 - Change Management
+- Organisational Change
 resourceTypes:
 - video
 categories:

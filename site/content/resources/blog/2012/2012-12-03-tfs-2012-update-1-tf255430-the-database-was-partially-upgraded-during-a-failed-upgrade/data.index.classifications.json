@@ -496,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T19:25:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:31:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on troubleshooting and operational practices related to the upgrade process of Team Foundation Server, offering solutions and best practices that directly improve operational efficiency during updates.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses troubleshooting and solutions related to a failed upgrade of Team Foundation Server, which touches on operational practices in terms of ensuring system health and successful upgrades. However, it primarily focuses on specific error messages and technical details rather than broader operational efficiency strategies or methodologies. While it does provide some best practices for upgrades, the overall emphasis is more on problem resolution than on enhancing operational efficiency within Agile, DevOps, or Lean frameworks.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -595,11 +598,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:25:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:56:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to upgrading Team Foundation Server, which is a software development tool, along with the necessary steps and troubleshooting practices involved in the upgrade process. It provides specific technical details and guidance relevant to software development practices, especially in the context of using TFS.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on issues encountered during the upgrade of Team Foundation Server (TFS), which is a software development tool. It explicitly mentions error codes and troubleshooting steps, aligning closely with software development practices, particularly in the context of version control and upgrade processes. The depth of the discussion includes specific error messages, potential causes, and a structured solution, demonstrating a strong focus on software development methodologies and best practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {

@@ -30,11 +30,11 @@ categories:
 - Product Management
 tags:
 - Agile Project Management
-- Scrum Product Development
-- Working Agreements
 - Agile Planning
+- Working Agreements
 - Transparency
 - Agile Product Management
+- Scrum Product Development
 - Transparency and Accountability
 - People and Process
 - Product Delivery

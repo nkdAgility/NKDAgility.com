@@ -29,15 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Values and Principles
-- Empirical Process Control
-- Organisational Agility
-- Scrum Values
-- Agile Philosophy
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- People and Process
-- Software Development
 resourceTypes:
 - video
 categories:

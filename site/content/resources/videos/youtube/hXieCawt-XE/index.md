@@ -36,8 +36,8 @@ tags:
 - Software Development
 - Operational Practices
 - Throughput
-- Agile Frameworks
 - Pragmatic Thinking
+- Agile Frameworks
 - Agile Project Management
 - Lean Principles
 resourceTypes:

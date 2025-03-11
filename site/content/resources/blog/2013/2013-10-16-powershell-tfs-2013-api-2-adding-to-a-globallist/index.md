@@ -31,8 +31,8 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Software Development
-- System Configuration
 - Install and Configuration
+- System Configuration
 - Technical Excellence
 - Technical Mastery
 categories:

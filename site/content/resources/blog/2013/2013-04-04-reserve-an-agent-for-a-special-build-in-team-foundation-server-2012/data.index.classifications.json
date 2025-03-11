@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:06:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:30:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of reserving an agent in Team Foundation Server (TFS), which is a component of Azure DevOps, and includes technical details and custom activities related to build workflows in TFS.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the process of reserving an agent in Team Foundation Server (TFS), which is a component of Azure DevOps. It provides detailed technical insights into custom activities and workflows related to build processes, aligning well with Azure DevOps functionalities. The mention of TFS indicates a focus on Azure DevOps services, and the depth of discussion regarding build agent management and custom activities demonstrates a strong alignment with the category's core themes. However, the content is somewhat dated, referencing TFS 2012, which may limit its relevance to current Azure DevOps practices.",
     "level": "Secondary"
   },
   "Personal": {
@@ -358,12 +361,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T19:06:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:55:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the management of build agents within Team Foundation Server, which is a critical aspect of the application lifecycle, particularly in the deployment and maintenance stages. It addresses the challenges and solutions related to build processes, which are integral to application lifecycle management.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses reserving a build agent in Team Foundation Server, which relates to the deployment and maintenance stages of the application lifecycle. However, it lacks a comprehensive exploration of ALM methodologies, practices, or tools, and does not address broader governance, compliance, or risk management strategies. The focus is primarily on a specific technical implementation rather than the overall management of the application lifecycle.",
+    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",

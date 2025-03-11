@@ -214,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:59:19",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses error handling and checks within the TFS Integration Platform, which relates to engineering practices, but it primarily focuses on a specific issue rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a specific error related to the TFS Integration Platform and mentions checks that ensure code quality during the migration process. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it touches on aspects of code review and error handling, it does not delve deeply into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -886,12 +889,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:34:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the TFS Integration Platform and issues related to code checks and reviews during code integration, which are relevant to Continuous Integration practices. However, the focus is more on troubleshooting specific errors rather than the broader principles or best practices of CI.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses an error related to the TFS Integration Platform, which is a tool that can be associated with Continuous Integration practices. However, the focus is primarily on a specific error during code review rather than a broader discussion of CI principles, best practices, or tools. While it mentions checks and error handling, it lacks depth in exploring CI concepts or strategies, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Market Share": {
     "category": "Market Share",

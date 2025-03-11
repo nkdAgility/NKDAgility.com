@@ -30,7 +30,6 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Azure DevOps
-- Product Delivery
 - Product Owner
 - Software Development
 - Test First Development
@@ -38,6 +37,7 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Azure Boards
+- People and Process
 categories:
 - DevOps
 - Engineering Excellence

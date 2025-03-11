@@ -292,11 +292,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:52:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server 2013, which is part of the Azure DevOps suite, but primarily focuses on an upgrade event rather than broader Azure DevOps functionalities or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) 2013, which is a component of Azure DevOps. It mentions the upgrade weekend event aimed at assisting users with TFS, indicating a focus on Azure DevOps functionalities. However, the discussion lacks depth regarding broader Azure DevOps services and methodologies, and it does not cover CI/CD practices or integration with other tools, which are key topics in the Azure DevOps category. Therefore, while it is relevant, it does not fully align with the core themes of Azure DevOps.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1216,12 +1219,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:27:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on Team Foundation Server 2013, which is relevant to software developers, specifically in terms of installation and upgrades. However, it does not significantly discuss Agile methodologies or DevOps principles directly.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses an event related to the upgrade of Team Foundation Server 2013, which is a tool used by software developers. However, it lacks a direct focus on the role of software developers within Agile or DevOps frameworks. While it mentions engineering resources and support for TFS, it does not delve into best practices, methodologies, or the impact on team dynamics, which are key themes of the category. The discussion is more about the event logistics and promotional aspects rather than a deep exploration of software development practices.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

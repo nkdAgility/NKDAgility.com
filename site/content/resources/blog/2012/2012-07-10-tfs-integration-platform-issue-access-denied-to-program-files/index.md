@@ -27,8 +27,8 @@ aliasesArchive:
 - /blog/tfs-integration-tools-–-issue--access-denied-to-program-files
 - /resources/blog/tfs-integration-platform-issue-access-denied-to-program-files
 tags:
-- Windows
 - Troubleshooting
+- Windows
 - Install and Configuration
 - Practical Techniques and Tooling
 - Software Development

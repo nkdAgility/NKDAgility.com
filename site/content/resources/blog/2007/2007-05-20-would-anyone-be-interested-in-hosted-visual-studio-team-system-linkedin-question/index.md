@@ -28,11 +28,11 @@ aliasesArchive:
 - /resources/blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 tags:
 - Azure DevOps
+- Products and Books
 - Software Developers
 - Modern Source Control
 - News and Reviews
 - Practical Techniques and Tooling
-- Products and Books
 - Software Development
 - System Configuration
 - Application Lifecycle Management

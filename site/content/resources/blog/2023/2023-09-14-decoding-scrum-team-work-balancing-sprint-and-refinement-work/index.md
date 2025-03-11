@@ -29,6 +29,7 @@ aliasesArchive:
 - /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
 tags:
 - Agile Product Management
+- Professional Scrum
 - Scrum Product Development
 - People and Process
 - Practical Techniques and Tooling
@@ -36,7 +37,6 @@ tags:
 - Agile Project Management
 - Backlog Refinement
 - Scrum Team
-- Professional Scrum
 - Team Collaboration
 categories:
 - Scrum

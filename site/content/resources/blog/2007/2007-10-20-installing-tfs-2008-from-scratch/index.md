@@ -24,9 +24,9 @@ aliasesArchive:
 - /resources/blog/installing-tfs-2008-from-scratch
 tags:
 - Install and Configuration
+- System Configuration
 - Windows
 - Software Development
-- System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling
 categories: []

@@ -1057,12 +1057,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T02:03:12",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T12:08:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily focuses on the configuration process of Visual Studio 2010 Team Foundation Server, detailing installation steps, security considerations, and system requirements, which aligns well with system configuration discussions.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the configuration of Visual Studio 2010 Team Foundation Server, detailing the steps and considerations involved in the setup process. It explicitly discusses configuration options, such as choosing between basic and advanced setups, and highlights the importance of security and compatibility with previous versions. The depth of discussion includes practical insights and personal experiences, which align well with the core themes of system configuration. Overall, the content is highly relevant to the category, with a strong emphasis on practical configuration methodologies.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1111,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T02:03:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:42:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the configuration of Team Foundation Server (TFS) on a Windows Vista environment, which involves aspects of installation and setup specifically tied to the Windows operating system.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on configuring Team Foundation Server (TFS) on a Windows Vista environment, which directly relates to the Windows operating system. It discusses installation and configuration steps, which are key topics in the Windows category. However, while it mentions Windows and provides some relevant details, the depth of discussion on broader Windows functionalities, troubleshooting, or system updates is limited. The content is more focused on TFS rather than a comprehensive exploration of Windows itself.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

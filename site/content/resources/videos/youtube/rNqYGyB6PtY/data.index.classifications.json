@@ -655,12 +655,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:03:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the performance of a team and the implications of incompetence within an agile context, but it primarily focuses on the actions a product owner should take rather than strategies for enhancing team dynamics or collaboration.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges of working with an incompetent team and the implications of team dynamics on performance. However, while it touches on the importance of training and the potential for improvement, it primarily focuses on the negative aspects of team performance without providing substantial strategies or methodologies for enhancing collaboration or effectiveness. The discussion lacks depth in terms of Agile practices and does not explore metrics or tools for measuring performance, which are key aspects of the 'Team Performance' category.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",
@@ -1201,12 +1204,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:26:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a transition to Azure DevOps and touches on team dynamics and practices related to software development, but the primary focus is on team competence rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Azure DevOps in the context of a transition from TFS and discusses a team's reluctance to use source control, which is relevant to Azure DevOps practices. However, the primary focus is on the competence of teams and personal experiences rather than a detailed exploration of Azure DevOps functionalities or best practices. The discussion lacks depth on Azure DevOps services and methodologies, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Products and Books": {
     "category": "Products and Books",

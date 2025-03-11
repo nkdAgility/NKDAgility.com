@@ -214,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical implementation related to querying work items and changesets in TFS, which touches on engineering practices, but it is primarily focused on a specific coding task rather than broader principles of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content provides a practical example of code that interacts with TFS to retrieve and list changed files, which aligns with technical practices. However, it lacks a deeper discussion on methodologies like TDD or CI/CD, and the focus is more on a specific implementation rather than broader engineering principles. The mention of future improvements hints at an understanding of better practices but does not delve into them, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1213,12 +1216,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:42:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a coding solution that relates to version control and query execution in the context of software development, but it does not primarily focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a specific coding task related to querying work items and changesets in TFS, which is relevant to software development. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is primarily technical without exploring broader themes such as team dynamics or collaboration. The depth of discussion is limited to a single coding example, which does not provide a comprehensive view of the role of software developers in Agile or DevOps contexts.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

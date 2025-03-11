@@ -241,12 +241,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:05:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:12:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies and their impact on remote work, which relates to product delivery, but the primary focus is on the rise of remote work rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the rise of remote work and its impact on agile coaching and consulting, which is tangentially related to product delivery. However, it lacks a direct focus on methodologies, practices, or detailed discussions about the end-to-end process of delivering software products. The mention of Agile and Scrum roles suggests some relevance, but the primary focus is on remote work rather than product delivery itself.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",
@@ -268,11 +271,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T23:05:31",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:35:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the impact of remote work on training, coaching, and consulting within Agile environments, highlighting the interplay between human behaviour and structured methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the impact of remote work on training and coaching within Agile frameworks, highlighting the interplay between human behaviour and structured methodologies. It features insights from experts in Agile coaching and Scrum training, which aligns well with the category's focus on team dynamics and collaboration. However, while it touches on relevant themes, the depth of discussion on specific processes or methodologies is somewhat limited, preventing a higher score.",
     "level": "Secondary"
   },
   "Test Driven Development": {

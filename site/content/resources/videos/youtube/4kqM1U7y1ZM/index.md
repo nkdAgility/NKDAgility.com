@@ -45,7 +45,7 @@ resourceTypes:
 categories:
 - Scrum
 - Social Technologies
-- DevOps
+- Leadership
 
 ---
 When I embark on the journey of working with a new Scrum team, I often find myself reflecting on what I hope to achieve within the first 90 days. In my experience, this timeframe is typically sufficient to make significant strides, but it’s essential to consider the context in which the team operates. 

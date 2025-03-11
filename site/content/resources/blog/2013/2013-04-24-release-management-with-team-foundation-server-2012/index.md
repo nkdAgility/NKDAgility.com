@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Release Management
 - Software Development
-- Product Delivery
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-8-8.png

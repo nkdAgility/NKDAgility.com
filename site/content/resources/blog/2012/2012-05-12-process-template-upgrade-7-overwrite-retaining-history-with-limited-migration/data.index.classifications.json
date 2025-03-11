@@ -382,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:31:35",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T12:00:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses technical details related to managing work items and process templates in Team Foundation Server (TFS). While it focuses on best practices for migrating and upgrading process templates, it lacks a broader discussion of software craftsmanship principles, clean code practices, or other aspects that fully embody 'Technical Mastery'.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading a process template in Team Foundation Server (TFS), detailing specific commands and steps involved. While it does touch on aspects of software craftsmanship, such as maintaining data integrity and ensuring continuity, it lacks a broader discussion on best practices or principles of clean code. The depth of technical detail is high, but the direct mentions of technical mastery principles are limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -589,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:31:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:35:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses upgrading process templates in Team Foundation Server, which is a specific practice related to software development methodologies and processes.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on upgrading process templates in Team Foundation Server (TFS), which is a critical aspect of software development practices. It discusses specific methodologies related to version control, work item management, and the implications of changes in work item types, aligning closely with the Software Development category. The depth of the discussion is significant, covering multiple steps and considerations, which enhances its relevance to software engineering outcomes.",
     "level": "Secondary"
   },
   "Agile Project Management": {

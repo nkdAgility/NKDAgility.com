@@ -31,11 +31,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Decision Making
 - Agile Project Management
 - Pragmatic Thinking
+- Product Owner
 - Agile Product Management
+- Decision Making
 - Decision Theory
 - People and Process
 - Market Adaptability

@@ -1261,12 +1261,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:56:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Project Server 2013 with Team Foundation Server 2012, which relates to software development practices and tools. However, it primarily focuses on installation and configuration rather than Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of integrating Project Server 2013 with Team Foundation Server 2012, which is relevant to software developers. However, it lacks a strong emphasis on Agile or DevOps methodologies, and while it touches on some related concepts, it does not delve deeply into best practices or the role of developers within those frameworks. The discussion is more about installation and configuration rather than the broader implications for developer productivity or collaboration.",
+    "level": "Quaternary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1363,11 +1366,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-14T15:39:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:31:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Project Server 2013, which is closely tied to the Windows operating system environment, specifically mentioning Windows Server 2012 and related components. It provides detailed steps and prerequisites that are relevant to managing a Windows-based system.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the installation and configuration of Project Server 2013 and Team Foundation Server 2012, both of which are designed to run on Windows Server environments. It includes specific mentions of Windows Server 2012 and prerequisites that are Windows-related, such as the .NET Framework and Windows Management Framework. The depth of discussion is significant, covering installation steps, configuration processes, and troubleshooting issues, which aligns well with the key topics of the Windows category. However, the focus is more on the applications rather than the Windows operating system itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Social Technologies": {

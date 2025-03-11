@@ -32,12 +32,12 @@ tags:
 - Agile Product Management
 - People and Process
 - Agile Product Operating Model
-- Team Motivation
 - Agile Project Management
 - Product Owner
 - Personal
-- Employee Engagement
 - Agile Philosophy
+- Team Motivation
+- Employee Engagement
 resourceTypes:
 - video
 categories:

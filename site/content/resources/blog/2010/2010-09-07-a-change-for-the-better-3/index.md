@@ -28,18 +28,18 @@ aliasesArchive:
 - /resources/blog/a-change-for-the-better-3
 tags:
 - People and Process
-- Application Lifecycle Management
-- Agile Project Management
 - Software Developers
+- Application Lifecycle Management
 - Continuous Learning
 - Software Development
 - Mentoring
 - Personal
+- Agile Project Management
 - Product Delivery
 - Practical Techniques and Tooling
 categories:
-- Social Technologies
 - Scrum
+- Social Technologies
 - Engineering Excellence
 preview: metro-nwc-128-link-2-2.png
 

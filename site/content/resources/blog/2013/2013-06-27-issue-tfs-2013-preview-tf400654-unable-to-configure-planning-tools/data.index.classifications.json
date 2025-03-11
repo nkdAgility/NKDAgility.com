@@ -589,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:01:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:53:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a specific error related to configuring planning tools in Team Foundation Server, including guidance on process template customization, which is a practice in software development.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific error related to configuring Planning Tools in Team Foundation Server (TFS), which is relevant to software development practices, particularly in the context of process templates and configuration management. It provides a solution that involves modifying the process template, which aligns with best practices in software development. However, while it touches on relevant topics, the discussion lacks depth in broader software development methodologies and principles, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1168,11 +1171,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:01:54",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T10:28:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily focuses on diagnosing and resolving the specific error 'TF400654: Unable to configure Planning Tools' in the context of Team Foundation Server 2013 Preview. It provides clear steps for troubleshooting this issue, detailing the investigation into the root cause related to custom process templates and outlining a solution. This aligns well with the troubleshooting category.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error (TF400654) encountered in Team Foundation Server 2013 and provides a detailed solution for resolving it. It identifies the issue related to the configuration of Planning Tools and explains the necessary steps to troubleshoot and fix the problem, which aligns well with the core themes of the Troubleshooting category. The depth of discussion is substantial, as it outlines the findings and provides a clear solution, demonstrating a strong focus on diagnosing and resolving a technical issue.",
     "level": "Secondary"
   },
   "Experimentation": {

@@ -27,6 +27,7 @@ isShort: true
 tags:
 - Lean Product Development
 - Product Owner
+- People and Process
 - Product Delivery
 sitemap:
   filename: sitemap.xml

@@ -922,11 +922,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T19:10:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:47:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the development of a digital whiteboard application that facilitates the display of project information, which supports team collaboration and communication in an Agile context.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the creation of a digital whiteboard application that aims to enhance team visibility and communication regarding project statuses. While it does not explicitly mention 'team collaboration' as a primary focus, it aligns with the core themes of improving team communication and shared ownership by providing a visual tool for tracking work items. The depth of discussion includes details about the functionality of the application and its intended use in a team environment, which supports collaboration. However, it lacks a broader discussion on team dynamics or strategies for fostering a collaborative culture.",
     "level": "Secondary"
   },
   "Definition of Ready": {
@@ -1291,12 +1294,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T19:10:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:13:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses primarily on a tool designed to enhance operational efficiency by providing a digital whiteboard that displays project status and work items, aligning with Agile practices and supporting workflow management.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the creation of a digital whiteboard application that integrates with Team Foundation Server (TFS) to display project statuses, which aligns with operational practices in terms of workflow management and visualisation of work items. However, it lacks a detailed exploration of techniques or strategies for enhancing operational efficiency, focusing more on the application itself rather than broader operational practices. The mention of rules for item status provides some depth, but overall, the content does not delve deeply into the methodologies or principles of Agile, DevOps, or Lean frameworks.",
+    "level": "Tertiary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",

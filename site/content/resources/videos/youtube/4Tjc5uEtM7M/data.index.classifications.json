@@ -907,11 +907,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:03:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T09:49:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the complexities and expertise required for Azure DevOps migration, touching on technical skills and tools, but primarily focuses on the need for external expertise rather than deep technical practices or principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the complexities and technical challenges of migrating to Azure DevOps, which aligns with the principles of software craftsmanship and engineering practices. It mentions the need for expertise and understanding of commands, which relates to improving code quality and maintainability. However, the focus is more on migration processes and less on broader software design principles or best practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Release Management": {
@@ -1063,12 +1066,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:03:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:13:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the complexities and considerations involved in migrating to Azure DevOps, including the need for specific skills and tools for installation and configuration. However, the primary focus is on the lack of expertise and the implications of that, rather than providing clear, actionable installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the complexities and considerations involved in migrating Azure DevOps, which directly relates to installation and configuration processes. It discusses the need for specific skills and tools for successful migration, aligning well with the category's emphasis on actionable insights for setting up and configuring software. The depth of discussion regarding potential issues and the need for expertise further supports its relevance, although it lacks explicit step-by-step instructions, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",

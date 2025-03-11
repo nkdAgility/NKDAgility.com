@@ -382,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T09:56:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:24:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses technical processes and practices related to creating and managing virtual machines in Azure, emphasizing the use of PowerShell for automation, which aligns with principles of software craftsmanship and technical delivery.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the practical steps for creating and managing virtual machines in Azure, which is more aligned with operational tasks rather than a deep exploration of software craftsmanship or engineering principles. While it touches on some technical aspects, such as using PowerShell and configuring Azure, it lacks a thorough discussion on best practices, code quality, or architectural principles that are central to the 'Technical Mastery' category.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1063,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T09:56:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:49:44",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the process of configuring virtual machines in Azure, detailing the steps involved in setting them up, uploading virtual hard disks, and creating instances, which are all relevant to system configuration.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the configuration of virtual machines in Azure, detailing the steps for setting up, uploading VHDs, and creating instances. It discusses best practices for using Azure PowerShell, addresses troubleshooting issues, and highlights the importance of proper configuration management. The depth of discussion is substantial, covering various aspects of system configuration, including hardware setup, automation, and performance considerations, which aligns well with the key topics of the 'System Configuration' category.",
     "level": "Secondary"
   },
   "Product Strategy": {

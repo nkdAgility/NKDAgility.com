@@ -214,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:04:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions training sessions on technical topics, including 'Real World Business and Technical Benefits of ALM with TFS 2010' and 'The Full Testing Experience', which are relevant to technical excellence, but the primary focus is on promoting the training rather than discussing engineering practices in depth.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content briefly mentions a training session on 'The Full Testing Experience' which relates to quality assurance, a component of technical excellence. However, the overall focus is on promoting free training sessions rather than discussing engineering practices or methodologies in depth. The mention of ALM with TFS 2010 and testing does not provide substantial detail or a primary focus on technical excellence, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1213,12 +1216,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:39:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions training sessions that may benefit developers, but it primarily focuses on announcements for events rather than discussing the role of software developers within Agile or DevOps contexts.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions training opportunities for developers, specifically focusing on 'Coffee talks' that cover topics relevant to software development. However, it lacks a direct discussion on Agile or DevOps methodologies, which are central to the category. The mention of 'Real World Business and Technical Benefits of ALM with TFS 2010' and 'The Full Testing Experience' suggests some alignment with software development practices, but the overall depth and focus on the role of developers in Agile and DevOps contexts are minimal.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

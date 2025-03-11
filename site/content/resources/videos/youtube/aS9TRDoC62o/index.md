@@ -36,11 +36,11 @@ tags:
 - Technical Mastery
 - Pragmatic Thinking
 - Market Adaptability
+- People and Process
 - Value Delivery
 - Product Delivery
 - Technical Excellence
 - Engineering Practices
-- Operational Practices
 resourceTypes:
 - video
 categories:

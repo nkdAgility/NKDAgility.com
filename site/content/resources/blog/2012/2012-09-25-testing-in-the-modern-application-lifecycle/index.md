@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/testing-in-the-modern-application-lifecycle
 tags:
 - Windows
+- Product Delivery
 - Application Lifecycle Management
 - Practical Techniques and Tooling
-- Product Delivery
 - Software Development
 - Value Delivery
 - Working Software
 - Engineering Practices
-- Products and Books
 - Team Collaboration
+- Azure DevOps
 categories:
 - Engineering Excellence
 - DevOps

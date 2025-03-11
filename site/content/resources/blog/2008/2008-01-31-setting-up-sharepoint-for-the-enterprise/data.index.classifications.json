@@ -583,11 +583,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T12:13:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses SharePoint deployment and architecture, which are related to software systems, but it is primarily focused on setting up SharePoint rather than software development practices or methodologies.",
+    "final_score": 29.0,
+    "reasoning": "The content discusses setting up SharePoint, which is related to software deployment and architecture. However, it lacks a strong focus on software development methodologies or practices. The mention of architecture is relevant but does not delve into software engineering principles or frameworks, resulting in a low confidence score.",
     "level": "Quaternary"
   },
   "Site Reliability Engineering": {
@@ -1135,12 +1138,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:48:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses structuring a deployment of SharePoint across multiple continents, which relates to deployment strategies, but it is also focused on the architecture and planning aspects rather than specific methodologies or techniques for deployment.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses setting up SharePoint for a global deployment, which touches on deployment strategies but lacks explicit mention of specific methodologies like Blue-Green Deployments or Canary Releases. While it hints at the challenges of structuring a deployment across multiple regions, it does not provide detailed insights or actionable strategies related to deployment practices.",
+    "level": "Quaternary"
   },
   "Test Automation": {
     "category": "Test Automation",

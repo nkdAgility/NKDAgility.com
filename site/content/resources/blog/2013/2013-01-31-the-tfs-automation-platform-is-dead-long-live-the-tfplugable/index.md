@@ -33,14 +33,14 @@ aliasesArchive:
 tags:
 - Application Lifecycle Management
 - System Configuration
-- Azure DevOps
 - Frequent Releases
 - Install and Configuration
 - Software Development
 - Technical Mastery
 - Practical Techniques and Tooling
-- Product Delivery
+- Azure DevOps
 - Pragmatic Thinking
+- Product Validation
 categories:
 - DevOps
 - Engineering Excellence

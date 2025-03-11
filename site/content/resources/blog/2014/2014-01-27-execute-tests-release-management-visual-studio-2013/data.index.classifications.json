@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T11:14:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:26:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Release Management in Visual Studio 2013, which is part of the Azure DevOps suite, focusing on automated testing and deployment processes.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the use of Release Management within Visual Studio 2013, which is a component of Azure DevOps. It provides detailed insights into automating tests and deployments, aligning closely with Azure DevOps functionalities. The discussion includes specific tools and processes related to Azure DevOps, such as Microsoft Test Manager and Lab Management, indicating a strong focus on Azure DevOps practices. The depth of technical detail and practical guidance further supports a high confidence score, as it goes beyond mere mention and delves into implementation specifics.",
     "level": "Secondary"
   },
   "Personal": {
@@ -358,11 +361,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T11:15:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:51:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of Release Management in Visual Studio 2013 for automating deployment and testing, which aligns with the practices and tools involved in managing the application lifecycle.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the use of Release Management in Visual Studio 2013 for automated testing and deployment, which is a component of the application lifecycle. However, it lacks a comprehensive exploration of the entire application lifecycle stages and best practices for governance and compliance. While it touches on deployment and testing, it does not delve deeply into the broader context of Application Lifecycle Management, such as metrics, change management, or risk management strategies.",
     "level": "Secondary"
   },
   "Daily Scrum": {

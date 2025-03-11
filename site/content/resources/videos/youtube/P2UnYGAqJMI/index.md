@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Agile Project Management
 - Software Development
+- Software Developers
 - Agile Product Management
 resourceTypes:
 - video

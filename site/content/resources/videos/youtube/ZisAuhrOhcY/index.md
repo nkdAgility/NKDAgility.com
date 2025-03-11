@@ -32,15 +32,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
 - Strategy
+- Transparency
 - Flow Efficiency
 - Practical Techniques and Tooling
+- Agile Frameworks
 - Agile Project Management
 - Agile Strategy
 - People and Process
 - Software Development
-- Agile Frameworks
 - Metrics and Learning
 resourceTypes:
 - video

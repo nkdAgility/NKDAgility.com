@@ -25,14 +25,14 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - Scrum Product Development
-- Software Developers
 - Software Development
 - Agile Planning Tools
 - Agile Project Management
 - Agile Frameworks
 - Agile Planning
+- Software Developers
 - Practical Techniques and Tooling
-- Product Delivery
+- Application Lifecycle Management
 categories:
 - Social Technologies
 - Scrum

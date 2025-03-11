@@ -298,12 +298,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T20:37:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:49:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a Team Foundation Server (TFS) event handler, which is a core component of Azure DevOps, focusing on handling events and integrating with TFS functionalities.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a predecessor to Azure DevOps. While it does touch on event handling and integration aspects relevant to TFS, it lacks a direct focus on Azure DevOps services and methodologies. The discussion is technical and detailed, but it does not explicitly cover Azure DevOps features or best practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -328,11 +331,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T20:37:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:15:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a Team Foundation Server Event Handler in .NET, focusing on technical practices such as service contracts, event handling, and modular architecture, which align with the principles of technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on implementing a TFS Event Handler in .NET, which involves technical details about service contracts, event handling, and configuration. While it does touch on aspects of modular architecture and service behaviours, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The technical details are present, but the content does not deeply engage with the principles of Technical Excellence as defined in the category.",
     "level": "Secondary"
   },
   "People and Process": {

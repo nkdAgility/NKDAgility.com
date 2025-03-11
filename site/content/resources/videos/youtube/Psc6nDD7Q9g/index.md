@@ -39,7 +39,7 @@ tags:
 - Metrics and Learning
 - Operational Practices
 - People and Process
-- Value Delivery
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

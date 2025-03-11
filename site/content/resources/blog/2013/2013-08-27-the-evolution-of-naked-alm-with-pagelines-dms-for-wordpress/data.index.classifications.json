@@ -343,11 +343,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 30,
+    "calculated_at": "2025-03-11T11:52:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily focuses on personal experiences and technical details regarding the use of Pagelines DMS for Wordpress, lacking a broader industry news or review context.",
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on personal experiences and technical details regarding the use of Pagelines DMS with Wordpress, lacking a broader discussion on industry news or reviews. While it mentions updates and features of Pagelines DMS, it does not provide a comprehensive review or analysis relevant to Agile or DevOps practices, which are central to the category. The depth of discussion is more about personal implementation rather than industry insights.",
     "level": "Quaternary"
   },
   "Application Lifecycle Management": {
@@ -1057,12 +1060,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:27:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of configuring a Wordpress site using the Pagelines DMS platform, which involves installation, customization, and optimization strategies relevant to system configuration. However, the primary focus is on Wordpress usage and personal experiences rather than deeper technical configuration methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the configuration of a Wordpress site using Pagelines DMS, touching on aspects like migration from multisite to single site, customisation options, and the use of CSS. However, the primary focus is on personal experiences and opinions rather than a structured exploration of system configuration best practices or methodologies. While there are mentions of configuration, they are not the main focus, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

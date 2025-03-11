@@ -42,6 +42,7 @@ categories:
 - Social Technologies
 tags:
 - Definition of Done
+- Transparency
 - Increment
 - Working Software
 - Product Delivery

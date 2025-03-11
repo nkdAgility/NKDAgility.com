@@ -33,9 +33,9 @@ aliasesArchive:
 tags:
 - Software Development
 - Windows
+- Working Software
 - Application Lifecycle Management
 - Practical Techniques and Tooling
-- Working Software
 - Product Delivery
 categories:
 - DevOps

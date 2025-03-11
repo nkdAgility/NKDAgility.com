@@ -40,11 +40,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T16:19:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:48:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the benefits of continuous delivery, particularly in relation to increasing the rate of feature delivery and optimising feedback loops, which are central to the concept of throughput in Agile and DevOps contexts.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses continuous delivery and automation, which are related to throughput in terms of improving the rate of feature delivery. However, it primarily focuses on the benefits of automation and risk reduction rather than explicitly measuring or optimising throughput. While there are mentions of increased delivery rates and feedback loops, the discussion lacks depth in terms of specific throughput metrics or strategies for optimisation.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -76,11 +79,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-12T16:19:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:11:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of automation in the context of continuous delivery and DevOps, highlighting how automated processes can enhance feedback loops and reduce risk. However, it primarily focuses on continuous delivery rather than test automation specifically.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of automation in the context of continuous delivery and DevOps, highlighting how automation enhances consistency, reliability, and risk reduction. However, while it touches on automated testing and its role in speeding up feedback loops, it does not delve deeply into specific test automation frameworks, best practices, or types of automated tests. The primary focus is on continuous delivery rather than test automation itself, which limits the overall alignment with the category.",
     "level": "Secondary"
   },
   "Windows": {

@@ -36,10 +36,10 @@ tags:
 - Operational Practices
 - Strategy
 - Agile Frameworks
-- Agile Project Management
-- Pragmatic Thinking
 - Throughput
+- Agile Project Management
 - Lean Thinking
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

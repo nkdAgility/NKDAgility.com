@@ -29,12 +29,12 @@ aliasesArchive:
 tags:
 - Software Development
 - Modern Source Control
-- Software Developers
 - Release Management
 - Agile Project Management
 - Pragmatic Thinking
 - Technical Mastery
 - Practical Techniques and Tooling
+- Software Developers
 - Application Lifecycle Management
 - Product Delivery
 categories:

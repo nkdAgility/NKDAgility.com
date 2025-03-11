@@ -1090,12 +1090,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:52:26",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the installation and configuration of SharePoint Services in relation to Team Foundation Server, which involves the Windows environment, but it predominantly focuses on SharePoint and Team Foundation Server rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the installation and configuration of SharePoint 3.0 on a Team Foundation Server, which is relevant to the Windows operating system environment. However, while it mentions Windows indirectly through SharePoint and Team Server, it does not focus explicitly on Windows itself. The discussion includes technical details about configuration settings and potential troubleshooting, aligning with some key topics of the Windows category. The depth of the discussion is moderate, providing specific examples and code snippets, but it lacks a broader context on Windows as a standalone topic.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1108,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:17:24",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to setting up and configuring SharePoint alongside Team Foundation Server and includes inquiries about the feasibility of achieving certain configurations, indicating troubleshooting concerns. However, the primary focus seems to be more on configuration rather than direct troubleshooting methods.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the installation and configuration of SharePoint 3.0 alongside Team Foundation Server, indicating a troubleshooting context. However, it primarily focuses on the setup process and seeks advice on achieving specific configurations rather than detailing systematic problem-solving techniques or methodologies. The questions posed suggest a troubleshooting intent, but the depth of discussion on actual troubleshooting techniques is limited.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {

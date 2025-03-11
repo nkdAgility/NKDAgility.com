@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Software Development
 - Agile Values and Principles
-- Agile Frameworks
 - Agile Philosophy
 - Agile Product Operating Model
 - Agile Strategy
 - Agile Transformation
-- Software Development
 - Pragmatic Thinking
 - Organisational Agility
+- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

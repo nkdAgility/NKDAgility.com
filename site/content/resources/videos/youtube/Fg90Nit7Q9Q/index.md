@@ -31,8 +31,9 @@ tags:
 - Working Software
 - Agile Project Management
 - Pragmatic Thinking
-- Agile Frameworks
 - People and Process
+- Product Delivery
+- Agile Frameworks
 - Value Delivery
 - Professional Scrum
 resourceTypes:

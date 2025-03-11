@@ -32,10 +32,10 @@ tags:
 - People and Process
 - Entrepreneurship
 - Decision Theory
-- Decision Making
 - Product Owner
 - Agile Project Management
 - Team Collaboration
+- Decision Making
 - Pragmatic Thinking
 - Products and Books
 - Sensemaking

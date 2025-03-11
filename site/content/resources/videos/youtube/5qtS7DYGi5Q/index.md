@@ -31,8 +31,8 @@ sitemap:
 tags:
 - Evidence Based Leadership
 - Evidence Based Management
-- Metrics and Learning
 - Value Delivery
+- Metrics and Learning
 - Decision Making
 - Pragmatic Thinking
 - People and Process

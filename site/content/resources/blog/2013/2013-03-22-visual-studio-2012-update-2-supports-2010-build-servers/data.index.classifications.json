@@ -1063,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:12:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:55:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the processes and steps for upgrading and configuring Team Foundation Server and its build agents, which aligns with the category focus on system configuration and hardware/software integration.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the configuration and integration of Team Foundation Server (TFS) with build servers, detailing the processes required for upgrading and reconfiguring build agents. It discusses specific steps for connecting existing build agents to a new server, the implications of hardware and software compatibility, and the necessary configurations for optimal performance. The depth of discussion is significant, covering various aspects of system configuration, including troubleshooting and best practices for managing build environments. Overall, the content aligns well with the key topics of system configuration, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1117,11 +1120,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T20:12:34",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-11T10:30:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the interaction between Team Foundation Server and build agents in the context of various Windows Server versions, which is a major but secondary theme to the overall focus on Visual Studio and TFS functionality.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the compatibility and configuration of Visual Studio and Team Foundation Server (TFS) with various Windows Server versions, particularly focusing on the transition from older to newer systems. It directly mentions Windows Server 2003, Windows Server 2008 R2, and Windows Server 2012, which are all relevant to the Windows operating system. The discussion aligns well with the category's core themes, such as installation, configuration, and troubleshooting. The depth of the discussion is substantial, providing detailed steps and considerations for users upgrading their build infrastructure, which is crucial for effective management of the Windows environment.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

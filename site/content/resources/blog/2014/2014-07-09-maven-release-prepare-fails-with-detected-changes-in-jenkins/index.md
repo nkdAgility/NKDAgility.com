@@ -27,12 +27,12 @@ tags:
 - Windows
 - Modern Source Control
 - Release Management
-- Pragmatic Thinking
 - Software Development
-- System Configuration
 - Technical Mastery
 - Troubleshooting
 - Continuous Integration
+- Install and Configuration
+- Pragmatic Thinking
 categories:
 - DevOps
 preview: naked-alm-jenkins-logo-9-9.png

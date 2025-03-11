@@ -379,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:10:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:33:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides a detailed technical discussion about dealing with a specific error (TF14009) in Team Foundation Server that relates to source code migration, including a workaround and considerations for technical implementation. This aligns with principles of software craftsmanship and technical problem solving.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS (Team Foundation Server) and provides a detailed error message and potential workarounds. While it does touch on aspects of software engineering, such as migration and version control, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The focus is more on troubleshooting a specific problem rather than on overarching technical mastery principles.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1114,12 +1117,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:10:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:58:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to TFS (Team Foundation Server) operations, which are often integrated into Windows environments, and it mentions Visual Studio, a Windows application. Although it is focused on a specific error and its solution, it is centered around handling source control operations that typically involve Windows-based applications.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS) and its integration tools, which are used in conjunction with Windows environments. However, it does not explicitly focus on Windows operating system topics such as installation, configuration, or troubleshooting of Windows itself. While it touches on aspects of TFS that may run on Windows, the primary focus is on TFS functionality and error handling rather than Windows-specific guidance or management. Therefore, the confidence score reflects a moderate alignment with the Windows category, but it is not a primary focus.",
+    "level": "Quaternary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

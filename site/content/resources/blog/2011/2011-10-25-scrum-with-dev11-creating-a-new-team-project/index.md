@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/scrum-with-dev11-creating-a-new-team-project
 tags:
 - Software Development
-- Practical Techniques and Tooling
 categories:
 - Scrum
 - Social Technologies

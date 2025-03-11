@@ -24,9 +24,8 @@ aliasesArchive:
 - /resources/blog/workflow
 tags:
 - Miscellaneous
-- Practical Techniques and Tooling
-- Operational Practices
 - Software Development
+- Practical Techniques and Tooling
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

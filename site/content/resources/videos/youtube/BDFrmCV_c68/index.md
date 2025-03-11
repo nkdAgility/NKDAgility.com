@@ -38,7 +38,6 @@ tags:
 - Hypothesis Driven Development
 - Personal
 - Product Owner
-- Decision Making
 - Evidence Based Leadership
 resourceTypes:
 - video

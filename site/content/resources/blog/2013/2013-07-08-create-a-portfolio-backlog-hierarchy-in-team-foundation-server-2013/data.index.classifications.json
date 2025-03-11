@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:14:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:28:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which is a part of Azure DevOps services. It includes detailed steps and technical commands related to Azure DevOps functionalities.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on creating a Portfolio Backlog hierarchy in Team Foundation Server 2013, which is a part of Azure DevOps. It explicitly discusses various Azure DevOps functionalities, such as custom work item types, categories, and the import/export process for configurations. The depth of the discussion is significant, covering step-by-step instructions and code snippets, which aligns well with the key topics of Azure DevOps. Overall, the content is highly relevant and focused on Azure DevOps, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -358,11 +361,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T18:14:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:53:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and management of a Portfolio Backlog hierarchy in Team Foundation Server, which is a key aspect of Application Lifecycle Management. It covers stages of the application lifecycle, including development and deployment, and involves tools and practices relevant to ALM.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on creating a Portfolio Backlog hierarchy in Team Foundation Server, which is a specific tool used in the application lifecycle management process. While it does touch on aspects of application management, such as custom work item types and configuration, it lacks a broader discussion on the entire application lifecycle stages, governance, or integration of methodologies like Agile and DevOps. The depth of discussion is limited to technical steps without exploring best practices or strategic insights related to ALM.",
     "level": "Secondary"
   },
   "Daily Scrum": {

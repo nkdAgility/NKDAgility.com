@@ -30,13 +30,13 @@ tags:
 - People and Process
 - Scrum Product Development
 - Scrum Team
-- Agile Planning
 - Professional Scrum
 - Scrum Master
 - Software Developers
 - Software Development
 - Team Collaboration
 - Agile Frameworks
+- Agile Project Management
 categories:
 - Scrum
 preview: metro-SSWLogo-128-link-1-1.png

@@ -27,6 +27,7 @@ aliasesArchive:
 - /blog/update-to-the-scrum-guide-on-the-25th-anniversary-of-the-scrum-framework
 - /resources/blog/update-scrum-guide-25th-anniversary-scrum-framework
 tags:
+- Agile Project Management
 - Professional Scrum
 categories:
 - Scrum

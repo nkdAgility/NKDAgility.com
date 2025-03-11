@@ -33,6 +33,7 @@ tags:
 - Discovery and Learning
 - Practical Techniques and Tooling
 - Pragmatic Thinking
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -32,11 +32,11 @@ sitemap:
 tags:
 - Metrics and Learning
 - Agile Project Management
+- Pragmatic Thinking
 - Software Development
 - Agile Philosophy
 - Psychological Safety
 - People and Process
-- Pragmatic Thinking
 - Agile Product Management
 - Organisational Agility
 - Transparency and Accountability

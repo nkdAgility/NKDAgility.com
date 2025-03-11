@@ -33,8 +33,8 @@ tags:
 - People and Process
 - Strategy
 - Agile Product Operating Model
+- Value Delivery
 - Agile Leadership
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

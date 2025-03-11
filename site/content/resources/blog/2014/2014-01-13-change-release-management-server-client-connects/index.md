@@ -27,9 +27,9 @@ aliasesArchive:
 - /blog/change-the-release-management-server-that-your-client-connects-to
 - /resources/blog/change-release-management-server-client-connects
 tags:
+- System Configuration
 - Install and Configuration
 - Release Management
-- System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling
 - Azure DevOps

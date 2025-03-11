@@ -322,12 +322,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:16:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adoption of Team Foundation Server (TFS) at Microsoft, which relates to engineering practices and methodologies, but it primarily focuses on the internal use and perception of the product rather than specific technical excellence practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the adoption of Team Foundation Server (TFS) at Microsoft, which touches on aspects of technical excellence such as internal use of tools that enhance software development processes. However, it primarily focuses on the adoption and perception of TFS rather than delving into specific engineering practices or methodologies that enhance agility, such as TDD or CI/CD. The discussion lacks depth in exploring how TFS contributes to technical excellence, making it a secondary topic rather than a primary focus.",
+    "level": "Quaternary"
   },
   "People and Process": {
     "category": "People and Process",
@@ -778,12 +781,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:51:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is a tool related to Continuous Integration, but the main focus is on its adoption within Microsoft rather than CI practices or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its internal adoption at Microsoft, which relates to Continuous Integration practices. However, it primarily focuses on the adoption and usage of TFS rather than the principles and practices of CI itself. While TFS is a tool that supports CI, the discussion lacks depth on CI concepts, best practices, and the role of automated testing, which are crucial for a higher confidence score in this category.",
+    "level": "Quaternary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",

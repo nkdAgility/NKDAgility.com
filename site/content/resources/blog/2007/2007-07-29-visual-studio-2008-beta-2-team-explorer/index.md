@@ -27,8 +27,6 @@ tags:
 - Products and Books
 - Practical Techniques and Tooling
 - Application Lifecycle Management
-- Software Development
-- System Configuration
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

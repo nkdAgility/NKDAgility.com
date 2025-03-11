@@ -373,12 +373,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:34:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to compatibility and software installation that affects Visual Studio, making it a major theme. However, it does not delve into broader principles or practices of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to the compatibility of Visual Studio 2012 and Office 2013, which is a narrow technical topic. While it does touch on a technical problem and provides a workaround, it lacks broader discussions on software craftsmanship, best practices, or principles of clean code. The focus is more on troubleshooting rather than on methodologies or practices that contribute to high-quality software development.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -580,12 +583,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:59:02",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses a specific issue related to Visual Studio and Office, it does involve software development tools and the implications on development workflows, making it a secondary but relevant theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a specific issue related to Visual Studio 2012 and its compatibility with Office 2013, which falls under software development as it pertains to development environments. However, the focus is primarily on a specific error and workaround rather than broader software development methodologies or practices. While it mentions a technical issue relevant to developers, it lacks depth in discussing software development processes or best practices.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",

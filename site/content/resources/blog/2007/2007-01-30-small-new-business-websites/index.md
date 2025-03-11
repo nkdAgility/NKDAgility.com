@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/small-new-business-websites
 tags:
 - Entrepreneurship
-- Estimation
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

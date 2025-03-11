@@ -26,10 +26,10 @@ preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false
 tags:
+- Team Collaboration
 - Pragmatic Thinking
 - People and Process
 - Software Developers
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

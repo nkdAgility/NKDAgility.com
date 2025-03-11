@@ -23,9 +23,9 @@ aliasesArchive:
 - /wpf-scale-transform-behaviour
 - /resources/blog/wpf-scale-transform-behaviour
 tags:
+- Software Development
 - Windows
 - Technical Mastery
-- Software Development
 - Practical Techniques and Tooling
 - Technical Excellence
 categories: []

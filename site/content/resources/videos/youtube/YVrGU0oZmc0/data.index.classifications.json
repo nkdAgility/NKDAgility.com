@@ -379,11 +379,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T15:09:37",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of feature flags as a practice in continuous delivery, which is a key aspect of modern software development methodologies. It explores how developers can implement this practice to enhance software delivery and gather feedback, aligning well with Agile and DevOps principles.",
+    "calculated_at": "2025-03-11T09:47:21",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the practice of using feature flags in the context of continuous delivery, which is a key aspect of modern software development methodologies like Agile and DevOps. It provides detailed examples of how developers can implement feature flags to manage feature releases, gather telemetry, and engage with users for feedback. This aligns well with the core themes of the category, focusing on best practices and tools that enhance developer productivity and collaboration. The depth of discussion is significant, as it covers the entire lifecycle of feature flags from development to user feedback, demonstrating a strong understanding of the role of software developers in these processes.",
     "level": "Secondary"
   },
   "Scaled Agile": {
@@ -397,11 +400,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T15:09:41",
-    "ai_confidence": 90,
-    "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses the use of feature flags as a practice in continuous delivery, detailing how they facilitate the deployment of new features while ensuring system stability and user feedback. This aligns closely with software development methodologies and practices.",
+    "calculated_at": "2025-03-11T11:10:51",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 20,
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the practice of using feature flags as a technique for implementing continuous delivery in software development. It provides detailed examples of how feature flags are used in real-world scenarios, particularly within the Azure DevOps team, which aligns closely with the core themes of the Software Development category. The discussion includes aspects of deployment strategies, user feedback mechanisms, and telemetry analysis, all of which are integral to modern software development practices. The depth of the discussion is significant, covering both the theoretical and practical implications of feature flags in the development lifecycle.",
     "level": "Primary"
   },
   "Azure Repos": {

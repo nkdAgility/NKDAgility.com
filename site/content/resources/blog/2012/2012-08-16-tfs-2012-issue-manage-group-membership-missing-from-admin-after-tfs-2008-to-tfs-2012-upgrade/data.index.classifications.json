@@ -379,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:33:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical aspects related to permissions management during a software upgrade, including command line instructions and security configurations in TFS, which aligns with software engineering practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses a technical issue related to permissions in TFS after an upgrade, which aligns with the category of Technical Mastery. It provides specific commands and solutions to address the problem, demonstrating a level of technical expertise. However, while it touches on aspects of software craftsmanship, such as managing permissions and understanding system architecture, it lacks a broader discussion on best practices or principles of clean code, which limits its depth and overall alignment with the category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1114,11 +1117,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:58:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and permissions which are relevant to Windows environments, particularly in relation to TFS being a Microsoft product. However, it primarily focuses on TFS functionality rather than broader Windows operating system topics.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses an issue related to managing group memberships in Team Foundation Server (TFS) after an upgrade, which is relevant to Windows environments, particularly in the context of Visual Studio and TFS. It provides specific commands and troubleshooting steps that align with the Windows category's focus on configuration and troubleshooting. However, while it is closely related to Windows, it does not explicitly mention the Windows operating system itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

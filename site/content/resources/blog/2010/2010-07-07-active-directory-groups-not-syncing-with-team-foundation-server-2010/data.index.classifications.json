@@ -793,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:54:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:40:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a practical problem encountered in Team Foundation Server and details real-world technical solutions and troubleshooting steps that demonstrate pragmatic thinking in problem-solving.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific technical issue related to Active Directory and Team Foundation Server, providing a practical solution to a real-world problem. It includes troubleshooting steps, SQL queries, and a workaround, demonstrating pragmatic problem-solving in a complex environment. However, while it touches on practical application, it lacks a broader discussion on Agile, Scrum, or DevOps principles, which limits its alignment with the core themes of the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -1117,11 +1120,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:54:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:05:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and resolving an issue related to Active Directory synchronization with Team Foundation Server (TFS), which operates within the Windows environment. Key aspects of the Windows operating system, such as Event Log, SQL Server commands, and system configurations, are central to the problem and solution detailed in the content.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses an issue related to Active Directory and Team Foundation Server (TFS), both of which are integral components of the Windows ecosystem. It provides detailed troubleshooting steps, including SQL queries and configuration changes, which align closely with the core themes of installation, configuration, and troubleshooting within the Windows environment. The depth of discussion is significant, as it covers specific error messages, event logs, and code snippets relevant to Windows server management. Overall, the content is highly relevant to the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

@@ -29,11 +29,11 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Software Development
-- System Configuration
 - Products and Books
 - News and Reviews
 - Practical Techniques and Tooling
 - Release Management
+- System Configuration
 - Technical Mastery
 - Troubleshooting
 categories:

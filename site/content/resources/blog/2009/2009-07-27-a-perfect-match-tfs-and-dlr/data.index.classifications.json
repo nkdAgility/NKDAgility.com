@@ -286,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of Azure DevOps, but primarily focuses on personal experiences and opinions regarding check-in policies rather than providing insights into Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of Azure DevOps, but it primarily focuses on personal frustrations and proposed solutions rather than providing a structured overview or best practices related to Azure DevOps. While there are mentions of TFS and its policies, the discussion lacks depth in terms of Azure DevOps functionalities and methodologies, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -787,11 +790,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:42:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical solutions and improvements related to Team Foundation Server (TFS) and its policies, indicating a focus on real-world applications and problem-solving in a development context. However, it does not explicitly connect to Agile, Scrum, or DevOps practices or frameworks comprehensively.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses practical solutions to issues with Team Foundation Server (TFS) check-in policies, suggesting a more manageable approach through the Dynamic Language Runtime (DLR). It reflects pragmatic thinking by addressing real-world problems and proposing a solution that simplifies the process for developers. However, while it touches on practical problem-solving, the depth of discussion on Agile or Scrum methodologies is limited, and it lacks broader context on how these solutions fit into Agile or DevOps frameworks.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {

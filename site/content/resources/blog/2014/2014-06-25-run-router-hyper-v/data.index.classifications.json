@@ -1057,11 +1057,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T10:18:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:50:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses processes and methodologies involved in configuring a router VM on Hyper-V, including the creation of a VHD, setting up virtual machines, and adjusting network settings for optimal performance and reliability.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on configuring a router within a Hyper-V environment, detailing the steps for creating a virtual hard disk (VHD) and setting up a virtual machine (VM) to host router firmware. It discusses specific configuration settings, such as network adapter types and virtual switches, which are crucial for system performance and reliability. The depth of discussion is substantial, providing detailed instructions and warnings about potential issues, which aligns well with the key topics of system configuration. However, while the content is rich in practical configuration details, it occasionally veers into personal anecdotes and broader discussions about network limitations, which slightly detracts from its strict alignment with the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1111,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T10:18:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:24:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the process of running a router in a virtual machine using Hyper-V, which is related to Windows, including the creation of a VHD and specific settings in Windows 8. It focuses on the technical setup within the Windows operating system context.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses running a router on Hyper-V, which is a Windows feature. It includes specific instructions for creating a VHD and configuring a VM, both of which are relevant to Windows. However, while it mentions Windows and provides some technical details, the focus is more on the router setup and networking challenges rather than a comprehensive exploration of Windows itself. Therefore, while it aligns with the category, it does not delve deeply into Windows-specific topics like installation, configuration, or troubleshooting in a broader sense.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

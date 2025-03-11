@@ -25,8 +25,8 @@ preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Evidence Based Management
 - Evidence Based Leadership
+- Evidence Based Management
 - Decision Making
 sitemap:
   filename: sitemap.xml

@@ -859,12 +859,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:13:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions intentions to release two versions of a project, indicating an interest in sharing updates. However, it primarily focuses on UI layout challenges and personal experiences rather than structured discussions around frequent software releases.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions the intention to release two versions of the application, but it primarily focuses on layout challenges and personal experiences with UI development. There is minimal discussion on the principles of frequent releases, continuous delivery, or related strategies, which are central to the category. The depth of discussion on release practices is limited, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -949,12 +952,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:47:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the author's experience with layout challenges in Windows Forms and WPF, indicating a pursuit to improve technical skills and understanding of UI development, but does not delve deeply into broader principles of software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses personal experiences with UI layout challenges in Windows Forms and WPF, which touches on aspects of software craftsmanship. However, it primarily focuses on the author's frustrations and learning journey rather than providing structured insights into best practices, principles, or methodologies that define technical mastery. The discussion lacks depth in exploring clean code, maintainability, or architectural principles, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",

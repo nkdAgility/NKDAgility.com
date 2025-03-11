@@ -30,6 +30,7 @@ tags:
 - Software Development
 - Strategy
 - Pragmatic Thinking
+- People and Process
 resourceTypes:
 - video
 categories:

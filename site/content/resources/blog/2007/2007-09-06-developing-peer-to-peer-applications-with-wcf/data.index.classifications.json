@@ -283,12 +283,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:15:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content includes personal reflections on the experience of delivering a presentation, which aligns with the Personal category, but the primary focus is on the technical aspects of the presentation itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content includes personal reflections on the experience of delivering a presentation, which aligns with the Personal category. However, the primary focus is on the technical aspects of the presentation rather than on Agile, Scrum, or DevOps methodologies. The mention of stage fright and the comparison of different presentation experiences provides some personal insight, but it lacks depth in discussing broader themes related to Agile or team dynamics.",
+    "level": "Quaternary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -583,12 +586,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:50:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions developing peer-to-peer applications with WCF, which is relevant to software development. However, the focus is on personal experiences during a presentation rather than the methodologies or practices of software development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a personal experience related to delivering a presentation on developing peer-to-peer applications with WCF. While it mentions a relevant topic in software development, the discussion lacks depth and does not delve into methodologies, best practices, or technical details that would typically characterise the Software Development category. The personal narrative and emphasis on presentation skills detract from a strong alignment with the core themes of software engineering.",
+    "level": "Quaternary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",

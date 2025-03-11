@@ -28,11 +28,11 @@ tags:
 - Working Software
 - Business Agility
 - Deployment Frequency
-- Deployment Strategies
 - News and Reviews
 - Product Delivery
 - Software Development
 - Technical Excellence
+- Agile Project Management
 categories:
 - DevOps
 - Engineering Excellence

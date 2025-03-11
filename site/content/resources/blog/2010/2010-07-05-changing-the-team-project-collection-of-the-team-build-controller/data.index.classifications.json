@@ -892,12 +892,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:05:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration and management of Team Build Controllers in the context of Team Foundation Server (TFS) 2010, which is relevant to Continuous Integration practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the configuration of Team Build Controllers and Project Collections within Team Foundation Server (TFS), which is related to Continuous Integration practices. However, it primarily focuses on the technical setup rather than broader CI principles or best practices. While it mentions build processes, it lacks depth in discussing CI's impact on collaboration, automated testing, or integration with other practices like Continuous Delivery.",
+    "level": "Tertiary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1063,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:54:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:40:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the process of configuring the Team Build Controller within Team Foundation Server (TFS) 2010, detailing the configuration steps and considerations necessary to manage different Team Project Collections effectively.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the configuration of Team Project Collections and Team Build Controllers within Team Foundation Server 2010. It discusses the one-to-one relationship between Team Build Controllers and Team Project Collections, detailing the steps required to reconfigure the Build Controller and manage builds effectively. This aligns well with the key topics of system configuration, such as configuration management tools and techniques, and troubleshooting common configuration issues. The depth of discussion is substantial, providing specific instructions and considerations for optimal performance, which further supports a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

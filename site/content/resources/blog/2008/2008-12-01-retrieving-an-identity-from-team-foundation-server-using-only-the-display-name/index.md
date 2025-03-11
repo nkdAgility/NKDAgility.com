@@ -24,14 +24,14 @@ aliasesArchive:
 - /resources/blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 tags:
 - Practical Techniques and Tooling
+- Windows
 - Software Development
 - System Configuration
-- Technical Mastery
 - Troubleshooting
 - Azure DevOps
 - Install and Configuration
 - Pragmatic Thinking
-- Windows
+- Technical Mastery
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

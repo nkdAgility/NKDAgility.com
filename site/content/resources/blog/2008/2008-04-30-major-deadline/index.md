@@ -25,8 +25,6 @@ aliasesArchive:
 tags:
 - Pragmatic Thinking
 - Software Development
-- Digital Transformation
-- Technical Mastery
 categories: []
 preview: metro-sharepoint-128-link-5-5.png
 

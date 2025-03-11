@@ -214,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:26:44",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical solution for managing permissions in Team Foundation Server, which relates to engineering practices, but it primarily focuses on access control rather than broader technical excellence methodologies.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses a specific technical solution for granting access in TFS 2012, which relates to improving efficiency in troubleshooting. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it touches on a technical aspect, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -781,12 +784,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical problem-solving strategies related to granting permissions in TFS for better management of diagnostic troubleshooting, which aligns with pragmatic thinking in a technical context.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical problem-solving techniques related to granting access in TFS 2012, which aligns with pragmatic thinking. It provides a real-world application of troubleshooting and efficiency improvements, demonstrating adaptability in managing permissions. However, the discussion lacks depth in exploring broader Agile or Scrum principles, focusing instead on a specific technical solution.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

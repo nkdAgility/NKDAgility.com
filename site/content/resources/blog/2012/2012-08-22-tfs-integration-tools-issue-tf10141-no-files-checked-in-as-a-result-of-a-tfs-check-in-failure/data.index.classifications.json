@@ -586,12 +586,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:05:11",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T10:33:04",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content provides a detailed discussion about resolving conflicts during check-ins in TFS (Team Foundation Server), which is a crucial aspect of software development practices, particularly in version control and continuous integration workflows.",
-    "level": "Primary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific issue related to TFS (Team Foundation Server) check-in failures, which is a part of the software development process. It provides detailed steps for resolving conflicts during version control operations, aligning with best practices in collaborative development. However, while it touches on relevant topics, the focus is more on troubleshooting a specific problem rather than broader software development methodologies or practices.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1168,11 +1171,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:05:12",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T11:57:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses resolving a specific technical issue related to TFS check-in failures, providing steps and solutions for troubleshooting. It is focused on identifying and resolving a software-related problem.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed account of troubleshooting a specific issue related to TFS check-in failures, including steps taken to identify and resolve the problem. It discusses techniques for diagnosing the issue, such as examining logs and understanding conflict types, which aligns well with the core themes of the Troubleshooting category. The depth of discussion is significant, as it includes specific actions and outcomes, making it a primary focus on troubleshooting rather than a secondary mention.",
     "level": "Secondary"
   },
   "Experimentation": {

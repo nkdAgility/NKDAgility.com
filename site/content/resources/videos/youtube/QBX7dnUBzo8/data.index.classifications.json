@@ -1273,20 +1273,26 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-12T03:19:22",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T09:58:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content includes personal reflections and anecdotes about the author's experiences in consulting and Agile coaching, particularly regarding challenges faced in organisations. However, it also contains significant technical discussions about Agile practices and organisational structures, making it a major but secondary theme.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content includes personal reflections and anecdotes from the author's experiences in consulting and Agile coaching, particularly regarding challenges faced in organisations. It discusses a specific regret and offers insights into the difficulties of implementing Agile practices, which aligns with the Personal category. However, the focus is more on systemic issues and technical aspects rather than purely personal experiences, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-12T03:19:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:21:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges organisations face in implementing Agile methodologies, the importance of addressing systemic issues, and the role of leadership and culture in fostering effective processes. It highlights team dynamics, the need for iterative change, and the human factors influencing Agile success, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the interplay between organisational structure, team dynamics, and the challenges of implementing Agile methodologies. It highlights the importance of addressing systemic issues within organisations and the need for cultural change to facilitate effective processes. The mention of Agile coaches, reorganisation, and the need for iterative change demonstrates a strong focus on human behaviour and structured methodologies, aligning well with the category's core themes. The depth of discussion is significant, providing insights into the complexities of organisational change and the human factors that influence Agile success.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {

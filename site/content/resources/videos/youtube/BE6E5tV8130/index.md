@@ -35,9 +35,9 @@ tags:
 - Decision Making
 - Empirical Process Control
 - People and Process
-- Value Delivery
 - Agile Frameworks
 - Agile Philosophy
+- Agile Strategy
 resourceTypes:
 - video
 categories:

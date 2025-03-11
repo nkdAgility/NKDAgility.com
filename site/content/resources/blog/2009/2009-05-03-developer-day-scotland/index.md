@@ -24,10 +24,10 @@ aliasesArchive:
 - /resources/blog/developer-day-scotland
 tags:
 - Events and Presentations
-- News and Reviews
+- Technical Mastery
 - Software Development
 - Code and Complexity
-- Technical Mastery
+- News and Reviews
 - Technical Excellence
 - Engineering Practices
 - Practical Techniques and Tooling

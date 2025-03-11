@@ -580,11 +580,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:52:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to the installation of Team Foundation Server (TFS) and SQL Server, which are tools used in software development. However, the primary focus is on troubleshooting installation errors rather than broader software development practices or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific error related to the installation of Team Foundation Server (TFS) and SQL Server, which is relevant to software development practices, particularly in the context of version control and deployment. However, the focus is primarily on troubleshooting a specific issue rather than broader software development methodologies or practices. While it does touch on aspects of software installation and configuration, it lacks depth in discussing software development life cycles or methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -778,12 +781,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:26:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical problem-solving strategies related to a specific technical issue encountered during the installation of TFS 2013, which aligns with pragmatic thinking in a real-world context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS 2013 and SQL Server 2012 SP1, providing practical solutions and troubleshooting steps. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, which are central to the category of Pragmatic Thinking. While it does offer practical problem-solving strategies, the focus is primarily on a technical error rather than on the application of pragmatic thinking in complex environments.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

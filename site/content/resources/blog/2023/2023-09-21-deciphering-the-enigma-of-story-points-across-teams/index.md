@@ -30,10 +30,10 @@ tags:
 - Flow Efficiency
 - Agile Project Management
 - Agile Product Management
-- Decision Making
 - Team Performance
-- Evidence Based Leadership
 - Operational Practices
+- Practical Techniques and Tooling
+- Pragmatic Thinking
 categories:
 - Product Management
 - Social Technologies

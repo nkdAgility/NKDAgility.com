@@ -29,6 +29,7 @@ aliasesArchive:
 tags:
 - Software Development
 - System Configuration
+- Azure DevOps
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - DevOps

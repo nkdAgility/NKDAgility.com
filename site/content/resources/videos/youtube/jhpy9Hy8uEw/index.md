@@ -31,10 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - Personal
-- Continuous Learning
 - People and Process
 - Agile Frameworks
 - Agile Project Management
+- Software Developers
+- Continuous Learning
 resourceTypes:
 - video
 categories:

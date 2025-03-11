@@ -27,9 +27,9 @@ tags:
 - Agile Values and Principles
 - Events and Presentations
 - People and Process
-- Software Developers
 - Agile Philosophy
 - Software Development
+- Software Developers
 - Organisational Culture
 categories:
 - Social Technologies

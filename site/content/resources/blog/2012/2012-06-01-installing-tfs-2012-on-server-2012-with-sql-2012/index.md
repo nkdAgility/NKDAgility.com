@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Windows
-- System Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-31-31.png
 

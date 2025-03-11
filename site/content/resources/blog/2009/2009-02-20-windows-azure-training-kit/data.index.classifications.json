@@ -340,12 +340,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:43:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a new training kit for Windows Azure, which is relevant to technology updates, but it primarily focuses on the features of the training kit rather than providing a broader industry analysis or review.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a new training kit for Windows Azure, which is relevant to technology updates. It provides specific details about the kit's features, such as hands-on labs and demo scripts, indicating a review-like depth. However, it lacks broader industry context or commentary on Agile or DevOps practices, which slightly diminishes its alignment with the core themes of the category.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -586,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:09:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Windows Azure and its training resources, which are relevant to software development, but the focus is on the training materials rather than specific software development practices or methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Windows Azure Training Kit, which is related to software development, particularly in the context of cloud services and application development. However, it primarily focuses on the announcement of the training kit and its features rather than delving into specific software development methodologies or practices. While it mentions hands-on labs and demo scripts, which are useful for developers, the overall discussion lacks depth in software engineering principles and methodologies.",
     "level": "Tertiary"
   },
   "Agile Project Management": {

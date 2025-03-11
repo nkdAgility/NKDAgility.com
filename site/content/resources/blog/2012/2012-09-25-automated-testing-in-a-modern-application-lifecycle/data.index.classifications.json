@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T17:01:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:32:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses automated testing within the context of a modern application lifecycle, with a significant focus on integration with Visual Studio and Team Foundation Server, which are part of Azure DevOps services.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automated testing within the context of a modern application lifecycle, with specific references to integration with Visual Studio and Team Foundation Server, which are part of Azure DevOps. However, the primary focus is on automated testing practices rather than Azure DevOps itself. While there are mentions of Azure DevOps tools, the overall discussion does not deeply explore Azure DevOps functionalities or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -358,11 +361,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T17:01:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:57:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the role of automated testing within the context of the application lifecycle, highlighting its importance in ensuring quality and efficiency throughout the development and deployment stages.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses automated testing within the context of a modern application lifecycle, highlighting its importance in delivering quality software efficiently. It touches on various testing types and their integration into the development process, which aligns with the application lifecycle stages. However, while it mentions aspects of application lifecycle management, it primarily focuses on automated testing rather than providing a comprehensive view of the entire lifecycle or governance practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {

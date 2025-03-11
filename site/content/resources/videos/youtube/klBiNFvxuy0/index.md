@@ -34,8 +34,8 @@ tags:
 - Professional Scrum
 - Agile Transformation
 - Scrum Master
-- Empirical Process Control
 - Discovery and Learning
+- Empirical Process Control
 - Software Development
 - Pragmatic Thinking
 resourceTypes:

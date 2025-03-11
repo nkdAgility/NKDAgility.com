@@ -35,10 +35,10 @@ sitemap:
 tags:
 - Metrics and Learning
 - Transparency
-- Cycle Time
 - Empirical Process Control
 - Evidence Based Management
 - Agile Project Management
+- Cycle Time
 - Operational Practices
 - Pragmatic Thinking
 - Software Development

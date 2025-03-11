@@ -32,9 +32,9 @@ tags:
 - Coaching
 - Continuous Learning
 - People and Process
-- Team Collaboration
 - Personal
 - Discovery and Learning
+- Team Collaboration
 - Agile Philosophy
 - Agile Transformation
 - Team Motivation

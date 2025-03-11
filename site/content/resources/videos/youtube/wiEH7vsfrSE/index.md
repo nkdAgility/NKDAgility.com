@@ -31,12 +31,12 @@ sitemap:
   priority: 0.6
 tags:
 - Business Agility
+- Organisational Agility
+- People and Process
 - Market Adaptability
 - Resilience and Change
 - Enterprise Agility
-- Organisational Agility
 - Organisational Culture
-- People and Process
 - Strategic Goals
 - Agile Strategy
 - Operational Practices

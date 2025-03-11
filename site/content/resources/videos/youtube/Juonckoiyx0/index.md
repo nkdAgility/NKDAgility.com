@@ -30,13 +30,13 @@ tags:
 - People and Process
 - Agile Product Management
 - Product Delivery
+- Professional Scrum
 - Scrum Product Development
 - Scrum Team
 - Sprint Review
+- Transparency
 - Agile Planning
 - Product Owner
-- Professional Scrum
-- Scrum Master
 resourceTypes:
 - video
 categories:

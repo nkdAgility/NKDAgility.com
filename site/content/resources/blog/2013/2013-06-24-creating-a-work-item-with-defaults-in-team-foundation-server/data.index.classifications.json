@@ -586,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:20:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:29:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the creation of a Work Item in Team Foundation Server (TFS), detailing the use of APIs and templates, which directly relates to software development practices, particularly in the context of Agile methodologies and project management tools.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses creating a Work Item in Team Foundation Server (TFS), which is a part of the software development process, particularly in managing work items within Agile methodologies. It provides practical guidance on using TFS APIs and templates, aligning with best practices in software development. However, while it touches on relevant topics, the depth of discussion is somewhat limited to a specific use case without broader context on methodologies or practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1210,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:54:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a Work Item with defaults in Team Foundation Server, which is relevant to software development practices that can be tied to Agile methodologies, but it focuses more on technical implementation details rather than broader Agile or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses creating a Work Item in Team Foundation Server, which is relevant to software development practices. However, it lacks explicit references to Agile or DevOps methodologies, and the discussion is primarily focused on a specific technical implementation rather than broader themes of collaboration, productivity, or best practices in software development. While it touches on customisation and user guidance, it does not delve into the core principles or practices that define the role of software developers in Agile and DevOps contexts.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

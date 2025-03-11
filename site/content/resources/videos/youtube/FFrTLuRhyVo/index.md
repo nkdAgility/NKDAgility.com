@@ -30,6 +30,7 @@ tags:
 - Technical Debt
 - Value Delivery
 - Working Software
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

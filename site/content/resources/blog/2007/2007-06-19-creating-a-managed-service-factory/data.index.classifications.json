@@ -574,12 +574,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:51:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a service management solution and provides code examples, which are relevant to software development practices, but it does not explicitly focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the creation of a service factory and technical implementation details, which are relevant to software development. However, it lacks explicit references to Agile or DevOps methodologies, and does not explore the role of software developers within those frameworks. While it provides some depth in technical discussion, it does not align closely with the core themes of the category, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1228,11 +1231,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:16:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses practical implementation of a managed service factory and shows application of concepts in a real-world scenario, but lacks a strong focus on Agile, Scrum, or DevOps frameworks.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses a practical solution for accessing services in a managed service factory, which aligns with pragmatic thinking in terms of applying real-world problem-solving techniques. It provides a detailed explanation of the implementation, showcasing adaptability and practical application of concepts. However, while it touches on relevant themes, it lacks explicit references to Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Release Management": {

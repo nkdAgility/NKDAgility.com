@@ -30,12 +30,12 @@ sitemap:
 tags:
 - Software Development
 - People and Process
+- Software Developers
 - Agile Project Management
 - Technical Leadership
 - Pragmatic Thinking
 - Agile Frameworks
 - Mentoring
-- Software Developers
 - Practical Techniques and Tooling
 - Team Collaboration
 resourceTypes:

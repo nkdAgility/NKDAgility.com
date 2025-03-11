@@ -382,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:08:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:24:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical details and considerations involved in installing and configuring TFS 2013.3 and SharePoint 2013, including best practices, configuration challenges, and technical recommendations, which align well with the principles of software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2013.3 with SharePoint, which involves technical details and practices relevant to software engineering. It discusses best practices for installation, configuration issues, and the importance of following documentation, which aligns with the principles of technical mastery. However, while it touches on aspects of software craftsmanship, such as the need for proper setup and configuration, it lacks a broader discussion on methodologies or principles that contribute to high-quality software development. Therefore, while it is relevant, it does not fully encapsulate the depth and breadth expected in the 'Technical Mastery' category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1117,11 +1120,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T19:08:15",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T11:49:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS on Windows Server 2012 R2, including specific procedures relevant to Windows, which aligns closely with the key topics of the Windows category.",
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2013.3 on Windows Server 2012 R2, which is a direct discussion of the Windows operating system. It includes detailed steps and considerations for installation, patch management, and configuration settings specific to Windows. The content also addresses troubleshooting issues related to Windows Server and SQL installations, aligning well with the key topics of the Windows category. The depth of discussion is substantial, providing insights into the installation process and potential pitfalls, which further supports a high confidence score.",
     "level": "Primary"
   },
   "Deployment Strategies": {

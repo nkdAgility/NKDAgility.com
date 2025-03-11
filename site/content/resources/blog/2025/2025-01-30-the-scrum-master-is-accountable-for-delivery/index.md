@@ -31,13 +31,13 @@ tags:
 - Accountability
 - Increment
 - Product Delivery
-- Scrum Master
 - Scrum Product Development
 - Scrum Team
 - Software Development
 - Agile Frameworks
 - Agile Project Management
 - Professional Scrum
+- Scrum Master
 categories:
 - Scrum
 - Social Technologies

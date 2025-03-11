@@ -24,12 +24,12 @@ aliasesArchive:
 - /resources/blog/connect-a-test-controller-to-team-foundation-service
 tags:
 - Install and Configuration
-- System Configuration
 - Technical Mastery
-- Troubleshooting
 - Practical Techniques and Tooling
+- System Configuration
 - Software Development
 - Azure DevOps
+- Troubleshooting
 categories:
 - DevOps
 

@@ -30,13 +30,13 @@ tags:
 - Events and Presentations
 - Estimation
 - Throughput
-- Metrics and Learning
 - Agile Planning
 - Cycle Time
 - Scrum Product Development
 - Scrum Team
 - Software Development
 - Agile Frameworks
+- Agile Project Management
 categories:
 - Scrum
 - Social Technologies

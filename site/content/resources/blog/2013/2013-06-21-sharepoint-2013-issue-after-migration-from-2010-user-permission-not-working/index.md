@@ -30,6 +30,12 @@ aliasesArchive:
 - /resources/blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
 tags:
 - Troubleshooting
+- Install and Configuration
+- System Configuration
+- Software Development
+- Practical Techniques and Tooling
+- Technical Mastery
+- Technical Excellence
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

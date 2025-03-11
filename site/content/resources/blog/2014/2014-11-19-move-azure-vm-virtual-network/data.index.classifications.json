@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:23:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of moving an Azure VM to a virtual network, which relates to engineering practices in cloud infrastructure management. However, it primarily focuses on specific steps rather than broader principles of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the practical steps for moving an Azure VM to a virtual network, which is a technical task. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it does touch on technical aspects, such as configuration and deployment, it does not delve into principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -784,11 +787,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:49:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical steps for configuring Azure VMs and networks, which aligns with pragmatic problem-solving in a technical context, but it is primarily focused on specific Azure configurations rather than broader Agile or DevOps principles.",
+    "final_score": 56.0,
+    "reasoning": "The content provides a practical guide on moving an Azure VM to a virtual network, which aligns with pragmatic problem-solving in a real-world context. It discusses specific steps and considerations, demonstrating experience-based decision-making. However, while it touches on practical application, it lacks a broader discussion on Agile, Scrum, or DevOps principles, which limits its overall alignment with the category.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {

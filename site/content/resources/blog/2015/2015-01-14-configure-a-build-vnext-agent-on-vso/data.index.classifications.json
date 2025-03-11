@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T23:18:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:22:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring a Build vNext Agent within Visual Studio Online (VSO), which is a key aspect of Azure DevOps services. It provides detailed instructions and insights into the build system, making Azure DevOps the central theme.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on configuring a Build vNext Agent within Visual Studio Online (VSO), which is a core aspect of Azure DevOps. It discusses the new build system, its features, and the process of setting up a build agent, demonstrating a strong alignment with Azure DevOps functionalities. The depth of discussion is significant, covering prerequisites, installation steps, and configuration details, which are all relevant to Azure DevOps practices. Overall, the content is focused on Azure DevOps, making it highly relevant to the category.",
     "level": "Secondary"
   },
   "Personal": {
@@ -385,11 +388,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T23:19:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:48:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration and management of a Build vNext Agent, which involves technical practices related to software engineering, deployment, and system architecture. It focuses on the methodologies and tools that contribute to high-quality software development.",
+    "final_score": 71.0,
+    "reasoning": "The content provides a detailed guide on configuring a Build vNext Agent, which aligns well with technical mastery in software engineering practices. It discusses the new build system's architecture, the process of setting up a build agent, and the importance of using PowerShell for deployment, all of which are relevant to software craftsmanship and engineering excellence. However, while it touches on best practices and methodologies, it lacks a broader discussion on principles of clean code or testing practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {

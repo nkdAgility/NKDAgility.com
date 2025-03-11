@@ -358,11 +358,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T11:13:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:25:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the installation and configuration of the Release Management Server, which is a tool relevant to Application Lifecycle Management. It also references ALM aspects and integrates with Team Foundation Server, indicating a focus on managing the application lifecycle.",
+    "final_score": 63.0,
+    "reasoning": "The content discusses the installation of the Release Management Server, which is a tool relevant to Application Lifecycle Management (ALM). However, while it mentions ALM aspects, the primary focus is on installation procedures rather than a comprehensive discussion of the application lifecycle stages or governance practices. The content does not delve deeply into the methodologies or best practices associated with ALM, which affects the depth of discussion. Overall, it aligns with the category but lacks a broader exploration of ALM principles.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -1063,11 +1066,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T11:31:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:51:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration process for the Release Management Server for TFS 2013, detailing installation steps, configuration aspects, and considerations for optimal setup and integration. While it briefly references ALM aspects, the main focus is clearly on system configuration.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of the Release Management Server for TFS 2013, which aligns closely with the category of System Configuration. It discusses the installation process, configuration settings, and considerations for optimal performance, such as using Network Service for authentication and the implications of server communication. The depth of discussion includes specific steps and tools involved in the configuration process, demonstrating a thorough understanding of the subject. While there are some brief mentions of related topics, the core focus remains on practical configuration tasks, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

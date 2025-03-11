@@ -29,9 +29,9 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
+- Windows
 - Software Development
 - Troubleshooting
-- Windows
 - Pragmatic Thinking
 - Technical Mastery
 categories: []

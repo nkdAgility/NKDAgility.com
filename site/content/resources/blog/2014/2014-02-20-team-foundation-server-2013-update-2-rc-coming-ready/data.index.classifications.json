@@ -220,12 +220,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:51:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses new features and improvements in TFS 2013 Update 2 RC, which relate to technical practices and tools that can enhance software development processes. However, the primary focus is on the upgrade event and features rather than a deep exploration of engineering methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses an upcoming update for Team Foundation Server (TFS) and its new features, which are relevant to software development tools. However, it lacks a direct focus on engineering practices or methodologies that enhance agility, such as TDD or CI/CD. While it mentions features that could improve development processes, the discussion is more about the update itself rather than a deep exploration of technical excellence principles. Therefore, the confidence score reflects a low alignment with the category's core themes.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -592,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T11:31:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:25:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content discusses updates and features of Team Foundation Server (TFS), which is integral to software development practices, particularly in version control and project management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the upcoming features of TFS 2013 Update 2 RC, which is relevant to software development practices, particularly in the context of version control and project management tools. However, while it mentions specific features and improvements, it lacks a deeper exploration of methodologies or best practices in software development. The focus is primarily on the upgrade event and new features rather than on broader software development concepts.",
     "level": "Secondary"
   },
   "Agile Project Management": {

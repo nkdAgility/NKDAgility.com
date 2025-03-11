@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 tags:
 - Troubleshooting
-- Modern Source Control
+- Software Development
 - System Configuration
 - Working Software
 - Azure Boards
 - Pragmatic Thinking
 - Release Management
-- Software Development
 - Practical Techniques and Tooling
 - Azure DevOps
+- Install and Configuration
 categories:
 - DevOps
 preview: metro-binary-vb-128-link-4-4.png

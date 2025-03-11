@@ -25,16 +25,7 @@ preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 isShort: false
 tags:
-- Metrics and Learning
-- Strategy
 - Transparency
-- Pragmatic Thinking
-- Agile Frameworks
-- Agile Project Management
-- Operational Practices
-- Flow Efficiency
-- Practical Techniques and Tooling
-- Throughput
 sitemap:
   filename: sitemap.xml
   priority: 0.6

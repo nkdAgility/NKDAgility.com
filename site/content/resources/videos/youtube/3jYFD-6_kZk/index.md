@@ -36,6 +36,7 @@ tags:
 - Install and Configuration
 - System Configuration
 - Technical Mastery
+- Software Developers
 resourceTypes:
 - video
 layout: video

@@ -286,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:47:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions moving to Visual Studio Team Services (now part of Azure DevOps) and discusses cloud adoption in relation to public sector services, but the primary focus is on government cloud policies and not specifically on Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the UK and US Government Cloud First policies and the general adoption of cloud services, with only a brief mention of Visual Studio Team Services, which is part of Azure DevOps. However, it lacks a focused discussion on Azure DevOps functionalities, CI/CD practices, or specific methodologies related to Azure DevOps, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -787,12 +790,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:21:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses government cloud policies and emphasizes practical applications of cloud solutions, which aligns with the theme of pragmatic problem-solving. However, the focus is more on policy and cloud adoption than specifically on Agile, Scrum, or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for public sector organisations, highlighting practical considerations for adopting cloud solutions. It addresses real-world challenges and resistance faced in implementing cloud services, which aligns with pragmatic thinking. The author shares personal experiences and insights on navigating these complexities, demonstrating a clear application of pragmatic problem-solving in the context of digital transformation and Agile practices. However, while the content is relevant, it does not delve deeply into specific Agile or Scrum methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

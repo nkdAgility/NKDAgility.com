@@ -223,11 +223,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T23:43:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:23:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation of a Release Management pipeline, focusing on Continuous Integration and Continuous Delivery (CI/CD) practices, automated deployments, and the integration of technical practices with Agile methodologies. It provides detailed insights into the engineering practices that enhance software development and delivery processes.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed walkthrough of creating a Release Management pipeline, which directly relates to Continuous Integration and Continuous Delivery (CI/CD) practices. It discusses the importance of automated builds, deployment processes, and the integration of monitoring tools like Application Insights, all of which are key aspects of technical excellence in software development. The author also touches on modular architecture and the need for parameterisation in deployment scripts, further aligning with the principles of technical excellence. Overall, the content is rich in technical detail and focuses primarily on engineering practices, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -250,12 +253,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T23:43:37",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T11:48:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the creation of a Release Management pipeline, detailing the methodologies and practices involved in deploying software products, which aligns closely with the principles of product delivery.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a comprehensive guide on creating a Release Management pipeline, which is a critical aspect of product delivery. It discusses methodologies for deployment, the importance of continuous integration, and the role of feedback loops in the development process. The depth of detail regarding the setup and configuration of the pipeline, as well as the emphasis on automated deployments and environment management, aligns closely with the core themes of product delivery. The content is primarily focused on practical applications and best practices, making it highly relevant to the category.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",

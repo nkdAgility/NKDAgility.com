@@ -379,11 +379,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T08:18:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:52:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical aspects of configuring a Windows Communication Foundation (WCF) service, including setting up service hosts, configuring endpoints, and specifying bindings, which directly relate to system configuration practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring a WCF service, including setting up base addresses, service hosts, behaviors, endpoints, and bindings. It provides detailed code examples and discusses specific configuration settings, which aligns well with the core themes of system configuration. However, while it is rich in detail, it does not explicitly discuss broader system optimisation strategies or configuration management tools, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -586,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:59",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T12:17:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the technical implementation of creating a WCF Service Host programmatically, which is a key aspect of software development practices and methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on creating a WCF Service Host programmatically, which directly relates to software development practices. It discusses specific coding techniques, service configuration, and security considerations, aligning well with best practices in software design and development methodologies. The depth of the discussion is significant, as it includes code snippets and explanations of various components involved in the process, demonstrating a thorough understanding of the subject matter.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {

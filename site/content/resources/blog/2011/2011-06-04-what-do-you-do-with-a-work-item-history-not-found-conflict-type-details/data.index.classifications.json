@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T23:10:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues and processes related to migrating work items in Team Foundation Server (TFS), including error handling, creating revisions, and managing change actions, which are all central aspects of software development practices and methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses issues related to the migration of work items in TFS (Team Foundation Server), which is a crucial aspect of software development practices, particularly in the context of version control and project management. It provides detailed insights into the challenges faced during the migration process, including handling revision numbers and conflict types, which are relevant to the software development lifecycle. The depth of discussion includes specific technical details, logs, and SQL queries, indicating a strong focus on software engineering practices. Overall, the content aligns well with the Software Development category, particularly in the areas of version control and project management methodologies.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -628,11 +631,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T23:10:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses migration issues related to work item history in TFS (Team Foundation Server), which falls within the realm of source control practices, particularly while handling changes and revisions in a source control system.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses issues related to migrating work items in TFS (Team Foundation Server), which is a version control system. It addresses specific problems encountered during the migration process, including handling revision numbers and conflict types, which are relevant to source control practices. However, while it touches on aspects of version control, such as change groups and migration instructions, it lacks a broader discussion on methodologies or best practices in modern source control, which limits its depth of discussion. Overall, the content is focused on a specific technical issue within the context of source control, justifying a moderate confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {

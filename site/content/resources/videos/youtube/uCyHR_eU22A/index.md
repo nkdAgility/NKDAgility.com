@@ -31,13 +31,13 @@ tags:
 - Agile Product Management
 - Product Owner
 - Scrum Product Development
-- Professional Scrum
 - Scrum Master
 - Scrum Team
 - Software Developers
 - Agile Frameworks
 - Agile Planning
 - Agile Project Management
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

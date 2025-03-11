@@ -31,13 +31,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Backlog Refinement
-- Agile Project Management
 - Software Development
 - People and Process
 - Software Developers
+- Agile Project Management
 - Estimation
 - Pragmatic Thinking
+- Backlog Refinement
 - Agile Frameworks
 resourceTypes:
 - video

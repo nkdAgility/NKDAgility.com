@@ -30,6 +30,7 @@ tags:
 - People and Process
 - Agile Project Management
 - Software Development
+- Team Performance
 - Team Collaboration
 sitemap:
   filename: sitemap.xml

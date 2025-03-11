@@ -29,13 +29,13 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Practical Techniques and Tooling
+- Software Development
 - System Configuration
 - Troubleshooting
 - Azure DevOps
 - Agile Frameworks
 - Azure Boards
 - Operational Practices
-- Software Development
 - Pragmatic Thinking
 categories:
 - Scrum

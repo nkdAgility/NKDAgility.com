@@ -34,8 +34,8 @@ sitemap:
 tags:
 - People and Process
 - Personal
-- Transparency and Accountability
 - Scrum Values
+- Transparency and Accountability
 - Transparency
 - Agile Values and Principles
 resourceTypes:

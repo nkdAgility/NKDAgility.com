@@ -27,11 +27,11 @@ aliasesArchive:
 - /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/blog/vsts-sync-migration-tool-update-bugfix
 tags:
-- News and Reviews
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - Products and Books
 - Install and Configuration
+- News and Reviews
 - Azure DevOps
 categories:
 - DevOps

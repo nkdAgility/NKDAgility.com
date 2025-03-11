@@ -340,12 +340,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:34:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the installation and features of Office 2013, which is a review of a software product. However, it does not focus on Agile or DevOps practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation process of Office 2013, which is more of a technical tutorial than a news or review piece. While it mentions the availability of Office 2013 and provides some personal insights on its features, it lacks a broader discussion on industry trends or evaluations that would typically characterise content in the 'News and Reviews' category. The depth of discussion is limited to personal experiences rather than a comprehensive review or analysis relevant to Agile, DevOps, or technology updates.",
+    "level": "Quaternary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -475,11 +478,14 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:58:56",
+    "ai_confidence": 45.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the primary focus is on installing Office 2013 and its features, there are mentions of submitting feedback regarding issues, which aligns with customer feedback mechanisms. However, it is not the central topic.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions the feedback feature in Office 2013 and discusses submitting feedback regarding issues, which aligns with the concept of customer feedback loops. However, the primary focus of the content is on the installation process of Office 2013 rather than a detailed exploration of feedback mechanisms or practices. The discussion lacks depth in terms of techniques for gathering or analysing feedback, and it does not provide strategies for integrating feedback into product development, which are key aspects of the category.",
     "level": "Tertiary"
   },
   "Operational Practices": {

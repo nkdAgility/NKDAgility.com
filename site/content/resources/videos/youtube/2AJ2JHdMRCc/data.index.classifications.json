@@ -274,12 +274,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T22:16:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:11:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of DevOps in delivering value and obtaining customer feedback, indicating a focus on processes and human factors, but it primarily centres on the technical aspects of DevOps rather than the interplay between people and processes.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions DevOps as a process that enables continuous delivery, which aligns with the category's focus on methodologies. However, it lacks a detailed discussion on team dynamics, leadership, or human factors, which are crucial for a higher confidence score. The mention of strategies for getting products to customers hints at a process improvement aspect but does not delve deeply into the interplay between people and processes.",
+    "level": "Quaternary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -328,11 +331,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T22:16:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:34:58",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous delivery and the importance of getting products in front of customers quickly, which relates to release management, but it primarily focuses on DevOps practices rather than specific release management strategies.",
+    "final_score": 50.0,
+    "reasoning": "The content briefly mentions continuous delivery, which is a key aspect of release management, but it does not explicitly discuss release planning, scheduling, or coordination among stakeholders. The focus is more on DevOps as a whole rather than the specific practices of release management, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "One Engineering System (1ES)": {

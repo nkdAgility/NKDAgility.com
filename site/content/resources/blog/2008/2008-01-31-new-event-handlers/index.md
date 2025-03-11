@@ -27,7 +27,6 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Technical Mastery
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

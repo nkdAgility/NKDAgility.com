@@ -30,12 +30,12 @@ aliasesArchive:
 - /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
 tags:
 - Modern Source Control
-- Application Lifecycle Management
 - Digital Transformation
 - Operational Practices
-- Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
+- Software Development
+- Application Lifecycle Management
 - Azure DevOps
 - Pragmatic Thinking
 categories:

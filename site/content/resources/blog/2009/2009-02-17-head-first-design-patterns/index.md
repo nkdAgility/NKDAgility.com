@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/blog/head-first-design-patterns
 tags:
 - Products and Books
+- Discovery and Learning
 - Miscellaneous
 categories: []
 preview: nakedalm-logo-128-link-2-2.png

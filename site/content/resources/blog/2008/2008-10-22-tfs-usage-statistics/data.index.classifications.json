@@ -304,12 +304,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:45:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides statistics related to TFS, which is a tool used in Application Lifecycle Management, but it primarily focuses on usage metrics rather than discussing the lifecycle stages or best practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content provides statistics related to TFS usage, which is a tool that can be part of Application Lifecycle Management. However, it lacks explicit discussions on the stages of the application lifecycle, best practices, or governance. The mention of 'ALM' in the tags suggests a connection, but the main content does not delve into the core themes of Application Lifecycle Management, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1102,12 +1105,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:11:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides statistics related to version control usage in TFS, which includes Azure Repos functionalities but primarily focuses on usage data rather than best practices or features.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content provides statistics related to Team Foundation Server (TFS), which is closely associated with Azure Repos. However, it primarily focuses on usage statistics rather than discussing Azure Repos functionalities, best practices, or integration in detail. While it mentions version control and check-ins, it lacks a comprehensive exploration of the core themes outlined for Azure Repos, such as branching strategies, pull requests, or CI/CD integration.",
+    "level": "Quaternary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",

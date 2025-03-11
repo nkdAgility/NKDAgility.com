@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
 isShort: false
 tags:
+- People and Process
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

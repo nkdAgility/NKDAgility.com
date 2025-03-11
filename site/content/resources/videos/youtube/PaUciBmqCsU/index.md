@@ -36,11 +36,11 @@ tags:
 - Flow Efficiency
 - Strategy
 - Transparency
-- Empirical Process Control
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
-- Lean Principles
+- Lean Thinking
+- Operational Practices
 resourceTypes:
 - video
 categories:

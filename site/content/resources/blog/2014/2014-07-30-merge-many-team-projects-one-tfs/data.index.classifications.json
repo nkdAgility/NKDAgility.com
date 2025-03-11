@@ -490,11 +490,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T19:11:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:24:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the operational practice of merging Team Projects in TFS using the TFS Integration Tools, detailing practical steps to enhance efficiency in project management and workflow integration, which aligns with the focus on operational practices in Agile and Lean methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the technical process of merging Team Projects in TFS, which includes practical steps and tools for migration. While it touches on operational practices, such as configuration and migration strategies, it lacks a broader focus on enhancing operational efficiency or integrating Agile, DevOps, or Lean methodologies. The discussion is more about specific technical implementation rather than overarching operational strategies.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -625,11 +628,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T19:11:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:50:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content focuses primarily on migrating and consolidating Team Projects in TFS, detailing source control processes and tools, and discusses specific techniques for managing source control data and configurations during migrations, which aligns well with best practices in modern source control.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the process of merging Team Projects in TFS, which involves source control practices. It provides detailed instructions on using TFS Integration Tools for source control migration, addressing potential issues and configurations. While it does not explicitly mention modern version control systems like Git, it aligns well with the core themes of source control methodologies and practices, particularly in the context of TFS. The depth of discussion is significant, covering various aspects of the migration process, which contributes to a higher confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {

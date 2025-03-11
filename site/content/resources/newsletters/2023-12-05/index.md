@@ -30,8 +30,8 @@ tags:
 - Events and Presentations
 - Products and Books
 - Pragmatic Thinking
-- Agile Project Management
 - Value Delivery
+- Agile Project Management
 
 ---
 We have already had great success with our immersive learning classes, with the 8-week Professional Scrum Product Owner gaining high acclaim not only from the students but also from their managers and leaders:

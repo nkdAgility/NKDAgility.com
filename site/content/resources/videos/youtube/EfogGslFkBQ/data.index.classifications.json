@@ -364,12 +364,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T08:08:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T09:59:13",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the drawbacks of using story points and velocity as metrics, advocating for a focus on throughput and cycle time instead. It emphasises the importance of these metrics in optimising work flow and delivering value, aligning closely with the category's definition.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses throughput as a preferred metric over story points and velocity, highlighting its importance in measuring work flow and efficiency. It aligns well with the core themes of the category by advocating for the focus on flow metrics and cycle time, which are integral to understanding throughput. The depth of discussion is substantial, as it critiques common practices and provides insights into the negative implications of relying on less effective metrics. Overall, the content is primarily focused on throughput, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -472,11 +475,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T08:08:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:22:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the negative impact of story points and velocity on Agile teams, focusing on how these metrics can mislead developers and hinder productivity. It emphasises the importance of using flow metrics and cycle time, which are relevant to the role of software developers in Agile practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the pitfalls of using story points and velocity as metrics in Agile development, which directly relates to the role of software developers in Agile contexts. It critiques common practices and suggests a focus on more effective metrics, aligning well with the core themes of Agile methodologies. The depth of discussion is substantial, providing specific examples and insights into how these metrics can negatively impact developer productivity and team dynamics. However, while it is focused on Agile practices, it does not delve deeply into broader DevOps principles or tools, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Test First Development": {

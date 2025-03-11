@@ -574,12 +574,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:46:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses development for SharePoint, implying a software development context but lacks focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of developing solutions for SharePoint, specifically using Visual Studio 2008. While it does mention the role of developers in the context of SharePoint, it lacks a direct discussion on Agile or DevOps methodologies, which are central to the category. The content provides some detail on setup and installation processes but does not delve into best practices, team dynamics, or collaboration strategies that are essential to the Software Developers category.",
+    "level": "Quaternary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -955,12 +958,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:12:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the specific steps and requirements for developing solutions for SharePoint, which includes technical details and installation instructions, but it is more about specific tools rather than overarching practices of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical setup required for developing SharePoint solutions, which includes specific tools and installation instructions. While it does touch on technical aspects, such as the need for VSeWSS and workflow DLLs, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The depth of discussion is moderate, providing practical steps but not delving into the underlying principles of technical mastery.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",

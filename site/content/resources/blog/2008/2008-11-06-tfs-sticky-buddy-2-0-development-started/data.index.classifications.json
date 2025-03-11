@@ -37,12 +37,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:10:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of Composite Application blocks for WPF, which relates to modular architecture, but the primary focus is on the development timeline and updates rather than a deep exploration of technical excellence practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content mentions the implementation of Composite Application blocks for WPF, which aligns with modular architecture, a key topic under Technical Excellence. However, the discussion lacks depth and does not explicitly address broader engineering practices or methodologies that enhance agility in software development. The focus is primarily on the development of a specific application rather than a comprehensive exploration of technical excellence principles.",
+    "level": "Quaternary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -697,11 +700,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:45:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the implementation of Composite Application blocks for WPF from Microsoft, which relates to Windows development, but it is more focused on the application development process rather than the Windows operating system itself.",
+    "final_score": 59.0,
+    "reasoning": "The content mentions Windows indirectly through the development of a ClickOnce application for WPF, which is a Windows Presentation Foundation technology. However, the primary focus is on the development process and features of the application rather than on Windows itself. The discussion lacks depth regarding Windows installation, configuration, or troubleshooting, which are key aspects of the category. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Windows category.",
     "level": "Tertiary"
   },
   "Product Strategy": {

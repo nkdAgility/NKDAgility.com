@@ -961,11 +961,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T11:31:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:26:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses how to manage and configure the Release Management Client, including changing server connections, which aligns with the practical aspects of release management.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses changing the Release Management Server and provides detailed instructions on how to do so, which aligns well with the core themes of Release Management. It addresses practical aspects of server configuration and client connectivity, demonstrating a clear understanding of the release process. However, while it focuses on a specific technical task, it does not delve into broader strategies or practices of Release Management, which slightly lowers the conceptual alignment score.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1060,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T11:31:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:51:47",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on changing the Release Management Server connection settings, which involves configuring a client application and manipulating configuration files. It discusses practical aspects of system configuration related to software settings and client-server connections.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the configuration of the Release Management Client, detailing how to change the server connection settings. It explicitly discusses the steps to access and modify system settings, which aligns well with the category of System Configuration. The depth of discussion includes practical instructions and troubleshooting advice, enhancing its relevance. However, while it is detailed, it does not cover broader system optimisation strategies or configuration management tools, which slightly lowers the overall alignment score.",
     "level": "Secondary"
   },
   "Product Strategy": {

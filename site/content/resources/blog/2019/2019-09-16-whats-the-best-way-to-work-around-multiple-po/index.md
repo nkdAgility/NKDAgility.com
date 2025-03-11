@@ -34,9 +34,9 @@ tags:
 - Professional Scrum
 - Scrum Product Development
 - Scrum Team
-- Agile Product Operating Model
 - Agile Project Management
-- Value Delivery
+- Accountability
+- Agile Frameworks
 categories:
 - Scrum
 preview: 495173592-1-1.jpg

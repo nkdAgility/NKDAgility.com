@@ -340,12 +340,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:35:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses MSDN licensing and its benefits for developers, which is relevant to industry practices, but it primarily focuses on personal experiences and opinions rather than providing a comprehensive review or news update.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses MSDN licensing and its benefits for developers, which is relevant to technology updates. However, it lacks a broader industry context or recent developments in Agile or DevOps, making it more of a personal opinion piece rather than a news or review article. The depth of discussion is limited to personal experiences and observations rather than a comprehensive analysis or review.",
+    "level": "Quaternary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -583,12 +586,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:00:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses MSDN subscriptions and their licensing benefits for developers, which relates to aspects of software development lifecycle and tooling. However, it primarily focuses on licensing rather than core software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses MSDN subscriptions and their benefits for developers, which relates to software development practices. However, it primarily focuses on licensing and personal use rather than methodologies or best practices in software development. While it touches on aspects relevant to developers, such as the ability to use software for development purposes, it lacks depth in discussing broader software engineering concepts or methodologies.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",

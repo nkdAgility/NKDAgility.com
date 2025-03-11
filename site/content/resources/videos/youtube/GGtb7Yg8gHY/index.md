@@ -29,6 +29,7 @@ tags:
 - Team Performance
 - People and Process
 - Scrum Master
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

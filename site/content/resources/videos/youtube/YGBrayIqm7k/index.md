@@ -31,14 +31,14 @@ sitemap:
 tags:
 - Agile Product Management
 - Value Delivery
-- Strategy
 - People and Process
 - Product Delivery
 - Ability to Innovate
+- Strategy
 - Agile Product Operating Model
 - Agile Project Management
 - Agile Strategy
-- Product Strategy
+- Strategic Goals
 resourceTypes:
 - video
 categories:

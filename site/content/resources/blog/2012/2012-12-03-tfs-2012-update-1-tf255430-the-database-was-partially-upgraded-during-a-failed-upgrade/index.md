@@ -30,11 +30,10 @@ aliasesArchive:
 - /resources/blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 tags:
 - Install and Configuration
+- Software Development
 - Windows
 - System Configuration
-- Operational Practices
 - Release Management
-- Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
 - Pragmatic Thinking

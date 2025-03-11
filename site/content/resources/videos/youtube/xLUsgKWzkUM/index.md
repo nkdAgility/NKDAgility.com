@@ -33,6 +33,7 @@ tags:
 - Product Backlog
 - Value Delivery
 - People and Process
+- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

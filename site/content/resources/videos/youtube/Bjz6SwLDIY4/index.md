@@ -33,12 +33,12 @@ tags:
 - Organisational Agility
 - Resilience and Change
 - Organisational Change
-- Change Management
 - Agile Philosophy
 - Beta Codex
 - People and Process
 - Enterprise Agility
 - Market Adaptability
+- Change Management
 resourceTypes:
 - video
 categories:

@@ -30,6 +30,9 @@ aliasesArchive:
 - /resources/blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
 tags:
 - Troubleshooting
+- Install and Configuration
+- Software Development
+- System Configuration
 categories: []
 preview: metro-problem-icon-7-7.png
 

@@ -376,11 +376,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:15:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting steps and configurations for Team Foundation Server and SharePoint integration, which aligns with optimal system configuration practices. It details errors related to creating sites and managing paths in SharePoint, emphasizing system setup and configuration aspects.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses troubleshooting a specific error related to the configuration of Team Foundation Server and SharePoint integration. It provides detailed logs and error messages, which are crucial for understanding system configuration issues. The discussion includes practical steps for modifying managed paths in SharePoint, which directly relates to system configuration best practices. However, while the content is focused on a specific error, it does not extensively cover broader configuration management tools or strategies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -1087,11 +1090,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T21:42:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:50:27",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content extensively discusses an error related to Team Foundation Server and Windows SharePoint Services, indicating a primary focus on challenges and solutions associated with the Windows operating environment and its software applications.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses an error related to Team Foundation Server and its interaction with Windows SharePoint Services, which is a component of the Windows ecosystem. It provides detailed troubleshooting steps and insights into the error messages, aligning well with the core themes of installation, configuration, and troubleshooting within the Windows environment. The depth of discussion is significant, as it includes specific log entries and error messages, which are crucial for diagnosing the issue. Overall, the content is focused on Windows-related topics, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Lean Principles": {

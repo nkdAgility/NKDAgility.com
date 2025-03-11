@@ -25,12 +25,12 @@ duration: 407
 isShort: false
 tags:
 - People and Process
+- Agile Project Management
 - Agile Product Management
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
 - Agile Frameworks
-- Agile Project Management
 - Agile Transformation
 - Professional Scrum
 - Software Development

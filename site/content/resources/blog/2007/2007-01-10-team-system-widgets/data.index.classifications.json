@@ -346,12 +346,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:56:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:54:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses applications related to Team System and Team Foundation Server, which are tools that may not directly align with Agile, Scrum, DevOps, or Lean principles, but the focus is primarily on specific products rather than broader Agile concepts.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses applications related to Team System and mentions specific products like TeamPlain, but it does not directly reference Agile, Scrum, DevOps, or Lean principles. While it provides some insights into tools that may be used in a broader context of business agility, the discussion lacks depth and actionable insights related to recognised frameworks. The focus is more on personal experience and opinions regarding specific tools rather than a structured exploration of Agile methodologies.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -544,12 +547,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T11:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:18:58",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Team Foundation Server and related applications, making it a major but secondary theme in the context of discussions around software development tools.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content mentions Team System and Team Foundation Server, which are relevant to software development practices, particularly in the context of application lifecycle management (ALM). However, the discussion is primarily focused on specific tools and applications rather than broader methodologies or practices in software development. The depth of discussion is limited, as it does not explore any methodologies or best practices in detail.",
+    "level": "Quaternary"
   },
   "Test First Development": {
     "category": "Test First Development",

@@ -376,11 +376,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-12T05:58:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T09:48:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses CI/CD principles extensively, which are central to Azure Pipelines, but it also covers broader DevOps concepts and practices that are not exclusively tied to Azure Pipelines.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses CI/CD pipelines extensively, which is a core aspect of Azure Pipelines. It highlights the importance of continuous integration and delivery, mainline branching, and deployment strategies, which align well with Azure Pipelines principles. However, it lacks specific references to Azure DevOps or Azure Pipelines features, which slightly lowers the confidence score. The depth of discussion is substantial, but it does not delve into Azure-specific configurations or tools, which would have strengthened the alignment further.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
@@ -394,11 +397,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-12T05:58:58",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T11:12:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses CI/CD practices, which are closely related to automated testing, but it does not delve deeply into the principles or methodologies of automated testing itself. It touches on the importance of continuous integration and delivery, which are essential for effective automated testing, but the focus is more on CI/CD processes rather than automated testing frameworks or specific testing methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses CI/CD pipelines and the importance of continuous integration and delivery, which are closely related to automated testing practices. However, it primarily focuses on the principles of CI/CD rather than delving deeply into automated testing methodologies, tools, or best practices. While it mentions automation in the context of CI/CD, it lacks explicit discussions on types of automated tests or specific testing frameworks, which limits its depth in the category.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {

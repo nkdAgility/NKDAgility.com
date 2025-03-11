@@ -385,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T16:43:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:32:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical issues related to build processes in Team Foundation Build, including troubleshooting, workarounds, and solutions that reflect software craftsmanship and engineering practices.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed discussion on a specific technical issue related to Team Foundation Build and MVC projects, focusing on the resolution of a build error. It directly addresses best practices in software build processes and the implications of using different versions of tools and SDKs, which aligns well with the principles of software craftsmanship. The depth of the discussion is significant, as it includes workarounds and solutions, demonstrating a strong understanding of the technical aspects involved. However, while it is primarily focused on a technical issue, it does not extensively cover broader principles of software design or architecture, which slightly limits its alignment with the category.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -493,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T16:44:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:57:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and solutions related to build processes in Team Foundation Build, which aligns with operational practices in enhancing delivery efficiency and addressing workflow issues.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific issue related to build processes in Team Foundation Build 2012, which touches on operational practices in a software development context. However, it primarily focuses on troubleshooting a specific error rather than providing broader strategies or techniques for enhancing operational efficiency. While there are mentions of build targets and configurations, the depth of discussion does not fully align with the key topics of operational practices, such as process optimisation or continuous improvement strategies.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

@@ -586,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:53:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides a detailed guide on customizing the configuration of Team Foundation Server (TFS) Agile Planning Tools, which is a software development tool, and includes specific scripting aspects and coding that aligns with software development practices.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on customising the colours in Team Foundation Server 2013 Agile Planning Tools, which is a specific aspect of software development related to configuration management. It discusses the process of exporting and importing configuration files, which aligns with version control and collaborative development practices. However, while it touches on Agile tools, the discussion lacks depth in broader software development methodologies or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -649,11 +652,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:28:30",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses customization of work item colors in Team Foundation Server, which is related to Azure Boards functionalities, specifically managing visual distinctions for work items within Agile project management.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses customisation of work item colours in Team Foundation Server (TFS), which is related to Azure Boards. However, it primarily focuses on a specific technical aspect (colour configuration) rather than providing a comprehensive overview or best practices for Azure Boards in Agile project management. While it mentions work item types, it lacks depth in discussing broader functionalities or integration with Agile methodologies.",
     "level": "Secondary"
   },
   "Collaboration Tools": {

@@ -29,8 +29,8 @@ tags:
 - Discovery and Learning
 - People and Process
 - Continuous Learning
-- Customer Feedback Loops
 - Empirical Process Control
+- Customer Feedback Loops
 - Metrics and Learning
 - Coaching
 - Personal

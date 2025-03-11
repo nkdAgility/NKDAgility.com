@@ -214,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:49:27",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 35.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from server-based version control systems to distributed version control systems, highlighting the technical challenges and advantages of using Git. However, it primarily focuses on workflow issues rather than broader engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the challenges of transitioning from a server-based version control system to a distributed version control system, specifically Git. While it touches on technical aspects of version control and the importance of managing uncommitted changes, it lacks a direct focus on broader engineering practices or methodologies that enhance agility in software development. The discussion is somewhat relevant to technical excellence but does not delve deeply into key topics like TDD, CI/CD, or modular architecture, which are central to the category.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1216,12 +1219,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:24:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges and workflows associated with transitioning from a server-based version control system to Git, which is relevant to software developers. However, it primarily focuses on version control rather than Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses issues related to version control systems, specifically the transition from StarTeam to Git. While it touches on aspects of software development, such as handling uncommitted changes and the differences between server-based and distributed version control systems, it does not explicitly address Agile or DevOps methodologies. The discussion lacks depth in terms of best practices or principles related to Agile or DevOps, which are central to the category of Software Developers. Therefore, while there are relevant elements, the overall focus is not aligned with the specified category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

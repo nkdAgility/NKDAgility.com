@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:33:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:27:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses integrating reporting and analysis services with Team Foundation Server 2013, which is central to software development practices, particularly in managing software projects and facilitating development processes.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on integrating reporting and analysis services with Team Foundation Server (TFS), which is a tool used in software development for project management and version control. It discusses specific steps and configurations related to TFS, SQL Server Reporting Services, and Analysis Services, which are relevant to the software development lifecycle. However, while it provides practical guidance, it lacks broader discussions on methodologies or best practices in software development, which slightly limits its depth of discussion. Overall, it aligns well with the category but does not delve into the theoretical aspects of software development practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1060,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:33:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:52:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration processes for SQL Server Reporting Services and Analysis Services in the context of integrating with Team Foundation Server. It provides detailed steps and considerations necessary for configuring these services, which aligns strongly with system configuration best practices.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of SQL Server Reporting Services and Analysis Services in conjunction with Team Foundation Server 2013. It provides detailed steps for setting up these services, which aligns well with the key topics of system configuration, such as best practices for software installation and configuration, and troubleshooting common configuration issues. The depth of discussion is significant, as it covers various aspects of the configuration process, including permissions, database setup, and integration with TFS. Overall, the content is highly relevant to the category of System Configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {

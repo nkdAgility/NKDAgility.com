@@ -30,9 +30,9 @@ tags:
 - Events and Presentations
 - Remote Working
 - Transparency and Accountability
-- Sociotechnical Systems
 - Team Performance
 - Collaboration Tools
+- Sociotechnical Systems
 categories:
 - Social Technologies
 - Scrum

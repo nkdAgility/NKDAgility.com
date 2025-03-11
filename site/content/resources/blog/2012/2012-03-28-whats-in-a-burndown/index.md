@@ -27,14 +27,14 @@ aliasesArchive:
 - /blog/what's-in-a-burndown-
 - /resources/blog/whats-in-a-burndown
 tags:
-- Scrum Product Development
+- Software Developers
 - Product Delivery
+- Scrum Product Development
 - Scrum Team
 - Software Development
 - Agile Planning
 - Agile Project Management
 - Professional Scrum
-- Software Developers
 - Team Performance
 - Agile Frameworks
 categories:

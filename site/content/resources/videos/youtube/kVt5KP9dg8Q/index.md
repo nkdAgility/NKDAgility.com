@@ -31,11 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Software Development
 - Agile Philosophy
 - Agile Strategy
 - Operational Practices
 - Software Developers
-- Software Development
 - Pragmatic Thinking
 - Working Software
 - Product Delivery

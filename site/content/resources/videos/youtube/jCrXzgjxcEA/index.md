@@ -29,11 +29,11 @@ tags:
 - Software Development
 - Agile Project Management
 - Azure Boards
-- Cycle Time
-- Software Developers
 - Agile Frameworks
 - Operational Practices
 - Pragmatic Thinking
+- Agile Planning Tools
+- Cycle Time
 sitemap:
   filename: sitemap.xml
   priority: 0.6

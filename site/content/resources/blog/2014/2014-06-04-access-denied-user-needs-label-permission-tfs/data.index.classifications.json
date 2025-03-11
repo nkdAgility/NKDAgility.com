@@ -280,12 +280,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:50:38",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which is part of the Azure DevOps suite, but primarily focuses on a specific issue related to permissions rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server), which is part of the Azure DevOps suite. However, the focus is primarily on a user permission issue rather than broader Azure DevOps functionalities or best practices. While it mentions TFS and some configuration details, it lacks a comprehensive exploration of Azure DevOps services or methodologies, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",
@@ -1210,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:25:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team project configuration and permission issues in TFS, which is indirectly related to the role of software developers and their environments in Agile contexts, but the primary focus is not on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a specific issue related to permissions in TFS, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about troubleshooting a technical problem rather than exploring best practices or principles within those frameworks. While it touches on developer roles and security measures, it does not delve into the broader themes of collaboration, productivity, or modern engineering practices that are central to the category.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

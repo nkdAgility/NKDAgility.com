@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - People and Process
 - Agile Project Management
 - Scrum Team
@@ -37,7 +38,6 @@ tags:
 - Pragmatic Thinking
 - Scrum Master
 - Scrum Product Development
-- Team Collaboration
 - Team Performance
 resourceTypes:
 - video

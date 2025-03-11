@@ -19,12 +19,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:56:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to the configuration of Team Foundation Server and its interaction with SharePoint, which involves engineering practices, but it primarily focuses on troubleshooting rather than broader principles of software craftsmanship or architecture.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error related to Team Foundation Server and SharePoint integration, which is more focused on troubleshooting than on broader software craftsmanship principles. While it does touch on configuration and problem-solving, it lacks a comprehensive exploration of best practices, clean code principles, or methodologies that contribute to high-quality software development. The discussion is technical but does not delve into the core themes of Technical Mastery.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1018,11 +1021,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T17:35:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:31:07",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content discusses specific troubleshooting techniques and solutions related to configuring Team Foundation Server and SharePoint, which fall under practical application of tooling.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific error related to Team Foundation Server (TFS) and provides a practical solution for resolving the issue by updating configuration settings. While it does mention a tool (TFS) and offers a practical technique for troubleshooting, the focus is primarily on a specific error rather than a broader exploration of Agile or DevOps methodologies or tools. The depth of discussion is limited to a single issue, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {

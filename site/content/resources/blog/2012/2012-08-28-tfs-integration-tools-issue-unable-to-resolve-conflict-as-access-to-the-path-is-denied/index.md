@@ -29,12 +29,11 @@ aliasesArchive:
 - /blog/tfs-integration-tools---issue--unable-to-resolve-conflict-as-access-to-the-path-is-denied
 - /resources/blog/tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
 tags:
+- Troubleshooting
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Modern Source Control
 - Software Development
-- Troubleshooting
 categories: []
 preview: metro-problem-icon-4-4.png
 

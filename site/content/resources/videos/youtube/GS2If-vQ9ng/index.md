@@ -27,9 +27,9 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Strategy
-- Agile Transformation
 - Miscellaneous
+- Agile Transformation
+- Agile Strategy
 - Organisational Agility
 - Organisational Change
 - Pragmatic Thinking

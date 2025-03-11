@@ -26,6 +26,7 @@ duration: 529
 isShort: false
 tags:
 - Practical Techniques and Tooling
+- Product Delivery
 - Technical Excellence
 - Continuous Delivery
 - Azure DevOps
@@ -34,7 +35,6 @@ tags:
 - Automated Testing
 - Cycle Time
 - Flow Efficiency
-- Market Adaptability
 resourceTypes:
 - video
 sitemap:

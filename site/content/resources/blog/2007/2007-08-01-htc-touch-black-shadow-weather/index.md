@@ -32,7 +32,6 @@ categories: []
 tags:
 - Install and Configuration
 - Troubleshooting
-- System Configuration
 
 ---
 black-shadow-weather

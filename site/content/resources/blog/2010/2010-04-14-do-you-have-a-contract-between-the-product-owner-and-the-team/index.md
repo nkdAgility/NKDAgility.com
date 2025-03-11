@@ -32,11 +32,11 @@ tags:
 - Scrum Product Development
 - Scrum Team
 - Agile Frameworks
-- Agile Planning
 - Agile Product Management
 - Professional Scrum
 - Team Collaboration
 - Software Development
+- Working Agreements
 categories:
 - Scrum
 preview: metro-sharepoint-128-link-1-1.png

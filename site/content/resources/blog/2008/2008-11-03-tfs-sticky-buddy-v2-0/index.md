@@ -23,9 +23,8 @@ aliasesArchive:
 - /tfs-sticky-buddy-v2-0
 - /resources/blog/tfs-sticky-buddy-v2-0
 tags:
-- Technical Excellence
-- Application Lifecycle Management
 - Software Development
+- Technical Excellence
 preview: nakedalm-logo-128-link-2-1.png
 categories: []
 

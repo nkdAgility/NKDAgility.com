@@ -586,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the availability of Visual Studio 2010 and its features, which are relevant to software development tools, but does not delve into methodologies or practices central to the software development life cycle.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio 2010 Beta 2, including its various editions and features. While it mentions tools relevant to software development, such as Team Foundation Server and Test Elements, the focus is more on the product announcement rather than in-depth discussions of software development methodologies or practices. Therefore, it has some relevance but lacks substantial depth and direct engagement with core software development themes.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -847,12 +850,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:42:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes discussions about Test Elements and mentions testing in the context of Visual Studio, suggesting test automation relevance, but it is more focused on the release of Visual Studio 2010 and its features.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions 'Test Elements' and 'Lab management' in the context of Visual Studio 2010, which are related to testing. However, it lacks a focused discussion on test automation principles, frameworks, or practices. The primary focus is on the release of Visual Studio and its features, with only a minor reference to testing tools, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",

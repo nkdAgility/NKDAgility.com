@@ -27,10 +27,9 @@ aliasesArchive:
 - /blog/adding-toolstrippanel-ui-adapter-support-to-the-composite-ui-application-block
 - /resources/blog/hinshelm-on-composite-ui-application-block
 tags:
-- Pragmatic Thinking
 - Software Development
-- Technical Mastery
 - Practical Techniques and Tooling
+- Technical Mastery
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

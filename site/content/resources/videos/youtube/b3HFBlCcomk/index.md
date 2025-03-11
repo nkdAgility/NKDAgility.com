@@ -30,10 +30,10 @@ sitemap:
   priority: 0.6
 tags:
 - Organisational Agility
+- Software Development
 - Agile Product Operating Model
 - Agile Project Management
 - Agile Values and Principles
-- Agile Frameworks
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation

@@ -586,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T02:22:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:41:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a technical issue related to IIS SMTP Service configuration, detailing steps to resolve it, which aligns with software development practices and troubleshooting.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to the configuration of the IIS SMTP service, which is a part of software development and deployment processes. It provides a step-by-step solution to a problem encountered during the software deployment phase, which aligns with the Software Development category. However, the discussion lacks broader context on methodologies or best practices in software development, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1111,12 +1114,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T02:22:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:07:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses a troubleshooting issue related to IIS (Internet Information Services), which is a web server role on Windows Server, alongside providing specific solutions involving Windows configuration. This centers on the management and configuration of a Windows-based server environment.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content primarily focuses on troubleshooting an issue related to the IIS SMTP Service, which is a component of the Windows operating system. It discusses specific steps taken within the Internet Information Services (IIS) Manager, a Windows tool, to resolve a problem with email delivery. The content provides detailed instructions and context about the issue, aligning well with the key topics of installation, configuration, and troubleshooting within the Windows environment. The mention of Windows in the tags further supports its relevance to the category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

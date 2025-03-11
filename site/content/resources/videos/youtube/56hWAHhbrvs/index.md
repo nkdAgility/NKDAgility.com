@@ -38,8 +38,8 @@ tags:
 - Agile Transformation
 - Beta Codex
 - Organisational Change
-- Organisational Culture
 - Scaling Agility
+- Enterprise Agility
 resourceTypes:
 - video
 layout: video

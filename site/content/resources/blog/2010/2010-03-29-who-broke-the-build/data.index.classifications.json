@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T01:20:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:41:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses build processes and management within the context of Azure DevOps, specifically referencing build notifications and the importance of maintaining build quality, which aligns with Azure DevOps functionalities.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of maintaining builds, troubleshooting build failures, and the use of build notifications, which are all relevant to Azure DevOps. It mentions tools and practices associated with Azure DevOps, such as Team Foundation Server (TFS) and build definitions. However, while it provides practical insights into build management, it lacks a comprehensive overview of Azure DevOps services and methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -358,11 +361,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T01:20:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:06:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of maintaining build integrity within the software development lifecycle, addressing issues related to build failures, and the implications for application quality and governance.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of maintaining builds and the implications of broken builds, which relates to the maintenance and governance aspects of Application Lifecycle Management. However, it lacks a comprehensive exploration of the entire application lifecycle and does not delve deeply into methodologies or tools specific to ALM. The focus is primarily on build management rather than the broader scope of application lifecycle management.",
     "level": "Secondary"
   },
   "Daily Scrum": {

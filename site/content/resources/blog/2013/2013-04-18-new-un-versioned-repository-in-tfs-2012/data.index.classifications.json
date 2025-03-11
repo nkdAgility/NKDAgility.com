@@ -487,12 +487,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T10:30:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the implementation of an un-versioned repository for build drops in TFS 2012, addressing operational challenges with version control efficiency and cleanup processes. While it relates to improving operational practices and workflow management, the primary focus is on TFS 2012 features rather than broader Agile or DevOps methodologies.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to operational practices by addressing the management of build drops and the efficiency of version control. However, while it touches on the implications of this change for operational efficiency, it lacks a comprehensive exploration of broader operational strategies or methodologies. The focus is more on a specific feature rather than a detailed discussion of operational practices in Agile, DevOps, or Lean frameworks.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -622,11 +625,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:55:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content focuses primarily on updates and features related to version control in TFS 2012, including discussion of un-versioned repositories, managing build drops, and using version control commands like 'destroy'.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to version control practices. It mentions the implications of storing build drops in a versioned repository and the need for cleanup using the 'destroy' command, which aligns with conflict resolution and history management. However, while it touches on relevant topics, the focus is primarily on TFS 2012's specific features rather than broader best practices or methodologies in modern source control.",
     "level": "Secondary"
   },
   "Empirical Process Control": {

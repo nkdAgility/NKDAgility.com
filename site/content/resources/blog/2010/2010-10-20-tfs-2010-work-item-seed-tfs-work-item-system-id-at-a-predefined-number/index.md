@@ -30,12 +30,12 @@ tags:
 - Practical Techniques and Tooling
 - System Configuration
 - Software Development
-- Technical Mastery
 - Troubleshooting
 - Install and Configuration
 - Azure DevOps
-- Pragmatic Thinking
 - Windows
+- Pragmatic Thinking
+- Technical Mastery
 categories: []
 preview: metro-binary-vb-128-link-5-5.png
 

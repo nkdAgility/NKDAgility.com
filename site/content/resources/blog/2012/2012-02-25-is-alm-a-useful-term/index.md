@@ -28,13 +28,13 @@ aliasesArchive:
 - /resources/blog/is-alm-a-useful-term
 tags:
 - Software Developers
-- Application Lifecycle Management
 - Software Development
-- Organisational Agility
+- Application Lifecycle Management
 - Product Delivery
 - Agile Strategy
 - People and Process
 - Market Adaptability
+- Organisational Agility
 - Pragmatic Thinking
 - Business Agility
 categories:

@@ -1063,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:58:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses configuring TFS (Team Foundation Server) permissions and service accounts, which aligns with system configuration practices and methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific issue related to the configuration of the TFS Integration Platform, particularly focusing on permissions and service account management. It provides detailed steps on how to resolve a configuration issue, which aligns well with the core themes of system configuration. The mention of using the command line tool 'tfssecurity.exe' to modify service accounts demonstrates practical application and depth in the discussion of configuration management. Overall, the content is highly relevant to the category, with a strong focus on technical aspects of system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1117,11 +1120,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:33:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses troubleshooting an issue related to the TFS Integration Platform, which operates within the Windows environment. It provides insights on resolving a specific error, thus aligning closely with the category's focus on Windows operating system functionalities.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses an issue related to the TFS Integration Platform, which operates within the Windows environment. It explicitly mentions Microsoft Team Foundation Server (TFS), a tool that is closely associated with Windows-based development environments. The discussion includes troubleshooting steps and solutions, which align well with the core themes of installation, configuration, and troubleshooting within the Windows category. However, while the content is relevant, it does not delve deeply into broader Windows operating system features or settings, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

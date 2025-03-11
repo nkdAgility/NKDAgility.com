@@ -33,6 +33,7 @@ tags:
 - Discovery and Learning
 - Practical Techniques and Tooling
 - Lean Principles
+- Flow Efficiency
 - People and Process
 sitemap:
   filename: sitemap.xml

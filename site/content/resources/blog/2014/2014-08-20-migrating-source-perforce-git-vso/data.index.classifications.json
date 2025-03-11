@@ -592,12 +592,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T10:22:17",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T10:24:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the process of migrating source control from Perforce to Git, covering aspects of version control systems, Git's features, repository management, and CI/CD practices, making it a substantial discussion on software development practices.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed discussion on migrating source control from Perforce to Git, which is a core aspect of software development practices. It explicitly mentions version control systems, outlines the migration process, and discusses best practices for repository management, CI/CD, and the implications of moving to a node-based source control system. The depth of the discussion is significant, covering practical steps and considerations, which aligns well with the key topics of the Software Development category.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -628,11 +631,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T10:22:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:49:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the process of migrating from Perforce to Git, covering various aspects of version control practices such as repository management, commit processes, dependency handling, and the advantages of using Git. It details methodologies and tools relevant to modern source control, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the migration process from Perforce to Git, detailing specific practices and considerations relevant to modern source control. It discusses various aspects of Git, including local commits, merging, repository management, and CI/CD integration, which are all core themes of modern source control. The depth of discussion is substantial, providing a step-by-step guide and addressing potential pitfalls, thus demonstrating a strong alignment with the category's key topics.",
     "level": "Secondary"
   },
   "Empirical Process Control": {

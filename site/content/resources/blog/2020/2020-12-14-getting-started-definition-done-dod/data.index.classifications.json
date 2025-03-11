@@ -82,12 +82,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-13T21:57:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:18:52",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) in the context of Scrum, emphasising its role in ensuring the delivery of working software. It outlines characteristics of a DoD, the importance of quality, and the iterative process of refining the DoD to maintain software functionality, which aligns closely with the principles of working software.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) and its critical role in ensuring that increments of software are considered 'working'. It provides detailed insights into how to define and measure quality in software delivery, aligning closely with Agile principles. The emphasis on continuous improvement and the necessity of a clear DoD directly supports the concept of delivering functional, high-quality software that meets user needs.",
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -100,11 +103,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-13T21:57:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:44:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) in the context of Scrum, emphasising the importance of transparency, inspection, and adaptation based on quality metrics and team reflections. It aligns well with the principles of empirical process control by focusing on evidence-based decision-making and continuous improvement.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the Definition of Done (DoD) within the context of Scrum, emphasising the importance of transparency, inspection, and adaptation. It highlights how the DoD creates a shared understanding of what constitutes 'done' and encourages continuous reflection and improvement, which are core principles of empirical process control. The depth of discussion on how to establish and evolve the DoD, along with the need for regular reflection and adaptation, aligns well with the category's focus. However, while the content is rich in relevant themes, it does not delve deeply into empirical process control as a standalone concept, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "System Configuration": {

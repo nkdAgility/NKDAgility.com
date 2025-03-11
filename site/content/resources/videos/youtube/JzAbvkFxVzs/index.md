@@ -33,12 +33,12 @@ tags:
 - Scrum Master
 - Software Development
 - Agile Philosophy
-- Agile Project Management
 - People and Process
+- Agile Project Management
 - Agile Values and Principles
 - Agile Frameworks
-- Personal
 - Scrum Values
+- Personal
 resourceTypes:
 - video
 categories:

@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:22:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process from TFS 2010 to TFS 2012, which is a part of Azure DevOps services. It includes detailed steps, challenges, and best practices related to TFS, aligning well with Azure DevOps functionalities.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the upgrade process from TFS 2010 to TFS 2012, which is a part of Azure DevOps services. It includes specific references to TFS functionalities, migration strategies, and process template customisation, aligning well with Azure DevOps themes. However, while it provides substantial detail, it lacks a broader discussion on Azure DevOps as a suite, focusing instead on a specific upgrade scenario.",
     "level": "Secondary"
   },
   "Personal": {
@@ -358,11 +361,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T20:23:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:59:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS (Team Foundation Server), which is a critical aspect of managing the application lifecycle, including deployment, maintenance, and process template customisation. It details methodologies and tools used in the upgrade, aligning well with the principles of Application Lifecycle Management.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS (Team Foundation Server) and the migration of data from VSS (Visual SourceSafe) to TFS. While it does touch on aspects of application lifecycle management, such as planning, execution, and documentation, it lacks a comprehensive discussion of the broader methodologies, practices, and tools that define Application Lifecycle Management. The content is more technical and specific to a particular upgrade scenario rather than a holistic view of managing the application lifecycle.",
     "level": "Secondary"
   },
   "Daily Scrum": {

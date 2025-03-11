@@ -29,6 +29,7 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Install and Configuration
+- Windows
 categories: []
 preview: metro-problem-icon-7-7.png
 

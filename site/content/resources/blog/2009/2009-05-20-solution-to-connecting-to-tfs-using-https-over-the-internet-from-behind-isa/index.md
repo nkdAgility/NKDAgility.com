@@ -23,9 +23,9 @@ aliasesArchive:
 - /solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 - /resources/blog/solution-to-connecting-to-tfs-using-https-over-the-internet-from-behind-isa
 tags:
+- Troubleshooting
 - Install and Configuration
 - System Configuration
-- Troubleshooting
 - Windows
 - Practical Techniques and Tooling
 preview: metro-visual-studio-2010-128-link-1-1.png

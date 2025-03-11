@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Continuous Integration
 - Operational Practices
 - Software Development
 - Technical Mastery

@@ -1060,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:28:16",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T10:29:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses troubleshooting a specific error related to the configuration and management of Team Foundation Server, particularly in the context of detaching a project collection and issues with identities. It includes practical steps and SQL queries that are directly related to system configuration management, making it central to the topic of system configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses a specific issue related to detaching a Team Project Collection in Team Foundation Server, which directly pertains to system configuration. It provides detailed steps for troubleshooting the error, including examining logs and running SQL queries to identify orphaned identities, which aligns well with the category's focus on configuration management and troubleshooting. The depth of discussion is significant, as it includes specific commands and recommendations for resolving the issue, demonstrating a strong understanding of system configuration principles. Overall, the content is highly relevant to the category, with a strong emphasis on practical solutions and methodologies for system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1168,11 +1171,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T20:28:16",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-11T11:54:17",
+    "ai_confidence": 92.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content clearly discusses an issue related to detaching a Team Project Collection in Team Foundation Server, explaining the error encountered and providing specific steps for diagnosis and resolution. It outlines findings regarding log analysis, potential causes of errors, SQL queries to identify orphaned identities, and emphasizes the importance of working with Microsoft support to resolve the issue, which aligns closely with troubleshooting practices.",
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses a specific error encountered while detaching a Team Project Collection in TFS, detailing the symptoms, potential causes, and a recommended solution. It provides a clear methodology for diagnosing the issue by examining logs and running SQL queries to identify orphaned identities. The depth of discussion includes practical steps for resolution, aligning well with the troubleshooting category. However, while the content is focused on a specific issue, it does not cover broader troubleshooting techniques or tools, which slightly lowers the depth score.",
     "level": "Primary"
   },
   "Experimentation": {

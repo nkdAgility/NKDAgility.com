@@ -385,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:31:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:59:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the technical steps and challenges involved in installing and configuring TFS 2012 and Lab Management 2012, which aligns with principles of software craftsmanship and engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which involves technical processes and practices. However, while it discusses specific technical tasks, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The depth of discussion is more procedural than conceptual, which limits its alignment with the category of Technical Mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -556,12 +559,15 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T21:31:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, focusing on automated build and testing with mentions of automated test agents, which aligns with the category of Automated Testing.",
-    "level": "Secondary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the installation and configuration of TFS 2012 and Lab Management, which includes some aspects of automated testing, particularly in the context of testing automated builds and environments. However, the primary focus is on the installation process rather than a thorough exploration of automated testing principles, practices, or methodologies. While there are mentions of testing and automated builds, the depth of discussion on automated testing concepts is limited, and the content does not align closely with the key topics outlined for the category.",
+    "level": "Quaternary"
   },
   "Team Performance": {
     "category": "Team Performance",

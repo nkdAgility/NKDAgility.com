@@ -27,6 +27,7 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - Software Developers
+- People and Process
 - Agile Project Management
 - Agile Philosophy
 - Empirical Process Control

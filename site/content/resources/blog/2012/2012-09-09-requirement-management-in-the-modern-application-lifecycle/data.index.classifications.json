@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:27:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:32:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a key component of Azure DevOps, focusing on requirement management, integration points, and tools that enhance TFS functionalities.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a component of Azure DevOps, and delves into its functionalities, integration points, and tools that enhance requirement management within the Azure DevOps ecosystem. It provides a detailed exploration of TFS features, including work item tracking, integration with other tools, and agile project management practices. However, while it is focused on TFS, it does not explicitly mention Azure DevOps as a whole, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -358,11 +361,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T19:27:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:57:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses requirement management within the context of the application lifecycle, specifically focusing on tools like Team Foundation Server (TFS) and their role in managing requirements throughout the software development process.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily discusses requirement management within the context of the application lifecycle, specifically focusing on tools like Team Foundation Server (TFS) and their role in managing requirements. It aligns well with the core themes of Application Lifecycle Management, such as governance, compliance, and integration of tools. The depth of discussion is substantial, covering various aspects of requirement management, integration points, and solutions, which indicates a strong focus on the application lifecycle. However, while it mentions several key topics, it does not delve deeply into all stages of the application lifecycle, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {

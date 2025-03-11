@@ -208,12 +208,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:42:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical solution involving ASP.NET controls and provides code examples, but it primarily focuses on a specific problem rather than broader engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific coding problem and solution related to ASP.NET controls, which does touch on technical practices. However, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. While it provides a code example and some insights into handling timers and controls, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. The mention of seeking improvements indicates some alignment, but the overall depth and focus are limited.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -784,12 +787,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses a practical problem-solving approach to handling timers in ASP.NET controls and provides code solutions, which aligns with pragmatic thinking in a programming context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a practical coding problem and provides a solution, which aligns with pragmatic thinking. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and the focus is primarily on a specific coding issue rather than a comprehensive exploration of pragmatic strategies in complex environments.",
+    "level": "Quaternary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",

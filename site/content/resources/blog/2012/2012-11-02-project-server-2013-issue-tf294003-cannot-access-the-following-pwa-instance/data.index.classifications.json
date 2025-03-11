@@ -1117,11 +1117,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-14T15:22:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:31:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to Team Foundation Server and Project Server, which are both Windows-based applications. It focuses on troubleshooting a specific error that occurs within the Windows environment, making Windows a central theme of the discussion.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS) and Project Server 2013, both of which operate within the Windows environment. It explicitly mentions Windows-related components, such as service accounts and permissions, which are crucial for managing Windows-based applications. The depth of discussion includes troubleshooting steps and solutions, aligning well with the core themes of installation, configuration, and troubleshooting in the Windows category. However, it does not delve deeply into broader Windows operating system features or updates, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1171,11 +1174,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-14T15:22:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:56:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the identification and resolution of a specific error (TF294003) related to Project Server and Team Foundation Server, providing a clear solution to the problem.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error (TF294003) encountered when integrating Team Foundation Server with Project Server, detailing the identification of the issue, the troubleshooting steps taken, and the final solution. It aligns well with the core themes of troubleshooting by providing a clear methodology for diagnosing and resolving a technical issue, including practical insights and a case study-like narrative. The depth of discussion is significant, as it covers the problem, the investigation process, and the resolution, making it a strong fit for the Troubleshooting category.",
     "level": "Secondary"
   },
   "Experimentation": {

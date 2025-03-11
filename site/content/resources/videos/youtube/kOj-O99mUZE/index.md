@@ -35,11 +35,11 @@ tags:
 - Scaled Agile
 - Agile Frameworks
 - Agile Strategy
-- People and Process
 - Portfolio Management
 - Scaling Agility
 - Scaling Kanban
 - Large Scale Agility
+- Operational Practices
 resourceTypes:
 - video
 categories:

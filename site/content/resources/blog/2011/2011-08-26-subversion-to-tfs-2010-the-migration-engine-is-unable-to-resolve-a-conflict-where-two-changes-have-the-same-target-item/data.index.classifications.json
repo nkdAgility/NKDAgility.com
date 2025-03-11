@@ -619,11 +619,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:37:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses migration from Subversion to Team Foundation Server, focusing on resolving conflicts that arise during this process, which is a key aspect of modern source control practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the challenges and strategies involved in migrating from Subversion to Team Foundation Server, focusing on conflict resolution during the migration process. It explicitly mentions issues related to case sensitivity and how these can lead to conflicts, which is a key aspect of version control practices. The depth of discussion includes specific examples of conflicts encountered, potential resolutions, and tools that can assist in the migration process. While it does not cover broader topics like branching strategies or code review processes, it aligns well with the core themes of conflict resolution and effective code management in modern source control.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -1168,12 +1171,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T02:06:40",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-11T12:02:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses resolving conflicts encountered during the migration from Subversion to TFS, specifically addressing technical issues related to case sensitivity and how to utilize tools to resolve such conflicts. It provides detailed methodologies for diagnosing and resolving these issues, making troubleshooting the central theme.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues encountered during the migration from Subversion to TFS, specifically addressing conflicts arising from case sensitivity. It provides detailed insights into diagnosing the problem, methods for resolving conflicts, and practical steps to mitigate issues, which aligns well with the core themes of the Troubleshooting category. The depth of discussion is substantial, as it includes specific examples, tools, and recommendations for resolution, demonstrating a thorough understanding of the troubleshooting process.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

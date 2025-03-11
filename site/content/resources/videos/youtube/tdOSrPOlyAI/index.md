@@ -34,6 +34,7 @@ tags:
 - Technical Debt
 - People and Process
 - Value Delivery
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

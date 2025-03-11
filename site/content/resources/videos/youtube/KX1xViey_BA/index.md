@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Sociotechnical Systems
 - Organisational Physics
 resourceTypes:
 - video

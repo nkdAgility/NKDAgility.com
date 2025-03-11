@@ -27,6 +27,7 @@ isShort: false
 tags:
 - Pragmatic Thinking
 - Software Developers
+- Team Collaboration
 - Scrum Master
 - Software Development
 sitemap:

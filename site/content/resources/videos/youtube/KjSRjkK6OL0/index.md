@@ -28,12 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Master
 - People and Process
 - Daily Scrum
-- Scrum Master
 - Scrum Team
 - Software Developers
-- Agile Project Management
 - Agile Transformation
 - Software Development
 resourceTypes:

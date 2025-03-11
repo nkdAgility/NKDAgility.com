@@ -25,9 +25,9 @@ duration: 141
 isShort: false
 tags:
 - Install and Configuration
-- Release Management
 - Practical Techniques and Tooling
 - System Configuration
+- Release Management
 - Software Development
 - Troubleshooting
 sitemap:

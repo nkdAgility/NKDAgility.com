@@ -32,9 +32,9 @@ tags:
 - Continuous Delivery
 - Deployment Frequency
 - Deployment Strategies
-- Engineering Practices
 - Software Developers
 - Software Development
+- Azure DevOps
 sitemap:
   filename: sitemap.xml
   priority: 0.6

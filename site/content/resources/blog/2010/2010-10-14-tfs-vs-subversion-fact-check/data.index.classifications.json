@@ -211,12 +211,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:39:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses specific technical aspects and comparisons between TFS and Subversion, touching on version control practices and the implications for software development. However, it primarily focuses on user experiences and misconceptions rather than broader engineering methodologies or practices that enhance agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on comparing TFS and Subversion, discussing specific features and user experiences rather than delving into broader engineering practices or methodologies that enhance technical excellence. While it touches on aspects of version control and some technical features, it lacks a comprehensive exploration of principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -283,12 +286,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:04:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses TFS (Team Foundation Server), which is a component of Azure DevOps, but focuses more on comparisons with Subversion rather than on Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses TFS (Team Foundation Server) in comparison to Subversion, which is a part of the Azure DevOps suite. However, it does not explicitly mention Azure DevOps or its broader functionalities, focusing instead on specific features and user experiences related to TFS. While there are relevant points about TFS's capabilities, the discussion lacks depth in terms of Azure DevOps as a whole, and it does not cover key topics such as CI/CD pipelines or Agile project management practices within Azure DevOps.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",

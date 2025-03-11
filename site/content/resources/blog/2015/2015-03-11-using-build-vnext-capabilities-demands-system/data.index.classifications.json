@@ -892,11 +892,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-14T22:27:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:22:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system, which is a feature related to Continuous Integration practices in Microsoft’s build system. It focuses on how to configure build agents and definitions, which are essential aspects of CI workflows.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system, which is a feature related to Continuous Integration. It provides a detailed explanation of how to configure build agents and manage capabilities, which aligns with CI practices. However, it lacks broader discussions on CI principles, best practices, or the role of automated testing, which limits its depth and alignment with the category. Overall, while it is relevant to CI, it does not fully explore the category's key themes.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -991,11 +994,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-14T22:28:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:48:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Build vNext capabilities and demands system within Azure DevOps, focusing on the configuration and management of build agents and definitions, which are central to Azure Pipelines.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on the Build vNext capabilities and demands system within Azure DevOps, specifically focusing on the configuration and management of build definitions. It explicitly mentions the Build vNext system, its features, and how to configure capabilities and demands, which are central to Azure Pipelines. The depth of the discussion is significant, covering practical aspects of using the system, including tagging agents and setting demands for builds. Overall, the content aligns closely with the key topics of Azure Pipelines, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {

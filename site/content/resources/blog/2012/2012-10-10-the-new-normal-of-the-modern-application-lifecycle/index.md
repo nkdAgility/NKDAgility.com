@@ -25,12 +25,12 @@ aliasesArchive:
 tags:
 - Application Lifecycle Management
 - Events and Presentations
-- People and Process
-- Business Agility
 - Software Developers
 - Software Development
 - News and Reviews
 - Organisational Agility
+- People and Process
+- Business Agility
 - Digital Transformation
 - Resilience and Change
 categories:

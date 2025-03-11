@@ -178,21 +178,27 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T11:56:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of high deployment frequencies and continuous delivery in delivering value to customers, aligning with Agile and DevOps principles.",
+    "calculated_at": "2025-03-11T09:46:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the transformation of Azure DevOps from infrequent releases to a model of continuous delivery, which directly aligns with the principles of iterative development and maximising customer value. It highlights the importance of rapid feedback loops, adapting to market changes, and the necessity of high deployment frequencies to enhance customer satisfaction. The depth of discussion on continuous delivery practices and the impact of Agile methodologies on value delivery further supports a high confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T11:56:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T11:10:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Azure DevOps in the context of deployment frequency and transformation, but the primary focus is on general agile principles and market responsiveness.",
-    "level": "Tertiary"
+    "final_score": 76.0,
+    "reasoning": "The content provides a detailed discussion on the evolution of Azure DevOps from TFS, highlighting the shift from infrequent releases to a model of continuous delivery. It explicitly mentions Azure DevOps multiple times and discusses its impact on deployment frequency and responsiveness to market changes, which aligns well with the core themes of Azure DevOps. The depth of the discussion is significant, as it covers historical context, challenges faced, and the importance of rapid deployment cycles, making it a primary focus of the content.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

@@ -295,11 +295,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T23:16:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform, which is a component of Azure DevOps, detailing its installation, configuration, and integration with TFS elements. It aligns with Azure DevOps functionalities and practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the TFS Automation Platform, which is a component of Azure DevOps. It provides detailed insights into installation, configuration, and action processing related to TFS, aligning well with Azure DevOps functionalities. However, it lacks broader discussions on Azure DevOps services and methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -385,11 +388,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T00:14:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses on the technical aspects of integrating with the Tfs Automation Platform, discussing software architecture, configuration, and best practices for extending functionality, which aligns well with the principles of software craftsmanship.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a detailed exploration of the TFS Automation Platform, discussing installation, configuration, and processing of automations. It aligns well with the principles of software craftsmanship by addressing best practices in software design and architecture, particularly in the context of integrating with existing systems. The depth of discussion is significant, covering various technical aspects and considerations, although it lacks a broader discussion on clean code principles or testing methodologies.",
     "level": "Secondary"
   },
   "Product Discovery": {

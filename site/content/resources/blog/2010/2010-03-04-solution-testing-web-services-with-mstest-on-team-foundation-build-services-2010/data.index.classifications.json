@@ -382,11 +382,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T01:39:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:41:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical aspects of testing web services using MSTest within a development environment, focusing on best practices, methodologies, and code examples that enhance software quality and engineering practices.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on testing web services using MSTest, focusing on best practices for unit testing, integration testing, and the use of attributes to ensure tests run correctly in different environments. It aligns well with the principles of clean code and software craftsmanship, particularly in the context of improving code quality and maintainability through effective testing strategies. The depth of the discussion is significant, as it covers specific coding examples, troubleshooting, and the integration of testing within a build server context, which are all critical aspects of technical mastery in software engineering.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -490,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T01:39:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:07:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on testing strategies and methodologies within the context of using MSTest and Team Foundation Build Services. It discusses practical solutions to operational issues in the testing process, which aligns with the enhancement of operational efficiency in Agile and DevOps contexts.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses practical techniques for testing web services using MSTest, which aligns with operational practices in terms of improving testing efficiency and integration within a build environment. However, it primarily focuses on specific implementation details rather than broader operational strategies or methodologies, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

@@ -379,11 +379,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical implementation details, including the use of queries for data retrieval, handling of timestamps, and managing records through the TFS Integration Platform, which are relevant to software craftsmanship and engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a technical issue related to querying data in a software integration context, which touches on aspects of software craftsmanship and debugging practices. However, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to high-quality software development. The focus is primarily on a specific problem and its solution rather than a comprehensive exploration of technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -790,11 +793,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a practical problem faced while developing a Test Track Pro Adapter, including real-world applications of filters in queries and strategies for effectively handling data migration in the context of TFS Integration. It emphasizes problem-solving techniques related to adapting queries to avoid the loss of data and improve efficiency.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical problem-solving strategies related to querying data in a software integration context, which aligns with the core themes of pragmatic thinking. It provides a detailed account of the challenges faced and the solutions implemented, demonstrating adaptability and critical thinking in a real-world scenario. The author reflects on their experience and intuition in decision-making, particularly regarding the use of time filters in queries, which is a practical application of Agile and DevOps principles. However, while the content is rich in practical examples, it does not explicitly mention Agile or Scrum frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

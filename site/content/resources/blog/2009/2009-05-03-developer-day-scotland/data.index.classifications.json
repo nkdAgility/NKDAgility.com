@@ -346,11 +346,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:53:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:43:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a recent event, Developer Day Scotland, and provides insights and evaluations of various sessions related to Agile and technology, making it relevant to the News and Reviews category.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses a recent event, Developer Day Scotland, and provides insights into various sessions related to Agile and technology, which aligns with the category of News and Reviews. However, while it mentions specific sessions and speakers, the depth of analysis on the implications of these sessions for Agile and DevOps practices is somewhat limited. The content is more of a personal reflection rather than a comprehensive review or news update, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -382,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T10:29:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:09:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content prominently discusses technical topics such as refactoring, MVVM design patterns, dynamic languages, and architectural practices, which aligns well with the principles of software craftsmanship and engineering excellence.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses various technical sessions focused on software craftsmanship, including refactoring, design patterns (MVVM), and architectural practices. It explicitly mentions the importance of refactoring and managing code debt, aligning well with the principles of clean code and software craftsmanship. The depth of discussion is substantial, providing insights into specific methodologies and practices that enhance software quality. Overall, the content is a strong fit for the Technical Mastery category.",
     "level": "Secondary"
   },
   "Product Discovery": {

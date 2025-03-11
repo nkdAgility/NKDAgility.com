@@ -24,11 +24,11 @@ aliasesArchive:
 - /resources/blog/tfs-event-handler-prototype-configuration-demystified
 tags:
 - Install and Configuration
-- Windows
 - System Configuration
-- Software Development
+- Windows
 - Technical Mastery
 - Practical Techniques and Tooling
+- Software Development
 - Azure DevOps
 categories: []
 preview: metro-binary-vb-128-link-1-1.png

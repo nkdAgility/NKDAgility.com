@@ -28,11 +28,11 @@ tags:
 - Professional Scrum
 - Scrum Master
 - Continuous Learning
-- Discovery and Learning
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
 - Coaching
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.4

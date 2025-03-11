@@ -1060,11 +1060,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:28:21",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, detailing permissions and solutions related to system setup and configuration.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses configuring features in Team Foundation Server 2013, which directly relates to system configuration. It provides detailed solutions for permission management and user roles, aligning well with the core themes of system optimisation and configuration management. The depth of discussion is significant, as it outlines specific steps and considerations for configuring permissions, which is crucial for effective system setup. Overall, the content is highly relevant to the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1168,11 +1171,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-11T11:53:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content provides specific details about an error (TF50309) encountered when configuring features in Team Foundation Server 2013 and outlines multiple solutions for resolving this permission issue, making troubleshooting the primary focus.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error (TF50309) encountered in Team Foundation Server 2013, detailing the permissions required to resolve the issue. It provides two distinct solutions for troubleshooting the problem, demonstrating a clear focus on diagnosing and resolving a technical issue. The depth of discussion includes practical steps and considerations for users facing this error, aligning well with the core themes of the Troubleshooting category.",
     "level": "Secondary"
   },
   "Experimentation": {

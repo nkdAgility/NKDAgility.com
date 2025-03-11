@@ -586,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:54:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to restoring TFS backups in SQL Server, which involves software development practices, particularly around database management in context of TFS and SQL Server. It also covers altering database configuration and features relevant to development tools.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the technical aspects of restoring TFS backups from SQL Server Enterprise to SQL Express, which is a specific software development task. It includes detailed instructions, SQL commands, and explanations of the limitations of different SQL Server editions, aligning well with software development practices. The depth of discussion is significant, providing practical solutions and insights into database management within the context of software development.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1060,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:29:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the configuration aspects and troubleshooting of restoring TFS backups from SQL Server Enterprise to SQL Express, detailing the steps for modifying system configurations to ensure compatibility and successful restoration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the technical aspects of restoring TFS backups from SQL Server Enterprise to SQL Express, focusing on configuration issues related to database features and compression. It provides detailed instructions on how to identify and remove enterprise features that are incompatible with SQL Express, which aligns well with the key topics of system configuration. The depth of discussion is significant, as it includes SQL commands and troubleshooting steps, demonstrating a thorough understanding of the configuration process. Overall, the content is highly relevant to the category of System Configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {

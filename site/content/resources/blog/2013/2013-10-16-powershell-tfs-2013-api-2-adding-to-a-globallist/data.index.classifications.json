@@ -589,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T17:51:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:52:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses using PowerShell with the TFS 2013 API, which is relevant to software development practices, specifically in the context of software development tools and automation techniques.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on using the TFS 2013 API with PowerShell to manipulate global lists, which is a specific software development task. It discusses coding practices, such as creating reusable functions and handling XML data, which aligns with best practices in software development. However, while it provides a detailed explanation of the code and its functionality, it lacks broader discussions on methodologies or frameworks that guide the software development lifecycle, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1060,11 +1063,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T17:51:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:26:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring a system by using PowerShell to interact with the TFS 2013 API for managing global lists, which aligns with the processes involved in system configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on using PowerShell to interact with the TFS 2013 API for configuring global lists, which aligns well with system configuration practices. It discusses specific methods for exporting, editing, and importing configurations, demonstrating a clear understanding of configuration management. The depth of the discussion is substantial, providing detailed code examples and explanations of the process. However, while it is relevant to system configuration, it does not cover broader topics such as optimisation strategies or security considerations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {

@@ -340,12 +340,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:43:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of Windows Vista Service Pack 2, which is a relevant update in the technology field, but it primarily focuses on personal experiences and opinions regarding the operating system rather than providing a comprehensive review or analysis.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the release of Windows Vista Service Pack 2, which aligns with the category of industry news. However, the focus is primarily on personal experiences and opinions regarding the performance of Vista compared to Windows 7, rather than providing a comprehensive review or analysis of the update's impact on Agile, DevOps, or technology trends. While it mentions a relevant update, the depth of discussion is limited to personal anecdotes and lacks broader industry relevance.",
+    "level": "Quaternary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1165,12 +1168,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:08:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues with using Windows Vista and the hope that Service Pack 2 will resolve some of these problems, indicating a focus on troubleshooting potential software performance issues.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to Windows Vista and mentions the release of Service Pack 2, which could imply troubleshooting efforts. However, it lacks a focused discussion on diagnosing or resolving specific technical problems, and instead leans more towards personal experiences and opinions about the operating system's performance. The depth of troubleshooting methodologies or systematic problem-solving is minimal, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Experimentation": {
     "category": "Experimentation",

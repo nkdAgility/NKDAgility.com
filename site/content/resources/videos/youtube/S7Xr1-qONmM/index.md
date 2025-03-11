@@ -32,12 +32,12 @@ tags:
 - Scrum Product Development
 - Agile Project Management
 - Product Owner
-- Professional Scrum
 - Agile Frameworks
 - Pragmatic Thinking
 - Software Development
 - Team Collaboration
 - Agile Product Management
+- Decision Making
 resourceTypes:
 - video
 categories:

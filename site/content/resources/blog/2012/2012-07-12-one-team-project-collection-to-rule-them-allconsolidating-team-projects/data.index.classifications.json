@@ -358,11 +358,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T20:16:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the migration and consolidation of Team Projects within Team Foundation Server, which is a key aspect of managing the application lifecycle, particularly in the deployment and maintenance stages.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the migration and consolidation of Team Projects within the context of Team Foundation Server (TFS), which is a tool used in Application Lifecycle Management. It explicitly mentions processes related to application lifecycle stages such as migration (development and deployment) and addresses governance through the use of a single Process Template. However, while it touches on relevant ALM practices, the depth of discussion on broader ALM principles and metrics is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -493,11 +496,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T21:56:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:59:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses techniques and strategies related to the consolidation of Team Projects and Process Templates within Team Foundation Server, which aligns closely with operational practices aimed at improving efficiency in project management processes.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the consolidation of Team Projects and the migration process within the context of Team Foundation Server (TFS), which aligns well with operational practices aimed at improving efficiency and streamlining workflows. It provides detailed insights into the strategies and techniques used for process optimisation, such as the use of the TFS Integration Platform and specific configurations for migrating work items and source control. The depth of discussion is significant, covering troubleshooting and best practices, which further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Scrum Team": {

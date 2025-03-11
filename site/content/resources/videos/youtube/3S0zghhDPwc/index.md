@@ -32,6 +32,7 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Software Developers
+- Team Performance
 resourceTypes:
 - video
 layout: video

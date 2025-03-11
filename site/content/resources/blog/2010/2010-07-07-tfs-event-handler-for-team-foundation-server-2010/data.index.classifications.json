@@ -214,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:05:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the reworking of TFS Event Handlers, which relates to engineering practices and methodologies in software development, but it primarily focuses on specific implementation details rather than broader principles of technical excellence.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the reworking of the TFS Event Handler, which touches on technical aspects of software development, such as event handling and integration points. However, it lacks a strong focus on broader engineering practices or methodologies that enhance agility, such as TDD or CI/CD. The discussion is primarily about specific features and implementations rather than a comprehensive exploration of technical excellence principles.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -889,12 +892,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:39:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses TFS and event handling, which are related to CI practices, but it mainly focuses on specific event handlers and their implementations without a clear emphasis on Continuous Integration principles or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the TFS Event Handler and its integration capabilities, which are relevant to Continuous Integration practices. However, it primarily focuses on specific event handling and notifications rather than the broader principles and best practices of CI. While there are mentions of build notifications and integration points, the depth of discussion does not fully align with the core themes of Continuous Integration, such as automated testing or CI tools. Therefore, the confidence score reflects a moderate relevance to the CI category.",
+    "level": "Quaternary"
   },
   "Market Share": {
     "category": "Market Share",

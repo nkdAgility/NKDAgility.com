@@ -25,9 +25,9 @@ preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
 duration: 353
 isShort: false
 tags:
+- People and Process
 - Coaching
 - Discovery and Learning
-- People and Process
 - Scrum Master
 - Continuous Learning
 - Practical Techniques and Tooling

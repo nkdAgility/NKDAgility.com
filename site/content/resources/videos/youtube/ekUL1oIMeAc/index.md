@@ -30,10 +30,10 @@ sitemap:
 tags:
 - Product Owner
 - Agile Product Management
-- People and Process
 - Scrum Team
 - Agile Project Management
 - Personal
+- People and Process
 - Sprint Review
 resourceTypes:
 - video

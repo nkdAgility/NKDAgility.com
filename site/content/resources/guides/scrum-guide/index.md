@@ -65,6 +65,7 @@ tags:
 - Scrum Product Development
 - Agile Project Management
 - Scrum Team
+- Transparency
 - Professional Scrum
 - Agile Product Management
 - Software Development

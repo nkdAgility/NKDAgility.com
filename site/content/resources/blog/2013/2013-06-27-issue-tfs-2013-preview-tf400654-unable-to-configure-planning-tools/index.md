@@ -30,8 +30,8 @@ tags:
 - Install and Configuration
 - Troubleshooting
 - System Configuration
-- Software Development
 - Practical Techniques and Tooling
+- Software Development
 - Azure DevOps
 categories:
 - Scrum

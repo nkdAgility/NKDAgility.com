@@ -433,12 +433,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:38:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:54:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses evaluating WCF (Windows Communication Foundation), highlighting its features and potential for web service projects, which relates to the delivery of functional software. However, the focus is more on the evaluation process rather than on working software characteristics or practices specifically.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the evaluation of Windows Communication Framework (WCF) and its potential benefits for web service projects, which aligns with the concept of working software. However, it lacks explicit discussions on Agile or Scrum principles, and the focus is more on the technology itself rather than on delivering functional software that meets user needs. The depth of discussion is moderate, providing some insights into the features and advantages of WCF, but it does not delve deeply into best practices or customer feedback mechanisms.",
+    "level": "Quaternary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -541,12 +544,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T16:38:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:19:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content primarily discusses Windows Communication Foundation (WCF), which is related to the Windows operating system and its .NET Framework components. While WCF is significant in Windows development, the broader focus on evaluating WCF suggests that Windows is a major but secondary theme in this discussion.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Windows Communication Foundation (WCF), which is related to the Windows environment, but it primarily focuses on the evaluation of WCF as a technology rather than on Windows itself. While there are mentions of Windows Vista and the .NET Framework, the discussion does not delve deeply into installation, configuration, or troubleshooting of the Windows operating system. The content is more about software development and its implications rather than providing insights on managing or utilising the Windows OS.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",

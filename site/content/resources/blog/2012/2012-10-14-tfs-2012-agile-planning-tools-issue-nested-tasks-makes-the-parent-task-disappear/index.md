@@ -29,16 +29,16 @@ aliasesArchive:
 - /blog/tfs-2012-agile-planning-tools-issue---nested-tasks-makes-the-parent-task-disappear
 - /resources/blog/tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
 tags:
+- Product Backlog
 - Agile Planning Tools
 - Practical Techniques and Tooling
 - Agile Planning
-- Agile Product Operating Model
 - Agile Project Management
-- Product Backlog
 - Scrum Product Development
 - Agile Frameworks
 - Azure Boards
 - Backlog Refinement
+- Product Owner
 categories:
 - Social Technologies
 - Scrum

@@ -580,11 +580,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T19:15:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:13:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content is primarily focused on creating a .NET application to manage Active Directory permissions, discussing coding practices and challenges involved in software development.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific software development issue related to managing Active Directory permissions through a .NET application. It includes code snippets and describes the problem-solving process, which aligns with software development practices. However, it lacks broader discussions on methodologies or frameworks, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -1108,11 +1111,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T19:15:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:48:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical issue encountered when trying to delete access control entries (ACLs) for dead Active Directory accounts, including a description of the problem, the relevant code, and efforts to resolve the issue.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific technical issue related to removing ACLs for dead Active Directory accounts, which aligns with troubleshooting. It describes the problem encountered with .NET code and provides a code snippet, indicating an attempt to diagnose and resolve the issue. However, while the problem is clearly identified, the depth of the troubleshooting methodology and resolution strategies is somewhat limited, focusing primarily on the issue without extensive exploration of broader troubleshooting techniques or tools.",
     "level": "Secondary"
   },
   "Entrepreneurship": {

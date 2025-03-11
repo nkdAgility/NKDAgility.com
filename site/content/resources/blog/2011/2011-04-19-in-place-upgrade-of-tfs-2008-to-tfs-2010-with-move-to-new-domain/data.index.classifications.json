@@ -349,11 +349,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T23:27:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade and migration processes of Team Foundation Server (TFS), which are integral parts of managing the application lifecycle, including deployment and maintenance stages.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS), which is a critical aspect of Application Lifecycle Management (ALM). It discusses stages such as deployment and maintenance, providing detailed steps and best practices for managing the upgrade and migration of TFS. The content aligns well with the core themes of ALM, particularly in terms of governance and compliance during the upgrade process. However, it lacks broader discussions on metrics, KPIs, and risk management strategies, which slightly lowers the depth of discussion.",
     "level": "Secondary"
   },
   "One Engineering System (1ES)": {
@@ -793,11 +796,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:18:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses practical problem-solving strategies for upgrading Team Foundation Server (TFS) within a real-world context, including pitfalls and step-by-step procedures that emphasize application over theory.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on upgrading Team Foundation Server (TFS) and moving it to a new domain, which aligns with pragmatic thinking by focusing on practical problem-solving strategies in a real-world context. It discusses specific actions taken to navigate the complexities of the upgrade process, including warnings and best practices, demonstrating adaptability and critical thinking. However, while it is rich in practical application, it lacks broader discussions on Agile or Scrum principles, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

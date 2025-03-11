@@ -100,11 +100,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:15:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a custom proxy class in .NET, which relates to practical techniques in software development, but it does not primarily focus on Agile or DevOps methodologies or tooling.",
+    "final_score": 57.0,
+    "reasoning": "The content provides a practical example of creating a custom proxy class in .NET, which aligns with the category's focus on practical techniques and tooling. However, it lacks broader discussions on Agile or DevOps methodologies, limiting its depth and overall alignment with the category's key topics. The mention of Visual Studio and the specific coding example contributes to the practical aspect, but the content does not explore tool selection, integration, or best practices in a comprehensive manner.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -217,12 +220,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:50:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses creating a custom proxy class in .NET, which touches on code maintainability and the implications of interface changes, but it primarily focuses on implementation rather than a broader discussion of code quality and complexity.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on creating a custom proxy class in .NET, which is a specific coding task. While it touches on maintainability, it lacks a broader discussion on the complexities of software development processes or the principles of code quality. The mention of maintainability is brief and does not delve into the relationship between code quality and complexity, which is central to the category. Overall, the content does not sufficiently explore the key topics outlined in the category description.",
+    "level": "Quaternary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",

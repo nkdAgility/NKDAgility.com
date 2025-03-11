@@ -36,7 +36,6 @@ tags:
 - Troubleshooting
 - Practical Techniques and Tooling
 - Azure DevOps
-- Technical Mastery
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-3-3.png

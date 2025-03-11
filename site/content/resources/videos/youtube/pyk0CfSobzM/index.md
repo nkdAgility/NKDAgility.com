@@ -31,11 +31,11 @@ tags:
 - Estimation
 - Scrum Product Development
 - Scrum Team
+- Software Development
 - Scrum Master
 - Agile Planning
 - Agile Project Management
 - Pragmatic Thinking
-- Software Development
 - Agile Frameworks
 - Agile Product Management
 resourceTypes:

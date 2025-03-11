@@ -385,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:31:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:34:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical practices related to migrating data using the TFS Integration Platform, including code snippets, configuration, and setup of a custom adapter, which aligns with technical mastery in software engineering.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating data from FogBugz to TFS 2012, detailing the setup of a development environment, the creation of a custom adapter, and the intricacies of data mapping and import processes. It discusses best practices in software engineering, such as the importance of maintaining clean code and the implications of state management in TFS, which aligns well with the principles of software craftsmanship. The depth of discussion is significant, providing detailed steps and code examples, which further supports its classification under Technical Mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -793,11 +796,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T21:31:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:59:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on practical problem-solving strategies for migrating data between two systems (FogBugz and TFS) using a custom adapter, which aligns with pragmatic thinking within Agile and DevOps environments. It provides real-world examples, detailed steps, and considerations for handling complexities, making it central to the topic.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the practical aspects of migrating data from FogBugz to TFS 2012, detailing specific steps, tools, and considerations involved in the process. It discusses real-world applications of TFS Integration Platform and highlights practical problem-solving strategies, such as setting up a development environment and configuring adapters. However, while it aligns with pragmatic thinking, it lacks a broader discussion on Agile or Scrum principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

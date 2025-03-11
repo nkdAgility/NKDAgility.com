@@ -952,12 +952,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:47:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting to SQL Server and managing Service Principal Names (SPNs), which relates to software engineering practices and server configuration. However, the primary focus is on troubleshooting specific connectivity issues rather than a broader technical mastery of software development principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the technical process of connecting to SQL Server and managing Service Principal Names (SPNs). While it touches on a specific technical task, it lacks broader discussions on software craftsmanship, best practices, or principles of clean code. The focus is more on a practical implementation rather than a deep exploration of technical mastery concepts.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1087,12 +1090,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:13:15",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses logging into a SQL Server using Windows Authentication, which pertains to Windows in a secondary capacity. However, the primary focus is on SQL Server configurations and not directly on Windows operating system features.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses connecting to SQL Server using Windows Authentication, which is a specific feature of the Windows operating system. However, the primary focus is on SQL Server and its configuration rather than on Windows itself. While there are mentions of Windows Authentication and the use of SPNs (Service Principal Names), the discussion does not delve deeply into Windows installation, configuration, or troubleshooting. Therefore, while there is some relevance to the Windows category, it is not the primary focus of the content.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",

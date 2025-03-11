@@ -33,6 +33,7 @@ tags:
 - Resilience and Change
 - Pragmatic Thinking
 - Sensemaking
+- Organisational Change
 - Product Strategy
 - Decision Making
 resourceTypes:

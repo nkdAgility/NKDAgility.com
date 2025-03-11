@@ -37,8 +37,8 @@ tags:
 - Discovery and Learning
 - Pragmatic Thinking
 - Empirical Process Control
-- Metrics and Learning
 - Customer Feedback Loops
+- Metrics and Learning
 resourceTypes:
 - video
 categories:

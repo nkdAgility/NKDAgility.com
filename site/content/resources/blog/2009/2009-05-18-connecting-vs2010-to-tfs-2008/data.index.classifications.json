@@ -586,11 +586,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:09:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which relates to version control systems and collaborative development practices, making it a major but secondary theme within the broader context of software development.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which is relevant to version control and collaborative development practices. However, while it touches on a specific aspect of software development, it lacks a broader discussion of methodologies or best practices. The depth of technical detail is limited, focusing more on the connection process rather than the implications or methodologies behind it.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -622,12 +625,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:43:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which involves source control aspects. However, it does not delve deeply into modern source control practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses connecting Visual Studio 2010 to Team Foundation Server 2008, which is a specific implementation of a version control system. However, it lacks a broader discussion on modern source control practices, methodologies, or strategies. While it mentions TFS, it does not delve into key topics such as branching strategies, code review processes, or collaboration workflows, which are essential for a higher confidence score in this category.",
+    "level": "Quaternary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",

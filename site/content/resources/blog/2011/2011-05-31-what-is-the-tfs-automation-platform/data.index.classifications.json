@@ -295,12 +295,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T23:17:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:38:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform, which is closely related to Azure DevOps services, particularly Team Foundation Server (TFS). It covers automation solutions within TFS, which aligns with Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the TFS Automation Platform, which is a component of Azure DevOps (formerly known as Team Foundation Server). It provides insights into automation within TFS, which aligns with Azure DevOps functionalities. However, the focus is primarily on the automation aspect rather than a comprehensive overview of Azure DevOps services or best practices. While it mentions TFS features and automation scenarios, it lacks broader discussions on CI/CD, project management, or integration with other Azure DevOps tools, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
@@ -385,11 +388,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T23:53:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:03:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the TFS Automation Platform's architecture, design principles, and methodologies for automating processes within Team Foundation Server, which are central to technical excellence in software engineering.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the TFS Automation Platform, focusing on its architecture, features, and the development of automation solutions. It aligns with the category of Technical Mastery by detailing best practices in software design, principles of clean code, and the role of automation in improving software quality. However, while it provides substantial detail on the technical aspects, it lacks a broader discussion on methodologies or principles that contribute to high-quality software development, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {

@@ -29,14 +29,14 @@ sitemap:
   priority: 0.6
 tags:
 - Flow Efficiency
+- Throughput
 - Agile Project Management
 - Agile Transformation
 - Operational Practices
 - Pragmatic Thinking
-- Software Development
-- Throughput
 - Agile Frameworks
 - Lean Thinking
+- Software Development
 - People and Process
 resourceTypes:
 - video

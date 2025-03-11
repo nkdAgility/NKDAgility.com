@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T18:59:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:30:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an error related to Team Foundation Server builds, which is a key aspect of software development practices, particularly in the context of CI/CD and version control systems.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses a specific error encountered during a build process in Team Foundation Server (TFS), which is a tool used in software development. It provides detailed information about the error message, its potential causes, and a solution involving the management of build controllers and custom assemblies. This aligns well with the Software Development category, particularly in the context of Continuous Integration practices and version control systems. The depth of the discussion is significant, as it includes technical details and steps to resolve the issue, demonstrating a strong focus on software engineering practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -892,12 +895,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T19:00:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:55:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an error encountered during a build process in Team Foundation Server, which is directly related to Continuous Integration practices. It addresses issues with build definitions and the management of custom assemblies, which are key aspects of CI workflows.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses an error related to initializing a build in Team Foundation Server, which is relevant to Continuous Integration practices. It mentions the need to manage build controllers and custom assemblies, which aligns with CI principles. However, the discussion is primarily focused on troubleshooting a specific error rather than exploring broader CI concepts or best practices, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Market Share": {
     "category": "Market Share",

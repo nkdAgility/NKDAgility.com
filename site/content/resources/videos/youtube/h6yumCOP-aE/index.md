@@ -38,11 +38,11 @@ tags:
 - Pragmatic Thinking
 - Team Performance
 - Working Agreements
-- Agile Project Management
 - Strategy
+- Team Motivation
+- Agile Project Management
 - Self Organisation
 - Sociotechnical Systems
-- Software Development
 resourceTypes:
 - video
 categories:

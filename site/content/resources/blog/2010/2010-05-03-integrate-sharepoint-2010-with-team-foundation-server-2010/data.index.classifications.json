@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:54:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:40:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration process between SharePoint 2010 and Team Foundation Server 2010, covering specific configurations related to software development tools, which aligns with software development practices.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed guide on integrating SharePoint 2010 with Team Foundation Server 2010, which is a specific software development practice. It discusses installation steps, configuration settings, and the implications of these integrations on project management and collaboration, aligning well with the Software Development category. The depth of discussion is significant, covering various technical aspects and configurations necessary for successful integration, thus demonstrating a strong focus on software engineering practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -1114,11 +1117,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T12:05:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "While the primary focus of the content is on integrating SharePoint with Team Foundation Server, it explicitly discusses the installation and configuration processes on Windows operating systems, particularly Windows 7 and server OS. Therefore, Windows is a significant theme but not the sole focus.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which involves Windows operating systems, particularly Windows 7 and Server OS. While it mentions Windows in the context of installation and configuration, the focus is more on SharePoint and TFS rather than on Windows itself. The content does not delve deeply into Windows-specific troubleshooting, updates, or performance optimisation, which are key themes of the Windows category. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {

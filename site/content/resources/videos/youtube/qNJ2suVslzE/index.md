@@ -31,10 +31,10 @@ tags:
 - Organisational Agility
 - Product Delivery
 - Value Delivery
+- Pragmatic Thinking
 - Agile Product Operating Model
 - People and Process
 - Agile Values and Principles
-- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

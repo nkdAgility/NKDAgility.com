@@ -244,12 +244,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T21:24:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:10:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and the role of an Agile coach, which are relevant to product delivery, but it primarily focuses on the comparison between a Scrum Master and an Agile Coach rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of an Agile coach and their experience in implementing Agile practices, which relates to product delivery methodologies. However, it lacks direct mentions of specific product delivery processes or practices, making it more of a secondary discussion rather than a primary focus on product delivery.",
+    "level": "Quaternary"
   },
   "AI": {
     "category": "AI",
@@ -271,11 +274,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T21:24:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T11:33:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the roles and experiences of Scrum Masters and Agile Coaches, focusing on human factors and their impact on Agile practices within organisations.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the roles of a Scrum Master and an Agile Coach, highlighting their experiences and the human factors involved in implementing Agile practices. It touches on team dynamics and the importance of leadership in fostering effective processes, aligning well with the category. However, it lacks detailed exploration of specific methodologies or strategies for improving team collaboration and communication, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Test Driven Development": {

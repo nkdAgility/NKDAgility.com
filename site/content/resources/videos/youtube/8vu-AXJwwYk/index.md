@@ -30,9 +30,9 @@ tags:
 - People and Process
 - Change Management
 - Organisational Agility
-- Organisational Physics
 - Sociotechnical Systems
 - Resilience and Change
+- Organisational Physics
 - Transparency and Accountability
 - Organisational Culture
 sitemap:

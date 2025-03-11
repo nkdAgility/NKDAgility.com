@@ -25,12 +25,7 @@ aliasesArchive:
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 tags:
-- Team Collaboration
-- Team Performance
-- Personal
 - People and Process
-- Miscellaneous
-- Team Motivation
 
 ---
 Get yours [here](http://www.doolwind.com/index.php?page=11 "Programmer Personality Test").

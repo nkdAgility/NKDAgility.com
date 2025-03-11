@@ -27,13 +27,13 @@ aliasesArchive:
 - /blog/what's-new-in-visual-studio-2013-and-tfs-2013-rc
 - /resources/blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 tags:
+- Software Development
 - News and Reviews
 - Modern Source Control
-- Software Development
-- Collaboration Tools
 - Agile Planning Tools
 - Practical Techniques and Tooling
 - Azure DevOps
+- Collaboration Tools
 categories:
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-13-13.png

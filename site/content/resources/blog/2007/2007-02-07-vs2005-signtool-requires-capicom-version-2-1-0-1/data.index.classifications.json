@@ -388,11 +388,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T12:18:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses an error related to SignTool, which is a Windows utility, and includes installation steps that involve the Windows operating system's directory and commands.",
+    "final_score": 73.0,
+    "reasoning": "The content primarily discusses an error related to the SignTool and CAPICOM, which are components associated with the Windows operating system. It provides a step-by-step guide for resolving a specific issue that involves Windows system directories and commands. However, while it mentions Windows-related actions, the focus is more on a specific error and its resolution rather than a broader discussion of Windows installation, configuration, or troubleshooting. Therefore, while it aligns with the Windows category, it does not delve deeply into the core themes of the category.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -469,11 +472,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:53:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides detailed instructions on configuring the environment for SignTool by installing the proper version of CAPICOM, including steps for file management and registry registration, which are central to system configuration.",
+    "final_score": 65.0,
+    "reasoning": "The content directly addresses a specific error related to the configuration of the SignTool and the required CAPICOM version, which falls under system configuration. It provides a step-by-step guide for resolving the issue, demonstrating practical application and depth in the configuration process. However, while it is focused on a specific configuration issue, it does not explore broader themes such as optimisation strategies or security considerations, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {

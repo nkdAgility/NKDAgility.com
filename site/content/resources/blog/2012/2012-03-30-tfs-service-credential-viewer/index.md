@@ -23,8 +23,8 @@ aliasesArchive:
 - /tfs-service-credential-viewer
 - /resources/blog/tfs-service-credential-viewer
 tags:
-- Troubleshooting
 - Install and Configuration
+- Troubleshooting
 - Windows
 - Practical Techniques and Tooling
 - Products and Books

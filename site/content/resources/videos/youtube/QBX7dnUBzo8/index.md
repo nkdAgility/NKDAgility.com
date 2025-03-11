@@ -30,9 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Organisational Agility
 - Enterprise Agility
-- People and Process
 - Systems Thinking
 - Agile Frameworks
 - Agile Leadership

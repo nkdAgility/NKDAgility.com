@@ -29,6 +29,7 @@ sitemap:
   priority: 0.6
 tags:
 - Miscellaneous
+- Coaching
 resourceTypes:
 - video
 categories: []

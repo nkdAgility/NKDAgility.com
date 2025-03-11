@@ -211,12 +211,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T12:06:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses new features and improvements in Visual Studio 2010, Silverlight 4, and ASP.NET MVC 2, which relate to engineering practices and methodologies. However, the primary focus is on product features rather than a deep exploration of technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses new features and improvements in Visual Studio 2010, Silverlight 4, ASP.NET MVC 2, and Windows Phone 7. While it touches on some technical aspects, such as validation rules and TDD in relation to MVC, the overall focus is more on product announcements and personal opinions rather than a deep exploration of engineering practices or methodologies that enhance technical excellence. The discussion lacks a structured approach to the principles of agile engineering practices, which diminishes its alignment with the category.",
+    "level": "Quaternary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1210,12 +1213,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-11T10:41:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses new features and tools relevant to software development such as Visual Studio 2010, Silverlight 4, and ASP.NET MVC 2, which are important to software developers. However, it does not focus on Agile or DevOps practices specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scott Guthrie's talks on various Microsoft technologies, including Visual Studio, Silverlight, and ASP.NET MVC. While it touches on topics relevant to software development, such as features and improvements in development tools, it lacks a direct focus on Agile or DevOps methodologies. The discussion is more about specific technologies rather than the role of software developers within Agile and DevOps frameworks, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",

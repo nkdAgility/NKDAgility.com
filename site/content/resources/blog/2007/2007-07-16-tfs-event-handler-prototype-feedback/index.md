@@ -27,11 +27,10 @@ tags:
 - Install and Configuration
 - Product Validation
 - Practical Techniques and Tooling
-- System Configuration
 - Customer Satisfaction
 - Software Development
 - Troubleshooting
-- Working Software
+- System Configuration
 categories: []
 preview: metro-merilllynch-128-link-1-1.png
 

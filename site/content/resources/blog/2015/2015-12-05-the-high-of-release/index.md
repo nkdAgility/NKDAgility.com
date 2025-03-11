@@ -25,10 +25,10 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Events and Presentations
+- News and Reviews
 - Azure DevOps
 - Azure Pipelines
 - Release Management
-- News and Reviews
 - Software Developers
 - Software Development
 - Frequent Releases

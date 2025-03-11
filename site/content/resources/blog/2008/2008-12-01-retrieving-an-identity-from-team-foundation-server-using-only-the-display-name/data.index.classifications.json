@@ -442,11 +442,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T18:01:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-11T10:44:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides detailed technical explanations and code examples related to retrieving identities from Team Foundation Server (TFS). It discusses specific methods, interfaces, and best practices for handling user and group identities, which align closely with software craftsmanship and engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on a technical implementation related to Team Foundation Server (TFS) and retrieving user identities, which aligns with software engineering practices. However, while it discusses specific coding techniques and methods, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The depth of technical detail is present, but it does not fully explore the overarching themes of technical mastery as defined in the category.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -697,11 +700,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T18:01:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-11T12:10:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the retrieval of user identities from Team Foundation Server (TFS), which is intricately tied to the Windows environment and specific functionalities related to Windows components such as Active Directory. However, TFS itself is not a Windows OS topic; thus, while Windows is a significant theme due to the tools' integration, the focus may be more on TFS operations rather than direct Windows OS management.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses retrieving identities from Team Foundation Server (TFS) and involves programming and Active Directory, which are not strictly related to the Windows operating system itself. While there are mentions of Windows-related services (like Active Directory), the focus is more on TFS and its functionalities rather than on Windows installation, configuration, or troubleshooting. Therefore, the confidence score reflects a moderate alignment with the Windows category, but it does not meet the criteria for a primary focus.",
     "level": "Secondary"
   },
   "Product Strategy": {

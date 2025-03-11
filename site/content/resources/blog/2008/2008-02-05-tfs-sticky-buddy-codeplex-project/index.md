@@ -24,12 +24,11 @@ aliasesArchive:
 - /resources/blog/tfs-sticky-buddy-codeplex-project
 tags:
 - Software Development
-- Team Collaboration
-- Operational Practices
 - Transparency
 - Practical Techniques and Tooling
 - Collaboration Tools
 - Application Lifecycle Management
+- Team Collaboration
 categories:
 - Social Technologies
 preview: metro-binary-vb-128-link-1-1.png

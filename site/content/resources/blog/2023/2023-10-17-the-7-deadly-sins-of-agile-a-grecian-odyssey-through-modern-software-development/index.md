@@ -31,11 +31,11 @@ tags:
 - Software Development
 - People and Process
 - Agile Philosophy
-- Agile Strategy
 - Agile Values and Principles
 - Agile Project Management
-- Software Developers
+- Agile Strategy
 - Agile Transformation
+- Software Developers
 - Agile Frameworks
 categories:
 - Social Technologies

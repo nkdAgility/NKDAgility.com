@@ -32,11 +32,11 @@ sitemap:
 tags:
 - Agile Values and Principles
 - People and Process
+- Personal
 - Transparency and Accountability
+- Miscellaneous
 - Customer Satisfaction
 - Agile Philosophy
-- Miscellaneous
-- Personal
 - Pragmatic Thinking
 resourceTypes:
 - video

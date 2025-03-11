@@ -38,10 +38,10 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - People and Process
-- Team Performance
 - Agile Product Management
 - Software Development
 - Personal
+- Scrum Master
 resourceTypes:
 - video
 categories:
