@@ -31,6 +31,7 @@ sitemap:
 tags:
 - Business Agility
 - Market Adaptability
+- People and Process
 - Organisational Agility
 - Agile Strategy
 - Strategy
@@ -38,7 +39,6 @@ tags:
 - Enterprise Agility
 - Agile Frameworks
 - Agile Planning
-- Agile Project Management
 resourceTypes:
 - video
 categories:

@@ -39,7 +39,7 @@ tags:
 - Metrics and Learning
 - Operational Practices
 - People and Process
-- Empirical Process Control
+- Value Delivery
 resourceTypes:
 - video
 categories:

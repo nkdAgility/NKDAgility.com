@@ -29,10 +29,10 @@ categories:
 - Scrum
 - Product Management
 tags:
+- Agile Project Management
 - Scrum Product Development
 - Working Agreements
 - Agile Planning
-- Agile Project Management
 - Transparency
 - Agile Product Management
 - Transparency and Accountability

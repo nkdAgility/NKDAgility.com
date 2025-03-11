@@ -27,9 +27,9 @@ isShort: false
 tags:
 - Technical Mastery
 - Software Development
-- Engineering Practices
 - Technical Excellence
 - Technical Leadership
+- Engineering Practices
 - Pragmatic Thinking
 - Technical Debt
 - People and Process

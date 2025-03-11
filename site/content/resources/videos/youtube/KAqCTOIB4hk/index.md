@@ -30,16 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
-- People and Process
 - Metrics and Learning
-- Change Management
-- Ability to Innovate
-- Continuous Learning
-- Evidence Based Management
-- Pragmatic Thinking
-- Agile Product Management
-- Coaching
 resourceTypes:
 - video
 categories:

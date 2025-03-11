@@ -29,9 +29,9 @@ tags:
 - Complexity Thinking
 - Pragmatic Thinking
 - Code and Complexity
+- Continuous Delivery
 - People and Process
 - Product Delivery
-- Continuous Delivery
 - Engineering Practices
 - Software Developers
 - Technical Excellence

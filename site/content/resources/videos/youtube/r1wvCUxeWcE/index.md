@@ -30,8 +30,8 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Agile Frameworks
-- Agile Project Management
 - Lean Thinking
+- Agile Project Management
 - Flow Efficiency
 - Lean Principles
 sitemap:

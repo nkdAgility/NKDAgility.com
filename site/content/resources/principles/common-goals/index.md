@@ -27,9 +27,9 @@ categories:
 tags:
 - Scrum Product Development
 - Scrum Team
-- Strategic Goals
 - Professional Scrum
 - Strategy
+- Strategic Goals
 - People and Process
 - Team Motivation
 - Agile Planning

@@ -25,10 +25,10 @@ isShort: false
 tags:
 - Software Development
 - Pragmatic Thinking
+- Technical Mastery
 - Software Developers
 - Practical Techniques and Tooling
 - Azure DevOps
-- Technical Mastery
 - Engineering Practices
 - Technical Excellence
 - Operational Practices

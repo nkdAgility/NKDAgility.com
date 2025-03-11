@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - Value Delivery
+- Pragmatic Thinking
 - Flow Efficiency
 - Strategy
 - Transparency
@@ -40,7 +41,6 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Lean Principles
-- Lean Thinking
 resourceTypes:
 - video
 categories:

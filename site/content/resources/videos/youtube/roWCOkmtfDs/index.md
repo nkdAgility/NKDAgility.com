@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Validation
 - Hypothesis Driven Development
+- Product Validation
 resourceTypes:
 - video
 categories:

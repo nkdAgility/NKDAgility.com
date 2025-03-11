@@ -28,6 +28,7 @@ isShort: true
 tags:
 - People and Process
 - Organisational Culture
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

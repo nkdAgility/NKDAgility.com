@@ -26,7 +26,6 @@ categories:
 - Scrum
 tags:
 - Agile Planning
-- Software Development
 
 ---
 ## What is a Product Backlog?

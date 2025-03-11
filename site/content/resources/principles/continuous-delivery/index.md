@@ -29,8 +29,8 @@ tags:
 - Product Validation
 - Frequent Releases
 - Product Delivery
-- Working Software
 - Software Development
+- Working Software
 - Agile Product Management
 - Customer Feedback Loops
 - Discovery and Learning
