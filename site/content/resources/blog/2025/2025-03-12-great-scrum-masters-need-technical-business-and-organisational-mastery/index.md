@@ -1,28 +1,37 @@
 ---
 title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
-description: "Explore the essential skills for effective Scrum Masters: technical, business, and organisational mastery to empower teams and drive value in Agile environments."
+description: 'Explore the essential skills for effective Scrum Masters: technical, business, and organisational mastery to empower teams and drive value in Agile environments.'
 ResourceId: dQjKsWR5qfn
 ResourceType: blog
 ResourceImport: false
 date: 2025-03-24T09:00:00
+weight: 245
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
+- name: Nigel Thurlow
+  external: https://www.linkedin.com/in/nigelthurlow/
 layout: blog
 resourceTypes: blog
 slug: great-scrum-masters-need-technical-business-and-organisational-mastery
 aliases:
-  - /resources/dQjKsWR5qfn
+- /resources/dQjKsWR5qfn
 aliasesArchive:
-  - /great-scrum-masters-need-technical-business-and-organisational-mastery
-  - /blog/great-scrum-masters-need-technical-business-and-organisational-mastery
-  - /great-scrum-masters-need-technical--business--and-organisational-mastery
-  - /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
+- /great-scrum-masters-need-technical-business-and-organisational-mastery
+- /blog/great-scrum-masters-need-technical-business-and-organisational-mastery
+- /great-scrum-masters-need-technical--business--and-organisational-mastery
+- /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
 categories:
-  - Scrum
-  - Social Technologies
----
+- Scrum
+- Social Technologies
+tags:
+- Agile Project Management
+- Scrum Team
+- Scrum Master
+- Professional Scrum
+- Scrum Product Development
 
+---
 One of the most common debates in the Scrum community is whether a Scrum Master needs technical skills. While the Scrum Guide does not explicitly require technical knowledge, the reality of working with a Scrum Team suggests otherwise. A Scrum Master must be an effective _Teacher, Mentor, Coach, and Facilitator_, which requires a deep understanding of the team's work, the business they operate in, and the organisation they are navigating.
 
 Technical skills, in this context, mean mastery of the tools, techniques, and practices relevant to the domain in which the team operates. If a team is developing medical devices, the Scrum Master should understand the regulatory and quality requirements of that field. If they are working in industrial design, they need familiarity with prototyping, material constraints, and production processes. If they are developing software, they should understand software development practices, including Continuous Delivery, Test First, and DevOps principles. Without this domain knowledge, how can they effectively help the team deliver value?
