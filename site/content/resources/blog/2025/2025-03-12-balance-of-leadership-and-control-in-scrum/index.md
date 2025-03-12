@@ -48,13 +48,13 @@ Product Owners and Scrum Masters lead through influence but must assert authorit
 
 ### Context Dictates Authority
 
-The authority weilded by the Product Owner is more widley recognised and achnologed, so why not the Scrum Master?
+The authority wielded by the Product Owner is more widely recognised and acknowledged, so why not the Scrum Master?
 
 The Scrum Master is accountable for the Scrum Team's effectiveness. This accountability demands both leadership and, within the right context, a degree of authority. While some argue that a Scrum Master should have no direct authority, this ignores the reality that influence alone is often insufficient to drive change in certain organisational contexts.
 
 The argument against Scrum Masters having authority is often based on a misunderstanding of self-management. According to the Scrum Guide, self-managing teams decide who does what, when, and how. However, this autonomy is bounded by Scrum events, commitments, and organisational needs. The key is the freedom to decide how to deliver value—without ignoring accountability, strategy, or constraints.
 
-In practice, the level of authority a Scrum Master should exercise depends on the organisational landscape. In a command-heavy environment, excessive control leads to blind obedience, stifling self-management. Conversely, a leadership-heavy approach without structure creates chaos. The Scrum Master must navigate this balance, adapting to the constraints of the organisation while continuously working to remove impediments to the team's effectiveness. The organisational constraints being the very things that may be  reducing the effectivenss of the Scrum Team.
+In practice, the level of authority a Scrum Master should exercise depends on the organisational landscape. In a command-heavy environment, excessive control leads to blind obedience, stifling self-management. Conversely, a leadership-heavy approach without structure creates chaos. The Scrum Master must navigate this balance, adapting to the constraints of the organisation while continuously working to remove impediments to the team's effectiveness. The organisational constraints being the very things that may be  reducing the effectiveness of the Scrum Team.
 
 ### The Duality of Leadership and Control
 
