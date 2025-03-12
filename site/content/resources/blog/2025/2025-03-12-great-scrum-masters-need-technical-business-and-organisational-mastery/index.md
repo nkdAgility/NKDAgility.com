@@ -1,16 +1,26 @@
 ---
 title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
+description: "Explore the essential skills for effective Scrum Masters: technical, business, and organisational mastery to empower teams and drive value in Agile environments."
+ResourceId: dQjKsWR5qfn
 ResourceType: blog
 ResourceImport: false
 date: 2025-03-24T09:00:00
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-  - name: Nigel Thurlow
-    external: https://www.linkedin.com/in/nigelthurlow/
 layout: blog
 resourceTypes: blog
 slug: great-scrum-masters-need-technical-business-and-organisational-mastery
+aliases:
+  - /resources/dQjKsWR5qfn
+aliasesArchive:
+  - /great-scrum-masters-need-technical-business-and-organisational-mastery
+  - /blog/great-scrum-masters-need-technical-business-and-organisational-mastery
+  - /great-scrum-masters-need-technical--business--and-organisational-mastery
+  - /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
+categories:
+  - Scrum
+  - Social Technologies
 ---
 
 One of the most common debates in the Scrum community is whether a Scrum Master needs technical skills. While the Scrum Guide does not explicitly require technical knowledge, the reality of working with a Scrum Team suggests otherwise. A Scrum Master must be an effective _Teacher, Mentor, Coach, and Facilitator_, which requires a deep understanding of the team's work, the business they operate in, and the organisation they are navigating.
