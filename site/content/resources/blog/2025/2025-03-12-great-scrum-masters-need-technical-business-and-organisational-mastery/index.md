@@ -8,9 +8,6 @@ date: 2025-03-24T09:00:00
 weight: 245
 AudioNative: true
 creator: Martin Hinshelwood
-contributors:
-  - name: Nigel Thurlow
-    external: https://www.linkedin.com/in/nigelthurlow/
 layout: blog
 resourceTypes: blog
 slug: great-scrum-masters-need-technical-business-and-organisational-mastery
