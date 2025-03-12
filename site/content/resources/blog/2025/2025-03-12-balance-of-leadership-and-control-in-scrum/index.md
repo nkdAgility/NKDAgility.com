@@ -8,32 +8,32 @@ date: 2025-03-17T09:00:00
 weight: 460
 AudioNative: true
 creator: Martin Hinshelwood
-contributors: 
+contributors:
 layout: blog
 resourceTypes: blog
 slug: balance-of-leadership-and-control-in-scrum
 aliases:
-- /resources/UH6M7ujV-kB
+  - /resources/UH6M7ujV-kB
 aliasesArchive:
-- /balance-of-leadership-and-control-in-scrum
-- /blog/balance-of-leadership-and-control-in-scrum
+  - /balance-of-leadership-and-control-in-scrum
+  - /blog/balance-of-leadership-and-control-in-scrum
 categories:
-- Scrum
-- Social Technologies
-- Leadership
+  - Scrum
+  - Social Technologies
+  - Leadership
 tags:
-- Accountability
-- Scrum Product Development
-- Scrum Team
-- Scrum Master
-- Professional Scrum
-- Technical Leadership
-- Agile Product Management
-- People and Process
-- Agile Leadership
-- Team Performance
-
+  - Accountability
+  - Scrum Product Development
+  - Scrum Team
+  - Scrum Master
+  - Professional Scrum
+  - Technical Leadership
+  - Agile Product Management
+  - People and Process
+  - Agile Leadership
+  - Team Performance
 ---
+
 Scrum is built on self-management, yet accountability cannot exist without authority. If Scrum Masters and Product Owners are held responsible for outcomes, how much control should they have? Too much, and teams lose autonomy. Too little, and they become ineffective. This article explores the nuanced balance of leadership, authority, and control in Scrum—how influence must be complemented by decisive action to enable true agility.
 
 **Can One Be Held Accountable for What One Has No Control Over?**
@@ -77,3 +77,8 @@ Scrum Masters must master the art of situational leadership. Some teams require 
 ### Conclusion
 
 Accountability without authority is a flawed concept. The Scrum Master, and the Product Owner, must operate within the context of their organisation, leveraging both influence and, where necessary, the authority to drive meaningful change. The key is not about wielding power but about ensuring the team is empowered while working within the system they are part of, always striving to evolve that system toward greater agility.
+
+#### References:
+
+- [Why Does a Scrum Master Not Have Authority?](https://www.growingscrummasters.com/deploy-improve-scrum/why-does-a-scrum-master-not-have-authority/)
+- [Your Next Scrum Master Should Be Your Manager](https://www.scrum.org/resources/blog/your-next-scrum-master-should-be-your-manager)
