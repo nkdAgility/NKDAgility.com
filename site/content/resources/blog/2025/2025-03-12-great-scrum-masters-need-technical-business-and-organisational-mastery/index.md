@@ -1,6 +1,6 @@
 ---
 title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
-description: 'Explore the essential skills for effective Scrum Masters: technical, business, and organisational mastery to empower teams and drive value in Agile environments.'
+description: "Explore the essential skills for effective Scrum Masters: technical, business, and organisational mastery to empower teams and drive value in Agile environments."
 ResourceId: dQjKsWR5qfn
 ResourceType: blog
 ResourceImport: false
@@ -9,29 +9,29 @@ weight: 245
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-- name: Nigel Thurlow
-  external: https://www.linkedin.com/in/nigelthurlow/
+  - name: Nigel Thurlow
+    external: https://www.linkedin.com/in/nigelthurlow/
 layout: blog
 resourceTypes: blog
 slug: great-scrum-masters-need-technical-business-and-organisational-mastery
 aliases:
-- /resources/dQjKsWR5qfn
+  - /resources/dQjKsWR5qfn
 aliasesArchive:
-- /great-scrum-masters-need-technical-business-and-organisational-mastery
-- /blog/great-scrum-masters-need-technical-business-and-organisational-mastery
-- /great-scrum-masters-need-technical--business--and-organisational-mastery
-- /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
+  - /great-scrum-masters-need-technical-business-and-organisational-mastery
+  - /blog/great-scrum-masters-need-technical-business-and-organisational-mastery
+  - /great-scrum-masters-need-technical--business--and-organisational-mastery
+  - /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
 categories:
-- Scrum
-- Social Technologies
+  - Scrum
+  - Social Technologies
 tags:
-- Agile Project Management
-- Scrum Team
-- Scrum Master
-- Professional Scrum
-- Scrum Product Development
-
+  - Agile Project Management
+  - Scrum Team
+  - Scrum Master
+  - Professional Scrum
+  - Scrum Product Development
 ---
+
 One of the most common debates in the Scrum community is whether a Scrum Master needs technical skills. While the Scrum Guide does not explicitly require technical knowledge, the reality of working with a Scrum Team suggests otherwise. A Scrum Master must be an effective _Teacher, Mentor, Coach, and Facilitator_, which requires a deep understanding of the team's work, the business they operate in, and the organisation they are navigating.
 
 Technical skills, in this context, mean mastery of the tools, techniques, and practices relevant to the domain in which the team operates. If a team is developing medical devices, the Scrum Master should understand the regulatory and quality requirements of that field. If they are working in industrial design, they need familiarity with prototyping, material constraints, and production processes. If they are developing software, they should understand software development practices, including Continuous Delivery, Test First, and DevOps principles. Without this domain knowledge, how can they effectively help the team deliver value?
@@ -67,7 +67,7 @@ In other contexts, like designing hardware, creating movies, or creating financi
 > - Causing the removal of impediments to the Scrum Team’s progress; and,
 > - Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
 >
->   — [The Scrum Master, Scrum Guide](https://scrumguides.org/scrum-guide.html#team-sm)
+>   — [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})
 
 Without technical mastery within the relevant domain, guiding a Scrum Team towards high-value product delivery is challenging.
 
@@ -91,7 +91,7 @@ This includes that the Product Owner is able to:
 > - Helping the Scrum Team understand the need for clear and concise Product Backlog items.
 > - Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value.
 >
-> — [The Scrum Master, Scrum Guide](https://scrumguides.org/scrum-guide.html#team-sm)
+> — [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})
 
 Without business mastery, a Scrum Master cannot effectively support the Product Owner or ensure the team's alignment with business goals.
 
@@ -115,7 +115,7 @@ Key aspects include:
 > - Helping employees and stakeholders understand Scrum and empirical product development.
 > - Causing change that increases the productivity of the Scrum Team.
 >
-> — [The Scrum Master, Scrum Guide](https://scrumguides.org/scrum-guide.html#team-sm)
+> — [The Scrum Master, Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}})
 
 Without organisational mastery, a Scrum Master will struggle to drive lasting, meaningful change within the organisation.
 
@@ -127,6 +127,6 @@ A Scrum Master’s role is not passive; they actively influence the team’s abi
 
 While a Scrum Master can function without deep technical knowledge, they will be far more effective if they understand the _technical, business, and organisational_ context they operate in. Mastery in these three areas allows them to serve their teams better, drive value, and enable true agility within the organisation.
 
-**Scrum Masters don’t need to be coders, but if their team is developing software, they should have mastery in software development as well as whatever domain is relevant to the industry their team operates in.**
+**Scrum Masters don’t need to be coders, but if their team is developing software, they should have mastery in software development as well as whatever domain is relevant to the industry their team operates in.** The [Scrum Master is is not a juniors or entry level]({{< ref "/resources/blog/2025/2025-02-17-no-such-thing-as-a-junior-scrum-master" >}}) activity. They should be experienced professionals with a deep understanding of the three masteries.
 
 While there are no absolute right answers, some answers are better than others. Scrum Masters should continuously seek to deepen their knowledge in all three mastery areas to best serve their teams and organisations.
