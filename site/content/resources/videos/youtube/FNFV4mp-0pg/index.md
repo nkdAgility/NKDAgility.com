@@ -29,13 +29,13 @@ tags:
 - Team Performance
 - Professional Scrum
 - Software Development
+- Self Organisation
 - Agile Leadership
 - Agile Project Management
 - Scrum Team
 - Team Collaboration
 - Agile Frameworks
 - Agile Transformation
-- People and Process
 resourceTypes:
 - video
 categories:

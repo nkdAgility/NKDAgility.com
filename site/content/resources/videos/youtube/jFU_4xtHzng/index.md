@@ -32,8 +32,6 @@ tags:
 - People and Process
 - Discovery and Learning
 - Continuous Learning
-- Pragmatic Thinking
-- Metrics and Learning
 resourceTypes:
 - video
 categories:

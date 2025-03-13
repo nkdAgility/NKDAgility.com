@@ -32,6 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Organisational Agility
+- Agile Frameworks
+- Organisational Change
+- Scrum Team
+- Agile Project Management
+- Agile Transformation
+- Change Management
+- Scrum Product Development
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

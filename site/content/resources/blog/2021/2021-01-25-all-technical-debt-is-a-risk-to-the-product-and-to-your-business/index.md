@@ -34,10 +34,6 @@ tags:
 - Product Delivery
 - Software Development
 - Code and Complexity
-- People and Process
-- Transparency and Accountability
-- Software Developers
-- Value Delivery
 categories:
 - Engineering Excellence
 - Scrum

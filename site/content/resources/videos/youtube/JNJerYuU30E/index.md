@@ -29,6 +29,7 @@ isShort: true
 tags:
 - Personal
 - People and Process
+- Agile Transformation
 - Agile Leadership
 sitemap:
   filename: sitemap.xml

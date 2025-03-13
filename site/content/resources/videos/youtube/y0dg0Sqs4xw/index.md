@@ -29,6 +29,10 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Project Management
+- Pragmatic Thinking
+- Agile Transformation
+- Empirical Process Control
 resourceTypes:
 - video
 categories:

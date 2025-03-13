@@ -34,8 +34,6 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Software Developers
-- Pragmatic Thinking
-- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6

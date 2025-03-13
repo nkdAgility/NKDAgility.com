@@ -36,8 +36,6 @@ tags:
 - Operational Practices
 - Agile Frameworks
 - Lean Thinking
-- Software Development
-- People and Process
 resourceTypes:
 - video
 categories:

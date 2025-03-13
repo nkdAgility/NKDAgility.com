@@ -32,12 +32,6 @@ tags:
 - Coaching
 - Continuous Learning
 - People and Process
-- Personal
-- Agile Transformation
-- Team Collaboration
-- Discovery and Learning
-- Team Motivation
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

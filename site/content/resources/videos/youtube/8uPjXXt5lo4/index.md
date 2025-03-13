@@ -30,9 +30,6 @@ sitemap:
 tags:
 - Personal
 - People and Process
-- Agile Product Management
-- Discovery and Learning
-- Team Collaboration
 resourceTypes:
 - video
 categories:

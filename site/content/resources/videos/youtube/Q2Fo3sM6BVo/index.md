@@ -26,6 +26,14 @@ duration: 891
 isShort: false
 tags:
 - People and Process
+- Agile Product Management
+- Team Performance
+- Software Developers
+- Professional Scrum
+- Team Collaboration
+- Agile Frameworks
+- Agile Project Management
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

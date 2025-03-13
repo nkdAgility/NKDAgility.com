@@ -25,11 +25,6 @@ categories:
 tags:
 - Product Owner
 - Agile Product Management
-- Strategy
-- People and Process
-- Value Delivery
-- Product Strategy
-- Customer Retention
 
 ---
 Over the past few months, we’ve seen mass layoffs from tech giants around the world. From Amazon to Meta, and heaps of smaller organizations across the board.

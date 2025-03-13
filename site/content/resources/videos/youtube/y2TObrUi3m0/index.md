@@ -30,9 +30,6 @@ tags:
 - Agile Philosophy
 - Agile Transformation
 - People and Process
-- Agile Product Management
-- Agile Leadership
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

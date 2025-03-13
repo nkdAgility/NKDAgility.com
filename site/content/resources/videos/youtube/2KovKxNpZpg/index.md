@@ -32,8 +32,6 @@ tags:
 - Agile Transformation
 - Empirical Process Control
 - Software Development
-- Pragmatic Thinking
-- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

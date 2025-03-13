@@ -21,12 +21,7 @@ aliasesArchive:
 categories:
 - Scrum
 - Social Technologies
-tags:
-- People and Process
-- Business Agility
-- Events and Presentations
-- Organisational Agility
-- Market Adaptability
+tags: []
 
 ---
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.

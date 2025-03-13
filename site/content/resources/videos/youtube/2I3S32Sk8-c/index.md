@@ -29,6 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Transparency
+- Software Development
+- Pragmatic Thinking
+- People and Process
+- Software Developers
+- Agile Frameworks
+- Scrum Product Development
+- Scrum Team
+- Scrum Master
+- Team Performance
 resourceTypes:
 - video
 layout: video

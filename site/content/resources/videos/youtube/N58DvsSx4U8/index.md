@@ -34,9 +34,7 @@ tags:
 - Software Development
 - One Engineering System (1ES)
 - People and Process
-- Operational Practices
 - Practical Techniques and Tooling
-- Organisational Agility
 resourceTypes:
 - video
 categories:

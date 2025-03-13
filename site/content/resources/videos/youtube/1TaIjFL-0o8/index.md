@@ -33,7 +33,6 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Leadership
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

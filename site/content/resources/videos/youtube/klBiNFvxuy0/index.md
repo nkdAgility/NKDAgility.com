@@ -29,6 +29,13 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
+- People and Process
+- Professional Scrum
+- Agile Frameworks
+- Scrum Master
+- Agile Transformation
+- Scrum Product Development
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

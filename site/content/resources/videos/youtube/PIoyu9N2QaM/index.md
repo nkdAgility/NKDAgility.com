@@ -38,8 +38,6 @@ tags:
 - Scrum Team
 - Professional Scrum
 - Agile Frameworks
-- Software Development
-- Agile Leadership
 resourceTypes:
 - video
 categories:

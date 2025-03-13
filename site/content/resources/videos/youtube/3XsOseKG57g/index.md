@@ -27,15 +27,11 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Personal
-- People and Process
+tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 ## The Magic of the 4-Day Training Format!

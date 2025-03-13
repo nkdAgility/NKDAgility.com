@@ -40,8 +40,6 @@ tags:
 - People and Process
 - Agile Product Management
 - Software Development
-- Personal
-- Scrum Master
 resourceTypes:
 - video
 categories:

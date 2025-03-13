@@ -41,7 +41,6 @@ tags:
 - Scrum Team
 - Scrum Master
 - Agile Leadership
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

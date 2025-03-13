@@ -28,12 +28,6 @@ tags:
 - Agile Philosophy
 - Value Delivery
 - Pragmatic Thinking
-- Product Discovery
-- Agile Strategy
-- Business Agility
-- Organisational Agility
-- Personal
-- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

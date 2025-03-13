@@ -28,15 +28,13 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Pragmatic Thinking
 - Agile Strategy
 - Agile Transformation
 - Organisational Change
 - Agile Leadership
 - Change Management
-- Pragmatic Thinking
 - Business Agility
-- Organisational Agility
-- Enterprise Agility
 resourceTypes:
 - video
 layout: video

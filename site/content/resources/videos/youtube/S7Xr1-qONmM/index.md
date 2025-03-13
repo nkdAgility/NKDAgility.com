@@ -28,12 +28,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - People and Process
 - Scrum Product Development
 - Agile Project Management
 - Product Owner
 - Pragmatic Thinking
-- Software Development
 - Agile Product Management
 - Product Delivery
 - Agile Frameworks

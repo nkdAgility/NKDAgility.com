@@ -32,9 +32,6 @@ tags:
 - Agile Project Management
 - Team Performance
 - Team Collaboration
-- Software Development
-- Agile Leadership
-- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6
