@@ -373,12 +373,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:20:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses security practices in software development and mentions Azure DevOps in the context of security validation and tools, but it primarily focuses on security principles rather than Azure Pipelines specifically.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the concept of 'shifting left' in software development, which is relevant to quality assurance and continuous delivery practices. However, while it mentions Azure DevOps as a case study, it does not focus specifically on Azure Pipelines or provide detailed insights into pipeline configuration, management, or CI/CD practices within Azure. The primary focus is on general software engineering principles rather than the specific automation processes of Azure Pipelines.",
+    "level": "Quaternary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",

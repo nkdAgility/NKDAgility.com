@@ -29,10 +29,10 @@ categories:
 - Kanban
 tags:
 - Flow Efficiency
+- Operational Practices
 - Lean Principles
 - Lean Thinking
 - People and Process
-- Operational Practices
 - Practical Techniques and Tooling
 - Value Delivery
 

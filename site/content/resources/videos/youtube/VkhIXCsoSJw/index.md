@@ -28,13 +28,13 @@ tags:
 - Continuous Delivery
 - Test Automation
 - Practical Techniques and Tooling
+- Software Developers
 - Technical Excellence
 - Product Delivery
 - Automated Testing
 - Deployment Frequency
 - Pragmatic Thinking
 - Azure DevOps
-- Operational Practices
 resourceTypes:
 - video
 sitemap:

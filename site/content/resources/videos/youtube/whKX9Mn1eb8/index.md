@@ -28,6 +28,7 @@ isShort: true
 tags:
 - Product Delivery
 - Software Development
+- Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
   priority: 0.6

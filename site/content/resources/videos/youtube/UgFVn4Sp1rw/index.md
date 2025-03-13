@@ -31,10 +31,10 @@ tags:
 - Pragmatic Thinking
 - Ability to Innovate
 - Strategy
-- Scrum Product Development
 - Agile Product Operating Model
 - Evidence Based Leadership
 - Agile Product Management
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

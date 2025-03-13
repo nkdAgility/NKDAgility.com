@@ -29,12 +29,12 @@ tags:
 - Product Delivery
 - Software Development
 - Technical Excellence
-- Continuous Delivery
 - Deployment Strategies
 - Azure DevOps
 - Operational Practices
 - Release Management
 - Technical Mastery
+- Customer Satisfaction
 sitemap:
   filename: sitemap.xml
   priority: 0.6

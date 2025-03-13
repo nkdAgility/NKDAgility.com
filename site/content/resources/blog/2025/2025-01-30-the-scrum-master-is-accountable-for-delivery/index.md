@@ -30,13 +30,13 @@ aliasesArchive:
 tags:
 - Accountability
 - Increment
-- Product Delivery
 - Scrum Product Development
 - Software Development
 - Agile Frameworks
 - Agile Project Management
 - Professional Scrum
 - Scrum Master
+- Product Delivery
 - Scrum Team
 categories:
 - Scrum

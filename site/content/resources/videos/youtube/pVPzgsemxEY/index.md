@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Discovery and Learning
 - Organisational Agility
+- Strategy
 resourceTypes:
 - video
 categories:

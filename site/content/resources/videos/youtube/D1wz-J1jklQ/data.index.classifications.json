@@ -319,11 +319,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-12T15:23:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:19:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments, which aligns closely with Continuous Integration principles. It highlights the importance of smaller batch sizes, maintainable code, and the relationship between deployment frequency and technical debt, all of which are central to CI practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of frequent deployments, which is a key aspect of Continuous Integration. It highlights the benefits of smaller, manageable changes and the need for regular feedback, aligning with CI principles. However, it lacks explicit mention of CI tools, automated testing, or detailed strategies for managing code merges, which are crucial for a higher confidence score in this category.",
     "level": "Secondary"
   },
   "Lean Principles": {

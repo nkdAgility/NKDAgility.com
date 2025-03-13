@@ -44,12 +44,12 @@ tags:
 - Scaled Agile
 - Product Delivery
 - Professional Scrum
+- Software Development
 - Scrum Product Development
 - Transparency
 - Agile Frameworks
 - Large Scale Agility
 - Scrum Team
-- Software Development
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

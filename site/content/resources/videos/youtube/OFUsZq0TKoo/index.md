@@ -25,9 +25,9 @@ duration: 269
 isShort: false
 tags:
 - Discovery and Learning
+- Product Discovery
 - Value Delivery
 - Pragmatic Thinking
-- Product Discovery
 - Lean Product Development
 - People and Process
 - Continuous Learning

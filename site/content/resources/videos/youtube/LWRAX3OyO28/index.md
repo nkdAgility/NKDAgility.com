@@ -34,7 +34,7 @@ tags:
 - Frequent Releases
 - Technical Excellence
 - Operational Practices
-- Pragmatic Thinking
+- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

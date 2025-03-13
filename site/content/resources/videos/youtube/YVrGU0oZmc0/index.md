@@ -34,8 +34,8 @@ tags:
 - Product Delivery
 - Practical Techniques and Tooling
 - Value Delivery
+- Deployment Strategies
 - Technical Excellence
-- Deployment Frequency
 resourceTypes:
 - video
 sitemap:

@@ -35,9 +35,9 @@ tags:
 - Continuous Learning
 - Technical Leadership
 - Discovery and Learning
+- Scrum Master
 - Agile Leadership
 - Agile Strategy
-- Organisational Agility
 resourceTypes:
 - video
 layout: video

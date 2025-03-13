@@ -33,12 +33,12 @@ tags:
 - Evidence Based Leadership
 - Value Delivery
 - Ability to Innovate
-- Decision Making
 - Evidence Based Management
 - People and Process
 - Agile Product Management
 - Organisational Agility
 - Product Delivery
+- Decision Making
 resourceTypes:
 - video
 categories:

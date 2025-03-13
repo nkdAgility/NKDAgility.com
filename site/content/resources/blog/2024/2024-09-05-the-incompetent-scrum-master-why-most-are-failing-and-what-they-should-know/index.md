@@ -31,12 +31,12 @@ aliasesArchive:
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
 - Agile Frameworks
-- People and Process
 - Professional Scrum
 - Software Development
 - Agile Project Management
 - Scrum Master
 - Agile Product Management
+- People and Process
 - Practical Techniques and Tooling
 - Product Delivery
 - Coaching

@@ -38,7 +38,7 @@ tags:
 - Agile Values and Principles
 - Organisational Physics
 - Strategy
-- Agile Frameworks
+- Agile Planning
 resourceTypes:
 - video
 categories:
