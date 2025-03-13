@@ -307,11 +307,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:28:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum, highlighting the importance of metrics and continuous improvement, which are relevant to Lean principles. However, the primary focus is on Scrum and Kanban rather than Lean Thinking itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Kanban, which is a Lean tool, and its integration with Scrum, highlighting continuous improvement and metrics that align with Lean principles. However, the primary focus is on the integration of Kanban with Scrum rather than a comprehensive exploration of Lean Thinking itself. While it mentions concepts like continuous improvement and metrics, it does not delve deeply into the broader Lean principles or waste identification, which limits its alignment with the Lean Thinking category.",
     "level": "Tertiary"
   },
   "Cycle Time": {
@@ -832,12 +835,15 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the integration of Kanban with Scrum and mentions probabilistic forecasting as a tool to answer delivery timeline questions, making forecasting a significant theme. However, the primary focus is on Kanban strategies rather than forecasting methodologies within Agile and Scrum.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:35:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content discusses how Kanban can enhance Scrum by providing metrics and insights, particularly focusing on probabilistic forecasting to answer critical delivery questions. While it does mention forecasting, it primarily centres on the integration of Kanban and Scrum rather than a deep exploration of forecasting methodologies within Agile. The discussion on metrics and continuous improvement aligns with the category, but the overall focus is more on Kanban's role rather than forecasting itself.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -1225,12 +1231,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T13:15:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:05:22",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Cban with Scrum and references a book related to Cban strategy, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the integration of Kanban with Scrum, focusing on methodologies rather than specific products or literature. While it mentions tools like JIRA and Azure DevOps, the emphasis is on the practical application of Kanban principles rather than a review or analysis of products or books. The depth of discussion on specific resources is limited, and the content does not provide substantial insights into literature or tools that enhance understanding of Agile or DevOps principles.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",

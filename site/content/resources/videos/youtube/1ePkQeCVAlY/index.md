@@ -29,14 +29,9 @@ sitemap:
 tags:
 - Flow Efficiency
 - People and Process
-- Lean Principles
-- Lean Thinking
-- Operational Practices
 - Pragmatic Thinking
-- Lean
-- Complexity Thinking
-- Systems Thinking
-- Value Delivery
+- Lean Principles
+- Operational Practices
 resourceTypes:
 - video
 layout: video

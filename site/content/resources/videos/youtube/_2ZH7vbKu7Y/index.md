@@ -33,9 +33,9 @@ sitemap:
 tags:
 - Discovery and Learning
 - People and Process
+- Organisational Culture
 - Continuous Learning
 - Personal
-- Agile Leadership
 - Change Management
 - Organisational Change
 - Pragmatic Thinking

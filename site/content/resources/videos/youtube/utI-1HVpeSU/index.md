@@ -28,8 +28,6 @@ sitemap:
 tags:
 - Miscellaneous
 - Team Motivation
-- People and Process
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

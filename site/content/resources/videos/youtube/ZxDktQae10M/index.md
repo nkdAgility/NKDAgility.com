@@ -27,6 +27,7 @@ isShort: false
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
+- Azure DevOps
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -32,10 +32,8 @@ tags:
 - Software Development
 - Agile Frameworks
 - Agile Project Management
-- Agile Transformation
 - Software Developers
-- Pragmatic Thinking
-- Scrum Team
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

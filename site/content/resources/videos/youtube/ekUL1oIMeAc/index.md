@@ -35,8 +35,6 @@ tags:
 - Scrum Team
 - Transparency and Accountability
 - Personal
-- People and Process
-- Sprint Review
 resourceTypes:
 - video
 categories:

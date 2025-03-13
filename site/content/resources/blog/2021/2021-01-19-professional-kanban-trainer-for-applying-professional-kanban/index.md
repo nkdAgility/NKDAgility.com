@@ -27,9 +27,6 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Products and Books
-- Agile Frameworks
-- Agile Project Management
-- Operational Practices
 categories:
 - Social Technologies
 - Kanban

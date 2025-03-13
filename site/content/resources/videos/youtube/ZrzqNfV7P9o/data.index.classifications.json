@@ -523,12 +523,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:56:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions the use of Windows in the context of running Minecraft Education, which is a secondary theme in an otherwise primary discussion about Scrum and Minecraft Education.",
-    "level": "Tertiary"
+    "final_score": 26.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education Edition for teaching Scrum, with only brief mentions of Windows in the context of compatibility and installation. While it does touch on installation requirements for Windows, this is not the main focus of the content, which is centred around educational methodologies and the use of a specific software application. The discussion lacks depth regarding Windows-specific topics such as configuration, troubleshooting, or system updates, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1219,12 +1222,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:47:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Minecraft Education Edition as a tool for applying Scrum principles, making it a major theme, but it primarily focuses on the application rather than a review or analysis of the product itself.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the use of Minecraft Education Edition as a tool for teaching Scrum principles, which aligns well with the category of Products and Books. It provides a detailed analysis of how this specific product enhances the learning experience in Agile methodologies, particularly Scrum. The discussion includes practical applications, participant requirements, and administrative considerations, indicating a depth of discussion that supports the category's focus. However, while it mentions the product explicitly, it does not delve into broader literature or comparisons with other tools, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",

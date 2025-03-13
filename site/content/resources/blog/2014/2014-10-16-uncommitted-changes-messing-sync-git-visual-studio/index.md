@@ -29,8 +29,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Modern Source Control
-- Troubleshooting
-- Practical Techniques and Tooling
 categories: []
 preview: naked-alm-git-2-2.png
 

@@ -35,8 +35,6 @@ tags:
 - Agile Philosophy
 - Team Collaboration
 - Team Motivation
-- Personal
-- Agile Product Management
 resourceTypes:
 - video
 categories:

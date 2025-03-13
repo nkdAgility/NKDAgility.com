@@ -30,8 +30,6 @@ sitemap:
 tags:
 - Product Owner
 - Agile Product Management
-- Products and Books
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

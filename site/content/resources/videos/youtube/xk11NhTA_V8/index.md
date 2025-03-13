@@ -26,8 +26,8 @@ duration: 72
 isShort: false
 tags:
 - Agile Leadership
+- Agile Philosophy
 - People and Process
-- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

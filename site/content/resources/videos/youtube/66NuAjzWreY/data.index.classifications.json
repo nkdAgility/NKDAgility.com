@@ -790,11 +790,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T10:46:23",
-    "ai_confidence": 90,
-    "non_ai_confidence": 30,
+    "calculated_at": "2025-03-13T15:00:24",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
+    "non_ai_confidence": 10,
     "final_score": 84.0,
-    "reasoning": "The content primarily discusses the principles and practices of Evidence-Based Management, focusing on the use of data to inform decision-making and improve organisational outcomes. It elaborates on metrics, the importance of understanding behaviours influenced by measurements, and the application of evidence in management practices.",
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM), detailing its principles, the importance of metrics, and how data can inform decision-making without controlling it. It provides practical steps for implementing EBM, examples of metrics, and highlights the benefits of adopting an evidence-based approach. The depth of discussion is significant, covering various aspects of EBM and its application in organisational contexts.",
     "level": "Primary"
   },
   "Backlog Refinement": {
@@ -961,21 +964,27 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-12T10:46:51",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the use of metrics and data to inform decision-making, which aligns with trend analysis. However, it primarily focuses on evidence-based management rather than explicitly analysing trends within Agile or DevOps frameworks.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-13T15:23:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in decision-making, which touches on the importance of data in understanding team behaviours and outcomes. However, it lacks a direct focus on identifying broader trends within Agile or DevOps frameworks. While it mentions metrics and their implications, it does not delve deeply into trend analysis or its strategic impact on organisational practices, which is the primary focus of the 'Trend Analysis' category.",
+    "level": "Quaternary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T12:14:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:31:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management, which aligns with Agile principles of value delivery and informed decision-making, but it primarily focuses on tactical aspects rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in decision-making, which aligns with Agile principles of using data to inform actions and improve outcomes. However, it primarily focuses on metrics and management strategies rather than the broader Agile philosophy or its foundational principles. While it touches on value delivery and team empowerment, it lacks a deep exploration of Agile's core values and principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1024,12 +1033,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T12:14:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of measuring outcomes and using data to inform decisions, which aligns with the theme of strategic goals. However, it primarily focuses on tactical aspects of evidence-based management rather than explicitly defining long-term strategic objectives.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:23:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in informing decision-making, which indirectly relates to strategic goals. It mentions the importance of defining desired outcomes and aligning metrics with those goals, which aligns with the core themes of strategic objectives. However, the primary focus is on tactical implementation rather than a deep exploration of long-term strategic goals, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",

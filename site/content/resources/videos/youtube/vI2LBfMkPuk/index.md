@@ -28,11 +28,7 @@ tags:
 - Pragmatic Thinking
 - People and Process
 - Agile Product Management
-- Software Developers
-- Team Collaboration
-- Scrum Team
-- Scrum Master
-- Software Development
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

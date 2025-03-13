@@ -24,6 +24,15 @@ aliasesArchive:
 - /resources/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 tags:
 - Professional Scrum
+- Agile Project Management
+- Transparency
+- Software Developers
+- Agile Product Management
+- Scrum Product Development
+- Agile Planning
+- Scrum Team
+- Agile Frameworks
+- Software Development
 categories:
 - Scrum
 - Social Technologies

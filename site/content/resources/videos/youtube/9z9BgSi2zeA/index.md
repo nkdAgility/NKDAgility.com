@@ -32,10 +32,9 @@ sitemap:
 tags:
 - Agile Leadership
 - Technical Leadership
+- Business Agility
 - Agile Product Management
 - People and Process
-- Sociotechnical Systems
-- Agile Project Management
 resourceTypes:
 - video
 categories:

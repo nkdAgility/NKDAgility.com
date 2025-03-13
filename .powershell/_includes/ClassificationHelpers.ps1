@@ -4,7 +4,7 @@
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
 $watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-02-18T09:00:00") -End (Get-Date)).Days
-$watermarkScoreLimit = 20
+$watermarkScoreLimit = 30
 $watermarkCount = 1
 
 function Get-CatalogHashtable {
@@ -299,8 +299,13 @@ function Get-ClassificationsForType {
                 $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -hugoMarkdown $hugoMarkdown
                 if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
                     $oldConfidence = $cachedData[$result.category]?.ai_confidence ?? 0
-                    $DaysAgo = [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
                     $confidenceDiff = "{0}{1}" -f ($(if (($result.ai_confidence - $oldConfidence) -ge 0) { '+' } else { '-' }), [math]::Abs($result.ai_confidence - $oldConfidence))
+                    if ($cachedData[$result.category] -and $cachedData[$result.category].calculated_at) {
+                        $DaysAgo = [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
+                    }
+                    else {
+                        $DaysAgo = -1  # Or a default value like 0, depending on your needs
+                    }
                     Write-InformationLog "Updating {category} confidence {diff}! The old confidence of {old} was calculated {daysago} days ago. The new confidence is {confidence}!" -PropertyValues $result.category, $confidenceDiff, $oldConfidence, $DaysAgo, $result.ai_confidence
                     $CatalogFromCache[$result.category] = $result
                     $cachedData[$result.category] = $result

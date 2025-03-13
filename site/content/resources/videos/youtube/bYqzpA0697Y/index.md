@@ -32,15 +32,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Scaled Agile
-- Large Scale Agility
-- Scaling Agility
-- Scaling Scrum
-- Enterprise Agility
-- Organisational Agility
-- Software Development
-- Operational Practices
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

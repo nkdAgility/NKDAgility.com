@@ -27,6 +27,15 @@ sitemap:
   priority: 0.6
 tags:
 - Empirical Process Control
+- Metrics and Learning
+- People and Process
+- Transparency
+- Agile Product Management
+- Professional Scrum
+- Agile Values and Principles
+- Customer Feedback Loops
+- Scrum Product Development
+- Agile Frameworks
 resourceTypes:
 - video
 layout: video

@@ -36,9 +36,6 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Scrum Master
-- Agile Values and Principles
-- Scrum Values
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

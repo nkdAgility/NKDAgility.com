@@ -37,11 +37,6 @@ tags:
 - People and Process
 - Scrum Product Development
 - Professional Scrum
-- Agile Frameworks
-- Pragmatic Thinking
-- Empirical Process Control
-- Agile Product Management
-- Scrum Team
 resourceTypes:
 - video
 layout: video

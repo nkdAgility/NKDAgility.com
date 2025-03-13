@@ -27,9 +27,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Practical Techniques and Tooling
-- People and Process
+tags: []
 resourceTypes:
 - video
 categories: []

@@ -28,12 +28,12 @@ tags:
 - Value Delivery
 - Throughput
 - Software Development
-- Flow Efficiency
 - Agile Project Management
-- Agile Product Management
+- Flow Efficiency
 - Team Performance
+- Pragmatic Thinking
+- Agile Product Management
 - Practical Techniques and Tooling
-- Operational Practices
 categories:
 - Product Management
 - Social Technologies

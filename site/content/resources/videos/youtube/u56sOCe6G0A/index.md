@@ -41,8 +41,6 @@ tags:
 - Agile Project Management
 - Throughput
 - Pragmatic Thinking
-- Lean Thinking
-- Value Delivery
 resourceTypes:
 - video
 categories:

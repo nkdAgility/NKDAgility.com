@@ -33,12 +33,10 @@ tags:
 - Evidence Based Management
 - Value Delivery
 - Metrics and Learning
+- Practical Techniques and Tooling
 - Decision Making
 - Pragmatic Thinking
 - Decision Theory
-- Agile Product Management
-- Organisational Agility
-- People and Process
 resourceTypes:
 - video
 layout: video

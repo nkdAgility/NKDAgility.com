@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
 isShort: false
 tags:
+- Software Development
 - People and Process
 - Agile Transformation
 - Agile Project Management

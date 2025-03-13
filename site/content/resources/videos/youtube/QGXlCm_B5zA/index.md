@@ -31,9 +31,6 @@ tags:
 - Scrum Team
 - Agile Project Management
 - Software Development
-- Team Performance
-- Agile Leadership
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

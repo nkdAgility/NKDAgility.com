@@ -26,10 +26,7 @@ aliasesArchive:
 - /understanding-tfs-migrations-from-on-premise-to-visual-studio-online
 - /blog/understanding-tfs-migrations-from-on-premise-to-visual-studio-online
 - /resources/blog/understanding-tfs-migrations-premise-visual-studio-online
-tags:
-- Software Development
-- Practical Techniques and Tooling
-- Install and Configuration
+tags: []
 categories: []
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 

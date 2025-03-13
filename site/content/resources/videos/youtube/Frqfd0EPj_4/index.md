@@ -33,9 +33,7 @@ tags:
 - People and Process
 - Discovery and Learning
 - Scrum Team
-- Agile Product Management
-- Pragmatic Thinking
-- Continuous Learning
+- Products and Books
 resourceTypes:
 - video
 categories:

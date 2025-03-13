@@ -26,14 +26,11 @@ aliasesArchive:
 tags:
 - Software Development
 - People and Process
-- Agile Transformation
 - Agile Values and Principles
 - Agile Philosophy
+- Agile Transformation
 - Agile Project Management
 - Software Developers
-- Organisational Agility
-- Pragmatic Thinking
-- Agile Product Management
 categories:
 - Social Technologies
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg

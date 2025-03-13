@@ -28,7 +28,6 @@ tags:
 - Discovery and Learning
 - Continuous Learning
 - Pragmatic Thinking
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,10 +30,6 @@ tags:
 - Miscellaneous
 - Personal
 - Pragmatic Thinking
-- People and Process
-- Customer Satisfaction
-- Agile Project Management
-- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

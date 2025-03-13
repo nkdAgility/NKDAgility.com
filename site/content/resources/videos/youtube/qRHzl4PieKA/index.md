@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Business Agility
 - Value Delivery
+- Product Delivery
 - People and Process
 - Agile Values and Principles
 - Agile Philosophy
 - Agile Project Management
 - Agile Product Management
-- Business Agility
 - Organisational Agility
 - Pragmatic Thinking
-- Agile Leadership
 resourceTypes:
 - video
 categories:

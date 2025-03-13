@@ -418,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T19:00:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T17:00:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of source control, automated release pipelines, and practices that support Continuous Delivery, making it a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Continuous Delivery principles, particularly the importance of automated release pipelines and source control, which are crucial for CD practices. However, it also heavily focuses on DevOps and Scrum methodologies, which, while related, detracts from a primary focus on Continuous Delivery itself. The depth of discussion on CD practices is present but not exhaustive, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Strategic Goals": {

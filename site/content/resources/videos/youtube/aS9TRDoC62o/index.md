@@ -31,16 +31,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategy
-- Software Developers
 - Software Development
+- Software Developers
+- Strategy
 - Technical Mastery
 - Pragmatic Thinking
 - People and Process
 - Market Adaptability
 - Value Delivery
-- Product Delivery
-- Technical Excellence
 resourceTypes:
 - video
 categories:

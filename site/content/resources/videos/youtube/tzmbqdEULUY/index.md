@@ -25,11 +25,6 @@ duration: 218
 isShort: false
 tags:
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- Azure DevOps
-- Software Development
-- Operational Practices
-- Modern Source Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -29,11 +29,11 @@ tags:
 - Scrum Product Development
 - Value Delivery
 - Product Delivery
+- Agile Frameworks
 - Product Owner
 - Agile Project Management
 - Pragmatic Thinking
 - People and Process
-- Agile Frameworks
 categories:
 - Scrum
 preview: naked-agility-hypothesis-driven-2-2.jpg

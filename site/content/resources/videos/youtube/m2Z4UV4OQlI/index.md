@@ -32,6 +32,14 @@ sitemap:
 tags:
 - Evidence Based Leadership
 - Metrics and Learning
+- People and Process
+- Decision Making
+- Agile Leadership
+- Transparency
+- Organisational Agility
+- Ability to Innovate
+- Empirical Process Control
+- Evidence Based Management
 resourceTypes:
 - video
 categories:

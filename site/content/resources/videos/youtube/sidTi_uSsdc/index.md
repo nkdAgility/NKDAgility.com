@@ -27,9 +27,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Transformation
-- Team Motivation
-- Agile Philosophy
-- Agile Leadership
 resourceTypes:
 - video
 categories: []

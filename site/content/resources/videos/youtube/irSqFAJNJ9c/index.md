@@ -35,9 +35,6 @@ tags:
 - Scrum Team
 - Team Performance
 - Agile Product Management
-- Sociotechnical Systems
-- Product Owner
-- Team Collaboration
 resourceTypes:
 - video
 categories:

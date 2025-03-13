@@ -33,11 +33,6 @@ tags:
 - Events and Presentations
 - People and Process
 - Pragmatic Thinking
-- Coaching
-- Agile Transformation
-- Products and Books
-- Agile Frameworks
-- Change Management
 categories:
 - Social Technologies
 - Scrum

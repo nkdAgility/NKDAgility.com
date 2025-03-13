@@ -33,8 +33,6 @@ tags:
 - Organisational Agility
 - Discovery and Learning
 - Continuous Learning
-- Resilience and Change
-- People and Process
 resourceTypes:
 - video
 categories:

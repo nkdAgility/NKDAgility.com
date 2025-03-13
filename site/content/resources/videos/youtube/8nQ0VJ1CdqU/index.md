@@ -29,6 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Leadership
+- Sociotechnical Systems
+- Decision Making
+- Agile Philosophy
+- Agile Project Management
+- Agile Strategy
+- Agile Transformation
+- Beta Codex
+- Change Management
 resourceTypes:
 - video
 categories:

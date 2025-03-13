@@ -33,10 +33,7 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Coaching
-- Self Organisation
 - Team Performance
-- Pragmatic Thinking
-- Agile Leadership
 resourceTypes:
 - video
 layout: video

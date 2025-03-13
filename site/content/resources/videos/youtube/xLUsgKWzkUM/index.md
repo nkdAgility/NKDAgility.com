@@ -26,6 +26,10 @@ duration: 36
 isShort: true
 tags:
 - Product Owner
+- Agile Product Management
+- Accountability
+- Scrum Product Development
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -26,15 +26,13 @@ duration: 46
 isShort: true
 tags:
 - People and Process
+- Organisational Culture
 - Value Delivery
 - Beta Codex
 - Organisational Agility
 - Organisational Change
 - Business Agility
 - Enterprise Agility
-- Agile Leadership
-- Agile Philosophy
-- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

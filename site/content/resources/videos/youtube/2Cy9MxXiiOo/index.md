@@ -30,8 +30,6 @@ tags:
 - Agile Project Management
 - Scrum Product Development
 - Agile Planning
-- Professional Scrum
-- Agile Transformation
 resourceTypes:
 - video
 layout: video

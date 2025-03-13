@@ -33,10 +33,10 @@ tags:
 - People and Process
 - Software Development
 - Scrum Master
-- Team Collaboration
 - Agile Frameworks
 - Pragmatic Thinking
 - Scrum Product Development
+- Team Performance
 categories:
 - Scrum
 preview: PSX_20190823_113052-1-1.jpg

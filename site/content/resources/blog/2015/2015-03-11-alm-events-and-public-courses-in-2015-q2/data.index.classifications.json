@@ -1066,12 +1066,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T17:02:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a mention of a course on 'TFS 2013 Configuration & Administration', which relates to system configuration, but the primary focus is on training events and schedules rather than detailed discussions on system configuration practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses upcoming training events and courses related to ALM and Scrum, with only a brief mention of a course on TFS 2013 Configuration & Administration. While there is a slight alignment with system configuration through this mention, the overall focus is on event scheduling and training rather than the technical aspects of system configuration. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

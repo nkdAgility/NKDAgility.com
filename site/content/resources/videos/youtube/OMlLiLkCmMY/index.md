@@ -31,9 +31,6 @@ tags:
 - Team Motivation
 - People and Process
 - Organisational Agility
-- Organisational Psychology
-- Business Agility
-- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,7 +30,6 @@ tags:
 - Software Development
 - Agile Frameworks
 - Agile Project Management
-- Agile Transformation
 - Software Developers
 sitemap:
   filename: sitemap.xml

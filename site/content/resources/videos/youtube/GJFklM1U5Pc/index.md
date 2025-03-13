@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
+- Professional Scrum
+- Agile Project Management
+- Scrum Team
+- People and Process
+- Software Development
+- Pragmatic Thinking
+- Agile Frameworks
+- Agile Transformation
+- Continuous Learning
 resourceTypes:
 - video
 categories:

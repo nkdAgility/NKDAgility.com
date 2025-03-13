@@ -29,6 +29,15 @@ aliasesArchive:
 - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 tags:
 - Transparency
+- Empirical Process Control
+- Software Development
+- Estimation
+- Increment
+- Professional Scrum
+- Agile Project Management
+- Agile Planning
+- Scrum Product Development
+- Scrum Team
 categories:
 - Scrum
 preview: image-9-14-14.png

@@ -27,7 +27,6 @@ sitemap:
 tags:
 - Value Delivery
 - Software Development
-- Product Delivery
 resourceTypes:
 - video
 layout: video

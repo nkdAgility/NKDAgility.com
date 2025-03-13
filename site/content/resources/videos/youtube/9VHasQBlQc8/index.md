@@ -31,14 +31,11 @@ sitemap:
 tags:
 - Agile Philosophy
 - People and Process
+- Business Agility
 - Agile Values and Principles
 - Agile Leadership
 - Team Motivation
 - Organisational Culture
-- Team Collaboration
-- Team Performance
-- Software Developers
-- Personal
 resourceTypes:
 - video
 categories:

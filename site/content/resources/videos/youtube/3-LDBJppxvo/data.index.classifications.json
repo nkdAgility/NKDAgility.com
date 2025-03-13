@@ -343,21 +343,27 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T13:09:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:03:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses maximising value and minimising work, which aligns with Lean principles, but primarily focuses on Agile practices and feedback loops.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile principles, particularly the importance of delivering working software and closing feedback loops. While it touches on concepts like maximizing value and minimizing waste, which are relevant to Lean, the discussion lacks a direct focus on Lean methodologies or tools. The depth of discussion on Agile practices overshadows any Lean-related content, leading to a low confidence score for the Lean category.",
+    "level": "Quaternary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:09:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:25:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of delivering working software and gathering feedback, which aligns with Agile principles and value delivery, but it primarily focuses on the practice of iteration rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the importance of delivering working software in Agile, which aligns with the principles of the Agile Product Operating Model. It emphasises continuous feedback, stakeholder involvement, and value delivery, all of which are core themes of the model. The depth of discussion is significant, providing practical steps and personal experiences that reinforce the importance of these concepts. However, while it touches on Agile principles, it does not explicitly frame the discussion within the broader context of the Agile Product Operating Model, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -373,11 +379,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T13:09:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:34:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of delivering working software to gather user feedback, which aligns with the principles of experimentation and learning in product development.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the importance of delivering working software iteratively, which aligns with the principles of continuous learning and feedback loops in product development. It highlights the significance of validating assumptions through real-world testing and emphasises the role of user feedback in shaping future iterations. The depth of discussion on practical steps, such as starting with a Minimal Viable Product (MVP) and involving stakeholders, further supports its alignment with the category. However, while it touches on learning and discovery, the primary focus remains on Agile practices, which slightly detracts from a pure 'Discovery and Learning' classification.",
     "level": "Secondary"
   },
   "Flow Efficiency": {

@@ -36,9 +36,6 @@ tags:
 - Organisational Culture
 - Organisational Physics
 - Organisational Change
-- Enterprise Agility
-- Agile Leadership
-- Market Adaptability
 resourceTypes:
 - video
 categories:

@@ -30,12 +30,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Philosophy
+- Mentoring
 - People and Process
 - Coaching
 - Agile Leadership
-- Mentoring
-- Agile Product Management
-- Discovery and Learning
 resourceTypes:
 - video
 categories:

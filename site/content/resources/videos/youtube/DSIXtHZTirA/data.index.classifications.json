@@ -511,12 +511,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-12T08:20:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:46:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of getting software into production quickly, the role of performance engineering, and the implementation of audience-based rollouts, which are all central to the principles of frequent releases and continuous delivery.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses concepts related to continuous integration and continuous delivery, which are relevant to frequent releases. However, it primarily focuses on engineering excellence and quality rather than the specific practice of frequent releases. The mention of shifting left indicates an understanding of the release process but lacks detailed exploration of release frequency or strategies for incremental improvements.",
+    "level": "Quaternary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -583,21 +586,27 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T08:20:25",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-13T14:57:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies in software performance engineering, emphasising real-world applications of Agile and DevOps principles. It highlights the importance of adaptability, user feedback, and iterative testing in production, aligning closely with the key topics of pragmatic thinking.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical approaches to improving engineering quality and performance, which aligns with pragmatic thinking. It mentions concepts like shifting left and managing technical debt, indicating a focus on real-world applications in Agile contexts. However, while it touches on relevant themes, the discussion lacks depth in specific problem-solving strategies and case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-12T08:20:27",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for getting software into production quickly, the importance of automated testing, and the use of feature flags for controlled rollouts, all of which are central to optimising deployment frequency in Agile and DevOps practices.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-13T15:20:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions continuous integration and continuous delivery, which are related to deployment frequency, but does not focus on the optimisation of deployment intervals or provide detailed strategies or metrics for improving deployment frequency. The discussion is more centred around engineering excellence and quality rather than the specific category of deployment frequency.",
+    "level": "Quaternary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -628,12 +637,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T08:20:33",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the principles and practices of Continuous Delivery, particularly focusing on the importance of getting software into production quickly, automating testing, and using audience-based deployment models. It also highlights the relationship between performance engineering and Continuous Delivery, making it a central theme throughout the discussion.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-13T16:20:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions continuous delivery as part of a broader discussion on shifting left and engineering excellence. However, it lacks a focused exploration of Continuous Delivery principles, practices, or methodologies. The discussion is more centred on general engineering practices and quality rather than the specificities of Continuous Delivery.",
+    "level": "Tertiary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -781,11 +793,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T08:20:58",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses performance engineering, testing in production, and strategies for continuous delivery, which are central to enhancing operational efficiency within Agile and DevOps frameworks.",
+    "calculated_at": "2025-03-13T16:28:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses various aspects of engineering excellence and technical leadership, which aligns with operational practices aimed at improving efficiency and quality. It mentions shifting left in testing and integrating user experience and security, which are relevant to process optimisation and continuous improvement. However, while it touches on these topics, the primary focus seems to be on promoting NKD Agility's services rather than providing in-depth operational strategies or metrics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {

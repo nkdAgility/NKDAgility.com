@@ -145,11 +145,14 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T13:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:04:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team agreement and collaboration in defining workflows, which aligns with self-organisation principles, but it primarily focuses on Kanban strategy rather than self-organisation as a central theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of visualising work within a Kanban strategy, which indirectly supports self-organisation by promoting clarity, accountability, and alignment among team members. However, it primarily focuses on visualization techniques rather than explicitly addressing self-organisation principles or practices. While it touches on team collaboration and alignment, it lacks a deeper exploration of self-organisation as a primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -1036,12 +1039,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T13:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:35:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes related to visualising work in a Kanban strategy, highlighting the importance of agreeing on rules and workflows, which aligns with decision theory principles. However, the primary focus is on Kanban implementation rather than decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on visualization in Kanban and Scrum methodologies, discussing practical aspects of workflow management rather than decision-making processes in uncertain environments. While it touches on alignment and collaboration, it lacks a direct exploration of decision theory concepts such as heuristics, biases, or frameworks for improving decision quality.",
+    "level": "Quinary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1222,12 +1228,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T13:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:26:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban strategies and tools like Azure DevOps and Jira, which are relevant to Agile practices, but the primary focus is on the implementation and visualization techniques rather than specific products or literature.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of visualization in Kanban strategies and mentions tools like Azure DevOps and Jira, which aligns with the category's focus on products that facilitate Agile practices. However, it primarily focuses on the concept of visualization rather than providing in-depth reviews or analyses of specific products or literature. The discussion is relevant but lacks the depth and direct focus on products and books to achieve a higher confidence score.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",

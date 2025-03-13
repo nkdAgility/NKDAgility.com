@@ -29,6 +29,14 @@ aliasesArchive:
 tags:
 - Working Software
 - Software Development
+- Empirical Process Control
+- Product Delivery
+- Scrum Product Development
+- Agile Project Management
+- Team Performance
+- Professional Scrum
+- Scrum Team
+- People and Process
 categories:
 - Scrum
 - Social Technologies

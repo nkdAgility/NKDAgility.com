@@ -25,6 +25,15 @@ duration: 2299
 isShort: false
 tags:
 - People and Process
+- Agile Product Management
+- Software Developers
+- Organisational Agility
+- Software Development
+- Agile Transformation
+- Agile Frameworks
+- Agile Project Management
+- Pragmatic Thinking
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

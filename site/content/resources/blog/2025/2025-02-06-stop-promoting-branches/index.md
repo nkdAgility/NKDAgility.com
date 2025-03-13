@@ -28,8 +28,8 @@ tags:
 - Release Management
 - Software Developers
 - Value Delivery
-- Deployment Frequency
-- Deployment Strategies
+- Flow Efficiency
+- Modern Source Control
 categories:
 - DevOps
 preview: 2025-02-06-stop-promoting-branches.jpg

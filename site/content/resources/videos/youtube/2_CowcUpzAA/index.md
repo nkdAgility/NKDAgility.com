@@ -29,6 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
+- Agile Product Management
+- Agile Project Management
+- Scrum Product Development
+- People and Process
+- Pragmatic Thinking
+- Accountability
+- Agile Product Operating Model
+- Scrum Team
+- Product Delivery
 resourceTypes:
 - video
 layout: video

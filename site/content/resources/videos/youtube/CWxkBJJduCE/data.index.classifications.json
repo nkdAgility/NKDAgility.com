@@ -958,12 +958,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:28:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses pair programming, which relates to team dynamics and collaboration, but it primarily focuses on software architecture and productivity rather than team performance specifically.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses pair programming and its benefits, which can enhance team collaboration and productivity. However, it primarily focuses on software development practices rather than directly addressing team performance strategies or methodologies within an Agile framework. While there are relevant points about collaboration and knowledge sharing, the overall emphasis is more on technical practices than on team dynamics or Agile principles.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1219,12 +1222,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:46:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to systems thinking in the context of software development, particularly how pair programming and test-driven development can influence architecture and productivity as a whole system. However, it primarily focuses on software practices rather than explicitly on organisational dynamics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses software development practices such as TDD and pair programming, which are more focused on individual and team behaviours rather than organisational dynamics. While there are mentions of productivity and system-wide perspectives, these are not deeply tied to the principles of systems thinking or organisational behaviour as outlined in the category of Organisational Physics.",
+    "level": "Quaternary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1303,21 +1309,27 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:57:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the long-term benefits of pair programming and test-driven development in terms of addressing potential problems, which indirectly relates to the concept of technical debt, but the primary focus is on programming practices rather than explicit discussions of technical debt.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses principles of test-driven development (TDD) and pair programming, which can indirectly relate to technical debt by promoting better coding practices and reducing complexity. However, it does not explicitly mention technical debt or its management, making it a secondary focus rather than a primary discussion. The alignment with the core themes of technical debt is present but not deeply explored, resulting in a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:20:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical problem-solving techniques related to software architecture, specifically the impact of test-driven development and pair programming. While it touches on real-world applications and collaborative approaches, it does not primarily focus on Agile, Scrum, or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical applications of TDD and pair programming, which are relevant to Agile methodologies. It highlights real-world problem-solving strategies and the importance of collaboration, aligning well with the core themes of pragmatic thinking. The depth of discussion on how these practices enhance software architecture and productivity further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1393,12 +1405,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses pair programming, which involves collaboration between team members, highlighting aspects of teamwork and shared ownership. However, it primarily focuses on test-driven development and architectural decisions, making collaboration a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:20:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses pair programming, which is a collaborative practice that enhances team dynamics and knowledge sharing. However, while it touches on collaboration, the primary focus is on TDD and individual coding practices rather than broader team collaboration strategies. The depth of discussion on collaboration is moderate, but it lacks a comprehensive exploration of team dynamics or Agile principles.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",

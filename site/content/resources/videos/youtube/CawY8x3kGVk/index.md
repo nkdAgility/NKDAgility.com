@@ -36,13 +36,12 @@ tags:
 - Agile Project Management
 - Software Developers
 - People and Process
+- Team Performance
 - Pragmatic Thinking
 - Software Development
 - Scrum Team
 - Technical Leadership
-- Agile Frameworks
-- Self Organisation
-- Agile Product Management
+- Agile Transformation
 resourceTypes:
 - video
 categories:

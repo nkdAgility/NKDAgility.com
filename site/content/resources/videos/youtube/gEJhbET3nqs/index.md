@@ -33,7 +33,6 @@ tags:
 - People and Process
 - Team Collaboration
 - Team Performance
-- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

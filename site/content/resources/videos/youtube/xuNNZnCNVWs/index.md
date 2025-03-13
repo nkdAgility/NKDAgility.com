@@ -28,12 +28,12 @@ preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
 isShort: true
 tags:
+- Agile Transformation
+- Agile Frameworks
 - Scrum Team
 - People and Process
 - Agile Project Management
 - Agile Product Management
-- Scrum Master
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -145,12 +145,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:55:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the flaws of traditional branching models and promotes continuous integration and delivery, which aligns with self-organisation principles. However, it primarily focuses on technical practices rather than explicitly addressing self-organisation as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the flaws of traditional branching models and promotes alternatives like GitHub Flow and Release Flow, which can support self-organisation by enabling teams to deliver value more efficiently. However, it primarily focuses on technical practices rather than the principles of self-organisation, such as team autonomy and leadership support. The mention of organisational dysfunction hints at a lack of self-organisation but does not delve deeply into fostering a culture of autonomy or trust within teams.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -244,12 +247,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-13T15:18:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses the flaws of traditional branch promotion models and advocates for alternative strategies like GitHub Flow and Release Flow, focusing on optimising delivery processes and enhancing team performance within Agile frameworks.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the flaws of traditional branch promotion models and advocates for alternative strategies like GitHub Flow and Release Flow, which directly relate to Agile delivery processes. It provides a detailed analysis of how these strategies can optimise delivery and enhance team performance, aligning well with the core themes of the Strategy category. The depth of discussion is significant, as it covers various aspects of branching strategies and their impact on agility, making it a strong fit for the category.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -301,21 +307,27 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:25:20",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the inefficiencies of traditional branching models in software development, which aligns with Lean principles of minimising waste and enhancing flow. However, it primarily focuses on Git workflows rather than Lean Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content discusses software delivery models and the inefficiencies of branch promotion, which indirectly relates to Lean principles of minimising waste and enhancing flow. However, it does not explicitly mention Lean Thinking concepts or tools, nor does it focus on Lean principles as a primary topic. The discussion is more centred on software development practices rather than Lean methodologies.",
+    "level": "Quaternary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:44:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the inefficiencies of traditional branching models and their impact on delivery speed, which relates to Cycle Time. However, it primarily focuses on branching strategies rather than directly measuring or analysing Cycle Time.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the inefficiencies of traditional branch promotion models and advocates for continuous integration and delivery practices, which indirectly relate to Cycle Time by highlighting how these practices can reduce delays in value delivery. However, it does not explicitly define or focus on Cycle Time as a primary metric, nor does it provide detailed methods for measuring or improving it. The discussion is more centred on branching strategies rather than the measurement of Cycle Time itself.",
+    "level": "Quaternary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -574,12 +586,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-13T16:18:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "The content primarily discusses the flaws of traditional branch promotion models and advocates for continuous integration and delivery practices that enhance deployment frequency. It emphasises the importance of reducing complexity and increasing the speed of deployments, aligning closely with the principles of optimising deployment intervals in Agile and DevOps.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the flaws of traditional branch promotion models and advocates for continuous integration and delivery practices that enhance deployment frequency. It discusses specific strategies like GitHub Flow and Release Flow, which are directly related to optimising deployment intervals. The depth of discussion is substantial, providing detailed insights into how these practices can improve value delivery and reduce complexity, aligning well with the core themes of the category.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -892,12 +907,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-13T16:26:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "The content primarily discusses various deployment strategies, specifically critiquing traditional branch promotion models and advocating for GitHub Flow and Release Flow as effective methodologies for continuous delivery and deployment. It focuses on optimising deployment processes and managing associated risks, aligning closely with the category's definition.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the flaws of traditional branch promotion models and advocates for modern deployment strategies like GitHub Flow and Release Flow. It discusses the implications of these strategies on deployment speed and risk management, aligning well with the core themes of deployment methodologies. The depth of discussion is substantial, providing detailed insights into how these strategies can enhance continuous delivery and integration, while also addressing the risks associated with outdated practices.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1246,12 +1264,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-13T16:24:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the flaws of traditional software delivery models and advocates for more agile practices like GitHub Flow and Release Flow, which align with the principles of business agility. However, the primary focus is on branching strategies rather than a broader exploration of business agility principles.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses software delivery models and their impact on agility, particularly critiquing traditional branch promotion strategies. While it touches on themes of efficiency and responsiveness, it primarily focuses on technical practices rather than broader principles of business agility. The mention of 'delivering value' aligns with business agility, but the overall emphasis is on specific methodologies rather than the organisational culture or leadership aspects that are central to the category.",
+    "level": "Quaternary"
   },
   "Kanban": {
     "category": "Kanban",

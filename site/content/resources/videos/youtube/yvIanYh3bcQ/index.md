@@ -39,10 +39,6 @@ tags:
 - Organisational Agility
 - Operational Practices
 - Pragmatic Thinking
-- Lean
-- Organisational Change
-- People and Process
-- Market Adaptability
 resourceTypes:
 - video
 categories:

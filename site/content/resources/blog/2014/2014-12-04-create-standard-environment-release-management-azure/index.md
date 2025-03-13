@@ -34,9 +34,9 @@ tags:
 - Product Delivery
 - Release Management
 - Deployment Strategies
-- Operational Practices
 - Pragmatic Thinking
 - Software Development
+- System Configuration
 categories:
 - DevOps
 - Engineering Excellence

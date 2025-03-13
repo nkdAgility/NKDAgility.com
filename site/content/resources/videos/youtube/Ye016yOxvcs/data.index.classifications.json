@@ -571,11 +571,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T19:48:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:16:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content shares personal insights and reflections on the challenges faced by an Agile consultant, making it a major theme, but it also discusses general skills rather than focusing solely on personal experiences.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses personal reflections and insights from the author's experience as an Agile consultant, which aligns with the Personal category. It mentions the importance of understanding customer context and the journey of continuous learning, which are personal experiences relevant to Agile practices. However, while it touches on personal anecdotes, it lacks deeper exploration of specific challenges faced or detailed personal stories, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -625,21 +628,27 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T19:49:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:38:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses skills relevant to Agile consulting but does not reference specific Agile frameworks or methodologies, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses skills relevant to Agile consulting but heavily references Agile principles and practices, particularly in the context of customer engagement and continuous learning. While it does touch on broader themes of adaptability and personal growth, the primary focus remains on Agile methodologies, which detracts from its alignment with the Miscellaneous category.",
+    "level": "Quaternary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T19:49:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:46:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses understanding customer context and iterating on ideas based on previous experiences, which relates to customer engagement and retention strategies, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding customer context and the need for continuous learning and adaptation, which are relevant to customer retention. However, it primarily focuses on the skills of Agile consultants rather than specific strategies for retaining customers. The direct mentions of customer retention strategies are minimal, and while there is some conceptual alignment, the depth of discussion does not provide substantial insights into customer retention methodologies.",
+    "level": "Quaternary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",

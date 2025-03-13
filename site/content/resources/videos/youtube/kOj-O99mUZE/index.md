@@ -30,13 +30,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Frameworks
 - Agile Product Operating Model
 - Agile Project Management
 - Scaled Agile
-- Agile Frameworks
+- Strategy
 - Agile Strategy
 - Portfolio Management
-- Scaling Agility
 - Scaling Kanban
 - Value Delivery
 - Product Delivery

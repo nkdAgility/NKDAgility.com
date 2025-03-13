@@ -145,11 +145,14 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:11:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and the use of story points, which relates to self-organisation in terms of team autonomy and decision-making. However, the primary focus is on the critique of story points rather than on self-organisation principles or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of story points in Scrum and how they can facilitate team discussions, which aligns with self-organisation principles. However, it primarily focuses on the misconceptions surrounding story points rather than directly addressing self-organisation practices or principles. While it mentions fostering open dialogue and collaboration, it lacks a deeper exploration of self-organisation as a primary focus.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -283,12 +286,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of story points and planning poker as practices that facilitate team discussions and collaboration, which aligns with the theme of team dynamics in Agile. However, the primary focus is on the critique of story points rather than a broader exploration of team collaboration techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:42:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of story points in Scrum and how they can facilitate team discussions, which aligns with the themes of team collaboration. It emphasises the importance of open dialogue and shared understanding among team members, which are key aspects of effective collaboration. However, while it touches on collaboration, the primary focus is on the myth of story points rather than a broader exploration of team dynamics or collaboration techniques, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -961,12 +967,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of story points in Scrum and critiques their application, touching on the importance of value delivery and adaptability, which are central to Agile philosophy. However, the primary focus is on Scrum practices rather than the broader Agile mindset.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:34:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the misconceptions surrounding story points in Scrum, which ties into the Agile Philosophy by emphasising the importance of collaboration, conversation, and delivering value over rigid adherence to metrics. It critiques the misuse of story points and advocates for a return to Agile principles, aligning well with the core themes of the Agile Philosophy. However, the primary focus remains on Scrum practices, which slightly detracts from a broader discussion of Agile as a mindset.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",

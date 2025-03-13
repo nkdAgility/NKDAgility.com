@@ -121,12 +121,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:30:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:24:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses migration services to Azure DevOps, which relates to the strategic adoption of digital technologies. However, the primary focus is on the technical aspects of migration rather than broader themes of digital transformation such as business agility or cultural change.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the migration from TFS to Azure DevOps, highlighting the benefits of enhanced agility and efficiency, which aligns with the themes of digital transformation. However, while it touches on the strategic use of digital tools, the focus is primarily on the migration process itself rather than broader digital transformation strategies or cultural impacts. The depth of discussion on change management and organisational culture is limited, which affects the overall confidence score.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -712,12 +715,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T12:30:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses transitioning from TFS to Azure DevOps and mentions moving from Scrum to Agile, indicating a secondary theme related to Agile transformation, but the primary focus is on migration services and tools.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:02:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the migration from TFS to Azure DevOps, which touches on aspects of Agile transformation, such as enhancing collaboration and efficiency. However, it primarily focuses on the technicalities of migration rather than the broader principles and methodologies of Agile transformation. While there are mentions of Agile practices, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1333,11 +1339,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:30:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:32:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses migration services related to transitioning from TFS to Azure DevOps, which touches on aspects of application lifecycle management, particularly in the context of deployment and maintenance. However, the primary focus is on migration tools and services rather than a comprehensive discussion of the application lifecycle stages or governance.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, which is a specific aspect of application lifecycle management. It discusses the challenges, tools, and best practices involved in this migration, aligning with the core themes of ALM. However, it does not cover the entire application lifecycle comprehensively, such as maintenance or retirement stages, which limits its depth of discussion.",
     "level": "Tertiary"
   },
   "Value Stream Management": {

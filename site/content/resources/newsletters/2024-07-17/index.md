@@ -23,6 +23,15 @@ categories:
 - Scrum
 tags:
 - Discovery and Learning
+- Product Discovery
+- Product Validation
+- Events and Presentations
+- Agile Product Management
+- Products and Books
+- Product Delivery
+- Value Delivery
+- Agile Product Operating Model
+- Team Collaboration
 
 ---
 **Dear Innovators and Product Enthusiasts,**

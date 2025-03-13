@@ -30,7 +30,6 @@ tags:
 - Events and Presentations
 - Personal
 - News and Reviews
-- People and Process
 categories:
 - Social Technologies
 preview: clip_image001-1-2-2.jpg

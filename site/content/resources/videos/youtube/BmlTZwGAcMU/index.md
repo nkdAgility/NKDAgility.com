@@ -32,14 +32,10 @@ sitemap:
 tags:
 - Agile Project Management
 - Software Development
-- Agile Values and Principles
-- Discovery and Learning
-- Continuous Learning
+- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 One of my favorite quotes is from the legendary Peter Drucker: **"Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence, without theory, there is no learning."** This profound idea resonates deeply with my approach to immersive learning, especially in the context of **Scrum** and **Agile**.

@@ -298,12 +298,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:32:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Kanban to improve processes and transparency in software engineering, which relates to product delivery methodologies, but it primarily focuses on process observation and improvement rather than the end-to-end delivery of software products.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:02:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content extensively discusses Kanban as a methodology for improving software delivery processes, focusing on transparency, continuous improvement, and metrics that align closely with product delivery principles. It provides practical examples and insights into how Kanban can enhance workflows, making it a primary focus of the discussion. However, while it touches on product delivery, it does not delve deeply into all aspects of the category, such as deployment strategies or cross-functional team roles, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -316,20 +319,26 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:32:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:24:59",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Kanban to improve transparency and adaptability within software engineering, which aligns with the principles of organisational agility. However, it primarily focuses on the Kanban methodology rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses Kanban as a tool for enhancing transparency and continuous improvement, which aligns well with the principles of organisational agility. It highlights the importance of understanding workflows, adapting to changes, and making data-driven decisions, all of which are core themes of agility. The depth of discussion on metrics, team collaboration, and real-world examples further supports its relevance to the category.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:32:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:33:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of transparency in the context of using Kanban, focusing on understanding processes, metrics, and visualisations that enhance team awareness and improvement, which aligns well with the principles of transparency and accountability.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role of transparency in the Kanban methodology, highlighting how it aids in understanding workflows and identifying areas for improvement. It provides specific examples of how transparency has led to better decision-making and enhanced team performance. The depth of discussion on metrics and visualisation techniques further aligns with the principles of accountability and continuous improvement, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Discovery and Learning": {

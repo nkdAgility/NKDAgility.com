@@ -32,8 +32,6 @@ sitemap:
 tags:
 - Agile Transformation
 - Technical Leadership
-- People and Process
-- Agile Values and Principles
 resourceTypes:
 - video
 categories:

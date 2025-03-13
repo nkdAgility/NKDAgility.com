@@ -844,12 +844,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T17:01:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses applying policies to TFVC branches, which involves configuring source control settings. While it touches on some aspects of system configuration, the primary focus is on policies and procedures in source control rather than direct system setup and configuration methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses branch policies in TFVC, which relates to system configuration in terms of managing source control and applying policies to branches. However, the focus is more on the implementation of policies rather than the broader aspects of system configuration such as optimisation, monitoring, or security considerations. While it does touch on configuration management, it lacks depth in discussing best practices or methodologies for system configuration as a whole.",
+    "level": "Quaternary"
   },
   "Product Strategy": {
     "category": "Product Strategy",

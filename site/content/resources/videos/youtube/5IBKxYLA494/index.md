@@ -30,6 +30,10 @@ tags:
 - Software Development
 - People and Process
 - Agile Product Management
+- Scrum Team
+- Azure DevOps
+- Agile Planning
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

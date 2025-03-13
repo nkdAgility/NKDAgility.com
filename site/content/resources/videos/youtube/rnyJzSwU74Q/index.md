@@ -29,9 +29,9 @@ tags:
 - Software Developers
 - Pragmatic Thinking
 - People and Process
+- Agile Transformation
 - Agile Frameworks
 - Agile Project Management
-- Agile Philosophy
 - Empirical Process Control
 - Agile Product Management
 - Software Development

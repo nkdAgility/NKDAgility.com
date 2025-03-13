@@ -29,12 +29,8 @@ tags:
 - Scrum Team
 - Agile Project Management
 - Software Development
+- Agile Frameworks
 - People and Process
-- Scrum Master
-- Agile Leadership
-- Technical Leadership
-- Team Performance
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

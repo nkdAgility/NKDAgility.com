@@ -26,9 +26,9 @@ duration: 5631
 isShort: false
 tags:
 - Events and Presentations
+- Agile Transformation
 - People and Process
 - Agile Philosophy
-- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

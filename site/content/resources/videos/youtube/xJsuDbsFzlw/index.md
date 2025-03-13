@@ -26,6 +26,15 @@ duration: 198
 isShort: false
 tags:
 - Agile Planning Tools
+- Agile Planning
+- Agile Project Management
+- Coaching
+- People and Process
+- Scrum Master
+- Agile Product Management
+- Agile Transformation
+- Events and Presentations
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

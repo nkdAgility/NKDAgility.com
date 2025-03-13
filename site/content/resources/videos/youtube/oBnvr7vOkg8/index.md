@@ -30,11 +30,6 @@ sitemap:
 tags:
 - People and Process
 - Software Development
-- Pragmatic Thinking
-- Personal
-- Organisational Change
-- Agile Transformation
-- Software Developers
 resourceTypes:
 - video
 categories:

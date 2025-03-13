@@ -39,7 +39,6 @@ tags:
 - Pragmatic Thinking
 - People and Process
 - Team Collaboration
-- Transparency
 resourceTypes:
 - video
 categories:

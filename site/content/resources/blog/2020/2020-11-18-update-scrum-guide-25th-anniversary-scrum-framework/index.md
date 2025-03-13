@@ -29,6 +29,14 @@ aliasesArchive:
 tags:
 - Agile Frameworks
 - Agile Project Management
+- Scrum Product Development
+- Scrum Team
+- Professional Scrum
+- Software Development
+- News and Reviews
+- Agile Planning
+- People and Process
+- Agile Product Management
 categories:
 - Scrum
 - Social Technologies

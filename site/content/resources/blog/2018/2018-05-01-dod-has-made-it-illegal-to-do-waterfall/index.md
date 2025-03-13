@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
 tags:
 - Business Agility
+- Product Delivery
 - Agile Product Management
 - Increment
 - Market Adaptability
@@ -32,7 +33,6 @@ tags:
 - Agile Values and Principles
 - Empirical Process Control
 - Large Scale Agility
-- Scrum Product Development
 categories:
 - Social Technologies
 - Engineering Excellence

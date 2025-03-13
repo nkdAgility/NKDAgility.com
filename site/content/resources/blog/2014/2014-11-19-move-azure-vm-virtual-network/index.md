@@ -30,7 +30,6 @@ tags:
 - Install and Configuration
 - System Configuration
 - Practical Techniques and Tooling
-- Troubleshooting
 categories: []
 preview: nakedalm-windows-logo-8-8.png
 

@@ -28,8 +28,6 @@ tags:
 - Events and Presentations
 - Practical Techniques and Tooling
 - Remote Working
-- Products and Books
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

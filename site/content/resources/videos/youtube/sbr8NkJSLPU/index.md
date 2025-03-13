@@ -31,9 +31,6 @@ tags:
 - Agile Frameworks
 - People and Process
 - Flow Efficiency
-- Lean Thinking
-- Team Collaboration
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

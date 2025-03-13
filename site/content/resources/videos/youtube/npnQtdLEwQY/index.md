@@ -26,6 +26,12 @@ duration: 668
 isShort: false
 tags:
 - Technical Debt
+- Code and Complexity
+- Technical Mastery
+- Pragmatic Thinking
+- Software Development
+- Engineering Practices
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
