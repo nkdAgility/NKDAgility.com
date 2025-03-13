@@ -30,11 +30,14 @@ aliasesArchive:
 tags:
 - Backlog Refinement
 - Scrum Product Development
+- Agile Project Management
 - Product Backlog
 - Professional Scrum
 - Software Development
 - Definition of Ready
-- Agile Project Management
+- People and Process
+- Agile Product Management
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies

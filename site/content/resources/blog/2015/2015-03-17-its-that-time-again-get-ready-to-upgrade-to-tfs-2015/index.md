@@ -28,10 +28,6 @@ aliasesArchive:
 - /resources/blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 tags:
 - Software Development
-- Release Management
-- Install and Configuration
-- News and Reviews
-- System Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 

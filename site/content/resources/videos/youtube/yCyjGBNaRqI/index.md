@@ -24,16 +24,16 @@ preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: false
 tags:
+- Team Motivation
 - People and Process
 - Organisational Culture
+- Team Performance
 - Employee Engagement
-- Team Motivation
 - Team Collaboration
 - Agile Leadership
 - Organisational Psychology
 - Self Organisation
 - Agile Philosophy
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

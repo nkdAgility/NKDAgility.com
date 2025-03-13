@@ -31,6 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - Professional Scrum
+- Agile Project Management
+- Pragmatic Thinking
 - Software Development
 - Empirical Process Control
 - Scrum Product Development
@@ -38,8 +40,6 @@ tags:
 - People and Process
 - Transparency
 - Agile Frameworks
-- Scrum Team
-- Scrum Master
 resourceTypes:
 - video
 layout: video

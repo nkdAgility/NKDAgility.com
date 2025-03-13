@@ -247,11 +247,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:38:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of story points on team performance and delivery, which relates to strategic alignment and optimisation of delivery processes. However, the primary focus is on the critique of story points rather than a clear strategic approach within Agile frameworks.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the historical context and issues surrounding story points in Agile, which indirectly relates to strategic alignment and optimisation of delivery processes. It highlights dysfunctional behaviours caused by a focus on story points, suggesting a need for a value-driven approach and the adoption of flow metrics, which aligns with strategic improvement practices. However, the primary focus is on the critique of story points rather than a comprehensive discussion on strategy itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
@@ -313,12 +316,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses flow metrics and mentions cycle time as part of a broader critique of story points, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:07:39",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 70.0,
+    "reasoning": "The content discusses cycle time as part of flow metrics, highlighting its importance in measuring work efficiency. However, the primary focus is on the critique of story points rather than an in-depth exploration of cycle time itself. While it mentions cycle time and its implications, the overall discussion is more centred on the dysfunctions caused by story points and the need for a shift towards flow metrics.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -961,12 +967,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T14:37:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:30:27",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of story points on Agile practices and highlights the importance of focusing on value delivery rather than arbitrary metrics. While it primarily critiques a specific practice, it does touch on broader Agile principles such as value delivery and adaptability.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content discusses the historical context and issues surrounding story points in Agile, highlighting the shift from absolute to relative estimation and the dysfunctions that arise from focusing on story points rather than value delivery. It aligns with Agile Philosophy by emphasising the importance of value, adaptability, and the need for cultural shifts in Agile practices. However, while it touches on Agile principles, the primary focus is on the critique of a specific practice rather than a broader discussion of Agile values and principles.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",

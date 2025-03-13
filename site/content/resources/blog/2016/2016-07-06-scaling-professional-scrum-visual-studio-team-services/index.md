@@ -28,6 +28,15 @@ aliasesArchive:
 - /resources/blog/scaling-professional-scrum-visual-studio-team-services
 tags:
 - Events and Presentations
+- Scaling Scrum
+- Software Development
+- Scaled Agile
+- Large Scale Agility
+- News and Reviews
+- Practical Techniques and Tooling
+- Products and Books
+- Scaling Agility
+- Scrum Product Development
 categories:
 - Scrum
 - Social Technologies

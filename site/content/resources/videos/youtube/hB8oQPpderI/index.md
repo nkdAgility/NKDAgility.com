@@ -36,12 +36,9 @@ tags:
 - People and Process
 - Team Collaboration
 - Continuous Learning
-- Discovery and Learning
-- Software Development
 resourceTypes:
 - video
-categories:
-- Social Technologies
+categories: []
 
 ---
 **One limitation of reading a book vs attending a course**

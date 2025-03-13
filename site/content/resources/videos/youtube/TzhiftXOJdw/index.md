@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Organisational Culture
 - Organisational Agility
 - People and Process
 - Market Adaptability
@@ -38,7 +39,6 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Change Management
-- Organisational Change
 resourceTypes:
 - video
 categories:

@@ -29,13 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- Agile Frameworks
 - People and Process
-- Agile Leadership
-- Agile Philosophy
-- Software Developers
-- Pragmatic Thinking
-- Technical Leadership
-- Team Performance
 resourceTypes:
 - video
 layout: video

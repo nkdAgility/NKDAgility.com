@@ -31,10 +31,8 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Team Performance
+- Scrum Product Development
 - Team Collaboration
-- Software Development
-- Agile Leadership
-- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

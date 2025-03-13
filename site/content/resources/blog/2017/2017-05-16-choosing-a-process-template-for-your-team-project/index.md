@@ -24,6 +24,15 @@ aliasesArchive:
 - /resources/blog/choosing-a-process-template-for-your-team-project
 tags:
 - Software Development
+- Agile Project Management
+- Agile Frameworks
+- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Scrum Product Development
+- Decision Making
+- People and Process
+- Agile Planning
+- Operational Practices
 categories:
 - Scrum
 preview: IC749984-1-1.png

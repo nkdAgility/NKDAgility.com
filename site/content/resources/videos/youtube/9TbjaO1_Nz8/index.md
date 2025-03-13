@@ -26,13 +26,6 @@ duration: 151
 isShort: false
 tags:
 - Agile Product Management
-- Entrepreneurship
-- People and Process
-- Product Owner
-- Product Discovery
-- Product Strategy
-- Value Delivery
-- Agile Product Operating Model
 sitemap:
   filename: sitemap.xml
   priority: 0.6

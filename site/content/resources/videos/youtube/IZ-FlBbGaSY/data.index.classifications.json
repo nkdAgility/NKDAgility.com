@@ -610,12 +610,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-12T05:59:32",
-    "ai_confidence": 90,
-    "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the principles and practices of Continuous Integration (CI), including its definition, the importance of mainline branching, and the relationship between CI and Continuous Delivery (CD). It provides insights into best practices, the role of automation, and examples of CI implementations, making it a central theme throughout the text.",
-    "level": "Primary"
+    "calculated_at": "2025-03-13T14:46:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of a culture of quality in software development and briefly mentions CI/CD pipelines as part of the services offered by NKD Agility. However, the primary focus is on organisational culture and engineering excellence rather than the principles and practices of Continuous Integration itself. While there are relevant mentions and some alignment with CI concepts, the depth of discussion on CI is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -628,12 +631,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T05:59:35",
-    "ai_confidence": 90,
-    "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses Continuous Integration and Continuous Delivery principles, practices, and methodologies, including the importance of mainline branching, the role of automation, and strategies for production readiness. It provides insights into real-world applications and challenges faced by teams in implementing CI/CD effectively.",
-    "level": "Primary"
+    "calculated_at": "2025-03-13T14:57:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which are relevant to Continuous Delivery principles. However, it primarily focuses on organisational culture and Agile methodologies rather than the specific practices and methodologies of Continuous Delivery. While CI/CD pipelines are mentioned, they are not the main focus of the discussion, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -781,11 +787,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T06:00:02",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-13T15:20:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses continuous integration and continuous delivery (CI/CD) practices, which are central to improving operational efficiency in software development. It provides practical insights into the implementation of CI/CD, mainline branching, and deployment strategies, aligning well with the key topics of operational practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of building a culture of quality within organisations, which aligns with operational practices aimed at enhancing efficiency and delivery. It mentions Agile frameworks and the need for technical excellence and leadership, which are relevant to operational practices. The depth of discussion includes examples from Boeing and Volkswagen, illustrating the consequences of neglecting quality, thus providing a practical context. However, while it touches on operational practices, it does not delve deeply into specific methodologies or metrics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -916,12 +925,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-12T06:00:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses continuous integration and continuous delivery (CI/CD) practices, which are central to deployment strategies. It elaborates on methodologies for integrating code and delivering it to production, including the use of ring-based deployment models and the importance of mainline branching. While it touches on broader themes of quality and automation, the focus remains on deployment methodologies.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-13T16:20:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of a culture of quality within organisations and does not focus on specific deployment strategies. While it briefly mentions CI/CD pipelines and related practices, these are not the main focus of the discussion. The content lacks detailed exploration of deployment methodologies, making it only tangentially related to the category.",
+    "level": "Quaternary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -934,11 +946,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T06:00:26",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses continuous integration and continuous delivery (CI/CD) practices, emphasising the importance of mainline branching and the role of these methodologies in improving software quality and reducing risks. It aligns well with the principles of software craftsmanship and engineering excellence.",
+    "calculated_at": "2025-03-13T16:28:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of a culture of quality and engineering excellence, which aligns with the principles of technical mastery. It mentions technical leadership and the impact of organisational culture on software quality, but lacks detailed exploration of specific methodologies or practices. The discussion is somewhat broad and includes references to Agile frameworks, which, while relevant, do not delve deeply into technical practices or principles.",
     "level": "Secondary"
   },
   "Release Management": {

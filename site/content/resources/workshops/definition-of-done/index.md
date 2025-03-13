@@ -26,8 +26,7 @@ card:
   title: 
 categories:
 - Scrum
-tags:
-- Definition of Done
+tags: []
 
 ---
 # What is the Definition of Done (DoD)

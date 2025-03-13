@@ -29,6 +29,11 @@ tags:
 - Software Development
 - Test Driven Development
 - Engineering Practices
+- Working Software
+- Automated Testing
+- Software Developers
+- Technical Mastery
+- Practical Techniques and Tooling
 categories:
 - Engineering Excellence
 - Social Technologies

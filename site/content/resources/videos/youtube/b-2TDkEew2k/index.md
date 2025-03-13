@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
+- Operational Practices
 - Agile Values and Principles
 - Agile Planning
 - Agile Frameworks
@@ -33,8 +34,6 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Software Development
-- Agile Product Management
-- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

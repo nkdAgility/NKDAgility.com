@@ -25,9 +25,9 @@ preview: https://i.ytimg.com/vi/3nSV-v2cK-w/maxresdefault.jpg
 duration: 255
 isShort: false
 tags:
+- Team Collaboration
 - Agile Transformation
 - Agile Project Management
-- Team Collaboration
 - Team Motivation
 - Resilience and Change
 - Agile Philosophy

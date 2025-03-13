@@ -29,11 +29,10 @@ tags:
 - People and Process
 - Agile Frameworks
 - Agile Project Management
-- Agile Transformation
 - Professional Scrum
 - Software Development
 - Agile Leadership
-- Pragmatic Thinking
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

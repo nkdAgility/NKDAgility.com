@@ -28,10 +28,6 @@ sitemap:
 tags:
 - Software Developers
 - Software Development
-- Strategy
-- Agile Project Management
-- Pragmatic Thinking
-- People and Process
 resourceTypes:
 - video
 categories:

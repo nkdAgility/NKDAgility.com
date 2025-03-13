@@ -313,12 +313,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-13T16:40:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 59.0,
-    "reasoning": "The content discusses the importance of understanding complexity and empiricism in Scrum, as well as the roles of transparency, inspection, and adaptation in Agile practices. While it focuses primarily on Scrum roles and processes, it touches upon elements of strategic thinking within Agile environments, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses Agile Product Strategy and its implications for Scrum teams, focusing on complexity, transparency, inspection, and adaptation, which are core strategic themes in Agile. It provides a detailed exploration of how these concepts can enhance team effectiveness and aligns well with the strategic alignment of Agile practices. However, while it touches on strategy, it does not delve deeply into metrics or KPIs, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -880,11 +883,14 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:10:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and the importance of transparency, inspection, and adaptation, which are related to self-organisation in Agile. However, it primarily focuses on complexity and empirical processes rather than self-organisation as a central theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile and Scrum principles, particularly focusing on complexity, transparency, inspection, and adaptation. However, it lacks a direct emphasis on self-organisation as a primary theme. While it touches on collaboration and continuous improvement, it does not delve deeply into the practices or principles that specifically enable teams to operate autonomously or take ownership of their work. The discussion is more about understanding complexity in Scrum rather than fostering self-organisation.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -1015,12 +1021,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:35:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:32:54",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of transparency, inspection, and adaptation, which aligns with Agile principles, but it primarily focuses on specific Scrum roles and events.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Scrum practices and specific Agile frameworks, discussing concepts like complexity, transparency, inspection, and adaptation within the context of Scrum. While it touches on Agile principles, it does so in a way that is heavily tied to Scrum, which detracts from a broader discussion of Agile Philosophy. The mention of Agile is secondary to the technical aspects of Scrum, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",

@@ -37,9 +37,9 @@ tags:
 - Sociotechnical Systems
 - Systems Thinking
 - Agile Frameworks
-- Agile Leadership
 - Agile Philosophy
 - Agile Strategy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

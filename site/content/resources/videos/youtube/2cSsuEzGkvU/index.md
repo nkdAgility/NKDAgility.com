@@ -24,15 +24,12 @@ preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
+- Agile Philosophy
+- Team Motivation
+- Agile Leadership
 - People and Process
 - Agile Values and Principles
 - Team Collaboration
-- Team Motivation
-- Discovery and Learning
-- Business Agility
-- Personal
-- Coaching
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

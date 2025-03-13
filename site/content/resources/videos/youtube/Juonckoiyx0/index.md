@@ -28,6 +28,7 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Sprint Review
 - Agile Product Management
 - Software Development
 - Professional Scrum
@@ -36,7 +37,6 @@ tags:
 - Product Delivery
 - Transparency
 - Scrum Product Development
-- Scrum Team
 resourceTypes:
 - video
 categories:

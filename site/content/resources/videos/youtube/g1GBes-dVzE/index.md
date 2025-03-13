@@ -30,10 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Coaching
-- People and Process
-- Pragmatic Thinking
-- Agile Project Management
-- Team Performance
 resourceTypes:
 - video
 categories:

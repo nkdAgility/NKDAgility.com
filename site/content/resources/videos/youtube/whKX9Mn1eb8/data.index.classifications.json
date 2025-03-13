@@ -55,12 +55,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:20:32",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of quality and delivering value, which aligns with Lean principles, but it primarily focuses on quality engineering and the shift left concept rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the 'shift left' approach in software development, which aligns with Lean principles of early quality assurance and continuous feedback. However, it primarily focuses on quality assurance rather than the broader scope of Lean Product Development, such as waste reduction and customer value. While it touches on some relevant themes, it lacks depth in discussing Lean methodologies and does not explicitly mention Lean principles.",
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -73,12 +76,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of 'shift left' in quality assurance, which is related to test automation principles, but it primarily focuses on broader quality engineering practices rather than specifically on test automation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T14:57:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the shift-left approach in software development, which includes aspects of quality assurance and the importance of early testing. While it mentions the integration of automated testing, the primary focus is on the broader concept of quality assurance rather than specifically on test automation practices, frameworks, or tools. The discussion lacks detailed exploration of test automation frameworks or metrics, which are crucial for a higher confidence score in this category.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -130,12 +136,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:28:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering high-quality, usable products regularly, which aligns with the Increment concept, but it primarily focuses on quality engineering and the shift left approach rather than the Increment itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of delivering high-quality software and the shift-left approach, which indirectly relates to the concept of Increment in Agile. However, it does not explicitly mention Increments or their significance in Agile frameworks. The focus is more on quality assurance and collaboration rather than the delivery of potentially shippable product increments, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -1216,12 +1225,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:46:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of quality in software engineering and introduces the concept of 'shift left', which relates to code quality and development processes. However, it does not delve deeply into the complexities of software architecture or the interplay between code quality and complexity, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the 'shift left' approach in software development, which relates to quality assurance and its integration into the development process. While it touches on aspects of code quality and the importance of early involvement of QA, it does not delve deeply into the complexities of software architecture or the theoretical underpinnings of complexity theory. The primary focus is on practical implementation rather than a thorough exploration of the interplay between code quality and complexity, leading to a moderate confidence score.",
+    "level": "Quaternary"
   },
   "Lean": {
     "category": "Lean",
@@ -1264,12 +1276,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:01:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'shift left' in quality engineering, which relates to practical techniques in software development. However, it does not delve deeply into specific tools or methodologies, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:20:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the 'shift left' approach in quality assurance, which is a practical technique that aligns with Agile and DevOps methodologies. It provides a clear overview of how to implement this technique, including early involvement of QA, continuous feedback, and collaboration, which are all key aspects of tooling and methodologies in software development. The depth of discussion is significant, with practical recommendations for implementation, making it a strong fit for the category.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",

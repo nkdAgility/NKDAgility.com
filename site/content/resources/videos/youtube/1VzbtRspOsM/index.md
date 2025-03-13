@@ -29,16 +29,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Continuous Learning
+- Organisational Change
 - People and Process
 - Team Motivation
 - Mentoring
 - Team Collaboration
 - Agile Leadership
 - Discovery and Learning
-- Organisational Agility
-- Coaching
-- Personal
-- Organisational Culture
 resourceTypes:
 - video
 layout: video

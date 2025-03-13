@@ -28,11 +28,7 @@ isShort: true
 tags:
 - Product Delivery
 - Software Development
-- Working Software
-- Automated Testing
-- Engineering Practices
-- Value Delivery
-- Software Developers
+- Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
   priority: 0.6

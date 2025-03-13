@@ -409,12 +409,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T16:20:27",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses continuous delivery and its benefits within the context of DevOps, highlighting methodologies and practices that enhance software development processes.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-13T14:45:45",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 20,
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses continuous delivery and automation within the context of software development, aligning closely with key topics such as CI/CD practices and DevOps integration. It provides detailed insights into the benefits of automation, risk mitigation, and real-world examples, demonstrating a deep understanding of the subject matter.",
+    "level": "Primary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -472,11 +475,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T16:20:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses continuous delivery and its role in enhancing operational efficiency through automation and feedback loops, which aligns well with the principles of DevOps and operational practices.",
+    "calculated_at": "2025-03-13T14:52:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the role of automation in continuous delivery, which is a key operational practice within the DevOps framework. It highlights specific benefits such as consistency, risk mitigation, and the importance of automated checks, aligning well with the core themes of operational efficiency and continuous improvement. The depth of discussion is significant, providing real-world examples and metrics that illustrate the impact of these practices on organisational performance.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -490,11 +496,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T16:20:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:52:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits and practices of continuous delivery, which is a key aspect of delivering working software. It highlights the importance of automation, risk reduction, and faster feedback loops in the context of delivering functional software to customers.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the principles of continuous delivery and automation, which are crucial for delivering high-quality, functional software. It highlights the importance of consistency, reliability, and risk mitigation in software delivery, aligning well with the core themes of working software. The depth of discussion is significant, providing real-world examples and insights into how automation transforms software development processes, thus meeting customer needs effectively.",
     "level": "Secondary"
   },
   "Sprint Review": {
@@ -652,11 +661,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-12T16:21:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:53:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 34.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the principles and benefits of continuous delivery, including automation, risk reduction, and the impact on release frequency, making it a central theme.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses continuous delivery and automation, which are integral to the concept of frequent releases. It highlights the importance of rapid feedback loops and the ability to deploy features quickly, aligning well with the principles of frequent releases. However, while it touches on these themes, it does not explicitly focus on the broader strategies or metrics for measuring release frequency, which slightly limits its depth in the context of the category.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
@@ -724,11 +736,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T16:21:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:54:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the principles and practices of continuous delivery within the context of DevOps, highlighting its impact on software quality, risk management, and feedback loops, which aligns closely with the themes of technical mastery.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the principles and practices of continuous delivery and automation within the DevOps framework, which aligns closely with the core themes of Technical Mastery. It discusses the importance of automation in improving software delivery processes, risk mitigation, and maintaining software quality, all of which are key aspects of software craftsmanship. The depth of discussion is substantial, providing real-world examples and insights into how automation transforms software development. However, while it touches on technical excellence, it does not delve deeply into broader software design principles or clean code practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -751,12 +766,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T11:59:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:27:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous delivery and its impact on feedback loops and delivery speed, which are related to Cycle Time, but the primary focus is on automation and risk reduction rather than directly measuring or analysing Cycle Time.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses continuous delivery and automation, which are related to improving workflow efficiency, but it does not explicitly mention Cycle Time or provide a focused discussion on its measurement or implications. While there are references to speed and feedback loops, these concepts are not directly tied to Cycle Time as defined in the category.",
+    "level": "Quaternary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -853,11 +871,14 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-12T16:22:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:56:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses continuous delivery, its benefits, and its role in reducing risk and increasing deployment effectiveness, which aligns closely with deployment strategies.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on continuous delivery, which is a key aspect of deployment strategies. It discusses the importance of automation in deployment processes, risk mitigation, and the benefits of rapid feedback loops, all of which align closely with the core themes of the category. However, while it provides substantial insights into continuous delivery, it lacks detailed discussions on specific deployment methodologies like Blue-Green Deployments or Canary Releases, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -943,11 +964,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-12T16:22:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:19:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses continuous delivery, its benefits, and its role in reducing risk and increasing effectiveness in software releases, aligning closely with release management practices.",
+    "final_score": 70.0,
+    "reasoning": "The content extensively discusses continuous delivery, which is a key aspect of release management. It highlights the importance of automation, risk mitigation, and rapid feedback loops, all of which are integral to effective release processes. The examples provided, such as the Azure DevOps transformation, illustrate practical applications of release management strategies. However, while the focus is strong, it does not delve deeply into broader release management topics like version control or stakeholder coordination, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -988,11 +1012,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T16:22:41",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses continuous delivery, automation, and the benefits of these practices within the context of DevOps, aligning closely with key topics in Engineering Practices.",
+    "calculated_at": "2025-03-13T16:19:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 16,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on continuous delivery and automation, which are key aspects of engineering practices in Agile development. It discusses the importance of automation in reducing errors, enhancing reliability, and improving feedback loops, aligning well with the principles of CI/CD and automation. The depth of discussion is substantial, providing real-world examples and insights into the transformation brought by these practices. However, while it touches on related themes, it does not delve deeply into other core topics like TDD or clean code, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {

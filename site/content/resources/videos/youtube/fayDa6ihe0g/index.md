@@ -24,8 +24,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/fayDa6ihe0g/maxresdefault.jpg
 duration: 301
 isShort: false
-tags:
-- Events and Presentations
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4

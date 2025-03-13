@@ -559,11 +559,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:30:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 2,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Service Level Expectations (SLE) and Cycle Time, which are related to Lead Time, but the primary focus is on Kanban practices and flow optimization rather than Lead Time itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of Service Level Expectation (SLE), which is directly related to Lead Time as it forecasts how long it should take for a work item to flow from start to finish. Additionally, it mentions Cycle Time, which is closely related to Lead Time. However, the primary focus of the content is on Kanban practices and flow optimization rather than a detailed exploration of Lead Time itself. Therefore, while there are relevant mentions and some alignment, the depth of discussion on Lead Time specifically is limited.",
     "level": "Tertiary"
   },
   "Scaled Agile": {
@@ -715,11 +718,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-12T13:54:24",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-13T15:00:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses Kanban, which is closely related to Lean principles, particularly in terms of optimising flow and value delivery. However, it primarily focuses on Kanban practices rather than Lean principles themselves, making Lean a major but secondary theme.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses Kanban, which is closely related to Lean Principles, particularly in its focus on optimising flow and value delivery. It mentions concepts like continuous improvement and waste reduction, which align with Lean thinking. However, the primary focus is on Kanban itself rather than a broader discussion of Lean Principles, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Agile Transformation": {
@@ -778,11 +784,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T13:54:35",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-13T15:22:49",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily focuses on Kanban as a strategy for optimising workflow and enhancing operational efficiency, detailing practices, metrics, and continuous improvement strategies that align closely with the principles of Operational Practices.",
+    "final_score": 84.0,
+    "reasoning": "The content extensively discusses Kanban as a strategy for optimising workflow and enhancing operational efficiency. It covers key practices such as defining and visualising workflows, managing work in progress, and continuous improvement, all of which are central to operational practices in Agile and Lean methodologies. The depth of discussion is significant, providing detailed explanations of Kanban principles, practices, and metrics, which directly align with the category's focus on enhancing operational efficiency.",
     "level": "Primary"
   },
   "Evidence Based Management": {
@@ -832,11 +841,14 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T12:10:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:22:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of Service Level Expectation (SLE) as a forecast of how long it should take a work item to flow from started to finished, which relates to forecasting in Kanban. However, the primary focus is on Kanban practices and principles rather than forecasting methodologies within Agile and Scrum.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the concept of Service Level Expectation (SLE), which is a forecast of how long it should take for work items to flow from start to finish. This aligns with the category of Forecasting as it involves predicting delivery timelines based on historical data. Additionally, the content touches on the importance of metrics and continuous improvement, which are relevant to forecasting practices. However, the primary focus is on Kanban practices rather than forecasting methodologies within Agile and Scrum, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Leadership": {

@@ -30,9 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Leadership
-- Organisational Agility
-- Agile Strategy
 resourceTypes:
 - video
 categories:

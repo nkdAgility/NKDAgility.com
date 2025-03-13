@@ -253,12 +253,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:45:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of terminology on product development processes, which relates to strategic alignment and optimisation of delivery. However, it primarily focuses on the terminology rather than broader strategic frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the terminology used in product development, specifically the term 'User Stories' and its implications for clarity and communication within Agile frameworks. While it touches on the importance of language in shaping approaches to work, it does not delve deeply into strategic alignment or the broader strategic implications of Agile practices. The focus is more on terminology and its impact rather than on strategic planning or execution, which limits its alignment with the Strategy category.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -760,11 +763,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T18:25:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:15:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses the management of the Product Backlog and the implications of terminology used in Scrum, specifically advocating for a shift from 'User Stories' to 'Product Backlog Items', which is central to Scrum practices.",
+    "final_score": 77.0,
+    "reasoning": "The content discusses the concept of 'User Stories' and proposes a shift to 'Product Backlog Items', which directly relates to the management of the Product Backlog in Scrum. It aligns with Scrum principles by emphasising clarity and flexibility in product development. However, while it touches on Scrum practices, it does not delve deeply into the roles, events, or iterative processes of Scrum, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Operational Practices": {
@@ -949,11 +955,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:37:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of terminology in Agile practices, particularly around 'User Stories' and 'Product Backlog Items', which relates to Agile principles of flexibility and effective communication. However, it primarily focuses on a specific aspect of Agile practice rather than the broader Agile philosophy.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the terminology used in Agile practices, specifically critiquing the term 'User Stories' and advocating for a more flexible approach with 'Product Backlog Items'. While it touches on Agile concepts, it primarily focuses on a specific aspect of product backlog management rather than the broader Agile philosophy. The discussion lacks depth in exploring Agile principles such as collaboration, adaptability, and continuous improvement, which are central to the Agile Philosophy.",
     "level": "Tertiary"
   },
   "Modern Source Control": {

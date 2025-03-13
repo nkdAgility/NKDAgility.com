@@ -29,6 +29,15 @@ aliasesArchive:
 - /resources/blog/getting-started-with-modern-source-control-system-and-devops
 tags:
 - Software Development
+- Practical Techniques and Tooling
+- Technical Mastery
+- Modern Source Control
+- Test First Development
+- Automated Testing
+- Engineering Practices
+- Operational Practices
+- Release Management
+- Software Developers
 categories:
 - DevOps
 preview: excellence-1-1.jpg

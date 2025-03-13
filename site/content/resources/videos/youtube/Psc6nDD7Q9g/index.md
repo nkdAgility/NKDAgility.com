@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Transparency and Accountability
 - Practical Techniques and Tooling
 - Lean
 - Transparency
-- Transparency and Accountability
+- Organisational Agility
 - Software Development
 - Metrics and Learning
 - People and Process
 - Agile Frameworks
 - Agile Project Management
-- Operational Practices
 resourceTypes:
 - video
 categories:

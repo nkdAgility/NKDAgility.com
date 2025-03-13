@@ -26,6 +26,12 @@ duration: 294
 isShort: false
 tags:
 - Transparency
+- Metrics and Learning
+- Operational Practices
+- Strategy
+- Pragmatic Thinking
+- Practical Techniques and Tooling
+- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

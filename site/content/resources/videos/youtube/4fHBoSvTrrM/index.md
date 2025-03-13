@@ -30,15 +30,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Master
 - Agile Project Management
 - Professional Scrum
 - People and Process
-- Scrum Master
-- Agile Frameworks
-- Software Development
-- Coaching
-- Pragmatic Thinking
-- Personal
 - Scrum Team
 resourceTypes:
 - video

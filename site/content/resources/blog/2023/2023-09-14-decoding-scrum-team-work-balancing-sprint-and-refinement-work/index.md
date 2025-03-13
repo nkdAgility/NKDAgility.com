@@ -32,12 +32,12 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Frameworks
+- Software Developers
 - Scrum Product Development
 - Practical Techniques and Tooling
 - Product Delivery
 - People and Process
 - Agile Project Management
-- Backlog Refinement
 categories:
 - Social Technologies
 - Scrum

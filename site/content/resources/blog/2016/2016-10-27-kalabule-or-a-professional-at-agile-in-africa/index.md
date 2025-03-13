@@ -29,8 +29,6 @@ tags:
 - Software Development
 - Agile Philosophy
 - People and Process
-- Software Developers
-- Organisational Culture
 categories:
 - Social Technologies
 - Engineering Excellence

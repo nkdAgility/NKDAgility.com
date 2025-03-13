@@ -29,7 +29,6 @@ sitemap:
 tags:
 - Product Owner
 - Discovery and Learning
-- People and Process
 resourceTypes:
 - video
 categories:

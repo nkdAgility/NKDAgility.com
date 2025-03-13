@@ -35,9 +35,7 @@ tags:
 - Agile Product Management
 - People and Process
 - Strategy
-- Agile Project Management
-- Product Delivery
-- Scrum Master
+- Agile Planning
 resourceTypes:
 - video
 categories:

@@ -27,13 +27,11 @@ isShort: true
 tags:
 - Discovery and Learning
 - Metrics and Learning
+- Agile Values and Principles
 - Decision Making
 - Experimentation
 - Agile Project Management
-- People and Process
-- Evidence Based Management
-- Pragmatic Thinking
-- Hypothesis Driven Development
+- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

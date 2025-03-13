@@ -28,6 +28,9 @@ aliasesArchive:
 - /resources/blog/microsoft-surface-3-unable-boot-usb
 tags:
 - Windows
+- Troubleshooting
+- Install and Configuration
+- System Configuration
 categories: []
 preview: nakedalm-windows-logo-5-5.png
 

@@ -25,12 +25,10 @@ preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
 duration: 31
 isShort: true
 tags:
+- Lean Principles
 - Lean Thinking
 - Lean Product Development
 - Product Owner
-- Product Delivery
-- People and Process
-- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -26,12 +26,11 @@ preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
 duration: 66
 isShort: false
 tags:
-- Agile Leadership
 - Strategy
+- Agile Leadership
 - Agile Product Management
 - People and Process
-- Technical Leadership
-- Team Collaboration
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

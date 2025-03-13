@@ -334,20 +334,26 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-13T15:54:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:58:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses metrics and their role in monitoring team performance and product quality, which aligns with the principles of empirical process control in Agile methodologies. It emphasises transparency and the use of metrics for continuous improvement, making it a central theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various metrics that can be monitored to assess team performance and product quality, which aligns with the principles of empirical process control. It emphasises transparency through the collection of metrics and the importance of monitoring progress, which are key aspects of empirical decision-making. However, while it touches on relevant themes, it lacks a deeper exploration of inspection and adaptation processes, and does not explicitly mention empirical process control or its foundational figures, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-13T15:54:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:21:55",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses deployment/release frequency as a key metric, indicating its significance in understanding team performance and value delivery, which aligns with the category's focus on optimising deployment intervals.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses 'Deployment / Release Frequency' as a key metric, which directly relates to the category of Deployment Frequency. However, the overall focus is broader, encompassing various metrics related to team and project performance, which dilutes the primary emphasis on deployment frequency. While it provides some depth on the topic, it does not explore strategies or challenges related to increasing deployment frequency, limiting its alignment with the core themes of the category.",
     "level": "Secondary"
   },
   "MVP": {
@@ -562,11 +568,14 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-13T15:55:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:21:57",
+    "ai_confidence": 75.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses Cycle Time as a key metric in the context of team performance and workflow efficiency, making it a primary topic alongside other metrics.",
+    "final_score": 68.0,
+    "reasoning": "The content explicitly mentions 'Cycle Time' as a metric within the context of team focus, which directly aligns with the category. However, while it provides a definition, the overall discussion is broader, covering various metrics without delving deeply into Cycle Time's implications or strategies for improvement. This results in a moderate confidence score.",
     "level": "Secondary"
   },
   "Team Motivation": {
@@ -670,11 +679,14 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-13T15:55:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T16:30:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses metrics that can inform decision-making processes within teams and organisations, focusing on evidence-based management principles. However, it primarily centres on the collection and monitoring of metrics rather than structured decision-making methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses various metrics that can be monitored to assess team performance and product quality, which aligns with evidence-based decision-making principles. However, it lacks a direct focus on structured methodologies for decision-making and does not delve deeply into how these metrics inform decisions. The mention of metrics suggests a connection to decision-making, but the overall discussion is more about monitoring than the decision-making process itself.",
     "level": "Secondary"
   },
   "Azure Pipelines": {

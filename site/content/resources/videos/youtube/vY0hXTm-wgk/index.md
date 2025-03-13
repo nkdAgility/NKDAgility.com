@@ -27,11 +27,6 @@ tags:
 - Events and Presentations
 - People and Process
 - Continuous Learning
-- Coaching
-- Agile Leadership
-- Discovery and Learning
-- Agile Frameworks
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

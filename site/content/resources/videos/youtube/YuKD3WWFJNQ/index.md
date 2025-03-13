@@ -35,13 +35,13 @@ tags:
 - People and Process
 - Agile Product Management
 - Agile Leadership
+- Agile Frameworks
 - Product Owner
 - Sprint Review
-- Agile Frameworks
+- Transparency
 - Agile Philosophy
 - Agile Planning
 - Agile Project Management
-- Agile Transformation
 resourceTypes:
 - video
 categories:

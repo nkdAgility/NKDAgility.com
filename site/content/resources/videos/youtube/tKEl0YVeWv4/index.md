@@ -35,7 +35,7 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Continuous Delivery
-- Deployment Strategies
+- Test Automation
 resourceTypes:
 - video
 sitemap:

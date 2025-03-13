@@ -32,14 +32,13 @@ sitemap:
 tags:
 - Agile Leadership
 - People and Process
+- Agile Transformation
+- Agile Strategy
 - Decision Making
 - Pragmatic Thinking
+- Agile Project Management
 - Evidence Based Leadership
 - Organisational Agility
-- Strategy
-- Agile Strategy
-- Metrics and Learning
-- Business Agility
 resourceTypes:
 - video
 categories:

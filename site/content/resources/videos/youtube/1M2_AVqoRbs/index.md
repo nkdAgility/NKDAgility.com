@@ -27,11 +27,6 @@ tags:
 - Technical Debt
 - Product Delivery
 - Value Delivery
-- Organisational Agility
-- Technical Mastery
-- Pragmatic Thinking
-- Strategy
-- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

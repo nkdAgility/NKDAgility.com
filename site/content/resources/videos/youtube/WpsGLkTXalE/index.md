@@ -26,11 +26,10 @@ duration: 50
 isShort: true
 tags:
 - Agile Leadership
+- Agile Philosophy
 - Accountability
 - Agile Product Management
 - People and Process
-- Psychological Safety
-- Transparency and Accountability
 sitemap:
   filename: sitemap.xml
   priority: 0.6

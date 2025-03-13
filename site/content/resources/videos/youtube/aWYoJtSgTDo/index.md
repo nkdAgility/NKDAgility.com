@@ -26,17 +26,13 @@ duration: 204
 isShort: false
 tags:
 - Pragmatic Thinking
-- Personal
-- Continuous Learning
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 One of my friends often jokes that I see Agile and Scrum everywhere, even in the forest during one of my favourite autumn activities: mushroom foraging. And you know what? There’s a surprising amount we can learn about agility from this pastime. Let me share some insights from my experiences that might just resonate with your own journey in Agile practices.

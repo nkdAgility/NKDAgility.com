@@ -28,13 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Business Agility
 - Organisational Agility
 - Value Delivery
 - Market Adaptability
 - Agile Project Management
 - Empirical Process Control
-- People and Process
 - Agile Values and Principles
 - Change Management
 - Continuous Learning

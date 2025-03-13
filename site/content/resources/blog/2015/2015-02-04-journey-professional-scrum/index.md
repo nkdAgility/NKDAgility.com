@@ -28,6 +28,15 @@ aliasesArchive:
 - /resources/blog/journey-professional-scrum
 tags:
 - People and Process
+- Business Agility
+- Product Delivery
+- Discovery and Learning
+- Scrum Product Development
+- Strategy
+- Agile Project Management
+- Organisational Agility
+- Organisational Change
+- Organisational Culture
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

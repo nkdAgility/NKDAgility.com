@@ -30,8 +30,6 @@ tags:
 - Scrum Product Development
 - Agile Product Management
 - Product Delivery
-- Product Backlog
-- Product Owner
 resourceTypes:
 - video
 layout: video

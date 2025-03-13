@@ -32,8 +32,6 @@ sitemap:
 tags:
 - Agile Leadership
 - People and Process
-- Agile Frameworks
-- Technical Leadership
 resourceTypes:
 - video
 categories:

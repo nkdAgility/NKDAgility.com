@@ -24,6 +24,12 @@ aliasesArchive:
 - /resources/blog/online-is-the-new-co-located
 tags:
 - Transparency
+- People and Process
+- Team Collaboration
+- Remote Working
+- Transparency and Accountability
+- Events and Presentations
+- Pragmatic Thinking
 categories:
 - Social Technologies
 - Scrum

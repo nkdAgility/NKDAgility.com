@@ -32,13 +32,13 @@ tags:
 - Agile Project Management
 - Scrum Product Development
 - Product Backlog
-- Product Owner
-- Agile Product Management
-- Software Development
 - Agile Planning
 - Agile Planning Tools
+- Product Owner
+- Backlog Refinement
+- Agile Product Management
+- Software Development
 - Products and Books
-- Professional Scrum
 resourceTypes:
 - video
 categories:

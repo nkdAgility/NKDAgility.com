@@ -25,14 +25,12 @@ preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
 duration: 67
 isShort: false
 tags:
-- Transparency and Accountability
+- Team Performance
+- Agile Philosophy
 - People and Process
 - Team Collaboration
-- Team Performance
+- Transparency and Accountability
 - Agile Leadership
-- Scrum Team
-- Technical Leadership
-- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

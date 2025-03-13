@@ -286,21 +286,27 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T14:08:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to organisational capability and innovation, which are relevant to business agility, but it does not primarily focus on the broader principles or practices of business agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:06:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of innovation and metrics for measuring organizational capability, which aligns with the principles of business agility. It emphasises the need for adaptability and continuous improvement, key aspects of business agility. However, while it touches on relevant themes, it does not explicitly mention business agility or its core principles, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:08:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:28:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to organisational capability and innovation, which aligns with measuring effectiveness in Agile and DevOps practices, but it does not focus primarily on specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses metrics related to innovation and organisational capability, which are relevant to Agile and DevOps practices. However, it lacks direct references to specific tools or methodologies commonly associated with these practices, such as CI/CD or Agile frameworks. While it provides valuable insights into measuring innovation, it does not delve deeply into practical techniques or tooling that enhance Agile and DevOps, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -313,11 +319,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:36:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to organisational capability and innovation in the context of building software products, which aligns with product delivery themes, but it is not primarily focused on the end-to-end process of delivering usable software products.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of innovation in delivering value to customers, which aligns with product delivery principles. It mentions key metrics like active branches, technical debt, and innovation rate, which are relevant to assessing product delivery effectiveness. However, the primary focus is on innovation rather than the end-to-end product delivery process, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {

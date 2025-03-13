@@ -25,6 +25,15 @@ duration: 269
 isShort: false
 tags:
 - Discovery and Learning
+- Product Discovery
+- Value Delivery
+- Pragmatic Thinking
+- Lean Product Development
+- People and Process
+- Continuous Learning
+- Organisational Agility
+- Hypothesis Driven Development
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

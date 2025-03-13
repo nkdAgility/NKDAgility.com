@@ -25,15 +25,15 @@ aliasesArchive:
 - /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 tags:
 - People and Process
+- Agile Project Management
 - Increment
 - Software Development
 - Agile Philosophy
-- Agile Project Management
 - Agile Transformation
-- Team Performance
 - Agile Product Management
 - Agile Values and Principles
 - Software Developers
+- Team Performance
 categories:
 - Social Technologies
 - Scrum

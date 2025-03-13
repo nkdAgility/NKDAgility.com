@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/vsts-sync-migration-tools
 tags:
 - Practical Techniques and Tooling
-- Software Development
-- Azure DevOps
+- Products and Books
 categories:
 - DevOps
 preview: image_thumb-1-1.png

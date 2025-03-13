@@ -31,11 +31,9 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
+- Lean Thinking
 - Organisational Agility
-- Product Delivery
-- Lean Principles
-- Operational Practices
-- Metrics and Learning
+- Strategy
 resourceTypes:
 - video
 categories:

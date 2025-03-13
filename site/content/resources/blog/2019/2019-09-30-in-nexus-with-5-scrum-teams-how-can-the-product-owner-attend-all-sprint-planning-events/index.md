@@ -33,6 +33,7 @@ aliasesArchive:
 tags:
 - Scrum Team
 - Agile Product Management
+- Software Development
 - Agile Project Management
 - Scrum Product Development
 - Product Owner
@@ -40,7 +41,6 @@ tags:
 - Scaling Scrum
 - Large Scale Agility
 - Scaling Agility
-- Software Development
 categories:
 - Scrum
 preview: 146713119-1-1.jpg

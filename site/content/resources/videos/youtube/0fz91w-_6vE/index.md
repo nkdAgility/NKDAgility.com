@@ -31,9 +31,6 @@ tags:
 - Market Adaptability
 - Operational Practices
 - Software Development
-- Discovery and Learning
-- Flow Efficiency
-- Value Stream Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

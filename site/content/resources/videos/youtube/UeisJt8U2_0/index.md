@@ -32,13 +32,9 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Philosophy
 - Agile Project Management
 - Agile Leadership
-- Software Development
-- Personal
-- Scrum Master
-- Software Developers
-- Technical Leadership
 resourceTypes:
 - video
 categories:

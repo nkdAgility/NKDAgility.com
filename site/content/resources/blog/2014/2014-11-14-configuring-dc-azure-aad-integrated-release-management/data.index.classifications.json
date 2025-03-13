@@ -1141,12 +1141,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T17:03:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring a domain controller in Azure, which relates to deployment practices in a cloud environment. However, it primarily focuses on the setup process rather than specific deployment strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on configuring a domain controller in Azure, which is more about setting up infrastructure rather than discussing deployment strategies. While it touches on aspects of deployment, such as creating virtual machines and managing resources, it lacks a direct focus on methodologies like Blue-Green Deployments or Canary Releases. The discussion is more technical and procedural, which does not align closely with the core themes of deployment strategies.",
+    "level": "Quaternary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",

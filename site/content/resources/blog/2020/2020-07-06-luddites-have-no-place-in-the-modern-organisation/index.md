@@ -30,9 +30,6 @@ tags:
 - Organisational Culture
 - Business Agility
 - Resilience and Change
-- Enterprise Agility
-- Change Management
-- Market Adaptability
 categories:
 - Leadership
 - Social Technologies

@@ -33,8 +33,6 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Windows
-- Continuous Integration
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-7-7.png

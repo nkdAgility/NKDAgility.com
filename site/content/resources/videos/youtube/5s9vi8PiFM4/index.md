@@ -30,8 +30,6 @@ tags:
 - Personal
 - Agile Project Management
 - People and Process
-- Agile Frameworks
-- Lean Thinking
 resourceTypes:
 - video
 layout: video

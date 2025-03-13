@@ -34,12 +34,9 @@ tags:
 - Organisational Change
 - Organisational Physics
 - Systems Thinking
+- Agile Philosophy
 - Organisational Agility
 - Sociotechnical Systems
-- Pragmatic Thinking
-- Agile Leadership
-- Change Management
-- Complexity Thinking
 resourceTypes:
 - video
 categories:

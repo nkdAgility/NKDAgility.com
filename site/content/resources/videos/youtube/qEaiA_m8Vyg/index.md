@@ -32,9 +32,6 @@ tags:
 - Customer Feedback Loops
 - Metrics and Learning
 - Empirical Process Control
-- Coaching
-- Personal
-- Team Collaboration
 resourceTypes:
 - video
 categories:

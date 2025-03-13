@@ -31,8 +31,6 @@ tags:
 - People and Process
 - Agile Project Management
 - Team Collaboration
-- Software Developers
-- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -35,12 +35,6 @@ tags:
 - Pragmatic Thinking
 - Agile Transformation
 - Software Development
-- Coaching
-- Agile Project Management
-- Agile Frameworks
-- Mentoring
-- Scrum Team
-- Agile Leadership
 resourceTypes:
 - video
 categories:

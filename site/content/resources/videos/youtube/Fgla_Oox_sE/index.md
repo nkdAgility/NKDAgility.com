@@ -32,12 +32,6 @@ tags:
 - Product Owner
 - People and Process
 - Agile Product Management
-- Scrum Product Development
-- Value Delivery
-- Agile Project Management
-- Customer Feedback Loops
-- Scrum Team
-- Product Strategy
 resourceTypes:
 - video
 categories:

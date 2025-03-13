@@ -30,6 +30,14 @@ aliasesArchive:
 tags:
 - Evidence Based Management
 - Agile Product Management
+- Value Delivery
+- Product Delivery
+- Organisational Agility
+- Ability to Innovate
+- People and Process
+- Revenue per Employee
+- Scrum Product Development
+- Agile Project Management
 categories:
 - Product Management
 - Scrum

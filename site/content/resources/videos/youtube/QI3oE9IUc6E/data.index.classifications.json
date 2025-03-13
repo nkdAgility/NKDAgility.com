@@ -529,11 +529,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-12T03:09:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:15:50",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of having a working usable product at the end of each iteration in Scrum, which aligns with the concept of Increment. However, it also delves into broader topics about Scrum practices and organisational challenges, making Increment a major but secondary theme.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of having a working product at the end of each iteration, which aligns with the Increment concept. However, it primarily focuses on the APS approach and Scrum mastery rather than providing a detailed exploration of Increments themselves. The mention of tangible, working products is significant but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Windows": {
@@ -574,11 +577,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T03:09:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:37:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for improving Scrum implementation, including identifying and addressing inefficiencies ('barnacles') in the process. It emphasises real-world applications of Scrum principles and the importance of adaptability in Agile environments, aligning well with the category of Pragmatic Thinking.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Applied Professional Scrum (APS) and its practical applications in Scrum environments, highlighting the importance of tangible outcomes and the need to eliminate ineffective practices ('barnacles'). It provides a real-world analogy and a specific exercise aimed at improving team performance, which aligns with pragmatic thinking. However, while it touches on practical problem-solving, the focus is more on APS and Scrum principles rather than a broader discussion of pragmatic thinking strategies.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -592,12 +598,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T03:10:00",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-13T16:46:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses Scrum roles, principles, and practices, including the importance of maintaining core Scrum fundamentals and addressing deviations from them.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Scrum, including its principles, roles, and the importance of iterative development. It highlights the significance of delivering a usable product at the end of each iteration, which aligns closely with agile principles. The depth of discussion on the APS approach and its exercises further reinforces its focus on agile methodologies, making it a strong fit for the category.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",

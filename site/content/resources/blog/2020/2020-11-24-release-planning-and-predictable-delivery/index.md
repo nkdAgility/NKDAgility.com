@@ -25,6 +25,14 @@ aliasesArchive:
 tags:
 - Software Development
 - Agile Product Management
+- Product Delivery
+- Value Delivery
+- Estimation
+- Increment
+- Transparency
+- Organisational Agility
+- People and Process
+- Pragmatic Thinking
 categories:
 - Scrum
 preview: nkdAgility-habits-16x9-1280-2-2.jpg

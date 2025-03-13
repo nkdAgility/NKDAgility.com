@@ -33,12 +33,9 @@ sitemap:
 tags:
 - Discovery and Learning
 - Continuous Learning
-- People and Process
-- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 **What are immersive training courses?**

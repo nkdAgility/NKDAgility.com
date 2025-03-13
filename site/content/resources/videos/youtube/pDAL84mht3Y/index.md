@@ -28,10 +28,9 @@ tags:
 - Agile Philosophy
 - Business Agility
 - Organisational Agility
+- Resilience and Change
 - Agile Leadership
 - Team Collaboration
-- People and Process
-- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

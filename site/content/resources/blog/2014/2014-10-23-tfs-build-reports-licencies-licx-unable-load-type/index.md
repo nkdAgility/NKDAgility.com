@@ -28,15 +28,10 @@ aliasesArchive:
 - /resources/blog/tfs-build-reports-licencies-licx-unable-load-type
 tags:
 - Software Development
+- Troubleshooting
 - Pragmatic Thinking
 - Install and Configuration
-- Troubleshooting
 - Practical Techniques and Tooling
-- System Configuration
-- Continuous Integration
-- Operational Practices
-- Release Management
-- Technical Excellence
 categories:
 - DevOps
 - Engineering Excellence

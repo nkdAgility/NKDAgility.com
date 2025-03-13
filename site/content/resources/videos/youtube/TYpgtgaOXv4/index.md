@@ -37,8 +37,6 @@ tags:
 - Product Backlog
 - Product Owner
 - Product Delivery
-- Transparency
-- Software Development
 resourceTypes:
 - video
 categories:

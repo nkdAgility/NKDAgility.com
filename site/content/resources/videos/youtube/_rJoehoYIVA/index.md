@@ -32,8 +32,7 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Practical Techniques and Tooling
-- Install and Configuration
-- Digital Transformation
+- Operational Practices
 resourceTypes:
 - video
 layout: video

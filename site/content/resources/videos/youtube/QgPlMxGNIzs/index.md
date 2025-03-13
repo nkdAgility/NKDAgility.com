@@ -32,12 +32,12 @@ tags:
 - People and Process
 - Agile Values and Principles
 - Organisational Agility
-- Agile Frameworks
 - Agile Project Management
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
 - Software Development
+- Agile Frameworks
 - Agile Leadership
 resourceTypes:
 - video

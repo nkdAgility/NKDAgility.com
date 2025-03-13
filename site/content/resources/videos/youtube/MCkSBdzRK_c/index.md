@@ -26,6 +26,13 @@ duration: 369
 isShort: false
 tags:
 - Evidence Based Leadership
+- Evidence Based Management
+- Metrics and Learning
+- Value Delivery
+- Decision Making
+- Pragmatic Thinking
+- Ability to Innovate
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

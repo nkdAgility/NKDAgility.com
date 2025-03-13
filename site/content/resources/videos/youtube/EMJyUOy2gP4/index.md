@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Master
 - Metrics and Learning
 - People and Process
 - Software Development
 - Agile Project Management
+- Team Performance
 - Pragmatic Thinking
 - Evidence Based Leadership
 - Agile Product Management
 - Decision Making
-- Product Delivery
-- Value Delivery
 resourceTypes:
 - video
 categories:

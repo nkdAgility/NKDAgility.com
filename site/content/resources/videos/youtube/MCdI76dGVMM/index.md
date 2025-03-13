@@ -32,10 +32,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Professional Scrum
-- Scrum Master
-- Discovery and Learning
+- Continuous Learning
 resourceTypes:
 - video
 categories:

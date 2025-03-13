@@ -30,9 +30,6 @@ tags:
 - People and Process
 - Agile Product Management
 - Scrum Product Development
-- Product Delivery
-- Agile Project Management
-- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6

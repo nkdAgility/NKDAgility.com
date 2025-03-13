@@ -32,12 +32,9 @@ tags:
 - Operational Practices
 - Forecasting
 - Practical Techniques and Tooling
+- Products and Books
 - Product Delivery
 - Value Delivery
-- Pragmatic Thinking
-- People and Process
-- Estimation
-- Decision Making
 resourceTypes:
 - video
 categories:

@@ -32,15 +32,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Leadership
 - Agile Philosophy
 - Change Management
-- Decision Making
 - Beta Codex
 - Organisational Change
 - Organisational Culture
 - Pragmatic Thinking
 - Transparency and Accountability
-- Organisational Agility
 resourceTypes:
 - video
 categories:

@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - Events and Presentations
 - Sprint Review
 - Agile Project Management
@@ -38,7 +39,6 @@ tags:
 - Agile Product Management
 - Pragmatic Thinking
 - Scrum Master
-- Software Development
 - Agile Frameworks
 - People and Process
 resourceTypes:

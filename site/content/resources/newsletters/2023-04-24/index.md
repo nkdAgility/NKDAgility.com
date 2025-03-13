@@ -23,12 +23,6 @@ categories:
 tags:
 - People and Process
 - Events and Presentations
-- Continuous Learning
-- Software Development
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
-- Coaching
 
 ---
 The world is spinning faster than ever, with more players than ever.

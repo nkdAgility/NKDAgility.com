@@ -28,12 +28,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:19:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation and its impact on reducing manual errors and improving feedback loops, which are related to deployment frequency. However, the primary focus is on automation in testing and quality assurance rather than directly on deployment frequency itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses automation in software development, highlighting its importance in reducing human error and improving efficiency. While it touches on aspects that could relate to deployment frequency, such as rapid feedback and the need for efficient processes, it does not explicitly focus on deployment intervals or strategies for increasing deployment frequency. The examples provided illustrate the consequences of human error and the benefits of automation, but they do not directly address the core themes of deployment frequency in Agile or DevOps practices.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -556,12 +559,15 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:26:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in software development and its impact on testing and feedback loops, which indirectly relates to experimentation in Agile workflows. However, the primary focus is on automation rather than hypothesis-driven experimentation.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses automation in software development and the reduction of human error, with no explicit mention of experimentation or hypothesis-driven approaches. While it touches on testing and feedback loops, it does not delve into systematic testing of ideas or validating assumptions within Agile workflows, which are central to the 'Experimentation' category.",
+    "level": "Quinary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -766,12 +772,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of automation in reducing manual processes, which indirectly relates to Cycle Time by highlighting how automation can shorten feedback loops and improve efficiency. However, the primary focus is on automation rather than Cycle Time itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T14:45:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses automation in software development and its impact on efficiency, which indirectly relates to Cycle Time. However, it does not explicitly mention Cycle Time or provide a focused discussion on its measurement or implications. The emphasis is more on reducing human error and improving processes rather than on Cycle Time as a specific metric.",
+    "level": "Quaternary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1024,12 +1033,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:27:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses automation in testing and the importance of feedback loops, which are relevant to Test First Development principles. However, the primary focus is on automation and its benefits rather than explicitly on writing tests before code or the core principles of TDD.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses automation in software development and its role in reducing human error, but it does not explicitly mention Test First Development or the principles of writing tests before code. While it touches on the importance of testing and rapid feedback, it lacks a focused discussion on TDD or the specific practices associated with Test First Development. The alignment with the category is minimal, and the depth of discussion does not provide substantial insights into TDD principles.",
+    "level": "Quaternary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -1216,12 +1228,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses automation in software development and its impact on code quality and efficiency, which aligns with the themes of complexity in coding processes. However, the primary focus is on automation rather than a deep exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T14:56:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses automation in software development, highlighting its role in reducing human error and improving efficiency. While it touches on aspects of code quality and the importance of reliable workflows, it does not delve deeply into the complexities of software architecture or the principles of code quality as outlined in the category description. The focus is more on automation and human factors rather than the interplay between code quality and complexity, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Lean": {
     "category": "Lean",
@@ -1303,12 +1318,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:19:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in software development, which indirectly relates to business agility by highlighting the importance of efficiency and rapid feedback loops. However, the primary focus is on automation rather than the broader principles and practices of business agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, which indirectly relates to business agility by highlighting the importance of efficiency and error reduction. However, it does not explicitly address the principles of business agility or the broader themes outlined in the category definition. The focus is primarily on automation rather than on fostering a culture of innovation or adaptability within organisations.",
+    "level": "Quaternary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",

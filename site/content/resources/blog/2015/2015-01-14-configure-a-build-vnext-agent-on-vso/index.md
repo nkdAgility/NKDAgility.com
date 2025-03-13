@@ -30,6 +30,13 @@ tags:
 - System Configuration
 - Install and Configuration
 - Azure Pipelines
+- Practical Techniques and Tooling
+- Azure DevOps
+- Software Development
+- Windows
+- Azure Repos
+- Continuous Integration
+- Internal Developer Platform
 categories:
 - DevOps
 - Engineering Excellence

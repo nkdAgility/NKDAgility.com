@@ -5,7 +5,7 @@ ResourceId: UfdnQrxv5iF
 ResourceType: blog
 ResourceImport: false
 date: 2025-02-10T09:00:00
-weight: 225
+weight: 255
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -13,10 +13,6 @@ resourceTypes: blog
 slug: without-delivery-no-value
 aliases:
 - /resources/UfdnQrxv5iF
-- /without-delivery-no-value
-- /blog/without-delivery-no-value
-- /without-delivery--there-is-no-value
-- /blog/without-delivery--there-is-no-value
 aliasesArchive:
 - /without-delivery-no-value
 - /blog/without-delivery-no-value

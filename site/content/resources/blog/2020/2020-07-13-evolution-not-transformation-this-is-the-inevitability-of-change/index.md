@@ -28,6 +28,15 @@ aliasesArchive:
 - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 tags:
 - People and Process
+- Business Agility
+- Resilience and Change
+- Discovery and Learning
+- Enterprise Agility
+- Market Adaptability
+- Organisational Agility
+- Experimentation
+- Agile Project Management
+- Complexity Thinking
 categories:
 - Leadership
 preview: image-15-5-4.png

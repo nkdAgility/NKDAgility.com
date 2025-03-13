@@ -30,9 +30,6 @@ tags:
 - Evidence Based Management
 - Decision Making
 - Pragmatic Thinking
-- Products and Books
-- Value Delivery
-- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

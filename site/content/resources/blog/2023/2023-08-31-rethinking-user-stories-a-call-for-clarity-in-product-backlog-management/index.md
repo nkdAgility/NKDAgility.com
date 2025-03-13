@@ -30,10 +30,10 @@ aliasesArchive:
 tags:
 - Product Backlog
 - Transparency
+- Scrum Product Development
 - Pragmatic Thinking
 - Software Development
 - Product Delivery
-- Scrum Product Development
 - Agile Product Management
 - People and Process
 - Product Owner

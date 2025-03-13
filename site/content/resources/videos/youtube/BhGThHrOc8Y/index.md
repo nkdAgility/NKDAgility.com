@@ -28,9 +28,6 @@ isShort: false
 tags:
 - Software Developers
 - Software Development
-- People and Process
-- Agile Values and Principles
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

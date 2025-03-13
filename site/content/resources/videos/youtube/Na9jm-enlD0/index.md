@@ -32,13 +32,9 @@ tags:
 - People and Process
 - Entrepreneurship
 - Decision Theory
-- Agile Project Management
 - Products and Books
 - Decision Making
-- Sensemaking
 - Agile Product Management
-- Agile Leadership
-- Complexity Thinking
 resourceTypes:
 - video
 categories:

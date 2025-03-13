@@ -30,12 +30,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Philosophy
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Project Management
 - Software Development
-- Software Developers
-- Agile Product Management
+- Empirical Process Control
 resourceTypes:
 - video
 categories:

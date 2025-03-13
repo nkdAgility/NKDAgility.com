@@ -13,8 +13,7 @@ layout: newsletter
 aliases:
 - /resources/I3QFLrCOXnN
 categories: []
-tags:
-- Remote Working
+tags: []
 
 ---
 Dear Valued Clients,

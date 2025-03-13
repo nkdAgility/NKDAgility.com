@@ -32,6 +32,15 @@ aliasesArchive:
 - /resources/blog/ndc-london-second-look-team-foundation-server-vso
 tags:
 - Application Lifecycle Management
+- Events and Presentations
+- Practical Techniques and Tooling
+- Product Delivery
+- Agile Project Management
+- Automated Testing
+- Release Management
+- Test First Development
+- Agile Planning
+- Continuous Delivery
 categories:
 - DevOps
 - Engineering Excellence

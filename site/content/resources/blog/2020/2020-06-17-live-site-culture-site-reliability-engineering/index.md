@@ -31,13 +31,13 @@ categories:
 preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
 - Deployment Frequency
-- Events and Presentations
 - Frequent Releases
 - Product Delivery
 - Enterprise Agility
 - Organisational Agility
 - Pragmatic Thinking
 - Software Development
+- Events and Presentations
 - Value Delivery
 - Market Adaptability
 

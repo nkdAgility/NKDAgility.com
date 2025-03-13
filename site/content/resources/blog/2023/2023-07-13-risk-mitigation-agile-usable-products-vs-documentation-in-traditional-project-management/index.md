@@ -28,6 +28,7 @@ aliasesArchive:
 - /blog/risk-mitigation--agile-usable-products-vs-documentation-in-traditional-project-management
 - /resources/blog/risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management
 tags:
+- Software Development
 - Working Software
 - Pragmatic Thinking
 - Product Delivery
@@ -37,7 +38,6 @@ tags:
 - Increment
 - Agile Philosophy
 - Agile Strategy
-- Agile Values and Principles
 categories:
 - Social Technologies
 - Product Management

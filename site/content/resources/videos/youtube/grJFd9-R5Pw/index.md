@@ -29,6 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
+- People and Process
+- Agile Frameworks
+- Pragmatic Thinking
+- Software Development
+- Practical Techniques and Tooling
+- Professional Scrum
+- Sociotechnical Systems
+- Scrum Product Development
+- Scrum Team
 resourceTypes:
 - video
 categories:

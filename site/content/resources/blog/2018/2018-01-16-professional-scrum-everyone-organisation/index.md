@@ -29,6 +29,15 @@ aliasesArchive:
 - /resources/blog/professional-scrum-everyone-organisation
 tags:
 - Agile Product Management
+- People and Process
+- Sociotechnical Systems
+- Transparency
+- Resilience and Change
+- Agile Product Operating Model
+- Agile Project Management
+- Business Agility
+- Change Management
+- Organisational Agility
 categories:
 - Social Technologies
 - Scrum

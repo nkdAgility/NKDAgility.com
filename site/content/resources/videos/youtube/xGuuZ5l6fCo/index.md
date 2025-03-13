@@ -39,7 +39,7 @@ tags:
 - Value Delivery
 - Discovery and Learning
 - Market Adaptability
-- Agile Product Operating Model
+- Working Software
 resourceTypes:
 - video
 categories:

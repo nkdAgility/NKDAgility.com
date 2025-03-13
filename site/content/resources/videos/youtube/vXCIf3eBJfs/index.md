@@ -30,9 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Transformation
 - Agile Frameworks
-- Organisational Agility
-- Practical Techniques and Tooling
 resourceTypes:
 - video
 categories:

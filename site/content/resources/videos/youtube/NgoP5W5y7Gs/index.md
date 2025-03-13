@@ -31,8 +31,6 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - People and Process
-- Technical Excellence
-- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

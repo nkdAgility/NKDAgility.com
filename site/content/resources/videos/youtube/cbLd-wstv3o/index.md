@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Discovery and Learning
 - Agile Product Operating Model
 - Decision Making
 - Evidence Based Leadership
@@ -38,8 +39,6 @@ tags:
 - Evidence Based Management
 - Products and Books
 - Value Delivery
-- Agile Product Management
-- Ability to Innovate
 resourceTypes:
 - video
 categories:

@@ -25,14 +25,12 @@ preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
 isShort: true
 tags:
+- Agile Philosophy
 - Business Agility
 - Team Motivation
 - People and Process
 - Agile Product Operating Model
 - Product Delivery
-- Agile Philosophy
-- Agile Product Management
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

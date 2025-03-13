@@ -27,14 +27,6 @@ isShort: true
 tags:
 - Metrics and Learning
 - Operational Practices
-- People and Process
-- Transparency
-- Lean
-- Continuous Learning
-- Discovery and Learning
-- Practical Techniques and Tooling
-- Pragmatic Thinking
-- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

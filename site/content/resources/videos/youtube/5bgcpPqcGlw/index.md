@@ -27,6 +27,13 @@ tags:
 - Operational Practices
 - Software Development
 - Pragmatic Thinking
+- People and Process
+- Site Reliability Engineering
+- Agile Project Management
+- Organisational Agility
+- Practical Techniques and Tooling
+- Software Developers
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

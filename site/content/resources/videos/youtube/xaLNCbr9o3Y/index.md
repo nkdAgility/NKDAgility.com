@@ -27,7 +27,6 @@ isShort: false
 tags:
 - Events and Presentations
 - Software Development
-- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

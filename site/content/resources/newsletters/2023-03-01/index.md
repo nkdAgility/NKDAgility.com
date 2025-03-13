@@ -29,8 +29,6 @@ tags:
 - Events and Presentations
 - People and Process
 - Agile Frameworks
-- Team Collaboration
-- Agile Project Management
 
 ---
 While all of our courses are centred around valuable learning outcomes achieved through experiential learning within a classroom environment, they are most often delivered as intense consecutive 2-day or 4-half-day experiences.

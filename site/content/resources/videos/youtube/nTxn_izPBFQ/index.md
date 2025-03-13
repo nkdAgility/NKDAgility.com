@@ -36,10 +36,6 @@ tags:
 - Scrum Product Development
 - Agile Product Management
 - Agile Project Management
-- Pragmatic Thinking
-- Agile Product Operating Model
-- Products and Books
-- Agile Leadership
 resourceTypes:
 - video
 categories:

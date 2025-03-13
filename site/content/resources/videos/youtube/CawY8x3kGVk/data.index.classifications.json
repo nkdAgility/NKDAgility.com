@@ -670,11 +670,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-12T08:40:16",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:11:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the roles and responsibilities of team members within the Scrum framework, particularly focusing on the autonomy of developers and the impact of management styles on team dynamics. While it touches on team performance, it primarily critiques misconceptions about Scrum rather than providing strategies or practices for enhancing team collaboration and effectiveness.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the myth of micromanagement in Scrum, directly addressing how misapplications of Scrum principles can hinder team performance. It emphasises the importance of empowering developers, fostering open dialogue, and cultivating trust, which are all key aspects of enhancing team dynamics and collaboration. The depth of discussion is substantial, providing actionable strategies for improving team performance within the Agile framework. Overall, the content aligns well with the category, focusing on team performance and collaboration in an Agile context.",
     "level": "Secondary"
   },
   "AI": {
@@ -724,21 +727,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T08:40:24",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Scrum principles and the common misconceptions surrounding its implementation, particularly in relation to organisational control and developer autonomy. While it primarily focuses on Scrum, it touches on themes relevant to Agile transformation, such as the need for cultural shifts and understanding of Agile principles. However, it does not comprehensively cover broader Agile transformation strategies or methodologies.",
+    "calculated_at": "2025-03-13T15:34:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses Scrum, a key framework in Agile transformation, and addresses the misconceptions surrounding micromanagement within Scrum practices. It aligns well with Agile principles by emphasising autonomy, collaboration, and trust, which are essential for successful Agile transformations. The depth of discussion is substantial, providing insights into how organisations can better apply Scrum principles to foster a true Agile environment. However, while it focuses on Scrum, it does not extensively cover broader Agile transformation strategies or methodologies, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-12T08:40:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T16:42:08",
+    "ai_confidence": 65.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the implications of technical debt in the context of Scrum and Agile practices, highlighting the importance of developers' insights in managing technical debt. However, the primary focus is on Scrum roles and misconceptions, making technical debt a significant but secondary theme.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content briefly mentions technical debt in the context of decision-making within Scrum, indicating its importance in maintaining project health. However, the primary focus of the content is on dispelling myths about micromanagement in Scrum, which is not directly related to the management of technical debt. While there is some alignment with the category's themes, the depth of discussion on technical debt is limited, making it a secondary topic rather than a primary focus.",
+    "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
