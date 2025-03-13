@@ -33,13 +33,13 @@ tags:
 - Agile Product Operating Model
 - Agile Project Management
 - Scaled Agile
+- Strategy
 - Agile Frameworks
 - Agile Strategy
 - Portfolio Management
 - Scaling Agility
 - Scaling Kanban
 - Value Delivery
-- Product Delivery
 resourceTypes:
 - video
 categories:

@@ -38,8 +38,8 @@ tags:
 - People and Process
 - Transparency
 - Agile Frameworks
+- Software Developers
 - Scrum Team
-- Scrum Master
 resourceTypes:
 - video
 layout: video

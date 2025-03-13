@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 isShort: false
 tags:
+- Deployment Frequency
 - Value Delivery
 - Metrics and Learning
 - Product Delivery
@@ -34,7 +35,6 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - People and Process
-- Customer Feedback Loops
 resourceTypes:
 - video
 sitemap:

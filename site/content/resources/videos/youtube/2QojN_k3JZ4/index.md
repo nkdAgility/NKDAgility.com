@@ -24,10 +24,8 @@ preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
 isShort: true
 tags:
+- Software Development
 - Working Software
-- Agile Values and Principles
-- Technical Leadership
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

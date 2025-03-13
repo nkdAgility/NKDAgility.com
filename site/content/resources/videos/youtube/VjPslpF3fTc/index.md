@@ -30,10 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
-- Continuous Learning
-- Miscellaneous
-- Personal
-- People and Process
 resourceTypes:
 - video
 categories: []

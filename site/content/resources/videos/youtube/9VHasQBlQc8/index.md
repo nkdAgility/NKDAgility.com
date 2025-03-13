@@ -35,10 +35,6 @@ tags:
 - Agile Leadership
 - Team Motivation
 - Organisational Culture
-- Team Collaboration
-- Team Performance
-- Software Developers
-- Personal
 resourceTypes:
 - video
 categories:

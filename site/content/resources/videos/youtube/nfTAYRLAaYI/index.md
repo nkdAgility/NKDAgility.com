@@ -33,10 +33,6 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Operational Practices
-- Lean Thinking
-- Lean Principles
-- Software Development
-- Flow Efficiency
 resourceTypes:
 - video
 categories:

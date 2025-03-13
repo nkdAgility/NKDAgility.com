@@ -32,8 +32,6 @@ tags:
 - Scrum Team
 - People and Process
 - Team Collaboration
-- Scrum Values
-- Personal
 resourceTypes:
 - video
 layout: video

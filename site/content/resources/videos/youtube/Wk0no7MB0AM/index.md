@@ -30,11 +30,6 @@ tags:
 - Agile Project Management
 - Software Development
 - People and Process
-- Scrum Master
-- Agile Leadership
-- Technical Leadership
-- Team Performance
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

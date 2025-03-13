@@ -31,7 +31,6 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
-- Customer Feedback Loops
 - Product Owner
 - Scrum Product Development
 - Scrum Team
@@ -39,6 +38,7 @@ tags:
 - Pragmatic Thinking
 - Scrum Master
 - Agile Frameworks
+- Agile Planning
 resourceTypes:
 - video
 categories:

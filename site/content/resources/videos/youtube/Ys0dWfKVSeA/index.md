@@ -34,10 +34,10 @@ sitemap:
 tags:
 - People and Process
 - Agile Frameworks
+- Software Development
 - Team Collaboration
 - Agile Project Management
 - Agile Transformation
-- Software Development
 - Agile Product Management
 - Empirical Process Control
 - Pragmatic Thinking

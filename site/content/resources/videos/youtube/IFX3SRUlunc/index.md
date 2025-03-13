@@ -31,10 +31,6 @@ tags:
 - Events and Presentations
 - Lean Principles
 - Value Delivery
-- Product Delivery
-- People and Process
-- Decision Making
-- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

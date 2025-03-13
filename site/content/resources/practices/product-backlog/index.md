@@ -24,11 +24,7 @@ card:
   title: Product Backlog
 categories:
 - Scrum
-tags:
-- Agile Project Management
-- Professional Scrum
-- Scrum Product Development
-- Product Backlog
+tags: []
 
 ---
 ## What is a Product Backlog?

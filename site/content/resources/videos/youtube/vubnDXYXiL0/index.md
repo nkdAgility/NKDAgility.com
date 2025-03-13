@@ -28,11 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scaling Scrum
 - Agile Project Management
 - Agile Transformation
 - Software Development
 - Pragmatic Thinking
-- Scaling Scrum
 - Large Scale Agility
 - Professional Scrum
 - Practical Techniques and Tooling

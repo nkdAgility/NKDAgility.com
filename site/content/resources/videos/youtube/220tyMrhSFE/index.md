@@ -25,9 +25,6 @@ duration: 49
 isShort: true
 tags:
 - Operational Practices
-- Continuous Learning
-- Flow Efficiency
-- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

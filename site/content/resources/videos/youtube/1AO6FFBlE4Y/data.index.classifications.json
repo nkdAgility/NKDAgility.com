@@ -586,12 +586,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:57:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and the ability to deliver features, which indirectly relates to deployment frequency. However, the primary focus is on quality and technical debt rather than optimising deployment intervals.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of high-quality code and its impact on productivity and deployment efficiency. While it touches on reducing feedback loops and improving deployment intervals, the primary focus is on code quality rather than deployment frequency itself. The mention of Azure DevOps improving their validation time hints at deployment frequency but lacks a detailed exploration of strategies or metrics specifically related to deployment frequency.",
+    "level": "Quaternary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",

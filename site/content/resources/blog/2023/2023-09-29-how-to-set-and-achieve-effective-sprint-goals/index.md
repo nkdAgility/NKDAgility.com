@@ -30,6 +30,13 @@ tags:
 - Agile Project Management
 - Software Development
 - Scrum Product Development
+- Professional Scrum
+- Agile Product Management
+- People and Process
+- Product Delivery
+- Team Performance
+- Value Delivery
+- Agile Frameworks
 categories:
 - Scrum
 - Social Technologies

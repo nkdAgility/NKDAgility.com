@@ -26,11 +26,9 @@ duration: 56
 isShort: true
 tags:
 - Discovery and Learning
+- Agile Philosophy
 - Lean Thinking
 - Operational Practices
-- Organisational Agility
-- People and Process
-- Metrics and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

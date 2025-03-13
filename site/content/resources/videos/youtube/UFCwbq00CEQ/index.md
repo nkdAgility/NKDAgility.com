@@ -30,9 +30,6 @@ tags:
 - People and Process
 - Agile Product Operating Model
 - Product Delivery
-- Agile Philosophy
-- Agile Product Management
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

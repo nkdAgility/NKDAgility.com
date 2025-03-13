@@ -27,6 +27,15 @@ duration: 242
 isShort: false
 tags:
 - Organisational Agility
+- Business Agility
+- Market Adaptability
+- Agile Leadership
+- Agile Values and Principles
+- Organisational Change
+- People and Process
+- Resilience and Change
+- Agile Philosophy
+- Agile Project Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

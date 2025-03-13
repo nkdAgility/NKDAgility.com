@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- Decision Making
+- Metrics and Learning
+- Value Delivery
+- Evidence Based Management
+- Organisational Agility
+- Value Stream Management
+- Ability to Innovate
+- Evidence Based Leadership
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

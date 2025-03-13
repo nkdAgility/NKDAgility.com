@@ -38,9 +38,6 @@ tags:
 - Agile Strategy
 - Decision Making
 - Decision Theory
-- People and Process
-- Organisational Agility
-- Market Adaptability
 resourceTypes:
 - video
 categories:

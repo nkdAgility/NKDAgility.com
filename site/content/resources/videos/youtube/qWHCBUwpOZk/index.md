@@ -35,10 +35,9 @@ tags:
 - Practical Techniques and Tooling
 - Agile Frameworks
 - Lean Thinking
-- Agile Project Management
 - Pragmatic Thinking
+- Agile Project Management
 - Value Delivery
-- Throughput
 resourceTypes:
 - video
 categories:

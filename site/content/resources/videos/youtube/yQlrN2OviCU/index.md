@@ -34,8 +34,6 @@ tags:
 - Discovery and Learning
 - People and Process
 - Team Motivation
-- Miscellaneous
-- Agile Philosophy
 resourceTypes:
 - video
 categories: []

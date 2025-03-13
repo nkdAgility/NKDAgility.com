@@ -28,13 +28,6 @@ tags:
 - Metrics and Learning
 - Practical Techniques and Tooling
 - Operational Practices
-- Lean
-- Pragmatic Thinking
-- Transparency
-- Continuous Learning
-- Discovery and Learning
-- Lean Principles
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

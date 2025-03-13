@@ -27,6 +27,15 @@ duration: 2018
 isShort: false
 tags:
 - Software Development
+- Application Lifecycle Management
+- Discovery and Learning
+- Product Delivery
+- Value Delivery
+- People and Process
+- Personal
+- Pragmatic Thinking
+- Experimentation
+- Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -33,9 +33,6 @@ tags:
 - Agile Leadership
 - People and Process
 - Technical Leadership
-- Scrum Team
-- Agile Project Management
-- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

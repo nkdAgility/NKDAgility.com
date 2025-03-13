@@ -32,10 +32,6 @@ sitemap:
 tags:
 - Discovery and Learning
 - Organisational Agility
-- Product Delivery
-- Lean Principles
-- Operational Practices
-- Metrics and Learning
 resourceTypes:
 - video
 categories:

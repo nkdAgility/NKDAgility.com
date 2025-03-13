@@ -30,6 +30,10 @@ tags:
 - Software Development
 - People and Process
 - Agile Product Management
+- Azure DevOps
+- Product Delivery
+- Scrum Master
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,8 +30,6 @@ tags:
 - Organisational Agility
 - Agile Leadership
 - Team Collaboration
-- People and Process
-- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

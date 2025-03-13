@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Operational Practices
+- Lean Principles
+- Flow Efficiency
+- Software Development
+- Practical Techniques and Tooling
+- Lean Thinking
+- Throughput
+- Pragmatic Thinking
+- Agile Project Management
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

@@ -27,12 +27,6 @@ isShort: true
 tags:
 - Team Collaboration
 - Scrum Master
-- Collaboration Tools
-- Agile Planning Tools
-- People and Process
-- Agile Planning
-- Agile Project Management
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

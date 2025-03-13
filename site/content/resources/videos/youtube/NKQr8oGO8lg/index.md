@@ -26,10 +26,6 @@ duration: 153
 isShort: false
 tags:
 - Continuous Learning
-- Coaching
-- Discovery and Learning
-- People and Process
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

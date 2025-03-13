@@ -27,7 +27,6 @@ isShort: true
 tags:
 - Product Owner
 - Scrum Team
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

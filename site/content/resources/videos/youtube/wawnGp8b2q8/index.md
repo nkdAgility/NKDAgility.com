@@ -27,10 +27,6 @@ isShort: false
 tags:
 - Discovery and Learning
 - Continuous Learning
-- Experimentation
-- Resilience and Change
-- Organisational Culture
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

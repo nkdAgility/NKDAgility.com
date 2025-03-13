@@ -27,9 +27,6 @@ isShort: false
 tags:
 - Agile Values and Principles
 - Organisational Agility
-- Agile Leadership
-- People and Process
-- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

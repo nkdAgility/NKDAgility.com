@@ -28,11 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Philosophy
 - Organisational Agility
 - Agile Product Management
 - People and Process
-- Pragmatic Thinking
-- Scrum Master
 resourceTypes:
 - video
 layout: video

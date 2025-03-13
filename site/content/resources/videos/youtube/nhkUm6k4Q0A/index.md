@@ -31,9 +31,6 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
-- Coaching
-- Technical Leadership
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

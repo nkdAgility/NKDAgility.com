@@ -36,9 +36,9 @@ tags:
 - Agile Transformation
 - Scrum Master
 - Scrum Product Development
-- Team Performance
 - Agile Product Management
 - Value Delivery
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

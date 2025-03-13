@@ -36,11 +36,11 @@ tags:
 - Employee Engagement
 - Team Motivation
 - Agile Frameworks
+- Team Collaboration
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
 - Agile Project Management
-- Team Collaboration
 resourceTypes:
 - video
 categories:

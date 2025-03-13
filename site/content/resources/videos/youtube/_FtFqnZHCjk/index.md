@@ -29,6 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- Frequent Releases
+- Agile Values and Principles
+- Product Delivery
+- Value Delivery
+- Pragmatic Thinking
+- Agile Product Operating Model
+- Agile Project Management
+- Agile Philosophy
+- Agile Planning
 resourceTypes:
 - video
 layout: video

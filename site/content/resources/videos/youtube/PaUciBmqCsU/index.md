@@ -31,9 +31,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Transparency
 - Agile Frameworks
-- Strategy
-- Lean Thinking
 resourceTypes:
 - video
 categories:

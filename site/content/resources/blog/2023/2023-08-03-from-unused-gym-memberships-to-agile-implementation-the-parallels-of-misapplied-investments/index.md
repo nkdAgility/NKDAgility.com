@@ -31,9 +31,6 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Software Developers
-- Organisational Agility
-- Pragmatic Thinking
-- Agile Product Management
 categories:
 - Social Technologies
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg

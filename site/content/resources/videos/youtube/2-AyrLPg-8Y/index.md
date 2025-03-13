@@ -26,7 +26,6 @@ duration: 17
 isShort: true
 tags:
 - Agile Leadership
-- Enterprise Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -33,6 +33,12 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
+- Scrum Master
+- Team Performance
+- Pragmatic Thinking
+- People and Process
+- Coaching
+- Scrum Team
 resourceTypes:
 - video
 categories:

@@ -32,8 +32,6 @@ tags:
 - One Engineering System (1ES)
 - Pragmatic Thinking
 - Azure Boards
-- Troubleshooting
-- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

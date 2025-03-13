@@ -23,6 +23,7 @@ categories:
 - Social Technologies
 tags:
 - Events and Presentations
+- News and Reviews
 
 ---
 The Agile 2023 Scotland Experience is almost upon us, and NKDAgility proudly sponsors the event!

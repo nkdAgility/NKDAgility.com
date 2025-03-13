@@ -31,13 +31,11 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
+- Business Agility
 - Ability to Innovate
 - Evidence Based Leadership
 - Evidence Based Management
 - Value Delivery
-- Organisational Agility
-- Decision Making
-- Agile Product Management
 resourceTypes:
 - video
 categories:

@@ -33,8 +33,8 @@ tags:
 - Continuous Learning
 - Organisational Culture
 - Team Motivation
-- Team Performance
 - Agile Leadership
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

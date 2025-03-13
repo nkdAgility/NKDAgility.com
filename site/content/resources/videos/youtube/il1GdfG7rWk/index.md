@@ -29,9 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Backlog
 - Product Owner
+- Product Backlog
 - Agile Product Management
+- Professional Scrum
+- Value Delivery
+- Product Delivery
+- Scrum Product Development
+- Products and Books
+- Software Development
+- Agile Planning Tools
 resourceTypes:
 - video
 categories:

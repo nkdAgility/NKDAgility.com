@@ -67,6 +67,7 @@ tags:
 - Transparency
 - Scrum Team
 - Professional Scrum
+- Empirical Process Control
 - Software Development
 - Agile Product Management
 - Agile Frameworks

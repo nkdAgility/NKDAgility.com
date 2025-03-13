@@ -26,9 +26,6 @@ duration: 50
 isShort: true
 tags:
 - Transparency
-- Transparency and Accountability
-- Value Delivery
-- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

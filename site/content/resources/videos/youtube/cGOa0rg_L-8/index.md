@@ -31,16 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Business Agility
 - Flow Efficiency
 - Organisational Agility
 - Value Delivery
-- People and Process
-- Market Adaptability
-- Agile Philosophy
-- Business Agility
-- Deployment Frequency
-- Operational Practices
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

@@ -29,15 +29,13 @@ categories:
 - Kanban
 tags:
 - Flow Efficiency
+- Lean Principles
 - Lean Thinking
 - People and Process
 - Scrum Product Development
-- Lean Principles
 - Operational Practices
 - Practical Techniques and Tooling
 - Value Delivery
-- Agile Project Management
-- Pragmatic Thinking
 
 ---
 ## Duration

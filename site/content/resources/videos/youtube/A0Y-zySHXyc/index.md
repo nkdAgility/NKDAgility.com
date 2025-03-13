@@ -38,7 +38,6 @@ tags:
 - Agile Product Management
 - Product Owner
 - Professional Scrum
-- Personal
 resourceTypes:
 - video
 categories:

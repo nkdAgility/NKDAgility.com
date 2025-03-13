@@ -34,10 +34,6 @@ tags:
 - Practical Techniques and Tooling
 - Product Delivery
 - Value Delivery
-- Pragmatic Thinking
-- People and Process
-- Estimation
-- Decision Making
 resourceTypes:
 - video
 categories:

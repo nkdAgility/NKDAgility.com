@@ -32,9 +32,7 @@ tags:
 - Software Development
 - Agile Leadership
 - People and Process
-- Scrum Team
-- Software Developers
-- Agile Product Management
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

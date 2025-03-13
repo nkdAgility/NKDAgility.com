@@ -24,9 +24,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true
-tags:
-- Discovery and Learning
-- Continuous Learning
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6

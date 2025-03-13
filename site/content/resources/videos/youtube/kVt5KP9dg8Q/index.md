@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Agile Project Management
 - Pragmatic Thinking
+- Continuous Delivery
 - People and Process
 - Software Development
 - Agile Strategy
@@ -39,7 +40,6 @@ tags:
 - Operational Practices
 - Working Software
 - Software Developers
-- Product Delivery
 resourceTypes:
 - video
 categories:

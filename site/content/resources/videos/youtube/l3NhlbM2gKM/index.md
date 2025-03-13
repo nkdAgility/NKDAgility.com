@@ -32,15 +32,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Software Development
-- Software Developers
-- People and Process
-- Agile Project Management
-- Pragmatic Thinking
-- Estimation
-- Backlog Refinement
-- Scrum Team
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

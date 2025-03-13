@@ -30,6 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Evidence Based Leadership
+- People and Process
+- Decision Making
+- Agile Leadership
+- Value Delivery
+- Business Agility
+- Evidence Based Management
+- Sociotechnical Systems
+- Organisational Agility
+- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

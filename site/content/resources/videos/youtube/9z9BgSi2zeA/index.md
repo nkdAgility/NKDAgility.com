@@ -34,8 +34,6 @@ tags:
 - Technical Leadership
 - Agile Product Management
 - People and Process
-- Sociotechnical Systems
-- Agile Project Management
 resourceTypes:
 - video
 categories:

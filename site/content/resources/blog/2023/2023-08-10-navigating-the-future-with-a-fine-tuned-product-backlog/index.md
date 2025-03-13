@@ -27,13 +27,13 @@ tags:
 - Professional Scrum
 - Agile Product Management
 - Product Backlog
+- Agile Project Management
 - Product Delivery
 - Product Owner
 - Value Delivery
 - Software Development
 - Pragmatic Thinking
 - Agile Product Operating Model
-- Backlog Refinement
 categories:
 - Scrum
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg

@@ -26,11 +26,11 @@ duration: 169
 isShort: false
 tags:
 - Software Development
+- Agile Project Management
 - Software Developers
 - Pragmatic Thinking
 - Technical Leadership
 - Agile Philosophy
-- Agile Project Management
 - Engineering Practices
 - Working Software
 - Agile Transformation

@@ -32,9 +32,6 @@ sitemap:
 tags:
 - Agile Project Management
 - Software Development
-- Agile Values and Principles
-- Discovery and Learning
-- Continuous Learning
 resourceTypes:
 - video
 categories:

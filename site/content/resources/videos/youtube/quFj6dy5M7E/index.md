@@ -26,6 +26,11 @@ duration: 266
 isShort: false
 tags:
 - People and Process
+- Product Delivery
+- Value Delivery
+- Pragmatic Thinking
+- Team Performance
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

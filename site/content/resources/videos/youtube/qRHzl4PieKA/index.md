@@ -40,7 +40,6 @@ tags:
 - Business Agility
 - Organisational Agility
 - Pragmatic Thinking
-- Agile Leadership
 resourceTypes:
 - video
 categories:

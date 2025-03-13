@@ -28,6 +28,12 @@ tags:
 - Software Development
 - Product Delivery
 - Metrics and Learning
+- Working Software
+- Frequent Releases
+- Azure DevOps
+- Release Management
+- Engineering Practices
+- Value Delivery
 categories:
 - DevOps
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg

@@ -517,12 +517,15 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-12T15:14:48",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T14:55:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses automation in the context of software development and deployment, which is a significant aspect of Site Reliability Engineering. However, it does not explicitly cover other key SRE principles such as SLOs, SLIs, or incident response, making it a major but secondary theme rather than the primary focus.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses automation in software development, which is a broader topic and does not specifically focus on Site Reliability Engineering (SRE). While it touches on aspects like automated deployments and the importance of reducing human error, it lacks a direct connection to SRE principles such as SLOs, SLIs, or incident response practices. The discussion is more aligned with general software development practices rather than the specific practices and principles of SRE.",
+    "level": "Quaternary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",

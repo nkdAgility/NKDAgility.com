@@ -26,6 +26,15 @@ duration: 259
 isShort: false
 tags:
 - Agile Values and Principles
+- Agile Product Management
+- Software Development
+- Agile Planning
+- Agile Strategy
+- Business Agility
+- Organisational Agility
+- Value Delivery
+- Market Adaptability
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

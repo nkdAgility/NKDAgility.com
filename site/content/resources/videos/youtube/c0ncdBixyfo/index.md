@@ -34,10 +34,10 @@ tags:
 - Personal
 - Sociotechnical Systems
 - Organisational Change
-- Change Management
 - Team Motivation
 - Team Performance
 - Agile Leadership
+- Organisational Agility
 resourceTypes:
 - video
 categories:

@@ -27,6 +27,14 @@ isShort: false
 tags:
 - Continuous Delivery
 - Software Development
+- Product Delivery
+- Value Delivery
+- Practical Techniques and Tooling
+- Deployment Frequency
+- Frequent Releases
+- Technical Excellence
+- Operational Practices
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,12 +30,6 @@ sitemap:
 tags:
 - Agile Product Management
 - People and Process
-- Agile Leadership
-- Agile Philosophy
-- Software Developers
-- Pragmatic Thinking
-- Technical Leadership
-- Team Performance
 resourceTypes:
 - video
 layout: video

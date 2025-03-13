@@ -30,13 +30,13 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
+- Operational Practices
 - Pragmatic Thinking
 - Deployment Strategies
 - Value Delivery
 - Software Developers
 - People and Process
 - Product Delivery
-- Operational Practices
 - Technical Mastery
 - Practical Techniques and Tooling
 resourceTypes:

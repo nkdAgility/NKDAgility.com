@@ -32,13 +32,11 @@ tags:
 - People and Process
 - Agile Product Management
 - Agile Leadership
+- Self Organisation
 - Agile Product Operating Model
 - Agile Project Management
 - Product Owner
 - Scrum Team
-- Personal
-- Agile Philosophy
-- Team Motivation
 resourceTypes:
 - video
 categories:

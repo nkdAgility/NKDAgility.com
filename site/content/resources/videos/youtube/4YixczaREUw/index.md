@@ -28,6 +28,13 @@ tags:
 - Professional Scrum
 - Agile Frameworks
 - Software Development
+- People and Process
+- Agile Product Management
+- Empirical Process Control
+- Software Developers
+- Agile Project Management
+- Transparency
+- Daily Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

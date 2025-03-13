@@ -25,6 +25,15 @@ duration: 423
 isShort: false
 tags:
 - People and Process
+- Sociotechnical Systems
+- Employee Engagement
+- Product Delivery
+- Organisational Agility
+- Agile Leadership
+- Decision Making
+- Software Development
+- Continuous Learning
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

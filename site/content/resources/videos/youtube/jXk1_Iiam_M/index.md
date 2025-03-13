@@ -33,13 +33,10 @@ tags:
 - Discovery and Learning
 - People and Process
 - Pragmatic Thinking
+- Agile Project Management
 - Team Collaboration
 - Scrum Master
 - Continuous Learning
-- Agile Project Management
-- Agile Frameworks
-- Coaching
-- Software Development
 resourceTypes:
 - video
 categories:

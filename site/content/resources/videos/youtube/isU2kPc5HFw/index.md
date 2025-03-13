@@ -35,8 +35,6 @@ tags:
 - Software Developers
 - Pragmatic Thinking
 - Personal
-- Products and Books
-- Discovery and Learning
 resourceTypes:
 - video
 categories:

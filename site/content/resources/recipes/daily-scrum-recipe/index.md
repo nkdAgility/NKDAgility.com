@@ -48,6 +48,11 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Project Management
+- People and Process
+- Software Developers
+- Team Performance
+- Scrum Team
+- Transparency
 
 ---
 The Daily Scrum is an essential event in the Scrum framework. It offers the

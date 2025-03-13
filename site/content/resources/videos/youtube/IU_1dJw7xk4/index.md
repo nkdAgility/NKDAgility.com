@@ -33,13 +33,11 @@ tags:
 - Agile Frameworks
 - Metrics and Learning
 - Software Development
+- Pragmatic Thinking
 - People and Process
 - Operational Practices
-- Pragmatic Thinking
 - Practical Techniques and Tooling
 - Flow Efficiency
-- Strategy
-- Agile Project Management
 resourceTypes:
 - video
 categories:

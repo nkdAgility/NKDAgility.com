@@ -30,6 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Increment
+- Pragmatic Thinking
+- Software Developers
+- Software Development
+- Agile Values and Principles
+- Working Software
+- Product Delivery
+- Agile Project Management
+- Agile Philosophy
+- Agile Planning
 resourceTypes:
 - video
 categories:

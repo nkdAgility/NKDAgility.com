@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Agile Leadership
 - People and Process
+- Organisational Culture
 - Organisational Agility
 - Market Adaptability
 - Business Agility
@@ -39,7 +40,6 @@ tags:
 - Agile Project Management
 - Agile Strategy
 - Agile Transformation
-- Change Management
 resourceTypes:
 - video
 categories:

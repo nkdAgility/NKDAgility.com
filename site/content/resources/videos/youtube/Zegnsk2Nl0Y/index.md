@@ -25,12 +25,10 @@ preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: true
 tags:
+- Products and Books
 - Agile Project Management
 - Collaboration Tools
 - Scrum Team
-- Azure DevOps
-- Practical Techniques and Tooling
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

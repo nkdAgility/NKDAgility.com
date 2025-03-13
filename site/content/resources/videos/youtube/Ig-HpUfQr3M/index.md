@@ -26,6 +26,15 @@ duration: 501
 isShort: false
 tags:
 - Hypothesis Driven Development
+- Discovery and Learning
+- Value Delivery
+- Decision Making
+- People and Process
+- Metrics and Learning
+- Experimentation
+- Pragmatic Thinking
+- Agile Product Management
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

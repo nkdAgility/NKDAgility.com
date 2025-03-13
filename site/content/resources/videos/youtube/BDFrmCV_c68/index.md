@@ -34,12 +34,8 @@ tags:
 - Pragmatic Thinking
 - Agile Product Management
 - Software Developers
+- Agile Philosophy
 - Metrics and Learning
-- Value Delivery
-- Hypothesis Driven Development
-- Personal
-- Product Owner
-- Evidence Based Leadership
 resourceTypes:
 - video
 categories:

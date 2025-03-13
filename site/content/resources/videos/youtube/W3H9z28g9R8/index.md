@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Leadership
 - Agile Philosophy
 - Change Management
 - Decision Making
@@ -40,7 +41,6 @@ tags:
 - Organisational Culture
 - Pragmatic Thinking
 - Transparency and Accountability
-- Organisational Agility
 resourceTypes:
 - video
 categories:

@@ -35,10 +35,10 @@ tags:
 - Product Discovery
 - Pragmatic Thinking
 - Product Validation
+- Team Collaboration
 - People and Process
 - Continuous Learning
 - Ability to Innovate
-- Agile Product Management
 resourceTypes:
 - video
 categories:

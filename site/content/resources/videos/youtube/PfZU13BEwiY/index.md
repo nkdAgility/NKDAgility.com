@@ -29,11 +29,6 @@ tags:
 - Technical Debt
 - Pragmatic Thinking
 - Software Development
-- Technical Leadership
-- Operational Practices
-- Practical Techniques and Tooling
-- Technical Excellence
-- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

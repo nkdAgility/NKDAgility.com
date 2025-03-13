@@ -26,9 +26,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Complexity Thinking
-- Sensemaking
+tags: []
 resourceTypes:
 - video
 categories:

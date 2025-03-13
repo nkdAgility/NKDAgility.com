@@ -33,10 +33,7 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Azure Boards
-- Agile Project Management
 - Operational Practices
-- Pragmatic Thinking
-- Lean
 categories:
 - Kanban
 preview: NKDAgility-technically-BlockedColumns-7-7.jpg

@@ -32,9 +32,6 @@ tags:
 - Agile Product Management
 - People and Process
 - Strategy
-- Agile Product Operating Model
-- Transparency and Accountability
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

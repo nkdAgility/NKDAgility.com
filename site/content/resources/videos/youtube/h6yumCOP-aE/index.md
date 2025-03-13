@@ -39,10 +39,6 @@ tags:
 - Team Performance
 - Team Collaboration
 - Pragmatic Thinking
-- Strategy
-- Team Motivation
-- Agile Project Management
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:

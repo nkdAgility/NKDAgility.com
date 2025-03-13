@@ -27,7 +27,6 @@ isShort: false
 tags:
 - Agile Leadership
 - People and Process
-- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

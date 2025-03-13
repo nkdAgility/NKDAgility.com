@@ -23,10 +23,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 isShort: false
-tags:
-- Agile Frameworks
-- Software Development
-- Technical Leadership
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6

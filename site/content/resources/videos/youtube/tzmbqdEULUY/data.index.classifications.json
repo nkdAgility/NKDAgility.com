@@ -616,12 +616,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:57:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of migration and downtime management, which are relevant to Continuous Delivery principles, particularly in the context of maintaining a production-ready state and minimising downtime during deployments. However, the primary focus is on migration processes rather than Continuous Delivery itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on data migration and minimising downtime, which are not core principles of Continuous Delivery. While it briefly touches on aspects of planning and preparation that could relate to deployment processes, it lacks explicit discussions on Continuous Delivery practices, automation, or maintaining a production-ready state. The mention of Git as a source control system is relevant but does not sufficiently align with the broader themes of Continuous Delivery. Overall, the content does not provide a detailed exploration of Continuous Delivery principles.",
+    "level": "Quaternary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",

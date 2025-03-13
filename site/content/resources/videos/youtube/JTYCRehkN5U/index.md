@@ -30,6 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
+- Product Delivery
+- Value Delivery
+- Working Software
+- Software Developers
+- Engineering Practices
+- Pragmatic Thinking
+- Definition of Done
+- Technical Excellence
+- Agile Project Management
 resourceTypes:
 - video
 categories:

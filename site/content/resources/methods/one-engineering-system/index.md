@@ -38,8 +38,6 @@ tags:
 - Azure DevOps
 - Software Developers
 - Team Collaboration
-- Pragmatic Thinking
-- Collaboration Tools
 
 ---
 The One Engineering System (1ES) is a strategy aimed at unifying engineering tools and practices to enhance collaboration and efficiency within software development teams. By standardizing on a common set of tools, organizations can reduce friction and streamline workflows.

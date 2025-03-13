@@ -25,12 +25,8 @@ preview: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
 isShort: true
 tags:
+- Cycle Time
 - Pragmatic Thinking
-- Flow Efficiency
-- Throughput
-- Product Delivery
-- Metrics and Learning
-- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

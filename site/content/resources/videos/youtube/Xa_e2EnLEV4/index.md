@@ -34,8 +34,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Personal
-- Transparency and Accountability
 resourceTypes:
 - video
 categories: []

@@ -29,7 +29,12 @@ tags:
 - Technical Excellence
 - Engineering Practices
 - Software Development
-- Continuous Delivery
+- Value Delivery
+- Working Software
+- Practical Techniques and Tooling
+- Software Developers
+- Operational Practices
+- Azure Pipelines
 sitemap:
   filename: sitemap.xml
   priority: 0.6

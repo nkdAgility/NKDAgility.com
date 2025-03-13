@@ -29,9 +29,6 @@ tags:
 - Product Owner
 - Agile Project Management
 - People and Process
-- Organisational Agility
-- Value Delivery
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

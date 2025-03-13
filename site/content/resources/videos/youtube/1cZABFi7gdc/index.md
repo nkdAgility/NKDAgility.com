@@ -30,9 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Leadership
-- Agile Frameworks
-- Mentoring
-- People and Process
 resourceTypes:
 - video
 layout: video

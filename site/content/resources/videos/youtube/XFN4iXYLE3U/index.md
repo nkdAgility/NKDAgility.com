@@ -38,8 +38,6 @@ tags:
 - Operational Practices
 - Software Development
 - Throughput
-- Practical Techniques and Tooling
-- Product Delivery
 resourceTypes:
 - video
 categories:

@@ -30,15 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Continuous Learning
 - Discovery and Learning
+- Continuous Learning
 - Change Management
-- Business Agility
-- Resilience and Change
-- People and Process
-- Enterprise Agility
-- Organisational Agility
-- Organisational Change
 resourceTypes:
 - video
 categories:

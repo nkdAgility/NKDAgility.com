@@ -29,11 +29,6 @@ isShort: true
 tags:
 - Value Delivery
 - Technical Debt
-- Working Software
-- Technical Leadership
-- Code and Complexity
-- Agile Product Management
-- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

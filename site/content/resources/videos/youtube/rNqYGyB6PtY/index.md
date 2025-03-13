@@ -31,10 +31,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Pragmatic Thinking
-- Personal
-- Scrum Team
-- Agile Leadership
 resourceTypes:
 - video
 categories:

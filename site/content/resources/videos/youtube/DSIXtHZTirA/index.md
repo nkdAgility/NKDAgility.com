@@ -28,13 +28,13 @@ tags:
 - Working Software
 - Product Delivery
 - Software Development
-- Pragmatic Thinking
 - Technical Excellence
 - Continuous Delivery
 - Deployment Frequency
 - Deployment Strategies
 - Azure DevOps
 - Operational Practices
+- Release Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -24,8 +24,7 @@ card:
   title: Product Increment
 categories:
 - Scrum
-tags:
-- Increment
+tags: []
 
 ---
 ## What is a Product Increment?

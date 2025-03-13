@@ -39,8 +39,6 @@ tags:
 - People and Process
 - Market Adaptability
 - Value Delivery
-- Product Delivery
-- Technical Excellence
 resourceTypes:
 - video
 categories:

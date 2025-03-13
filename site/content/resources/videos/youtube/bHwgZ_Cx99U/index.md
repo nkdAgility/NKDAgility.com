@@ -31,11 +31,6 @@ tags:
 - Scaling Agility
 - Organisational Agility
 - Team Collaboration
-- Operational Practices
-- Pragmatic Thinking
-- Scaled Agile
-- Team Performance
-- Technical Debt
 sitemap:
   filename: sitemap.xml
   priority: 0.6

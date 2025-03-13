@@ -30,6 +30,13 @@ tags:
 - Deployment Frequency
 - Frequent Releases
 - Market Adaptability
+- Resilience and Change
+- Value Delivery
+- Agile Product Operating Model
+- Business Agility
+- Metrics and Learning
+- Azure DevOps
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

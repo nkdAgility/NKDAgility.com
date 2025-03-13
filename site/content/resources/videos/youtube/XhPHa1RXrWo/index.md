@@ -37,8 +37,6 @@ tags:
 - Agile Leadership
 - Agile Transformation
 - Complexity Thinking
-- Sociotechnical Systems
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

@@ -26,6 +26,12 @@ isShort: false
 tags:
 - Install and Configuration
 - Azure DevOps
+- Practical Techniques and Tooling
+- Technical Mastery
+- System Configuration
+- Pragmatic Thinking
+- Software Development
+- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -49,7 +49,7 @@ tags:
 - Agile Frameworks
 - Large Scale Agility
 - Scrum Team
-- Scaling Agility
+- Software Development
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

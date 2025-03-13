@@ -31,14 +31,6 @@ sitemap:
 tags:
 - Agile Product Management
 - Product Owner
-- Organisational Agility
-- Resilience and Change
-- Agile Leadership
-- Pragmatic Thinking
-- Sensemaking
-- Organisational Change
-- Product Strategy
-- Decision Making
 resourceTypes:
 - video
 layout: video

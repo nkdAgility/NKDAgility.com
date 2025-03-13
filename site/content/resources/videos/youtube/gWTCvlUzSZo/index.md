@@ -27,9 +27,6 @@ isShort: true
 tags:
 - Team Collaboration
 - Remote Working
-- People and Process
-- Scrum Master
-- Employee Engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

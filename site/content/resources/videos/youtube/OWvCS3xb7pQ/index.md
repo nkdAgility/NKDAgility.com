@@ -31,10 +31,6 @@ tags:
 - Continuous Learning
 - Organisational Agility
 - Organisational Change
-- Agile Project Management
-- Mentoring
-- Personal
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

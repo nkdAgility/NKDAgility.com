@@ -25,8 +25,6 @@ duration: 46
 isShort: true
 tags:
 - Asynchronous Development
-- Team Collaboration
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

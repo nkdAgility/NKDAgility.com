@@ -27,10 +27,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Practical Techniques and Tooling
 - Scrum Master
-- Agile Transformation
-- People and Process
-- Team Performance
 resourceTypes:
 - video
 categories:

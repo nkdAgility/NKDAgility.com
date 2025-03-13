@@ -24,12 +24,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/YGyx4i3-4ss/maxresdefault.jpg
 duration: 53
 isShort: true
-tags:
-- Product Owner
-- Product Discovery
-- Discovery and Learning
-- Evidence Based Management
-- People and Process
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6

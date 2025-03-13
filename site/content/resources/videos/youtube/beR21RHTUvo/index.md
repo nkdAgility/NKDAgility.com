@@ -31,12 +31,6 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
-- Software Development
-- Estimation
-- Agile Project Management
-- Software Developers
-- Pragmatic Thinking
-- Product Delivery
 resourceTypes:
 - video
 categories:

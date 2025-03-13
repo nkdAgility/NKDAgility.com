@@ -36,9 +36,6 @@ tags:
 - Team Performance
 - Discovery and Learning
 - Pragmatic Thinking
-- Team Collaboration
-- Empirical Process Control
-- Metrics and Learning
 resourceTypes:
 - video
 categories:

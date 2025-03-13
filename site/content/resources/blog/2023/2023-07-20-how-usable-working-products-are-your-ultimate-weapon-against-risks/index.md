@@ -32,8 +32,8 @@ tags:
 - Market Adaptability
 - Agile Product Operating Model
 - Agile Strategy
-- Customer Feedback Loops
 - Engineering Practices
+- Software Developers
 categories:
 - Social Technologies
 - Engineering Excellence

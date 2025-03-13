@@ -35,9 +35,9 @@ tags:
 - Continuous Learning
 - Organisational Change
 - Technical Leadership
-- Team Performance
 - Discovery and Learning
 - Agile Leadership
+- Agile Strategy
 resourceTypes:
 - video
 layout: video

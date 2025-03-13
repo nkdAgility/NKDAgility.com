@@ -31,9 +31,7 @@ sitemap:
 tags:
 - Agile Leadership
 - People and Process
-- Agile Product Management
-- Pragmatic Thinking
-- Agile Project Management
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

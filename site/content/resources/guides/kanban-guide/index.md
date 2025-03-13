@@ -34,6 +34,11 @@ tags:
 - Agile Frameworks
 - Throughput
 - Operational Practices
+- Practical Techniques and Tooling
+- Value Delivery
+- Software Development
+- Products and Books
+- Agile Project Management
 
 ---
 December 2020

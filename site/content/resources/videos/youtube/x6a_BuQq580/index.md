@@ -25,8 +25,6 @@ duration: 186
 isShort: false
 tags:
 - Pragmatic Thinking
-- Practical Techniques and Tooling
-- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.6

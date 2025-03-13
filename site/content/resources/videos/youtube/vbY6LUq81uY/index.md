@@ -26,6 +26,15 @@ duration: 437
 isShort: false
 tags:
 - MVP
+- Entrepreneurship
+- Discovery and Learning
+- Pragmatic Thinking
+- Lean Startup
+- Hypothesis Driven Development
+- Experimentation
+- Product Discovery
+- Product Strategy
+- Product Validation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

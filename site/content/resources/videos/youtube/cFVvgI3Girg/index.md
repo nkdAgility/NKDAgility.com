@@ -29,11 +29,6 @@ tags:
 - Agile Leadership
 - Organisational Culture
 - Organisational Agility
-- Accountability
-- Agile Product Management
-- Organisational Physics
-- Sociotechnical Systems
-- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

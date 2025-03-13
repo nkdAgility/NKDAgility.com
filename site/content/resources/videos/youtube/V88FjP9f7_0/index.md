@@ -33,11 +33,6 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Product Delivery
-- Lean Thinking
-- Agile Frameworks
-- Agile Strategy
-- People and Process
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

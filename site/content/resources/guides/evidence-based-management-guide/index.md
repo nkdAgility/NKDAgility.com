@@ -44,6 +44,7 @@ tags:
 - Metrics and Learning
 - Agile Product Management
 - People and Process
+- Business Agility
 
 ---
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty

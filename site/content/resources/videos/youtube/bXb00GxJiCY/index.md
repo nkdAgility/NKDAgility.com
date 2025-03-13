@@ -29,9 +29,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Discovery and Learning
+tags: []
 resourceTypes:
 - video
 categories:

@@ -35,11 +35,11 @@ tags:
 - Metrics and Learning
 - Decision Making
 - Strategy
-- Throughput
 - Product Delivery
 - Ability to Innovate
 - Evidence Based Leadership
 - Agile Product Operating Model
+- Agile Project Management
 resourceTypes:
 - video
 categories:

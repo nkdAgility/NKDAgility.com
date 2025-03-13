@@ -34,11 +34,6 @@ tags:
 - People and Process
 - Agile Project Management
 - Agile Leadership
-- Software Development
-- Personal
-- Scrum Master
-- Software Developers
-- Technical Leadership
 resourceTypes:
 - video
 categories:

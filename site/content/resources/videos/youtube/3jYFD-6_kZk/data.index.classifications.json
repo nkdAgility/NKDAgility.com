@@ -529,12 +529,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T12:30:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses aspects of Azure DevOps and TFS, which are related to Windows environments, particularly in terms of identity management and operational issues. However, the primary focus is on Azure DevOps data migration rather than Windows OS itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:02:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses Azure DevOps data migration and related challenges, with no direct focus on the Windows operating system. While it briefly mentions older versions of Team Foundation Server (TFS), which may run on Windows, the overall discussion does not align with the core themes of Windows installation, configuration, or troubleshooting. The content lacks depth in any Windows-specific context, making it unsuitable for the Windows category.",
+    "level": "Quinary"
   },
   "Sprint Review": {
     "category": "Sprint Review",

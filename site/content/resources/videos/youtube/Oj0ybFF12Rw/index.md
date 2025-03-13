@@ -33,11 +33,6 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Software Development
-- Pragmatic Thinking
-- Agile Product Management
-- Professional Scrum
-- Scaled Agile
-- Product Delivery
 resourceTypes:
 - video
 categories:

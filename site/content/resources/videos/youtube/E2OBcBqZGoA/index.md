@@ -32,9 +32,6 @@ tags:
 - Organisational Change
 - Business Agility
 - Enterprise Agility
-- Agile Leadership
-- Agile Philosophy
-- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

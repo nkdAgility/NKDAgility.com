@@ -36,9 +36,6 @@ tags:
 - Software Development
 - Agile Project Management
 - People and Process
-- Agile Product Management
-- Agile Transformation
-- Organisational Agility
 resourceTypes:
 - video
 categories:

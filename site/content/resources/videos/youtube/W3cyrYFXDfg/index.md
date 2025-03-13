@@ -34,12 +34,9 @@ tags:
 - People and Process
 - Decision Making
 - Pragmatic Thinking
+- Agile Project Management
 - Evidence Based Leadership
 - Organisational Agility
-- Strategy
-- Agile Strategy
-- Metrics and Learning
-- Business Agility
 resourceTypes:
 - video
 categories:

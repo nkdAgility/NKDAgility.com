@@ -32,6 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
+- Value Delivery
+- Change Management
+- People and Process
+- Personal
+- Agile Values and Principles
+- Continuous Learning
+- Discovery and Learning
+- Team Collaboration
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

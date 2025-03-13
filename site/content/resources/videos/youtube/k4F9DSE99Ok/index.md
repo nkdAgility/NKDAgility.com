@@ -29,9 +29,6 @@ tags:
 - Agile Project Management
 - People and Process
 - Customer Feedback Loops
-- Agile Product Management
-- Agile Leadership
-- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6

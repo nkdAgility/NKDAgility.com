@@ -28,8 +28,6 @@ tags:
 - Metrics and Learning
 - People and Process
 - Agile Leadership
-- Organisational Agility
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -36,9 +36,6 @@ tags:
 - Decision Making
 - Pragmatic Thinking
 - Decision Theory
-- Agile Product Management
-- Organisational Agility
-- People and Process
 resourceTypes:
 - video
 layout: video

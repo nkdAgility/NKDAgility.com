@@ -30,10 +30,6 @@ tags:
 - Decision Making
 - Experimentation
 - Agile Project Management
-- People and Process
-- Evidence Based Management
-- Pragmatic Thinking
-- Hypothesis Driven Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

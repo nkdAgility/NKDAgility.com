@@ -32,9 +32,9 @@ tags:
 - Decision Making
 - Lead Time
 - Market Adaptability
-- Enterprise Agility
 - Flow Efficiency
 - Operational Practices
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

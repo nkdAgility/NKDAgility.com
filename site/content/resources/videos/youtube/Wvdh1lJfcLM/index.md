@@ -33,9 +33,6 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - Software Development
-- Products and Books
-- Pragmatic Thinking
-- Product Delivery
 resourceTypes:
 - video
 categories:

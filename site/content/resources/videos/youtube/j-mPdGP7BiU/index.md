@@ -30,6 +30,14 @@ sitemap:
   priority: 0.6
 tags:
 - Experimentation
+- Discovery and Learning
+- Hypothesis Driven Development
+- Product Discovery
+- Product Validation
+- Lean Startup
+- Metrics and Learning
+- Continuous Learning
+- Decision Making
 resourceTypes:
 - video
 categories:

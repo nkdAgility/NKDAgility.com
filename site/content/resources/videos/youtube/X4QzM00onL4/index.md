@@ -30,8 +30,6 @@ tags:
 - Strategy
 - Agile Product Management
 - People and Process
-- Technical Leadership
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Discovery and Learning
+- Software Development
+- Agile Project Management
+- Agile Leadership
+- Sociotechnical Systems
+- Agile Strategy
+- Organisational Culture
+- Pragmatic Thinking
+- Agile Philosophy
 resourceTypes:
 - video
 categories:
