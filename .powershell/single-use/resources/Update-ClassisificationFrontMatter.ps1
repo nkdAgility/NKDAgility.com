@@ -155,6 +155,55 @@ When generating the description, consider the following contexts and include rel
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'headline' -fieldValue  $headline -addAfter 'Instructions' -Overwrite
         }
 
+        # =================CONTENT====================
+
+        $classificationContentPrompt = @"
+        You are an expert in Agile, Scrum, DevOps, and Evidence-Based Management.
+        
+        Your task is to generate a **concise, engaging blog post** that explains a key topic within these fields. The post should be **direct, insightful, and no longer than 500 words**, keeping a sharp focus on the most essential aspects.
+        
+        ### **Content Requirements:**
+        - **Explain the topic clearly and efficiently**, avoiding unnecessary context.
+        - **Stay focused on its relevance and impact** in Agile, Scrum, DevOps, or business agility.
+        - **Provide a brief historical or theoretical foundation** only if essential.
+        - **Avoid common misconceptions**, but do not over-explain—only clarify where needed.
+        - **Write in a free-flowing style**, **without headings or structured sections**.
+        - **Maintain a professional but direct tone**, making every sentence count.
+        - **Do not include phrases like "in conclusion" or summary-style wrap-ups**—let the post end naturally.
+        - Keep it to two paragraphs at most.
+        
+        Keep the writing **clear, to the point, and free of fluff**. Do not introduce the topic as a “classification” or “category.” Instead, simply **discuss the concept as if explaining it to an informed reader**.
+        
+        **Topic Title:** $($hugoMarkdown.FrontMatter.title)  
+        **Current Description:** $($hugoMarkdown.FrontMatter.description)  
+        
+        ### **Guidance for Generating the Content:**
+        - Assume the reader **already understands Agile, Scrum, and DevOps**—get straight to the point.
+        - **Do not exceed 500 words**.
+        - **Do not use headings** or structured formatting—keep the flow natural.
+        - **Use authoritative sources and theories**, favouring these contexts:
+        
+          - **Kanban Context:** Kanban Guide, Daniel Vacanti, Donald Reinertsen, John Little
+          - **Agile & Scrum Context:** Scrum Guide, Ken Schwaber, Martin Fowler, Mike Beedle, Ron Jeffries 
+          - **DevOps Context:** Gene Kim, Jez Humble, Patrick Debois, John Willis
+          - **Lean Context:** Taiichi Ohno, Eliyahu M. Goldratt, W. Edwards Deming, Mary & Tom Poppendieck
+          - **DevOps & Continuous Delivery Context:** Jez Humble, Dave Farley, Martin Fowler, Gene Kim
+          - **Evidence-Based Management Context:** Ken Schwaber, Jeff Sutherland, Patricia Kong, Kurt Bittner
+          - **Complexity Theory Context:** Dave Snowden, Cynefin Framework, Ralph Stacey, Mary Uhl-Bien
+        
+        Your response should be **a fully structured blog post, ready for publication, without headings or formatting—just natural, concise, and engaging writing**.  
+        Do not enclose text in quotes.  
+        Do not generate a title; assume the topic title is the post title.
+"@
+        
+        if (-not $hugoMarkdown.BodyContent) {
+            # $ClassificationContent = Get-OpenAIResponse -Prompt $classificationContentPrompt
+
+            # $hugoMarkdown.BodyContent = $ClassificationContent
+            # $updateDate = Get-Date -Format "yyyy-MM-ddTHH:mm:ss"
+            # Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'BodyContentGenDate' -fieldValue $updateDate -Overwrite
+        }
+       
             
         # =================COMPLETE===================
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $markdownFile 
