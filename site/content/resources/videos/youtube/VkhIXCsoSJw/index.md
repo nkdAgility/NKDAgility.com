@@ -30,11 +30,11 @@ tags:
 - Practical Techniques and Tooling
 - Technical Excellence
 - Product Delivery
+- Automated Testing
 - Deployment Frequency
 - Pragmatic Thinking
 - Azure DevOps
 - Operational Practices
-- Market Adaptability
 resourceTypes:
 - video
 sitemap:

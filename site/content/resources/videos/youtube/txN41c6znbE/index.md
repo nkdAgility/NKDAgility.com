@@ -34,12 +34,12 @@ tags:
 - Discovery and Learning
 - Software Development
 - Agile Project Management
+- Scrum Master
 - Agile Leadership
 - Sociotechnical Systems
 - Agile Strategy
 - Organisational Culture
 - Pragmatic Thinking
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

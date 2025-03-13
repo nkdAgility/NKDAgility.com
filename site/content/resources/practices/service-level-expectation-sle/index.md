@@ -33,7 +33,6 @@ tags:
 - Throughput
 - Scrum Team
 - Cycle Time
-- Agile Frameworks
 - Scrum Product Development
 - Flow Efficiency
 

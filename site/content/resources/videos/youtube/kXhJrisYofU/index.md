@@ -33,8 +33,8 @@ tags:
 - Agile Product Operating Model
 - Agile Project Management
 - Enterprise Agility
-- Agile Values and Principles
 - Change Management
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

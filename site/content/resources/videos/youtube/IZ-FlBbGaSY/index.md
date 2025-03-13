@@ -33,8 +33,8 @@ tags:
 - Working Software
 - Practical Techniques and Tooling
 - Software Developers
-- Operational Practices
 - Azure Pipelines
+- Modern Source Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6

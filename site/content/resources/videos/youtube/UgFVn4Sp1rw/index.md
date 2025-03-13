@@ -33,8 +33,8 @@ tags:
 - Strategy
 - Scrum Product Development
 - Agile Product Operating Model
-- Agile Project Management
 - Evidence Based Leadership
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

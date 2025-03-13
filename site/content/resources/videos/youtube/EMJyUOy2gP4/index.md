@@ -38,7 +38,7 @@ tags:
 - Evidence Based Leadership
 - Agile Product Management
 - Decision Making
-- Product Delivery
+- Operational Practices
 resourceTypes:
 - video
 categories:

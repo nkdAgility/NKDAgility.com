@@ -32,9 +32,9 @@ tags:
 - Lean Startup
 - Hypothesis Driven Development
 - Experimentation
-- Product Discovery
 - Product Strategy
 - Product Validation
+- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

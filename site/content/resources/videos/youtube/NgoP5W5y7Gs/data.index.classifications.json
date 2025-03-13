@@ -976,12 +976,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of security practices within the software development lifecycle, mentioning tools like GitHub and Azure DevOps that relate to source control. However, the primary focus is on security practices rather than version control methodologies or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:20:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of 'shifting left' in software development, focusing on quality and security practices. While it touches on modern engineering practices, it does not explicitly address version control systems, branching strategies, or collaboration workflows, which are central to the 'Modern Source Control' category. The mention of tools like Test-Driven Development (TDD) and Continuous Delivery practices aligns somewhat with the category, but the primary focus is on broader software engineering principles rather than specific source control methodologies.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",

@@ -45,10 +45,10 @@ tags:
 - Definition of Done
 - Increment
 - Working Software
+- Professional Scrum
 - Product Delivery
 - Scrum Product Development
 - Software Development
-- Professional Scrum
 - Empirical Process Control
 - Transparency and Accountability
 

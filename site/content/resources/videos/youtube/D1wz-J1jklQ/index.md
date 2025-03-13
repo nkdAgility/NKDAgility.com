@@ -34,7 +34,7 @@ tags:
 - Value Delivery
 - Flow Efficiency
 - Pragmatic Thinking
-- Continuous Delivery
+- Operational Practices
 resourceTypes:
 - video
 sitemap:

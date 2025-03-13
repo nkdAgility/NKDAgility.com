@@ -33,11 +33,11 @@ tags:
 - Pragmatic Thinking
 - Sociotechnical Systems
 - Continuous Learning
-- Organisational Change
 - Technical Leadership
 - Discovery and Learning
 - Agile Leadership
 - Agile Strategy
+- Organisational Agility
 resourceTypes:
 - video
 layout: video

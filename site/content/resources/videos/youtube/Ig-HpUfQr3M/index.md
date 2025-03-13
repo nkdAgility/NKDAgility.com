@@ -28,11 +28,11 @@ tags:
 - Hypothesis Driven Development
 - Discovery and Learning
 - Value Delivery
+- Pragmatic Thinking
 - Decision Making
 - People and Process
 - Metrics and Learning
 - Experimentation
-- Pragmatic Thinking
 - Agile Product Management
 - Organisational Agility
 sitemap:

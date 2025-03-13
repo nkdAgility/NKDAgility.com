@@ -22,8 +22,7 @@ card:
     content: Learn More
   content: Discover more about Product Backlog and how it can help you in your Agile journey!
   title: Product Backlog
-categories:
-- Scrum
+categories: []
 tags: []
 
 ---

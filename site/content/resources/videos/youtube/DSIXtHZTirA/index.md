@@ -30,11 +30,11 @@ tags:
 - Software Development
 - Technical Excellence
 - Continuous Delivery
-- Deployment Frequency
 - Deployment Strategies
 - Azure DevOps
 - Operational Practices
 - Release Management
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

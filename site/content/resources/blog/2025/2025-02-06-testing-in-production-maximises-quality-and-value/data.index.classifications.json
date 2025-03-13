@@ -415,12 +415,15 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T08:53:18",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-13T15:18:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 60.0,
-    "reasoning": "The content discusses deployment strategies and practices that enhance system reliability and performance, which are relevant to Site Reliability Engineering. However, the primary focus is on deployment methodologies rather than SRE principles specifically.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses deployment strategies and practices that can enhance system reliability, such as audience-based deployment and real-time observability. However, it primarily focuses on software delivery and development processes rather than the core principles of Site Reliability Engineering (SRE). While there are mentions of monitoring and feedback loops, the discussion lacks depth in SRE-specific practices like SLOs, SLIs, and incident response, which are crucial for a higher confidence score in this category.",
+    "level": "Quaternary"
   },
   "Product Owner": {
     "category": "Product Owner",

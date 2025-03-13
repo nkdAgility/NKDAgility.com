@@ -30,11 +30,11 @@ tags:
 - Software Developers
 - Pragmatic Thinking
 - Technical Leadership
-- Agile Philosophy
 - Engineering Practices
 - Working Software
 - Agile Transformation
 - Product Delivery
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
