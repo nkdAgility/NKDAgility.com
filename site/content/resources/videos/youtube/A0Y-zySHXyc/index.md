@@ -33,7 +33,6 @@ tags:
 - Accountability
 - Scrum Product Development
 - Scrum Team
-- Agile Project Management
 - Transparency and Accountability
 - Agile Product Management
 - Product Owner

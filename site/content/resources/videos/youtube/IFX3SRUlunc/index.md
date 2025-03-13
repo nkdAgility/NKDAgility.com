@@ -26,10 +26,10 @@ duration: 115
 isShort: false
 tags:
 - Lean
+- Lean Principles
 - Lean Thinking
 - Lean Product Development
 - Events and Presentations
-- Lean Principles
 - Value Delivery
 sitemap:
   filename: sitemap.xml

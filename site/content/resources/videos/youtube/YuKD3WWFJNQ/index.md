@@ -35,10 +35,10 @@ tags:
 - People and Process
 - Agile Product Management
 - Agile Leadership
+- Agile Frameworks
 - Product Owner
 - Sprint Review
 - Transparency
-- Agile Frameworks
 - Agile Philosophy
 - Agile Planning
 - Agile Project Management

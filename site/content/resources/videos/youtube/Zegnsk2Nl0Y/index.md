@@ -29,6 +29,7 @@ tags:
 - Agile Project Management
 - Collaboration Tools
 - Scrum Team
+- Agile Planning Tools
 - Scrum Product Development
 sitemap:
   filename: sitemap.xml

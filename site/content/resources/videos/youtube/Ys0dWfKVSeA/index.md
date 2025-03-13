@@ -37,11 +37,11 @@ tags:
 - Software Development
 - Team Collaboration
 - Empirical Process Control
+- Software Developers
 - Agile Project Management
 - Agile Transformation
 - Agile Product Management
 - Pragmatic Thinking
-- Organisational Agility
 resourceTypes:
 - video
 categories:

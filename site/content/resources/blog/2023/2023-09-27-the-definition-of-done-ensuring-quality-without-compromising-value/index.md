@@ -33,9 +33,9 @@ tags:
 - Software Development
 - Professional Scrum
 - Working Software
+- Agile Project Management
 - Scrum Product Development
 - Product Delivery
-- Agile Project Management
 - Software Developers
 categories:
 - Scrum

@@ -30,9 +30,9 @@ tags:
 - Software Development
 - Agile Project Management
 - Flow Efficiency
+- Team Performance
 - Pragmatic Thinking
 - Agile Product Management
-- Team Performance
 - Practical Techniques and Tooling
 categories:
 - Product Management

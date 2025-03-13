@@ -30,6 +30,7 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Frameworks
 - Agile Product Management
 - Strategy
 - Product Owner
@@ -38,7 +39,6 @@ tags:
 - Sprint Review
 - Pragmatic Thinking
 - Scrum Master
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

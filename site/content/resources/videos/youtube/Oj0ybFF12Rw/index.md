@@ -28,8 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scaling Scrum
 - Agile Frameworks
+- Scaling Scrum
 - Agile Project Management
 - Software Development
 - Scaling Agility

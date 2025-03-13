@@ -35,7 +35,7 @@ tags:
 - Organisational Change
 - Resilience and Change
 - Agile Philosophy
-- Agile Project Management
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

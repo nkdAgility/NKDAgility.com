@@ -36,7 +36,7 @@ tags:
 - Product Delivery
 - Team Performance
 - Value Delivery
-- Agile Frameworks
+- Scrum Master
 categories:
 - Scrum
 - Social Technologies

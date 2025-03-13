@@ -28,6 +28,7 @@ tags:
 - Practical Techniques and Tooling
 - Team Collaboration
 - Scrum Master
+- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6

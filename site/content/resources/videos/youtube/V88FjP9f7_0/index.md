@@ -30,6 +30,7 @@ sitemap:
 tags:
 - Agile Product Management
 - Agile Philosophy
+- Strategy
 - Agile Values and Principles
 - Agile Project Management
 - Product Delivery

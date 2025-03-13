@@ -29,6 +29,7 @@ sitemap:
 tags:
 - Practical Techniques and Tooling
 - Scrum Master
+- Scrum Team
 resourceTypes:
 - video
 categories:

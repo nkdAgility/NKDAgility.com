@@ -34,7 +34,6 @@ tags:
 - Organisational Agility
 - Agile Frameworks
 - Agile Transformation
-- Enterprise Agility
 - Scaling Agility
 - Sociotechnical Systems
 - People and Process

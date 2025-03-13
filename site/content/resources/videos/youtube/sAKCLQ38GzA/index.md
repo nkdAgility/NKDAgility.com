@@ -31,6 +31,7 @@ tags:
 - People and Process
 - Team Motivation
 - Agile Philosophy
+- Strategy
 - Agile Product Operating Model
 - Employee Engagement
 - Organisational Culture

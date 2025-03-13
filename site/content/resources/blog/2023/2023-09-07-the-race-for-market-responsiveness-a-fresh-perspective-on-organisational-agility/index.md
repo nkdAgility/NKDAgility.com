@@ -36,7 +36,6 @@ tags:
 - Resilience and Change
 - Pragmatic Thinking
 - People and Process
-- Agile Philosophy
 - Strategic Goals
 categories:
 - Social Technologies
