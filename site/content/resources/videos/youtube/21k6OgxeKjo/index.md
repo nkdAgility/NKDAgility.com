@@ -27,6 +27,7 @@ tags:
 - Product Owner
 - Agile Leadership
 - Scrum Team
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

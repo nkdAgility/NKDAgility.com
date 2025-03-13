@@ -30,12 +30,9 @@ sitemap:
 tags:
 - Agile Project Management
 - People and Process
-- Agile Planning
 - Agile Product Management
 - Scrum Product Development
-- Scrum Master
-- Professional Scrum
-- Agile Frameworks
+- Agile Planning
 resourceTypes:
 - video
 categories:

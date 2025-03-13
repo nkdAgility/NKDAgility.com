@@ -33,6 +33,7 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
+- Software Development
 - Employee Engagement
 - Team Motivation
 - Agile Frameworks
@@ -40,7 +41,6 @@ tags:
 - Scrum Master
 - Scrum Product Development
 - Scrum Team
-- Agile Project Management
 resourceTypes:
 - video
 categories:

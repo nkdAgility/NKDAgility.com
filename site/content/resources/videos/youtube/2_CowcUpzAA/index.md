@@ -34,6 +34,7 @@ tags:
 - Scrum Product Development
 - People and Process
 - Pragmatic Thinking
+- Accountability
 - Agile Product Operating Model
 - Product Delivery
 - Value Delivery

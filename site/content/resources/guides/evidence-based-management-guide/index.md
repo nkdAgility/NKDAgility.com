@@ -37,11 +37,11 @@ categories:
 tags:
 - Evidence Based Management
 - Value Delivery
+- Metrics and Learning
 - Ability to Innovate
 - Decision Making
 - Evidence Based Leadership
 - Experimentation
-- Metrics and Learning
 - Agile Product Management
 - People and Process
 - Business Agility

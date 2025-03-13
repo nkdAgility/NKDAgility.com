@@ -28,6 +28,7 @@ tags:
 - Agile Philosophy
 - Business Agility
 - Organisational Agility
+- Resilience and Change
 - Agile Leadership
 - Team Collaboration
 sitemap:

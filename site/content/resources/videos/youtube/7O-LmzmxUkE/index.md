@@ -31,6 +31,7 @@ sitemap:
   priority: 0.6
 tags:
 - Professional Scrum
+- Pragmatic Thinking
 - Software Development
 - Empirical Process Control
 - Scrum Product Development
@@ -39,7 +40,6 @@ tags:
 - Transparency
 - Agile Frameworks
 - Software Developers
-- Scrum Team
 resourceTypes:
 - video
 layout: video

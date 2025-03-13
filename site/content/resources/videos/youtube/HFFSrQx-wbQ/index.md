@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: false
 tags:
+- Agile Philosophy
 - Agile Values and Principles
 - Organisational Agility
 sitemap:

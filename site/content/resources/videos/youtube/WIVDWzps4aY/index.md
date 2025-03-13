@@ -29,6 +29,7 @@ tags:
 - Agile Product Management
 - Product Owner
 - Products and Books
+- Agile Product Operating Model
 sitemap:
   filename: sitemap.xml
   priority: 0.6

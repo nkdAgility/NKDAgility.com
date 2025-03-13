@@ -33,11 +33,6 @@ tags:
 - Product Owner
 - People and Process
 - Agile Project Management
-- Accountability
-- Professional Scrum
-- Personal
-- Pragmatic Thinking
-- Transparency and Accountability
 resourceTypes:
 - video
 categories:

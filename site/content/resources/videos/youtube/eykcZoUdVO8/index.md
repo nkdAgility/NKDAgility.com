@@ -35,8 +35,7 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 ## Spotlight on Agile Influencers: The Simon Randell Effect

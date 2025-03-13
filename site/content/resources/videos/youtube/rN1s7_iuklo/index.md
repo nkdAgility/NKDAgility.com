@@ -33,6 +33,7 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - Value Delivery
+- Business Agility
 - Change Management
 - People and Process
 - Personal
@@ -40,7 +41,6 @@ tags:
 - Continuous Learning
 - Discovery and Learning
 - Team Collaboration
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

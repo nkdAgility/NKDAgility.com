@@ -22,16 +22,13 @@ categories:
 - Social Technologies
 - Leadership
 tags:
+- People and Process
 - Agile Transformation
 - Continuous Learning
 - Discovery and Learning
 - Agile Project Management
 - Events and Presentations
 - Organisational Agility
-- People and Process
-- Agile Frameworks
-- Business Agility
-- Agile Strategy
 
 ---
 Dear NKD Agilists!

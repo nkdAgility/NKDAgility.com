@@ -32,6 +32,7 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
+- Decision Making
 - Agile Product Management
 - Value Delivery
 - Transparency and Accountability
@@ -39,7 +40,6 @@ tags:
 - Strategy
 - Sociotechnical Systems
 - Agile Planning
-- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

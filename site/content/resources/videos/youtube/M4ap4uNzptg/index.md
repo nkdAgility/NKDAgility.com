@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Values and Principles
 - Agile Leadership
 - People and Process
 - Organisational Culture
@@ -39,7 +40,6 @@ tags:
 - Agile Philosophy
 - Agile Project Management
 - Agile Strategy
-- Agile Transformation
 resourceTypes:
 - video
 categories:

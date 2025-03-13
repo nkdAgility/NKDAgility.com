@@ -35,7 +35,6 @@ tags:
 - Agile Leadership
 - Agile Philosophy
 - Change Management
-- Decision Making
 - Beta Codex
 - Organisational Change
 - Organisational Culture

@@ -41,6 +41,7 @@ tags:
 - Software Development
 - Scrum Team
 - Technical Leadership
+- Agile Transformation
 resourceTypes:
 - video
 categories:

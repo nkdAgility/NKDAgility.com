@@ -32,6 +32,7 @@ tags:
 - Organisational Agility
 - Agile Product Management
 - People and Process
+- Agile Frameworks
 resourceTypes:
 - video
 layout: video

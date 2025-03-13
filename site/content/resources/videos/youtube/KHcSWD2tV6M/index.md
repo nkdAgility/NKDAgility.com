@@ -26,10 +26,10 @@ duration: 67
 isShort: false
 tags:
 - Agile Philosophy
-- Transparency and Accountability
 - People and Process
 - Team Collaboration
 - Team Performance
+- Transparency and Accountability
 - Agile Leadership
 sitemap:
   filename: sitemap.xml

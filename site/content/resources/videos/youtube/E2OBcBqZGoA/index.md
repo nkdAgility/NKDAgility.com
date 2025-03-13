@@ -26,6 +26,7 @@ duration: 46
 isShort: true
 tags:
 - People and Process
+- Organisational Culture
 - Value Delivery
 - Beta Codex
 - Organisational Agility

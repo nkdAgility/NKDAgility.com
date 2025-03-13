@@ -38,6 +38,7 @@ tags:
 - Agile Strategy
 - Decision Making
 - Decision Theory
+- Scrum Product Development
 resourceTypes:
 - video
 categories:

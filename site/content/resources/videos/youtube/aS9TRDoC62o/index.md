@@ -31,9 +31,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - Strategy
 - Software Developers
-- Software Development
 - Technical Mastery
 - Pragmatic Thinking
 - People and Process

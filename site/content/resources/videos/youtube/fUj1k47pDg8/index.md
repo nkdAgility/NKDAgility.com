@@ -33,7 +33,7 @@ tags:
 - Continuous Learning
 - Pragmatic Thinking
 - Sensemaking
-- Agile Product Management
+- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

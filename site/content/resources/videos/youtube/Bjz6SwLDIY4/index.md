@@ -34,7 +34,6 @@ tags:
 - Resilience and Change
 - Pragmatic Thinking
 - People and Process
-- Agile Philosophy
 - Beta Codex
 - Enterprise Agility
 - Organisational Change

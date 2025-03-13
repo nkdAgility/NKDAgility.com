@@ -27,9 +27,9 @@ duration: 30
 isShort: true
 tags:
 - Scrum Team
+- Agile Frameworks
 - Professional Scrum
 - Scrum Master
-- Agile Frameworks
 - Agile Project Management
 - Software Development
 sitemap:

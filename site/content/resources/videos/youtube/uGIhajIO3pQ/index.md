@@ -30,12 +30,9 @@ sitemap:
   priority: 0.6
 tags:
 - Events and Presentations
-- News and Reviews
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 ## Scotland’s Agile Revolution: What’s on the Horizon 

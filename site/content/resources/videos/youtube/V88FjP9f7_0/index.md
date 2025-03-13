@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Agile Values and Principles
 - Agile Philosophy
+- Agile Values and Principles
 - Agile Project Management
 - Product Delivery
 resourceTypes:

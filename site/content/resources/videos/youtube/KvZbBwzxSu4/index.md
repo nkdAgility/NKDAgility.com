@@ -32,13 +32,13 @@ tags:
 - Evidence Based Leadership
 - People and Process
 - Decision Making
+- Organisational Culture
 - Agile Leadership
 - Value Delivery
 - Business Agility
 - Evidence Based Management
 - Sociotechnical Systems
 - Organisational Agility
-- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

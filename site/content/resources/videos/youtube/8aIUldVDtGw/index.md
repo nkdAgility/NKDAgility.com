@@ -33,13 +33,13 @@ tags:
 - People and Process
 - Value Delivery
 - Flow Efficiency
+- Lean Thinking
 - Lean
 - Agile Product Management
 - Product Delivery
 - Throughput
 - Strategy
 - Cycle Time
-- Lean Thinking
 resourceTypes:
 - video
 categories:

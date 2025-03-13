@@ -30,8 +30,6 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - People and Process
-- Personal
-- Software Development
 resourceTypes:
 - video
 categories:

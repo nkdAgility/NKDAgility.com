@@ -25,6 +25,7 @@ duration: 53
 isShort: true
 tags:
 - Agile Philosophy
+- Agile Leadership
 - People and Process
 - Agile Values and Principles
 - Team Collaboration

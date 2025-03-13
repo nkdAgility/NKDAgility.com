@@ -33,6 +33,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
 - Pragmatic Thinking
 - Software Development
 - Value Delivery
@@ -42,7 +43,6 @@ tags:
 - Team Performance
 - Metrics and Learning
 - Product Delivery
-- Agile Project Management
 resourceTypes:
 - video
 categories:

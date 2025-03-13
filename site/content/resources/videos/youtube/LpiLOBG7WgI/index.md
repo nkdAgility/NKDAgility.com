@@ -31,6 +31,7 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
+- Strategy
 - Product Owner
 - Scrum Product Development
 - Scrum Team
@@ -38,7 +39,6 @@ tags:
 - Pragmatic Thinking
 - Scrum Master
 - Agile Frameworks
-- Agile Planning
 resourceTypes:
 - video
 categories:

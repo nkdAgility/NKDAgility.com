@@ -31,6 +31,13 @@ tags:
 - Software Development
 - Scrum Product Development
 - Agile Planning
+- Agile Project Management
+- Professional Scrum
+- Agile Frameworks
+- Agile Product Management
+- Product Delivery
+- Software Developers
+- Agile Planning Tools
 resourceTypes:
 - video
 categories:

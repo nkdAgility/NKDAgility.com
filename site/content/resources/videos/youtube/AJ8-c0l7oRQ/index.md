@@ -29,9 +29,7 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 ## Finding the Right Balance between Simplicity and Complexity 🧱 

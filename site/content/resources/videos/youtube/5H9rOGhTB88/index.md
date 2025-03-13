@@ -32,13 +32,13 @@ tags:
 - Agile Leadership
 - People and Process
 - Organisational Agility
+- Organisational Culture
 - Self Organisation
 - Business Agility
 - Agile Product Operating Model
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Philosophy
-- Agile Project Management
 resourceTypes:
 - video
 layout: video

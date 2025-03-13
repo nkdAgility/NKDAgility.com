@@ -31,6 +31,7 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
+- Agile Philosophy
 - Continuous Learning
 - Change Management
 resourceTypes:

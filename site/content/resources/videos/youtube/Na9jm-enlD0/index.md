@@ -34,7 +34,6 @@ tags:
 - Decision Theory
 - Products and Books
 - Decision Making
-- Sensemaking
 - Agile Product Management
 resourceTypes:
 - video

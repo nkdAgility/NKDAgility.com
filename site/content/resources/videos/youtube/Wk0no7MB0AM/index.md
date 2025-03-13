@@ -29,6 +29,7 @@ tags:
 - Scrum Team
 - Agile Project Management
 - Software Development
+- Agile Frameworks
 - People and Process
 sitemap:
   filename: sitemap.xml

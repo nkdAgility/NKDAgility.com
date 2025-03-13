@@ -36,10 +36,10 @@ tags:
 - Agile Frameworks
 - Software Development
 - Team Collaboration
+- Empirical Process Control
 - Agile Project Management
 - Agile Transformation
 - Agile Product Management
-- Empirical Process Control
 - Pragmatic Thinking
 - Organisational Agility
 resourceTypes:

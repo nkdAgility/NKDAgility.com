@@ -30,6 +30,7 @@ tags:
 - Decision Making
 - Experimentation
 - Agile Project Management
+- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

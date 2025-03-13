@@ -35,10 +35,10 @@ tags:
 - Professional Scrum
 - Value Delivery
 - Product Delivery
+- Pragmatic Thinking
 - Scrum Product Development
 - Products and Books
 - Software Development
-- Agile Planning Tools
 resourceTypes:
 - video
 categories:

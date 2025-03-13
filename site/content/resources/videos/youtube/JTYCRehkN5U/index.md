@@ -34,11 +34,11 @@ tags:
 - Value Delivery
 - Working Software
 - Software Developers
+- Increment
 - Engineering Practices
 - Pragmatic Thinking
 - Definition of Done
 - Technical Excellence
-- Agile Project Management
 resourceTypes:
 - video
 categories:

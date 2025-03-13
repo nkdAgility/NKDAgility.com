@@ -31,6 +31,7 @@ sitemap:
 tags:
 - Agile Product Management
 - Product Owner
+- Agile Philosophy
 resourceTypes:
 - video
 layout: video

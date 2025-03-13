@@ -39,10 +39,10 @@ tags:
 - Transparency
 - Evidence Based Management
 - Cycle Time
-- Agile Project Management
 - Operational Practices
 - Practical Techniques and Tooling
 - Evidence Based Leadership
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

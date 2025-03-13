@@ -26,6 +26,7 @@ duration: 49
 isShort: true
 tags:
 - Discovery and Learning
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

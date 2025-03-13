@@ -26,6 +26,7 @@ isShort: false
 tags:
 - Azure DevOps
 - Practical Techniques and Tooling
+- Products and Books
 - Software Developers
 - Software Development
 - Product Delivery

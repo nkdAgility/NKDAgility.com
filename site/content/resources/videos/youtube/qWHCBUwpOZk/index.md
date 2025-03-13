@@ -34,9 +34,9 @@ tags:
 - Operational Practices
 - Practical Techniques and Tooling
 - Agile Frameworks
+- Agile Project Management
 - Lean Thinking
 - Pragmatic Thinking
-- Agile Project Management
 - Value Delivery
 resourceTypes:
 - video

@@ -27,9 +27,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Team
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
 categories:

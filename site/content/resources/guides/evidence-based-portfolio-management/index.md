@@ -25,7 +25,6 @@ categories:
 - Scrum
 tags:
 - Business Agility
-- Agile Philosophy
 - Agile Transformation
 - Agile Strategy
 - Enterprise Agility

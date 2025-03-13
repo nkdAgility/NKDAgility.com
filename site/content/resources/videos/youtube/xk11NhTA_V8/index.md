@@ -26,6 +26,7 @@ duration: 72
 isShort: false
 tags:
 - Agile Leadership
+- Agile Philosophy
 - People and Process
 sitemap:
   filename: sitemap.xml

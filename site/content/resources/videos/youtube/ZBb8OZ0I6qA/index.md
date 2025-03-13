@@ -29,12 +29,12 @@ tags:
 - Agile Project Management
 - Agile Planning
 - Pragmatic Thinking
+- Product Backlog
 - Software Development
 - Practical Techniques and Tooling
 - Azure DevOps
 - Agile Planning Tools
 - Scrum Product Development
-- Agile Product Operating Model
 sitemap:
   filename: sitemap.xml
   priority: 0.6

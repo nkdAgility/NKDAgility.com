@@ -32,6 +32,7 @@ tags:
 - Operational Practices
 - Forecasting
 - Practical Techniques and Tooling
+- Products and Books
 - Product Delivery
 - Value Delivery
 resourceTypes:

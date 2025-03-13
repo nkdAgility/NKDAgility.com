@@ -32,8 +32,8 @@ tags:
 - Market Adaptability
 - Agile Product Operating Model
 - Agile Strategy
-- Engineering Practices
 - Software Developers
+- Software Development
 categories:
 - Social Technologies
 - Engineering Excellence

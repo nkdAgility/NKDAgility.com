@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Agile Leadership
 - People and Process
+- Agile Strategy
 - Decision Making
 - Pragmatic Thinking
 - Agile Project Management

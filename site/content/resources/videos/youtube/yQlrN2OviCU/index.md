@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Continuous Learning
 - Discovery and Learning
+- Team Performance
 - People and Process
 - Team Motivation
 resourceTypes:

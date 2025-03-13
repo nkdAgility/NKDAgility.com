@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
 isShort: true
 tags:
+- Agile Philosophy
 - Cycle Time
 - Pragmatic Thinking
 sitemap:

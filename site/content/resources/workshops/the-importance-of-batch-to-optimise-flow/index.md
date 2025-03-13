@@ -32,7 +32,6 @@ tags:
 - Lean Principles
 - Lean Thinking
 - People and Process
-- Scrum Product Development
 - Operational Practices
 - Practical Techniques and Tooling
 - Value Delivery

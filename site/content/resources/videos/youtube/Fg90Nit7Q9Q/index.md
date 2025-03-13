@@ -31,11 +31,6 @@ tags:
 - Software Development
 - Working Software
 - Pragmatic Thinking
-- Product Delivery
-- People and Process
-- Agile Frameworks
-- Value Delivery
-- Transparency and Accountability
 resourceTypes:
 - video
 categories:

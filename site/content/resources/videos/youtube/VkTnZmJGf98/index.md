@@ -39,7 +39,7 @@ tags:
 - Market Adaptability
 - Organisational Agility
 - Value Delivery
-- Enterprise Agility
+- Strategy
 resourceTypes:
 - video
 categories:

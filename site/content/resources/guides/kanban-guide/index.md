@@ -30,10 +30,10 @@ categories:
 - Social Technologies
 tags:
 - Flow Efficiency
+- Operational Practices
 - Lean
 - Agile Frameworks
 - Throughput
-- Operational Practices
 - Practical Techniques and Tooling
 - Value Delivery
 - Software Development

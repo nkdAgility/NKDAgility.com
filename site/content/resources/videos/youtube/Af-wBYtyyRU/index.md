@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Owner
 - Agile Product Management
 - Value Delivery
 - Metrics and Learning
@@ -39,7 +40,6 @@ tags:
 - Ability to Innovate
 - Evidence Based Leadership
 - Agile Product Operating Model
-- Agile Project Management
 resourceTypes:
 - video
 categories:

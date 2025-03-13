@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - Business Agility
+- Practical Techniques and Tooling
 - Flow Efficiency
 - Organisational Agility
 - Value Delivery

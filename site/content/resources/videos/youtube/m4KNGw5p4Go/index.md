@@ -30,11 +30,11 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
+- Product Validation
 - Lean Product Development
 - Experimentation
 - Product Discovery
 - Pragmatic Thinking
-- Product Validation
 - Team Collaboration
 - People and Process
 - Continuous Learning

@@ -28,8 +28,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Organisational Agility
 - Agile Leadership
+- Organisational Agility
 - Agile Project Management
 - Product Owner
 - Agile Product Management

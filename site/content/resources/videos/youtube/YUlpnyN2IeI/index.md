@@ -36,11 +36,10 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Agile Frameworks
+- Agile Transformation
 - Scrum Master
 - Agile Philosophy
-- Agile Transformation
 - Empirical Process Control
-- Agile Product Management
 resourceTypes:
 - video
 categories:

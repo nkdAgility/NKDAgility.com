@@ -29,9 +29,7 @@ sitemap:
 tags: []
 resourceTypes:
 - video
-categories:
-- Social Technologies
-- Scrum
+categories: []
 
 ---
 ## Debunking the Lego Approach 

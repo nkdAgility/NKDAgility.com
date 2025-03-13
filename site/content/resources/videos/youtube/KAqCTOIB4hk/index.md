@@ -34,9 +34,9 @@ tags:
 - People and Process
 - Discovery and Learning
 - Evidence Based Leadership
+- Pragmatic Thinking
 - Continuous Learning
 - Evidence Based Management
-- Pragmatic Thinking
 - Agile Product Management
 - Sensemaking
 - Ability to Innovate

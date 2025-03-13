@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

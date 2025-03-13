@@ -30,6 +30,7 @@ tags:
 - Strategy
 - Agile Product Management
 - People and Process
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

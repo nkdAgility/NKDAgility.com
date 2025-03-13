@@ -35,12 +35,12 @@ tags:
 - People and Process
 - Continuous Learning
 - Personal
-- Agile Leadership
 - Change Management
 - Organisational Change
 - Pragmatic Thinking
 - Team Collaboration
 - Team Motivation
+- Team Performance
 categories:
 - Leadership
 - Social Technologies

@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Team Performance
 - Scrum Team
 - People and Process
 - Team Collaboration

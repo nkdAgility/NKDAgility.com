@@ -35,10 +35,10 @@ tags:
 - Product Strategy
 - Product Validation
 - Pragmatic Thinking
+- Agile Project Management
 - Agile Product Operating Model
 - Product Discovery
 - People and Process
-- Product Delivery
 resourceTypes:
 - video
 categories:

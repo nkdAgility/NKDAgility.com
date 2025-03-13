@@ -29,6 +29,7 @@ tags:
 - Agile Project Management
 - Collaboration Tools
 - Scrum Team
+- Scrum Product Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -31,13 +31,13 @@ sitemap:
 tags:
 - Agile Project Management
 - Agile Values and Principles
+- Agile Transformation
 - Organisational Agility
 - Agile Strategy
 - Pragmatic Thinking
 - Software Development
 - Agile Product Operating Model
 - Agile Philosophy
-- Agile Transformation
 - Agile Product Management
 resourceTypes:
 - video

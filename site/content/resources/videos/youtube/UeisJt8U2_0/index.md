@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Philosophy
 - Agile Project Management
 - Agile Leadership
 resourceTypes:

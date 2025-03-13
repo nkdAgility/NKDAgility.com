@@ -32,10 +32,10 @@ tags:
 - People and Process
 - Agile Frameworks
 - Software Development
+- Pragmatic Thinking
 - Continuous Learning
 - Team Performance
 - Discovery and Learning
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

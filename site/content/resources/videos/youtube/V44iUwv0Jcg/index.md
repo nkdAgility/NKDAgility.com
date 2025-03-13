@@ -26,8 +26,8 @@ duration: 56
 isShort: true
 tags:
 - Discovery and Learning
-- Agile Philosophy
 - Lean Thinking
+- Agile Philosophy
 - Operational Practices
 sitemap:
   filename: sitemap.xml

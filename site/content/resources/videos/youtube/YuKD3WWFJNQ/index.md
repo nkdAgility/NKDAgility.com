@@ -37,11 +37,11 @@ tags:
 - Agile Leadership
 - Product Owner
 - Sprint Review
+- Transparency
 - Agile Frameworks
 - Agile Philosophy
 - Agile Planning
 - Agile Project Management
-- Agile Transformation
 resourceTypes:
 - video
 categories:

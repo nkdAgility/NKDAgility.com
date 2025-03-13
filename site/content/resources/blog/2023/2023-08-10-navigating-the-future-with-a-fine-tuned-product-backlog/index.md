@@ -26,6 +26,7 @@ aliasesArchive:
 tags:
 - Professional Scrum
 - Agile Product Management
+- Scrum Product Development
 - Product Backlog
 - Agile Project Management
 - Product Delivery
@@ -33,7 +34,6 @@ tags:
 - Value Delivery
 - Software Development
 - Pragmatic Thinking
-- Agile Product Operating Model
 categories:
 - Scrum
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg

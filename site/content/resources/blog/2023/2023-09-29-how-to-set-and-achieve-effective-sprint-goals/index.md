@@ -29,8 +29,8 @@ aliasesArchive:
 tags:
 - Agile Project Management
 - Software Development
-- Scrum Product Development
 - Professional Scrum
+- Scrum Product Development
 - Agile Product Management
 - People and Process
 - Product Delivery

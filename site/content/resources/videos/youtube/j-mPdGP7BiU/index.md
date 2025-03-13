@@ -37,6 +37,7 @@ tags:
 - Lean Startup
 - Metrics and Learning
 - Continuous Learning
+- Products and Books
 - Decision Making
 resourceTypes:
 - video

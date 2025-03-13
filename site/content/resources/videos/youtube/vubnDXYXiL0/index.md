@@ -33,8 +33,8 @@ tags:
 - Agile Transformation
 - Software Development
 - Pragmatic Thinking
-- Large Scale Agility
 - Professional Scrum
+- Large Scale Agility
 - Practical Techniques and Tooling
 - People and Process
 - Scaled Agile

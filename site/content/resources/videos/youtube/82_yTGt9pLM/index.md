@@ -30,9 +30,6 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Pragmatic Thinking
-- Business Agility
-- Agile Frameworks
-- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
