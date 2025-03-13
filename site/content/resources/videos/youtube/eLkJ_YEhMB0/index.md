@@ -34,7 +34,6 @@ tags:
 - Scrum Team
 - Agile Philosophy
 - Scrum Master
-- Scrum Product Development
 - Agile Product Management
 - Value Delivery
 - Agile Frameworks

@@ -32,6 +32,7 @@ tags:
 - Working Software
 - Pragmatic Thinking
 - Software Development
+- Scrum Product Development
 - Agile Strategy
 - Agile Frameworks
 sitemap:

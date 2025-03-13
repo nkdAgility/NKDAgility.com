@@ -29,6 +29,7 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- Agile Frameworks
 - People and Process
 resourceTypes:
 - video

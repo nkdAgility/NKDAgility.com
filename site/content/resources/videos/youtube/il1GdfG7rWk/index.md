@@ -34,11 +34,11 @@ tags:
 - Agile Product Management
 - Professional Scrum
 - Value Delivery
+- Agile Project Management
 - Product Delivery
 - Pragmatic Thinking
 - Scrum Product Development
 - Products and Books
-- Software Development
 resourceTypes:
 - video
 categories:

@@ -36,6 +36,7 @@ tags:
 - Software Development
 - Agile Project Management
 - People and Process
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

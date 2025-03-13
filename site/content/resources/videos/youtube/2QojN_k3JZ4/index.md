@@ -27,6 +27,7 @@ tags:
 - Software Development
 - Working Software
 - Agile Transformation
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

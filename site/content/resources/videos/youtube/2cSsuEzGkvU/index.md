@@ -25,11 +25,11 @@ duration: 53
 isShort: true
 tags:
 - Agile Philosophy
+- Team Motivation
 - Agile Leadership
 - People and Process
 - Agile Values and Principles
 - Team Collaboration
-- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

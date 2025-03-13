@@ -35,6 +35,7 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Software Development
+- Empirical Process Control
 resourceTypes:
 - video
 categories:

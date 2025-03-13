@@ -22,11 +22,11 @@ categories:
 - Scrum
 - Social Technologies
 tags:
+- Products and Books
 - Agile Frameworks
 - Continuous Learning
 - Professional Scrum
 - Agile Project Management
-- Products and Books
 - Practical Techniques and Tooling
 - Software Development
 - Events and Presentations

@@ -30,6 +30,7 @@ tags:
 - Team Motivation
 - Team Performance
 - Organisational Agility
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

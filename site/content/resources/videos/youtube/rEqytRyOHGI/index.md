@@ -36,9 +36,9 @@ tags:
 - Software Development
 - Agile Values and Principles
 - Working Software
+- Agile Strategy
 - Product Delivery
 - Agile Philosophy
-- Agile Planning
 resourceTypes:
 - video
 categories:
