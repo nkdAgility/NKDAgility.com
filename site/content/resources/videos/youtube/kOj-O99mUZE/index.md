@@ -37,9 +37,9 @@ tags:
 - Strategy
 - Agile Strategy
 - Portfolio Management
-- Scaling Agility
 - Scaling Kanban
 - Value Delivery
+- Product Delivery
 resourceTypes:
 - video
 categories:

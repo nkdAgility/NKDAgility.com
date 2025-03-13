@@ -38,6 +38,7 @@ tags:
 - People and Process
 - Operational Practices
 - Practical Techniques and Tooling
+- Agile Transformation
 - Flow Efficiency
 resourceTypes:
 - video

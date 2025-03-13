@@ -32,8 +32,8 @@ tags:
 - Product Delivery
 - Value Delivery
 - People and Process
-- Personal
 - Pragmatic Thinking
+- Personal
 - Experimentation
 - Practical Techniques and Tooling
 sitemap:

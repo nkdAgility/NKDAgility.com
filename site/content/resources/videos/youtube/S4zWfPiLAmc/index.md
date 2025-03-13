@@ -36,10 +36,10 @@ tags:
 - Throughput
 - Metrics and Learning
 - Software Development
+- Operational Practices
 - Transparency
 - Evidence Based Management
 - Cycle Time
-- Operational Practices
 - Practical Techniques and Tooling
 - Evidence Based Leadership
 - Flow Efficiency

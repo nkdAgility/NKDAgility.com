@@ -34,6 +34,7 @@ sitemap:
 tags:
 - Transparency
 - Strategy
+- Operational Practices
 - Agile Project Management
 - Practical Techniques and Tooling
 - Flow Efficiency
@@ -41,7 +42,6 @@ tags:
 - People and Process
 - Agile Strategy
 - Software Development
-- Metrics and Learning
 resourceTypes:
 - video
 categories:

@@ -33,6 +33,7 @@ tags:
 - Evidence Based Management
 - Value Delivery
 - Metrics and Learning
+- Practical Techniques and Tooling
 - Decision Making
 - Pragmatic Thinking
 - Decision Theory

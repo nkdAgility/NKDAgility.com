@@ -32,11 +32,11 @@ sitemap:
 tags:
 - Agile Values and Principles
 - Agile Transformation
+- Agile Philosophy
 - Pragmatic Thinking
 - People and Process
 - Software Development
 - Agile Strategy
-- Agile Philosophy
 - Agile Product Operating Model
 - Organisational Agility
 - Sociotechnical Systems

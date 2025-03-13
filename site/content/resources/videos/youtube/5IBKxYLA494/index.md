@@ -32,8 +32,8 @@ tags:
 - Agile Product Management
 - Scrum Team
 - Azure DevOps
+- Agile Planning
 - Product Delivery
-- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -31,6 +31,7 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Cycle Time
 - Value Delivery
 - Flow Efficiency
 - Lean Thinking
@@ -39,7 +40,6 @@ tags:
 - Product Delivery
 - Throughput
 - Strategy
-- Cycle Time
 resourceTypes:
 - video
 categories:
