@@ -29,6 +29,10 @@ aliasesArchive:
 tags:
 - Windows
 - Install and Configuration
+- Practical Techniques and Tooling
+- System Configuration
+- Technical Mastery
+- Software Development
 categories:
 - DevOps
 preview: nakedalm-windows-logo-22-22.png
