@@ -841,12 +841,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:09:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:31:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure Pipelines for continuous integration and deployment, which is related to Continuous Delivery, but the primary focus is on unifying engineering tools and practices rather than CD principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the One Engineering System and mentions Azure Pipelines, which relates to continuous integration and deployment. However, the primary focus is on unifying engineering tools and practices rather than explicitly addressing the principles and methodologies of Continuous Delivery. The discussion lacks depth in terms of Continuous Delivery practices and does not provide detailed insights into maintaining a production-ready state or deployment risk management.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",

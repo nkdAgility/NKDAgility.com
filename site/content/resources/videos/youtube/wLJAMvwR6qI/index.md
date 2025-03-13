@@ -27,13 +27,13 @@ tags:
 - Experimentation
 - Discovery and Learning
 - Hypothesis Driven Development
-- Evidence Based Management
 - Continuous Learning
 - Product Discovery
 - Product Validation
 - Metrics and Learning
 - Lean Startup
 - MVP
+- Decision Making
 sitemap:
   filename: sitemap.xml
   priority: 0.6

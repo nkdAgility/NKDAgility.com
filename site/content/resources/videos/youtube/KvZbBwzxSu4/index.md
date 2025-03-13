@@ -33,12 +33,12 @@ tags:
 - People and Process
 - Decision Making
 - Organisational Culture
+- Product Strategy
 - Agile Leadership
 - Value Delivery
 - Business Agility
 - Evidence Based Management
 - Sociotechnical Systems
-- Organisational Agility
 resourceTypes:
 - video
 categories:

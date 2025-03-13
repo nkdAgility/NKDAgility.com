@@ -36,7 +36,6 @@ tags:
 - Software Developers
 - People and Process
 - Product Delivery
-- Technical Mastery
 - Practical Techniques and Tooling
 - Frequent Releases
 resourceTypes:

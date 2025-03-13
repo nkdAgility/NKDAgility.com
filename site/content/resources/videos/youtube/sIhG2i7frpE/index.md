@@ -27,6 +27,7 @@ isShort: true
 tags:
 - Metrics and Learning
 - Practical Techniques and Tooling
+- Transparency and Accountability
 - Operational Practices
 sitemap:
   filename: sitemap.xml

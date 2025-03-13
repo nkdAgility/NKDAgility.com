@@ -38,8 +38,8 @@ tags:
 - Continuous Learning
 - Evidence Based Management
 - Agile Product Management
-- Sensemaking
 - Ability to Innovate
+- Value Delivery
 resourceTypes:
 - video
 categories:

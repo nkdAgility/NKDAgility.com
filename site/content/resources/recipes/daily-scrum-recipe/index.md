@@ -45,9 +45,9 @@ categories:
 tags:
 - Daily Scrum
 - Software Development
+- Agile Project Management
 - Scrum Product Development
 - Professional Scrum
-- Agile Project Management
 - People and Process
 - Software Developers
 - Team Performance

@@ -43,11 +43,11 @@ tags:
 - Software Development
 - Professional Scrum
 - Scrum Product Development
+- Scrum Team
 - Agile Planning
 - Agile Product Management
 - Product Delivery
 - Agile Project Management
-- Scrum Team
 - Practical Techniques and Tooling
 - Agile Planning Tools
 

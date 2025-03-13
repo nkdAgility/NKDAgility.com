@@ -45,8 +45,8 @@ categories:
 tags:
 - Software Development
 - Software Developers
-- Product Delivery
 - Agile Project Management
+- Product Delivery
 - Operational Practices
 - Agile Frameworks
 - Agile Values and Principles

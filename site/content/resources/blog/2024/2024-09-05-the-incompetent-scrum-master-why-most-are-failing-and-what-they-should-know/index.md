@@ -30,10 +30,10 @@ aliasesArchive:
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
-- Agile Frameworks
 - Professional Scrum
 - Software Development
 - Agile Project Management
+- Agile Frameworks
 - Scrum Master
 - Agile Product Management
 - People and Process

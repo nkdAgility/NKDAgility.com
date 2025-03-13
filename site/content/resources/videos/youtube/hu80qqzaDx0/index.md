@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/hu80qqzaDx0/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
+- Team Motivation
 - People and Process
 sitemap:
   filename: sitemap.xml
