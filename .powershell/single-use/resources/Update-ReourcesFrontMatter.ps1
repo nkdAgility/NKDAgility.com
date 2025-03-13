@@ -194,6 +194,9 @@ while ($hugoMarkdownQueue.Count -gt 0 -or $hugoMarkdownBatchQueue.Count -gt 0) {
 
     Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesFor404'
 
+    # Interim save, before posible longer actions
+    Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
+
     #================Themes, Categories, & TAGS==========================
     $BodyContent = $hugoMarkdown.BodyContent
     If ($hugoMarkdown.FrontMatter.ResourceType -eq "videos") {
