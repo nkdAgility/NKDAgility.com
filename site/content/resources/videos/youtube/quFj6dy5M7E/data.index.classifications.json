@@ -28,12 +28,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:28:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of building a high performing delivery engine and touches on Agile and DevOps principles, which are related to deployment frequency. However, the primary focus is on team competence and product development rather than specifically on optimising deployment intervals.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which indirectly relates to deployment frequency through the emphasis on Agile and DevOps philosophies. However, it lacks direct mentions of deployment frequency and does not provide specific strategies or metrics related to optimising deployment intervals, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -670,20 +673,26 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:20:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding Agile principles and philosophies in the context of building high-performing teams and delivery engines, making Agile a significant theme, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile as one of several philosophies that underpin effective practices in building a high-performance delivery engine. While it mentions Agile, the focus is more on competence and collaboration rather than a deep exploration of Agile principles or values. The discussion touches on key Agile themes like value delivery and continuous improvement, but it does not delve into the Agile Manifesto or its core principles, which limits its alignment with the Agile Philosophy category.",
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:56:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and understanding business needs in building high performing teams, which aligns with strategic goals. However, it primarily focuses on operational aspects and team dynamics rather than explicitly defining long-term strategic objectives.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with the broader themes of strategic goals. It touches on the need for a mindset shift towards product development and continuous improvement, which are relevant to long-term objectives and business agility. However, while it mentions concepts related to strategic goals, it primarily focuses on operational aspects and team dynamics rather than explicitly defining or articulating long-term strategic objectives. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Tertiary"
   },
   "Lead Time": {
@@ -787,12 +796,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T11:59:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team competence and understanding Agile principles, which are related to self-organisation, but it primarily focuses on building a high-performance delivery engine rather than self-organisation as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:20:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of competence and collaboration within teams, which aligns with self-organisation principles. It mentions Agile and Scrum frameworks, indicating a conceptual connection. However, while it touches on self-organisation, it does not delve deeply into specific practices or case studies that exemplify self-organisation, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -976,11 +988,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T16:36:41",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T14:45:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of competence within teams, the need for understanding business needs, and the application of Agile and DevOps philosophies, which are relevant to technical leadership. However, it also includes broader themes about product development and team dynamics that may detract from a strict focus on technical leadership.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of competence and collaboration in building a high-performance delivery engine, which aligns with the principles of technical leadership. It touches on Agile and DevOps philosophies, indicating a conceptual alignment with the category. However, the discussion lacks depth in specific technical leadership strategies and practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Troubleshooting": {

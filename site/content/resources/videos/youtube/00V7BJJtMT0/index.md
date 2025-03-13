@@ -29,9 +29,6 @@ sitemap:
 tags:
 - Software Developers
 - Software Development
-- People and Process
-- Organisational Agility
-- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

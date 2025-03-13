@@ -496,11 +496,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T15:14:43",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of automation in software development, particularly in relation to deployment and testing, which are critical for delivering functional software. However, the primary focus is on automation techniques rather than directly on the characteristics or delivery of working software itself.",
+    "calculated_at": "2025-03-13T14:45:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of automation in software development, which indirectly relates to the delivery of working software. However, it primarily focuses on automation techniques rather than the characteristics or principles of working software itself. While it mentions the need for quality and rapid iterations, it lacks a direct discussion on how these practices align with Agile and Scrum principles, which diminishes its overall alignment with the 'Working Software' category.",
     "level": "Secondary"
   },
   "Sprint Review": {
@@ -514,12 +517,15 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-12T15:14:48",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T14:55:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses automation in the context of software development and deployment, which is a significant aspect of Site Reliability Engineering. However, it does not explicitly cover other key SRE principles such as SLOs, SLIs, or incident response, making it a major but secondary theme rather than the primary focus.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses automation in software development, which is a broader topic and does not specifically focus on Site Reliability Engineering (SRE). While it touches on aspects like automated deployments and the importance of reducing human error, it lacks a direct connection to SRE principles such as SLOs, SLIs, or incident response practices. The discussion is more aligned with general software development practices rather than the specific practices and principles of SRE.",
+    "level": "Quaternary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -667,11 +673,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-12T15:15:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:19:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses automation in the context of software deployment and the importance of rapid, reliable releases. While it primarily focuses on automation techniques, it also touches on the implications of frequent releases and the need for quality in production, making it a significant but secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automation in software development, highlighting its importance for seamless deployments and rapid iterations. While it touches on aspects related to frequent releases, such as automated deployments and the need for quick responses to user demands, it does not explicitly focus on the principles of frequent releases or provide in-depth strategies for implementing them. The primary emphasis is on automation rather than the broader context of frequent releases, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
@@ -739,11 +748,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T15:15:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:19:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of automation in software development, including automated testing and deployment, which are key aspects of technical mastery. It highlights best practices and methodologies that contribute to high-quality software delivery, aligning well with the principles of software craftsmanship.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of automation in software development, which aligns with technical mastery principles such as improving code quality and maintainability, and the role of DevOps in enhancing technical delivery. It provides specific examples of automated deployments and the consequences of neglecting automation, demonstrating a good depth of discussion. However, while it touches on relevant topics, it does not delve deeply into best practices or methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -814,12 +826,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-12T15:15:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T16:25:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses automation as a means to enhance operational efficiency and improve product development processes, which aligns with the themes of digital transformation. However, it primarily focuses on automation techniques rather than broader strategic adoption of digital technologies across an organisation.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses automation in software development, highlighting its importance for efficiency and error reduction. However, it primarily focuses on automation as a tool rather than exploring broader themes of digital transformation, such as strategic adoption of digital technologies or cultural shifts within organisations. While it touches on the impact of automation on operational efficiency, it lacks a comprehensive discussion on how these practices contribute to overall digital transformation initiatives.",
+    "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -868,11 +883,14 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-12T15:16:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:27:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses automation in the context of deployment processes, including automated deployments, automated testing, and the importance of infrastructure as code. It also touches on strategies for rolling out changes and managing risks associated with deployments, making it a strong fit for the category.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses automation in the context of software development, particularly focusing on automated deployments and the importance of reducing human error. While it touches on aspects relevant to deployment strategies, such as automated deployments and the need for consistency, it does not delve deeply into specific methodologies like Blue-Green Deployments or Canary Releases. The primary focus is on the broader theme of automation rather than the specific strategies for deployment, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

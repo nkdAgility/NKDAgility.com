@@ -253,12 +253,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:22:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles that can inform strategic approaches, but it primarily focuses on the Agile Manifesto rather than a clear strategic framework or execution.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which focus on values and practices rather than strategic approaches within Agile, Scrum, or DevOps frameworks. While it mentions concepts like customer collaboration and responding to change, it lacks a direct focus on strategic alignment, optimisation of delivery processes, or leadership roles in strategy formulation. The discussion is more about Agile values than strategic execution, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -586,12 +589,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:22:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering working software frequently, which aligns with the theme of deployment frequency, but it primarily focuses on broader Agile principles rather than specifically optimising deployment intervals.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Agile Manifesto, which includes a principle about delivering working software frequently. However, it does not delve into specific strategies for optimising deployment frequency or the relationship between deployment frequency and feedback loops. The mention of frequent delivery aligns with the category, but the overall focus is broader and more philosophical, lacking depth in practical application or metrics related to deployment frequency.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -973,11 +979,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T13:50:42",
-    "ai_confidence": 100,
+    "calculated_at": "2025-03-13T14:59:56",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 91.0,
-    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which are foundational to the Agile Philosophy, focusing on value delivery, customer collaboration, and adaptability.",
+    "final_score": 84.0,
+    "reasoning": "The content explicitly discusses the Agile Manifesto and its core values and principles, which are foundational to Agile Philosophy. It directly mentions key aspects such as customer collaboration, responding to change, and the importance of individuals and interactions, aligning closely with the core themes of the category. The depth of discussion is significant, as it outlines multiple principles that guide Agile practices, demonstrating a thorough understanding of the Agile mindset.",
     "level": "Primary"
   },
   "Modern Source Control": {
@@ -1237,11 +1246,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:30:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles of the Agile Manifesto, which relate to adaptability and customer collaboration, but primarily focuses on Agile methodologies rather than broader business agility concepts.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the Agile Manifesto and its principles, which are related to agile methodologies rather than directly addressing business agility as a broader concept. While it mentions responding to change and customer collaboration, it lacks a comprehensive discussion on organisational adaptability, leadership roles, or specific strategies for fostering a culture of innovation. The depth of discussion is limited to principles of Agile, which do not fully encompass the wider themes of business agility.",
     "level": "Tertiary"
   },
   "Kanban": {

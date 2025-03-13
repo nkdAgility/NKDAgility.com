@@ -31,10 +31,6 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Azure DevOps
-- System Configuration
-- Application Lifecycle Management
-- Pragmatic Thinking
-- Azure Boards
 categories:
 - Kanban
 preview: nakedalm-experts-visual-studio-alm-17-17.png

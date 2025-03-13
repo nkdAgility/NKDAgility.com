@@ -29,11 +29,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Discovery and Learning
-- Team Collaboration
-- Pragmatic Thinking
-- People and Process
+tags: []
 resourceTypes:
 - video
 categories: []

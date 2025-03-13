@@ -27,6 +27,15 @@ duration: 557
 isShort: false
 tags:
 - Software Development
+- Frequent Releases
+- Working Software
+- Continuous Delivery
+- Software Developers
+- Product Delivery
+- Practical Techniques and Tooling
+- Value Delivery
+- Deployment Strategies
+- Technical Excellence
 resourceTypes:
 - video
 sitemap:

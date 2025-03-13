@@ -28,13 +28,9 @@ tags:
 - Pragmatic Thinking
 - Organisational Change
 - People and Process
-- Change Management
 - Organisational Agility
 - Sociotechnical Systems
-- Resilience and Change
-- Organisational Physics
-- Transparency and Accountability
-- Organisational Culture
+- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

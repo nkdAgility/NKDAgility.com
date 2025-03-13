@@ -37,8 +37,8 @@ tags:
 - Agile Product Management
 - Product Strategy
 - Pragmatic Thinking
+- Software Development
 - Product Delivery
-- Value Delivery
 resourceTypes:
 - video
 categories:

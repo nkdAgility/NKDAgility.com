@@ -175,6 +175,9 @@ function Update-StringList {
             }
         }       
     }
+    
+    # Remove any null values
+    $frontMatter[$fieldName] = @($frontMatter[$fieldName] | Where-Object { $_ -ne $null })
 
     # Ensure uniqueness while preserving the first occurrence’s casing
     $seen = @{}

@@ -45,6 +45,14 @@ categories:
 tags:
 - Scrum Product Development
 - Sprint Review
+- People and Process
+- Agile Product Management
+- Product Delivery
+- Software Development
+- Team Performance
+- Empirical Process Control
+- Agile Planning
+- Transparency
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

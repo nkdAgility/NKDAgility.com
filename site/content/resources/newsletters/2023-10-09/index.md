@@ -22,6 +22,15 @@ categories:
 - Scrum
 tags:
 - Agile Product Management
+- Professional Scrum
+- Agile Frameworks
+- Agile Project Management
+- Product Backlog
+- Scrum Product Development
+- Agile Planning
+- Agile Planning Tools
+- Product Owner
+- Product Delivery
 
 ---
 Dive deep into the world of **Scrum's Product Backlog Management** with our meticulously crafted course. Master the nuances of understanding your product's core, engaging with stakeholders, and making data-driven decisions. Elevate your Scrum journey with insights from seasoned Professional Scrum Trainers. 🚀

@@ -26,8 +26,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
 isShort: true
-tags:
-- Product Owner
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6

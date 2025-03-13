@@ -244,12 +244,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T13:14:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:27:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the active management of work items within a Kanban strategy, which relates to optimising delivery processes and enhancing team performance. However, it primarily focuses on the practices of Kanban rather than a broader strategic discussion.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the active management of workflows within a Kanban strategy, which aligns with strategic approaches in Agile. It explicitly mentions the importance of monitoring work in progress and addressing bottlenecks, which are key aspects of optimising delivery processes. However, while it provides practical actions and insights, it lacks a broader discussion on strategic alignment with organisational goals or the integration of Lean principles, which slightly limits its depth in the context of the Strategy category.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -313,12 +316,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T13:14:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses managing work in a Kanban workflow, which indirectly relates to Cycle Time by addressing issues like work in process and blockages that can affect the time taken to complete tasks. However, it primarily focuses on Kanban practices rather than Cycle Time as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:04:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses workflow management in a Kanban strategy, which indirectly relates to Cycle Time through concepts like monitoring work in progress and addressing bottlenecks. However, it does not explicitly define or focus on Cycle Time as a primary metric, nor does it provide in-depth analysis or strategies specifically aimed at reducing Cycle Time. The discussion is more about general workflow efficiency rather than the specific measurement and implications of Cycle Time.",
+    "level": "Quaternary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -544,12 +550,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:14:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the management of work items and the importance of addressing blockages, which indirectly relates to Lead Time, but the primary focus is on Kanban practices rather than Lead Time itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:35:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses workflow management in a Kanban strategy, focusing on optimising flow and addressing bottlenecks. However, it does not explicitly mention Lead Time or its measurement, nor does it delve into its importance or strategies for reducing it. The discussion is more about general workflow efficiency rather than the specific metric of Lead Time.",
+    "level": "Quaternary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",

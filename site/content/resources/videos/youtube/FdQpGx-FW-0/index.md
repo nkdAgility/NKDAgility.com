@@ -32,7 +32,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Transparency
 - Business Agility
 - Organisational Agility
 - Agile Values and Principles
@@ -41,6 +40,7 @@ tags:
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
+- Organisational Change
 resourceTypes:
 - video
 categories:

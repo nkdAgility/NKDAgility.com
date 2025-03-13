@@ -32,6 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
+- People and Process
+- Professional Scrum
+- Team Collaboration
+- Agile Frameworks
+- Agile Product Management
+- Value Delivery
+- Events and Presentations
+- Organisational Agility
+- Coaching
 resourceTypes:
 - video
 categories:

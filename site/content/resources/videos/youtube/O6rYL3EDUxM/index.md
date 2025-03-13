@@ -34,12 +34,12 @@ tags:
 - People and Process
 - Product Delivery
 - Increment
+- Strategy
 - Agile Product Operating Model
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Philosophy
 - Agile Planning
-- Agile Project Management
 resourceTypes:
 - video
 categories:

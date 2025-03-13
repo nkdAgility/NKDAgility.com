@@ -26,6 +26,10 @@ duration: 53
 isShort: true
 tags:
 - Engineering Practices
+- Test First Development
+- Technical Excellence
+- Software Development
+- Technical Mastery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

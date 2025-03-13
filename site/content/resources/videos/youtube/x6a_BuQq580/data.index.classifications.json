@@ -142,12 +142,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T12:03:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:21:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning and considerations for migrations, which involves decision-making processes regarding data management and cloud transitions. However, it primarily focuses on technical aspects of migration rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of planning and communication in the context of cloud migration, which touches on decision-making aspects. However, it lacks a structured, evidence-based approach to decision-making and does not delve into empirical methodologies or frameworks that are central to the category. The focus is more on practical advice rather than a thorough exploration of decision-making principles.",
+    "level": "Quaternary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -340,12 +343,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:03:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:57:47",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of DevOps and migration processes, which are relevant to software development practices, but it primarily focuses on the challenges and considerations of cloud migration rather than broader software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses cloud migration, which is a relevant aspect of software development, particularly in the context of DevOps and deployment practices. However, while it touches on planning and tools related to migration, it lacks a deeper exploration of software development methodologies or practices. The focus is more on the migration process itself rather than broader software development principles.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -895,12 +901,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T12:03:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:46:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of migration, which is related to deployment strategies, but primarily focuses on the challenges and considerations of incomplete migrations rather than specific deployment methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses cloud migration rather than specific deployment strategies. While it touches on planning and preparation, which are relevant to deployment, it lacks a direct focus on methodologies like Blue-Green Deployments or Canary Releases. The discussion is more about overcoming fears and ensuring data integrity during migration, which is secondary to the core themes of deployment strategies.",
+    "level": "Quaternary"
   },
   "Scrum Team": {
     "category": "Scrum Team",

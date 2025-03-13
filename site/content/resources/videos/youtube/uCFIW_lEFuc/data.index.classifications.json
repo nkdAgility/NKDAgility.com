@@ -217,11 +217,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:34:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concepts of agility within teams, assessing their performance and collaboration through principles of Agile and identifying ineffective practices as signs of 'sloth.' It addresses team dynamics, empowerment, and the importance of communication and feedback, which are central to team performance.",
+    "final_score": 71.0,
+    "reasoning": "The content explicitly discusses signs of sloth in Agile practices, which directly relates to team performance and effectiveness. It highlights the importance of delivering working software, engaging with user feedback, and empowering teams to adapt their processes, all of which are crucial for enhancing team dynamics and productivity. The depth of discussion is substantial, providing specific examples and actionable insights, although it could benefit from more detailed exploration of metrics or tools for measuring performance.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -442,11 +445,14 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-13T15:12:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 37.0,
-    "reasoning": "The content discusses themes related to Agile practices, including the importance of delivering working software and obtaining user feedback quickly, which indirectly touches on the concept of Cycle Time. However, Cycle Time is not explicitly defined or focused on as a primary topic, making it more of a secondary theme in a broader discussion about Agile practices.",
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and the importance of delivering working software, which indirectly relates to Cycle Time. However, it does not explicitly mention Cycle Time or provide detailed methods for measuring it. The focus is more on identifying sloth in Agile rather than on the measurement or implications of Cycle Time itself.",
     "level": "Quaternary"
   },
   "Organisational Culture": {
@@ -562,12 +568,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T23:36:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:42:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content touches on the importance of having an ordered backlog and suggests practices relevant to backlog management, but its primary focus is on broader issues of Agile implementation and team dynamics.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile practices and the importance of delivering working software, but it does not explicitly focus on the Product Backlog or its management. While it touches on related concepts like user feedback and adapting requirements, it lacks a detailed exploration of backlog refinement, prioritisation techniques, or the role of the Product Owner. Therefore, it only partially aligns with the category.",
+    "level": "Quaternary"
   },
   "Personal": {
     "category": "Personal",

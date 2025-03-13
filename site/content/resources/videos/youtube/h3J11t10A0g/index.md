@@ -2,7 +2,7 @@
 title: 'Navigating the Unpredictability of Software Development: Embrace Agile for Success'
 description: Navigate the complexities of software development with insights on technical leadership and Agile principles. Discover how to turn challenges into opportunities!
 date: 2024-12-02T06:00:00Z
-weight: 275
+weight: 285
 ResourceId: h3J11t10A0g
 ResourceType: videos
 ResourceImport: true
@@ -26,15 +26,15 @@ duration: 169
 isShort: false
 tags:
 - Software Development
+- Agile Project Management
 - Software Developers
 - Pragmatic Thinking
-- Technical Leadership
-- Agile Philosophy
-- Agile Project Management
 - Engineering Practices
+- Technical Leadership
+- Working Software
 - Agile Transformation
 - Product Delivery
-- Agile Strategy
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

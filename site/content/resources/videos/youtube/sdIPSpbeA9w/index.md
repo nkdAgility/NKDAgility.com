@@ -33,8 +33,6 @@ tags:
 - Pragmatic Thinking
 - Technical Excellence
 - Engineering Practices
-- Technical Mastery
-- Azure DevOps
 sitemap:
   filename: sitemap.xml
   priority: 0.6

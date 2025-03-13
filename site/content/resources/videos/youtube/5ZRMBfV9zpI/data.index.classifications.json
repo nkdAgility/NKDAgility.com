@@ -847,12 +847,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:57:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a training workshop for Scrum Masters, which relates to Agile methodologies and implies the use of resources and possibly books associated with Scrum. However, it does not focus primarily on specific products or books, making this a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses a specific training workshop for Scrum Masters, which aligns with the category of 'Products and Books' as it relates to training resources. However, it lacks direct references to specific books or tools, focusing instead on the workshop experience and personal reflections. While it touches on the importance of training and community in Agile practices, the depth of discussion on products or literature is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1042,12 +1045,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T11:36:00",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-13T15:48:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "While the content focuses on training for Scrum Masters, it primarily discusses Scrum principles and roles, making Agile transformation a significant theme, albeit the primary focus is on training rather than a transformation strategy.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on training for Scrum Masters, which is a key role in Agile transformation. It discusses the importance of understanding Scrum principles and fostering a culture of collaboration and continuous improvement, aligning well with Agile transformation themes. However, while it touches on Agile concepts, it lacks a broader discussion on organisational change management and the overall strategies for Agile transformation, which slightly limits its depth.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",

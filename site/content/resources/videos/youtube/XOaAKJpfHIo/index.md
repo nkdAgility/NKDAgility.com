@@ -34,10 +34,6 @@ tags:
 - Software Developers
 - People and Process
 - Working Software
-- Pragmatic Thinking
-- Market Adaptability
-- Customer Satisfaction
-- Organisational Agility
 resourceTypes:
 - video
 categories:

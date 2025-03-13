@@ -28,6 +28,15 @@ aliasesArchive:
 - /resources/blog/professional-scrum-training-ghana-police-service
 tags:
 - Agile Frameworks
+- People and Process
+- Practical Techniques and Tooling
+- Events and Presentations
+- Scrum Product Development
+- Agile Planning
+- Agile Transformation
+- Organisational Change
+- Professional Scrum
+- Scrum Team
 categories:
 - Social Technologies
 - Scrum

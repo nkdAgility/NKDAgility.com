@@ -28,12 +28,12 @@ preview: class-colage-2-8-8.jpg
 tags:
 - People and Process
 - Agile Project Management
+- Professional Scrum
 - Team Collaboration
 - Scrum Team
 - Practical Techniques and Tooling
 - Agile Values and Principles
 - Collaboration Tools
-- Professional Scrum
 - Scrum Product Development
 - Scrum Values
 

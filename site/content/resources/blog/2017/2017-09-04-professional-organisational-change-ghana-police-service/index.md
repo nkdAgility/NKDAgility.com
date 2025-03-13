@@ -29,6 +29,14 @@ aliasesArchive:
 tags:
 - Organisational Change
 - People and Process
+- Change Management
+- Strategy
+- Organisational Agility
+- Resilience and Change
+- Empirical Process Control
+- Sociotechnical Systems
+- Agile Leadership
+- Agile Project Management
 categories:
 - Leadership
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg

@@ -33,16 +33,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Team Performance
+- Pragmatic Thinking
 - Software Development
 - Value Delivery
 - Practical Techniques and Tooling
 - Agile Frameworks
 - Strategy
-- Team Performance
 - Metrics and Learning
 - Product Delivery
-- Agile Project Management
-- Operational Practices
 resourceTypes:
 - video
 categories:

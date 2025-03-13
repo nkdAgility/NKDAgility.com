@@ -38,9 +38,7 @@ tags:
 - Agile Strategy
 - Decision Making
 - Decision Theory
-- People and Process
-- Organisational Agility
-- Market Adaptability
+- Scrum Product Development
 resourceTypes:
 - video
 categories:

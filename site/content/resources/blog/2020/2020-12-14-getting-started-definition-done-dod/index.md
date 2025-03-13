@@ -34,6 +34,10 @@ tags:
 - Agile Project Management
 - Scrum Product Development
 - Software Development
+- Team Performance
+- Agile Product Management
+- Product Delivery
+- Professional Scrum
 categories:
 - Scrum
 - Social Technologies

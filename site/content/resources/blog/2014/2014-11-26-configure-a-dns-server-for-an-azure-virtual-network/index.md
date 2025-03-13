@@ -25,7 +25,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
-- Practical Techniques and Tooling
 categories: []
 preview: nakedalm-windows-logo-4-4.png
 

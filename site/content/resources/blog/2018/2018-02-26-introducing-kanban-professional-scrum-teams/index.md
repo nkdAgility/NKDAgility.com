@@ -27,13 +27,13 @@ aliasesArchive:
 - /blog/introducing-kanban-for-professional-scrum-teams
 - /resources/blog/introducing-kanban-professional-scrum-teams
 tags:
+- Software Development
 - Throughput
 - Practical Techniques and Tooling
 - Operational Practices
 - Agile Project Management
 - Agile Frameworks
 - Software Developers
-- Software Development
 - Pragmatic Thinking
 - Products and Books
 - Events and Presentations

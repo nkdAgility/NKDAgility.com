@@ -21,9 +21,7 @@ card:
   content: Discover more about Emergant Practices and how it can help you in your Agile journey!
   title: Emergant Practices
 categories: []
-tags:
-- Miscellaneous
-- Discovery and Learning
+tags: []
 
 ---
 Processes, practices and tools necessary will emerge as we do the work and help others do it

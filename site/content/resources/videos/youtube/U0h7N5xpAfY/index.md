@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
+- Scrum Team
+- Software Development
+- Agile Project Management
+- Professional Scrum
+- People and Process
+- Accountability
+- Team Performance
+- Agile Frameworks
+- Scrum Product Development
 resourceTypes:
 - video
 categories:

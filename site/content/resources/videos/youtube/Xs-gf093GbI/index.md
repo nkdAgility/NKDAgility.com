@@ -27,11 +27,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Product Management
-- People and Process
-- Product Strategy
-- Product Owner
+tags: []
 resourceTypes:
 - video
 categories:

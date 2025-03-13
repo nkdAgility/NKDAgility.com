@@ -30,10 +30,10 @@ tags:
 - People and Process
 - Agile Frameworks
 - Agile Product Management
-- Agile Transformation
 - Team Collaboration
 - Scrum Master
 - Software Development
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

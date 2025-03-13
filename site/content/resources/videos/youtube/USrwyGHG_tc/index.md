@@ -34,14 +34,14 @@ sitemap:
 tags:
 - Scrum Team
 - Agile Leadership
+- Agile Transformation
+- Self Organisation
 - Technical Leadership
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Product Management
 - Agile Project Management
-- Agile Transformation
 - Business Agility
-- Organisational Agility
 resourceTypes:
 - video
 categories:

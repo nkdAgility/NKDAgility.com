@@ -34,13 +34,10 @@ tags:
 - Organisational Agility
 - Agile Frameworks
 - Agile Transformation
-- Enterprise Agility
 - Scaling Agility
 - Sociotechnical Systems
 - People and Process
-- Agile Product Management
-- Organisational Change
-- Agile Leadership
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

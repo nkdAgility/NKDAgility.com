@@ -28,10 +28,6 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Miscellaneous
-- People and Process
-- Ability to Innovate
-- Resilience and Change
 resourceTypes:
 - video
 categories: []

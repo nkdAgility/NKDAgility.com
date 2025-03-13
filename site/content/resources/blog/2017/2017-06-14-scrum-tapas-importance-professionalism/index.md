@@ -26,9 +26,7 @@ aliasesArchive:
 - /scrum-tapas--the-importance-of-professionalism
 - /blog/scrum-tapas--the-importance-of-professionalism
 - /resources/blog/scrum-tapas-importance-professionalism
-tags:
-- Events and Presentations
-- People and Process
+tags: []
 categories:
 - Social Technologies
 - Scrum

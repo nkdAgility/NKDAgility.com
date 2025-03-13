@@ -34,6 +34,15 @@ sitemap:
   priority: 0.6
 tags:
 - Throughput
+- Metrics and Learning
+- Software Development
+- Operational Practices
+- Transparency
+- Evidence Based Management
+- Cycle Time
+- Practical Techniques and Tooling
+- Evidence Based Leadership
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

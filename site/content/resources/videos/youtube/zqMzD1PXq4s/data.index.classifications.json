@@ -28,11 +28,14 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T11:58:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:56:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of technical leadership and system optimisation on the ability to deliver features, which relates to deployment frequency. However, the primary focus is on technical debt and leadership rather than deployment intervals specifically.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of optimising systems and processes to improve productivity and reduce chaos, which indirectly relates to deployment frequency. It highlights the Azure DevOps team's significant increase in feature delivery, showcasing a successful case of optimising deployment intervals. However, while it touches on rapid feedback loops and the benefits of frequent changes, it does not explicitly focus on deployment frequency as a primary theme, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Throughput": {
@@ -148,11 +151,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T11:58:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:45:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of technical leadership on delivery processes and the importance of optimising systems, which aligns with strategic themes in Agile environments. However, it primarily focuses on technical issues and leadership rather than a clear strategic framework or approach.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of optimising systems and processes within engineering teams, which aligns with strategic approaches in Agile and DevOps. It highlights the need for technical leadership and the impact of optimising delivery processes, which are key themes in the Strategy category. However, while it touches on strategic concepts, it does not explicitly focus on Agile or Scrum frameworks, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -991,11 +997,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T11:58:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:27:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of poor technical leadership and the need for organisations to adapt their systems and processes to improve efficiency and productivity, which aligns with change management principles. However, the primary focus is on technical leadership and engineering excellence rather than change management strategies or practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of optimising systems and addressing technical debt, which aligns with change management principles. However, it primarily focuses on technical leadership and engineering excellence rather than the broader strategies and practices of change management in Agile contexts. While it touches on themes of organisational transformation and the need for adaptability, it lacks a detailed exploration of stakeholder engagement, resistance management, and leadership roles in guiding change, which are critical aspects of the Change Management category.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
@@ -1021,11 +1030,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T11:58:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of technical leadership and engineering excellence, with a mention of transitioning from long-running system tests to unit tests. However, the primary focus is on the broader implications of technical debt and chaos in software development rather than a dedicated exploration of Test First Development principles.",
+    "calculated_at": "2025-03-13T16:26:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions the impact of testing, specifically the transition from long-running system tests to unit tests, which aligns with the principles of Test First Development. However, the primary focus of the content is on optimising systems and addressing technical debt rather than a thorough exploration of Test First Development principles or practices. The discussion lacks depth in terms of TDD methodologies, benefits, and tools, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Professional Scrum": {
@@ -1294,20 +1306,26 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T11:58:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:19:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of technical leadership and engineering excellence on organisational performance, which aligns with the broader implications of agility. However, it primarily focuses on technical debt and system optimisation rather than explicitly addressing enterprise agility frameworks or cultural aspects.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of optimising systems and addressing technical debt, which aligns with the principles of enterprise agility. It highlights the need for organisations to adapt to changing environments and improve processes, reflecting a culture of continuous improvement. However, it primarily focuses on technical aspects and individual case studies rather than broader organisational strategies or frameworks for scaling agility, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T11:58:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:19:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of technical leadership and engineering excellence on organisational efficiency and adaptability, which are relevant to business agility. However, the primary focus is on technical debt and system optimisation rather than directly addressing business agility principles or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of optimising systems and addressing technical debt, which aligns with the principles of business agility. It highlights the need for organisations to adapt to changing market conditions and improve operational efficiency. However, while it touches on relevant themes, the primary focus is more on technical leadership and engineering practices rather than a comprehensive exploration of business agility principles.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {

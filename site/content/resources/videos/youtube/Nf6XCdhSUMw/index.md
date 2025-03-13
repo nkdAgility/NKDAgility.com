@@ -28,6 +28,11 @@ tags:
 - Decision Making
 - Evidence Based Leadership
 - Metrics and Learning
+- Pragmatic Thinking
+- Operational Practices
+- People and Process
+- Ability to Innovate
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

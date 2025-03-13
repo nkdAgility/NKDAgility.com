@@ -31,13 +31,10 @@ tags:
 - People and Process
 - Team Motivation
 - Agile Philosophy
+- Strategy
 - Agile Product Operating Model
-- Strategic Goals
 - Employee Engagement
 - Organisational Culture
-- Organisational Psychology
-- Product Strategy
-- Agile Strategy
 resourceTypes:
 - video
 categories:

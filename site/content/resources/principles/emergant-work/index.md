@@ -22,17 +22,7 @@ card:
   content: Discover more about Emergant Work and how it can help you in your Agile journey!
   title: Emergant Work
 categories: []
-tags:
-- Customer Feedback Loops
-- Customer Retention
-- Customer Satisfaction
-- Discovery and Learning
-- Frequent Releases
-- Lean Product Development
-- Lean Startup
-- Market Adaptability
-- Organisational Agility
-- Product Discovery
+tags: []
 
 ---
 Update the work based on user feedback on timelines shorter than one month

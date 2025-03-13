@@ -31,6 +31,13 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
+- Agile Philosophy
+- Metrics and Learning
+- Psychological Safety
+- Software Development
+- Strategy
+- Pragmatic Thinking
+- People and Process
 resourceTypes:
 - video
 categories:

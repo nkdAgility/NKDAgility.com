@@ -26,6 +26,15 @@ duration: 1156
 isShort: false
 tags:
 - Agile Product Management
+- Agile Project Management
+- Agile Planning
+- Pragmatic Thinking
+- Product Backlog
+- Software Development
+- Practical Techniques and Tooling
+- Azure DevOps
+- Agile Planning Tools
+- Scrum Product Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

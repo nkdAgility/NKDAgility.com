@@ -13,12 +13,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:34:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the implementation of a Kanban strategy using Azure DevOps, which touches on strategic alignment and optimisation of delivery processes. However, it primarily focuses on practical implementation details rather than a comprehensive strategic discussion.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the development and implementation of a Caman strategy within the context of Azure DevOps, which aligns well with the Strategy category. It discusses the importance of establishing shared rules and visualising workflows, both of which are crucial for strategic alignment in Agile environments. The depth of discussion is significant, providing detailed steps for setting up a Caman board and customising it, which reflects a thorough understanding of strategic execution. However, while it touches on Agile principles, the emphasis on specific tools and practices may slightly detract from a broader strategic discussion.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -949,12 +952,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-13T18:04:25",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a Kanban strategy using Azure DevOps, which is a key Agile framework. It explores the principles of Kanban, the configuration of boards, and the flow of work, aligning well with the category's focus on Agile frameworks and their practical applications.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-13T15:04:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses a Caman strategy and its implementation using Azure DevOps, which is related to Agile practices. However, it primarily focuses on the tool and its application rather than a comprehensive exploration of Agile frameworks like Scrum or Kanban. While there are mentions of Scrum and Kanban, the discussion lacks depth in comparing frameworks or exploring their principles, which diminishes its alignment with the Agile Frameworks category.",
+    "level": "Quaternary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -979,11 +985,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-13T18:04:31",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the implementation of Kanban strategies using Azure DevOps, which is a key aspect of software development methodologies. It covers practical applications, configurations, and the importance of visualising work in a software development context.",
+    "calculated_at": "2025-03-13T15:26:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps within a Caman strategy, which is directly related to software development practices. It discusses the importance of digital tools in managing workflows, customising boards, and visualising work, all of which are essential aspects of the software development lifecycle. The author’s background as a Scrum and Kanban trainer adds credibility and depth to the discussion, aligning well with key topics in software development methodologies. The content provides detailed steps for setting up a Caman board, demonstrating a strong understanding of practical application in a software development context.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {

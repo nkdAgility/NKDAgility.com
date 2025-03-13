@@ -29,7 +29,6 @@ tags:
 - Professional Scrum
 - Events and Presentations
 - People and Process
-- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -25,11 +25,10 @@ preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: false
 tags:
+- Agile Philosophy
 - Agile Values and Principles
 - Organisational Agility
-- Agile Leadership
-- People and Process
-- Discovery and Learning
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

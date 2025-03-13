@@ -32,8 +32,8 @@ tags:
 - Organisational Agility
 - Team Collaboration
 - Team Performance
-- Agile Project Management
 - Agile Transformation
+- Empirical Process Control
 sitemap:
   filename: sitemap.xml
   priority: 0.6

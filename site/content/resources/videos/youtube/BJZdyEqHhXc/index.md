@@ -28,12 +28,6 @@ tags:
 - Pragmatic Thinking
 - Change Management
 - Organisational Change
-- Sensemaking
-- Resilience and Change
-- Coaching
-- Organisational Agility
-- Sociotechnical Systems
-- Miscellaneous
 sitemap:
   filename: sitemap.xml
   priority: 0.6

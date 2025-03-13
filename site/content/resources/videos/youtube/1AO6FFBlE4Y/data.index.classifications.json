@@ -250,11 +250,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:46:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which relates to strategic outcomes in Agile environments. However, the primary focus is on the consequences of technical debt and engineering practices rather than a clear strategic approach or framework.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses the implications of poor-quality code and its impact on productivity and brand reputation, which indirectly relates to strategic outcomes in Agile environments. However, it lacks a direct focus on strategic alignment or specific Agile methodologies, making it more of a general discussion on quality rather than a strategic analysis.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
@@ -304,12 +307,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:21:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which aligns with Lean principles of minimising waste and enhancing efficiency. However, the primary focus is on software engineering practices rather than Lean Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the costs associated with poor-quality code and the importance of improving code quality, which indirectly relates to Lean principles of efficiency and waste reduction. However, it primarily focuses on software quality and technical debt rather than explicitly addressing Lean Thinking concepts such as value stream mapping or waste identification. The mention of productivity and efficiency is present but lacks depth in Lean-specific tools or methodologies.",
+    "level": "Quaternary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -583,12 +589,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:57:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and the ability to deliver features, which indirectly relates to deployment frequency. However, the primary focus is on quality and technical debt rather than optimising deployment intervals.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of high-quality code and its impact on productivity and deployment efficiency. While it touches on reducing feedback loops and improving deployment intervals, the primary focus is on code quality rather than deployment frequency itself. The mention of Azure DevOps improving their validation time hints at deployment frequency but lacks a detailed exploration of strategies or metrics specifically related to deployment frequency.",
+    "level": "Quaternary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -619,11 +628,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and delivery, touching on aspects of Continuous Delivery such as the importance of maintaining a production-ready state and the role of automation in improving delivery speed. However, the primary focus is on the costs associated with poor quality rather than Continuous Delivery principles themselves.",
+    "calculated_at": "2025-03-13T16:29:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of code quality and its impact on productivity and deployment efficiency, which are relevant to Continuous Delivery. However, it primarily focuses on the costs of poor-quality code and does not explicitly address Continuous Delivery principles or practices. While it mentions branching strategies and the need for continuous integration, these points are not explored in depth, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Cross Functional Teams": {
@@ -1246,12 +1258,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:20:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which indirectly relates to business agility by highlighting the importance of delivering value and adapting to customer needs. However, the primary focus is on technical debt and engineering practices rather than the principles and practices of business agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of high-quality code and its impact on productivity and brand reputation, which are relevant to business agility. However, it primarily focuses on technical debt and code quality rather than the broader principles and practices of business agility. The mention of missed opportunities and the need for innovation aligns somewhat with business agility, but the overall discussion lacks depth in agile methodologies and leadership roles in fostering agility.",
+    "level": "Quaternary"
   },
   "Kanban": {
     "category": "Kanban",

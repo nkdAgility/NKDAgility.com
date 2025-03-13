@@ -29,10 +29,6 @@ tags:
 - Agile Project Management
 - Team Performance
 - Agile Leadership
-- Technical Leadership
-- People and Process
-- Scrum Master
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

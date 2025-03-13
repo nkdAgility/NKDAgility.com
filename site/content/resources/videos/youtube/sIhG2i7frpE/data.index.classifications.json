@@ -298,11 +298,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:23:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:01:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and visual tools in improving workflows, which relates to measuring delivery performance and customer satisfaction, but it does not primarily focus on the end-to-end process of delivering software products.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of metrics and visual tools in improving workflows, which aligns with the core themes of product delivery, particularly in the context of continuous improvement and iterative processes. It mentions key aspects such as identifying metrics, fostering transparency, and regular reviews, which are relevant to planning and quality assurance. However, it lacks a direct focus on deployment and release management, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -316,21 +319,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:23:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:24:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to organisational agility, but it primarily focuses on the Caman system rather than broader agile principles.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to organisational agility. However, while it touches on key aspects like transparency and iterative processes, it lacks a direct focus on agile methodologies or leadership roles in fostering agility. The depth of discussion is moderate, primarily centred on metrics rather than broader agile principles.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:23:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of metrics and visual tools in enhancing transparency within workflows, which aligns with the theme of accountability. However, the primary focus is on continuous improvement and workflow changes rather than transparency and accountability as central topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:32:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of transparency in relation to metrics and visual tools, highlighting how these elements foster open discussions and trust within teams. It aligns well with the core themes of the category, particularly in the context of Agile methodologies. The depth of discussion is substantial, covering strategies for continuous improvement and the role of data in decision-making. However, while transparency is a significant focus, the content does not delve deeply into accountability mechanisms, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",

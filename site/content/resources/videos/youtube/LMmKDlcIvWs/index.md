@@ -35,9 +35,6 @@ tags:
 - Practical Techniques and Tooling
 - Continuous Learning
 - Flow Efficiency
-- Agile Frameworks
-- Software Development
-- Lean
 resourceTypes:
 - video
 categories:

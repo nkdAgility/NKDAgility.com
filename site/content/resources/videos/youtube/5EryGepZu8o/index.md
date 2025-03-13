@@ -28,6 +28,11 @@ sitemap:
   priority: 0.6
 tags:
 - Empirical Process Control
+- People and Process
+- Agile Philosophy
+- Sensemaking
+- Software Development
+- Complexity Thinking
 resourceTypes:
 - video
 layout: video

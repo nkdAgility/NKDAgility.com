@@ -32,7 +32,7 @@ tags:
 - Decision Making
 - Lead Time
 - Market Adaptability
-- Enterprise Agility
+- Agile Values and Principles
 - Flow Efficiency
 - Operational Practices
 sitemap:

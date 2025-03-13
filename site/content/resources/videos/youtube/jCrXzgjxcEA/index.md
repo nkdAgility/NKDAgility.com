@@ -28,12 +28,7 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Operational Practices
-- Agile Frameworks
 - Azure Boards
-- Pragmatic Thinking
-- Agile Planning Tools
-- Software Developers
-- Cycle Time
 sitemap:
   filename: sitemap.xml
   priority: 0.6

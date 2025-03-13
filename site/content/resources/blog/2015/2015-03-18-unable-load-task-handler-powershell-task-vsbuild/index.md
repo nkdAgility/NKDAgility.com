@@ -28,6 +28,11 @@ aliasesArchive:
 - /resources/blog/unable-load-task-handler-powershell-task-vsbuild
 tags:
 - Windows
+- Troubleshooting
+- Install and Configuration
+- Software Development
+- Practical Techniques and Tooling
+- System Configuration
 categories:
 - DevOps
 preview: puzzle-issue-problem-128-link-7-7.png

@@ -33,11 +33,11 @@ tags:
 - Organisational Change
 - Agile Project Management
 - Business Agility
-- Agile Leadership
 - Agile Frameworks
 - Agile Philosophy
 - Agile Strategy
 - Agile Transformation
+- Change Management
 resourceTypes:
 - video
 categories:

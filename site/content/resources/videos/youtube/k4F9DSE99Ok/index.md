@@ -26,12 +26,10 @@ preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
 duration: 49
 isShort: true
 tags:
+- Agile Frameworks
 - Agile Project Management
 - People and Process
 - Customer Feedback Loops
-- Agile Product Management
-- Agile Leadership
-- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6

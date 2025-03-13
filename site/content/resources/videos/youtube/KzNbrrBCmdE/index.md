@@ -25,9 +25,8 @@ preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
 duration: 52
 isShort: true
 tags:
-- Software Development
-- Agile Values and Principles
-- Pragmatic Thinking
+- Agile Project Management
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

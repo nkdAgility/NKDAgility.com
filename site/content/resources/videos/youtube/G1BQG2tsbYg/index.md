@@ -34,11 +34,11 @@ tags:
 - People and Process
 - Organisational Agility
 - Agile Strategy
-- Strategy
-- Enterprise Agility
 - Agile Values and Principles
+- Enterprise Agility
 - Organisational Physics
-- Agile Frameworks
+- Strategy
+- Agile Planning
 resourceTypes:
 - video
 categories:

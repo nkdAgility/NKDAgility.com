@@ -31,13 +31,13 @@ tags:
 - People and Process
 - Organisational Culture
 - Employee Engagement
+- Team Motivation
 - Personal
 - Sociotechnical Systems
 - Organisational Change
-- Change Management
-- Team Motivation
 - Team Performance
 - Agile Leadership
+- Organisational Agility
 resourceTypes:
 - video
 categories:

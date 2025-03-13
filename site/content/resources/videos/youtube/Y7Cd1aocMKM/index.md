@@ -32,9 +32,6 @@ tags:
 - Remote Working
 - Agile Project Management
 - Team Collaboration
-- Pragmatic Thinking
-- Practical Techniques and Tooling
-- Software Development
 resourceTypes:
 - video
 categories:

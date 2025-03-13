@@ -35,13 +35,6 @@ tags:
 - Organisational Culture
 - People and Process
 - Sociotechnical Systems
-- Organisational Change
-- Enterprise Agility
-- Scaling Agility
-- Team Collaboration
-- Agile Philosophy
-- Organisational Agility
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

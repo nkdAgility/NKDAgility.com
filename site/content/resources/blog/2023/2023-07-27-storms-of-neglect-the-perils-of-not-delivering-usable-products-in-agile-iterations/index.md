@@ -28,12 +28,12 @@ tags:
 - Working Software
 - Product Delivery
 - Transparency
+- Empirical Process Control
 - Software Development
 - Value Delivery
+- Agile Values and Principles
 - People and Process
 - Increment
-- Agile Product Operating Model
-- Agile Values and Principles
 categories:
 - Social Technologies
 - Scrum

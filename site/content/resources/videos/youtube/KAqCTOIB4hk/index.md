@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Metrics and Learning
+- People and Process
+- Discovery and Learning
+- Evidence Based Leadership
+- Pragmatic Thinking
+- Continuous Learning
+- Evidence Based Management
+- Agile Product Management
+- Ability to Innovate
+- Value Delivery
 resourceTypes:
 - video
 categories:

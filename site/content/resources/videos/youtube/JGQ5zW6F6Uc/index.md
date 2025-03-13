@@ -27,8 +27,8 @@ tags:
 - People and Process
 - Agile Project Management
 - Scrum Team
-- Agile Product Management
 - Scrum Master
+- Agile Product Management
 - Scrum Product Development
 - Agile Frameworks
 - Agile Transformation

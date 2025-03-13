@@ -29,6 +29,15 @@ aliasesArchive:
 - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 tags:
 - Agile Product Management
+- People and Process
+- Product Backlog
+- Complexity Thinking
+- Organisational Agility
+- Pragmatic Thinking
+- Sensemaking
+- Agile Project Management
+- Agile Product Operating Model
+- Agile Strategy
 categories:
 - Product Management
 - Social Technologies

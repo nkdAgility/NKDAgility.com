@@ -30,14 +30,9 @@ sitemap:
 tags:
 - Agile Project Management
 - Software Development
-- Scrum Product Development
 - Scrum Team
-- Scrum Master
+- Scrum Product Development
 - Agile Planning
-- Agile Frameworks
-- Pragmatic Thinking
-- Estimation
-- Agile Product Management
 resourceTypes:
 - video
 categories:

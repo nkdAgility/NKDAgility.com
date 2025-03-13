@@ -31,6 +31,12 @@ tags:
 - Release Management
 - Software Development
 - Install and Configuration
+- Azure DevOps
+- Continuous Delivery
+- Practical Techniques and Tooling
+- Product Delivery
+- Application Lifecycle Management
+- Technical Excellence
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-46-46.png

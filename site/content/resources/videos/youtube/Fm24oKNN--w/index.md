@@ -31,8 +31,6 @@ tags:
 - Agile Project Management
 - Agile Transformation
 - Agile Leadership
-- Technical Leadership
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

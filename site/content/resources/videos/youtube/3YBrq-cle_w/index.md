@@ -28,12 +28,12 @@ tags:
 - Scrum Master
 - People and Process
 - Agile Leadership
+- Self Organisation
 - Professional Scrum
 - Agile Frameworks
 - Agile Project Management
 - Agile Transformation
 - Software Development
-- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

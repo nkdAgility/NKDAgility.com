@@ -32,10 +32,6 @@ tags:
 - Software Development
 - People and Process
 - Agile Project Management
-- Professional Scrum
-- Agile Frameworks
-- Scrum Team
-- Team Performance
 resourceTypes:
 - video
 categories:

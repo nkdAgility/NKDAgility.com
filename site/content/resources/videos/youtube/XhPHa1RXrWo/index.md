@@ -32,13 +32,12 @@ tags:
 - People and Process
 - Agile Philosophy
 - Software Development
+- Business Agility
 - Pragmatic Thinking
 - Agile Values and Principles
 - Agile Leadership
 - Agile Transformation
 - Complexity Thinking
-- Sociotechnical Systems
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

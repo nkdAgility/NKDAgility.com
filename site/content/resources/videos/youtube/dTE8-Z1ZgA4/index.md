@@ -26,10 +26,7 @@ duration: 49
 isShort: true
 tags:
 - Discovery and Learning
-- Coaching
-- People and Process
-- Sensemaking
-- Personal
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

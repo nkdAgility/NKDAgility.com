@@ -250,12 +250,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:51:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from a DevOps practitioner to a consultant, touching on themes of personal development and influence within the Agile context, but it is primarily focused on personal experiences rather than a clear strategic framework.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content touches on personal experiences transitioning from a DevOps practitioner to a consultant, with some references to Agile principles. However, it lacks a focused discussion on strategic alignment or the development of strategic approaches within Agile, Scrum, or DevOps frameworks. The mention of 'Agile' and 'Scrum' is brief and secondary to the personal narrative, resulting in a low confidence score.",
+    "level": "Quaternary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -955,12 +958,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:43:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from DevOps practitioner to consultant with references to Agile principles and the importance of delivering value, but it primarily focuses on personal experiences and career insights rather than a deep exploration of Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the transition from a DevOps practitioner to a consultant, touching on themes of value delivery and personal growth, which align with Agile principles. However, it primarily focuses on personal experiences and career progression rather than a deep exploration of Agile philosophy itself. The mention of Agile and Scrum at the end suggests some relevance, but it does not delve into the foundational principles or values of Agile, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",

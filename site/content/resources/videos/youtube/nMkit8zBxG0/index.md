@@ -29,8 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Scrum Product Development
 - Agile Planning
+- Agile Project Management
+- Scrum Product Development
+- Professional Scrum
+- Agile Frameworks
+- Agile Product Management
+- Product Delivery
+- Software Developers
+- Agile Planning Tools
 resourceTypes:
 - video
 categories:

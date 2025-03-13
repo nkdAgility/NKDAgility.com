@@ -32,11 +32,6 @@ tags:
 - Agile Product Management
 - Product Owner
 - Scrum Product Development
-- Agile Planning
-- Agile Planning Tools
-- Agile Project Management
-- People and Process
-- Product Delivery
 resourceTypes:
 - video
 categories:

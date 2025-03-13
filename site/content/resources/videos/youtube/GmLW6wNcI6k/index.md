@@ -32,15 +32,6 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- Complexity Thinking
-- Business Agility
-- Discovery and Learning
-- People and Process
-- Empirical Process Control
-- Market Adaptability
-- Organisational Agility
-- Personal
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

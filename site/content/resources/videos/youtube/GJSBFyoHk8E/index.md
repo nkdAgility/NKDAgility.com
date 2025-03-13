@@ -28,16 +28,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Planning
 - Agile Project Management
 - Scrum Product Development
 - Scrum Team
 - Agile Product Management
 - Scrum Master
-- Agile Planning
 - Software Development
 - Value Delivery
 - Professional Scrum
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

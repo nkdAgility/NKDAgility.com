@@ -30,14 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Transformation
+- Agile Strategy
 - People and Process
 - Scaling Agility
 - Organisational Agility
 - Sociotechnical Systems
-- Agile Strategy
 - Agile Values and Principles
 - Agile Philosophy
-- Agile Transformation
 - Beta Codex
 - Organisational Change
 resourceTypes:

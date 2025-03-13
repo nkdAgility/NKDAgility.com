@@ -418,11 +418,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:44:23",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-13T17:03:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the creation of a Release Management pipeline, detailing automation in deployment processes, the use of version control, and strategies for maintaining a production-ready state, which are all key aspects of Continuous Delivery.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a comprehensive overview of creating a Release Management pipeline, which is a core aspect of Continuous Delivery. It discusses automation in deployment, the importance of maintaining a production-ready state, and the use of version control and branching strategies. The depth of detail regarding the setup and configuration of the pipeline, including the use of Azure environments and deployment scripts, indicates a strong alignment with Continuous Delivery principles. The content also touches on feedback loops and approval processes, further reinforcing its relevance to the category.",
     "level": "Secondary"
   },
   "Strategic Goals": {

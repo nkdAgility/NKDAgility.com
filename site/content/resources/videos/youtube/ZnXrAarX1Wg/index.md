@@ -27,9 +27,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Agile Leadership
+tags: []
 resourceTypes:
 - video
 categories:

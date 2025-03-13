@@ -25,11 +25,10 @@ preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
 isShort: true
 tags:
+- Agile Philosophy
 - Metrics and Learning
 - People and Process
 - Agile Leadership
-- Organisational Agility
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

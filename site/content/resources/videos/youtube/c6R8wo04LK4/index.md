@@ -26,11 +26,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Frameworks
-- Agile Planning
-- Organisational Culture
-- Agile Project Management
+- Agile Transformation
 resourceTypes:
 - video
 categories:

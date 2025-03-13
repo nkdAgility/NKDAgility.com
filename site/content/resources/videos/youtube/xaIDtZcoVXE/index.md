@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- Practical Techniques and Tooling
+- Decision Making
+- Metrics and Learning
+- Value Delivery
+- Evidence Based Management
+- Business Agility
+- Organisational Agility
+- Value Stream Management
+- Ability to Innovate
 resourceTypes:
 - video
 categories:

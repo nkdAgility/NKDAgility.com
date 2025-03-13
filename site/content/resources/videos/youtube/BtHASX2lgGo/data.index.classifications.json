@@ -349,12 +349,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:28:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:07:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and the planning process within Sprints, highlighting the need for a product-centric approach. However, it primarily focuses on the critique of burndown charts rather than a comprehensive exploration of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile practices, particularly around Sprint planning and the limitations of burndown charts, which indirectly relate to the Agile Product Operating Model. However, it primarily focuses on specific practices rather than the broader principles of product-centric development or value delivery. While it touches on the need for flexibility and adaptability in product development, it lacks a comprehensive exploration of the Agile Product Operating Model's key themes, such as cross-functional teams and continuous feedback mechanisms.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -367,21 +370,27 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:28:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:29:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of traditional Sprint planning and burndown charts, suggesting a more flexible approach that aligns with continuous learning and adaptation in product development. However, the primary focus is on critiquing Agile practices rather than exploring broader methodologies for discovery and learning.",
+    "final_score": 57.0,
+    "reasoning": "The content critiques traditional sprint planning methods and burndown charts, advocating for a more flexible and adaptive approach to product development. It discusses the importance of continuous reassessment and learning from the uncertainties inherent in product development, which aligns with the core themes of the 'Discovery and Learning' category. However, while it touches on these concepts, the primary focus remains on project management practices rather than a broader exploration of discovery and learning methodologies.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T14:28:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:37:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of traditional Sprint planning and burndown charts, suggesting a focus on continuous flow and minimal planning, which aligns with flow efficiency principles. However, the primary focus is on critiquing Agile practices rather than directly addressing flow efficiency as a central theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the limitations of burndown charts and advocates for a more flexible approach to Sprint planning, which aligns with the principles of Flow Efficiency. It highlights the importance of minimising overhead and adapting plans to enhance throughput, which are key themes in Flow Efficiency. However, while it touches on these concepts, the primary focus is on critiquing specific Agile practices rather than a comprehensive exploration of flow efficiency principles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",

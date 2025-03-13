@@ -32,6 +32,12 @@ tags:
 - Evidence Based Leadership
 - Metrics and Learning
 - Evidence Based Management
+- Operational Practices
+- Pragmatic Thinking
+- People and Process
+- Value Delivery
+- Ability to Innovate
+- Empirical Process Control
 resourceTypes:
 - video
 layout: video

@@ -38,8 +38,6 @@ tags:
 - People and Process
 - Operational Practices
 - Product Delivery
-- Resilience and Change
-- Complexity Thinking
 resourceTypes:
 - video
 categories:

@@ -44,6 +44,15 @@ categories:
 - DevOps
 tags:
 - Software Development
+- Software Developers
+- Agile Project Management
+- Product Delivery
+- Operational Practices
+- Agile Frameworks
+- Agile Values and Principles
+- Working Software
+- People and Process
+- Agile Transformation
 
 ---
 Agile is a buzzword of software development, and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).

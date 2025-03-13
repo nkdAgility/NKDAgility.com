@@ -652,12 +652,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T19:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:15:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery to the customer, which relates to customer satisfaction, but it primarily centres on contract issues in consulting engagements.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on customer value and outcomes, which are related to customer satisfaction, but it primarily focuses on consulting contracts and the challenges of product development. The discussion lacks depth in exploring customer satisfaction principles and does not provide specific techniques or metrics for measuring customer satisfaction.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -715,12 +718,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T19:13:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:37:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes rather than fixed deliverables in consulting engagements, which aligns with the theme of adapting to new information and insights in product development. However, the primary focus is on contract management rather than a broader exploration of discovery and learning processes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the pitfalls of over-specifying contracts in consulting engagements, which indirectly touches on the importance of adaptability and learning in product development. However, the primary focus is on contract management rather than on discovery and learning processes. While there are mentions of evolving requirements and the need for agility, the depth of discussion on methodologies that foster innovation and continuous learning is limited.",
+    "level": "Quaternary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -733,11 +739,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:13:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery in consulting engagements, which aligns with the principles of the Agile Product Operating Model, but it primarily addresses contract issues rather than the broader framework.",
+    "calculated_at": "2025-03-13T16:45:46",
+    "ai_confidence": 47.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 44.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes over outputs in consulting engagements, which aligns with the Agile Product Operating Model's emphasis on value delivery. However, it primarily centres on consulting contracts and does not delve deeply into the principles or practices of the Agile Product Operating Model itself. The mention of Agile and Scrum courses suggests a connection to Agile methodologies, but the overall focus remains on consulting rather than product-centric development.",
     "level": "Tertiary"
   },
   "Employee Engagement": {

@@ -23,10 +23,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
 isShort: false
-tags:
-- Pragmatic Thinking
-- Software Development
-- Practical Techniques and Tooling
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -31,7 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Evidence Based Leadership
+- Decision Making
 - Evidence Based Management
+- Business Agility
+- Metrics and Learning
+- People and Process
+- Market Adaptability
+- Organisational Agility
+- Value Delivery
+- Strategy
 resourceTypes:
 - video
 categories:

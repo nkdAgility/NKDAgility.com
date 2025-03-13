@@ -31,11 +31,6 @@ tags:
 - Continuous Learning
 - People and Process
 - Pragmatic Thinking
-- Coaching
-- Team Collaboration
-- Metrics and Learning
-- Mentoring
-- Empirical Process Control
 resourceTypes:
 - video
 categories:

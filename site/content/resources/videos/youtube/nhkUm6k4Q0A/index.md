@@ -29,11 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Philosophy
 - People and Process
 - Agile Leadership
-- Coaching
-- Technical Leadership
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

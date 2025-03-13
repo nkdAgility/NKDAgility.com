@@ -604,12 +604,15 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T22:17:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:40:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions strategies to get products in front of customers and gather feedback, which relates to market share, but the primary focus is on DevOps practices rather than market share strategies.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on DevOps and its role in software engineering, with no explicit discussion of market share strategies or methodologies. While it touches on customer feedback and product delivery, these points are not directly related to increasing market share or competitive advantage, which are the core themes of the category. Overall, the content lacks depth and direct relevance to market share.",
+    "level": "Quinary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -640,12 +643,15 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T22:17:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:49:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous delivery and obtaining customer feedback, which are relevant to customer retention strategies, but the primary focus is on DevOps practices rather than customer retention itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses DevOps and its role in delivering value to customers, which is tangentially related to customer retention. However, it lacks explicit focus on customer retention strategies, metrics, or user engagement techniques. The mention of feedback loops is relevant but not explored in depth, leading to a low confidence score.",
+    "level": "Quaternary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",

@@ -35,9 +35,6 @@ tags:
 - Pragmatic Thinking
 - Install and Configuration
 - System Configuration
-- Technical Mastery
-- Software Developers
-- Modern Source Control
 resourceTypes:
 - video
 layout: video
