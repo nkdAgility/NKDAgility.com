@@ -33,11 +33,11 @@ tags:
 - Scrum Product Development
 - Product Backlog
 - Agile Planning
+- Agile Planning Tools
 - Product Owner
 - Backlog Refinement
 - Agile Product Management
 - Software Development
-- Agile Planning Tools
 - Products and Books
 resourceTypes:
 - video

@@ -33,6 +33,7 @@ sitemap:
 tags:
 - Discovery and Learning
 - People and Process
+- Organisational Culture
 - Continuous Learning
 - Personal
 - Change Management
@@ -40,7 +41,6 @@ tags:
 - Pragmatic Thinking
 - Team Collaboration
 - Team Motivation
-- Team Performance
 categories:
 - Leadership
 - Social Technologies

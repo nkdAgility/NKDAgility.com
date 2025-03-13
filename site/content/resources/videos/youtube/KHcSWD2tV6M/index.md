@@ -25,10 +25,10 @@ preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
 duration: 67
 isShort: false
 tags:
+- Team Performance
 - Agile Philosophy
 - People and Process
 - Team Collaboration
-- Team Performance
 - Transparency and Accountability
 - Agile Leadership
 sitemap:

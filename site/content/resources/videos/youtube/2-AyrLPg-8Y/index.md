@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 isShort: true
 tags:
+- Evidence Based Leadership
 - Agile Leadership
 sitemap:
   filename: sitemap.xml

@@ -33,6 +33,7 @@ tags:
 - People and Process
 - Discovery and Learning
 - Scrum Team
+- Products and Books
 resourceTypes:
 - video
 categories:

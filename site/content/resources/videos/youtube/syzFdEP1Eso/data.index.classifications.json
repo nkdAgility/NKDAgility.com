@@ -328,12 +328,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T15:44:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:41:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of 'Definition of Done' in the context of Scrum, which relates to quality assurance in Agile practices. However, it primarily focuses on the analogy of baking rather than core engineering practices like clean code or TDD.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in detail, which is a critical aspect of Agile engineering practices. It explicitly mentions quality assurance, peer reviews, unit tests, and documentation—all of which align with the principles of clean code and TDD. The depth of discussion is significant, providing practical advice and analogies to illustrate the importance of DoD in both software development and other contexts. However, the primary focus is on Scrum rather than broader engineering practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",

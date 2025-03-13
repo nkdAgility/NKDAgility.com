@@ -36,8 +36,8 @@ tags:
 - Pragmatic Thinking
 - Accountability
 - Agile Product Operating Model
+- Scrum Team
 - Product Delivery
-- Value Delivery
 resourceTypes:
 - video
 layout: video

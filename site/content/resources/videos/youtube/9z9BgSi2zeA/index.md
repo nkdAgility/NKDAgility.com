@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Agile Leadership
 - Technical Leadership
+- Business Agility
 - Agile Product Management
 - People and Process
 resourceTypes:

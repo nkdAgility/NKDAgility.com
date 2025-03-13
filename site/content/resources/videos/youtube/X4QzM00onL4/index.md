@@ -26,8 +26,8 @@ preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
 duration: 66
 isShort: false
 tags:
-- Agile Leadership
 - Strategy
+- Agile Leadership
 - Agile Product Management
 - People and Process
 - Agile Philosophy

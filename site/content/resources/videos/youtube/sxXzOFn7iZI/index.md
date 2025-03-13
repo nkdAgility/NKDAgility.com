@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Mentoring
 - Agile Leadership
 - Technical Leadership
 - Coaching

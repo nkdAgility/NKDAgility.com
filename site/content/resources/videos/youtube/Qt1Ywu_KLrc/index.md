@@ -27,9 +27,9 @@ tags:
 - Install and Configuration
 - Azure DevOps
 - Practical Techniques and Tooling
+- Software Development
 - System Configuration
 - Pragmatic Thinking
-- Software Development
 - Troubleshooting
 sitemap:
   filename: sitemap.xml

@@ -33,6 +33,7 @@ tags:
 - Agile Leadership
 - People and Process
 - Technical Leadership
+- Scrum Product Development
 resourceTypes:
 - video
 layout: video

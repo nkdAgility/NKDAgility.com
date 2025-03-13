@@ -28,6 +28,7 @@ tags:
 - Agile Philosophy
 - Agile Values and Principles
 - Organisational Agility
+- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
