@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Philosophy
 - Agile Project Management
 - Agile Values and Principles
 - Agile Transformation
@@ -37,7 +38,6 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Agile Product Operating Model
-- Agile Philosophy
 - Agile Product Management
 resourceTypes:
 - video

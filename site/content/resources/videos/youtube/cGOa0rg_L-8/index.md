@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Delivery
 - Business Agility
 - Practical Techniques and Tooling
 - Flow Efficiency

@@ -30,11 +30,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Transparency and Accountability
 - Practical Techniques and Tooling
 - Lean
 - Transparency
 - Organisational Agility
-- Transparency and Accountability
 - Software Development
 - Metrics and Learning
 - People and Process

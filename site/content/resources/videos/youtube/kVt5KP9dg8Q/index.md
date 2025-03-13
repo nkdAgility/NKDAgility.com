@@ -31,6 +31,7 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
+- Operational Practices
 - Agile Transformation
 - Pragmatic Thinking
 - Continuous Delivery
@@ -38,7 +39,6 @@ tags:
 - Software Development
 - Agile Strategy
 - Agile Philosophy
-- Operational Practices
 - Working Software
 resourceTypes:
 - video

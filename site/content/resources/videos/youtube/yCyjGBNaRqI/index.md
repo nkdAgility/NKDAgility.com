@@ -27,13 +27,13 @@ tags:
 - Team Motivation
 - People and Process
 - Organisational Culture
+- Team Performance
 - Employee Engagement
 - Team Collaboration
 - Agile Leadership
 - Organisational Psychology
 - Self Organisation
 - Agile Philosophy
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

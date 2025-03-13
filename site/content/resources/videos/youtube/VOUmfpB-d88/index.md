@@ -31,6 +31,7 @@ sitemap:
 tags:
 - People and Process
 - Discovery and Learning
+- Agile Project Management
 - Pragmatic Thinking
 - Agile Frameworks
 - Team Collaboration
@@ -38,7 +39,6 @@ tags:
 - Coaching
 - Agile Philosophy
 - Continuous Learning
-- Agile Project Management
 resourceTypes:
 - video
 categories:

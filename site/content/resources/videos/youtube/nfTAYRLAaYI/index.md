@@ -31,8 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
-- Transparency
 - Agile Project Management
+- Transparency
 - Operational Practices
 resourceTypes:
 - video

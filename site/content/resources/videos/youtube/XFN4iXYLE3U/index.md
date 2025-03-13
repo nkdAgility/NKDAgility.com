@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
+- Pragmatic Thinking
 - Flow Efficiency
 - Lean Thinking
 - Agile Project Management

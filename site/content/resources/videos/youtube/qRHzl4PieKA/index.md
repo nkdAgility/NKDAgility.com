@@ -33,6 +33,7 @@ sitemap:
 tags:
 - Business Agility
 - Value Delivery
+- Product Delivery
 - People and Process
 - Agile Values and Principles
 - Agile Philosophy

@@ -37,8 +37,8 @@ tags:
 - Business Agility
 - Agile Product Operating Model
 - Agile Values and Principles
-- Agile Frameworks
 - Agile Philosophy
+- Agile Project Management
 resourceTypes:
 - video
 layout: video

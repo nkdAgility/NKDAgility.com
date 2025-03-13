@@ -39,7 +39,7 @@ tags:
 - Sociotechnical Systems
 - Pragmatic Thinking
 - Strategic Goals
-- Agile Strategy
+- Operational Practices
 resourceTypes:
 - video
 categories:

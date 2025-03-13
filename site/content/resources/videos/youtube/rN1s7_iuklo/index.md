@@ -36,11 +36,11 @@ tags:
 - Business Agility
 - Change Management
 - People and Process
-- Personal
 - Agile Values and Principles
 - Continuous Learning
 - Discovery and Learning
 - Team Collaboration
+- Personal
 resourceTypes:
 - video
 categories:

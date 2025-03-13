@@ -34,12 +34,12 @@ tags:
 - Value Delivery
 - Agile Product Management
 - Agile Product Operating Model
+- Discovery and Learning
 - Customer Feedback Loops
 - Agile Values and Principles
 - Working Software
 - Agile Philosophy
 - Agile Project Management
-- Agile Transformation
 resourceTypes:
 - video
 layout: video

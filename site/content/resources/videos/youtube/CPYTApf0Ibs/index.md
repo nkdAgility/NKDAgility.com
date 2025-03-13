@@ -32,6 +32,7 @@ sitemap:
 tags:
 - People and Process
 - Agile Leadership
+- Organisational Culture
 - Decision Making
 - Agile Product Management
 - Value Delivery
@@ -39,7 +40,6 @@ tags:
 - Agile Values and Principles
 - Strategy
 - Sociotechnical Systems
-- Agile Planning
 resourceTypes:
 - video
 categories:
