@@ -30,7 +30,6 @@ tags:
 - Engineering Practices
 - Software Development
 - Continuous Delivery
-- Continuous Integration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

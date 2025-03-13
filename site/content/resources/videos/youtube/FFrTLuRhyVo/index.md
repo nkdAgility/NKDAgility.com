@@ -31,6 +31,7 @@ tags:
 - Technical Debt
 - Working Software
 - Technical Leadership
+- Code and Complexity
 - Agile Product Management
 - Technical Mastery
 sitemap:

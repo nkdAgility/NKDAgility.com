@@ -1087,12 +1087,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:46:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of integrating security into the software development process, which relates to code quality and complexity management. However, the primary focus is on security practices rather than a deep exploration of code complexity or architectural decisions.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the 'shift left' principle in software engineering, which relates to building quality and security into the development process. It mentions practices like Test-Driven Development (TDD) and pair programming, which align with code quality principles. However, while it touches on complexity in terms of managing technical debt and improving processes, the primary focus is on quality assurance rather than a deep exploration of code complexity or architectural decisions. Thus, while relevant, it does not fully meet the criteria for a strong alignment with the 'Code and Complexity' category.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",

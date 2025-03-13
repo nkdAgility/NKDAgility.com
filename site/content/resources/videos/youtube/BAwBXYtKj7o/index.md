@@ -34,7 +34,7 @@ tags:
 - Pragmatic Thinking
 - Code and Complexity
 - Technical Mastery
-- Operational Practices
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

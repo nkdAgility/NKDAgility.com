@@ -310,12 +310,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:44:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the inefficiencies of traditional branching models and their impact on delivery speed, which relates to Cycle Time. However, it primarily focuses on branching strategies rather than directly measuring or analysing Cycle Time.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the inefficiencies of traditional branch promotion models and advocates for continuous integration and delivery practices, which indirectly relate to Cycle Time by highlighting how these practices can reduce delays in value delivery. However, it does not explicitly define or focus on Cycle Time as a primary metric, nor does it provide detailed methods for measuring or improving it. The discussion is more centred on branching strategies rather than the measurement of Cycle Time itself.",
+    "level": "Quaternary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",

@@ -25,13 +25,13 @@ preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 isShort: false
 tags:
+- Continuous Delivery
 - Test Automation
 - Practical Techniques and Tooling
 - Technical Excellence
 - Product Delivery
 - Deployment Frequency
 - Pragmatic Thinking
-- Continuous Delivery
 - Azure DevOps
 - Operational Practices
 - Market Adaptability

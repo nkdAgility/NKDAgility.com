@@ -33,12 +33,12 @@ tags:
 - People and Process
 - Software Development
 - Agile Project Management
+- Team Performance
 - Pragmatic Thinking
 - Evidence Based Leadership
 - Agile Product Management
 - Decision Making
 - Product Delivery
-- Value Delivery
 resourceTypes:
 - video
 categories:

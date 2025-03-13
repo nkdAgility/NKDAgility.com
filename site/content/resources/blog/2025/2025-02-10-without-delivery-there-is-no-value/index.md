@@ -13,10 +13,6 @@ resourceTypes: blog
 slug: without-delivery-no-value
 aliases:
 - /resources/UfdnQrxv5iF
-- /without-delivery-no-value
-- /blog/without-delivery-no-value
-- /without-delivery--there-is-no-value
-- /blog/without-delivery--there-is-no-value
 aliasesArchive:
 - /without-delivery-no-value
 - /blog/without-delivery-no-value

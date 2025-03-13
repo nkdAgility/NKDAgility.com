@@ -26,6 +26,7 @@ duration: 332
 isShort: false
 tags:
 - Continuous Delivery
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

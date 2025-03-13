@@ -34,7 +34,7 @@ tags:
 - Deployment Frequency
 - Deployment Strategies
 - Azure DevOps
-- Frequent Releases
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

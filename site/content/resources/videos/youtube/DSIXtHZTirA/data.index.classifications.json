@@ -511,12 +511,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-12T08:20:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:46:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of getting software into production quickly, the role of performance engineering, and the implementation of audience-based rollouts, which are all central to the principles of frequent releases and continuous delivery.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses concepts related to continuous integration and continuous delivery, which are relevant to frequent releases. However, it primarily focuses on engineering excellence and quality rather than the specific practice of frequent releases. The mention of shifting left indicates an understanding of the release process but lacks detailed exploration of release frequency or strategies for incremental improvements.",
+    "level": "Quaternary"
   },
   "Estimation": {
     "category": "Estimation",

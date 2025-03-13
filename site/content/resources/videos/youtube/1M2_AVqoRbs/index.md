@@ -29,6 +29,7 @@ tags:
 - Value Delivery
 - Organisational Agility
 - Technical Mastery
+- Code and Complexity
 - Pragmatic Thinking
 - Strategy
 - Ability to Innovate
