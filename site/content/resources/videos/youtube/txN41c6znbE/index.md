@@ -38,8 +38,8 @@ tags:
 - Agile Leadership
 - Sociotechnical Systems
 - Agile Strategy
+- Agile Philosophy
 - Organisational Culture
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

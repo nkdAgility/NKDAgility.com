@@ -31,10 +31,10 @@ tags:
 - Technical Excellence
 - Deployment Strategies
 - Azure DevOps
-- Operational Practices
 - Release Management
 - Technical Mastery
 - Customer Satisfaction
+- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -55,12 +55,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T11:58:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses technical debt and its impact on product quality and costs, which aligns with Lean principles of minimising waste and maximising value. However, the primary focus is on technical debt rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:27:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses technical debt and its implications on product quality and efficiency, which are relevant to Lean principles of minimising waste and maximising learning. However, it primarily focuses on technical debt rather than Lean Product Development specifically. While it touches on continuous improvement, it lacks a direct emphasis on Lean methodologies or customer feedback, which are crucial for a higher confidence score in this category.",
+    "level": "Quaternary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -577,12 +580,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T11:58:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:25:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses technical debt and quality in software development, with a specific example related to Azure DevOps. However, the primary focus is on technical debt rather than Azure Pipelines specifically, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical debt and quality assurance in software development, with only a brief mention of Azure DevOps in the context of continuous improvement. It does not focus on Azure Pipelines or CI/CD practices, which are central to the category. The discussion lacks depth regarding Azure Pipelines specifically, leading to a low confidence score.",
+    "level": "Quinary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",

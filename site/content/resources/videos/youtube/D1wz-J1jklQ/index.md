@@ -34,7 +34,7 @@ tags:
 - Value Delivery
 - Flow Efficiency
 - Pragmatic Thinking
-- Operational Practices
+- Software Developers
 resourceTypes:
 - video
 sitemap:

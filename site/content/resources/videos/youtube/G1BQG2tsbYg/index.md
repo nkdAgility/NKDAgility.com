@@ -34,8 +34,8 @@ tags:
 - People and Process
 - Organisational Agility
 - Agile Strategy
-- Enterprise Agility
 - Agile Values and Principles
+- Enterprise Agility
 - Organisational Physics
 - Strategy
 - Agile Planning

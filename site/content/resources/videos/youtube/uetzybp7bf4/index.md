@@ -28,13 +28,13 @@ tags:
 - People and Process
 - Transparency and Accountability
 - Value Delivery
+- Accountability
 - Decision Making
 - Change Management
 - Continuous Learning
 - Organisational Culture
 - Team Motivation
 - Agile Leadership
-- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

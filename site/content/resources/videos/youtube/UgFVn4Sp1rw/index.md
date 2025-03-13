@@ -32,9 +32,9 @@ tags:
 - Ability to Innovate
 - Strategy
 - Agile Product Operating Model
-- Evidence Based Leadership
 - Agile Product Management
 - Decision Making
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -29,12 +29,12 @@ tags:
 - Agile Product Management
 - Software Development
 - Agile Planning
+- Agile Project Management
 - Agile Strategy
 - Business Agility
 - Organisational Agility
 - Value Delivery
 - Market Adaptability
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -583,12 +583,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-13T16:25:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "The content primarily discusses the importance of delivery in Scrum, emphasising the need for frequent deployment of increments to ensure value delivery and feedback loops, which aligns closely with the principles of Deployment Frequency.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of delivery in Scrum, linking it directly to deployment frequency. It emphasises the need for Scrum Teams to deliver increments to production regularly, aligning closely with Agile and DevOps principles. The depth of discussion on strategies for ensuring delivery, such as automation and CI/CD practices, further supports its relevance to the category. Overall, the content is highly focused on optimising deployment intervals and enhancing value delivery.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1240,12 +1243,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:26:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and practices, which are relevant to Agile methodologies, but it does not focus on specific products or literature. It primarily addresses the concept of delivery in Scrum rather than reviewing or analysing specific tools or books.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum principles and practices, focusing on the importance of delivery in the context of Agile methodologies. While it touches on concepts relevant to Agile and DevOps, it does not explicitly review or analyse specific products or books, which is a key requirement for the 'Products and Books' category. The discussion is more about Scrum's application rather than evaluating literature or tools, leading to a lower confidence score.",
+    "level": "Quaternary"
   },
   "Business Agility": {
     "category": "Business Agility",

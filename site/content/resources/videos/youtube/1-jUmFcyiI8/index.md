@@ -33,8 +33,8 @@ tags:
 - Organisational Agility
 - Continuous Delivery
 - Operational Practices
-- Pragmatic Thinking
 - People and Process
+- Customer Feedback Loops
 resourceTypes:
 - video
 sitemap:

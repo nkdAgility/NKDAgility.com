@@ -32,6 +32,7 @@ tags:
 - People and Process
 - Agile Philosophy
 - Software Development
+- Business Agility
 - Pragmatic Thinking
 - Agile Values and Principles
 - Agile Leadership

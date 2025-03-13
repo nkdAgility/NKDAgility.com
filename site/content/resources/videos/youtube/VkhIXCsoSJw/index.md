@@ -29,12 +29,12 @@ tags:
 - Test Automation
 - Practical Techniques and Tooling
 - Software Developers
+- Software Development
 - Technical Excellence
 - Product Delivery
 - Automated Testing
 - Deployment Frequency
 - Pragmatic Thinking
-- Azure DevOps
 resourceTypes:
 - video
 sitemap:

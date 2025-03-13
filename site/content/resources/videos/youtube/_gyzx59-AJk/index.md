@@ -31,12 +31,12 @@ tags:
 - Frequent Releases
 - Market Adaptability
 - Resilience and Change
+- Product Delivery
 - Value Delivery
 - Agile Product Operating Model
 - Business Agility
 - Metrics and Learning
-- Azure DevOps
-- People and Process
+- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

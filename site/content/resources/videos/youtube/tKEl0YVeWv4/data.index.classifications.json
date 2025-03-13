@@ -826,12 +826,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-12T15:15:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T16:25:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses automation as a means to enhance operational efficiency and improve product development processes, which aligns with the themes of digital transformation. However, it primarily focuses on automation techniques rather than broader strategic adoption of digital technologies across an organisation.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses automation in software development, highlighting its importance for efficiency and error reduction. However, it primarily focuses on automation as a tool rather than exploring broader themes of digital transformation, such as strategic adoption of digital technologies or cultural shifts within organisations. While it touches on the impact of automation on operational efficiency, it lacks a comprehensive discussion on how these practices contribute to overall digital transformation initiatives.",
+    "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -880,11 +883,14 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-12T15:16:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:27:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses automation in the context of deployment processes, including automated deployments, automated testing, and the importance of infrastructure as code. It also touches on strategies for rolling out changes and managing risks associated with deployments, making it a strong fit for the category.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses automation in the context of software development, particularly focusing on automated deployments and the importance of reducing human error. While it touches on aspects relevant to deployment strategies, such as automated deployments and the need for consistency, it does not delve deeply into specific methodologies like Blue-Green Deployments or Canary Releases. The primary focus is on the broader theme of automation rather than the specific strategies for deployment, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {

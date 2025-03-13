@@ -412,11 +412,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T15:19:02",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses automation in software development, focusing on continuous deployment, testing infrastructure, and improving engineering practices, which are central themes in software development methodologies.",
+    "calculated_at": "2025-03-13T16:25:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses automation in the software development process, highlighting its importance in automated testing, deployment, and validation. It aligns well with key topics in software development, such as CI/CD practices and addressing technical debt. The depth of discussion is significant, providing detailed examples and strategies that enhance the development lifecycle, making it a strong fit for the Software Development category.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -484,11 +487,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T15:19:47",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of automation, testing, and continuous delivery in software development, which aligns closely with the principles of delivering functional, high-quality software that meets customer needs.",
+    "calculated_at": "2025-03-13T16:27:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses automation in the development process, which is crucial for delivering working software. It highlights automated testing, deployment, and validation as essential practices that contribute to software quality and functionality. However, while it touches on the importance of quality and customer confidence, it does not explicitly focus on the delivery of functional software or provide detailed metrics for assessing software effectiveness, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Sprint Review": {

@@ -955,11 +955,14 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-12T15:11:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:25:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of feature flags as a method for validating product features through user feedback and telemetry, which aligns closely with the principles of product validation.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the use of feature flags in software development, which directly relates to validating product features through user feedback and iterative testing. It highlights the importance of gathering user insights during the development process, particularly through private and public previews, which aligns well with the core themes of product validation. The depth of discussion on feedback mechanisms and the iterative nature of feature deployment further supports its relevance to the category. However, while it touches on product validation, the primary focus is on feature flags and continuous delivery, which slightly detracts from a full alignment with the category.",
     "level": "Secondary"
   },
   "Scaling Kanban": {
@@ -973,11 +976,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-12T15:11:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:27:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses continuous delivery practices, specifically the use of feature flags to manage software releases, which aligns closely with release management strategies and processes.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the use of feature flags in the context of continuous delivery, which is a key aspect of release management. It explicitly mentions incremental delivery and the importance of feedback loops, aligning well with the core themes of release management. The depth of discussion is substantial, providing a real-world example and detailing the stages of feature deployment, which enhances its relevance to the category. However, while it focuses on continuous delivery, it does not cover broader release management strategies or risk management, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Entrepreneurship": {

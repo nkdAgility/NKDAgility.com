@@ -2,7 +2,7 @@
 title: 'Focusing Beyond "Agile": Building True Capability in Organizations'
 description: "Refocus your organisation! Discover how to build competence and value by improving hiring practices and fostering effective leadership. \U0001F331\U0001F4BC #LifelongLearning"
 date: 2024-10-11T06:45:00Z
-weight: 435
+weight: 450
 ResourceId: 4zGsmQFWFpo
 ResourceType: videos
 ResourceImport: true
@@ -33,11 +33,11 @@ tags:
 - Pragmatic Thinking
 - Sociotechnical Systems
 - Continuous Learning
-- Technical Leadership
 - Discovery and Learning
 - Scrum Master
 - Agile Leadership
 - Agile Strategy
+- Organisational Agility
 resourceTypes:
 - video
 layout: video

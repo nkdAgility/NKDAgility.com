@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Master
 - Metrics and Learning
 - People and Process
 - Software Development
@@ -38,7 +39,6 @@ tags:
 - Evidence Based Leadership
 - Agile Product Management
 - Decision Making
-- Operational Practices
 resourceTypes:
 - video
 categories:

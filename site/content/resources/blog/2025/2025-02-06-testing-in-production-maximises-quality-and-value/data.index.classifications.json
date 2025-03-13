@@ -157,12 +157,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:25:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team autonomy and empowerment in the context of audience-based deployment, but it primarily focuses on deployment strategies rather than self-organisation principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses audience-based deployment and its benefits, which indirectly touches on team autonomy and the need for a cultural shift towards continuous delivery. However, it primarily focuses on deployment strategies and technical practices rather than explicitly addressing self-organisation principles or techniques. The mention of empowering teams hints at self-organisation but lacks depth in exploring the core themes of the category.",
+    "level": "Quaternary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -979,11 +982,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:26:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of feedback loops, customer engagement, and continuous improvement, which are central to Agile philosophy, but it primarily focuses on deployment strategies and technical practices rather than the broader Agile mindset.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on technical aspects of deployment strategies and practices, such as audience-based deployment and continuous delivery, rather than discussing the foundational principles of Agile philosophy. While it touches on themes like feedback loops and customer engagement, these are presented in a technical context rather than as part of a broader Agile mindset. The discussion lacks a direct reference to the Agile Manifesto or its principles, which diminishes its alignment with the Agile Philosophy category.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -1033,12 +1039,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T08:55:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:24:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transformation of deployment strategies at Microsoft, highlighting the importance of aligning technical practices with broader organisational objectives, such as enhancing customer engagement and improving product delivery. However, the primary focus is on operational tactics rather than explicitly defining long-term strategic goals.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses operational tactics related to audience-based deployment and testing in production, with limited direct mention of strategic goals. While it touches on the importance of adapting to user needs and improving deployment processes, it lacks a clear focus on long-term objectives or the alignment of these practices with broader organisational strategies. The depth of discussion on specific techniques and practices is substantial, but it does not sufficiently connect these to strategic goals that enhance business agility or competitive advantage.",
+    "level": "Quaternary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
