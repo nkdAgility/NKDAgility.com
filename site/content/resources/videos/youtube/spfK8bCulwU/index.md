@@ -27,6 +27,7 @@ duration: 183
 isShort: false
 tags:
 - Agile Product Management
+- Products and Books
 - People and Process
 - Scrum Product Development
 - Product Owner

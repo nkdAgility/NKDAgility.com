@@ -31,6 +31,7 @@ tags:
 - People and Process
 - Agile Transformation
 - Agile Leadership
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,8 +30,10 @@ aliasesArchive:
 - /resources/blog/upgrading-to-tfs-2015-in-production-done
 tags:
 - Install and Configuration
-categories:
-- DevOps
+- System Configuration
+- Practical Techniques and Tooling
+- Software Development
+categories: []
 preview: nakedalm-experts-visual-studio-alm-22-22.png
 
 ---

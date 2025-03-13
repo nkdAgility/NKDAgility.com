@@ -30,13 +30,11 @@ tags:
 - Software Development
 - Professional Scrum
 - Agile Project Management
-- Scaling Scrum
 - Agile Frameworks
 - Software Developers
 - Agile Product Management
 - Agile Transformation
 - People and Process
-- Team Performance
 categories:
 - Scrum
 - Social Technologies

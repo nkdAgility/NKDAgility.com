@@ -7,7 +7,7 @@ ResourceImport: true
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-03-15
-weight: 630
+weight: 620
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -29,9 +29,9 @@ tags:
 - Scrum Master
 - Agile Project Management
 - Scrum Team
+- Technical Leadership
 - Agile Frameworks
 - Team Performance
-- Technical Leadership
 - Scrum Product Development
 categories:
 - Scrum

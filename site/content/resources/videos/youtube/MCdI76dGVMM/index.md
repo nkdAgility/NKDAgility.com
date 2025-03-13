@@ -31,7 +31,8 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
+tags:
+- Continuous Learning
 resourceTypes:
 - video
 categories:

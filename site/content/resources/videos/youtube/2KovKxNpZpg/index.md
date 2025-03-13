@@ -25,11 +25,11 @@ duration: 32
 isShort: true
 tags:
 - Agile Product Management
+- Agile Transformation
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
-- Agile Transformation
 - Empirical Process Control
 - Software Development
 sitemap:

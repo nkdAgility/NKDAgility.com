@@ -30,13 +30,13 @@ tags:
 - People and Process
 - Agile Leadership
 - Organisational Agility
+- Organisational Culture
 - Agile Project Management
 - Product Owner
 - Agile Product Management
 - Agile Strategy
 - Pragmatic Thinking
 - Technical Leadership
-- Azure DevOps
 resourceTypes:
 - video
 layout: video

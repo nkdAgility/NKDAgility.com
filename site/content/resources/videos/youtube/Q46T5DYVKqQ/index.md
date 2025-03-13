@@ -27,6 +27,7 @@ isShort: true
 tags:
 - Discovery and Learning
 - Metrics and Learning
+- Agile Values and Principles
 - Decision Making
 - Experimentation
 - Agile Project Management

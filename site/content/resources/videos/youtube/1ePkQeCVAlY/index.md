@@ -29,9 +29,9 @@ sitemap:
 tags:
 - Flow Efficiency
 - People and Process
+- Pragmatic Thinking
 - Lean Principles
 - Operational Practices
-- Pragmatic Thinking
 resourceTypes:
 - video
 layout: video

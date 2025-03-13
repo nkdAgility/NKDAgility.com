@@ -25,9 +25,9 @@ duration: 351
 isShort: false
 tags:
 - People and Process
-- Agile Philosophy
 - Value Delivery
 - Pragmatic Thinking
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

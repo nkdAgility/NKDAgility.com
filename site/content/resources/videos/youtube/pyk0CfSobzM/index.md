@@ -31,7 +31,6 @@ tags:
 - Agile Project Management
 - Software Development
 - Scrum Team
-- Scrum Master
 - Scrum Product Development
 - Agile Planning
 resourceTypes:

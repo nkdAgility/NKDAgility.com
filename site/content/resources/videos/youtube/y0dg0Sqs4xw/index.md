@@ -31,8 +31,8 @@ tags:
 - People and Process
 - Agile Project Management
 - Pragmatic Thinking
-- Agile Transformation
 - Empirical Process Control
+- Agile Transformation
 resourceTypes:
 - video
 categories:

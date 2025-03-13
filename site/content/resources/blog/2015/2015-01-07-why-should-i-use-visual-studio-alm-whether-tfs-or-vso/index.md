@@ -28,6 +28,11 @@ aliasesArchive:
 - /resources/blog/why-should-i-use-visual-studio-alm-whether-tfs-or-vso
 tags:
 - Application Lifecycle Management
+- Software Development
+- Products and Books
+- Pragmatic Thinking
+- Product Delivery
+- Practical Techniques and Tooling
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png

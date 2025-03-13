@@ -34,7 +34,6 @@ tags:
 - Software Developers
 - People and Process
 - Working Software
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

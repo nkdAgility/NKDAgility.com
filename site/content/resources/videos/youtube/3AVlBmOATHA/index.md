@@ -29,6 +29,7 @@ sitemap:
 tags:
 - People and Process
 - Pragmatic Thinking
+- Agile Project Management
 - Agile Strategy
 - Agile Transformation
 - Organisational Change

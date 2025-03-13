@@ -26,6 +26,12 @@ duration: 2977
 isShort: false
 tags:
 - People and Process
+- Organisational Change
+- Events and Presentations
+- Pragmatic Thinking
+- Organisational Agility
+- Agile Leadership
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

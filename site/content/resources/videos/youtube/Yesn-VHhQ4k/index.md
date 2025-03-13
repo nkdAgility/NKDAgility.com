@@ -37,7 +37,7 @@ tags:
 - Empirical Process Control
 - People and Process
 - Agile Philosophy
-- Agile Strategy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

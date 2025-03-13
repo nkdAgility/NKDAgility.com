@@ -30,12 +30,12 @@ sitemap:
 tags:
 - Agile Project Management
 - Scrum Product Development
+- Agile Planning
 - Team Performance
 - People and Process
 - Scrum Master
 - Software Development
 - Scrum Team
-- Agile Planning
 - Agile Product Management
 - Software Developers
 resourceTypes:

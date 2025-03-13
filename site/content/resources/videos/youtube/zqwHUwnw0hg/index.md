@@ -30,12 +30,12 @@ sitemap:
 tags:
 - Agile Frameworks
 - Scrum Master
+- Increment
 - Empirical Process Control
 - Professional Scrum
 - Software Development
 - People and Process
 - Scrum Team
-- Increment
 - Scrum Product Development
 - Agile Project Management
 resourceTypes:

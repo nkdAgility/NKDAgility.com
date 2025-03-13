@@ -26,9 +26,9 @@ tags:
 - Agile Transformation
 - Continuous Learning
 - Discovery and Learning
-- Agile Project Management
 - Events and Presentations
 - Organisational Agility
+- Agile Project Management
 
 ---
 Dear NKD Agilists!

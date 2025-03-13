@@ -29,6 +29,7 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
+- Professional Scrum
 - Agile Product Management
 - Evidence Based Management
 - Scrum Product Development
@@ -37,7 +38,6 @@ tags:
 - Software Development
 - Agile Product Operating Model
 - Agile Project Management
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

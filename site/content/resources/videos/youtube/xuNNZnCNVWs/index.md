@@ -29,6 +29,7 @@ duration: 45
 isShort: true
 tags:
 - Agile Transformation
+- Agile Frameworks
 - Scrum Team
 - People and Process
 - Agile Project Management

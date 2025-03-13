@@ -31,7 +31,6 @@ tags:
 - Organisational Agility
 - Agile Strategy
 - Business Agility
-- Pragmatic Thinking
 - People and Process
 - Enterprise Agility
 - Organisational Culture

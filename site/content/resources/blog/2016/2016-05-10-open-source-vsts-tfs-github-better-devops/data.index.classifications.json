@@ -1006,11 +1006,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-14T21:03:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T17:01:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of VSTS (now Azure DevOps) for automating builds and synchronising code with GitHub, which aligns closely with Azure Pipelines and CI/CD practices.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the integration and synchronisation of code between VSTS (now Azure DevOps) and GitHub, which directly relates to Azure Pipelines. It provides detailed instructions on setting up automated builds in VSTS, which is a key aspect of Azure Pipelines. The mention of continuous integration (CI) and the configuration of build definitions aligns well with the core themes of Azure Pipelines. However, while the content is focused on the automation aspect, it does not delve deeply into broader CI/CD practices or deployment strategies, which slightly lowers the depth score. Overall, the content is highly relevant to Azure Pipelines, but it could benefit from more detailed exploration of pipeline management and deployment strategies.",
     "level": "Secondary"
   },
   "Deployment Frequency": {

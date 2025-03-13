@@ -34,13 +34,13 @@ tags:
 - Agile Project Management
 - People and Process
 - Professional Scrum
+- Team Collaboration
 - Agile Frameworks
 - Agile Product Management
 - Value Delivery
 - Events and Presentations
 - Organisational Agility
 - Coaching
-- Agile Transformation
 resourceTypes:
 - video
 categories:

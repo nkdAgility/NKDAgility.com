@@ -44,10 +44,10 @@ tags:
 - Professional Scrum
 - Product Delivery
 - Accountability
-- Strategy
 - Product Backlog
 - People and Process
 - Value Delivery
+- Strategy
 - Agile Planning
 categories:
 - Scrum

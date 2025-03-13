@@ -29,6 +29,7 @@ sitemap:
 tags:
 - Product Owner
 - Product Backlog
+- Agile Project Management
 - Software Development
 - Agile Product Management
 - Professional Scrum
@@ -36,7 +37,6 @@ tags:
 - People and Process
 - Strategy
 - Scrum Product Development
-- Scrum Team
 resourceTypes:
 - video
 layout: video

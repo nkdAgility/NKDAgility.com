@@ -28,6 +28,15 @@ aliasesArchive:
 - /resources/blog/organisational-change-create-path
 tags:
 - Organisational Change
+- Business Agility
+- Enterprise Agility
+- Resilience and Change
+- People and Process
+- Change Management
+- Organisational Agility
+- Pragmatic Thinking
+- Large Scale Agility
+- Market Adaptability
 categories:
 - Scrum
 - Leadership

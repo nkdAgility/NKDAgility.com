@@ -28,9 +28,9 @@ tags:
 - Pragmatic Thinking
 - Organisational Change
 - People and Process
-- Change Management
 - Organisational Agility
 - Sociotechnical Systems
+- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -23,11 +23,16 @@ aliasesArchive:
 - /the-fallacy-of-the-rejected-backlog-item
 - /resources/blog/the-fallacy-of-the-rejected-backlog-item
 tags:
+- Agile Project Management
 - Scrum Product Development
 - Software Development
-- Agile Project Management
 - Professional Scrum
 - Empirical Process Control
+- Working Software
+- Product Delivery
+- Agile Product Management
+- Scrum Team
+- Transparency and Accountability
 categories:
 - Scrum
 - Social Technologies

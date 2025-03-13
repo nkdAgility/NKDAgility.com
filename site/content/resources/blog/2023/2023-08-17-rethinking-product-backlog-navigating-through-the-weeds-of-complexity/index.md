@@ -30,6 +30,7 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - People and Process
+- Product Backlog
 - Complexity Thinking
 - Organisational Agility
 - Pragmatic Thinking
@@ -37,7 +38,6 @@ tags:
 - Agile Project Management
 - Agile Product Operating Model
 - Agile Strategy
-- Product Backlog
 categories:
 - Product Management
 - Social Technologies

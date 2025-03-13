@@ -29,8 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - Mentoring
-- Coaching
 - Continuous Learning
+- Coaching
 - People and Process
 resourceTypes:
 - video

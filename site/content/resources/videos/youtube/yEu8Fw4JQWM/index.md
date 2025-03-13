@@ -32,9 +32,9 @@ tags:
 - Agile Project Management
 - Throughput
 - Pragmatic Thinking
-- Agile Transformation
 - Operational Practices
 - Agile Frameworks
+- Agile Transformation
 - Lean Thinking
 resourceTypes:
 - video

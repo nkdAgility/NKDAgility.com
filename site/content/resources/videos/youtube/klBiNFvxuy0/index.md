@@ -32,10 +32,10 @@ tags:
 - People and Process
 - Professional Scrum
 - Agile Frameworks
-- Scrum Master
 - Agile Transformation
 - Scrum Product Development
 - Discovery and Learning
+- Scrum Master
 resourceTypes:
 - video
 categories:

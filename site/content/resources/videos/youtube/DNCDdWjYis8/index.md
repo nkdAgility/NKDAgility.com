@@ -40,6 +40,7 @@ tags:
 - Self Organisation
 - Scrum Master
 - People and Process
+- Agile Transformation
 - Technical Leadership
 - Agile Project Management
 - Team Performance

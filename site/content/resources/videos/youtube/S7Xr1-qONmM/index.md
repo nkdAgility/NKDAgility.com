@@ -32,9 +32,9 @@ tags:
 - People and Process
 - Scrum Product Development
 - Agile Project Management
-- Product Owner
 - Pragmatic Thinking
 - Agile Product Management
+- Product Owner
 - Product Delivery
 - Agile Frameworks
 - Value Delivery

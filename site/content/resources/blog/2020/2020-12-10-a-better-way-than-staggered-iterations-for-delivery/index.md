@@ -33,7 +33,7 @@ tags:
 - Organisational Agility
 - Increment
 - Test First Development
-- Business Agility
+- Cycle Time
 categories:
 - Scrum
 preview: staggered-iterations-for-delivery1-2-2.png

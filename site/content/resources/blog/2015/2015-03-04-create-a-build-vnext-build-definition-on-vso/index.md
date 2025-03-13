@@ -30,6 +30,13 @@ tags:
 - Software Development
 - Install and Configuration
 - Azure Pipelines
+- Practical Techniques and Tooling
+- Azure DevOps
+- Internal Developer Platform
+- Modern Source Control
+- Release Management
+- System Configuration
+- Software Developers
 categories:
 - DevOps
 - Engineering Excellence

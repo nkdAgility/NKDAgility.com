@@ -32,9 +32,9 @@ tags:
 - Agile Frameworks
 - Software Development
 - Agile Project Management
-- Empirical Process Control
 - Scrum Product Development
 - Sprint Review
+- Empirical Process Control
 - Agile Philosophy
 - Agile Transformation
 - Agile Product Management

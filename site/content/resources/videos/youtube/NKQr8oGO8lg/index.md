@@ -26,6 +26,7 @@ duration: 153
 isShort: false
 tags:
 - Continuous Learning
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

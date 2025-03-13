@@ -34,6 +34,7 @@ tags:
 - Agile Project Management
 - Professional Scrum
 - People and Process
+- Scrum Team
 resourceTypes:
 - video
 layout: video

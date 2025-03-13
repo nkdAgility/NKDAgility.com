@@ -31,13 +31,13 @@ tags:
 - Transparency
 - Software Development
 - Pragmatic Thinking
+- Agile Project Management
 - People and Process
 - Software Developers
 - Agile Frameworks
 - Scrum Product Development
 - Scrum Team
 - Scrum Master
-- Team Performance
 resourceTypes:
 - video
 layout: video

@@ -26,6 +26,7 @@ aliasesArchive:
 tags:
 - Agile Product Management
 - Working Software
+- Software Development
 - Product Delivery
 - Value Delivery
 - Increment
@@ -33,7 +34,6 @@ tags:
 - Agile Product Operating Model
 - Agile Strategy
 - Software Developers
-- Software Development
 categories:
 - Social Technologies
 - Engineering Excellence

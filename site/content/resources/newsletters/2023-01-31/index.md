@@ -23,8 +23,8 @@ categories:
 - Social Technologies
 - Scrum
 tags:
-- Product Owner
 - Agile Product Management
+- Product Owner
 
 ---
 Over the past few months, we’ve seen mass layoffs from tech giants around the world. From Amazon to Meta, and heaps of smaller organizations across the board.

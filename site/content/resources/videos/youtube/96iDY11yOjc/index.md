@@ -33,6 +33,7 @@ tags:
 - Discovery and Learning
 - People and Process
 - Software Developers
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

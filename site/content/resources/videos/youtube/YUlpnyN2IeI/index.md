@@ -37,7 +37,6 @@ tags:
 - Software Development
 - Agile Frameworks
 - Agile Transformation
-- Scrum Master
 - Agile Philosophy
 - Empirical Process Control
 resourceTypes:

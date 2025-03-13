@@ -26,9 +26,9 @@ aliasesArchive:
 tags:
 - Software Development
 - People and Process
-- Agile Transformation
 - Agile Values and Principles
 - Agile Philosophy
+- Agile Transformation
 - Agile Project Management
 - Software Developers
 categories:

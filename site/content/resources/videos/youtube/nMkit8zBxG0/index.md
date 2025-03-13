@@ -29,9 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
-- Scrum Product Development
 - Agile Planning
 - Agile Project Management
+- Scrum Product Development
 - Professional Scrum
 - Agile Frameworks
 - Agile Product Management

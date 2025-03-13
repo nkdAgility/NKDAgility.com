@@ -27,10 +27,10 @@ tags:
 - Scrum Product Development
 - Agile Frameworks
 - Agile Project Management
-- Agile Transformation
 - Events and Presentations
 - People and Process
 - Transparency and Accountability
+- Empirical Process Control
 
 ---
 Learning about scrum is important, but growing your capability to deploy and implement scrum effectively is way more important.

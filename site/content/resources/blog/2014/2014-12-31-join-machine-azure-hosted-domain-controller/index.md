@@ -31,7 +31,6 @@ tags:
 - System Configuration
 - Windows
 - Practical Techniques and Tooling
-- Troubleshooting
 categories: []
 preview: nakedalm-windows-logo-6-6.png
 

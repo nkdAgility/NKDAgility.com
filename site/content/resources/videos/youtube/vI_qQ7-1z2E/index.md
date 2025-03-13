@@ -40,6 +40,7 @@ tags:
 - Pragmatic Thinking
 - Continuous Learning
 - Practical Techniques and Tooling
+- Scrum Team
 resourceTypes:
 - video
 categories:

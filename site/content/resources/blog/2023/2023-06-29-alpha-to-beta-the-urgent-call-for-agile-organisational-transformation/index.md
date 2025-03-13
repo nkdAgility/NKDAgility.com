@@ -36,8 +36,8 @@ tags:
 - Enterprise Agility
 - Digital Transformation
 - Market Adaptability
+- Organisational Culture
 - Organisational Physics
-- Sociotechnical Systems
 categories:
 - Social Technologies
 - Leadership

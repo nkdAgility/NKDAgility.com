@@ -30,9 +30,6 @@ tags:
 - Remote Working
 - Resilience and Change
 - People and Process
-- Pragmatic Thinking
-- Sociotechnical Systems
-- Personal
 categories:
 - Scrum
 - Social Technologies

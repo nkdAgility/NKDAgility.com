@@ -38,9 +38,9 @@ tags:
 - Scrum Team
 - Agile Project Management
 - Agile Transformation
-- Change Management
 - Scrum Product Development
 - Pragmatic Thinking
+- Change Management
 resourceTypes:
 - video
 categories:
