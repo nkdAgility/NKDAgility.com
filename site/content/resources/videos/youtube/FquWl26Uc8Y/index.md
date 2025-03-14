@@ -29,9 +29,6 @@ isShort: true
 tags:
 - Technical Debt
 - Technical Mastery
-- Code and Complexity
-- Pragmatic Thinking
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -22,13 +22,8 @@ card:
     content: Learn More
   content: Discover more about Product Backlog and how it can help you in your Agile journey!
   title: Product Backlog
-categories:
-- Scrum
-tags:
-- Agile Project Management
-- Professional Scrum
-- Scrum Product Development
-- Product Backlog
+categories: []
+tags: []
 
 ---
 ## What is a Product Backlog?

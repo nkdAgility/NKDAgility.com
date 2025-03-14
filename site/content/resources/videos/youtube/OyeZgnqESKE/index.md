@@ -32,10 +32,6 @@ sitemap:
 tags:
 - Discovery and Learning
 - Team Motivation
-- Coaching
-- Continuous Learning
-- People and Process
-- Personal
 resourceTypes:
 - video
 categories:

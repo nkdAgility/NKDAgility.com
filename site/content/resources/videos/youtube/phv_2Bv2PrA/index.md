@@ -26,6 +26,8 @@ duration: 1755
 isShort: false
 tags:
 - Software Development
+- Agile Frameworks
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

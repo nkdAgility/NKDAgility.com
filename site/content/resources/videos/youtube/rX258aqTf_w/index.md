@@ -35,9 +35,6 @@ tags:
 - Technical Leadership
 - Agile Leadership
 - Pragmatic Thinking
-- Software Development
-- Organisational Agility
-- Organisational Change
 resourceTypes:
 - video
 categories:

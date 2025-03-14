@@ -40,7 +40,6 @@ tags:
 - Agile Project Management
 - Enterprise Agility
 - Agile Strategy
-- Software Development
 resourceTypes:
 - video
 categories:

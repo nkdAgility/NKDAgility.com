@@ -28,11 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
 - Organisational Agility
 - Agile Leadership
 - Business Agility
 - Agile Values and Principles
-- People and Process
 - Empirical Process Control
 - Evidence Based Leadership
 - Metrics and Learning

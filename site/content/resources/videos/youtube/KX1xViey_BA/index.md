@@ -30,11 +30,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Sociotechnical Systems
-- Organisational Physics
-- Systems Thinking
+tags: []
 resourceTypes:
 - video
 categories: []

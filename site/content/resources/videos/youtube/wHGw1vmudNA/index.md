@@ -32,9 +32,9 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Leadership
+- Agile Philosophy
 - Technical Leadership
 - People and Process
-- Organisational Culture
 resourceTypes:
 - video
 categories:

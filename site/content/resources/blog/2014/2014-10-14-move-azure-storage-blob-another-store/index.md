@@ -29,9 +29,6 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- Software Development
-- System Configuration
-- Pragmatic Thinking
 categories: []
 preview: nakedalm-windows-logo-4-4.png
 

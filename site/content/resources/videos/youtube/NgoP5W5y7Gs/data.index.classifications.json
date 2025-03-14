@@ -373,12 +373,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:20:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses security practices in software development and mentions Azure DevOps in the context of security validation and tools, but it primarily focuses on security principles rather than Azure Pipelines specifically.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the concept of 'shifting left' in software development, which is relevant to quality assurance and continuous delivery practices. However, while it mentions Azure DevOps as a case study, it does not focus specifically on Azure Pipelines or provide detailed insights into pipeline configuration, management, or CI/CD practices within Azure. The primary focus is on general software engineering principles rather than the specific automation processes of Azure Pipelines.",
+    "level": "Quaternary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -976,12 +979,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of security practices within the software development lifecycle, mentioning tools like GitHub and Azure DevOps that relate to source control. However, the primary focus is on security practices rather than version control methodologies or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:20:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of 'shifting left' in software development, focusing on quality and security practices. While it touches on modern engineering practices, it does not explicitly address version control systems, branching strategies, or collaboration workflows, which are central to the 'Modern Source Control' category. The mention of tools like Test-Driven Development (TDD) and Continuous Delivery practices aligns somewhat with the category, but the primary focus is on broader software engineering principles rather than specific source control methodologies.",
+    "level": "Quaternary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1087,12 +1093,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:46:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of integrating security into the software development process, which relates to code quality and complexity management. However, the primary focus is on security practices rather than a deep exploration of code complexity or architectural decisions.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the 'shift left' principle in software engineering, which relates to building quality and security into the development process. It mentions practices like Test-Driven Development (TDD) and pair programming, which align with code quality principles. However, while it touches on complexity in terms of managing technical debt and improving processes, the primary focus is on quality assurance rather than a deep exploration of code complexity or architectural decisions. Thus, while relevant, it does not fully meet the criteria for a strong alignment with the 'Code and Complexity' category.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1234,11 +1243,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:57:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools like SonarQube and GitHub in the context of security practices, which aligns with the category, but the primary focus is on security practices rather than specific products or literature.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of 'shifting left' in software development, which is relevant to Agile and DevOps practices. However, it primarily focuses on the methodology and practices rather than specific products or books. While it mentions tools and techniques, it lacks detailed reviews or analyses of specific literature or software products, which diminishes its alignment with the 'Products and Books' category.",
     "level": "Tertiary"
   },
   "Business Agility": {
@@ -1312,12 +1324,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:01:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:28:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of security practices within software development teams and the organisational responsibility for security, indicating a relationship between social and technical aspects. However, the primary focus is on security practices and tools rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the 'shift left' approach in software engineering, which touches on team dynamics and the integration of various roles within a team. However, it primarily focuses on technical practices and tools without a strong emphasis on the organisational context or the interplay between social and technical systems. While there are mentions of team empowerment and collaboration, the overall discussion lacks depth in exploring how these practices influence organisational culture or project outcomes.",
+    "level": "Quaternary"
   },
   "News and Reviews": {
     "category": "News and Reviews",

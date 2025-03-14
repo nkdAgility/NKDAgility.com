@@ -31,6 +31,14 @@ sitemap:
   priority: 0.6
 tags:
 - Throughput
+- Agile Project Management
+- Pragmatic Thinking
+- Software Development
+- Flow Efficiency
+- Agile Philosophy
+- Metrics and Learning
+- Software Developers
+- Cycle Time
 resourceTypes:
 - video
 categories:

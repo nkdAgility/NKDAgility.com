@@ -32,8 +32,6 @@ sitemap:
 tags:
 - People and Process
 - Software Development
-- Pragmatic Thinking
-- Value Delivery
 resourceTypes:
 - video
 categories:

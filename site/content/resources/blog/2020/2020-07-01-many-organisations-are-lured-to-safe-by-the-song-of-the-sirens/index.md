@@ -28,7 +28,6 @@ tags:
 - Agile Frameworks
 - Large Scale Agility
 - Business Agility
-- Organisational Culture
 - Organisational Agility
 - Agile Philosophy
 - Organisational Change

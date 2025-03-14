@@ -244,12 +244,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T13:15:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the application of a Kanban strategy and the importance of metrics in driving team behaviour, which aligns with strategic discussions in Agile environments. However, it primarily focuses on practical implementation rather than a comprehensive strategic framework.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:05:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Kanban as a strategy for improving workflow and productivity, which aligns with the Strategy category's focus on optimising delivery processes. It mentions metrics and continuous improvement, both of which are key topics in the Strategy category. However, while it provides a good level of detail on implementing Kanban, it does not delve deeply into strategic alignment with organisational goals or leadership roles, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -301,12 +304,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T13:15:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban, which is a Lean tool, and touches on metrics and workflow optimisation, but it primarily focuses on the implementation of Kanban rather than Lean principles as a whole.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:35:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on Kanban, which is a Lean tool, and discusses its principles such as continuous improvement and workflow optimisation. It explicitly mentions metrics and fostering a culture of continuous improvement, aligning well with Lean Thinking concepts. However, it does not delve deeply into broader Lean principles or waste identification, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1219,11 +1225,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T13:15:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:28:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools like JIRA and Azure DevOps, which are relevant to Agile practices, but the primary focus is on implementing Kanban strategies rather than reviewing or analysing specific products or literature.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the implementation of Kanban as a methodology rather than discussing specific products or books. While it mentions tools like JIRA and Azure DevOps, it does not provide in-depth reviews or analyses of these tools or any literature related to Agile or DevOps. The discussion is more about the process and benefits of Kanban rather than evaluating resources that support Agile practices.",
     "level": "Tertiary"
   },
   "Business Agility": {

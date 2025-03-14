@@ -27,11 +27,6 @@ isShort: false
 tags:
 - Product Owner
 - Agile Product Management
-- Agile Project Management
-- People and Process
-- Product Delivery
-- Accountability
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

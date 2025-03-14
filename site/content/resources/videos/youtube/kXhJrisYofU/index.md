@@ -30,10 +30,10 @@ tags:
 - Value Delivery
 - Organisational Agility
 - Market Adaptability
+- Agile Strategy
 - Agile Product Operating Model
 - Agile Project Management
 - Enterprise Agility
-- Agile Values and Principles
 - Change Management
 sitemap:
   filename: sitemap.xml

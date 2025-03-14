@@ -27,14 +27,11 @@ aliasesArchive:
 - /blog/could-not-find-mappings-for-all-states-defined-in-'test-suit'-work-item-type
 - /resources/blog/find-mappings-states-defined-test-suit-work-item-type
 tags:
+- Troubleshooting
 - Install and Configuration
 - System Configuration
 - Software Development
-- Troubleshooting
 - Practical Techniques and Tooling
-- Azure DevOps
-- Pragmatic Thinking
-- Technical Excellence
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

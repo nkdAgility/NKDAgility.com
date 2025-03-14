@@ -28,9 +28,6 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
-- People and Process
-- Agile Project Management
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

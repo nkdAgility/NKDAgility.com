@@ -26,6 +26,7 @@ duration: 239
 isShort: false
 tags:
 - People and Process
+- Agile Project Management
 - Product Delivery
 - Continuous Delivery
 - Scrum Product Development
@@ -34,7 +35,6 @@ tags:
 - Agile Product Management
 - Organisational Agility
 - Scrum Master
-- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

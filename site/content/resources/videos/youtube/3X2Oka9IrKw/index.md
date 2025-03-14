@@ -30,15 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Philosophy
-- Agile Strategy
-- Organisational Agility
-- Pragmatic Thinking
-- Business Agility
-- Agile Values and Principles
-- Resilience and Change
-- Market Adaptability
-- Agile Transformation
 resourceTypes:
 - video
 layout: video

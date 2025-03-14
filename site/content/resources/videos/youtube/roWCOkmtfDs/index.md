@@ -31,6 +31,14 @@ sitemap:
 tags:
 - Hypothesis Driven Development
 - Product Validation
+- Decision Making
+- Evidence Based Leadership
+- Value Delivery
+- Metrics and Learning
+- Discovery and Learning
+- Experimentation
+- Lean Startup
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

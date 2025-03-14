@@ -25,11 +25,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Miscellaneous
-- People and Process
-- Agile Leadership
-- Product Delivery
+tags: []
 resourceTypes:
 - video
 layout: video

@@ -25,12 +25,6 @@ duration: 372
 isShort: false
 tags:
 - Software Development
-- Discovery and Learning
-- People and Process
-- Products and Books
-- Agile Project Management
-- Professional Scrum
-- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

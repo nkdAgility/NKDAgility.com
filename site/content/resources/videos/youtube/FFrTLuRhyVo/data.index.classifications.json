@@ -10,12 +10,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:01:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:20:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering high-quality products and the implications of technical debt, which relates to strategic alignment and value delivery in Agile environments. However, it does not delve deeply into strategic frameworks or specific Agile strategies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implications of technical debt and its impact on team performance and product quality, which aligns with strategic discussions in Agile environments. It emphasises the importance of maintaining a high-quality product and fostering a culture of quality, which are key elements in strategic planning and execution. The depth of the discussion is substantial, providing actionable steps for managing technical debt and enhancing delivery processes, thus supporting the strategic alignment of teams with organisational goals.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -337,12 +340,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:01:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:20:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering a high-quality product on a regular cadence, which relates to deployment frequency as a secondary theme, but it primarily focuses on the concept of technical debt and its impact on value delivery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the impact of technical debt on delivery speed and the importance of maintaining a high-quality product, which indirectly relates to deployment frequency. However, it does not explicitly focus on deployment intervals or strategies to optimise them, making it a secondary topic rather than a primary focus.",
+    "level": "Quaternary"
   },
   "MVP": {
     "category": "MVP",
@@ -469,12 +475,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T12:01:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:57:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering value and maintaining a high-quality product, which aligns with Agile principles, but it primarily focuses on technical debt rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of delivering high-quality products and managing technical debt, which aligns with Agile principles of value delivery and continuous improvement. However, it primarily focuses on technical debt rather than explicitly addressing Agile philosophy or its foundational principles. The mention of agility and value delivery indicates some alignment, but the depth of discussion on Agile concepts is limited.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1090,12 +1099,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:01:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:46:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses technical debt, which relates to code quality and its impact on delivering value, but it primarily focuses on the broader implications rather than the complexities of software development processes.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses technical debt extensively, highlighting its impact on software quality and the development process. It aligns well with the category by addressing the relationship between technical debt and code quality, as well as strategies for managing it, such as prioritising refactoring and fostering a culture of quality. However, while it touches on complexity, it does not delve deeply into complexity theory or its application in software architecture, which slightly limits its alignment and depth. Overall, the primary focus on technical debt and its implications for code quality justifies a relatively high confidence score.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1183,12 +1195,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:01:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering high-quality products regularly, which aligns with the principles of business agility, but it primarily focuses on technical debt and its implications rather than a comprehensive exploration of business agility itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:28:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of maintaining a high-quality product and how it enhances agility and value delivery, which aligns with the principles of business agility. However, the primary focus is on technical debt rather than a comprehensive exploration of business agility principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",

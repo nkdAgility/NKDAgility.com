@@ -28,8 +28,8 @@ isShort: false
 tags:
 - Agile Planning
 - Agile Project Management
-- People and Process
 - Pragmatic Thinking
+- People and Process
 - Strategy
 - Agile Planning Tools
 - Agile Product Management

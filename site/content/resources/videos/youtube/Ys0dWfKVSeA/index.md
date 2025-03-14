@@ -34,14 +34,14 @@ sitemap:
 tags:
 - People and Process
 - Agile Frameworks
+- Software Development
 - Team Collaboration
+- Empirical Process Control
+- Software Developers
 - Agile Project Management
 - Agile Transformation
-- Software Development
 - Agile Product Management
-- Empirical Process Control
 - Pragmatic Thinking
-- Organisational Agility
 resourceTypes:
 - video
 categories:

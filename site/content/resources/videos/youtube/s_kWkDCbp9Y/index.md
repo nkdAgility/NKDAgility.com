@@ -30,11 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Agile Leadership
-- Coaching
-- Organisational Agility
-- Pragmatic Thinking
-- Agile Project Management
 resourceTypes:
 - video
 categories:

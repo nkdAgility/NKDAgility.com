@@ -14,10 +14,7 @@ layout: podcast
 slug: continuous-delivery
 aliases:
 - /resources/pGqagcI_q5y
-tags:
-- People and Process
-- Transparency and Accountability
-- News and Reviews
+tags: []
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

@@ -23,9 +23,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/Jkw4sMe6h-w/maxresdefault.jpg
 duration: 243
 isShort: false
-tags:
-- People and Process
-- Agile Project Management
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4

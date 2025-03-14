@@ -24,6 +24,11 @@ aliasesArchive:
 - /resources/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent
 tags:
 - Windows
+- Troubleshooting
+- Install and Configuration
+- Software Development
+- System Configuration
+- Practical Techniques and Tooling
 categories:
 - DevOps
 

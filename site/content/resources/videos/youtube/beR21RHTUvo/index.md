@@ -29,14 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Philosophy
 - People and Process
 - Agile Product Management
-- Software Development
-- Estimation
-- Agile Project Management
-- Software Developers
-- Pragmatic Thinking
-- Product Delivery
 resourceTypes:
 - video
 categories:

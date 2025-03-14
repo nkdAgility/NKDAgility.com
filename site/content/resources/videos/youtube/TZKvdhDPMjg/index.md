@@ -33,10 +33,8 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
-- Agile Transformation
 - People and Process
-- Coaching
-- Agile Leadership
+- Agile Transformation
 resourceTypes:
 - video
 categories:

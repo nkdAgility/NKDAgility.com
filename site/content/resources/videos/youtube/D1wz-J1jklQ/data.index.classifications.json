@@ -121,11 +121,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T15:23:03",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-03-13T14:45:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
     "final_score": 78.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to frequent deployments, technical debt, and the importance of breaking down work into smaller, manageable chunks. It emphasises real-world applications of Agile principles, particularly in the context of continuous delivery and customer feedback, aligning well with the category of Pragmatic Thinking.",
+    "reasoning": "The content discusses practical strategies for improving code quality through frequent deployments, which aligns well with the core themes of Pragmatic Thinking. It emphasises real-world applications of Agile principles, such as iterative development and hypothesis-driven engineering, showcasing how these practices can enhance collaboration and efficiency. The depth of discussion is significant, providing specific examples and actionable steps, which further supports its alignment with pragmatic approaches. Overall, the content is focused on practical problem-solving in a complex environment, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -139,11 +142,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-12T15:23:09",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments and breaking down work into smaller increments, which aligns closely with the concept of delivering valuable software increments in Agile frameworks.",
+    "calculated_at": "2025-03-13T14:55:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the importance of frequent deployments and how they relate to delivering smaller, manageable increments of work. It highlights the benefits of iterative development, user feedback, and maintaining code quality, which aligns well with the Increment category. However, while it touches on key themes, it does not delve deeply into the specific Agile frameworks or the formal definition of an Increment, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -274,11 +280,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T15:23:43",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments and how they relate to reducing technical debt, maintaining production readiness, and improving code quality, which are all central themes of Continuous Delivery.",
+    "calculated_at": "2025-03-13T15:19:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of frequent deployments, which aligns closely with Continuous Delivery principles. It highlights the benefits of smaller, manageable changes, the need for regular feedback, and the reduction of technical debt, all of which are core themes in Continuous Delivery. The depth of discussion is substantial, providing practical steps for improvement and emphasising the iterative nature of development. However, while it strongly aligns with Continuous Delivery, it does not explicitly mention the term 'Continuous Delivery' or delve into specific methodologies or practices outlined by experts in the field, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -310,20 +319,26 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-12T15:23:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:19:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments, which aligns closely with Continuous Integration principles. It highlights the importance of smaller batch sizes, maintainable code, and the relationship between deployment frequency and technical debt, all of which are central to CI practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of frequent deployments, which is a key aspect of Continuous Integration. It highlights the benefits of smaller, manageable changes and the need for regular feedback, aligning with CI principles. However, it lacks explicit mention of CI tools, automated testing, or detailed strategies for managing code merges, which are crucial for a higher confidence score in this category.",
     "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-12T15:23:52",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-13T16:25:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and breaking down work into smaller chunks, which aligns with Lean principles of waste reduction and value maximisation. However, it primarily focuses on technical debt and deployment practices, making Lean a secondary theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the benefits of frequent deployments, which aligns with Lean principles of iterative learning and continuous improvement. It highlights waste reduction through smaller batch sizes and the importance of feedback, which are core concepts in Lean thinking. However, while it touches on these principles, it primarily focuses on deployment practices rather than a comprehensive exploration of Lean itself, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -382,11 +397,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T15:24:08",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments and how they relate to technical debt, maintainability, and the role of developers in delivering quality software. It aligns well with Agile and DevOps principles, focusing on practices that enhance developer productivity and collaboration.",
+    "calculated_at": "2025-03-13T16:27:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the impact of frequent deployments on code quality, which aligns closely with Agile principles of iterative development and continuous feedback. It explicitly mentions concepts such as technical debt, maintainability, and user feedback, all of which are relevant to software developers' practices in Agile and DevOps contexts. The depth of discussion is substantial, providing practical steps for improvement and emphasising the importance of smaller batch sizes and increased deployment frequency. Overall, the content is highly relevant to the role of software developers, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Scaled Agile": {

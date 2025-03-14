@@ -31,15 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Leadership
+- Organisational Culture
+- Decision Making
 - Agile Product Management
 - Value Delivery
 - Transparency and Accountability
 - Agile Values and Principles
 - Strategy
 - Sociotechnical Systems
-- Agile Leadership
-- Agile Planning
-- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

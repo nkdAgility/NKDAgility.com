@@ -34,14 +34,12 @@ sitemap:
 tags:
 - Agile Values and Principles
 - Agile Frameworks
-- Agile Philosophy
 - Agile Project Management
 - Agile Transformation
 - People and Process
 - Agile Product Management
 - Software Development
-- Personal
-- Scrum Master
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

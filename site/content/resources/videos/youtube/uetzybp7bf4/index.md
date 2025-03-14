@@ -28,12 +28,12 @@ tags:
 - People and Process
 - Transparency and Accountability
 - Value Delivery
+- Accountability
 - Decision Making
 - Change Management
 - Continuous Learning
 - Organisational Culture
 - Team Motivation
-- Team Performance
 - Agile Leadership
 sitemap:
   filename: sitemap.xml

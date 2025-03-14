@@ -25,6 +25,15 @@ duration: 466
 isShort: false
 tags:
 - Scrum Master
+- Scrum Team
+- Software Development
+- People and Process
+- Team Performance
+- Agile Project Management
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Product Development
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

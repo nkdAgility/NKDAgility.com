@@ -28,15 +28,8 @@ aliasesArchive:
 - /resources/blog/create-log-entries-release-management
 tags:
 - Windows
-- System Configuration
 - Troubleshooting
 - Practical Techniques and Tooling
-- Software Development
-- Azure Pipelines
-- Release Management
-- Azure DevOps
-- Pragmatic Thinking
-- Application Lifecycle Management
 categories:
 - DevOps
 - Engineering Excellence

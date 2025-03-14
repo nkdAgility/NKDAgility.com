@@ -310,20 +310,26 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T19:04:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:15:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Kanban as an agile methodology, its application in monitoring workflows, and its relevance to Scrum, indicating a strong focus on agile project management principles.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on Kanban, a key framework within Agile Project Management, discussing its application, benefits, and strategies for optimising workflows. It directly mentions stakeholder engagement and the importance of data analysis for continuous improvement, which aligns well with agile principles. However, while it provides substantial insights into Kanban, it lacks a broader discussion on other agile methodologies and principles, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T19:04:20",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:37:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses Kanban, which is a Lean tool, and its application in optimising workflows and improving efficiency. However, it also delves into broader topics related to DevOps and Agile methodologies, making Lean Thinking a major but secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Kanban extensively, which is a Lean tool, and highlights its role in optimising workflows and enhancing efficiency. It aligns well with Lean principles, particularly in terms of flow and continuous improvement. However, the primary focus is on Kanban and its application rather than a broader discussion of Lean Thinking principles, which slightly limits the depth of Lean-specific content.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -364,12 +370,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T19:04:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban and its application in monitoring workflows and optimising processes, which relates to organisational agility. However, it primarily focuses on team-level practices and does not extensively address broader organisational implications or strategies for enterprise agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:45:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow optimisation tool, discussing its application and benefits at the team level rather than addressing broader organisational agility. While it touches on concepts like data-driven insights and stakeholder engagement, it lacks a direct focus on enterprise-level agility frameworks, structures, or cultural implications. The discussion is more about improving team processes than fostering an organisational culture of adaptability and collaboration.",
+    "level": "Quaternary"
   },
   "Kanban": {
     "category": "Kanban",

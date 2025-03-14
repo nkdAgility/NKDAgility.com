@@ -29,16 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Strategy
 - Agile Product Management
 - Product Owner
-- Organisational Agility
-- Resilience and Change
-- Agile Leadership
-- Pragmatic Thinking
-- Sensemaking
-- Organisational Change
-- Product Strategy
-- Decision Making
+- Agile Philosophy
 resourceTypes:
 - video
 layout: video

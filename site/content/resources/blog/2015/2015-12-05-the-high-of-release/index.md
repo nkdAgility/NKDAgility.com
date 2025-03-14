@@ -31,8 +31,8 @@ tags:
 - Software Development
 - Azure DevOps
 - Frequent Releases
-- Operational Practices
 - Technical Mastery
+- Software Developers
 categories:
 - DevOps
 - Engineering Excellence

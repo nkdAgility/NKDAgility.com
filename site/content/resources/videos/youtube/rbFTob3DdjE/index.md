@@ -25,14 +25,10 @@ preview: https://i.ytimg.com/vi/rbFTob3DdjE/maxresdefault.jpg
 duration: 39
 isShort: true
 tags:
+- Practical Techniques and Tooling
 - Team Collaboration
 - Scrum Master
-- Collaboration Tools
-- Agile Planning Tools
-- People and Process
-- Agile Planning
-- Agile Project Management
-- Team Performance
+- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6

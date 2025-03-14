@@ -36,7 +36,6 @@ tags:
 - Troubleshooting
 - Azure DevOps
 - News and Reviews
-- Install and Configuration
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-3-3.png

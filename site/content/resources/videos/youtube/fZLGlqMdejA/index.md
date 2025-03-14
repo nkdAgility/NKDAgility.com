@@ -35,12 +35,12 @@ tags:
 - Flow Efficiency
 - People and Process
 - Agile Product Management
+- Agile Leadership
 - Organisational Agility
 - Agile Product Operating Model
 - Agile Values and Principles
 - Agile Frameworks
 - Agile Philosophy
-- Agile Project Management
 resourceTypes:
 - video
 categories:

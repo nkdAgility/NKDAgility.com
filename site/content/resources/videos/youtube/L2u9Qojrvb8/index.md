@@ -30,8 +30,6 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
-- People and Process
-- Organisational Agility
 resourceTypes:
 - video
 categories:

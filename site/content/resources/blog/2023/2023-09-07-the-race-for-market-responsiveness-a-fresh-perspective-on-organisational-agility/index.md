@@ -32,11 +32,10 @@ tags:
 - Business Agility
 - Enterprise Agility
 - Market Adaptability
+- Organisational Change
 - Resilience and Change
 - Pragmatic Thinking
-- Organisational Change
 - People and Process
-- Agile Philosophy
 - Strategic Goals
 categories:
 - Social Technologies

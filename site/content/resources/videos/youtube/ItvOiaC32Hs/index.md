@@ -26,15 +26,11 @@ duration: 50
 isShort: true
 tags:
 - Agile Strategy
-- Strategic Goals
 - Agile Product Management
 - Sociotechnical Systems
 - Strategy
 - Agile Leadership
 - People and Process
-- Team Motivation
-- Pragmatic Thinking
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

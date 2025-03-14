@@ -25,6 +25,15 @@ duration: 355
 isShort: false
 tags:
 - Discovery and Learning
+- People and Process
+- Empirical Process Control
+- Product Discovery
+- Product Validation
+- Experimentation
+- Continuous Learning
+- Pragmatic Thinking
+- Sensemaking
+- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -32,10 +32,6 @@ tags:
 - People and Process
 - Agile Leadership
 - Agile Philosophy
-- Organisational Agility
-- Organisational Change
-- Agile Transformation
-- Business Agility
 resourceTypes:
 - video
 categories:

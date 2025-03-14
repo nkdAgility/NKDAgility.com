@@ -34,10 +34,6 @@ tags:
 - Discovery and Learning
 - People and Process
 - Customer Feedback Loops
-- Coaching
-- Customer Satisfaction
-- Personal
-- Value Delivery
 resourceTypes:
 - video
 layout: video

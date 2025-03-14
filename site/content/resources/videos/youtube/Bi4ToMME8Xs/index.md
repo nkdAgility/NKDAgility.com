@@ -22,17 +22,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: true
-tags:
-- Events and Presentations
-- People and Process
-- Scrum Master
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
-- Coaching
-- Pragmatic Thinking
-- Software Development
-- Team Collaboration
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4

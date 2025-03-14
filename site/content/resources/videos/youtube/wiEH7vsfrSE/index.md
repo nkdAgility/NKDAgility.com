@@ -37,8 +37,8 @@ tags:
 - Market Adaptability
 - Enterprise Agility
 - Sociotechnical Systems
+- Pragmatic Thinking
 - Strategic Goals
-- Agile Strategy
 - Operational Practices
 resourceTypes:
 - video

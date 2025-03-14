@@ -26,6 +26,14 @@ duration: 600
 isShort: false
 tags:
 - Software Development
+- Technical Excellence
+- Working Software
+- Engineering Practices
+- Code and Complexity
+- Product Delivery
+- Software Developers
+- Practical Techniques and Tooling
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

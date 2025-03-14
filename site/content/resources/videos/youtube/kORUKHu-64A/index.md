@@ -38,9 +38,6 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Software Development
-- Pragmatic Thinking
-- Scrum Product Development
-- Software Developers
 resourceTypes:
 - video
 categories:

@@ -31,9 +31,6 @@ tags:
 - Modern Source Control
 - Practical Techniques and Tooling
 - Azure Repos
-- Azure DevOps
-- Pragmatic Thinking
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: image-2-2-2.png

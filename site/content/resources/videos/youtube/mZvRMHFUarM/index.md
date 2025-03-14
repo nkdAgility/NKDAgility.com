@@ -27,6 +27,12 @@ isShort: false
 tags:
 - Estimation
 - Forecasting
+- Software Development
+- Pragmatic Thinking
+- Decision Theory
+- People and Process
+- Agile Philosophy
+- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -36,7 +36,7 @@ tags:
 - Metrics and Learning
 - Agile Frameworks
 - Agile Project Management
-- Agile Transformation
+- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

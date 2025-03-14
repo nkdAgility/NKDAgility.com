@@ -32,12 +32,9 @@ tags:
 - Agile Philosophy
 - Agile Values and Principles
 - Organisational Culture
+- Agile Transformation
 - Customer Satisfaction
 - Team Motivation
-- Agile Product Management
-- Employee Engagement
-- Agile Leadership
-- Organisational Psychology
 resourceTypes:
 - video
 layout: video

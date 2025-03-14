@@ -29,8 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
-- People and Process
-- Product Delivery
 resourceTypes:
 - video
 categories:

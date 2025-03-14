@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: false
 tags:
+- Agile Planning
 - People and Process
 - Agile Planning Tools
 - Agile Project Management
@@ -33,7 +34,6 @@ tags:
 - Transparency
 - Agile Frameworks
 - Team Performance
-- Agile Planning
 - Agile Product Management
 sitemap:
   filename: sitemap.xml

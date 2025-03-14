@@ -24,10 +24,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
-tags:
-- Agile Leadership
-- Organisational Agility
-- People and Process
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6

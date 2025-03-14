@@ -24,9 +24,7 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/Fo49oedF34g/maxresdefault.jpg
 duration: 268
 isShort: false
-tags:
-- People and Process
-- Software Development
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4

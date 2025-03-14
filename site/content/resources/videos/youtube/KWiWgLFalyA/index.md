@@ -35,13 +35,6 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - Strategy
-- Operational Practices
-- People and Process
-- Sociotechnical Systems
-- Systems Thinking
-- Agile Strategy
-- Business Agility
-- Organisational Agility
 resourceTypes:
 - video
 categories:

@@ -28,12 +28,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:00:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:28:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of technical debt on deployment frequency and the transition from a two-year release cycle to a more frequent three-week model, highlighting the relationship between managing technical debt and increasing deployment frequency.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical debt and its management, with only a brief mention of Agile practices and continuous delivery. While it touches on the importance of closing feedback loops, which relates to deployment frequency, the main focus is not on optimising deployment intervals or strategies to increase deployment frequency.",
+    "level": "Quaternary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -148,11 +151,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:00:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:20:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical debt management and its impact on delivery processes, which aligns with strategic approaches in Agile environments. However, the primary focus is on technical debt rather than a broader strategic framework.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses strategies for managing technical debt, which aligns with the strategic optimisation of delivery processes. It provides specific techniques such as prioritising refactoring and closing feedback loops, indicating a depth of discussion on improving team performance. However, the primary focus is on technical debt rather than a broader strategic framework within Agile, Scrum, or DevOps, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -667,21 +673,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T12:00:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:20:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the management of technical debt in the context of Agile practices, particularly highlighting the importance of continuous improvement and feedback loops. However, it primarily focuses on technical debt rather than the broader Agile philosophy itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical debt in the context of software development and mentions a transition to a more agile model, but it primarily focuses on technical aspects rather than the broader Agile Philosophy. While there are references to Agile practices, they are not the main focus, and the discussion lacks depth on Agile principles such as collaboration, customer satisfaction, and continuous improvement.",
+    "level": "Quaternary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T12:00:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:56:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of managing technical debt and its impact on long-term product delivery and value, which aligns with the theme of strategic goals. However, the primary focus is on technical debt management rather than explicitly defining or articulating strategic goals.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical debt and its management, which is primarily operational rather than strategic. While it touches on long-term benefits and the importance of quality, it lacks a direct focus on strategic goals or frameworks for setting and measuring objectives. The discussion is more about tactical approaches to technical debt rather than aligning with broader organisational strategies or agile principles.",
+    "level": "Quaternary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -760,12 +772,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T12:00:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:46:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of technical debt on delivery speed and team performance, which relates to Cycle Time, but the primary focus is on technical debt management rather than Cycle Time itself.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical debt rather than Cycle Time. While it briefly touches on Agile practices and mentions the importance of measuring progress, it does not explicitly discuss Cycle Time or its implications. The discussion lacks depth and does not align with the core themes of Cycle Time, such as its definition, measurement methods, or strategies for reduction.",
+    "level": "Quinary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",

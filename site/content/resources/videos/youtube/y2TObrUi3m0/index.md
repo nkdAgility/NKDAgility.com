@@ -28,11 +28,8 @@ isShort: false
 tags:
 - Agile Values and Principles
 - Agile Philosophy
-- Agile Transformation
 - People and Process
-- Agile Product Management
-- Agile Leadership
-- Pragmatic Thinking
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -127,12 +127,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:28:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code reviews and their role in improving code quality, which is a significant aspect of ensuring working software. However, the primary focus is on code review practices rather than the broader concept of delivering functional software.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses code reviews and the shift-left approach, which are relevant to ensuring software quality and functionality. However, while it touches on aspects of working software, such as automated checks and faster delivery, it does not explicitly focus on the broader themes of working software delivery or customer value. The depth of discussion on working software principles is moderate, primarily centred around code review practices rather than a comprehensive exploration of working software as defined in Agile and Scrum.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -280,11 +283,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code reviews and their role in improving code quality, which indirectly relates to team collaboration practices in a DevOps context. However, the primary focus is on code review techniques rather than explicit team dynamics or collaboration strategies.",
+    "calculated_at": "2025-03-13T16:20:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses code reviews primarily in the context of quality assurance and automation, with only brief mentions of team dynamics and knowledge sharing. While it touches on collaboration aspects, such as knowledge sharing and strategic discussions during reviews, the focus remains on individual practices and automation rather than enhancing team collaboration within Agile or DevOps frameworks.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -574,11 +580,14 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:46:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in the context of code reviews and pull requests, which relates to optimising deployment processes, but the primary focus is on code quality rather than deployment frequency itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of automated checks and streamlined processes in code reviews, which indirectly relates to deployment frequency by emphasising faster delivery and reducing bottlenecks. However, it does not explicitly focus on deployment frequency as a primary topic, nor does it provide in-depth strategies or metrics specifically for optimising deployment intervals.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -613,12 +622,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the automation of code reviews and pull requests, which are relevant to Continuous Delivery practices, but the primary focus is on code quality and review processes rather than Continuous Delivery itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:20:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses code reviews and the shift-left approach, which indirectly relates to Continuous Delivery by emphasising automation and early defect detection. However, it primarily focuses on code review practices rather than the broader principles and methodologies of Continuous Delivery, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -748,12 +760,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the automation of the code review process and the importance of validated checks, which are related to test automation principles. However, the primary focus is on code reviews rather than test automation itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T14:56:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of automating validation checks in the context of code reviews, which aligns with test automation principles. It mentions automated tests and tools, indicating a focus on improving quality through automation. However, the primary focus is on code reviews rather than test automation itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",

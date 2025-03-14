@@ -26,10 +26,10 @@ duration: 353
 isShort: false
 tags:
 - People and Process
+- Scrum Master
 - Agile Project Management
 - Coaching
 - Discovery and Learning
-- Scrum Master
 - Continuous Learning
 - Practical Techniques and Tooling
 - Scrum Team

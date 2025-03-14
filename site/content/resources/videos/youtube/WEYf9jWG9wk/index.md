@@ -28,15 +28,12 @@ duration: 53
 isShort: true
 tags:
 - Discovery and Learning
+- Agile Philosophy
 - Customer Feedback Loops
 - Software Developers
 - Agile Product Management
 - Hypothesis Driven Development
 - Value Delivery
-- Continuous Learning
-- Experimentation
-- Lean Startup
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

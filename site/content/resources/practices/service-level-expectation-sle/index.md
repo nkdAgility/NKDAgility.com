@@ -31,9 +31,8 @@ tags:
 - Metrics and Learning
 - Agile Project Management
 - Throughput
-- Cycle Time
 - Scrum Team
-- Agile Frameworks
+- Cycle Time
 - Scrum Product Development
 - Flow Efficiency
 

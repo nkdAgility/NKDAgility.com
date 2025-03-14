@@ -27,6 +27,14 @@ isShort: false
 tags:
 - Agile Project Management
 - Definition of Done
+- Transparency
+- Increment
+- Agile Planning
+- Agile Product Management
+- Product Delivery
+- Scrum Product Development
+- Value Delivery
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6

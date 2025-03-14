@@ -33,12 +33,7 @@ tags:
 - Discovery and Learning
 - People and Process
 - Software Developers
-- Coaching
-- Employee Engagement
-- Pragmatic Thinking
-- Personal
-- Software Development
-- Mentoring
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

@@ -31,6 +31,8 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
+- Continuous Learning
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

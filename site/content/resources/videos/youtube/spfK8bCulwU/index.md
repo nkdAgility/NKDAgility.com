@@ -27,13 +27,10 @@ duration: 183
 isShort: false
 tags:
 - Agile Product Management
+- Products and Books
 - People and Process
 - Scrum Product Development
 - Product Owner
-- Entrepreneurship
-- Agile Project Management
-- Scrum Team
-- Professional Scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6

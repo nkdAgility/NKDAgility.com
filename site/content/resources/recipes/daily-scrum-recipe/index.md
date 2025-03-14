@@ -44,10 +44,15 @@ categories:
 - Social Technologies
 tags:
 - Daily Scrum
-- Scrum Product Development
-- Professional Scrum
 - Software Development
 - Agile Project Management
+- Scrum Product Development
+- Professional Scrum
+- People and Process
+- Software Developers
+- Team Performance
+- Scrum Team
+- Transparency
 
 ---
 The Daily Scrum is an essential event in the Scrum framework. It offers the

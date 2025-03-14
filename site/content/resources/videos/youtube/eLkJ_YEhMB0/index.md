@@ -33,12 +33,11 @@ tags:
 - People and Process
 - Scrum Team
 - Agile Philosophy
-- Agile Transformation
 - Scrum Master
-- Scrum Product Development
-- Team Performance
 - Agile Product Management
 - Value Delivery
+- Agile Frameworks
+- Professional Scrum
 resourceTypes:
 - video
 categories:

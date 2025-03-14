@@ -31,11 +31,11 @@ tags:
 - Software Development
 - Agile Frameworks
 - Agile Product Management
-- Product Owner
+- Software Developers
 - Scrum Product Development
 - Scrum Master
 - Scrum Team
-- Software Developers
+- Product Owner
 - Agile Planning
 - Agile Project Management
 resourceTypes:

@@ -29,6 +29,15 @@ aliasesArchive:
 - /resources/blog/work-can-flow-across-sprint-boundary
 tags:
 - Agile Project Management
+- Increment
+- Throughput
+- Transparency
+- Product Delivery
+- Operational Practices
+- Practical Techniques and Tooling
+- Agile Product Management
+- Agile Planning
+- Flow Efficiency
 categories:
 - Social Technologies
 - Scrum

@@ -319,12 +319,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:30:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of batch size on flow and delivery, which relates to Cycle Time, but it primarily focuses on a workshop format and facilitation steps rather than a direct analysis of Cycle Time itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the impact of batch size on flow and delivery, which is closely related to Cycle Time. It provides a workshop structure that aims to illustrate how smaller batches can enhance predictability and efficiency, aligning with the core themes of Cycle Time. However, while it touches on the concept, it lacks a detailed exploration of Cycle Time as a standalone metric, which affects the depth of discussion.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -715,11 +718,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-12T14:16:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:59:26",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses optimising flow through batch size reduction, which aligns with Lean principles of waste reduction and value maximisation. It includes practical exercises that illustrate these concepts, making Lean principles a central theme.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of optimising flow through batch size, which aligns with Lean principles of waste reduction and value maximisation. It explicitly mentions the impact of smaller batches on flow and predictability, which are core concepts in Lean thinking. However, while it touches on these principles, the depth of discussion is more focused on a specific workshop format rather than a comprehensive exploration of Lean principles, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Agile Transformation": {
@@ -769,20 +775,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T14:16:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:22:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on the Scrum team dynamics and the impact of batch sizes on workflow, which aligns with Scrum principles and practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses a workshop designed to illustrate the impact of breaking down large backlog items into smaller pieces, which aligns with Scrum principles of iterative development and backlog management. However, while it mentions Scrum teams and includes facilitation steps relevant to Scrum practices, it lacks a comprehensive exploration of Scrum roles, sprint processes, or customer feedback mechanisms, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T14:16:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:22:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on optimising flow through the use of smaller batches, which aligns with process optimisation techniques in Agile methodologies. It discusses practical exercises and implications of batch size on delivery efficiency, making it central to operational practices.",
+    "final_score": 74.0,
+    "reasoning": "The content focuses on optimising flow through the use of smaller batches, which directly aligns with process optimisation techniques in Agile and Lean methodologies. It discusses practical exercises that illustrate the impact of batch size on delivery efficiency, providing a clear connection to operational practices. The depth of discussion is substantial, detailing facilitation steps and the implications of batch size, which enhances understanding of operational efficiency.",
     "level": "Secondary"
   },
   "Evidence Based Management": {

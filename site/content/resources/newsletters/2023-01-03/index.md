@@ -27,7 +27,6 @@ tags:
 - Events and Presentations
 - Agile Frameworks
 - Software Development
-- Agile Transformation
 
 ---
 Welcome to this month's edition of NKDAgility.

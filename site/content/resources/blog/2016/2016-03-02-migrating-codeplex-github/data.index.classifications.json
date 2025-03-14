@@ -385,12 +385,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T17:01:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of migrating a repository from Codeplex to GitHub, including tools and commands used, which aligns with software craftsmanship. However, the primary focus is on the migration process rather than broader principles of software design or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating a repository from Codeplex to GitHub, detailing specific tools and commands used in the migration. While it does touch on some technical practices, such as using Git-TF and managing repository structure, it lacks a broader discussion on software craftsmanship principles, clean code, or architectural best practices. The depth of discussion is moderate, providing step-by-step instructions but not delving into the underlying principles of software engineering excellence.",
+    "level": "Quaternary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
