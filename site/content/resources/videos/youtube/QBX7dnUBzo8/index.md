@@ -40,6 +40,7 @@ tags:
 - Organisational Physics
 - Enterprise Agility
 - Agile Strategy
+- Agile Transformation
 resourceTypes:
 - video
 categories:

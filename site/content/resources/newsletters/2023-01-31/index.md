@@ -23,7 +23,6 @@ categories:
 - Social Technologies
 - Scrum
 tags:
-- Product Owner
 - Agile Product Management
 
 ---

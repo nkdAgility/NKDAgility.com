@@ -23,6 +23,7 @@ aliasesArchive:
 - /the-fallacy-of-the-rejected-backlog-item
 - /resources/blog/the-fallacy-of-the-rejected-backlog-item
 tags:
+- Agile Project Management
 - Scrum Product Development
 - Agile Project Management
 - Professional Scrum
