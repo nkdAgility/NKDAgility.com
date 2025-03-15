@@ -28,8 +28,7 @@ tags:
 - Product Delivery
 - Pragmatic Thinking
 - People and Process
-- Decision Theory
-- Sociotechnical Systems
+- Working Software
 resourceTypes:
 - video
 sitemap:

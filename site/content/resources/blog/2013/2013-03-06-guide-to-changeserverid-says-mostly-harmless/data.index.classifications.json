@@ -40,12 +40,12 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:08:59",
+    "calculated_at": "2025-03-15T05:23:51",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses the ChangeServerId command and its implications in TFS environments, focusing on GUIDs and server configurations rather than the interplay between code quality and complexity.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:09:58",
+    "calculated_at": "2025-03-15T05:23:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the ChangeServerId command in the context of managing TFS (Team Foundation Server) environments, which is relevant to DevOps practices. However, it primarily focuses on specific technical issues related to GUIDs and server configurations rather than broader DevOps principles such as CI/CD, automation, or team collaboration. While it touches on aspects of deployment and environment management, it lacks a comprehensive exploration of DevOps concepts, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:23:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical procedures related to TFS and the importance of GUIDs in server management, which aligns with technical practices, but it primarily focuses on operational issues rather than broader engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the technical process of using ChangeServerId in TFS, which relates to maintaining system integrity during server upgrades. However, it primarily focuses on specific operational issues rather than broader engineering practices or methodologies that enhance agility in software development. While it touches on technical aspects, it lacks a comprehensive exploration of concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -355,12 +358,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:23:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the ChangeServerId command in the context of managing TFS environments, which relates to application deployment and maintenance. However, it primarily focuses on specific technical issues rather than the broader principles of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the ChangeServerId command in the context of managing a TFS environment, which relates to application maintenance and deployment. However, it lacks a broader discussion on the application lifecycle stages, governance, or best practices, making it a secondary mention rather than a primary focus on Application Lifecycle Management.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -493,12 +499,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:24:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the operational practice of managing TFS server IDs during upgrades and cloning, which has implications for maintaining operational efficiency. However, the primary focus is on troubleshooting specific technical commands rather than broader operational strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the ChangeServerId command in the context of managing TFS environments, which touches on operational practices related to server management and continuity. However, it lacks a broader focus on operational efficiency, process optimisation, or continuous improvement strategies that are central to the category of Operational Practices. The discussion is more about troubleshooting and specific commands rather than overarching operational strategies.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -631,12 +640,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:24:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the ChangeServerId command related to Team Foundation Server (TFS), which is connected to the context of source control management. However, the focus is predominantly on specific operational issues and user scenarios rather than broad best practices or methodologies of source control.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the ChangeServerId command in the context of TFS (Team Foundation Server), which is a version control system. It touches on issues related to GUIDs and server configurations that can affect source control operations. However, the discussion is primarily focused on a specific command and its implications rather than broader best practices or methodologies in modern source control. While it does mention aspects of version control, it lacks depth in discussing strategies, workflows, or integration with contemporary practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1123,12 +1135,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:23:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects related to Team Foundation Server (TFS), which operates within a Windows environment, including commands associated with TFS and configuration details. However, the focus is more on TFS functionalities rather than broader Windows operating system topics.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the use of the ChangeServerId command in the context of Team Foundation Server (TFS), which is a Microsoft product that operates within the Windows environment. While it does mention specific commands and issues related to TFS, it lacks a broader discussion on Windows operating system features, installation, or configuration. The focus is more on TFS management rather than Windows itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1225,7 +1240,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T18:02:54",
+    "calculated_at": "2025-03-15T05:23:51",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1233,7 +1248,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific technical process related to TFS (Team Foundation Server) and the ChangeServerId command, which is relevant to software developers. However, it lacks a broader discussion on Agile or DevOps methodologies, focusing instead on a specific technical issue without addressing the collaborative or productivity aspects of software development. While it mentions the role of developers in managing TFS environments, it does not explore the key themes outlined in the category description.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

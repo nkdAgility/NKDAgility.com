@@ -2,7 +2,7 @@
 title: 'Debunking the Top 5 Myths About Scrum: Unlocking Agile Success in Your Organisation'
 description: Debunk common Scrum myths that hinder Agile success! Discover the truth behind meetings, story points, planning, and governance in this insightful guide.
 date: 2024-05-06T14:12:53Z
-weight: 770
+weight: 700
 ResourceId: 4YixczaREUw
 ResourceType: videos
 ResourceImport: true
@@ -28,6 +28,13 @@ tags:
 - Professional Scrum
 - Agile Frameworks
 - Software Development
+- People and Process
+- Scrum Product Development
+- Agile Product Management
+- Empirical Process Control
+- Software Developers
+- Agile Project Management
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

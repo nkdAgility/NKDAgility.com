@@ -32,12 +32,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Product Development
+- Software Development
 - Agile Product Management
 - People and Process
-- Strategy
-- Agile Project Management
-- Product Delivery
-- Scrum Master
+- Agile Planning
 resourceTypes:
 - video
 categories:

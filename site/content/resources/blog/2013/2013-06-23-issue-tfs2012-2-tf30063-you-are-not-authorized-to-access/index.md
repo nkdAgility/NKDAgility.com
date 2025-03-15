@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Install and Configuration
-- Windows
 categories: []
 preview: puzzle-issue-problem-128-link-3-3.png
 

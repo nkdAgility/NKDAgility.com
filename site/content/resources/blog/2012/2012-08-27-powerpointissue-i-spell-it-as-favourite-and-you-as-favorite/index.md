@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
 tags:
 - Miscellaneous
-- Windows
 categories: []
 preview: metro-binary-vb-128-link-6-6.png
 

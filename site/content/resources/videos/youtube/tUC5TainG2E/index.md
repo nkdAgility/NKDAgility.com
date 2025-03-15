@@ -29,8 +29,6 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
-- Personal
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

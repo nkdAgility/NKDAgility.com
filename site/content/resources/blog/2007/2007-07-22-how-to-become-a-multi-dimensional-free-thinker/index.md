@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/how-to-become-a-multi-dimensional-free-thinker
 - /how-to-become-a-multi-dimensional-free-thinker
 - /resources/blog/how-to-become-a-multi-dimensional-free-thinker
-tags:
-- Software Development
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

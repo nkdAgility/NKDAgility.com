@@ -28,12 +28,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:43:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship between Kanban practices and Scrum, including how flow metrics can aid in developing the Sprint Backlog, indicating a secondary theme related to backlog management.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Kanban practices within the Scrum framework, with only brief mentions of the Product Backlog in relation to workflow and metrics. While it touches on aspects of backlog management, such as the Sprint Backlog and the role of flow metrics in planning, it does not delve deeply into the core themes of the Product Backlog or its management. The discussion lacks sufficient detail on backlog refinement, prioritisation techniques, or the responsibilities of the Product Owner, which are critical for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -67,12 +70,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses empirical process control and metrics related to flow in Scrum, which are relevant to evidence-based practices in leadership. However, the primary focus is on Kanban and Scrum methodologies rather than directly on evidence-based leadership principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Kanban practices within the Scrum framework, focusing on flow metrics and empirical process control. While it touches on concepts like transparency, inspection, and adaptation, which are relevant to evidence-based leadership, it does not explicitly address leadership decisions or organisational improvements based on empirical evidence. The discussion is more technical and centred on process optimisation rather than leadership practices, leading to a low confidence score in the context of Evidence Based Leadership.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -85,7 +91,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T12:50:31",
+    "calculated_at": "2025-03-14T17:41:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -93,7 +99,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily focuses on the integration of Kanban practices within the Scrum framework, which is more about project management methodologies than the strategic aspects of product management. While it touches on concepts like flow and metrics that could relate to product success, it lacks a direct discussion on customer needs, business objectives, or the role of product management in decision-making. The depth of discussion is also limited to technical practices rather than strategic alignment.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -133,29 +139,38 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, which relates to the delivery of functional software. However, the primary focus is on Kanban and its metrics rather than directly on working software itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, focusing on flow optimization and metrics. While it touches on aspects of working software, such as the importance of delivering value and improving processes, it does not explicitly centre on the characteristics or delivery of functional software. The discussion is more about methodologies and practices rather than the direct delivery of working software itself.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:43:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Kanban practices within Scrum, focusing on flow metrics and feedback loops that inform decision-making processes. However, the primary focus is on Kanban and Scrum practices rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban practices within the Scrum framework, discussing flow metrics and process optimisation. While it touches on decision-making aspects, such as using flow metrics to inform Sprint Planning and Daily Scrum, these discussions are secondary to the main topic of Kanban and Scrum practices. The content lacks a structured, evidence-based approach to decision-making as outlined in the category definition, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:43:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses self-management and collaboration within Scrum Teams using Kanban practices, which are relevant to self-organisation. However, the primary focus is on Kanban and its integration with Scrum rather than self-organisation itself.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban practices within the Scrum framework, discussing flow metrics and management techniques. While it touches on aspects of self-organisation, such as the importance of team-defined workflows and limiting WIP, the overall emphasis is on process optimisation rather than the principles of self-organisation itself. The discussion lacks depth in exploring how teams can operate autonomously or take ownership of their work, which are core themes of self-organisation.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -169,12 +184,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses flow optimization and waste reduction in the context of Kanban and Scrum, which aligns with Lean principles, but the primary focus is on Kanban practices rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban with Scrum, discussing flow optimization and metrics within a Scrum context. While it touches on concepts like efficiency and flow, it does not explicitly address Lean Product Development principles or waste reduction in a comprehensive manner. The discussion is more about enhancing Scrum practices rather than a dedicated exploration of Lean methodologies.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -187,12 +205,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:43:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, highlighting the importance of flow and feedback loops in the development process. While it primarily focuses on Kanban and Scrum methodologies, it does touch upon the role of feedback loops in improving processes and product delivery, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, focusing on flow and empirical process control. While it touches on the importance of feedback loops in the context of Scrum events, it does not primarily focus on customer feedback mechanisms or practices. The mention of feedback loops is secondary to the overall discussion of Kanban and Scrum integration, leading to a lower confidence score in the context of 'Customer Feedback Loops'.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -217,12 +238,15 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the Definition of Workflow, which is related to the Definition of Done, but the primary focus is on Kanban practices and their integration with Scrum rather than explicitly outlining the Definition of Done itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Kanban practices within the Scrum framework, with only brief mentions of the Definition of Workflow, which is related but not equivalent to the Definition of Done. The discussion lacks depth on the specific criteria and importance of the Definition of Done, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -292,12 +316,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the integration of Kanban practices within Scrum teams, highlighting aspects of team dynamics, collaboration, and shared ownership. However, the primary focus is on Kanban and its metrics rather than on broader team collaboration strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the integration of Kanban practices within Scrum teams, highlighting the importance of collaboration, shared understanding, and transparency in workflows. While it does mention team dynamics and practices that enhance collaboration, the primary focus is on Kanban and its metrics rather than a broader exploration of team collaboration principles. Therefore, it aligns with the category but does not delve deeply into the core themes of team collaboration as defined.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -361,7 +388,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:44:38",
+    "calculated_at": "2025-03-14T17:41:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -369,7 +396,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the integration of Kanban practices within the Scrum framework, which is more about project management methodologies than engineering excellence. While it touches on metrics and flow, it lacks a strong emphasis on software craftsmanship, coding standards, or continuous improvement of engineering processes, which are core to the category of Engineering Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -448,12 +475,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-12T13:58:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:59:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, focusing on the principles of empirical process control, such as transparency, inspection, and adaptation. It elaborates on how these concepts enhance the Scrum process, making empirical process control a central theme.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the integration of Kanban practices within the Scrum framework, highlighting the principles of empirical process control such as transparency, inspection, and adaptation. It provides detailed explanations of how these concepts are applied in practice, particularly through metrics and feedback loops, which are central to empirical process control. The depth of discussion on flow metrics and their role in enhancing Scrum's empirical approach further supports a high confidence score.",
+    "level": "Primary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -484,11 +514,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T13:58:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:22:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, focusing on how software developers can enhance their workflow and productivity through Agile methodologies. It addresses key topics relevant to software developers, such as flow optimization, metrics, and team dynamics in the context of Agile and Scrum.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, which is relevant to software developers. It touches on Agile methodologies and how they can enhance team dynamics and productivity. However, while it mentions the role of developers in the context of Scrum and Kanban, the focus is more on the practices themselves rather than on the developers' roles or experiences. The depth of discussion on developer-specific strategies and tools is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -529,11 +562,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-12T13:58:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:22:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses the importance of delivering valuable increments in Scrum, particularly in the context of integrating Kanban practices. It highlights the need for creating increments every Sprint and how Kanban can enhance the flow and delivery of these increments.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the concept of Increment within the context of Scrum, highlighting its importance in delivering value and the role of Kanban in optimising the flow of increments. It provides a detailed examination of how Kanban practices can enhance the Scrum framework, particularly in relation to creating valuable increments. However, the primary focus is on Kanban rather than the Increment itself, which slightly reduces the overall confidence score.",
     "level": "Secondary"
   },
   "Windows": {
@@ -547,21 +583,27 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:43:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Sprint Review in the context of using Kanban practices within Scrum, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Kanban practices and their integration with Scrum, with only brief mentions of the Sprint Review. While it discusses the importance of inspecting flow metrics during the Sprint Review, it does not delve into the core themes or detailed processes of the Sprint Review itself. The overall emphasis is on Kanban rather than the Sprint Review, leading to a low confidence score for this category.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to flow, including Cycle Time, which is closely related to Lead Time. However, the primary focus is on Kanban practices within the Scrum framework rather than Lead Time itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses metrics related to flow, including Cycle Time, which is closely related to Lead Time. However, it primarily focuses on Kanban practices within the Scrum framework rather than explicitly addressing Lead Time as a standalone metric. The discussion on Cycle Time and its relationship to WIP and throughput indicates some alignment, but the depth of discussion on Lead Time itself is limited, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -574,29 +616,38 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T13:58:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:30:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical applications of Kanban within the Scrum framework, focusing on real-world problem-solving strategies, flow optimization, and empirical process control, which are central to pragmatic thinking in Agile contexts.",
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the integration of Kanban practices within the Scrum framework, focusing on practical problem-solving strategies to enhance flow and efficiency. It provides detailed insights into metrics, practices, and the empirical process control theory, which are all aligned with pragmatic thinking in Agile contexts. The depth of discussion on how to apply these concepts in real-world scenarios further supports a high confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses flow optimization and metrics related to Kanban and Scrum, which indirectly relates to deployment frequency through the concepts of cycle time and throughput. However, the primary focus is on Kanban practices rather than directly on deployment frequency itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the flow of value and the importance of cycle time, which are related to deployment frequency. It mentions metrics like cycle time and throughput, which are crucial for assessing deployment frequency. However, the primary focus is on Kanban practices within the Scrum framework rather than directly optimising deployment intervals. While it touches on relevant concepts, it does not provide in-depth strategies or challenges specifically related to increasing deployment frequency.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T13:58:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T14:48:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the integration of Kanban practices within the Scrum framework, focusing on agile methodologies, roles, metrics, and iterative processes, which are central to Agile Project Management.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the integration of Kanban practices within the Scrum framework, highlighting key agile principles such as flow, empirical process control, and iterative development. It provides detailed insights into Scrum roles, ceremonies, and metrics, demonstrating a strong alignment with agile project management methodologies. The depth of discussion on how Kanban complements Scrum further solidifies its relevance to the category.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -610,12 +661,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on the integration of Kanban practices within the Scrum framework, which is more about technical practices than strategic alignment. While it touches on aspects of flow and empirical process control, it does not explicitly discuss the broader organisational vision or strategic planning aspects of Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban practices within the Scrum framework, which is more about technical practices than strategic alignment. While it touches on concepts like flow and metrics that can contribute to Agile methodologies, it lacks a direct discussion on organisational vision, leadership roles, or broader strategic planning. The depth of discussion on Kanban practices is significant, but it does not sufficiently address the key topics outlined in the Agile Strategy category.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -664,11 +718,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-12T13:59:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:08:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses how Kanban practices can enhance Scrum teams' performance, focusing on flow optimization, metrics, and the impact of Scrum ceremonies on team dynamics.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses how Kanban practices can enhance Scrum teams' performance, focusing on metrics, flow, and team dynamics. It provides detailed insights into how these practices can improve collaboration, transparency, and self-management within teams, aligning closely with the core themes of team performance in an Agile context.",
     "level": "Secondary"
   },
   "AI": {
@@ -682,12 +739,15 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, which is a specific application of Kanban rather than a broader discussion on scaling Kanban principles across multiple teams and departments in large organisations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework rather than focusing on scaling Kanban across multiple teams or departments. While it mentions Kanban principles and metrics, it does not explore their application in large organisations or provide strategies for visualising work across multiple teams, which are key aspects of the 'Scaling Kanban' category.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -709,12 +769,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:43:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses flow optimization and waste reduction through Kanban practices in a Scrum context, which aligns with Lean principles. However, the primary focus is on the integration of Kanban with Scrum rather than Lean principles themselves.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Kanban practices in relation to Scrum, focusing on flow, WIP limits, and continuous improvement, which are core aspects of Lean Principles. However, while it aligns with Lean concepts, it primarily centres on the integration of Kanban with Scrum rather than a direct exploration of Lean Principles themselves.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -763,30 +826,39 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T13:59:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T17:41:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses the integration of Kanban practices within the Scrum framework, focusing on enhancing Scrum processes and product development through flow metrics and iterative improvement.",
+    "final_score": 77.0,
+    "reasoning": "The content extensively discusses the integration of Kanban practices within the Scrum framework, highlighting how these practices can enhance Scrum's iterative product development process. It covers key Scrum events, roles, and metrics, demonstrating a strong alignment with Scrum principles. The depth of discussion on flow metrics and their application in Scrum events indicates a thorough exploration of the topic, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T13:59:25",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T17:41:59",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, focusing on techniques for optimising flow, managing work in progress, and improving overall operational efficiency. It provides practical applications of methodologies that enhance delivery and streamline processes, aligning well with the key topics of operational practices.",
-    "level": "Secondary"
+    "final_score": 84.0,
+    "reasoning": "The content extensively discusses the integration of Kanban practices within the Scrum framework, focusing on techniques for optimising workflow, managing work in progress, and improving overall efficiency. It provides detailed metrics for measuring flow and emphasises the importance of continuous improvement, which aligns closely with the core themes of operational practices. The depth of discussion is significant, covering various aspects of Kanban and its application in Scrum, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses metrics and empirical processes related to Kanban and Scrum, which are relevant to Evidence-Based Management, but the primary focus is on Kanban practices rather than EBM itself.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Kanban practices in relation to Scrum, focusing on flow metrics and empirical process control, which aligns with EBM principles. However, it primarily centres on Kanban rather than EBM itself, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -808,12 +880,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, which relates to the role of the Scrum Master in facilitating and optimising team processes. However, the primary focus is on Kanban rather than the specific responsibilities and practices of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, which indirectly relates to the role of a Scrum Master. However, it primarily focuses on Kanban rather than the specific responsibilities and practices of a Scrum Master. While there are mentions of Scrum events and team dynamics, the depth of discussion on the Scrum Master’s role is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -826,12 +901,15 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses flow metrics and service level expectations (SLE) which relate to forecasting delivery timelines and managing work items in progress. However, the primary focus is on Kanban practices rather than forecasting methodologies within Agile and Scrum.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses various metrics and practices related to flow and cycle time, which are essential for effective forecasting in Agile and Scrum environments. It explicitly mentions Service Level Expectations (SLE) as a forecasting tool, linking historical data to future performance. However, while it touches on forecasting, the primary focus is on Kanban practices rather than a comprehensive exploration of forecasting methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -862,21 +940,27 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:43:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, which relates to Agile Planning principles, particularly in terms of flow optimization and iterative planning. However, the primary focus is on Kanban rather than Agile Planning itself, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, which is relevant to Agile Planning. However, it focuses more on the operational aspects of Kanban and Scrum rather than the broader principles of Agile Planning. While it mentions concepts like flow, WIP, and metrics, which are important for Agile Planning, the depth of discussion is more about implementation rather than strategic planning. Therefore, while there is a connection to Agile Planning, it is not the primary focus.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of Scrum Teams in defining their Workflow and the importance of self-management, which relates to accountability. However, the primary focus is on Kanban practices and flow metrics rather than accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content discusses Kanban practices in relation to Scrum, touching on aspects of team dynamics and self-management, which are relevant to accountability. However, it primarily focuses on flow metrics and process optimisation rather than explicitly addressing accountability as a core theme. The mention of the Scrum Team's Definition of Workflow and the importance of limiting WIP hints at ownership and responsibility, but these points are not explored in depth. Overall, while there are elements related to accountability, they are not the primary focus of the content.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -916,21 +1000,27 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T14:00:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T17:42:05",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses how Kanban practices can enhance the effectiveness of Scrum Teams, focusing on roles, collaboration, and metrics relevant to Scrum.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses how Kanban practices can enhance the Scrum framework, focusing on the roles and responsibilities of Scrum Teams, particularly in relation to flow metrics and team dynamics. It provides detailed insights into how Scrum Teams can implement Kanban techniques to improve collaboration, transparency, and self-management, which are core themes of effective Scrum Team dynamics. The depth of discussion on specific practices and metrics relevant to Scrum Teams further supports a high confidence score.",
     "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, focusing on flow optimization, metrics, and practices that enhance software development processes. However, the primary focus is on Scrum and Kanban methodologies rather than broader technical mastery principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, focusing on flow optimization and metrics. While it touches on some technical aspects, such as work item management and cycle time, the overall emphasis is on enhancing Scrum rather than on broader software craftsmanship principles. The discussion lacks depth in areas like clean code, testing, or architectural best practices, which are central to the Technical Mastery category.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -979,12 +1069,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, which relates to Agile planning methodologies. However, the primary focus is on Kanban and Scrum roles rather than specific Agile planning tools or their functionalities.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, focusing on flow metrics and management of work items. While it touches on aspects of Agile planning, such as backlog management and sprint planning, it does not explicitly discuss Agile Planning Tools as a primary focus. The mention of metrics and practices related to flow indicates some alignment with Agile planning concepts, but the depth of discussion is more about Kanban and Scrum rather than specific planning tools like Jira or Trello.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1051,12 +1144,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban practices and their application within the Scrum framework, which includes elements of flow optimization and waste reduction. However, the primary focus is on Scrum rather than Lean methodologies, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban within the Scrum framework, which is more aligned with Agile methodologies than Lean principles. While it mentions concepts like flow, Work in Progress (WIP), and continuous improvement, these are discussed in the context of Scrum rather than as core Lean practices. The depth of discussion on Lean-specific tools and methodologies is limited, and the primary focus remains on enhancing Scrum rather than a comprehensive exploration of Lean principles.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1132,12 +1228,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, focusing on flow optimization and feedback loops, which are relevant to learning and adaptation processes. However, the primary focus is on the mechanics of Kanban and Scrum rather than on broader discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban practices within the Scrum framework, discussing flow metrics and process optimisation. While it touches on aspects of inspection and adaptation, which are relevant to learning, the main emphasis is on project management techniques rather than fostering a culture of discovery and learning. The discussions on flow and metrics are more about efficiency than innovation or continuous learning, leading to a lower confidence score in the 'Discovery and Learning' category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1282,12 +1381,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:43:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, which relates to enhancing organisational agility through improved flow and adaptability. However, the primary focus is on specific methodologies rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban practices within the Scrum framework, which is more about project management methodologies than organisational agility. While it touches on concepts like flow, transparency, and adaptation, these are framed within the context of Scrum and Kanban rather than broader organisational strategies or cultural shifts that enhance agility. The discussion lacks a comprehensive exploration of how these practices contribute to organisational adaptability or responsiveness to market changes, which is central to the category of Organisational Agility.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -1312,12 +1414,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:42:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Kanban practices within the Scrum framework, touching on team dynamics, workflow management, and the importance of collaboration and communication in enhancing team effectiveness. However, the primary focus remains on technical practices rather than a comprehensive exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the integration of Kanban practices within the Scrum framework, discussing technical aspects of flow and metrics without a significant exploration of the sociotechnical interactions or organisational structures that influence software delivery. While it touches on team dynamics and self-management, it lacks a comprehensive examination of how these practices relate to broader organisational culture or the interplay between social and technical systems.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1351,11 +1456,14 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T12:11:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:43:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses flow optimization and metrics related to Kanban within a Scrum context, which aligns with some principles of Value Stream Management. However, the primary focus is on Kanban and Scrum practices rather than a comprehensive discussion on Value Stream Management itself.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the flow of value in the context of Kanban and Scrum, which aligns with the principles of Value Stream Management. It explicitly mentions flow, metrics, and practices that enhance value delivery, indicating a strong conceptual alignment. However, the primary focus is on Kanban within Scrum rather than a comprehensive exploration of Value Stream Management itself, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Organisational Psychology": {

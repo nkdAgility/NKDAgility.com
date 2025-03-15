@@ -29,9 +29,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - Pragmatic Thinking
-- People and Process
-- Organisational Agility
+- Discovery and Learning
+- Market Adaptability
 resourceTypes:
 - video
 categories:

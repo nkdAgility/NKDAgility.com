@@ -37,7 +37,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T15:10:10",
+    "calculated_at": "2025-03-15T07:28:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -45,7 +45,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on a specific coding solution for synchronising lists in .NET, which is a technical topic. However, it lacks explicit discussions on broader engineering practices or methodologies that enhance agility in software development. While it demonstrates a technical solution, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. The depth of discussion is limited to the implementation details of the code without exploring its implications on software engineering practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -178,7 +178,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T10:45:31",
+    "calculated_at": "2025-03-15T07:28:53",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
@@ -186,7 +186,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a specific coding implementation for synchronising two lists, which is a technical task but does not delve into broader discussions on code quality, complexity theory, or best practices in software development. While it does mention the importance of locking objects for thread safety, it lacks a comprehensive exploration of the complexities involved in software architecture or design decisions. The discussion is more about a practical coding solution rather than an analysis of code quality or complexity management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -643,7 +643,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:50:48",
+    "calculated_at": "2025-03-15T07:28:53",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -651,7 +651,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a specific coding implementation for synchronising lists in .NET, which does not directly address broader themes of engineering excellence such as software craftsmanship, best practices, or continuous improvement. While it does touch on coding practices, it lacks a comprehensive discussion on quality assurance, testing methodologies, or the impact of such practices on overall engineering performance. The technical details provided are more about a specific solution rather than promoting high standards in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -847,7 +847,7 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-10T18:56:44",
+    "calculated_at": "2025-03-15T07:28:53",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -855,7 +855,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a specific coding implementation for synchronising lists in .NET, which does not directly address the core themes of Engineering Practices such as clean code, TDD, or CI/CD. While it does touch on aspects of coding practices, it lacks a broader discussion on methodologies or principles that enhance software engineering quality. The mention of locking objects for thread safety is relevant but does not constitute a comprehensive exploration of engineering practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",

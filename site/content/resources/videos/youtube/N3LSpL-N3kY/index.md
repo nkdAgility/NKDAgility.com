@@ -27,9 +27,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
 - Discovery and Learning
-- People and Process
+- Product Owner
+- Products and Books
 resourceTypes:
 - video
 categories:

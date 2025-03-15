@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/visual-studio-2008-team-edition-for-architects
 - /visual-studio-2008-team-edition-for-architects
 - /resources/blog/visual-studio-2008-team-edition-for-architects
-tags:
-- Windows
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

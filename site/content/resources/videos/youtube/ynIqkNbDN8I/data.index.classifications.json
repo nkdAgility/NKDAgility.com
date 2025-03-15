@@ -880,7 +880,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-06T13:22:31",
+    "calculated_at": "2025-03-14T16:26:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -888,7 +888,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses concepts related to product development and hypothesis-driven practices, which are more aligned with product management than organisational change. While there are mentions of market dynamics and user engagement, the focus is primarily on product features and validation rather than on the strategies or frameworks for organisational transformation. The depth of discussion on organisational change principles is minimal, leading to a low confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1144,7 +1144,7 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-06T14:33:58",
+    "calculated_at": "2025-03-14T16:26:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1152,7 +1152,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses product development strategies and the importance of validating assumptions through hypothesis-driven practices, which aligns with the themes of digital transformation. However, it lacks a direct focus on the strategic adoption of digital technologies or their impact on business agility and operational efficiency. While it touches on concepts like continuous delivery and feedback loops, these are presented more as methodologies rather than as part of a broader digital transformation strategy. Therefore, the confidence score reflects a moderate alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -1399,7 +1399,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:38:07",
+    "calculated_at": "2025-03-14T16:26:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1407,6 +1407,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses concepts related to product development and hypothesis-driven practices, which can be tangentially related to Scrum principles, particularly in terms of iterative development and feedback loops. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it focus on the Scrum framework itself. The discussion on feedback loops and deployment frequency aligns with Agile principles but lacks depth in Scrum-specific practices, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

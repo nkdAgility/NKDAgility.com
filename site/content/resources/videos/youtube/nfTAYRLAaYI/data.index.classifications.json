@@ -1,7 +1,7 @@
 {
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-03-06T13:43:33",
+    "calculated_at": "2025-03-14T18:56:34",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses principles related to workflow management, which is tangentially related to Value Stream Management. However, it lacks explicit mentions of value flow, waste elimination, or alignment with customer outcomes, which are core to the category. The discussion is more focused on Kanban principles rather than a comprehensive exploration of Value Stream Management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -190,7 +190,7 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-07T13:00:26",
+    "calculated_at": "2025-03-14T18:56:34",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -198,7 +198,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on concepts related to workflow and system visualisation, which are relevant to Systems Thinking. However, it primarily focuses on Kanban principles without a thorough exploration of interconnectedness or holistic analysis. The discussion lacks depth in terms of Systems Thinking methodologies and does not explicitly mention key topics such as feedback loops or organisational dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -289,7 +289,7 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-10T17:56:18",
+    "calculated_at": "2025-03-14T18:56:34",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -297,7 +297,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on the principles of Kanban, which is a specific Agile methodology. While it touches on aspects of workflow management and improvement, it lacks a broader discussion on organisational agility as a whole. The direct mentions of agility are minimal, and the depth of discussion does not explore the cultural or structural shifts necessary for true organisational agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -337,7 +337,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-11T09:55:14",
+    "calculated_at": "2025-03-14T18:56:34",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -345,7 +345,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses core principles of Kanban, which is relevant to Agile methodologies, but it lacks direct references to specific products or books. While it aligns conceptually with Agile practices, the depth of discussion is limited to basic principles without detailed analysis or reviews of literature or tools.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -580,7 +580,7 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-11T11:18:16",
+    "calculated_at": "2025-03-14T18:56:34",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -588,7 +588,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses core principles of Kanban, particularly focusing on workflow management and improvement. While it touches on the idea of improving workflows, which aligns with continuous learning, it lacks explicit discussions on growth mindset, knowledge sharing, or feedback loops. The depth of discussion is moderate, but it does not fully engage with the broader themes of continuous learning as defined in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -784,20 +784,26 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:56:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:56:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses core principles of Kanban, which is a framework used within Agile transformation. However, the focus is primarily on Kanban itself rather than a broader discussion of Agile transformation.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on the Kanban framework, which is a part of Agile methodologies. While it discusses principles that align with Agile practices, it lacks a broader discussion on Agile transformation strategies, change management, or leadership roles. The depth of discussion on Kanban principles is substantial, but it does not fully encompass the wider scope of Agile transformation.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T13:56:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:56:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the core principles of Kanban, which align with process optimization techniques in Agile and Lean methodologies, focusing on workflow management and continuous improvement.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on Kanban, a method that directly enhances operational efficiency by visualising workflows, managing tasks, and promoting continuous improvement. It discusses practical applications of Kanban principles, providing detailed examples and actionable strategies that align closely with the core themes of operational practices. The depth of discussion is significant, covering all three core principles of Kanban in detail, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -910,12 +916,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T13:56:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses core principles of Kanban that relate to visualizing workflow and managing items actively, the overarching theme is more focused on principles of Kanban rather than explicitly discussing transparency as a primary topic. However, it does touch on the importance of visibility in workflow, which connects to transparency.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:25:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content discusses transparency as a key aspect of visualising workflows in Kanban, highlighting its importance for team communication and decision-making. It provides practical examples and insights into how visualisation fosters transparency, which aligns well with the core themes of the category. However, while transparency is a significant focus, the content also covers broader Kanban principles, which slightly dilutes its primary emphasis on transparency.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -958,12 +967,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:56:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:51:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses workflow management and improvement principles relevant to Kanban, which indirectly relates to throughput concepts, but does not focus explicitly on measuring or optimizing throughput as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Kanban principles that directly relate to managing workflow and improving efficiency, which are key aspects of throughput. It mentions visualising workflow, actively managing tasks, and continuous improvement, all of which contribute to optimising the flow of work. However, while throughput is a significant theme, the content primarily focuses on Kanban principles rather than explicitly measuring throughput or discussing its impact on team performance in detail.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -994,11 +1006,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:56:11",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses core principles of Kanban, which is a key framework in Agile Project Management.",
+    "calculated_at": "2025-03-13T16:33:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content focuses extensively on Kanban, a key agile framework, discussing its principles, implementation, and benefits in detail. It aligns well with agile project management themes such as workflow visualization, active management, and continuous improvement, while also providing practical examples and recommendations. The depth of discussion on Kanban's core principles and their application in team settings demonstrates a strong alignment with agile methodologies.",
     "level": "Secondary"
   },
   "Hypothesis Driven Development": {
@@ -1075,11 +1090,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:56:11",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses core principles of Kanban, which is a key Agile framework in software development. While it focuses on specific principles rather than broader software development practices, it does relate significantly to the management of workflows in software projects.",
+    "calculated_at": "2025-03-14T18:56:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the Kanban methodology, which is a key aspect of Agile software development. It discusses the principles of visualising workflow, actively managing tasks, and continuous improvement, all of which are central to effective software development practices. The depth of discussion is substantial, providing practical examples and actionable tips, which enhances its relevance to the Software Development category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -1111,11 +1129,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T13:56:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T15:12:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses core principles related to workflow management and continuous improvement, which align with Lean concepts but primarily focuses on Kanban rather than Lean principles themselves.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses Kanban, which is a Lean methodology, and touches on principles such as visualising workflow, actively managing tasks, and continuous improvement. However, while it aligns with Lean principles, it does not explicitly mention Lean terminology or concepts like Muda or Kaizen in a broader context. The depth of discussion is focused on Kanban rather than a comprehensive exploration of Lean principles, which slightly limits its alignment with the category.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -1210,12 +1231,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T13:56:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:56:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles related to workflow visualization and management, which are relevant to systems thinking, but it primarily focuses on Kanban rather than a broader discussion of organizational dynamics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the Kanban method for managing workflow, which is more about individual team processes rather than the broader systems thinking principles that define Organisational Physics. While it touches on aspects of workflow visualisation and management, it lacks a comprehensive discussion on organisational dynamics, structure, or culture, which are central to the category. The depth of discussion is limited to practical applications of Kanban without exploring the systemic interactions within an organisation.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",

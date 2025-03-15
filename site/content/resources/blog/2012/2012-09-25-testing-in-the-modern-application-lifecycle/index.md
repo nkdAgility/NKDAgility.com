@@ -8,7 +8,7 @@ ResourceImportId: 8829
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-09-25
-weight: 420
+weight: 455
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,16 +23,16 @@ aliasesArchive:
 - /testing-in-the-modern-application-lifecycle
 - /resources/blog/testing-in-the-modern-application-lifecycle
 tags:
-- Windows
-- Product Delivery
-- Practical Techniques and Tooling
 - Software Development
 - Working Software
-- Application Lifecycle Management
-- Engineering Practices
-- Team Collaboration
-- Operational Practices
+- Product Delivery
+- Practical Techniques and Tooling
+- Windows
 - Pragmatic Thinking
+- Technical Mastery
+- Application Lifecycle Management
+- Software Developers
+- Products and Books
 categories:
 - Engineering Excellence
 - DevOps

@@ -19,11 +19,14 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Entrepreneurs within the Value Track of Scrum, highlighting their importance in maximising product value and their entrepreneurial spirit. However, the primary focus is on Scrum roles and processes, making entrepreneurship a secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content explicitly mentions 'Entrepreneurs' in the context of the Value Track, indicating a focus on the entrepreneurial spirit and the importance of maximising value in product delivery. However, while it touches on entrepreneurial concepts, the primary focus is on Scrum roles and their functions rather than a deep exploration of entrepreneurship principles. The discussion lacks extensive detail on risk management, innovation, or the broader entrepreneurial mindset, which limits its depth of discussion.",
     "level": "Tertiary"
   },
   "Product Backlog": {
@@ -55,21 +58,27 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters and Agile Coaches within the Leadership Track, indicating a focus on facilitating growth and development, but it primarily centres on the structure of Scrum roles rather than coaching practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the roles within Scrum, including Scrum Masters and Agile Coaches, which are relevant to coaching. However, it primarily focuses on the structure and roles rather than the practice of coaching itself. While there are mentions of creating environments for growth and leadership, the depth of discussion on coaching techniques, trust-building, and collaborative learning is limited.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the roles within Scrum and mentions the importance of making decisions based on data, which aligns with evidence-based practices. However, the primary focus is on the roles and responsibilities rather than a comprehensive discussion on evidence-based leadership.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses roles within Scrum and the importance of creating environments for high-value product delivery, which touches on leadership but lacks a strong focus on empirical evidence or data-driven decision-making. While it mentions the need for decisions based on data in the Value Track, it does not delve deeply into evidence-based practices or provide substantial detail on how these concepts apply to leadership decisions.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -133,30 +142,39 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles within Scrum that contribute to delivering high-value products, which aligns with the theme of working software, but it primarily focuses on the roles and responsibilities rather than the delivery of functional software itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the roles within a Scrum framework, focusing on Influencers, Entrepreneurs, and Makers, which indirectly relates to the delivery of working software. However, it lacks explicit discussions on the characteristics of working software, best practices for ensuring software quality, or metrics for assessing software effectiveness. The primary focus is on roles rather than the software itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:30:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles within Scrum that contribute to decision-making processes, particularly in the Value Track where decisions are made based on data. However, the primary focus is on the roles and responsibilities rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses roles within Scrum that contribute to product delivery, touching on the importance of decision-making based on data in the Value Track. However, it lacks a structured discussion on decision-making methodologies, empirical evidence, or frameworks, which are central to the category. The focus is more on roles and responsibilities rather than on decision-making processes themselves.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles within Scrum and the importance of creating an environment for effective product delivery, which relates to self-organisation. However, it primarily focuses on the roles and responsibilities rather than the principles and practices of self-organisation itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses roles within Scrum, such as Influencers, Entrepreneurs, and Makers, which indirectly relates to self-organisation by highlighting the importance of creating environments for teams to operate effectively. However, it primarily focuses on the roles and responsibilities rather than the principles and practices of self-organisation itself. The discussion lacks depth in exploring how these roles contribute to autonomy and collaboration, which are core themes of self-organisation.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -178,11 +196,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles of Influencers, Entrepreneurs, and Makers within Scrum, highlighting the importance of leadership in creating an environment for product delivery. However, it primarily focuses on the roles and responsibilities rather than a deep exploration of organisational culture itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the roles of different tracks (Leadership, Value, Technical) within a Scrum framework, which indirectly touches on aspects of organisational culture, particularly in relation to leadership and team dynamics. However, it primarily focuses on the roles and responsibilities rather than a comprehensive exploration of how these roles influence or are influenced by organisational culture. The discussion lacks depth in cultural transformation and does not provide strategies for fostering a culture of continuous improvement or learning, which are key topics in the category. Therefore, while there are relevant mentions, the overall focus is more on operational roles than on cultural aspects.",
     "level": "Tertiary"
   },
   "Customer Feedback Loops": {
@@ -250,21 +271,27 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:30:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles within Scrum and their importance in delivering value, which relates to strategic alignment and team performance. However, it primarily focuses on the roles rather than a comprehensive strategic approach.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the roles within Scrum and their importance in delivering value, which touches on strategic alignment and leadership. However, it lacks a comprehensive exploration of strategic approaches or techniques for optimising delivery processes, which are core themes of the Strategy category. The focus is more on roles and responsibilities rather than on strategic planning or execution.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses roles and responsibilities within Scrum that can influence innovation, particularly in the context of creating value and delivering products. However, it primarily focuses on Scrum roles rather than directly measuring or enhancing the ability to innovate.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses roles within Scrum that contribute to product delivery, touching on leadership and value maximisation. However, it lacks a direct focus on the measurement and improvement of innovation capabilities, and does not explicitly mention Evidence-Based Management principles or frameworks for assessing the Ability to Innovate. While there are elements of innovation in the entrepreneurial spirit mentioned, the overall discussion is more about roles and responsibilities rather than a comprehensive exploration of innovation practices.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -289,11 +316,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles within Scrum and their importance in delivering value, which relates to team dynamics and collaboration, but it primarily focuses on individual roles rather than collective team collaboration.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the roles within a Scrum framework, highlighting the importance of collaboration among Influencers, Entrepreneurs, and Makers. However, while it touches on teamwork dynamics, it primarily focuses on individual roles and responsibilities rather than techniques for improving team communication or fostering a culture of trust. The depth of discussion on collaboration is limited, as it does not provide specific strategies or examples of successful team collaboration, which are key aspects of the category.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -343,12 +373,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum roles and their importance in delivering high-quality products, which is a significant aspect of software development methodologies. However, it also includes broader discussions about leadership and organisational roles, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Scrum roles and the importance of different tracks (Leadership, Value, Technical) in delivering high-quality products, which aligns with Agile methodologies in software development. However, it lacks detailed exploration of specific software engineering practices, methodologies, or technical aspects, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -379,12 +412,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:30:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses roles within Scrum and their importance in delivering value, which relates to Agile principles, but primarily focuses on specific roles and tracks rather than the core values and principles of Agile.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses roles within the Scrum framework, focusing on Influencers, Entrepreneurs, and Makers, which are specific to Scrum rather than the underlying Agile values and principles. While it touches on the importance of creating value and collaboration, it does not explicitly reference Agile's core values or principles, nor does it provide a deep exploration of Agile concepts. Therefore, the alignment with the category is limited.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -406,11 +442,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:30:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Value Track, which includes Product Owners, but primarily focuses on the broader roles within Scrum and their interrelations rather than specifically on the responsibilities and practices of the Product Owner.",
+    "final_score": 57.0,
+    "reasoning": "The content mentions the role of the Product Owner within the Value Track, indicating a recognition of their importance in maximising product value. However, the discussion is primarily focused on the broader context of Scrum roles and the three tracks (Leadership, Value, Technical) rather than delving deeply into the specific responsibilities, techniques, or challenges faced by Product Owners. The content lacks detailed exploration of backlog management, stakeholder engagement, or prioritisation strategies, which are critical aspects of the Product Owner role.",
     "level": "Tertiary"
   },
   "Change Management": {
@@ -424,21 +463,27 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles within Scrum, particularly the Leadership Track, which includes Scrum Masters and Agile Coaches. While it touches on aspects of mentoring and leadership, the primary focus is on the roles and responsibilities rather than mentoring techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses roles within Scrum, particularly focusing on the Leadership Track, which includes positions like Scrum Masters and Agile Coaches. However, it primarily centres on the roles and responsibilities rather than providing guidance or coaching techniques, which are essential for the Mentoring category. The discussion lacks depth in mentoring strategies or emotional intelligence, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:30:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses roles within Scrum and the importance of decision-making based on data, which aligns with empirical process control principles. However, it primarily focuses on the roles and responsibilities rather than a comprehensive discussion on empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses roles within Scrum, highlighting the importance of leadership, value maximisation, and technical execution. While it touches on the need for data-driven decision-making in the Value Track, it lacks a direct focus on empirical process control principles such as transparency, inspection, and adaptation. The discussion is more about roles and responsibilities rather than the core themes of empirical process control, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -469,11 +514,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles of 'Makers' in the context of Scrum, which relates to software developers, but it primarily focuses on broader organisational roles and tracks rather than specifically on Agile or DevOps practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the roles within a Scrum framework, including the Technical Track which encompasses software developers (Makers). However, the primary focus is on the broader roles of Influencers and Entrepreneurs, with less emphasis on specific Agile practices or the integration of DevOps principles. While it touches on the importance of the Technical Track, it lacks depth in discussing best practices, tools, or methodologies that directly enhance developer productivity and collaboration.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -598,12 +646,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses roles within Scrum and their importance in delivering value, which aligns with Agile principles. However, it primarily focuses on the roles and responsibilities rather than a broader Agile strategy or implementation at scale.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the roles within Scrum, specifically focusing on the Leadership, Value, and Technical Tracks. While it touches on leadership and value delivery, which are relevant to Agile Strategy, it lacks a comprehensive discussion on strategic alignment and broader Agile principles. The primary focus is on roles and responsibilities rather than strategic implementation or adaptability, which diminishes its alignment with the Agile Strategy category.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -652,11 +703,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles within a Scrum framework, which relates to team dynamics and collaboration, but it primarily focuses on the roles of Influencers, Entrepreneurs, and Makers rather than specific strategies or practices for enhancing team performance.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the roles within a Scrum framework, highlighting the importance of collaboration among Influencers, Entrepreneurs, and Makers. It touches on leadership and the need for a balanced team composition, which aligns with team dynamics and performance. However, it lacks detailed exploration of specific Agile practices or metrics for measuring team effectiveness, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "AI": {
@@ -733,12 +787,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses roles and responsibilities within Scrum that can influence organisational change, particularly in the context of leadership and creating environments for product delivery. However, the primary focus is on Scrum roles rather than a comprehensive discussion on organisational change methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses roles within a Scrum framework, focusing on Influencers, Entrepreneurs, and Makers, which relates to leadership and team dynamics. However, it lacks a direct focus on organisational change methodologies or frameworks, and does not delve into the principles of Agile transformation or overcoming resistance to change. While there are elements of leadership and team organisation, the primary focus remains on Scrum roles rather than broader organisational change strategies.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -790,11 +847,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Leadership Track, which includes Scrum Masters, but primarily focuses on the broader concept of roles within Scrum rather than the specific responsibilities and practices of a Scrum Master.",
+    "final_score": 57.0,
+    "reasoning": "The content mentions the Scrum Master role within the context of the Leadership Track, indicating a recognition of its importance. However, the discussion is primarily focused on broader categories of roles (Influencers, Entrepreneurs, Makers) rather than delving deeply into the specific responsibilities, practices, or challenges faced by Scrum Masters. The alignment with Scrum Master themes is present but not comprehensive, and the depth of discussion is limited, focusing more on the overall structure rather than specific Scrum Master practices.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -847,21 +907,27 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:30:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses roles within Scrum, which is a framework that supports Agile Planning, but it primarily focuses on the roles of Influencers, Entrepreneurs, and Makers rather than on Agile Planning methodologies or practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses roles within Scrum, which is a framework that supports Agile Planning. However, it primarily focuses on the roles of Influencers, Entrepreneurs, and Makers rather than on Agile Planning principles, techniques, or practices. While there are mentions of leadership and value maximisation, the discussion lacks depth in Agile Planning methodologies and does not explore iterative planning, user stories, or feedback loops, which are core to the category.",
     "level": "Tertiary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the roles within Scrum that imply a level of accountability, particularly in the context of leadership and value delivery. However, it does not focus primarily on accountability as a central theme, making it a secondary topic.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the roles within Scrum and their importance in delivering value, which touches on accountability in terms of ownership of responsibilities. However, it lacks a direct focus on the concept of accountability as a principle, and does not delve deeply into strategies for fostering a culture of accountability or the distinction between accountability and blame. The discussion is more about roles and responsibilities rather than a comprehensive exploration of accountability in Agile.",
+    "level": "Secondary"
   },
   "MVP": {
     "category": "MVP",
@@ -901,12 +967,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses roles within a Scrum context, specifically focusing on the Leadership Track (Scrum Masters), Value Track (Product Owners), and Technical Track (Makers), but it does not delve deeply into team dynamics or collaboration practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses roles within a Scrum Team, specifically identifying the Leadership Track (Scrum Masters), Value Track (Product Owners), and Technical Track (Makers). However, while it touches on these roles, it lacks a deeper exploration of team dynamics, collaboration techniques, and the overall effectiveness of a Scrum Team. The focus is more on the categorisation of roles rather than the interactions and practices that enhance team performance, which limits its alignment with the core themes of the category.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -946,12 +1015,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses roles within Scrum and their importance in delivering value, which aligns with Agile principles, but primarily focuses on specific roles rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses roles within the Scrum framework, focusing on the Leadership, Value, and Technical Tracks. While it touches on aspects of collaboration and value delivery, it does not explicitly reference the Agile Manifesto or its principles, nor does it delve deeply into the broader implications of Agile as a philosophy. The discussion is more about specific roles and responsibilities rather than the underlying Agile mindset.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1027,12 +1099,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses roles and responsibilities within Scrum, which touches on leadership and collaboration aspects relevant to enterprise agility, but it primarily focuses on team-level practices without a broader organisational context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum roles and responsibilities, focusing on individual tracks (Leadership, Value, Technical) rather than the broader organisational context of Enterprise Agility. While it touches on leadership and collaboration, it lacks a comprehensive exploration of how these roles contribute to organisational agility or the integration of agile practices at an enterprise level.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1114,12 +1189,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles within Scrum and touches on the importance of experience and understanding in delivering value, which aligns with learning and adaptation. However, the primary focus is on Scrum roles rather than explicit methodologies for discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles within Scrum and their responsibilities, focusing on leadership, value maximisation, and technical execution. While it touches on the importance of creating environments for high-value product delivery and mentions the need for experimentation in the Value Track, it lacks a comprehensive exploration of discovery and learning methodologies. The discussion is more centred on project roles rather than the processes that foster innovation and continuous learning, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1150,21 +1228,27 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles within Scrum and their importance in delivering value, which relates to Agile practices. However, it primarily focuses on the roles and responsibilities rather than specific tools or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses roles within Scrum, such as Influencers, Entrepreneurs, and Makers, which are relevant to Agile practices. However, it lacks a direct focus on specific tools or methodologies that enhance Agile and DevOps practices. The discussion is more about roles and responsibilities rather than practical techniques or tooling, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training opportunities related to Scrum roles, which may imply events or presentations, but the primary focus is on the roles and responsibilities within Scrum rather than specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the roles within Scrum and mentions training opportunities, which could relate to events. However, it lacks explicit references to specific events, presentations, or discussions that align with the category's focus. The primary emphasis is on the roles and responsibilities within Scrum rather than on actual events or presentations.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1204,12 +1288,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses roles within Scrum and mentions training opportunities, indicating a focus on resources that could enhance understanding of Agile practices, but it primarily centres on the roles and responsibilities rather than specific products or literature.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses roles within Scrum and their importance in delivering products, which aligns with the category's focus on Agile methodologies. However, it lacks direct references to specific products or books, and while it touches on training opportunities, it does not provide detailed reviews or analyses of resources. The primary focus is on roles rather than products or literature, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1252,12 +1339,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles within Scrum that contribute to organisational effectiveness and adaptability, particularly focusing on leadership and the balance of different skill areas. However, it primarily centres on Scrum roles rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the roles of Influencers, Entrepreneurs, and Makers within a Scrum framework, which touches on aspects of organisational agility, particularly in terms of leadership and team dynamics. However, it primarily focuses on the structure of Scrum roles rather than broader agile principles or strategies for enhancing organisational adaptability. While there is some alignment with the category's themes, the depth of discussion is limited to specific roles without a comprehensive exploration of agility as a whole.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1330,12 +1420,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:29:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses leadership roles and the importance of creating environments for effective product delivery, which touches on psychological aspects of organisational behaviour. However, the primary focus is on Scrum roles and technical tracks, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses roles within a Scrum framework, focusing on Influencers, Entrepreneurs, and Makers, which touches on leadership and team dynamics. However, it primarily centres on technical roles and project management rather than the psychological principles of motivation, engagement, or organisational culture. While there are mentions of leadership and creating environments for value delivery, the discussion lacks depth in psychological theories and does not explore the core themes of organisational psychology in detail.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -1366,12 +1459,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:30:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses roles within a Scrum framework that contribute to product value delivery, aligning with the Agile Product Operating Model. However, it primarily focuses on the roles and responsibilities rather than a comprehensive discussion of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses roles within a Scrum framework, focusing on Influencers, Entrepreneurs, and Makers, which aligns with the Agile Product Operating Model's emphasis on cross-functional teams and value delivery. However, it lacks a comprehensive exploration of the Agile principles and methodologies, and does not delve deeply into continuous feedback, iteration, or metrics for product success, which are key aspects of the category.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",

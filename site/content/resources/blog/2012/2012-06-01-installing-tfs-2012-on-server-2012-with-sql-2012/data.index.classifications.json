@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS (Team Foundation Server), which is a component of internal developer platforms. While it touches on aspects of platform engineering, such as enhancing developer productivity and application management, the focus is more on the installation process rather than a comprehensive discussion of platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are components of a development environment. However, it lacks a direct discussion on the principles of Platform Engineering or Internal Developer Platforms (IDPs). While it touches on aspects of developer productivity and application management, it does not delve into automation, self-service capabilities, or standardisation of tools, which are key themes of Platform Engineering. The content is more of a practical guide rather than a discussion on the discipline itself.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -124,7 +127,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:20:51",
+    "calculated_at": "2025-03-15T05:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +135,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are relevant to DevOps practices. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on automation and configuration management, it does not delve into continuous integration or delivery, nor does it discuss collaboration between development and operations teams. The depth of discussion is limited to technical steps without exploring the implications or benefits of these practices in a DevOps context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,12 +220,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:56:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which involves technical practices. However, it lacks a deeper discussion on methodologies or principles that enhance agility or engineering practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are technical tasks. However, it lacks a deeper discussion on engineering practices or methodologies that enhance agility in software development. While it mentions some technical aspects, such as the importance of snapshots and configurations, it does not delve into broader principles like TDD, CI/CD, or modular architecture that are central to the 'Technical Excellence' category.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -244,12 +250,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are relevant to the deployment phase of product delivery. However, it lacks a broader discussion on methodologies, practices, or strategies that encompass the end-to-end process of delivering usable software products.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are technical tasks rather than discussions on methodologies or practices related to product delivery. While it touches on aspects of deployment, it lacks a broader discussion on product delivery principles, such as Agile methodologies, iterative development, or cross-functional team roles. The content is more instructional and practical rather than strategic or conceptual, leading to a low confidence score in alignment with the 'Product Delivery' category.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -271,11 +280,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are software products relevant to Agile and DevOps practices. However, it primarily focuses on technical setup rather than reviews or analyses of these products.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are software products. However, it lacks in-depth reviews or analyses of these products in relation to Agile methodologies or DevOps practices. While it does mention the context of using these tools for demos and customer interactions, it does not provide substantial insights into how these products enhance understanding or implementation of Agile principles. Therefore, while there is some relevance, the primary focus is on technical installation rather than a discussion of products or literature in the context of Agile and DevOps.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -346,21 +358,27 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which includes some updates and features relevant to technology. However, it primarily focuses on technical instructions rather than providing a clear review or news analysis.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a technical tutorial for installing TFS 2012, SQL Server 2012, and Windows Server 2012, which does not align with the core themes of industry news or reviews. While it mentions the release of software and discusses features, it lacks a broader analysis of trends or evaluations that would inform practitioners. The discussion is more practical and instructional rather than evaluative or news-oriented.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, which is a tool used in the application lifecycle management process. However, it does not extensively cover the broader methodologies, practices, or stages of the application lifecycle, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are tools related to software development but does not explicitly discuss the broader methodologies or practices of Application Lifecycle Management. While it touches on aspects of deployment and configuration, it lacks depth in discussing lifecycle stages, governance, or integration with Agile and DevOps principles, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -493,12 +511,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2012, which relates to operational practices in terms of setting up environments for Agile and DevOps methodologies. However, it primarily focuses on technical installation steps rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are technical tasks rather than discussions on operational practices. While there are mentions of preparing environments for demos and considerations for configuration, these do not delve into broader operational efficiency strategies or methodologies like Agile, DevOps, or Lean. The content lacks a structured approach to process optimisation or continuous improvement, which are key aspects of the 'Operational Practices' category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -631,12 +652,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012, which is a version control system. However, it focuses more on the setup process rather than best practices or methodologies related to modern source control.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, which is a version control system. However, it lacks a detailed discussion on best practices, methodologies, or strategies related to modern source control. While TFS is mentioned, the content does not delve into topics such as branching strategies, code review processes, or collaboration workflows, which are essential for the 'Modern Source Control' category. Therefore, the confidence score reflects a low alignment with the category's core themes.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -694,12 +718,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of TFS 2012 and mentions the high demand for TFS installations, indicating a context of frequent updates and deployments. However, the primary focus is on the installation process rather than the principles or practices of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the release of a Release Candidate for Windows and Visual Studio, indicating some awareness of software updates. However, the primary focus is on installation and configuration processes rather than on the principles or practices of frequent releases. There is minimal discussion on continuous delivery, deployment strategies, or user feedback integration, which are core themes of the category. Overall, while there are some relevant points, they are not sufficiently developed to classify the content as primarily focused on Frequent Releases.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -793,12 +820,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical installation and configuration strategies for TFS, SQL Server, and Windows Server, which aligns with pragmatic problem-solving in a technical context. However, it primarily focuses on installation steps rather than broader Agile or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical steps for installing TFS 2012, SQL Server 2012, and Windows Server 2012, with minimal discussion on pragmatic problem-solving strategies or real-world applications of Agile, Scrum, or DevOps principles. While it does touch on practical aspects of setting up a demo environment, it lacks a deeper exploration of adaptability, critical thinking, or evidence-based management practices that are central to the category of Pragmatic Thinking.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -874,12 +904,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2012, which is a working software product. However, the primary focus is on the installation process rather than the characteristics or best practices of working software.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are tools rather than discussions on working software itself. While it touches on aspects of software deployment and mentions customer demos, it lacks a direct focus on the characteristics, best practices, or iterative development processes that define working software in Agile and Scrum frameworks. The discussion is more technical and procedural, with limited exploration of how these installations deliver value to customers or meet user requirements.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -964,12 +997,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2012, which is relevant to release management, but the primary focus is on the technical steps of installation rather than the broader strategies and practices of release management.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the installation and configuration of TFS 2012, which is related to software releases. However, it primarily focuses on the technical steps of installation rather than the broader strategies and practices of release management. While there are mentions of upcoming demos and customer needs, the discussion lacks depth in terms of release planning, risk management, or coordination with stakeholders, which are key aspects of release management.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1132,12 +1168,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are related to deployment processes. However, it lacks a focus on specific deployment strategies or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are more about setup rather than deployment strategies. While there are mentions of preparing environments for demos and snapshots for recovery, these do not align closely with the core themes of deployment methodologies such as Blue-Green Deployments or Canary Releases. The discussion lacks depth in terms of deployment strategies and does not provide actionable insights into managing risks or optimising deployment processes.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1225,7 +1264,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T18:06:09",
+    "calculated_at": "2025-03-15T05:56:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1233,7 +1272,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012, SQL Server 2012, and Windows Server 2012, which are relevant to software development environments. However, it lacks a direct discussion on Agile methodologies, DevOps principles, or modern engineering practices. While it touches on aspects that may be of interest to software developers, such as the setup of development tools, it does not delve into best practices or collaborative strategies that are central to the Software Developers category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1309,12 +1348,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012, which is related to Azure Repos, but it also includes significant information about Windows Server and SQL Server installations, making Azure Repos a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012, which is related to Azure DevOps but does not specifically focus on Azure Repos functionalities, best practices, or source control management. While TFS is a part of the Azure DevOps suite, the content lacks a direct exploration of Azure Repos features such as branching strategies, pull requests, or CI/CD integration, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",

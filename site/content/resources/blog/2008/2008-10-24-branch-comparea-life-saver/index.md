@@ -26,9 +26,7 @@ aliasesArchive:
 - /branch-compare…a-life-saver
 - /blog/branch-compare…a-life-saver
 - /resources/blog/branch-comparea-life-saver
-tags:
-- Practical Techniques and Tooling
-- Products and Books
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

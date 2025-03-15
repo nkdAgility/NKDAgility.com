@@ -22,10 +22,7 @@ aliasesArchive:
 - /blog/tfs-event-handler-update
 - /tfs-event-handler-update
 - /resources/blog/tfs-event-handler-update
-tags:
-- Working Software
-- Software Development
-- Troubleshooting
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

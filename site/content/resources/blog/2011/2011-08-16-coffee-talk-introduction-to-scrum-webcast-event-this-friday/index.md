@@ -8,7 +8,7 @@ ResourceImportId: 3728
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-08-16
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/coffee-talk--introduction-to-scrum---webcast-event-this-friday-
 - /resources/blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
 tags:
+- Software Development
 - Events and Presentations
+- Agile Project Management
 - Professional Scrum
 - Agile Frameworks
-- Scrum Product Development
 - People and Process
-- Agile Project Management
-- Software Development
+- Scrum Product Development
+- Practical Techniques and Tooling
+- Agile Planning
 - Agile Product Management
-- Agile Transformation
-- Software Developers
 categories:
 - Scrum
 preview: metro-event-128-link-2-2.png

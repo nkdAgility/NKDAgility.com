@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:34:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses features and updates related to Team Foundation Server (TFS), which is a tool that can be part of an internal developer platform. However, the primary focus is on specific updates and features rather than a comprehensive discussion on platform engineering principles or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the features and updates of Team Foundation Server (TFS) 2013 Update 2, focusing on backlog management, test management, release management, and version management. While it touches on aspects of developer productivity and tools that could relate to platform engineering, it does not explicitly discuss the principles of platform engineering or Internal Developer Platforms (IDPs). The content lacks a direct focus on enhancing developer efficiency through platform solutions, which is a core theme of platform engineering. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -289,12 +292,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses features of TFS 2013 Update 2 that enhance backlog management, test management, and release management, which can contribute to value delivery in Agile environments. However, the primary focus is on technical implementation details rather than strategies or methodologies for delivering value.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading to TFS 2013 Update 2, detailing features and installation processes. While it mentions improvements in backlog management and test management that could enhance value delivery, the discussion lacks a strong emphasis on strategies or methodologies for iterative and continuous delivery of value to customers. The content does not align closely with the core themes of value delivery, such as customer feedback integration or cross-functional team roles, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -397,12 +403,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content extensively discusses technical features of Team Foundation Server 2013 Update 2, touching on best practices for test management, release management, and version control, which relate to software engineering principles, but the primary focus is on specific updates rather than broader concepts of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the features and improvements of Team Foundation Server 2013 Update 2, focusing on technical aspects such as backlog management, test management, release management, and version management. It provides detailed insights into how these features enhance software development practices, aligning well with the principles of software craftsmanship and engineering excellence. However, while it touches on best practices and technical improvements, it lacks a broader discussion on methodologies or principles that underpin software craftsmanship, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -415,12 +424,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:34:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses upgrading TFS (Team Foundation Server) and mentions release management, it primarily focuses on technical features and improvements rather than the broader principles and practices of Continuous Delivery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the features and updates of Team Foundation Server (TFS) 2013 Update 2, with a focus on installation and upgrade processes. While it touches on release management features, which are relevant to Continuous Delivery, the overall emphasis is on specific functionalities rather than the principles and practices of Continuous Delivery itself. The discussion lacks depth in terms of Continuous Delivery methodologies, automation, and risk management, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -469,21 +481,27 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses backlog management features in TFS 2013 Update 2, making it a significant but not the only focus of the article.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses backlog management features in TFS 2013 Update 2, which is relevant to the Product Backlog category. However, the primary focus is on the update itself rather than a comprehensive discussion of the Product Backlog's definition, purpose, or management strategies. While there are mentions of backlog management, they are not the central theme of the content, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:34:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses backlog management features in TFS, which relates to Agile Planning principles, but overall, it primarily focuses on the features and upgrade process of TFS 2013 Update 2 rather than Agile Planning methodologies.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the features and updates of Team Foundation Server 2013 Update 2, focusing on technical aspects such as backlog management, test management, and release management. While there are mentions of backlog management, which is a component of Agile Planning, the overall discussion does not delve into Agile principles, methodologies, or practices. The content lacks a comprehensive exploration of Agile Planning concepts, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -505,11 +523,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:34:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the features and updates of Team Foundation Server 2013 Update 2, which includes practical insights regarding backlog management, test management, and release management, all of which align with operational practices in Agile and DevOps contexts. However, the overall focus is on the updates rather than directly on optimizing operational processes.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the upgrade process for TFS 2013 Update 2 and highlights various features that enhance operational efficiency, such as backlog management and release management. However, while it touches on operational practices, the primary focus is on the upgrade process and specific features rather than a comprehensive discussion of techniques or strategies for improving operational efficiency within Agile, DevOps, or Lean frameworks.",
     "level": "Tertiary"
   },
   "Scrum Team": {
@@ -568,12 +589,15 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 49,
+    "calculated_at": "2025-03-15T04:34:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 44.0,
-    "reasoning": "The content discusses various features of Team Foundation Server 2013 Update 2, including test management features, but primarily focuses on updates and improvements to TFS rather than on automated testing principles or practices as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses various features of TFS 2013 Update 2, including some aspects of test management, but it does not focus on automated testing principles or methodologies. The mention of test management features is limited and does not delve into automated testing practices, tools, or frameworks, which are central to the category of Automated Testing.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -604,21 +628,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T11:12:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:33:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content focuses heavily on the features, improvements, and best practices associated with upgrading Team Foundation Server (TFS) which is relevant to software development lifecycle management, including version control, test management, and release management.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the features and improvements of Team Foundation Server (TFS) 2013 Update 2, which is directly related to software development practices, particularly in the context of version control, release management, and test management. It discusses specific functionalities that enhance the software development lifecycle, such as backlog management, test management, and version control enhancements, aligning well with the core themes of the Software Development category. The depth of discussion is substantial, providing detailed insights into the features and their implications for software development, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses backlog management features related to Team Foundation Server (TFS), which is often used in agile project management but does not primarily focus on agile principles or methodologies themselves.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses features of Team Foundation Server (TFS) 2013 Update 2, including backlog management and release management, which are relevant to Agile practices. However, it lacks a direct focus on Agile methodologies, principles, or frameworks like Scrum or Kanban. The mention of backlog management is the closest alignment to Agile Project Management, but the overall discussion is more about software updates and features rather than a comprehensive exploration of Agile principles.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -640,11 +670,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T11:12:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:33:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the features and enhancements related to Team Foundation Server (TFS) 2013 Update 2, specifically discussing version management features, including improvements in Git support.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the features and improvements of Team Foundation Server (TFS) 2013 Update 2, with a significant focus on version control aspects, particularly regarding Git. It explicitly mentions version management features, Git enhancements, and the overall upgrade process, which aligns well with modern source control practices. However, while it covers relevant topics, the depth of discussion on methodologies and best practices is somewhat limited, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -667,21 +700,27 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily focuses on TFS 2013 Update 2 and its features, it briefly discusses backlog management, which is a relevant aspect of Azure Boards. However, the main theme is not centered on Azure Boards itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) 2013 Update 2, which is related to Azure DevOps but does not focus specifically on Azure Boards. While it mentions backlog management features, it lacks a comprehensive exploration of Azure Boards' functionalities, best practices, or Agile project management principles. The discussion is more about TFS updates and features rather than the specific tools and practices associated with Azure Boards.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its features, which can be associated with collaboration in Agile teams, but the primary focus is on the upgrade process and specific feature changes rather than direct enhancement of communication and coordination.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the features and updates of Team Foundation Server (TFS) 2013 Update 2, focusing on backlog management, test management, release management, and version management. While TFS is a collaboration tool, the discussion does not explicitly centre on enhancing communication and coordination within Agile teams, nor does it provide a comprehensive overview of collaboration tools or best practices in Agile environments. The mentions of features are somewhat relevant but lack depth in terms of their impact on team dynamics and Agile methodologies.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -703,11 +742,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-15T11:12:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:33:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the update process and new features released with TFS 2013 Update 2, emphasizing the continuous delivery of updates and improvements, which aligns well with the principles of Frequent Releases.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the release of TFS 2013 Update 2 and highlights various features and improvements, indicating a focus on software updates. However, it lacks a comprehensive exploration of the principles of frequent releases, such as continuous delivery or deployment practices. While it mentions the ease of upgrades and the importance of features, it does not delve into strategies for automating the release process or metrics for measuring release frequency, which are key topics in the Frequent Releases category.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -757,7 +799,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:41:53",
+    "calculated_at": "2025-03-15T04:33:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -765,7 +807,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the features and improvements of TFS 2013 Update 2, which touches on aspects of software development practices, such as test management and release management. However, it primarily focuses on the update process and specific features rather than promoting high standards in software craftsmanship or continuous improvement of engineering processes. While there are mentions of best practices in testing and release management, the overall discussion lacks depth in engineering excellence principles and does not provide a comprehensive exploration of the category's core themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -817,12 +859,15 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:34:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content contains a section on 'Backlog Management features' in TFS 2013 Update 2, which touches on aspects of backlog refinement, but it is primarily focused on new features of TFS rather than a detailed discussion on backlog refinement practices.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the features and updates of Team Foundation Server 2013 Update 2, with a focus on backlog management features. However, it does not delve into the principles or practices of backlog refinement as defined in Agile methodologies. While it mentions backlog management, it lacks a comprehensive discussion on backlog refinement techniques, prioritisation, or the role of the Product Owner, which are essential to the category.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -871,12 +916,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a section on Test Management features in TFS 2013 Update 2, mentioning test export and shared parameters, which are relevant to test automation. However, the main focus of the article is on various features of TFS and not primarily on test automation practices or frameworks.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses features of TFS 2013 Update 2, including some test management features, but it does not focus on test automation principles, frameworks, or best practices. The mention of test management features is limited and does not delve into automation specifics, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -889,20 +937,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T11:12:08",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T04:33:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses updates and features of Team Foundation Server (TFS), which supports working software through backlog management, test management, and release management enhancements. While the focus is on the upgrade and installation process, the inclusion of features that improve software functionality and customer value indicates a significant alignment with working software principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the features and improvements of TFS 2013 Update 2, which relates to working software by highlighting enhancements that improve functionality and user experience. However, while it mentions aspects of working software, such as backlog management and release management, the primary focus is on the upgrade process and specific features rather than a comprehensive discussion on delivering high-quality, functional software that meets customer needs.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T11:12:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:33:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content specifically discusses backlog management features within Team Foundation Server (TFS) 2013 Update 2, highlighting tools and functionalities that align with Agile planning practices.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses features related to backlog management in TFS 2013 Update 2, which aligns with Agile Planning Tools. However, the primary focus is on the update process and various features of TFS rather than a comprehensive exploration of Agile planning methodologies or tools. While there are relevant mentions of backlog management, the overall depth and breadth of discussion on Agile planning tools is limited.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -979,11 +1033,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T11:12:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:33:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content contains detailed discussions specifically about the release management features of TFS 2013 Update 2, highlighting tools, capabilities, and enhancements related to the release management process.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses Release Management features in TFS 2013 Update 2, detailing specific functionalities such as Release Tags, Shared Variables, and Clone Deployment Sequence. This indicates a strong focus on the category. The discussion aligns well with core themes of Release Management, including version control and deployment processes. The depth of the discussion is substantial, providing detailed insights into the features and their implications for enterprise readiness, which further supports a high confidence score.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1015,12 +1072,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses updates and features related to Team Foundation Server that pertain to release management, which is relevant to deployment frequency. However, the primary focus of the content is on the features and installation process, not solely on the optimization of deployment intervals.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the upgrade process for TFS 2013 Update 2 and mentions features related to release management, which can indirectly relate to deployment frequency. However, it does not explicitly focus on optimising deployment intervals or strategies for increasing deployment frequency. The discussion is more about the features and ease of upgrading rather than the core principles of deployment frequency in Agile or DevOps.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -1051,12 +1111,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses updates and features for Team Foundation Server (TFS) which may have implications for improving operational efficiency in software development, but the primary focus is on the specifics of the updates rather than a strategic discussion of digital transformation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) and its features, rather than discussing the strategic adoption of digital technologies for business transformation. While it mentions improvements in tools that could enhance operational efficiency, it lacks a broader discussion on how these tools contribute to digital transformation initiatives or organisational culture. The content does not provide case studies, change management practices, or metrics related to digital transformation, which are key topics in the category.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1078,11 +1141,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T11:12:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:33:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the processes and methodologies involved in upgrading Team Foundation Server (TFS) along with best practices for installation, configuration, and system management, aligning well with the themes of system configuration.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the upgrade process for Team Foundation Server (TFS) 2013 Update 2, detailing the installation and configuration steps, which aligns well with the System Configuration category. It discusses best practices for upgrading, including the importance of backups and the configuration of databases, which are critical aspects of system setup. The depth of discussion is significant, covering various features and their implications for system performance and management. However, while the content is rich in practical advice, it occasionally veers into feature descriptions that, while relevant, do not strictly adhere to the core themes of system configuration, slightly lowering the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1132,21 +1198,27 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:34:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the installation and upgrade of Team Foundation Server (TFS), which requires a Windows environment and references Windows Server versions. However, the primary focus is on TFS features and updates rather than on Windows operating system management directly.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the upgrade process for Team Foundation Server (TFS) 2013 Update 2, which is closely tied to the Windows Server 2012 R2 environment. It explicitly mentions Windows Server in the context of installation and upgrade procedures, aligning well with the category's focus on Windows operating system management. The depth of discussion includes detailed steps for upgrading, configuration settings, and considerations for backups, which are all relevant to Windows system administration. While the main focus is on TFS, the content is heavily rooted in the Windows ecosystem, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:34:00",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade and installation processes for Team Foundation Server, including aspects of release management, upgrade strategy, and risk management during deployment, but it primarily focuses on the features of the update rather than in-depth deployment strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the upgrade process for TFS 2013 Update 2, which includes some aspects of deployment strategies, such as the simplicity of installation and the importance of backups. However, it primarily focuses on features and improvements rather than detailed methodologies or practices for deploying software. The mention of 'Release Management features' hints at deployment strategies but lacks depth and actionable insights typical of the category.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1186,11 +1258,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:34:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading to TFS 2013 Update 2 and includes mentions of ensuring a backup before upgrading and the potential issues related to different versions, which can be related to troubleshooting. However, the primary focus is on features and enhancements rather than in-depth troubleshooting methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the features and enhancements of TFS 2013 Update 2, with a focus on installation and upgrade processes. While it briefly touches on the importance of backups and rollback strategies, which are relevant to troubleshooting, the overall emphasis is on new features rather than diagnosing or resolving specific technical issues. Therefore, it aligns moderately with the troubleshooting category but lacks depth in discussing systematic problem-solving techniques.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1231,11 +1306,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses features of Team Foundation Server relevant to software developers and touches on aspects of Agile development practices, but the primary focus is on version updates and specific software functionalities.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the features and updates of Team Foundation Server (TFS) 2013 Update 2, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and while it touches on tools that developers use, it does not delve into best practices or the impact of these tools on developer productivity or team dynamics. The discussion is more about the technical aspects of TFS rather than the role of developers within Agile or DevOps frameworks.",
     "level": "Tertiary"
   },
   "Coaching": {
@@ -1249,12 +1327,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features and improvements in Team Foundation Server 2013 related to test management, release management, and version control, which are aspects of engineering practices, but it primarily focuses on software updates rather than core engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the features and updates of Team Foundation Server (TFS) 2013 Update 2, focusing on installation and upgrade processes rather than core engineering practices. While it touches on aspects of test management and release management, which are relevant to engineering practices, the overall emphasis is on the TFS tool itself and its functionalities rather than on Agile methodologies or principles like clean code, TDD, or CI/CD. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1420,7 +1501,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:37:23",
+    "calculated_at": "2025-03-15T04:33:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1428,6 +1509,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the features and updates of Team Foundation Server (TFS) 2013 Update 2, with a focus on backlog management, test management, release management, and version management. While TFS can be used in Scrum environments, the content does not explicitly mention Scrum roles, events, or principles, nor does it delve into the Scrum framework or its implementation. Therefore, the alignment with the Scrum category is minimal.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

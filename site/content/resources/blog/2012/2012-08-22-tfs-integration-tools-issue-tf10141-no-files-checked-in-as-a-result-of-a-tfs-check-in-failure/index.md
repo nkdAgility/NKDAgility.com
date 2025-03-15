@@ -33,7 +33,6 @@ tags:
 - Software Development
 - Modern Source Control
 - Practical Techniques and Tooling
-- Install and Configuration
 categories: []
 preview: metro-problem-icon-12-12.png
 

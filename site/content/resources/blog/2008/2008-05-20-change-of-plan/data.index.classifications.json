@@ -217,7 +217,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T10:46:38",
+    "calculated_at": "2025-03-15T07:31:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the complexity of developing features for SharePoint and the challenges of debugging and testing. However, it lacks a detailed exploration of code quality principles, best practices, or complexity theory. The discussion is more focused on project-specific decisions rather than a broader analysis of code and complexity.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -364,7 +364,7 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-10T13:14:44",
+    "calculated_at": "2025-03-15T07:31:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -372,7 +372,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the idea of testing and debugging a system, which could relate to product validation. However, it lacks explicit discussions on user testing, market fit, or customer feedback loops. The focus is more on the technical aspects of development rather than validating product ideas through user engagement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -583,7 +583,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T15:15:30",
+    "calculated_at": "2025-03-15T07:31:05",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -591,7 +591,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the development of a system related to SharePoint, which aligns with software development practices. However, it lacks explicit references to methodologies or best practices, and the discussion is somewhat personal and speculative rather than focused on established software engineering principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -955,7 +955,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T18:58:02",
+    "calculated_at": "2025-03-15T07:31:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -963,7 +963,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the decision-making process regarding the architecture of a system, specifically the choice to separate the TOM system from MOSS. While it touches on aspects of software design and the implications for debugging and testing, it lacks a comprehensive exploration of best practices or principles of software craftsmanship. The focus is more on personal reflections rather than a structured discussion on technical mastery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1195,7 +1195,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T12:12:21",
+    "calculated_at": "2025-03-15T07:31:05",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1203,7 +1203,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the development of a system that will eventually integrate with SharePoint, indicating a focus on software functionality and debugging. However, it lacks explicit references to Agile or Scrum principles, and the discussion is more about planning and initial thoughts rather than delivering high-quality, working software. The depth of discussion is limited, focusing primarily on the author's reflections rather than best practices or customer feedback.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1408,7 +1408,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:59:33",
+    "calculated_at": "2025-03-15T07:31:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1416,6 +1416,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It discusses a project related to SharePoint and the development process but lacks any reference to Scrum methodologies or frameworks. The focus is on technical implementation rather than Scrum practices, resulting in a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

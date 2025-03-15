@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: true
 tags:
-- Customer Feedback Loops
-- Agile Project Management
-- Employee Engagement
 - Team Motivation
-- Software Development
-- Agile Leadership
-- People and Process
-- Scrum Team
-- Software Developers
 - Agile Product Management
+- Agile Project Management
+- Software Development
+- Customer Feedback Loops
+- Product Delivery
+- Team Collaboration
+- Team Performance
+- Customer Satisfaction
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

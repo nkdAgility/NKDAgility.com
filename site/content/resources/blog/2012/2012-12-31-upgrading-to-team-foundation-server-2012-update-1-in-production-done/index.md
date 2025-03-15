@@ -28,6 +28,13 @@ aliasesArchive:
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
 tags:
 - Install and Configuration
+- System Configuration
+- Practical Techniques and Tooling
+- Windows
+- Software Development
+- Troubleshooting
+- Release Management
+- Pragmatic Thinking
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-15-15.png

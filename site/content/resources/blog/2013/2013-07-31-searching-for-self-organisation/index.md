@@ -8,7 +8,7 @@ ResourceImportId: 9741
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-07-31
-weight: 685
+weight: 675
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -24,6 +24,15 @@ aliasesArchive:
 - /resources/blog/searching-for-self-organisation
 tags:
 - Self Organisation
+- People and Process
+- Organisational Agility
+- Agile Values and Principles
+- Team Collaboration
+- Team Motivation
+- Team Performance
+- Organisational Culture
+- Accountability
+- Scrum Team
 categories:
 - Social Technologies
 - Scrum

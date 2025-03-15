@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do-
 - /resources/blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 tags:
+- Scrum Product Development
+- Agile Project Management
 - Scrum Team
+- Software Development
+- Scrum Master
+- Self Organisation
+- Team Collaboration
+- Professional Scrum
 - Software Developers
 - People and Process
-- Agile Project Management
-- Agile Product Management
-- Accountability
-- Scrum Product Development
-- Technical Leadership
-- Agile Leadership
-- Scrum Master
 categories:
 - Social Technologies
 - Scrum

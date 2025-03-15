@@ -24,6 +24,8 @@ aliasesArchive:
 - /resources/blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
 tags:
 - Install and Configuration
+- Windows
+- System Configuration
 categories: []
 preview: metro-sharepoint-128-link-23-23.png
 

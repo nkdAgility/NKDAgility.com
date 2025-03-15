@@ -26,11 +26,7 @@ aliasesArchive:
 - /tfs-event-handler--prototype-released
 - /blog/tfs-event-handler--prototype-released
 - /resources/blog/tfs-event-handler-prototype-released
-tags:
-- Install and Configuration
-- Working Software
-- News and Reviews
-- Software Development
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

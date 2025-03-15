@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/change-of-plan
 - /change-of-plan
 - /resources/blog/change-of-plan
-tags:
-- Pragmatic Thinking
-- Troubleshooting
+tags: []
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

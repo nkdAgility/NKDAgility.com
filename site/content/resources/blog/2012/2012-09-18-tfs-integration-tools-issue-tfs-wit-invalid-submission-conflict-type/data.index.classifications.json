@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:14:56",
+    "calculated_at": "2025-03-15T05:42:33",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses TFS Integration Tools and configuration issues, which are related to DevOps practices, particularly in the context of Continuous Integration and deployment. However, it lacks a broader discussion on DevOps principles, cultural shifts, or tools beyond TFS. The focus is primarily on troubleshooting a specific issue rather than on the integration of people, processes, and tools in a DevOps context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,7 +217,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T11:57:25",
+    "calculated_at": "2025-03-15T05:42:33",
     "ai_confidence": 35.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 0,
     "final_score": 32.0,
     "reasoning": "The content primarily addresses a specific technical issue related to TFS Integration Tools, focusing on configuration and permissions. While it does touch on aspects of technical practices, such as the need for proper permissions and configuration management, it lacks a broader discussion on methodologies or principles that enhance agility or quality in software development. The mention of testing configurations against a test server hints at good practices but does not delve deeply into the core themes of Technical Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -292,7 +292,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T18:04:18",
+    "calculated_at": "2025-03-15T05:42:33",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -300,7 +300,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses TFS Integration Tools, which are part of the Azure DevOps suite, but it primarily focuses on a specific issue related to configuration and permissions rather than providing a broader overview or best practices associated with Azure DevOps. While there are direct mentions of TFS, the discussion lacks depth in terms of Azure DevOps functionalities and methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -385,11 +385,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuration issues and permissions related to TFS Integration Tools, which touches on technical practices and problem-solving in software engineering, but it is primarily focused on a specific issue rather than broader principles of software craftsmanship.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to TFS Integration Tools, focusing on configuration and permissions. While it provides practical solutions, it lacks broader discussions on software craftsmanship, best practices, or methodologies that contribute to technical mastery. The mention of permissions and configuration aligns somewhat with technical practices, but the depth of discussion is limited to troubleshooting rather than exploring principles of software engineering excellence.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -631,7 +634,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T15:02:34",
+    "calculated_at": "2025-03-15T05:42:33",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 20,
@@ -639,7 +642,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses TFS Integration Tools and issues related to configuration and permissions, which are tangentially related to source control practices. However, it lacks a direct focus on version control methodologies, branching strategies, or collaboration workflows, which are core themes of the category. The discussion is primarily about troubleshooting a specific issue rather than exploring broader best practices or strategies in modern source control.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1126,12 +1129,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuration and permission issues related to TFS Integration Tools, which are used in a Windows environment, but the primary focus is on TFS rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses an issue related to the TFS Integration Tools, which is used within the Windows environment. It explicitly mentions configuration settings and user account management, both of which are key topics in the Windows category. The depth of discussion is significant, providing detailed troubleshooting steps and solutions related to permissions and configuration, which aligns well with the core themes of the Windows category. However, it does not cover broader aspects of the Windows operating system itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

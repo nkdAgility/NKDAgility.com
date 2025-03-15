@@ -29,6 +29,11 @@ sitemap:
   priority: 0.6
 tags:
 - Evidence Based Management
+- Metrics and Learning
+- Evidence Based Leadership
+- Decision Making
+- People and Process
+- Decision Theory
 resourceTypes:
 - video
 layout: video

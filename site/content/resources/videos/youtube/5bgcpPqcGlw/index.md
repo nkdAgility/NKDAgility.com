@@ -25,8 +25,15 @@ duration: 3386
 isShort: false
 tags:
 - Operational Practices
-- Software Development
 - Pragmatic Thinking
+- Site Reliability Engineering
+- Azure DevOps
+- Software Development
+- People and Process
+- Agile Project Management
+- Organisational Agility
+- Practical Techniques and Tooling
+- Transparency
 sitemap:
   filename: sitemap.xml
   priority: 0.6

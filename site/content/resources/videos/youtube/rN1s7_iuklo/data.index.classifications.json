@@ -25,7 +25,7 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-07T12:58:48",
+    "calculated_at": "2025-03-14T18:44:00",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -33,7 +33,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses team empowerment and adaptability, which are relevant to organisational psychology, but it primarily focuses on Agile practices and process optimisation rather than psychological principles. The mention of teams needing to change their processes hints at engagement and motivation but lacks depth in exploring psychological theories or their implications on team dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -193,7 +193,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T16:11:31",
+    "calculated_at": "2025-03-14T18:44:00",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -201,11 +201,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the empowerment of Agile teams and the importance of flexibility in processes, which aligns more with Agile philosophy than with specific engineering practices. While it touches on continuous improvement and the need for teams to adapt, it lacks a direct focus on technical methodologies like TDD, CI/CD, or modular architecture. The depth of technical discussion is minimal, primarily offering general advice rather than detailed exploration of technical excellence principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-11T17:24:36",
+    "calculated_at": "2025-03-14T18:44:00",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -213,7 +213,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of empowering teams and adapting processes, which indirectly relates to flow efficiency by promoting flexibility and continuous improvement. However, it lacks direct mentions of flow efficiency principles, specific techniques for identifying bottlenecks, or metrics for measuring flow efficiency. The focus is more on empowerment and ROI rather than optimising throughput across the value stream.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -235,12 +235,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T12:34:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses empowerment and continuous improvement in Agile teams, which aligns with Lean principles, but the primary focus is on Agile methodologies rather than Lean itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and the importance of empowering teams, which aligns with Lean's focus on maximising value. However, it primarily centres on Agile methodologies without a strong emphasis on Lean principles or specific Lean tools and techniques. The mention of continuous improvement is relevant, but the overall discussion lacks depth in Lean-specific strategies and methodologies.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -253,20 +256,26 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:34:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:25:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of empowering teams to adapt their processes, which aligns closely with the principles of business agility. It emphasises flexibility, continuous improvement, and the role of leadership in fostering an agile culture.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of empowering teams within an Agile framework, which directly aligns with the principles of business agility. It highlights the need for flexibility, continuous improvement, and the role of leadership in fostering an adaptable culture. The depth of discussion on how to empower teams and the emphasis on adapting processes to meet unique challenges further supports its relevance to business agility. Overall, the content is a strong fit for the category.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T12:34:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:33:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content includes personal experiences and lessons learned regarding team empowerment in Agile contexts, making it a primary topic.",
+    "final_score": 73.0,
+    "reasoning": "The content includes personal experiences and reflections on the impact of empowering teams within Agile frameworks, which aligns well with the Personal category. It discusses specific anecdotes about two teams' differing outcomes based on their approaches to process adaptation, providing a subjective interpretation of Agile principles. However, while it does touch on personal insights, the primary focus remains on general Agile practices and recommendations, which slightly detracts from its personal nature.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -280,20 +289,26 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:34:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:51:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of empowering teams and adapting processes, which relates to practical techniques in Agile. However, it primarily focuses on empowerment and culture rather than specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of empowering Agile teams and adapting processes, which aligns with the category's focus on practical techniques. However, while it mentions tools and methodologies, it lacks specific examples of tools or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:34:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:11:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the empowerment of Agile teams, which is central to effective product delivery. It addresses methodologies, continuous improvement, and the importance of adapting processes to maximise value, all of which align closely with product delivery principles.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the empowerment of Agile teams, which is closely related to product delivery methodologies. It highlights the importance of flexibility, continuous improvement, and cross-team collaboration, all of which are key aspects of effective product delivery. However, while it touches on relevant themes, it does not delve deeply into specific product delivery practices such as testing, deployment, or metrics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -307,11 +322,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:34:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:44:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the empowerment of teams within an Agile framework, emphasising flexibility, continuous improvement, and the importance of adapting processes to enhance organisational responsiveness and value delivery.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of empowering teams within an Agile framework, which directly aligns with the principles of organisational agility. It highlights the need for flexibility, continuous improvement, and the role of leadership in fostering an agile culture. The depth of discussion on how to empower teams and the emphasis on adapting processes to meet unique challenges further supports its relevance to the category. Overall, the content is a strong fit for discussions on organisational agility.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
@@ -325,20 +343,26 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:34:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:44:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of empowering teams to adapt their processes based on learning, fostering a culture of continuous improvement, and encouraging experimentation, which aligns closely with the principles of discovery and learning.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of empowering teams to adapt their processes based on learning, which aligns closely with the core themes of discovery and learning. It highlights the role of experimentation, continuous improvement, and knowledge sharing, all of which are key aspects of fostering innovation. The depth of discussion is significant, providing detailed strategies for leaders to support a culture of learning and adaptation. Overall, the content is primarily focused on discovery and learning, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:34:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of empowering teams and adapting processes, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on empowerment and Agile practices rather than empirical evidence and data-driven decision-making.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of empowering teams and adapting processes, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on empowerment and continuous improvement without explicitly referencing empirical evidence or metrics that are central to EBM. The discussion lacks depth in terms of data-driven decision-making and does not provide case studies or specific techniques for measuring performance, which are crucial for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "AI and Automation in Agility": {
@@ -361,29 +385,38 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:34:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:44:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the empowerment of Agile teams, focusing on the interplay between team dynamics, organisational culture, and the adaptability of processes, which aligns well with the Sociotechnical Systems category.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the empowerment of Agile teams, which touches on the interplay between social dynamics (team autonomy, culture of continuous improvement) and technical processes (adaptation of workflows). However, while it aligns with sociotechnical principles, it primarily focuses on team empowerment and Agile practices without deeply exploring the broader organisational structures or the theoretical frameworks of sociotechnical systems. The discussion is relevant but lacks comprehensive depth in addressing the full scope of sociotechnical interactions.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T12:34:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adaptability and empowerment in Agile teams, which aligns with complexity thinking principles. However, it primarily focuses on Agile practices rather than a deep exploration of complexity science.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile principles and the importance of team empowerment, which aligns with some aspects of complexity thinking, particularly in terms of adaptability and non-linear dynamics. However, it lacks direct references to complexity science frameworks or theories, and the discussion remains largely focused on Agile practices rather than a deeper exploration of complexity principles.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:34:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of continuous improvement, which aligns with the principles of enterprise agility. However, it primarily focuses on team-level practices without a strong organisational context.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of empowering teams within an Agile framework, which aligns with the principles of adaptability and continuous improvement. However, it primarily focuses on team-level practices rather than broader organisational strategies or frameworks for scaling agility. While it touches on cultural aspects and leadership support, it lacks a comprehensive exploration of enterprise-level agility concepts.",
     "level": "Tertiary"
   },
   "Leadership": {
@@ -430,29 +463,38 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses empowering individual Agile teams and flexibility in their processes, it touches on themes of cross-team collaboration and the importance of leadership support, indicating a major but secondary focus on scaled Agile principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the empowerment of Agile teams and the importance of adapting processes, which aligns with Agile principles. However, it primarily focuses on individual team dynamics rather than the coordination and management of multiple teams or enterprise-level scaling. While there are mentions of cross-team collaboration, the overall emphasis is on individual team empowerment rather than a structured approach to scaling Agile across an organisation.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:44:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the principles of empowerment in Agile teams, adaptability, continuous improvement, and the importance of tailoring processes to maximize value, all of which align closely with Agile Philosophy.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of empowerment in Agile teams, aligning closely with Agile principles such as flexibility, continuous improvement, and value delivery. It provides detailed insights into fostering a culture of empowerment and adaptability, which are core themes of Agile philosophy. The depth of discussion is significant, with practical recommendations for leaders and examples illustrating the impact of these principles in action.",
     "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T18:44:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the empowerment of Agile teams to adapt and change their processes, which aligns closely with principles of effective change management. It emphasizes fostering a culture of continuous improvement, supportive leadership, and flexibility in processes, all crucial aspects of change management in Agile environments.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of empowering teams to adapt their processes, which aligns with change management principles. It highlights fostering a culture of continuous improvement and the role of leadership in supporting teams through change. However, while it touches on change management, it primarily focuses on empowerment and Agile practices, which may dilute its primary focus on change management itself.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -475,20 +517,26 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:44:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses empowering Agile teams, emphasizing autonomy, trust, and support, all vital to team motivation and effectiveness in an agile context.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of empowerment, autonomy, and continuous improvement within Agile teams, which are core themes of team motivation. It provides detailed strategies for fostering a culture that enhances team engagement and collaboration, aligning well with the category's focus. The depth of discussion on leadership's role and the impact of team dynamics further supports a high confidence score.",
     "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses empowerment and adaptation in Agile teams, which aligns with Scrum principles, but it does not focus explicitly on Scrum roles, events, or artifacts as central themes.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of empowerment in Agile teams, which aligns with Scrum principles, particularly around continuous improvement and team autonomy. However, it lacks direct references to specific Scrum roles, events, or artifacts, which diminishes its alignment with the Professional Scrum category. The depth of discussion on Scrum-related practices is moderate, focusing more on general Agile principles rather than the specific frameworks and practices outlined in the Scrum Guide.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
@@ -547,12 +595,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to continuous improvement and empowering teams, which are aligned with Lean principles, though the main focus is on Agile methodologies rather than Lean Thinking specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and team empowerment, which are related to Lean Thinking concepts like continuous improvement and maximising value. However, it lacks direct mentions of Lean principles, specific Lean tools, or waste identification, which are crucial for a stronger alignment with Lean Thinking. The focus is more on Agile methodologies rather than Lean principles, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -565,12 +616,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the empowerment of Agile teams and metrics related to delivering value, which relates to the importance of functionality and responsiveness in delivering working software, but it is primarily focused on team empowerment rather than the direct delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of empowering Agile teams to adapt their processes, which indirectly relates to delivering working software. However, it primarily focuses on team dynamics and empowerment rather than the direct characteristics or metrics of working software itself. While it touches on the outcomes of empowered teams, it lacks a detailed exploration of software quality, functionality, or specific practices for ensuring working software.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -583,20 +637,26 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses empowering teams within an Agile framework and emphasizes the importance of adaptability and a culture of continuous improvement, which aligns with themes of organisational change. However, the focus on specific Agile practices and team autonomy suggests it is primarily about Agile team dynamics rather than broader organisational change strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the empowerment of Agile teams and the importance of adapting processes, which aligns with the principles of organisational change. However, it primarily focuses on team dynamics and Agile practices rather than broader organisational change strategies or frameworks. While it touches on leadership and culture, it lacks detailed exploration of methodologies like ADKAR or Kotter's 8-Step Process, which are central to the category.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:44:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of empowerment in Agile teams and emphasizes fostering a culture of continuous improvement, experimentation, and knowledge sharing, which are key aspects of Continuous Learning.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of empowering teams to adapt and improve their processes, which aligns closely with the principles of Continuous Learning. It highlights the significance of fostering a culture of continuous improvement, encouraging experimentation, and sharing knowledge among teams. The depth of discussion on retrospectives and the role of supportive leadership further reinforces its alignment with the category. However, while the content is rich in relevant themes, it does not explicitly mention Continuous Learning as a term, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -610,20 +670,26 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the empowerment of teams and its impact on effectiveness, which is relevant to evidence-based practices. However, it primarily focuses on Agile principles and personal experiences, making evidence-based leadership a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of empowering teams and adapting processes, which aligns with evidence-based leadership principles. However, it primarily focuses on Agile practices and personal experiences rather than empirical evidence or data-driven decision-making. While there are mentions of continuous improvement and retrospectives, the content lacks a strong emphasis on metrics or case studies that would solidify its connection to evidence-based leadership.",
     "level": "Tertiary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the empowerment of Agile teams, emphasizing adaptability and continuous improvement, which are elements relevant to digital transformation, but the focus is primarily on Agile practices rather than a broader digital transformation strategy.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the empowerment of Agile teams and the importance of adapting processes, which aligns with the themes of business agility and operational efficiency. However, it lacks direct mentions of digital technologies or specific digital transformation strategies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -637,12 +703,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of empowering Agile teams to adapt their processes based on learning and unique contexts, which aligns with the principles of empirical process control. However, it primarily focuses on empowerment and continuous improvement rather than directly on empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of empowering teams to adapt their processes based on learning, which aligns with the principles of empirical process control. It highlights the need for flexibility, continuous improvement, and the role of retrospectives, all of which are key aspects of empirical process control in Agile. However, while it touches on these themes, it does not delve deeply into specific techniques or case studies related to empirical process control, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -655,20 +724,26 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:34",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses experimentation as a part of empowering teams and continuous improvement in Agile processes, but it largely focuses on empowerment and general Agile practices.",
-    "level": "Tertiary"
+    "final_score": 64.0,
+    "reasoning": "The content discusses the importance of empowerment and continuous improvement in Agile teams, with a specific mention of fostering a culture of experimentation. However, while experimentation is mentioned, it is not the primary focus of the content, which centres more on empowerment and flexibility in processes. The discussion lacks detailed exploration of hypothesis-driven methodologies or specific experimentation techniques, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T13:55:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:44:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 16,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of empowerment in Agile teams and the role of leadership in fostering a culture of continuous improvement and flexibility, which aligns well with Agile Leadership principles.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of empowering teams within an Agile framework, which is a core aspect of Agile Leadership. It highlights the role of leaders in fostering a culture of continuous improvement and providing support, aligning well with the key topics of the category. The depth of discussion is significant, with practical recommendations for leaders and personal experiences that illustrate the impact of empowerment. Overall, the content is highly relevant to Agile Leadership, with a strong focus on leadership roles and practices.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -730,20 +805,26 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:44:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Although the content primarily discusses Agile methodologies and team empowerment, it includes elements of continuous improvement and flexibility that align with Lean principles. However, Lean Product Development is not the central theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile principles and team empowerment, which are related to Lean Product Development, but it does not explicitly mention Lean principles or focus on waste reduction and value delivery in the context of product development. The emphasis is more on team dynamics and flexibility rather than on Lean methodologies or specific Lean tools.",
     "level": "Tertiary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:45:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 4,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the empowerment of teams, the importance of autonomy in Agile practices, and fostering a culture of continuous improvement, which are all key aspects of self-organisation.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of empowerment and autonomy in Agile teams, aligning closely with the principles of self-organisation. It provides detailed insights into fostering a culture of continuous improvement, the role of leadership in supporting teams, and the significance of retrospectives and experimentation. The examples and recommendations further illustrate the impact of self-organisation on team performance, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -778,12 +859,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-14T18:45:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "The content discusses empowerment, continuous improvement practices like retrospectives, and the importance of trust and support in team dynamics, which are relevant to Scrum teams but does not focus explicitly enough on Scrum roles or the Scrum framework itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of empowering teams and fostering a culture of continuous improvement, which aligns with Scrum principles. However, it lacks direct references to specific Scrum roles and practices, making it more general in nature. The depth of discussion on retrospectives and team dynamics contributes positively, but the overall focus is broader than just Scrum.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -841,11 +925,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:44:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the empowerment of Agile teams, a key aspect relevant to software developers implementing Agile methodologies.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of empowerment in Agile teams, which is relevant to software developers. It highlights best practices for fostering a culture of continuous improvement and collaboration, aligning with Agile principles. However, while it touches on Agile methodologies, it lacks specific technical discussions or tools directly related to software development, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -859,11 +946,14 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:45:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team empowerment and continuous improvement, which relate to adapting processes and maximizing value, but it lacks a clear focus on long-term strategic goals aligned with business agility.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of empowering teams to adapt their processes, which indirectly relates to strategic goals by highlighting the need for flexibility and responsiveness in achieving long-term objectives. However, it primarily focuses on operational tactics and team empowerment rather than explicitly defining or articulating strategic goals. While there are mentions of maximizing ROI and fostering a culture of continuous improvement, these concepts are not deeply tied to the overarching theme of strategic goals as defined in the category.",
     "level": "Tertiary"
   },
   "Scrum Values": {
@@ -940,12 +1030,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:45:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses empowerment and the importance of teams' autonomy, which relates to accountability in Agile. However, it primarily focuses on empowerment rather than accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses empowerment and continuous improvement in Agile teams, which indirectly relates to accountability. However, it lacks a direct focus on accountability as a primary theme, and the discussion does not explicitly differentiate between accountability and blame. While it touches on team dynamics and the importance of trust, it does not provide in-depth strategies or examples specifically related to accountability practices.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -958,11 +1051,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:44:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses empowering agile teams to maximize their effectiveness and value through flexibility in processes, continuous improvement, and supportive leadership, which aligns closely with enhancing team performance.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the empowerment of Agile teams, focusing on strategies for enhancing team effectiveness and collaboration. It highlights the importance of flexibility in processes, the role of retrospectives, and the need for supportive leadership, all of which align closely with the core themes of team performance. The depth of discussion is significant, providing practical recommendations and personal experiences that illustrate the impact of empowerment on team outcomes.",
     "level": "Secondary"
   },
   "Throughput": {
@@ -1003,21 +1099,24 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:44:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of empowering teams in Agile, emphasizing flexibility, continuous improvement, and the role of leaders in supporting Agile practices, which align well with Agile Project Management principles.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the empowerment of Agile teams, emphasising flexibility, continuous improvement, and the importance of adapting processes to unique team needs. It aligns well with Agile principles, particularly the focus on team autonomy and iterative development. The depth of discussion on fostering a culture of continuous improvement and the role of leadership in supporting Agile practices further strengthens its relevance to Agile Project Management.",
     "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T13:55:24",
+    "calculated_at": "2025-03-14T18:44:00",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses empowerment and adaptability of Agile teams rather than focusing on hypothesis formulation, experimentation, or validated learning principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1057,11 +1156,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:45:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content predominantly discusses the concept of empowering teams, fostering a culture of continuous improvement, and the impact of leadership on team dynamics, which are all central themes in organisational culture within Agile contexts.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the empowerment of teams within an Agile framework, which is closely tied to organisational culture. It discusses the importance of fostering a culture of continuous improvement, supportive leadership, and cross-team collaboration, all of which are key elements of organisational culture. The depth of discussion is substantial, providing specific strategies and personal experiences that illustrate the impact of culture on team dynamics and effectiveness. The content aligns well with the core themes of the category, particularly in how culture influences agility and responsiveness.",
     "level": "Secondary"
   },
   "Azure Boards": {
@@ -1084,11 +1186,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:55:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:45:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Agile methodology in the context of software development, emphasizing the empowerment of teams to maximize value and return on investment, aligning well with software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically the empowerment of teams within Agile frameworks. It discusses the importance of flexibility in processes, continuous improvement, and the role of leadership in supporting Agile practices, which are all core themes of software development. The depth of discussion is substantial, providing detailed insights into how teams can adapt their processes to maximise value and ROI, aligning closely with best practices in software development.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -1264,12 +1369,12 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T13:55:24",
+    "calculated_at": "2025-03-14T18:44:00",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "While the content discusses empowerment in Agile teams and suggests strategies for improvement, it primarily focuses on team processes rather than the mentoring aspect, which is more about individual guidance and coaching.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",

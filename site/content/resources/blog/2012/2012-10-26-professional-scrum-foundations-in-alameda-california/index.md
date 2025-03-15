@@ -31,8 +31,16 @@ aliasesArchive:
 - /blog/professional-scrum-foundations-in-alameda--california
 - /resources/blog/professional-scrum-foundations-in-alameda-california
 tags:
-- Agile Project Management
 - People and Process
+- Scrum Product Development
+- Professional Scrum
+- Software Development
+- Agile Project Management
+- Agile Frameworks
+- Practical Techniques and Tooling
+- Product Delivery
+- Increment
+- Pragmatic Thinking
 categories:
 - Social Technologies
 - Scrum

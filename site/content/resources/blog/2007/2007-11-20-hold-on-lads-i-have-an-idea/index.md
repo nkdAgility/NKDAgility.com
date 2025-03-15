@@ -30,10 +30,7 @@ aliasesArchive:
 - /hold-on-lads--i-have-an-idea-
 - /blog/hold-on-lads--i-have-an-idea-
 - /resources/blog/hold-on-lads-i-have-an-idea
-tags:
-- Digital Transformation
-- Miscellaneous
-- Sociotechnical Systems
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 

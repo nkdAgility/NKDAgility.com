@@ -37,21 +37,27 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences related to Scrum training, particularly the PSPO course, indicating a major but secondary theme of Scrum principles and practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:26:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses immersive learning in professional development but does not explicitly mention Scrum principles, roles, or practices. While it touches on concepts like continuous feedback and collaboration, which are relevant to Scrum, it lacks a direct focus on Scrum as outlined in the Scrum Guide. Therefore, it does not align well with the Professional Scrum category.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:26:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of immersive learning experiences and the importance of feedback loops in training, which relates to organisational dynamics. However, it primarily focuses on training formats rather than a comprehensive exploration of systems thinking within organisations.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses immersive learning and its impact on professional development, touching on concepts like feedback loops and real-time collaboration. However, it primarily focuses on the learning process rather than the broader organisational dynamics or systems thinking principles. While there are elements that align with the category, such as the mention of feedback loops, the overall discussion lacks depth in organisational behaviour and systems thinking, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -94,7 +100,7 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T16:24:37",
+    "calculated_at": "2025-03-14T22:25:18",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -102,7 +108,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses immersive learning as a method for professional development, which touches on themes of continuous improvement and collaboration. However, it lacks a direct focus on Agile leadership principles, such as empowering teams or navigating organisational change. The discussion is more about learning methodologies than leadership roles within an Agile context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -124,11 +130,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences and their positive reception, which relates to the adoption of modern digital methodologies in training. However, it primarily focuses on the format of training rather than a broader strategic discussion on digital transformation.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses immersive learning as a modern approach to professional development, which aligns with the theme of leveraging digital tools for transformation. However, it lacks explicit mentions of digital technologies and does not delve deeply into strategic implementation or case studies related to digital transformation. The focus is more on the learning methodology rather than the broader implications of digital transformation in business.",
     "level": "Tertiary"
   },
   "Working Software": {
@@ -151,12 +160,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of immersive learning experiences and the importance of continuous development, which aligns with self-organisation principles. However, it primarily focuses on the format of training rather than self-organisation as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning and its benefits, which indirectly relates to self-organisation through concepts like real-time collaboration and community support. However, it lacks direct mentions of self-organisation principles and does not focus on Agile methodologies or team autonomy, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -169,12 +181,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous learning and feedback in training formats, which aligns with Lean principles, but it primarily focuses on immersive learning experiences rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:25:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses immersive learning in professional development, which does not directly address Lean Product Development principles. While there are mentions of continuous feedback and iterative learning, these concepts are not explicitly tied to Lean methodologies or waste reduction. The focus is more on the immersive learning experience rather than Lean principles, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -235,12 +250,15 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:26:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the positive response to immersive learning experiences and the importance of continuous engagement with customers, which aligns with customer retention strategies. However, the primary focus is on the learning format rather than explicit retention strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses immersive learning as a method for professional development, highlighting its benefits such as enhanced retention, greater ROI, and increased engagement. These aspects align with customer retention strategies by focusing on delivering continuous value and improving user experience. However, while the content touches on relevant themes, it primarily centres on learning methodologies rather than direct customer retention strategies, which slightly limits its depth of discussion in this specific category.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -262,21 +280,27 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses innovative learning formats and the positive response to immersive experiences, indicating a focus on enhancing value through new approaches, but it primarily revolves around training methods rather than a comprehensive exploration of innovation capabilities.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:25:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses immersive learning as an innovative approach to professional development, highlighting its advantages over traditional methods. While it touches on the importance of continuous improvement and real-time application of knowledge, it lacks a direct focus on the measurement and enhancement of innovation capabilities as defined in the A2I category. The discussion is more about the learning process than about frameworks or metrics for innovation, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences in the context of Agile and mentions Agile, Scrum, and DevOps, but it primarily focuses on the format of training rather than a detailed exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses immersive learning as a professional development approach, with no direct mention of Agile frameworks or their principles. While it touches on concepts like continuous feedback and collaboration, which are relevant to Agile, it does not explore Agile frameworks themselves or provide a comparative analysis. Therefore, the alignment and depth of discussion are minimal.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -289,12 +313,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences and the importance of ongoing communication and feedback, which are relevant to team collaboration, but the primary focus is on the learning format rather than explicit team dynamics or collaboration techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:25:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses immersive learning, which includes elements of collaboration and community support among learners. It highlights real-time collaboration and the importance of ongoing dialogue, aligning with the themes of teamwork and shared ownership. However, the primary focus is on the learning methodology rather than explicit team dynamics or Agile principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -346,12 +373,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences in the context of Agile, Scrum, and DevOps, indicating a secondary theme related to software development methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:25:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses immersive learning in professional development, which is not directly related to software development practices or methodologies. While it touches on concepts like collaboration and feedback loops, these are presented in a general educational context rather than specific software engineering practices. The focus is on learning techniques rather than software development processes, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -382,12 +412,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:26:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the value of continuous development and feedback loops, which aligns with Agile principles, but primarily focuses on the format of training rather than Agile values themselves.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses immersive learning and its advantages, which aligns with Agile principles like continuous improvement and collaboration. However, it does not explicitly mention Agile values or principles, nor does it focus on them as a primary topic. The discussion is more about learning methodologies rather than Agile itself.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -418,39 +451,51 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of learning experiences and the importance of continuous development, which aligns with change management principles, but it primarily focuses on the format of training rather than broader change management strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning as a transformative approach to professional development, which aligns with the broader themes of change management. However, it lacks direct mentions of change management principles and does not delve deeply into strategies for managing change within organisations. While it touches on concepts like continuous improvement and adaptability, these are not explicitly framed within the context of change management, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences and the importance of ongoing feedback and support, which are relevant to mentoring. However, the primary focus is on the format of training rather than direct mentoring practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses immersive learning and its advantages for professional development, touching on aspects like real-time collaboration and feedback loops. However, it lacks a direct focus on mentoring practices or the role of mentors in Agile environments. While it aligns with some mentoring concepts, such as fostering growth and community support, it does not delve deeply into the mentoring process itself.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:26:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of feedback loops and continuous development in learning experiences, which aligns with empirical process control principles. However, it primarily focuses on immersive learning formats rather than a direct discussion of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning and its benefits, touching on concepts like feedback loops and real-time collaboration, which align with empirical process control principles. However, it lacks a direct focus on Agile methodologies or empirical process control as a primary theme, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses user feedback and the evolution of immersive learning experiences, indicating a focus on validating the effectiveness of different training formats. However, it primarily revolves around the delivery of training rather than a structured approach to product validation.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses immersive learning and its advantages, touching on aspects like feedback loops and real-time collaboration, which are relevant to product validation. However, it primarily focuses on the learning process rather than validating product ideas through user engagement. The mention of feedback loops is relevant but not central to the validation of a product. Overall, while there are elements that align with the category, the primary focus is on learning methodologies rather than product validation.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -472,7 +517,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T17:37:22",
+    "calculated_at": "2025-03-14T22:25:18",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -480,7 +525,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses immersive learning as a method for professional development, without any direct reference to software developers or their roles within Agile or DevOps frameworks. While it touches on concepts like collaboration and feedback loops, these are not specifically tied to software development practices or methodologies. Therefore, the content does not align well with the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -565,12 +610,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of immersive learning experiences in relation to Agile and Scrum principles, highlighting practical applications and feedback loops, but it is primarily focused on the learning format rather than a deep exploration of pragmatic thinking strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:26:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses immersive learning as a practical approach to professional development, emphasising real-world application and continuous feedback loops. While it aligns with some core themes of pragmatic thinking, such as the importance of adaptability and real-world application, it lacks direct references to Agile, Scrum, or DevOps frameworks. The depth of discussion on practical problem-solving strategies is moderate, focusing more on the concept of immersive learning rather than specific techniques within the mentioned frameworks.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -583,12 +631,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:26:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences in the context of Agile principles, particularly the importance of continuous development and feedback loops, which are relevant to Agile methodologies. However, it primarily focuses on the learning format rather than Agile project management itself.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content discusses immersive learning and professional development but does not explicitly mention Agile Project Management principles, frameworks, or practices. While there are elements of iterative learning and feedback, they are not framed within an Agile context, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -601,12 +652,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences and their positive reception, with a focus on continuous development and feedback loops, which are relevant to Agile principles. However, it primarily centres on the format of training rather than a comprehensive Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning as a modern approach to professional development, which aligns with Agile principles of continuous learning and adaptability. However, it does not explicitly mention Agile methodologies or strategies, nor does it focus on the strategic alignment of organisational vision with Agile principles. The depth of discussion on immersive learning is substantial, but it lacks a direct connection to Agile strategy, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -637,20 +691,26 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of immersive learning experiences and the importance of feedback loops, which relates to sensemaking in understanding and adapting to learning environments. However, the primary focus is on the format of training rather than a deep exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning and its advantages, which indirectly relates to sensemaking by emphasising continuous dialogue, feedback loops, and real-time collaboration. However, it lacks a direct focus on interpreting complex situations or decision-making processes, which are central to the sensemaking category. The discussion is more about the benefits of a learning approach rather than exploring the dynamics of complexity and uncertainty in organisational contexts.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:26:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the positive response to immersive learning experiences and the importance of continuous development and feedback loops, which are relevant to team engagement and collaboration. However, the primary focus is on the learning format rather than direct team motivation strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses immersive learning and its benefits, which indirectly relates to team motivation through concepts like real-time collaboration and community support. However, it lacks a direct focus on team dynamics or specific motivational strategies, making it more about learning methods than team motivation itself.",
     "level": "Tertiary"
   },
   "Team Performance": {
@@ -700,21 +760,27 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:26:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of iterative learning and continuous improvement in training formats, which aligns with Lean principles. However, it primarily focuses on immersive learning experiences rather than Lean concepts directly.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content discusses immersive learning and its advantages, focusing on continuous conversation, feedback loops, and progressive development. However, it does not explicitly mention Lean Principles or their core concepts such as waste reduction or value maximisation. The discussion is more aligned with modern learning methodologies rather than Lean practices.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:26:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences and their positive reception, with a focus on continuous development and feedback loops, which are relevant to Agile principles. However, it primarily centres on the format of training rather than a comprehensive discussion on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning as a modern approach to professional development, which includes elements like feedback loops and continuous conversation. However, it does not explicitly mention Agile principles, frameworks, or transformation strategies. While there are some concepts that align with Agile methodologies, such as iterative learning and community engagement, the primary focus is on immersive learning rather than Agile transformation itself.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -835,12 +901,15 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:26:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses customer feedback and the evolution of immersive learning experiences, which relates to understanding user needs and validating ideas. However, it primarily focuses on the format of training rather than a structured exploration of product discovery methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning as a method for professional development, which touches on user engagement and feedback loops. However, it lacks a direct focus on product discovery methodologies, customer needs, or defining product features. The primary emphasis is on learning techniques rather than product development processes.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -853,12 +922,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:26:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of continuous development and feedback loops, which are relevant to Agile principles, but it primarily focuses on immersive learning experiences rather than Agile Planning specifically.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses immersive learning and its advantages, with no direct mention of Agile Planning principles or practices. While it touches on concepts like feedback loops and collaboration, these are not specifically tied to Agile methodologies or planning. The focus is on learning rather than project delivery or Agile frameworks.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -952,12 +1024,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the value of continuous development and feedback loops, which are key aspects of Agile philosophy, but it primarily focuses on the format of training rather than the broader implications of Agile as a mindset.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses immersive learning, which aligns with Agile principles such as continuous improvement and feedback loops. However, it does not explicitly mention Agile philosophy or its foundational principles, making it a secondary focus rather than a primary discussion on Agile.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1054,12 +1129,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:26:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the evolution of immersive learning experiences and the positive response to new training formats, which suggests a theme of adaptability and continuous improvement. However, it primarily focuses on training methods rather than broader organisational resilience or change management strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the shift towards immersive learning in professional development, which aligns with the themes of adaptability and continuous improvement. However, it primarily focuses on the learning methodology rather than explicitly addressing organisational resilience or change management practices. While it touches on the benefits of this approach for businesses, it lacks a deeper exploration of frameworks or strategies specifically aimed at enhancing organisational resilience.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1099,21 +1177,27 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences and their positive reception, touching on aspects of continuous development and feedback loops, which are relevant to product delivery, but the primary focus is on the learning format rather than the methodologies of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning as a method for professional development, which touches on aspects of iterative learning and feedback loops. However, it lacks a direct focus on product delivery methodologies, deployment, or the integration of planning and development phases. While it mentions concepts like feedback loops and real-time collaboration, these are more aligned with learning processes than with the end-to-end delivery of software products. Therefore, the overall confidence score reflects a low alignment with the core principles of product delivery.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences and their positive reception, with a focus on continuous development and feedback loops, which are relevant to Agile principles. However, it primarily centres on training formats rather than direct Agile product management practices.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses immersive learning in professional development, which does not directly relate to Agile Product Management. While there are mentions of feedback loops and collaboration, these concepts are not specifically tied to Agile methodologies or product management practices. The focus is on learning techniques rather than product value maximisation or Agile principles.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1129,12 +1213,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of feedback loops and continuous development in immersive learning experiences, which aligns with Systems Thinking principles. However, the primary focus is on the format of training rather than a comprehensive exploration of Systems Thinking itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:25:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses immersive learning and its advantages, touching on concepts like feedback loops and real-time collaboration, which align with Systems Thinking principles. However, it primarily focuses on the immersive learning approach rather than a comprehensive exploration of Systems Thinking itself. The discussion lacks depth in terms of foundational principles and techniques specific to Systems Thinking, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1165,12 +1252,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive learning experiences and their evolution, which relates to workshops and training formats. However, it does not focus primarily on specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses immersive learning as a modern approach to professional development, but it does not specifically reference any events, presentations, or structured learning experiences. While it touches on concepts relevant to workshops and training, it lacks direct mentions of actual events or presentations, which are crucial for this category.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1183,12 +1273,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 32,
+    "ai_depth": 37,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning experiences and training formats, which are relevant to the broader context of business agility but do not directly reference specific Agile, Scrum, or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses immersive learning as a modern approach to professional development without directly referencing Agile, Scrum, DevOps, or Lean methodologies. While it touches on themes of continuous learning and community engagement, which are relevant to Agile principles, it does not explicitly connect to any established frameworks. The depth of discussion on immersive learning and its advantages indicates a strong focus on a topic that fits within the Miscellaneous category, but the lack of direct ties to recognised practices keeps the confidence score moderate.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -1219,12 +1312,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses innovative learning formats and continuous development, which are relevant to fostering a culture of adaptability and responsiveness in businesses, but it primarily focuses on training methods rather than broader business agility principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning as a modern approach to professional development, which aligns with the principles of adaptability and innovation in business agility. However, it lacks direct mentions of business agility and does not delve deeply into the specific strategies or frameworks that would typically be associated with this category. The focus is more on learning methodologies rather than the broader organisational agility context.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1258,12 +1354,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of immersive learning experiences and their positive reception, highlighting the importance of continuous development and feedback loops, which are relevant to organisational agility. However, the primary focus is on the learning format rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses immersive learning as a modern approach to professional development, which aligns with the principles of adaptability and responsiveness in organisational agility. However, it lacks direct mentions of organisational agility and does not delve deeply into agile methodologies or cultural shifts. The focus is more on learning techniques rather than broader organisational strategies.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1291,12 +1390,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the evolution of immersive learning experiences and their impact on training effectiveness, which touches on the interplay between educational methods (technical) and organisational needs (social). However, the primary focus is on the learning format rather than a deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses immersive learning in professional development, touching on aspects of collaboration and community, which are relevant to sociotechnical systems. However, it primarily focuses on the learning methodology rather than the interplay between technology and organisational structures. While there are mentions of community and collaboration, the depth of discussion on sociotechnical interactions is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1309,12 +1411,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T16:42:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:25:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses feedback loops and the importance of continuous development in learning experiences, which aligns with the category, but it primarily focuses on the format of training rather than metrics or data-driven decision-making.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses immersive learning and its benefits, including feedback loops and continuous improvement, which align with the core themes of the category. However, it lacks a strong focus on metrics and data analysis, which are crucial for a higher confidence score. The discussion is more about the learning process rather than specific metrics or evidence-based management principles.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1420,7 +1525,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:19:04",
+    "calculated_at": "2025-03-14T22:25:18",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1428,6 +1533,6 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions Agile and Scrum in the context of immersive learning experiences, but it does not delve into specific Scrum roles, events, or principles. While there is a focus on continuous development and feedback loops, which align with Scrum's iterative nature, the discussion lacks depth and does not provide detailed insights into Scrum practices or frameworks. The mention of 'Agile, Scrum, or DevOps' at the end is too vague to significantly enhance the relevance to the Scrum category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

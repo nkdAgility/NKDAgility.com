@@ -121,7 +121,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-06T15:11:17",
+    "calculated_at": "2025-03-14T22:06:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -129,7 +129,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Scrum Masters, which is a role within the Scrum framework, but it primarily focuses on the importance of camera quality for engagement rather than discussing Agile frameworks in depth. While there is a connection to Scrum, the discussion lacks a broader exploration of Agile principles or comparative analysis of frameworks, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -205,7 +205,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-07T13:36:03",
+    "calculated_at": "2025-03-14T22:06:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -213,7 +213,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the importance of visual engagement in team interactions, which relates to team dynamics and communication. However, it lacks a comprehensive discussion on strategies, methodologies, or practices that directly enhance team performance. The focus on camera quality is more about the tools for engagement rather than the broader themes of team collaboration or performance metrics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -283,7 +283,7 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-03-10T14:12:14",
+    "calculated_at": "2025-03-14T22:06:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -291,7 +291,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the role of Scrum Masters, which is relevant to Agile Project Management, but it primarily focuses on the importance of camera quality for engagement rather than discussing agile principles or methodologies in depth. The discussion lacks substantial detail on agile practices or frameworks, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -559,7 +559,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T10:06:28",
+    "calculated_at": "2025-03-14T22:06:12",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -567,7 +567,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the personal perspective of a Scrum Master regarding the importance of good camera quality for engagement. However, it lacks deeper personal anecdotes or reflections on experiences with Agile practices, making it more of a general observation rather than a personal insight.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -898,12 +898,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T18:10:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:14:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engagement and body language in the context of Scrum Master roles, which relates to coaching techniques, but it primarily focuses on the use of cameras rather than coaching practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of a Scrum Master in enhancing team engagement through visual tools, which aligns with coaching principles. It highlights the importance of emotional connection and creating a safe space, both of which are crucial for effective coaching. However, while it touches on coaching aspects, it primarily focuses on the use of technology rather than in-depth coaching techniques or strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -988,12 +991,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T18:10:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:06:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of visual engagement in team dynamics, which is a sociotechnical aspect, but it primarily focuses on the use of cameras rather than a broader exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of visual engagement tools, specifically cameras, in enhancing team interactions, which touches on the social aspects of teamwork. However, it primarily focuses on technical tools without a comprehensive exploration of their organisational context or the interplay between social and technical systems. While it mentions team dynamics and communication, it lacks depth in discussing broader sociotechnical principles or frameworks.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1024,12 +1030,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T18:11:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:44:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of visual engagement and body language in Scrum Master roles, which relates to practical problem-solving and effective team interaction, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical strategies for Scrum Masters to enhance team engagement through the use of quality cameras, which aligns with pragmatic thinking in Agile contexts. It provides specific recommendations and insights based on personal experience, demonstrating a real-world application of theories. However, while it touches on important aspects of engagement and adaptability, it does not delve deeply into broader Agile or Scrum principles, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1249,12 +1258,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T18:11:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:01:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of visual engagement and body language in team interactions, which relates to team dynamics and motivation, but it primarily focuses on the use of cameras rather than broader motivational strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of visual engagement and emotional connection in team interactions, which aligns with the core themes of fostering collaboration and creating a safe space for communication. However, while it touches on team dynamics, the focus on camera quality and technical recommendations detracts from a deeper exploration of team motivation strategies. The discussion is relevant but not exhaustive, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

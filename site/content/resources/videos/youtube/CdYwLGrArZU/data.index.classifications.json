@@ -55,7 +55,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-07T13:44:15",
+    "calculated_at": "2025-03-14T23:10:24",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -63,7 +63,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the challenges faced by product owners in a PSPO course, hinting at the need for greater involvement and influence in strategic discussions. However, it primarily focuses on the role of product owners rather than the broader principles of business agility. While there is a mention of accountability and competence, the discussion lacks depth and does not explore key topics such as innovation, leadership, or organisational responsiveness, which are central to business agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -217,7 +217,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T18:12:27",
+    "calculated_at": "2025-03-14T23:10:24",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content touches on the role of product owners and their influence within the team, which relates to team dynamics and accountability. However, it lacks a direct focus on team performance strategies or methodologies, making it more of a secondary mention rather than a primary discussion on team performance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -361,12 +361,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T21:06:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:10:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners in influencing product strategy and accountability within an organisation, which relates to fostering a culture of agility and collaboration. However, it primarily focuses on team-level dynamics rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the challenges faced by Product Owners in asserting their influence within an organisation, which touches on aspects of empowerment and accountability. However, it lacks a broader organisational context and does not explicitly address enterprise agility frameworks, structures, or cultural aspects. The focus remains on individual roles rather than the collective agility of the organisation.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -379,12 +382,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T21:06:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:10:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners in influencing product direction and accountability, which relates to technical leadership in guiding teams. However, it primarily focuses on the challenges faced by product owners rather than on broader technical leadership principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the challenges faced by Product Owners rather than focusing on technical leadership principles. While it touches on empowerment and accountability, it lacks direct references to agile methodologies, team dynamics, or mentoring strategies that are central to technical leadership. The discussion is more about individual roles and feelings than about guiding teams or fostering collaboration.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -406,21 +412,27 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T21:06:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners in managing the product backlog and influencing the product goal, which relates to Agile Planning principles. However, it primarily focuses on the challenges faced by product owners rather than providing a comprehensive discussion on Agile Planning methodologies or practices.",
+    "calculated_at": "2025-03-14T15:26:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners, which indirectly relates to Agile Planning, particularly in terms of backlog management and stakeholder engagement. However, it lacks a direct focus on Agile Planning principles and does not provide in-depth strategies or methodologies related to Agile Planning.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T21:06:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and their influence on the product backlog and strategic direction, which relates to Agile principles of collaboration and accountability, but it primarily focuses on the challenges faced by product owners rather than a deep exploration of Agile values.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:10:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners, which indirectly touches on Agile principles such as empowerment and accountability. However, it primarily focuses on the role of the Product Owner within a specific context rather than the broader Agile values and principles. The discussion lacks direct references to the Agile Manifesto or its core values, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -460,12 +472,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T21:06:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners in influencing organisational dynamics and accountability, which relates to organisational culture, but it primarily focuses on individual actions and responsibilities rather than a broader cultural context.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:10:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners, touching on themes of empowerment and accountability, which are relevant to organisational culture. However, it primarily focuses on individual experiences and roles rather than a broader examination of organisational culture's influence on agility or team dynamics. The discussion lacks depth in exploring cultural dimensions or strategies for fostering a culture of continuous improvement, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -487,12 +502,15 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T21:06:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners in influencing the product backlog and strategic direction, which relates to backlog refinement, but it is primarily focused on the challenges faced by product owners rather than the refinement process itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:10:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners, touching on their role in backlog management. However, it lacks a direct focus on backlog refinement practices and techniques, making it more about empowerment than refinement itself.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -505,11 +523,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T21:06:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners in Agile environments and hints at the need for organisational change to empower them, which aligns with Agile transformation themes, but it is not the primary focus.",
+    "calculated_at": "2025-03-14T23:10:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of the Product Owner within the context of Agile practices, particularly in relation to empowerment and accountability. However, it lacks a direct focus on Agile transformation strategies or methodologies. While it touches on the challenges faced by Product Owners, it does not delve deeply into the principles of Agile transformation or provide substantial insights into frameworks or change management strategies. Therefore, while there is some alignment with Agile principles, the overall depth and direct mention of Agile transformation are limited.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
@@ -541,12 +562,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T21:06:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:10:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges faced by product owners in adapting to their roles and the need for organisational change to enhance their influence and accountability, which aligns with themes of resilience and change management.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners and the need for empowerment and accountability, which touches on themes of adaptability and change. However, it lacks a direct focus on organisational resilience or structured change management practices. The discussion is more about individual roles and feelings rather than broader organisational strategies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -568,20 +592,26 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T21:06:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners in relation to the product backlog, highlighting issues of control and influence over backlog prioritisation, which is a significant theme but not the primary focus.",
+    "calculated_at": "2025-03-14T23:10:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners, particularly their perceived lack of control over the product backlog and strategic direction. While it touches on the role of the Product Owner, it does not delve deeply into the specifics of backlog management or prioritisation techniques, which are central to the Product Backlog category. The focus is more on empowerment and accountability rather than the backlog itself.",
     "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T21:06:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T23:10:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content reflects personal insights and experiences related to the challenges faced by product owners in a PSPO course, discussing the importance of accountability and competence in Agile practices. However, it primarily focuses on the challenges rather than personal anecdotes or reflections.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on personal reflections and experiences of Product Owners in a PSPO course, discussing their feelings of lack of control and empowerment. It aligns well with the Personal category by sharing individual insights and challenges faced in the role, although it does touch on broader themes of Scrum and Agile without delving into technical details. The depth of discussion is significant, as it encourages introspection and personal growth, making it a strong candidate for the Personal category.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -613,12 +643,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T21:06:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the Product Owner and their challenges, which is a significant aspect of Scrum Team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:10:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner, which is a key role within a Scrum Team. While it does not explicitly mention other roles or team dynamics, it aligns with the themes of empowerment and accountability in Scrum. However, the depth of discussion is limited to the Product Owner's perspective, lacking broader insights into team collaboration or dynamics.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -676,21 +709,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T21:07:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:10:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges faced by product owners in influencing change within their organisation, which aligns with themes of change management, but it primarily focuses on the role of product owners and their interactions rather than a comprehensive discussion on change management strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the challenges faced by Product Owners in Agile environments, focusing on their feelings of lack of control and influence. While it touches on empowerment and accountability, which are relevant to change management, it does not explicitly address change management strategies or practices. The discussion is more centred on individual roles rather than organisational change, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T21:07:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:10:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners and their influence on team dynamics, which relates to collaboration, but it primarily focuses on individual accountability and competence rather than team collaboration as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners, touching on themes of empowerment and accountability, which are relevant to team dynamics. However, it primarily focuses on individual experiences rather than collective team collaboration, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -721,29 +760,38 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T21:07:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:10:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges faced by product owners in influencing product direction and encourages them to seek opportunities for growth and learning within their organisation, which aligns with the theme of continuous learning and adaptation.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners and encourages introspection and empowerment, which aligns with the themes of learning and adaptation. However, it primarily focuses on the role of the Product Owner and lacks a broader discussion on methodologies or frameworks that foster discovery and learning. The mention of empowerment and accountability hints at learning but does not delve deeply into the processes or techniques that support continuous learning or innovation.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T21:07:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges faced by product owners in exercising control and influence, which relates to self-organisation, but it primarily focuses on the lack of control rather than the principles or practices of self-organisation itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:10:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners in asserting control and influence, which touches on themes of empowerment and accountability. However, it primarily focuses on the frustrations of Product Owners rather than exploring self-organisation principles or practices in depth. While there are mentions of empowerment, the overall discussion lacks a strong emphasis on self-organisation as a primary focus.",
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:07:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and their influence on the product backlog and strategic direction, which aligns with the Agile Product Operating Model. However, it primarily focuses on individual experiences and challenges rather than a comprehensive discussion of the model itself.",
+    "calculated_at": "2025-03-14T23:10:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners, which touches on aspects of the Agile Product Operating Model, particularly the empowerment and accountability of the role. However, it lacks a comprehensive exploration of the model's principles, strategies, or metrics, making it more of a personal reflection than a detailed discussion on the Agile Product Operating Model.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -775,21 +823,27 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T21:07:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners within an organisational context and hints at the dynamics of influence and accountability, which are relevant to organisational behaviour. However, it primarily focuses on individual roles and actions rather than a comprehensive systems thinking approach.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:10:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of Product Owners and their feelings of lack of control within an organisational context, which touches on aspects of organisational dynamics. However, it primarily focuses on individual experiences and empowerment rather than a comprehensive exploration of systems thinking or organisational physics principles. The mentions of organisational roles and the call for empowerment indicate some relevance, but the depth of discussion on systems thinking is limited.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T21:07:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:11:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges product owners face regarding control and influence over the product backlog and strategic direction, which relates to transparency in communication and accountability within Agile processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the feelings of Product Owners regarding their lack of control and influence, which indirectly touches on transparency issues. However, it primarily focuses on empowerment and accountability rather than explicitly addressing transparency in Agile processes. The mentions of control and influence suggest a desire for more transparency, but the discussion lacks depth and direct references to transparency practices or tools.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -838,12 +892,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T21:07:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:11:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges faced by product owners in a PSPO course and suggests ways to elevate their role, which aligns with mentoring themes. However, it primarily focuses on the product owner's perspective rather than a broader mentoring approach.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners and encourages self-reflection and empowerment, which aligns with mentoring principles. However, it lacks direct mentions of mentoring techniques or the role of a mentor, and the depth of discussion on mentoring is limited.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -856,20 +913,26 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T21:07:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:11:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges faced by product owners in influencing product direction and the need for them to engage at a higher level within their organisation, which relates to sensemaking in terms of understanding their role and navigating organisational dynamics. However, the primary focus is on the responsibilities of product owners rather than a broader exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners in terms of control and influence within their roles, which touches on aspects of sensemaking. However, it primarily focuses on personal empowerment and accountability rather than a structured exploration of sensemaking principles or frameworks. The discussion lacks depth in terms of frameworks or models that aid in understanding complexity, and while it mentions the need for introspection and proactive steps, it does not delve into the dynamics of complexity or uncertainty in decision-making processes.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T21:07:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:11:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners in influencing the strategic direction of the product, which aligns with strategic alignment and the development of a value-driven approach in Agile environments. However, it primarily focuses on the challenges faced by product owners rather than a comprehensive discussion on strategy.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners in influencing strategic decisions and highlights the importance of empowerment and accountability. However, it lacks a direct focus on strategic frameworks or detailed discussions on Agile strategy, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Operational Practices": {
@@ -883,11 +946,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T21:07:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners and their influence within Agile practices, indicating a focus on collaboration and accountability, which are aligned with Agile principles. However, it primarily centres on specific challenges faced in a PSPO course rather than a broader discussion of Agile philosophy.",
+    "calculated_at": "2025-03-14T23:11:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners, touching on themes of empowerment and accountability, which align with Agile principles. However, it primarily focuses on specific roles within the Scrum framework rather than the broader Agile philosophy, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -901,11 +967,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T21:07:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:11:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners in a PSPO course and hints at the need for personal growth and accountability, which aligns with coaching principles, but it primarily focuses on the challenges faced by product owners rather than coaching techniques or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners and encourages self-reflection and empowerment, which aligns with coaching principles. However, it primarily focuses on the role of the Product Owner rather than coaching techniques or practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -919,11 +988,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T21:07:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:11:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for product owners to elevate their understanding and engagement within their organisation, which aligns with the theme of continuous learning and growth mindset. However, it primarily focuses on the challenges faced by product owners rather than a broader exploration of continuous learning principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners and encourages introspection and proactive steps for empowerment, which aligns with the principles of Continuous Learning. However, it lacks explicit discussions on growth mindset, knowledge sharing, or specific practices for continuous improvement, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Boards": {
@@ -955,11 +1027,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T21:07:58",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of Product Owners in Agile frameworks, particularly their influence on product backlog and strategic direction, which aligns closely with Agile Product Management principles.",
+    "calculated_at": "2025-03-14T23:11:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within Agile frameworks, particularly highlighting their challenges and the need for empowerment and accountability. It discusses the importance of Product Owners influencing the product backlog and strategic direction, which aligns well with Agile Product Management principles. However, while it touches on key themes, it lacks detailed strategies or methods for prioritising backlogs or incorporating customer feedback, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -991,12 +1066,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T21:08:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:11:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners within an organisational context and hints at the interplay between individual capabilities and organisational dynamics, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners, touching on their perceived lack of control and influence within their organisational context. While it highlights the importance of empowerment and accountability, it does not explicitly address the interplay between social and technical systems or delve into organisational structures and their impact on software delivery. The focus is more on individual roles and feelings rather than a comprehensive exploration of sociotechnical systems.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1027,11 +1105,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T21:08:09",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T23:11:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the challenges faced by product owners in a PSPO course and suggests practical steps they can take to improve their influence and accountability within their organisation, aligning with pragmatic problem-solving strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners in Agile environments, highlighting the need for empowerment and proactive engagement. While it touches on practical issues and encourages introspection, it lacks detailed strategies or case studies that would strengthen its alignment with pragmatic thinking. The focus is more on personal experiences and feelings rather than concrete problem-solving techniques or real-world applications of Agile principles.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -1090,20 +1171,26 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T21:08:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:11:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners in relation to product strategy and their influence on the product backlog and goals, indicating a major but secondary theme of product strategy.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the challenges faced by Product Owners in influencing product strategy and their perceived lack of control over strategic decisions. While it touches on the importance of empowerment and accountability, it primarily focuses on the role of the Product Owner rather than providing a comprehensive discussion on product strategy methodologies or frameworks. The mentions of strategic direction and product goals indicate some alignment with the category, but the depth of discussion is limited to personal experiences and sentiments rather than detailed strategic planning or market analysis.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T21:08:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:11:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners in a Scrum context, which is a significant aspect of Agile methodologies in software development. However, it primarily focuses on the challenges faced by product owners rather than broader software development practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of Product Owners within the context of Agile and Scrum, which are methodologies relevant to software development. However, the focus is more on personal experiences and empowerment rather than on specific software development practices or methodologies. While it touches on the importance of the Product Owner role, it lacks detailed exploration of software development processes or frameworks, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
@@ -1189,11 +1276,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T21:08:33",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and responsibilities faced by Product Owners in managing the product backlog and engaging with stakeholders, which aligns closely with the key topics of the Product Owner role.",
+    "calculated_at": "2025-03-14T23:11:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the challenges and sentiments of Product Owners, highlighting their desire for more control and influence over the product backlog and strategic direction. It aligns well with the responsibilities and empowerment aspects of the Product Owner role, providing insights into their experiences and suggesting introspective questions for improvement. The depth of discussion is significant, focusing on the empowerment and accountability of Product Owners, which is central to their role in Agile and Scrum frameworks.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -1243,20 +1333,26 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T21:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners in influencing the product backlog and strategic direction, which relates to leadership within an Agile context. However, it primarily focuses on the challenges faced by product owners rather than broader Agile leadership themes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:11:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the empowerment and accountability of Product Owners, which aligns with Agile Leadership principles. However, it primarily focuses on the challenges faced by Product Owners rather than on leadership roles or practices within an Agile context. The discussion is relevant but lacks depth in exploring broader Agile leadership themes.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T21:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:11:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners in influencing team dynamics and accountability, which relates to team motivation, but it primarily focuses on individual actions and responsibilities rather than broader team engagement strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the empowerment and accountability of Product Owners, which relates to team motivation by highlighting the importance of engagement and ownership within agile teams. However, it primarily focuses on individual experiences rather than broader team dynamics, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1324,12 +1420,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T21:08:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner and their influence on the product backlog and product goal, which are relevant to Scrum practices, but it does not delve deeply into Scrum methodologies or product development processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:11:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the challenges and empowerment of the Product Owner role within the Scrum framework. It mentions the Product Backlog and the need for Product Owners to engage more actively in their roles, which aligns with Scrum principles. However, it lacks detailed discussions on specific Scrum practices, such as sprint planning or execution, which limits its depth. Overall, while it touches on relevant themes, it does not provide a comprehensive exploration of Scrum product development.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",

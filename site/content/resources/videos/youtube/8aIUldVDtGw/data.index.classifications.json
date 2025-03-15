@@ -61,21 +61,27 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:45:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focus and workflow in teams, which relates to coaching principles, but it primarily centres on Lean and Scrum methodologies rather than coaching practices themselves.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks and the role of leadership in managing priorities, which indirectly relates to coaching principles. However, it primarily centres on productivity and task management rather than the core themes of coaching, such as fostering growth, providing feedback, or building trust within teams.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:45:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of focusing on finishing work rather than starting new tasks, which aligns with evidence-based practices in leadership. However, it primarily revolves around Lean and Scrum methodologies rather than explicitly addressing evidence-based leadership principles or empirical data to inform leadership decisions.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks rather than multitasking, which aligns with evidence-based practices in leadership. However, it primarily centres on productivity and Scrum methodologies without deeply engaging with empirical evidence or leadership decision-making processes. While it mentions the role of leadership in managing priorities, it lacks a thorough exploration of evidence-based management principles or data-driven decision-making.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -298,11 +304,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-12T10:23:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:06:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of focus and finishing work within teams, particularly in the context of Scrum and Lean methodologies. It highlights the role of the product owner in facilitating team collaboration and the impact of team dynamics on project delivery, aligning well with the themes of teamwork and communication in Agile frameworks.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks within Scrum teams, which aligns with team collaboration principles. It mentions the role of the Product Owner in managing priorities, which is relevant to team dynamics. However, the primary focus is on productivity and task management rather than direct collaboration techniques or team dynamics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -316,20 +325,26 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-12T10:23:28",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Lean principles, particularly the importance of finishing work over starting new tasks, which aligns closely with Lean Thinking concepts. It integrates Lean ideas with Scrum practices, emphasising workflow definition, value maximisation, and waste reduction, making Lean Thinking a central theme.",
+    "calculated_at": "2025-03-13T15:28:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses Lean principles, particularly the importance of limiting work in progress (WIP) and the philosophy of 'stop starting and start finishing,' which aligns closely with Lean Thinking. It also integrates Lean concepts with Scrum, highlighting how both methodologies can enhance efficiency and value delivery. The depth of discussion is substantial, covering the impact of multitasking, context switching, and the role of leadership in promoting these practices. Overall, the content is a strong fit for the Lean Thinking category.",
     "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T10:23:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:36:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of finishing work over starting new tasks, directly linking this to the concept of Cycle Time and its impact on delivery speed and team performance. It also references cumulative flow diagrams and the relationship between work in progress and Cycle Time, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content discusses the importance of focusing on finishing tasks to reduce cycle times and improve efficiency, which aligns well with the core themes of the Cycle Time category. It explicitly mentions cycle times and provides strategies for limiting work in progress (WIP) to enhance productivity. However, while it touches on these concepts, the primary focus is more on the philosophy of task completion rather than an in-depth analysis of cycle time measurement or its implications in Agile and DevOps practices.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -352,11 +367,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T10:23:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T14:54:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum practices, Lean methodologies, and the importance of workflow management in software development, making it a central theme.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the importance of focusing on task completion within Scrum teams, aligning closely with Agile methodologies and practices. It provides detailed insights into the impact of multitasking, context switching, and the role of leadership in prioritising tasks, which are all relevant to software development processes. The depth of discussion on Scrum principles and Lean methodology further supports its strong alignment with the Software Development category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -373,12 +391,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T10:23:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:14:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the importance of finishing work over starting new tasks, which directly relates to throughput in Agile and Lean contexts. It addresses concepts such as limiting work in progress, cycle time, and the impact of context switching on team performance, all of which are central to understanding and optimising throughput.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content primarily focuses on the concept of throughput by discussing the importance of completing tasks over starting new ones, which directly relates to the measurement of work completion rates. It mentions limiting work in progress (WIP), the impact of context switching on productivity, and strategies for improving efficiency, all of which align with the key topics of throughput. The depth of discussion is substantial, providing insights into how these practices can enhance team performance and delivery timelines.",
+    "level": "Primary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -418,11 +439,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-12T10:23:43",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the role of the Product Owner in managing stakeholder expectations and prioritising work, which aligns with the responsibilities of the Product Owner. However, it also covers broader themes related to team dynamics and Lean principles, making it a secondary theme rather than the primary focus.",
+    "calculated_at": "2025-03-14T19:45:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of the Product Owner in managing priorities and ensuring focus on delivering value, which aligns well with the responsibilities of a Product Owner in Agile and Scrum. It explicitly mentions the Product Owner's role in limiting work in progress and prioritising tasks based on value, which are key aspects of the role. However, while the content is relevant, it also covers broader themes of productivity and team dynamics, which slightly detracts from its primary focus on the Product Owner.",
     "level": "Secondary"
   },
   "Change Management": {
@@ -481,11 +505,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T10:23:56",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the importance of focus and workflow in Agile methodologies, particularly Scrum, which is relevant to software developers. However, it also touches on broader themes of team dynamics and management pressures, making it a secondary theme rather than the primary focus.",
+    "calculated_at": "2025-03-14T19:45:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks within Scrum teams, which aligns with Agile methodologies. It mentions Scrum roles and principles, particularly the role of the Product Owner in managing priorities. However, while it touches on relevant themes, the primary focus is more on general productivity and management strategies rather than deeply exploring the role of software developers specifically within Agile and DevOps contexts.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -562,20 +589,26 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:46:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices, particularly Scrum and Lean, and touches on the importance of focus and value delivery, which are relevant to scaling Agile. However, it primarily centres on individual team dynamics rather than enterprise-level scaling or coordination among multiple teams.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the importance of focusing on completing tasks rather than multitasking, which is relevant to Agile practices. However, it does not explicitly address scaling Agile across multiple teams or enterprise-level strategies. While it mentions Scrum and Lean methodologies, the discussion remains largely centred on individual team dynamics rather than the broader context of Scaled Agile frameworks or coordination among multiple teams.",
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T10:24:10",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies within Agile and Lean frameworks, emphasising the importance of focusing on finishing work rather than starting new tasks. It integrates real-world applications of Lean and Scrum principles, highlighting the impact of context switching and the role of a single product owner in enhancing team focus and value delivery.",
+    "calculated_at": "2025-03-14T19:45:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses practical strategies for improving team productivity within Agile and Scrum frameworks, particularly through the lens of limiting work in progress and focusing on task completion. It aligns well with the core themes of pragmatic thinking by providing actionable insights and real-world applications of Lean and Scrum principles. The depth of discussion is significant, offering detailed explanations and examples that illustrate the importance of these concepts in navigating complexity and enhancing team efficiency.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -589,11 +622,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T10:24:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:45:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum roles, the importance of a single product owner, and the relationship between Lean and Scrum methodologies, focusing on iterative work and value delivery.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses Scrum principles, particularly the role of the Product Owner and the importance of limiting work in progress (WIP). It aligns well with agile methodologies by emphasising iterative progress and value-based prioritisation. The depth of discussion on how to implement these agile principles in practice further supports its strong alignment with the category.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -607,11 +643,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-12T10:24:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:45:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of focusing on finishing work rather than starting new tasks, which aligns with Agile principles of value delivery and team focus. It also touches on leadership roles and the integration of Lean and Scrum methodologies, making Agile strategy a central theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks rather than multitasking, which aligns with Agile principles of efficiency and value delivery. It mentions Scrum and Lean methodologies, highlighting the role of the Product Owner and limiting work in progress (WIP). However, while it touches on Agile concepts, the primary focus is more on task management and productivity rather than a comprehensive Agile strategy, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -661,11 +700,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-12T10:24:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:45:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for improving team focus and effectiveness by emphasising the importance of finishing work over starting new tasks, which aligns with Agile principles. It also touches on the role of the product owner in maintaining team cohesion and prioritising work, making it relevant to team performance discussions.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of focusing on completing tasks rather than multitasking, which directly relates to team performance. It aligns well with Agile principles, particularly in the context of Scrum, by addressing the role of leadership, the impact of context switching, and strategies for prioritising work. The depth of discussion is substantial, providing insights into how limiting work in progress and focusing on value can enhance team productivity and efficiency.",
     "level": "Secondary"
   },
   "AI": {
@@ -679,12 +721,15 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Lean principles and their application in team settings, touching on Kanban strategies like limiting work in progress and defining workflow. However, it primarily focuses on Scrum practices and does not delve deeply into scaling Kanban across multiple teams or departments.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:45:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the importance of focusing on completing tasks rather than starting new ones, which aligns with Lean principles and Scrum practices. However, it does not explicitly address Scaling Kanban or its specific principles, strategies, or challenges. The mention of limiting work in progress (WIP) is relevant but not sufficient to classify the content under Scaling Kanban as a primary focus.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -706,20 +751,26 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-12T10:24:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Lean principles, particularly the importance of finishing work over starting new tasks, which aligns with waste reduction and value maximisation. It integrates Lean concepts with Scrum practices, emphasising workflow definition and value prioritisation, making Lean a central theme.",
+    "calculated_at": "2025-03-14T19:45:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses Lean principles, particularly the idea of limiting work in progress (WIP) and the importance of finishing tasks to maximise value. It aligns well with core Lean concepts such as waste reduction and value creation. However, while it provides a good overview, it lacks in-depth exploration of Lean tools and techniques, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T10:24:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:45:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses principles related to Lean and Scrum, focusing on the importance of finishing work over starting new tasks, which aligns with Agile transformation themes. However, it primarily revolves around Lean concepts and does not deeply engage with broader Agile transformation strategies or methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks rather than multitasking, which aligns with Agile principles of efficiency and value delivery. It mentions Scrum and Lean methodologies, highlighting roles like the Product Owner and concepts like limiting work in progress (WIP). However, while it touches on Agile practices, the primary focus is on task management rather than a comprehensive discussion of Agile transformation strategies, which limits its depth in the category.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -733,20 +784,26 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:46:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of focus and the role of the product owner in Scrum, making Scrum values a significant theme, but it primarily revolves around Lean principles and general productivity concepts.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks rather than multitasking, which aligns with the Scrum value of Focus. It also mentions the role of the Product Owner in managing priorities, which relates to Commitment and Openness. However, the primary focus is on productivity and efficiency rather than a deep exploration of Scrum Values themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:46:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Lean and Scrum methodologies, focusing on improving team efficiency and value delivery, which are relevant to organisational change. However, it primarily centres on technical practices rather than broader organisational change strategies or frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks rather than multitasking, which aligns with principles of efficiency and productivity in organisational change. However, it primarily centres on Scrum and Lean methodologies without delving deeply into broader organisational change strategies or frameworks. The mention of leadership's role and the impact of context switching hints at organisational dynamics, but the overall focus remains on task management rather than comprehensive change management practices.",
     "level": "Tertiary"
   },
   "Test Automation": {
@@ -760,30 +817,39 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T10:24:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:45:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Scrum principles, particularly the role of the Product Owner and the importance of focus in product development, while also integrating Lean concepts.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses Scrum principles, particularly the role of the Product Owner and the importance of limiting work in progress (WIP), which are central to Scrum practices. It aligns well with the core themes of iterative development and prioritisation based on value, while also providing practical advice for Scrum teams. The depth of discussion is substantial, covering various aspects of Scrum and Lean methodologies, although it could benefit from more detailed examples or case studies.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T10:24:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses techniques for improving operational efficiency by focusing on finishing work rather than starting new tasks, which aligns with Lean and Scrum methodologies. It addresses workflow management, the impact of context switching, and the importance of having a single product owner, all of which are central to operational practices.",
+    "calculated_at": "2025-03-14T19:45:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of focusing on completing tasks rather than multitasking, which aligns closely with operational efficiency principles in Agile and Lean methodologies. It provides practical strategies such as limiting work in progress (WIP) and value-based prioritisation, which are key topics in operational practices. The depth of discussion is significant, with detailed explanations and examples that illustrate the impact of context switching and the benefits of finishing work before starting new tasks.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses concepts related to Lean and Scrum methodologies, focusing on workflow and value delivery, which are relevant to Evidence-Based Management. However, it primarily centres on practical advice for team success rather than a direct application of empirical evidence to enhance organisational agility or decision-making processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:45:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses productivity and efficiency in teams, primarily through the lens of Lean and Scrum methodologies. While it touches on concepts like limiting work in progress and prioritising tasks based on value, it lacks a strong focus on empirical evidence or data-driven decision-making, which are core to Evidence-Based Management. The discussion is more about practical advice and principles rather than a thorough exploration of EBM principles or case studies.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -796,20 +862,26 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:45:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles, particularly the role of the product owner and the importance of focus in team work. However, it primarily revolves around Lean concepts and does not explicitly address scaling Scrum in large organisations or the coordination of multiple teams.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum principles, particularly the role of the Product Owner and the importance of limiting work in progress (WIP), which are relevant to scaling Scrum. However, it primarily focuses on individual team productivity and does not delve into frameworks for scaling Scrum or coordination among multiple teams, which are key aspects of the category. The discussion is more about improving efficiency within a single team rather than addressing the complexities of scaling Scrum across an organisation.",
     "level": "Tertiary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T10:25:01",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:45:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of focus and workflow in Scrum teams, particularly the role of the Product Owner and the implications for team dynamics. While it touches on Lean principles, the primary focus is on Scrum practices and the challenges Scrum teams face, making it a significant but secondary theme.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks within Scrum teams and highlights the role of the Product Owner in managing priorities, which is relevant to the Scrum Master’s responsibilities. However, it lacks a direct focus on the Scrum Master role itself and does not delve deeply into specific Scrum Master practices or techniques, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -823,12 +895,15 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:46:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on finishing work to improve delivery timelines and mentions cumulative flow diagrams, which are relevant to forecasting. However, the primary focus is on Lean and Scrum practices rather than specific forecasting methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of focusing on finishing tasks and limiting work in progress, which indirectly relates to forecasting by emphasising predictability in delivery timelines and the use of metrics like Cumulative Flow Diagrams. However, it primarily focuses on productivity and efficiency rather than specific forecasting methodologies within Agile and Scrum frameworks.",
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -850,20 +925,26 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:45:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Lean principles and their application in team dynamics, particularly in relation to Scrum. While it touches on concepts relevant to Lean Startup, such as workflow and value delivery, the primary focus is on team management and productivity rather than the iterative learning process central to Lean Startup methodology.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Lean principles, particularly the importance of limiting work in progress (WIP) and focusing on finishing tasks, which aligns with Lean Startup concepts. However, it primarily focuses on productivity and Scrum practices rather than the core Lean Startup methodology of MVPs, validated learning, and the Build-Measure-Learn feedback loop. While Lean principles are mentioned, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T10:25:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:45:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of focusing on finishing work rather than starting new tasks, which aligns with Agile principles of maximising value and optimising delivery. It references Scrum roles, the role of the product owner, and concepts from Lean, indicating a strong connection to Agile Planning methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks rather than multitasking, which aligns with Agile principles of prioritisation and efficiency. It mentions Scrum and Lean methodologies, particularly the role of the Product Owner and limiting work in progress, which are relevant to Agile Planning. However, the primary focus is more on the concept of task completion rather than a comprehensive exploration of Agile Planning methodologies and practices.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -913,21 +994,27 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T10:25:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T19:45:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the role of the Product Owner and the importance of focus within Scrum teams, making it a major theme. However, it also heavily references Lean principles and general team dynamics, which detracts from its primary focus on Scrum.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks within Scrum teams, highlighting the role of the Product Owner in managing priorities and limiting work in progress. While it does mention Scrum principles, the overall focus is more on general productivity and Lean methodology rather than deep exploration of Scrum team dynamics.",
     "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:46:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Lean and Scrum methodologies, focusing on workflow management and the importance of finishing work over starting new tasks. While it touches on technical practices, it primarily revolves around team dynamics and project management strategies, making it a secondary theme rather than a primary focus on technical mastery.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses productivity and efficiency in team dynamics, particularly within Scrum and Lean methodologies. While it touches on limiting work in progress and the role of the Product Owner, which are relevant to technical practices, the focus is more on team management and productivity rather than deep technical mastery or software craftsmanship principles. The discussion lacks detailed exploration of software design, clean code, or engineering practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1030,21 +1117,27 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:46:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes related to prioritising work and managing cognitive load in team environments, which aligns with decision theory principles. However, the primary focus is on Scrum and Lean methodologies rather than decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses productivity and efficiency in Scrum teams, focusing on the importance of completing tasks rather than multitasking. While it touches on decision-making aspects, such as prioritising tasks based on value, it lacks a direct and in-depth exploration of decision theory principles. The discussion is more about practical implementation in Agile methodologies rather than a theoretical analysis of decision-making processes under uncertainty.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:46:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Lean and Scrum principles, focusing on team-level practices and the importance of finishing work over starting new tasks. While it touches on aspects of organisational structure and leadership influence, it primarily centres on team dynamics rather than broader enterprise agility concepts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on team-level practices, specifically within Scrum and Lean methodologies, discussing the importance of limiting work in progress and prioritising tasks. While it touches on leadership's role in managing priorities, it lacks a broader organisational context and does not delve into enterprise-level agility frameworks or cultural aspects of agility, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1132,21 +1225,27 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:46:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of focus and workflow in teams, which relates to learning from processes and improving efficiency. However, it primarily centres on project management principles rather than explicit methodologies for discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks rather than multitasking, which indirectly relates to learning from past inefficiencies. However, it primarily centres on productivity and Scrum practices rather than exploring methodologies for innovation or continuous learning. The mention of Lean principles and the role of the Product Owner hints at a learning aspect, but the overall focus is more on project management and efficiency than on discovery and learning processes.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the principles of Lean and Scrum, emphasising the importance of focus and workflow management, which are related to Systems Thinking. However, the primary focus is on practical methodologies rather than a deep exploration of Systems Thinking principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:45:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of focusing on completing tasks rather than multitasking, which aligns with some principles of Systems Thinking, such as understanding interdependencies and the impact of context switching. However, it primarily focuses on Lean and Scrum methodologies without a deep exploration of Systems Thinking concepts like feedback loops or holistic analysis. The mention of Systems Thinking is limited and not a primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1177,12 +1276,12 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:05:11",
+    "calculated_at": "2025-03-14T19:45:08",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses concepts related to Agile and Scrum but does not focus on specific events, presentations, or discussions. It primarily elaborates on the importance of finishing work over starting new tasks, which is not central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1222,12 +1321,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:46:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts from Lean and Scrum methodologies, referencing literature such as Gerald Weinberg's 'Systems Thinking', but primarily focuses on the application of these principles rather than providing a review or analysis of specific products or books.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the principles of Lean and Scrum methodologies, referencing the importance of focusing on completing tasks rather than multitasking. While it does mention a book (_Systems Thinking_) and provides insights into Agile practices, it lacks a detailed review or analysis of specific products or literature. The primary focus is on the concepts rather than specific products or books, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1306,11 +1408,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T14:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:46:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team dynamics, the role of a product owner, and the impact of organisational structure on project outcomes, which are relevant to sociotechnical systems. However, the primary focus is on Lean and Scrum methodologies rather than a comprehensive exploration of sociotechnical interactions.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of focusing on task completion and the impact of multitasking on productivity, which touches on team dynamics and organisational culture. However, it primarily centres on Scrum and Lean methodologies without deeply exploring the interplay between social and technical systems or providing a comprehensive analysis of sociotechnical interactions. The mention of leadership and middle management's role hints at organisational structure but lacks a thorough examination of how these elements collectively influence software delivery.",
     "level": "Tertiary"
   },
   "News and Reviews": {

@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: false
 tags:
+- Agile Planning
 - People and Process
 - Agile Planning Tools
+- Agile Product Management
+- Scrum Product Development
 - Agile Project Management
 - Product Delivery
 - Professional Scrum
-- Transparency
-- Agile Frameworks
-- Team Performance
-- Agile Planning
-- Agile Product Management
+- Software Development
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

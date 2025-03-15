@@ -25,13 +25,12 @@ preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
 isShort: false
 tags:
+- Agile Product Management
 - Agile Project Management
 - Agile Frameworks
-- Software Development
-- Professional Scrum
-- Software Developers
 - People and Process
-- Agile Planning
+- Agile Philosophy
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

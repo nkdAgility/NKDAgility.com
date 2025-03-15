@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/team-foundation-server-sharepoint-integration
 - /team-foundation-server-sharepoint-integration
 - /resources/blog/team-foundation-server-sharepoint-integration
-tags:
-- Software Development
-- Practical Techniques and Tooling
+tags: []
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

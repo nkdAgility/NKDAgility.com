@@ -181,7 +181,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T17:03:37",
+    "calculated_at": "2025-03-15T07:25:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -189,7 +189,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a practical solution for handling CSS in a .NET environment, discussing specific code implementations and configurations. While it touches on aspects of code quality, such as maintainability through the use of a custom HTTP handler, it lacks a broader discussion on complexity theory or the relationship between code quality and complexity. The depth of discussion is limited to a specific technical solution without exploring the implications of complexity in software development processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -646,7 +646,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:47:11",
+    "calculated_at": "2025-03-15T07:25:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -654,7 +654,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a technical solution for handling CSS in a .NET environment, which touches on aspects of software craftsmanship and coding practices. However, it lacks a broader discussion on engineering excellence principles, such as quality assurance, best practices, or continuous improvement. The focus is primarily on a specific implementation rather than a comprehensive exploration of engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -853,12 +853,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical implementation details related to handling CSS in a .NET application, which could loosely relate to practices within software engineering, but it primarily focuses on a specific technical problem rather than broader engineering principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a technical solution for handling CSS in a web application, which touches on aspects of clean code and automation. However, it lacks a direct focus on broader engineering practices such as TDD, CI/CD, or refactoring. The discussion is primarily about a specific implementation rather than the principles that underpin Agile development methodologies.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1342,7 +1345,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:13:08",
+    "calculated_at": "2025-03-15T07:25:02",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
@@ -1350,7 +1353,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses configuring a .NET application to handle CSS requests, which touches on system configuration aspects. However, the primary focus is on CSS handling and web development rather than broader system configuration practices. While there are mentions of configuration (e.g., wildcard application mapping, HttpHandler setup), the depth and breadth of discussion do not fully align with the key topics outlined for the System Configuration category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

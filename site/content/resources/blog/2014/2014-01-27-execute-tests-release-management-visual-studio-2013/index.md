@@ -27,8 +27,15 @@ aliasesArchive:
 - /blog/execute-tests-with-release-management-for-visual-studio-2013
 - /resources/blog/execute-tests-release-management-visual-studio-2013
 tags:
-- Automated Testing
 - Release Management
+- Practical Techniques and Tooling
+- Software Development
+- Install and Configuration
+- Automated Testing
+- Test Automation
+- Azure DevOps
+- Product Delivery
+- Working Software
 categories:
 - DevOps
 - Engineering Excellence

@@ -25,7 +25,7 @@ preview: https://i.ytimg.com/vi/kT9sB1jIz0U/maxresdefault.jpg
 duration: 62
 isShort: false
 tags:
-- People and Process
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6

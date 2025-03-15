@@ -112,7 +112,7 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-03-10T12:05:02",
+    "calculated_at": "2025-03-14T22:54:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -120,7 +120,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of learning from experiences and conducting experiments in a professional environment, which aligns with the principles of hypothesis-driven development. However, it lacks explicit mentions of hypothesis formulation or structured experimentation, focusing more on general learning and reflection rather than a systematic approach to testing hypotheses.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -250,7 +250,7 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-10T14:15:30",
+    "calculated_at": "2025-03-14T22:54:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -258,7 +258,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses immersive learning experiences and their benefits, which indirectly relate to digital transformation through the lens of learning and accountability in a professional environment. However, it lacks explicit mentions of digital technologies or strategies for digital transformation, focusing instead on personal learning experiences and reflections. While there is some conceptual alignment with the idea of fostering a culture of learning, the depth of discussion does not sufficiently cover the strategic adoption of digital tools or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -568,12 +568,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T20:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:16:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal reflections on the benefits of poly immersive learning experiences, including learning feedback loops and the importance of reflection, which aligns with personal insights related to learning and professional development.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on personal reflections and experiences related to learning and development, which aligns well with the Personal category. It discusses the author's journey and insights gained from poly immersive learning experiences, providing a subjective interpretation of their impact. The depth of discussion is significant, as it includes specific anecdotes about learning from feedback, the importance of reflection, and practical applications in a professional context. However, while it touches on themes relevant to Agile and continuous learning, it does not explicitly mention Agile, Scrum, or DevOps, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -667,12 +670,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T20:14:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning experiences and reflection in a professional environment, which relates to fostering a culture of adaptability and continuous improvement, but it does not primarily focus on change management strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses learning and development, focusing on immersive learning experiences and their benefits. While it touches on themes of reflection and accountability, which are relevant to change management, it does not explicitly address change management principles or strategies. The primary focus is on personal and professional development rather than organisational change, leading to a low confidence score in the Change Management category.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -712,11 +718,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T20:14:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:47:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the benefits of poly immersive learning experiences, focusing on feedback loops, reflection, and accountability in learning, which aligns well with the themes of discovery and continuous learning.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the benefits of poly immersive learning experiences, focusing on learning from feedback, collaborative learning, and the importance of reflection. It aligns well with the core themes of the category, such as fostering a culture of experimentation and continuous learning. The depth of discussion is substantial, providing detailed insights into how these learning experiences can enhance professional development and team dynamics.",
     "level": "Secondary"
   },
   "Self Organisation": {
@@ -766,11 +775,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T20:15:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:25:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning feedback loops and the importance of reflection in a professional environment, which relates to organisational dynamics and systems thinking. However, it primarily focuses on the learning experience rather than a comprehensive exploration of organisational physics.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of feedback loops, collaborative learning, and reflection, which align with systems thinking principles. However, it primarily focuses on individual learning experiences rather than organisational dynamics, limiting its direct relevance to the category of Organisational Physics.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -784,12 +796,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T20:15:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:54:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses learning feedback loops and the importance of reflection and accountability in a learning environment, which relates to customer feedback mechanisms, but it is primarily focused on the learning experience rather than direct customer feedback integration.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses learning from feedback and the importance of reflection, which aligns with the concept of feedback loops. However, it primarily focuses on personal development and immersive learning experiences rather than explicitly addressing customer feedback integration into product development. The discussion lacks direct references to customer feedback mechanisms or practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -802,11 +817,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T20:15:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses learning feedback loops and the importance of reflection and accountability in learning experiences, which aligns with the themes of continuous improvement and evidence-based decision-making. However, it does not primarily focus on metrics or data analysis.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of feedback loops and reflection in learning, which aligns with the core themes of the Metrics and Learning category. However, it lacks explicit references to metrics, data analysis, or evidence-based decision-making, which are crucial for a higher confidence score. The discussion is more focused on personal learning experiences rather than structured metrics or methodologies typically associated with Agile and DevOps practices.",
     "level": "Tertiary"
   },
   "Psychological Safety": {
@@ -829,12 +847,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T20:15:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning experiences and feedback loops, which are relevant to mentoring, but the primary focus is on immersive learning rather than direct mentoring techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses learning and development, which are relevant to mentoring, but it does not explicitly mention mentoring or coaching roles. While it touches on reflection and collaborative learning, it lacks depth in discussing specific mentoring techniques or strategies for professional growth within Agile contexts.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -847,11 +868,14 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T20:15:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of reflection, learning from experiences, and adapting strategies in a complex environment, which aligns with sensemaking principles. However, it primarily focuses on the benefits of immersive learning experiences rather than a direct exploration of sensemaking as a primary topic.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of learning from complex environments and the role of reflection and collaboration in understanding challenges. While it touches on aspects of sensemaking, such as feedback loops and accountability, it does not explicitly frame these discussions within the context of organisational decision-making or complexity frameworks. The depth of discussion on these themes is moderate, but the primary focus remains on learning experiences rather than a comprehensive exploration of sensemaking principles.",
     "level": "Tertiary"
   },
   "Strategy": {
@@ -892,12 +916,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T20:15:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of feedback, reflection, and accountability in learning, which aligns with coaching principles, but it primarily focuses on immersive learning experiences rather than coaching itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:55:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of collaborative learning, reflection, and practical application, which aligns with coaching principles. However, it lacks direct mentions of coaching roles or techniques, and the depth of discussion on coaching-specific strategies is limited.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -910,11 +937,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T20:15:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of poly immersive learning experiences, focusing on feedback loops, reflection, and accountability in learning, which align with the principles of Continuous Learning.",
+    "calculated_at": "2025-03-14T22:55:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the principles of continuous learning through poly immersive learning experiences, highlighting the importance of feedback loops, collaborative learning, and reflection. It aligns well with the core themes of the category, such as learning from failures and successes, fostering a culture of experimentation, and integrating continuous learning into professional development. The depth of discussion is substantial, providing detailed insights into how these experiences can enhance learning and adaptability in a complex environment.",
     "level": "Secondary"
   },
   "Azure Boards": {
@@ -955,11 +985,14 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T20:15:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning feedback loops and the importance of reflection and accountability in a complex environment, which aligns with Systems Thinking principles. However, it primarily focuses on the benefits of immersive learning experiences rather than a comprehensive exploration of Systems Thinking itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of feedback loops and reflection in learning, which aligns with Systems Thinking principles. However, it primarily focuses on poly immersive learning experiences rather than a comprehensive exploration of Systems Thinking itself. The mention of collaboration and accountability hints at interconnectedness but lacks depth in discussing systemic analysis or frameworks.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -1018,12 +1051,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T20:16:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning experiences and the importance of reflection and accountability in a professional environment, which aligns with pragmatic approaches to problem-solving and adaptation. However, it does not primarily focus on Agile, Scrum, or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical applications of learning experiences, emphasising real-world application, reflection, and accountability, which align well with pragmatic thinking. It highlights the importance of learning from feedback and adapting to complexities, key themes in Agile and DevOps. However, while it touches on these concepts, it does not explicitly mention Agile or Scrum, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1252,11 +1288,14 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T20:17:02",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:55:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the concept of conducting experiments in a professional environment and highlights the importance of learning from these experiments, which aligns with the theme of experimentation in Agile workflows. However, the primary focus is on the benefits of immersive learning experiences rather than a systematic exploration of hypothesis-driven approaches.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of learning from feedback and conducting small experiments in a professional environment, which aligns with the core themes of experimentation in Agile workflows. However, while it touches on the concept of experimentation and its benefits, it lacks a structured approach to hypothesis formulation and testing, which is central to the category. The depth of discussion on experimentation is moderate, focusing more on the learning process rather than detailed methodologies or case studies.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -1324,12 +1363,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T20:17:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning experiences and reflection in a professional environment, which relates to organisational change through the lens of creating habits of experimentation and learning. However, it does not primarily focus on organisational change strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the benefits of poly immersive learning experiences, which can contribute to organisational change by fostering a culture of experimentation and continuous learning. However, it lacks direct mentions of organisational change frameworks or methodologies, and the focus is more on personal development and learning rather than on broader organisational strategies. While there is some alignment with the themes of reflection and accountability, the depth of discussion does not fully engage with the core aspects of organisational change.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1369,11 +1411,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T20:17:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:55:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning feedback loops, reflection, and accountability in a professional environment, which are relevant to organisational agility, but the primary focus is on the benefits of poly immersive learning experiences rather than agility itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of learning from feedback, collaborative learning, and practical application, which align with the principles of organisational agility. However, it does not explicitly mention organisational agility or agile methodologies, and while it touches on themes of adaptability and continuous learning, it lacks depth in discussing specific strategies or frameworks that enhance organisational agility.",
     "level": "Tertiary"
   },
   "Troubleshooting": {

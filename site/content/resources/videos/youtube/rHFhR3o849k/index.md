@@ -26,15 +26,16 @@ preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 isShort: false
 tags:
+- Scrum Team
 - Scrum Master
 - People and Process
-- Agile Frameworks
 - Agile Project Management
+- Sociotechnical Systems
+- Pragmatic Thinking
 - Team Performance
+- Scrum Product Development
+- Professional Scrum
 - Team Collaboration
-- Software Development
-- Agile Leadership
-- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

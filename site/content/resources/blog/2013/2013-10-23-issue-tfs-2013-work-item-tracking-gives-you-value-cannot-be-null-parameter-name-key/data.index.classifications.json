@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:46:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a specific coding issue related to a software development process, including debugging and code assumptions. However, it primarily focuses on a specific error rather than broader themes of code quality or complexity management.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses a specific technical issue related to a software development process, particularly focusing on a bug encountered in a custom process template in TFS. While it touches on aspects of code quality and the implications of design decisions (e.g., the assumption that a field cannot be null), it primarily recounts a troubleshooting experience rather than exploring broader themes of code quality or complexity theory. The discussion lacks depth in terms of principles of software quality or complexity management strategies, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -76,12 +79,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:46:03",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific issue encountered during the configuration of a process template in TFS, including troubleshooting steps and a solution related to work item definitions. While it touches on installation and configuration aspects, the primary focus is on a specific error and its resolution rather than a comprehensive guide or procedure.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific issue encountered during the configuration of a process template in TFS, including troubleshooting steps and a solution. It provides actionable insights on making a field required in work item definitions, which aligns with configuration best practices. However, while it touches on installation and configuration, the primary focus is on a specific error and its resolution rather than a comprehensive guide or step-by-step installation process.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -211,11 +217,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:46:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to TFS and provides a solution that involves modifying work item definitions, which aligns with engineering practices. However, the primary focus is on troubleshooting rather than broader technical excellence methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS and provides a solution, which aligns with technical excellence. However, it primarily focuses on a specific problem and its resolution rather than broader engineering practices or methodologies. The mention of a fix for a coding assumption and UI issue indicates some alignment with technical excellence, but the depth of discussion on methodologies like TDD or CI/CD is lacking.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -238,12 +247,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:52",
+    "calculated_at": "2025-03-15T04:45:56",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses a specific technical issue encountered during the customisation of a process template in TFS, which is more focused on troubleshooting and debugging rather than the broader methodologies and practices of product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -487,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:46:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to workflow management in Team Foundation Server, including an operational workaround involving required fields in work item definitions, which pertains to operational practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical issue related to a specific error in TFS when customising process templates. While it touches on aspects of operational practices, such as the need for proper configuration and the importance of making fields required to avoid errors, it lacks a broader discussion on techniques or strategies for enhancing operational efficiency. The focus is more on troubleshooting a specific problem rather than on operational methodologies like Agile or DevOps. Therefore, while there are relevant elements, they are not the primary focus of the content.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -598,12 +610,12 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:52",
+    "calculated_at": "2025-03-15T04:45:56",
     "ai_confidence": 20,
     "non_ai_confidence": 20,
     "final_score": 20.0,
     "reasoning": "The content primarily focuses on a technical issue related to TFS (Team Foundation Server) and does not directly discuss Agile principles, methodologies, or practices. While it mentions team fields in the context of Agile Planning Tools, this is a minor aspect within a technical troubleshooting narrative.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -745,7 +757,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T14:52:12",
+    "calculated_at": "2025-03-15T04:45:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -753,7 +765,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific technical issue related to a software development process, including debugging and problem-solving techniques. However, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement. While it touches on aspects of quality assurance and technical debt (the assumption of a non-null value), it does not provide a comprehensive exploration of engineering excellence as defined in the category. The focus is more on troubleshooting a specific error rather than promoting high standards in software craftsmanship.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -877,21 +889,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T04:46:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses a specific issue encountered while customizing a process template in TFS, which could relate to ensuring working software quality, but it primarily focuses on a technical error rather than broader themes of delivering functional, high-quality software.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific software issue encountered while customising a process template in TFS, which relates to the functionality and quality of the software. It provides insights into debugging and resolving a specific error, which aligns with the importance of delivering working software. However, the focus is more on troubleshooting a specific problem rather than broader discussions on working software principles, best practices, or customer feedback integration.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:46:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses an issue encountered when using Agile Planning Tools within TFS, making it relevant, but the primary focus is on a technical error rather than a broader discussion of Agile planning methodologies or tools.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses an issue related to the Agile Planning Tools in the context of Team Foundation Server (TFS) and how it affects work item creation. While it does mention Agile Planning Tools and provides some insights into their functionality, the primary focus is on a specific technical error rather than a broader discussion of Agile planning methodologies or tools. The depth of discussion is moderate, but it lacks a comprehensive exploration of Agile planning concepts, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1123,12 +1141,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T04:45:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses an error encountered in Team Foundation Server (TFS), which can be related to Windows systems since TFS often operates in Windows environments. However, the primary focus is on TFS and process template issues rather than specific Windows operating system topics like installation or configuration.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS) and a specific error encountered during work item tracking. While TFS can be used in a Windows environment, the content does not focus on Windows operating system aspects such as installation, configuration, or troubleshooting of Windows itself. The mention of Internet Explorer and server-side issues hints at a Windows context, but the primary focus is on TFS and its functionalities rather than Windows OS management. Therefore, the confidence score reflects a low alignment with the Windows category.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1417,7 +1438,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:38:18",
+    "calculated_at": "2025-03-15T04:45:56",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1425,6 +1446,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, events, or artifacts. While it touches on team dynamics and work item tracking, it lacks a clear focus on Scrum as a framework or its implementation. The discussion is more about troubleshooting a specific error rather than exploring Scrum methodologies or practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

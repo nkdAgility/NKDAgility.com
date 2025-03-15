@@ -220,7 +220,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-06T13:50:37",
+    "calculated_at": "2025-03-14T19:45:07",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -228,7 +228,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions immersive learning in the context of Scrum training, indicating a connection to the Scrum framework. However, it lacks explicit discussion of Scrum roles, events, or core Agile principles. The focus is more on the benefits of immersive learning rather than on the methodologies themselves, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -277,7 +277,7 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-06T14:56:28",
+    "calculated_at": "2025-03-14T19:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -285,7 +285,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses immersive learning in the context of Scrum training, which implies a connection to training events. However, it lacks explicit mentions of specific events or presentations, and the focus is more on the benefits of immersive learning rather than detailing an event or presentation itself. The discussion is relevant but does not provide sufficient depth or direct references to align strongly with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -931,7 +931,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T17:59:17",
+    "calculated_at": "2025-03-14T19:45:07",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -939,7 +939,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on engagement and energy levels in a training context, which can relate to team performance. However, it lacks explicit discussion of Agile practices, team dynamics, or methodologies aimed at maximising collaboration and effectiveness. The focus is more on the learning experience rather than on team performance metrics or strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -970,7 +970,7 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-11T09:57:58",
+    "calculated_at": "2025-03-14T19:45:07",
     "ai_confidence": 42.0,
     "ai_mentions": 100.0,
     "ai_alignment": 35.0,
@@ -978,7 +978,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions engagement in the context of immersive learning but primarily focuses on the benefits of reduced cognitive load and fatigue during training sessions. While it touches on the concept of engagement, it does not delve into the broader themes of employee motivation, commitment, or strategies for fostering a supportive work environment, which are central to the category of Employee Engagement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1417,7 +1417,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-06T14:56:26",
+    "calculated_at": "2025-03-14T19:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1425,6 +1425,6 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content briefly mentions immersive learning in the context of Scrum training, indicating a connection to Scrum principles. However, it lacks explicit discussion of Scrum roles, events, or artifacts, which are central to the category. The focus is more on the benefits of immersive learning rather than on Scrum itself, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

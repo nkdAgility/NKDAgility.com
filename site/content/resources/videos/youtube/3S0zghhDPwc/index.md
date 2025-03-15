@@ -28,14 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Definition of Done
+- Software Development
+- Agile Values and Principles
+- Product Delivery
+- Agile Transformation
+- Operational Practices
 - Agile Product Management
-- People and Process
-- Agile Leadership
-- Agile Philosophy
-- Software Developers
-- Pragmatic Thinking
-- Technical Leadership
-- Team Performance
+- Agile Frameworks
+- Agile Strategy
 resourceTypes:
 - video
 layout: video

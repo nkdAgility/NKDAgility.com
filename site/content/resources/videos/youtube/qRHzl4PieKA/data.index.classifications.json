@@ -25,7 +25,7 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-07T12:59:08",
+    "calculated_at": "2025-03-14T18:48:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -33,7 +33,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses team empowerment and engagement in the context of Agile practices, which touches on aspects of organisational psychology. However, it primarily focuses on technical methodologies and the importance of user feedback rather than delving into psychological principles or theories that influence motivation, leadership, or team dynamics. The discussion lacks depth in exploring psychological aspects and does not explicitly mention key topics related to organisational psychology.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -160,7 +160,7 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-03-11T13:12:28",
+    "calculated_at": "2025-03-14T18:48:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -168,7 +168,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content discusses the importance of empowering teams to adapt requirements based on user feedback, which aligns with the themes of adaptability and continuous improvement. However, it lacks explicit discussions on organisational resilience or change management practices, focusing more on agile principles and team dynamics. The depth of discussion is moderate, primarily addressing the need for flexibility in requirements rather than broader strategies for organisational resilience.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -211,7 +211,7 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-11T16:11:50",
+    "calculated_at": "2025-03-14T18:48:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -219,11 +219,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agile methodologies and the importance of team engagement in adapting to user feedback, which touches on interconnectedness and dynamic decision-making. However, it primarily focuses on agile practices rather than explicitly exploring Systems Thinking principles or techniques. While there are elements of holistic analysis and feedback loops, the depth of discussion on Systems Thinking concepts is limited, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T17:24:47",
+    "calculated_at": "2025-03-14T18:48:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -231,16 +231,19 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses Agile principles and the importance of adapting requirements based on user feedback, which aligns with some aspects of Application Lifecycle Management, particularly in the context of backlog management and change management. However, it primarily focuses on Agile methodologies and team dynamics rather than a comprehensive view of the entire application lifecycle, which limits its depth and direct relevance to ALM.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T12:36:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maximizing value based on user feedback, which aligns with Lean principles, but primarily focuses on Agile practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, discussing team empowerment, backlog management, and user feedback. While it touches on concepts like maximizing value and deleting non-essential requirements, which align with Lean principles, the overall emphasis is on Agile practices rather than Lean strategies. The discussion lacks depth in Lean-specific tools or methodologies, resulting in a low confidence score for the Lean category.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -253,11 +256,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:37:04",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of empowering teams to adapt requirements based on user feedback, which aligns closely with the principles of business agility and delivering value in a dynamic market.",
+    "calculated_at": "2025-03-13T15:25:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of agility in responding to user feedback and adapting requirements, which aligns closely with the principles of business agility. It highlights the need for team engagement, backlog management, and the role of leadership in fostering an agile environment. The depth of discussion on practical strategies and personal experiences further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Personal": {
@@ -289,11 +295,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:37:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T16:33:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of empowering teams to adapt requirements based on user feedback, which aligns with Agile methodologies and iterative development, making it a significant theme in the context of product delivery.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses agile methodologies, team engagement, backlog management, and the importance of adapting to user feedback, all of which are core themes of product delivery. It provides detailed insights into how these practices enhance the delivery of software products, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -307,39 +316,51 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:37:11",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the importance of empowering teams to adapt requirements based on user feedback, which aligns with agile principles of responsiveness and customer-centricity.",
+    "calculated_at": "2025-03-14T14:51:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of agility in responding to user feedback and adapting requirements, which aligns closely with the principles of organisational agility. It provides detailed insights into team engagement, backlog management, and the necessity of adapting to changing market conditions, all of which are key themes in the category. The depth of discussion is substantial, with practical examples and advice for fostering an agile environment, indicating a strong focus on enhancing organisational adaptability.",
     "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:37:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:11:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of engaging with team members and stakeholders to adapt requirements based on user feedback, which relates to accountability and transparency in Agile practices, but it primarily focuses on empowerment and value delivery.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of team engagement and adapting requirements based on user feedback, which indirectly relates to transparency and accountability. However, it primarily focuses on agility and team dynamics rather than explicitly addressing transparency and accountability principles. While there are mentions of open communication and the role of the product team, the depth of discussion on accountability practices is limited.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:37:14",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T18:48:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of user feedback in adapting requirements, which aligns with the theme of continuous learning and improvement in product development.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses the importance of adapting to user feedback and engaging with product development teams, which aligns well with the themes of continuous learning and innovation. It highlights the need for teams to update their backlog based on new insights and user feedback, demonstrating a clear understanding of iterative processes. However, while the category is a primary focus, the discussion occasionally veers into project management aspects, which slightly detracts from its alignment with the core themes of discovery and learning.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:37:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of user feedback and team empowerment in relation to agility, which aligns with the principles of Evidence-Based Management, but it does not primarily focus on empirical evidence or data-driven decision-making.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:48:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of adapting requirements based on user feedback, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on agile practices and team engagement rather than explicitly addressing EBM principles or empirical data usage. While it mentions the need for updating the backlog based on insights and user feedback, it lacks a deeper exploration of metrics or case studies that would strengthen its alignment with EBM.",
+    "level": "Secondary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -361,30 +382,39 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:37:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team empowerment and engagement in the context of agile practices, which relates to the interplay between social dynamics and technical processes in software delivery.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of team engagement and the dynamic nature of the backlog in agile environments, which aligns with sociotechnical principles. However, while it touches on the interplay between social aspects (team dynamics, communication) and technical practices (backlog management), it does not delve deeply into organisational structures or broader sociotechnical frameworks. The focus is primarily on agile practices rather than a comprehensive exploration of sociotechnical systems.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T12:37:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adapting requirements based on user feedback, which aligns with Agile principles and hints at the non-linear dynamics of complex systems. However, it primarily focuses on Agile practices rather than a deep exploration of complexity science.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses agility and the importance of adapting to user feedback, which aligns with some principles of complexity thinking, such as non-linear dynamics and the need for adaptability in complex systems. However, it does not explicitly reference complexity science or frameworks like the Cynefin Framework, nor does it delve deeply into the theoretical aspects of complexity. The focus is more on practical agile methodologies rather than a comprehensive exploration of complexity thinking.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:37:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empowering teams to adapt requirements based on user feedback, which aligns with agile principles. However, it primarily focuses on team-level practices rather than broader organisational agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:48:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses agile principles primarily at the team level, focusing on team empowerment and backlog management. While it touches on the importance of adapting to user feedback and market changes, it lacks a broader organisational context and does not delve into frameworks or structures that support enterprise agility. The emphasis is on team dynamics rather than organisational agility, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -538,12 +568,12 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T13:55:39",
+    "calculated_at": "2025-03-14T18:48:01",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses user feedback and adapting requirements, which is related to Agile principles, but it does not focus on frequent releases or delivery practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -565,12 +595,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adapting requirements based on user feedback, which is central to delivering working software and maximizing value, although it is primarily focused on the agile process and team empowerment.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:48:21",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of adapting software requirements based on user feedback, which is a core principle of delivering working software. It highlights the role of backlog updates, team engagement, and the necessity of removing non-essential features to maximise value, all of which align closely with the characteristics of working software in Agile frameworks. The depth of discussion on practical advice for Scrum Masters and personal experiences further reinforces its relevance to the category.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -583,12 +616,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:49:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agility and the empowerment of teams in the context of responding to user feedback, which relates to the broader theme of organisational change and adapting processes for improved effectiveness. However, it primarily focuses on agile practices rather than a comprehensive discussion of organisational change frameworks or methodologies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of agility and team empowerment in adapting to user feedback, which aligns with the principles of organisational change. However, it primarily focuses on Agile practices and backlog management rather than broader organisational change strategies or frameworks. While it touches on themes relevant to organisational change, such as leadership and team dynamics, it lacks in-depth exploration of methodologies like ADKAR or Kotter's 8-Step Process, which are central to the category.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -610,21 +646,27 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of user feedback in Agile environments, which aligns with evidence-based practices; however, it does not deeply delve into empirical evidence or data-driven decision-making specific to leadership.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of adapting to user feedback and engaging with product teams, which aligns with evidence-based practices in leadership. However, it primarily focuses on Agile methodologies and personal experiences rather than explicitly addressing evidence-based leadership principles or empirical data. While it touches on the need for data-driven decision-making, it lacks a thorough exploration of metrics, KPIs, or case studies that would strengthen its alignment with the category.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for team empowerment and adaptability in requirements based on user feedback, which relates to business agility and could be a part of a digital transformation strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:48:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses agility and the importance of adapting to user feedback, which aligns with the principles of digital transformation. However, it primarily focuses on agile methodologies and team dynamics rather than the broader strategic adoption of digital technologies. While it touches on themes relevant to digital transformation, such as innovation and user engagement, it lacks a comprehensive exploration of digital tools or frameworks that would enhance business agility or operational efficiency.",
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -637,20 +679,26 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adapting requirements based on user feedback, which aligns with the principles of empirical process control. However, it is more focused on user engagement and empowerment rather than a clear, comprehensive exploration of the empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of adapting to user feedback and updating the backlog, which aligns with the principles of empirical process control. It emphasises transparency and the need for teams to engage deeply with product development, reflecting the core themes of inspection and adaptation. However, while it touches on these concepts, it does not delve deeply into specific techniques or case studies related to empirical process control, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of user feedback in determining requirements and maximizing value for customers, indicating a significant focus on customer satisfaction, though it primarily centers around Agile practices.",
+    "calculated_at": "2025-03-14T18:48:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of user feedback and adapting requirements to enhance customer value, which aligns closely with customer satisfaction principles. It provides detailed insights into engaging teams, updating backlogs based on user needs, and the necessity of deleting non-essential features to maximise value for customers. The focus on user feedback and team empowerment indicates a strong alignment with customer satisfaction, making it a primary focus of the content.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -673,11 +721,14 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of engaging with user feedback to change requirements and update the product backlog, which is related to integrating customer feedback in an Agile context.",
+    "calculated_at": "2025-03-14T18:49:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of user feedback in agile product development, emphasising the need for teams to adapt requirements based on insights gained from users. It highlights mechanisms for updating the backlog in response to user feedback and the necessity of deleting unnecessary requirements to align with user needs. The depth of discussion on how to integrate feedback into the development process and the practical advice for Scrum Masters further solidify its alignment with the category of Customer Feedback Loops.",
     "level": "Secondary"
   },
   "Estimation": {
@@ -730,12 +781,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses the importance of engaging with teams and user feedback, emphasizing value delivery, it primarily focuses on Agile principles rather than distinct Lean Product Development practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:49:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses agile principles and the importance of user feedback in product development, which aligns with Lean Product Development's focus on maximising value and minimising waste. However, it primarily centres on agile methodologies rather than explicitly addressing Lean principles or techniques for waste elimination. The depth of discussion on Lean-specific tools or frameworks is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -775,12 +829,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the empowerment of teams to adapt requirements based on feedback, which aligns with Scrum principles of collaboration and delivering value, but does not specifically focus on Scrum Team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:48:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of team engagement and the role of the product team, which aligns with Scrum principles. However, it primarily focuses on general Agile practices rather than specific Scrum roles and dynamics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -802,12 +859,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:26",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team empowerment and adjusting requirements based on user feedback, which relates to agile practices and improving operational efficiency, but it is more focused on team dynamics and agility rather than specific operational practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the importance of team engagement, backlog management, and adapting to user feedback, all of which are crucial for operational efficiency in Agile practices. It provides practical examples and strategies for improving processes, aligning closely with the core themes of operational practices. The depth of discussion is significant, covering various aspects of Agile methodology and how they contribute to maximising value and efficiency.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -829,21 +889,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T18:48:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of empowering teams to adapt requirements based on user feedback, which aligns with Agile principles of continuous value delivery and adaptability. However, it primarily focuses on team empowerment and specific practices rather than a broader Agile strategy.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of team empowerment, backlog management, and adapting to user feedback, all of which are central to Agile Strategy. It aligns well with the core themes of continuous value delivery and adaptability, providing detailed insights and personal experiences that illustrate successful Agile practices. The focus on engaging product teams and the necessity of updating requirements based on market dynamics further strengthens its relevance to the category.",
     "level": "Secondary"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:49:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content highlights the importance of empowering teams, particularly those involved in building products, and touches on Agile principles related to adaptability and user feedback, making it a secondary theme related to the role of software developers in Agile environments.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the role of software developers within Agile frameworks, emphasising the importance of team engagement, backlog management, and adapting to user feedback. It aligns well with the core themes of Agile methodologies and provides detailed insights into how developers can enhance product value through collaboration and responsiveness to change.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -856,11 +922,14 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses the importance of empowering teams to adapt requirements, which ties into strategic agility, but it primarily focuses on operational aspects of team dynamics rather than explicitly discussing long-term strategic goals.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of agility and adapting to user feedback, which aligns with the concept of strategic goals in enhancing business agility. However, it primarily focuses on operational tactics and team engagement rather than explicitly defining long-term strategic objectives. While it touches on the need for teams to adapt and the role of backlog updates, it lacks a comprehensive exploration of frameworks for setting strategic goals or their impact on organisational culture.",
     "level": "Tertiary"
   },
   "Scrum Values": {
@@ -928,39 +997,51 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team empowerment and adapting requirements based on user feedback, which relates to innovation and maximizing value. However, it primarily focuses on Agile practices rather than explicitly on the measurement and improvement of innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of adapting to user feedback and engaging with product development teams, which aligns with the concept of innovation. However, it primarily focuses on Agile practices and team dynamics rather than explicitly measuring or enhancing innovation capabilities. While it touches on the need for continuous improvement and adapting requirements, it lacks a structured approach to Evidence-Based Management or specific frameworks for measuring the Ability to Innovate.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team empowerment and input in changing requirements, which relates to accountability within Agile practices, but it primarily focuses on agility and team engagement rather than accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of team engagement and the need for teams to adapt based on user feedback, which aligns with accountability in terms of ownership and responsibility for commitments. However, it does not explicitly focus on accountability as a primary theme, nor does it delve deeply into strategies for fostering a culture of accountability. The discussion is more centred on agility and team dynamics rather than accountability itself.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of empowering teams to adapt requirements based on user feedback, which is a key principle in Agile methodologies, but does not focus specifically on Agile frameworks or provide a detailed exploration of them.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses Agile principles, particularly in the context of team empowerment, backlog management, and responsiveness to user feedback, which are core aspects of Agile frameworks. It references Scrum practices and the role of Scrum Masters, indicating a strong alignment with Agile methodologies. The depth of discussion is significant, providing practical advice and personal experiences that illustrate the application of Agile concepts, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empowering teams to make changes based on user feedback, which relates to team dynamics and effectiveness. However, it does not offer specific strategies or methodologies for improving team performance, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:49:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of team engagement, the role of the product team, and the necessity of adapting requirements based on user feedback, all of which are central to enhancing team performance in an Agile context. It provides practical advice for Scrum Masters and highlights the significance of open communication and collaboration within teams. The depth of discussion is substantial, with multiple examples illustrating the impact of empowered teams on product outcomes. Overall, the content aligns well with the key topics of the 'Team Performance' category.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1000,12 +1081,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on the importance of empowering teams to adapt requirements based on user feedback, which aligns with agile principles of flexibility and responsiveness.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T18:49:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses agile principles, particularly the importance of team empowerment, backlog management, and adapting to user feedback, which are core themes of Agile Project Management. It provides detailed insights into the roles of the product team and Scrum practices, demonstrating a strong alignment with agile methodologies. The depth of discussion is significant, with practical examples and strategies for implementing agile practices effectively.",
+    "level": "Primary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1018,12 +1102,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the importance of updating the backlog and changing requirements based on user feedback, which is relevant to Agile planning, but does not primarily focus on Agile Planning Tools themselves.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of backlog management and updating requirements based on user feedback, which aligns with Agile Planning Tools. However, it lacks a direct focus on specific tools or methodologies, and while it touches on key concepts, it does not delve deeply into the functionalities of Agile planning tools or provide extensive strategies for sprint or release planning.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -1081,12 +1168,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of empowering teams to adapt requirements based on user feedback, which is a significant aspect of software development methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:49:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Agile methodologies, team engagement, backlog management, and the importance of adapting to user feedback, all of which are core themes in software development. It provides detailed insights into practices that enhance product development and aligns closely with the principles of Agile and Scrum, demonstrating a strong focus on software engineering practices.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1171,11 +1261,14 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of user feedback and adapting requirements, which aligns with Lean principles but does not specifically focus on core Lean Startup topics like MVP or validated learning.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses agile principles and the importance of adapting to user feedback, which aligns with Lean Startup concepts like the Build-Measure-Learn feedback loop. However, it primarily focuses on agile methodologies rather than explicitly addressing Lean Startup principles such as MVPs or validated learning. While it touches on relevant themes, it lacks a direct focus on Lean Startup practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -1324,11 +1417,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content emphasizes the importance of engaging teams in the process of adapting requirements based on feedback, which aligns with coaching principles of collaboration and empowering team members. However, it primarily focuses on Agile practices rather than coaching specifically.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of team engagement and empowerment, which aligns with coaching principles. It highlights the role of the product team and encourages open communication, reflecting coaching techniques. However, it primarily focuses on agile practices and backlog management rather than in-depth coaching strategies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -1342,12 +1438,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 49,
-    "non_ai_confidence": 0,
-    "final_score": 44.0,
-    "reasoning": "Content discusses empowerment and adapting requirements in an Agile context, touching on themes relevant to Scrum but not explicitly focused on Scrum Master responsibilities.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:48:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of team engagement and backlog management, which are relevant to the Scrum Master role. It provides practical advice for Scrum Masters, such as regularly reviewing the backlog and championing the team's voice. However, while it touches on Scrum principles, it lacks a focused discussion on the specific responsibilities and practices of a Scrum Master, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1378,12 +1477,15 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:48:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of user feedback and adapting requirements, which aligns with MVP principles, but it primarily focuses on Agile practices rather than the development of a Minimum Viable Product specifically.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses agile principles and the importance of adapting to user feedback, which aligns with MVP concepts. However, it does not explicitly define MVP or focus on its development and validation processes. The discussion is more about team engagement and backlog management rather than the specific strategies for creating a Minimum Viable Product.",
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1396,12 +1498,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T13:55:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team empowerment and collaboration in updating requirements based on user feedback, which aligns with team dynamics and Agile principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:49:21",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of team engagement, communication, and collaboration within Agile frameworks. It highlights the role of the product development team in adapting to user feedback, which is crucial for effective teamwork. The depth of discussion on empowering teams, updating backlogs, and fostering an environment of open communication aligns well with the core themes of team collaboration. Overall, the content is focused on enhancing team dynamics and collaboration, making it a strong fit for the category.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",

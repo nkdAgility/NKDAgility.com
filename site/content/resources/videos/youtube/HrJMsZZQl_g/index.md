@@ -29,16 +29,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
 - People and Process
 - Agile Frameworks
 - Software Development
-- Continuous Learning
-- Team Performance
-- Discovery and Learning
 - Pragmatic Thinking
-- Team Collaboration
-- Empirical Process Control
-- Metrics and Learning
+- Scrum Product Development
+- Agile Product Management
+- Discovery and Learning
+- Scrum Master
 resourceTypes:
 - video
 categories:

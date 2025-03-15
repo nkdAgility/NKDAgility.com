@@ -22,14 +22,8 @@ aliasesArchive:
 - /blog/new-un-versioned-repository-in-tfs-2012
 - /new-un-versioned-repository-in-tfs-2012
 - /resources/blog/new-un-versioned-repository-in-tfs-2012
-tags:
-- Software Development
-- Modern Source Control
-- Practical Techniques and Tooling
-- Install and Configuration
-- Troubleshooting
-categories:
-- DevOps
+tags: []
+categories: []
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 
 ---

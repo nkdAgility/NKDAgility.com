@@ -10,7 +10,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-07T14:04:17",
+    "calculated_at": "2025-03-15T00:24:27",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the concept of competence and respect within teams, which aligns with the themes of collaboration and team dynamics in Social Technologies. However, it lacks direct mentions of specific frameworks like Scrum, Kanban, Lean, or Agile, and does not delve into their principles or practices. The discussion is more philosophical and does not provide substantial detail on methodologies that facilitate value delivery or continuous improvement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -313,16 +313,19 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses leadership and decision-making, touching upon concepts that align with Agile principles, but it is primarily focused on competence-based hierarchies rather than Agile strategy as its main theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses competence-based hierarchies and their impact on leadership and decision-making, which can relate to Agile principles of empowering teams and valuing expertise. However, it lacks direct references to Agile methodologies or strategic planning, making it more of a general leadership discussion rather than a focused exploration of Agile strategy.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-11T11:37:53",
+    "calculated_at": "2025-03-15T00:24:27",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -330,7 +333,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the concept of hierarchies of competence, which touches on respect and recognition of expertise within a team. However, it lacks explicit references to Agile methodologies, team dynamics, or specific practices that enhance team performance. The discussion is more philosophical and does not delve into actionable strategies or metrics related to team performance, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -415,11 +418,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of competence-based hierarchies and their impact on leadership and decision-making within an organisation, aligning with themes of organisational dynamics but mainly focuses on leadership styles rather than systems thinking principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses competence-based hierarchies and their impact on leadership and decision-making, which aligns with some aspects of organisational dynamics. However, it lacks a direct focus on systems thinking principles and does not delve deeply into the interplay of organisational structure, culture, or processes. The mention of a holistic perspective is relevant but does not sufficiently cover the broader themes of Organisational Physics.",
     "level": "Tertiary"
   },
   "Release Management": {
@@ -478,11 +484,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:29:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the influence of competence-based hierarchies on leadership and decision-making, which relates to organisational culture. However, it primarily focuses on leadership and competence rather than culture directly.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses competence-based hierarchies and their impact on leadership and decision-making, which aligns with aspects of organisational culture. However, it primarily focuses on the concept of competence rather than explicitly addressing cultural elements that influence Agile methodologies or team dynamics. While there are mentions of leadership and engagement, the depth of discussion on organisational culture is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -532,7 +541,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T16:31:57",
+    "calculated_at": "2025-03-15T00:24:27",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -540,7 +549,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses competence-based hierarchies and the importance of deferring to expertise, which touches on leadership principles. However, it lacks direct references to agile methodologies, team dynamics, or specific technical leadership practices. The focus is more on general leadership philosophy rather than the specific aspects of technical leadership outlined in the category description.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -553,12 +562,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making in the context of competence-based hierarchies, which suggests a primary theme around informed decision-making influenced by expertise, but it is not solely focused on decision theory as a central topic.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses decision-making in the context of competence-based hierarchies, which aligns with the themes of decision theory. However, it lacks explicit references to decision theory concepts such as heuristics, biases, or probability. The depth of discussion is moderate, focusing on leadership and competence rather than a comprehensive exploration of decision-making frameworks.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -580,7 +592,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-07T14:04:20",
+    "calculated_at": "2025-03-15T00:24:27",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -588,7 +600,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content touches on the concept of competence and respect within hierarchies, which could relate to organisational dynamics. However, it lacks explicit discussion of organisational change strategies, methodologies, or frameworks. The focus is more on individual competence rather than the broader processes of change management, making it only tangentially relevant to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -610,12 +622,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:35",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses leadership and decision-making in the context of competence-based hierarchies, which aligns with human factors and team dynamics, but it does not focus specifically on processes or methodologies.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses competence-based hierarchies and their impact on leadership and decision-making, which aligns with the category's focus on human behaviour and structured methodologies. However, while it touches on leadership and team dynamics, it lacks detailed exploration of specific processes or methodologies like Agile or Scrum, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -628,12 +643,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence-based hierarchies in leadership and decision-making, which relates to fostering a culture of innovation and adaptability, a key theme of business agility, but primarily focuses on leadership rather than business agility itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses competence-based hierarchies and their impact on leadership and decision-making, which can relate to business agility principles. However, it does not explicitly focus on business agility as a primary topic. The mention of 'Business Agility' in hashtags indicates some relevance, but the overall discussion is more about leadership styles rather than the core themes of business agility. Therefore, while there is some alignment, it lacks depth and direct focus on the category.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -646,7 +664,7 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-10T12:14:36",
+    "calculated_at": "2025-03-15T00:24:27",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -654,7 +672,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses hierarchies of competence, which touches on respect and recognition of expertise within a team. However, it lacks explicit references to core psychological theories or principles related to motivation, engagement, or leadership styles. While it aligns conceptually with themes of team dynamics and decision-making, the depth of discussion is limited, focusing more on personal opinion rather than a thorough exploration of organisational psychology.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -742,7 +760,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T18:17:31",
+    "calculated_at": "2025-03-15T00:24:27",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -750,7 +768,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the concept of hierarchies of competence, which touches on respect and recognition of expertise within a team. However, it lacks explicit references to team collaboration techniques, Agile methodologies, or shared ownership principles. While it aligns conceptually with the importance of recognising team members' capabilities, it does not delve deeply into how this impacts team dynamics or performance in an Agile context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -862,11 +880,14 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses competence-based hierarchies and their impact on team dynamics and decision-making, indicating a secondary theme of motivation through empowerment and engagement, but it is not primarily focused on team motivation.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses competence-based hierarchies and their impact on leadership and decision-making, which indirectly relates to team motivation by emphasising empowerment and recognition of expertise. However, it lacks direct references to team dynamics, engagement strategies, or psychological safety, which are core themes of the category. The focus is more on individual competence rather than collective team motivation.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -934,12 +955,12 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-18T10:21:31",
+    "calculated_at": "2025-03-15T00:24:27",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses competence-based hierarchies and leadership without directly referencing specific Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks or principles. However, the hashtags and keywords indicate a connection to Agile topics, suggesting the category is not central enough.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -997,12 +1018,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses competence-based hierarchies and leadership, it touches on themes relevant to Agile philosophy, such as deferring to individual expertise and promoting team engagement. However, Agile philosophy is not the primary focus of the content.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses competence-based hierarchies and leadership, which can relate to Agile principles of valuing individuals and interactions. However, it lacks direct references to Agile philosophy or its core themes, such as the Agile Manifesto or customer collaboration. The depth of discussion on leadership and decision-making is present, but it does not explicitly connect to Agile practices or the broader implications of Agile as a mindset.",
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1096,12 +1120,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses competence-based hierarchies in leadership and decision-making, it touches on how individuals' expertise can contribute to interpreting complex problems and making informed decisions, aligning it as a secondary theme in sensemaking.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses competence-based hierarchies and their role in decision-making, which aligns with the principles of sensemaking. However, it lacks explicit references to frameworks or models that aid in understanding complexity, and the discussion is more focused on leadership styles rather than the broader context of sensemaking in complex environments.",
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1168,7 +1195,7 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-11T17:44:30",
+    "calculated_at": "2025-03-15T00:24:27",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
@@ -1176,7 +1203,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses competence-based hierarchies and their impact on leadership and decision-making, which can relate to employee engagement. However, it primarily focuses on the concept of competence rather than directly addressing employee motivation, commitment, or the psychological aspects of engagement. While there are mentions of building an engaged team and recognising expertise, the depth of discussion on employee engagement principles is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -1219,11 +1246,14 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses decision-making within the context of competence-based hierarchies and emphasizes the importance of deferring to individuals' expertise for informed choices. However, it also includes broader discussions on leadership and engagement, which makes the decision-making aspect a significant but secondary theme.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses decision-making in the context of competence-based hierarchies, highlighting how expertise influences decisions. However, it lacks structured methodologies and empirical evidence, which are crucial for a higher confidence score in the Decision Making category.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -1291,12 +1321,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses competence-based hierarchies and their impact on leadership and team effectiveness, reflecting on organizational culture and decision-making, which aligns with sociotechnical concepts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses competence-based hierarchies and their impact on leadership and decision-making, which touches on social dynamics within organisations. However, it lacks explicit references to sociotechnical systems or their integration with technology. The focus is primarily on individual competence rather than the interplay between social and technical elements, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1327,12 +1360,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses competence-based hierarchies and their holistic perspective, which touches upon systems thinking in terms of understanding complex dynamics and decision-making, but it primarily focuses on competence and leadership rather than Systems Thinking as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses competence-based hierarchies and their impact on decision-making, which touches on the holistic perspective of Systems Thinking. However, it lacks explicit references to Systems Thinking principles, techniques, or frameworks. The discussion is more focused on leadership and competence rather than the interconnectedness of systems or the application of Systems Thinking methodologies.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1417,7 +1453,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:24:40",
+    "calculated_at": "2025-03-15T00:24:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1425,6 +1461,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content briefly touches on the concept of competence and respect within teams, which could relate to team dynamics in Scrum. However, it does not explicitly mention Scrum principles, roles, events, or artifacts, nor does it provide substantial detail on Scrum practices. The focus is more on general team dynamics rather than the specific framework of Scrum.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

@@ -28,11 +28,6 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - System Configuration
-- Technical Mastery
-- Troubleshooting
-- Pragmatic Thinking
-- Application Lifecycle Management
-- Operational Practices
 categories:
 - Scrum
 preview: nakedalm-experts-visual-studio-alm-1-1.png

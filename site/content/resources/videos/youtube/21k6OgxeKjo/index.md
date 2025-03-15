@@ -24,10 +24,16 @@ preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
 duration: 38
 isShort: true
 tags:
+- Agile Project Management
 - Product Owner
 - Agile Leadership
+- Team Performance
+- Pragmatic Thinking
+- Software Development
+- Agile Values and Principles
 - Scrum Team
-- People and Process
+- Agile Transformation
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

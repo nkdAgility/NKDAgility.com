@@ -30,6 +30,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Team Performance
 - Practical Techniques and Tooling
 - Agile Project Management
 - Operational Practices
@@ -37,9 +38,8 @@ tags:
 - Strategy
 - Agile Frameworks
 - Pragmatic Thinking
+- Transparency and Accountability
 - People and Process
-- Team Collaboration
-- Transparency
 resourceTypes:
 - video
 categories:

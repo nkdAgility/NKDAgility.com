@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation process of Team Foundation Server Service Pack 1, which involves practical techniques related to tooling. However, it primarily focuses on personal experiences and troubleshooting rather than a comprehensive exploration of methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio Team Foundation Server Service Pack 1, which is a practical technique related to tooling. It discusses specific steps, issues encountered, and resolutions, aligning with the category's emphasis on practical application. However, while it mentions the tool (Team Foundation Server), it lacks broader discussions on methodologies or frameworks that enhance Agile and DevOps practices, which limits its overall alignment and depth.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -238,7 +241,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T15:08:07",
+    "calculated_at": "2025-03-15T06:40:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -246,7 +249,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the installation process of a specific software update (Service Pack 1 for Team Foundation Server) rather than discussing broader methodologies or practices related to product delivery. While it touches on aspects of deployment and troubleshooting, it lacks a comprehensive exploration of product delivery principles such as Agile methodologies, iterative development, or cross-functional team roles. The discussion is more technical and procedural, which does not align closely with the core themes of product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -289,7 +292,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T10:38:41",
+    "calculated_at": "2025-03-15T06:40:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -297,7 +300,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the installation process of Team Foundation Server (TFS) and its service pack, which is a component of Azure DevOps. However, it lacks a broader discussion on Azure DevOps functionalities, best practices, or methodologies. The focus is more on personal experiences and troubleshooting rather than on the core themes of Azure DevOps, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -355,12 +358,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of a service pack for Team Foundation Server, which is related to the maintenance stage of the application lifecycle. However, it primarily focuses on the installation process rather than broader ALM practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of a specific service pack for Team Foundation Server, which is a tool used in the application lifecycle. However, it lacks a comprehensive discussion on the broader aspects of Application Lifecycle Management, such as methodologies, governance, or lifecycle stages. While it touches on aspects of maintenance and deployment, it does not delve into best practices or frameworks that support ALM, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -382,12 +388,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the process of installing a software update (Service Pack 1) and troubleshooting related issues. While it touches on technical aspects of installation which can be linked to software engineering practices, it lacks a focus on broader topics relevant to technical mastery such as design principles, code quality, or software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of a software update, which is more operational than a discussion on technical mastery. While it touches on aspects of software installation and troubleshooting, it lacks in-depth exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development. The discussion is more about personal experience with the installation rather than a structured analysis of technical excellence.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -589,12 +598,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of a service pack for Team Foundation Server, which is relevant to software development processes, particularly in managing development environments. However, the focus is more on personal installation experiences rather than methodological discussions, making software development a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the installation process of a specific software update (Service Pack 1 for Team Foundation Server), which is relevant to software development practices. It includes details about installation issues, troubleshooting, and the implications of the update on development environments. However, while it touches on aspects of software deployment, it lacks a broader discussion on methodologies or best practices in software development, which limits its depth and alignment with the category.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -868,7 +880,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T18:09:35",
+    "calculated_at": "2025-03-15T06:40:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -876,7 +888,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the installation process of a software service pack, which is a technical task rather than a discussion on working software itself. While it touches on aspects of functionality and operational software, it lacks a focus on user requirements, quality assurance, or iterative development principles that are central to the 'Working Software' category. The discussion is more about troubleshooting and installation rather than delivering high-quality, functional software that meets customer needs.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -961,7 +973,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T16:58:29",
+    "calculated_at": "2025-03-15T06:40:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -969,7 +981,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the installation of a service pack for Team Foundation Server, which is related to software releases. However, it primarily focuses on the installation process and personal experiences rather than the broader strategies and practices of release management. While it touches on aspects like version control and the importance of successful installations, it lacks a comprehensive discussion on release planning, risk management, or coordination among stakeholders, which are key themes in release management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1132,12 +1144,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation of a software update (Service Pack) for Team Foundation Server, which is related to deployment practices. However, the primary focus is on the installation process rather than specific deployment methodologies or strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation process of a service pack for Team Foundation Server, which is more about software setup than deployment strategies. While it mentions aspects of deployment, such as the need for local installations and potential issues during the process, it lacks a detailed discussion on methodologies or practices related to deployment strategies like blue-green deployments or canary releases. The content does not provide actionable insights into deployment strategies, thus aligning only tangentially with the category.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",

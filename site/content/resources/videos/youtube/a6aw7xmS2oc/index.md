@@ -24,16 +24,16 @@ preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
 tags:
-- Ability to Innovate
-- Product Owner
 - Agile Product Management
-- Agile Product Operating Model
-- Decision Making
-- Evidence Based Leadership
-- Metrics and Learning
+- Product Owner
+- Strategy
 - Scrum Product Development
 - Value Delivery
-- Pragmatic Thinking
+- Ability to Innovate
+- Agile Product Operating Model
+- People and Process
+- Evidence Based Leadership
+- Evidence Based Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Operating Model
-- Decision Making
+- Discovery and Learning
 - Evidence Based Leadership
-- Pragmatic Thinking
-- Metrics and Learning
-- Evidence Based Management
-- Products and Books
-- Value Delivery
-- Agile Product Management
+- Product Discovery
+- Product Validation
+- Software Development
 - Ability to Innovate
+- Decision Making
+- Pragmatic Thinking
+- Scrum Product Development
+- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

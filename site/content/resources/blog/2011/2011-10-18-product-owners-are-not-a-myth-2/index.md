@@ -8,7 +8,7 @@ ResourceImportId: 3909
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-10-18
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/product-owners-are-not-a-myth
 - /resources/blog/product-owners-are-not-a-myth-2
 tags:
+- Scrum Product Development
 - Agile Project Management
 - Agile Product Management
 - Product Owner
+- Software Development
 - People and Process
 - Product Backlog
 - Scrum Team
-- Scrum Product Development
 - Professional Scrum
-- Software Development
-- Agile Frameworks
+- Value Delivery
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png

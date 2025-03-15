@@ -1,7 +1,7 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T17:08:35",
+    "calculated_at": "2025-03-15T07:41:51",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content mentions Team Foundation Server (TFS) and discusses its limitations in a hosted environment, which relates to application management. However, it lacks a comprehensive exploration of the application lifecycle stages, best practices, or governance, making it a secondary focus rather than a primary discussion on Application Lifecycle Management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -583,7 +583,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T13:21:40",
+    "calculated_at": "2025-03-15T07:41:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -591,16 +591,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Team Foundation Server (TFS) and its implications for project management in a hosted environment, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about the technical limitations of TFS rather than best practices or principles that enhance developer productivity or collaboration. The mention of changes in future versions of TFS hints at potential improvements but does not delve into how these relate to Agile or DevOps practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:41:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses Hosted Team Foundation Server, which relates to software development practices and tools, but is centered more on specific issues rather than broader developmental methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is a tool used in software development for version control and project management. While it mentions specific issues and features related to TFS, the discussion lacks depth in terms of broader software development methodologies or practices. The focus is primarily on a specific tool rather than the overarching principles of software development, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -856,7 +859,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T10:51:06",
+    "calculated_at": "2025-03-15T07:41:51",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -864,7 +867,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Team Foundation Server (TFS), which is a version control system, but the focus is primarily on its limitations in a hosted environment rather than on best practices or methodologies related to modern source control. While TFS is mentioned, the discussion lacks depth in terms of version control strategies, code management, or collaboration workflows, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1120,12 +1123,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:41:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to using Hosted Team Foundation Server, specifically concerns about project partitioning and data visibility between clients, indicating a focus on identifying challenges and potential resolutions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to Hosted Team Foundation Server, specifically the lack of project partitioning and the need for separate instances to maintain data separation. However, it does not provide detailed troubleshooting techniques or methodologies for resolving these issues, which limits its alignment with the core themes of the Troubleshooting category. The discussion is more focused on the limitations of the system rather than on diagnosing or resolving specific technical problems.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1408,7 +1414,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:18:59",
+    "calculated_at": "2025-03-15T07:41:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1416,6 +1422,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its hosting issues, with no direct mention of Scrum principles, roles, or events. While it touches on project management tools, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on TFS rather than Scrum, leading to a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

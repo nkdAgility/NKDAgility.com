@@ -26,9 +26,7 @@ aliasesArchive:
 - /a-change-for-the-better--2---aggreko-to-ssw
 - /blog/a-change-for-the-better--2---aggreko-to-ssw
 - /resources/blog/a-change-for-the-better-2
-tags:
-- People and Process
-- Personal
+tags: []
 categories: []
 preview: metro-SSWLogo-128-link-3-1.png
 

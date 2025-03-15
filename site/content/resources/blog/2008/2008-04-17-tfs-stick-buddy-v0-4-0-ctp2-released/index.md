@@ -22,11 +22,7 @@ aliasesArchive:
 - /blog/tfs-stick-buddy-v0-4-0-ctp2-released
 - /tfs-stick-buddy-v0-4-0-ctp2-released
 - /resources/blog/tfs-stick-buddy-v0-4-0-ctp2-released
-tags:
-- Practical Techniques and Tooling
-- Products and Books
-- Windows
-- Software Development
+tags: []
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

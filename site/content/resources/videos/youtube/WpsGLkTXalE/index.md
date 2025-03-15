@@ -26,11 +26,15 @@ duration: 50
 isShort: true
 tags:
 - Agile Leadership
+- Agile Philosophy
+- Organisational Culture
 - Accountability
+- Team Motivation
+- Transparency
+- Psychological Safety
 - Agile Product Management
 - People and Process
-- Psychological Safety
-- Transparency and Accountability
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6

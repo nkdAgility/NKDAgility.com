@@ -27,16 +27,10 @@ aliasesArchive:
 - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch-
 - /resources/blog/do-you-know-the-minimum-builds-to-create-on-any-branch
 tags:
-- Practical Techniques and Tooling
-- Automated Testing
-- Azure Pipelines
-- Continuous Integration
-- Engineering Practices
-- Operational Practices
 - Software Development
+- Practical Techniques and Tooling
+- Continuous Integration
 - Modern Source Control
-- Technical Excellence
-- Product Delivery
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - DevOps

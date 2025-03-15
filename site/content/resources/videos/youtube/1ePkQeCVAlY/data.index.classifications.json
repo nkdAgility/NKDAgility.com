@@ -85,7 +85,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:11:38",
+    "calculated_at": "2025-03-15T01:14:19",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -93,7 +93,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency, which are relevant to product management, particularly in the context of optimising workflows and understanding team dynamics. However, it lacks direct mentions of product management frameworks or methodologies, and the discussion is more focused on operational efficiency rather than strategic alignment with customer needs or business objectives. While it touches on the importance of team morale and holistic views of work processes, it does not delve deeply into product management practices or frameworks, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -142,12 +142,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:15:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of resource efficiency versus flow efficiency, which relates to decision-making in organisational contexts. However, it primarily focuses on the concepts of efficiency rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency, which are relevant to decision-making in Agile processes. However, it primarily focuses on the concepts themselves rather than structured decision-making methodologies or evidence-based practices. The mention of balancing these efficiencies hints at decision-making but lacks depth in discussing frameworks or empirical evidence.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -181,12 +184,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:14:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of resource efficiency versus flow efficiency on employee satisfaction and engagement, which relates to organisational culture. However, the primary focus is on efficiency concepts rather than a deep exploration of cultural elements.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses resource efficiency and flow efficiency in the context of Agile processes, focusing on optimisation rather than cultural aspects. While it touches on the implications of resource efficiency on employee satisfaction, it does not delve into the broader themes of organisational culture, such as leadership's role or team dynamics. The discussion lacks depth regarding cultural transformation or employee engagement, which are key topics in the category of Organisational Culture.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -244,21 +250,27 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:15:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses flow efficiency in relation to optimizing workflows, which is a key aspect of Value Stream Mapping, but it primarily focuses on the distinction between resource efficiency and flow efficiency rather than on VSM itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency, which are related to Lean principles but does not explicitly mention Value Stream Mapping or its specific techniques. While it touches on concepts of optimisation and workflow, it lacks a direct focus on VSM, its creation, or its role in Lean methodologies.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:15:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency, which are relevant to strategic approaches in Agile environments. However, it primarily focuses on the differences between these efficiencies rather than a clear strategic framework or planning, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency within the context of Agile processes, which aligns with the Strategy category's focus on optimising delivery and enhancing team performance. It provides a detailed comparison of the two efficiencies, emphasising the importance of balancing them to create effective workflows. However, while it touches on strategic themes, it does not delve deeply into broader strategic alignment or leadership roles, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -271,12 +283,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to flow efficiency and resource efficiency, which are relevant to Agile principles, but it does not primarily focus on Agile frameworks themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:14:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency within the context of Agile processes, indicating a clear connection to Agile frameworks. It explores how these efficiencies impact team dynamics and organisational performance, aligning well with the core themes of Agile principles. However, while it touches on Agile practices, it does not delve deeply into specific Agile frameworks like Scrum or Kanban, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -289,12 +304,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of resource efficiency versus flow efficiency on team dynamics and employee satisfaction, which relates to team collaboration, but it primarily focuses on efficiency concepts rather than direct collaboration techniques or Agile principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:14:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency within Agile processes, but it primarily focuses on individual concepts rather than team collaboration dynamics. While it touches on the implications of these efficiencies on team performance, it lacks a direct exploration of teamwork, communication, or shared ownership, which are central to the 'Team Collaboration' category.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -307,12 +325,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-12T12:07:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:46:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concepts of resource efficiency and flow efficiency, which are central to Lean Thinking principles. It contrasts these concepts and highlights the importance of optimising the flow of work to enhance value delivery, aligning well with Lean principles.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency, which are relevant to Lean Thinking principles, particularly in the context of optimising processes and minimising waste. However, it primarily focuses on Agile practices rather than Lean principles directly. While it touches on concepts like optimisation and system flow, it lacks a deeper exploration of Lean tools or methodologies, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -343,12 +364,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts related to flow efficiency and resource efficiency in the context of work processes, which can be relevant to software development practices, particularly in Agile and DevOps environments. However, the primary focus is on general organisational efficiency rather than specific software development methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:14:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses concepts related to Agile methodologies, specifically resource efficiency and flow efficiency, which are relevant to software development practices. However, while it touches on Agile processes, it does not delve deeply into specific software development techniques or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -364,11 +388,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:15:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses flow efficiency in relation to work completion and the impact of optimising workflows, which aligns with throughput concepts. However, it primarily focuses on the distinction between resource efficiency and flow efficiency rather than throughput itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses flow efficiency, which is closely related to throughput, as it focuses on optimising the flow of work through a system. However, the primary focus is on the distinction between resource efficiency and flow efficiency rather than directly measuring or optimising throughput. While it touches on concepts relevant to throughput, such as bottlenecks and system optimisation, it does not delve deeply into specific techniques for measuring throughput or strategies for improvement, which limits its overall alignment with the category.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
@@ -382,12 +409,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency, which relate to Agile principles of delivering value and optimising work processes. However, it primarily focuses on operational efficiency rather than explicitly addressing Agile values or principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:15:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency within the context of Agile processes, indicating a conceptual alignment with Agile principles. However, it primarily focuses on the operational aspects of efficiency rather than explicitly addressing Agile values or principles. The depth of discussion on how these efficiencies relate to Agile practices is moderate, but it lacks a direct exploration of the Agile Manifesto or its core values.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -472,12 +502,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses concepts of resource efficiency and flow efficiency in the context of work systems, touching on the impact on software engineering and developers, but it primarily focuses on broader organisational efficiency rather than specifically on Agile or DevOps practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:15:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency within the context of Agile practices, which aligns with the category of Software Developers. However, it does not explicitly mention software developers or their roles, focusing instead on broader efficiency concepts. The discussion is relevant but lacks depth in terms of specific practices or tools used by developers, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -562,11 +595,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T12:08:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:54:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the practical implications of resource efficiency versus flow efficiency in organisational contexts, highlighting the importance of holistic approaches to optimise work processes and enhance team satisfaction, which aligns well with pragmatic thinking in Agile and DevOps frameworks.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the practical implications of resource efficiency and flow efficiency within Agile processes, highlighting the importance of balancing these concepts for effective project management. It provides a clear distinction between the two efficiencies and their impact on team dynamics, which aligns well with pragmatic thinking. However, while it touches on Agile principles, it does not delve deeply into specific problem-solving strategies or case studies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -598,12 +634,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency, which are relevant to Agile principles, particularly in the context of optimising work processes and delivering value. However, it primarily focuses on the differences between these efficiencies rather than a comprehensive Agile strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:14:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency within the context of Agile processes, indicating a focus on optimisation strategies relevant to Agile methodologies. However, while it touches on Agile principles, it does not delve deeply into strategic planning or organisational alignment, which are key aspects of Agile Strategy. The discussion is more about operational efficiency rather than a comprehensive Agile strategy, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -634,30 +673,39 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:15:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency, touching on the implications of these approaches in complex environments. While it primarily focuses on efficiency models, it does highlight the importance of understanding the flow of work and the impact of decision-making on team dynamics, which aligns with sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency within Agile processes, but it primarily focuses on operational efficiency rather than the broader themes of sensemaking. While it touches on the importance of understanding work processes and balancing efficiencies, it lacks a direct exploration of sensemaking principles, frameworks, or leadership roles in navigating complexity. The discussion is more about optimisation techniques than about interpreting complex situations for informed decision-making.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of resource efficiency versus flow efficiency on team morale and engagement, highlighting how a focus on resource efficiency can lead to unhappy teams and high turnover. However, the primary focus is on efficiency concepts rather than direct team motivation strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:14:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses resource efficiency and flow efficiency in the context of Agile processes, with a focus on optimisation rather than team motivation. While it touches on the potential negative impacts of resource efficiency on team morale, it does not delve into strategies for enhancing team engagement, trust, or psychological safety, which are core themes of the Team Motivation category.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of resource efficiency versus flow efficiency on team dynamics and employee satisfaction, which relates to team performance. However, it primarily focuses on efficiency concepts rather than specific strategies or practices for enhancing team collaboration and effectiveness.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:14:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency within the context of Agile processes, which indirectly relates to team performance. However, it primarily focuses on the concepts of efficiency rather than specific strategies or practices aimed at enhancing team dynamics or collaboration. While it touches on the impact of resource optimisation on team morale, it lacks detailed exploration of Agile ceremonies, leadership roles, or conflict resolution strategies that are central to the 'Team Performance' category.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -697,12 +745,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-12T12:08:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:32:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concepts of resource efficiency versus flow efficiency, which are central to Lean Principles. It highlights the importance of optimising processes and maximising value while addressing waste and inefficiencies in organisational practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency, which are relevant to Lean principles, particularly in the context of waste reduction and value maximisation. However, the primary focus is on Agile processes rather than Lean principles specifically. While it touches on concepts like optimisation and system flow, it does not delve deeply into Lean tools or practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -733,12 +784,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency in the context of organisational dynamics, highlighting the impact of these efficiencies on employee satisfaction and overall organisational effectiveness. However, it primarily focuses on efficiency rather than explicit organisational change strategies or frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:14:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency within the context of Agile processes, which are relevant to organisational change. However, it primarily focuses on efficiency concepts rather than the broader strategies and methodologies of organisational change. While it touches on the implications of these efficiencies for team dynamics and productivity, it lacks a direct discussion on change management frameworks or leadership roles in driving change, which are critical to the category. Therefore, the confidence score reflects a moderate alignment with the category, but not a primary focus.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -760,11 +814,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T12:08:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T01:14:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the differences between resource efficiency and flow efficiency, focusing on how these concepts impact operational practices within organisations. It highlights the importance of optimising workflows and understanding the holistic flow of work, which aligns well with the key topics of operational efficiency and continuous improvement.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the concepts of resource efficiency and flow efficiency, which are crucial for optimising processes within Agile frameworks. It provides a detailed comparison of the two efficiencies, highlighting their implications for operational practices. The depth of discussion on how these efficiencies impact team dynamics and workflow management aligns well with the core themes of operational efficiency and continuous improvement. Overall, the content is focused on practical applications and strategies for enhancing operational performance.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -913,12 +970,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:15:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to flow efficiency and resource efficiency, which touch on aspects of software craftsmanship and engineering practices. However, the primary focus is on organisational efficiency rather than technical mastery itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency within the context of Agile practices, which touches on technical aspects of software development. However, it primarily focuses on Agile methodologies rather than deep technical mastery or software craftsmanship principles. While it mentions optimisation and the importance of balancing different efficiencies, it lacks detailed exploration of software design, clean code, or engineering practices, which are central to the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -949,12 +1009,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency, which relate to Agile principles of value delivery and team dynamics. However, it primarily focuses on operational efficiency rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:14:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency within the context of Agile processes, indicating a focus on value delivery and the importance of optimising work systems. However, it primarily centres on specific efficiency concepts rather than the broader Agile philosophy, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1030,12 +1093,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:14:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts of resource efficiency and flow efficiency, which relate to organisational performance and adaptability. However, it primarily focuses on the differences between these efficiencies rather than explicitly addressing broader enterprise agility principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency within the context of Agile processes, but it primarily focuses on team-level practices rather than organisational agility. While it touches on concepts relevant to enterprise agility, such as optimising workflows and understanding system dynamics, it lacks a broader organisational context and does not address the implications for organisational performance or culture. Therefore, it does not fully align with the category of Enterprise Agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1069,12 +1135,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:14:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency in the context of software development, touching on the implications for team dynamics and work processes, which relates to complexity in software systems. However, the primary focus is on efficiency rather than directly on code quality or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses resource efficiency and flow efficiency within Agile processes, which are not directly related to software code quality or complexity. While it touches on optimisation and system processes, it lacks a focus on coding practices, software architecture, or complexity theory. The discussion is more aligned with project management and operational efficiency rather than the interplay between code and complexity.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1099,12 +1168,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency in the context of work processes, which relates to product delivery methodologies. However, it primarily focuses on theoretical distinctions rather than practical applications or methodologies directly tied to product delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:14:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 14,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency within the context of Agile practices, which are relevant to product delivery. However, it primarily focuses on the theoretical aspects of efficiency rather than the practical methodologies and processes involved in delivering software products. While Agile is mentioned, the discussion lacks depth in terms of specific product delivery practices, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1222,11 +1294,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:14:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency, which are relevant to business agility principles, particularly in the context of optimising work processes and enhancing organisational responsiveness. However, the primary focus is on the comparison of these efficiencies rather than a direct exploration of business agility itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency within the context of Agile processes, which are relevant to business agility. However, it primarily focuses on the comparison of these two concepts rather than exploring broader principles or practices of business agility. While it touches on the importance of optimising workflows, it lacks depth in discussing how these efficiencies contribute to overall business agility or how organisations can adapt and innovate in a dynamic market environment.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -1264,11 +1339,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:15:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency, highlighting the importance of optimising work processes and the impact on organisational culture and employee satisfaction, which aligns with themes of organisational agility.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses resource efficiency and flow efficiency within the context of Agile practices, which aligns with the principles of organisational agility. However, it primarily focuses on the comparison of these two concepts rather than exploring broader strategies or frameworks for enhancing organisational agility. While it touches on the importance of balancing these efficiencies, it lacks a deeper exploration of cultural shifts, leadership roles, or specific methodologies that would strengthen its alignment with the category.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1345,12 +1423,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T16:42:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:14:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of resource efficiency and flow efficiency on employee satisfaction and engagement, highlighting how a focus on resource efficiency can lead to unhappy employees and high turnover. However, the primary focus is on efficiency concepts rather than psychological principles.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses resource efficiency and flow efficiency within Agile processes, focusing on operational aspects rather than psychological principles. While it touches on employee dissatisfaction and the importance of valuing contributions, these points are secondary to the main topic of efficiency in processes. The discussion lacks depth in psychological theories or concepts directly related to organisational behaviour, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -1375,12 +1456,15 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-18T08:29:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:15:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency, touching on themes of organisational dynamics and employee engagement, which are relevant to BetaCodex principles, but it primarily focuses on efficiency rather than the core tenets of BetaCodex.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses resource efficiency and flow efficiency within Agile processes, which are not directly related to the principles of Beta Codex. While it touches on human-centric aspects by highlighting the importance of valuing individuals over treating them as mere resources, it does not explicitly mention Beta Codex or its foundational theories. The discussion lacks depth in terms of decentralisation and adaptive organisational cultures, which are key themes of the Beta Codex. Overall, the content is more focused on efficiency concepts rather than the broader organisational design principles advocated by Beta Codex.",
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -1393,12 +1477,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:29:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concepts of resource efficiency and flow efficiency, which are relevant to Agile principles, particularly in the context of optimising value delivery. However, it primarily focuses on the differences between these efficiencies rather than a comprehensive discussion on the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:15:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile concepts, particularly resource and flow efficiency, which are relevant to Agile practices. However, it does not explicitly focus on the Agile Product Operating Model or its key topics, such as product-centric development or cross-functional teams. The discussion is more about efficiency in Agile processes rather than the broader organisational framework of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1429,7 +1516,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:26:53",
+    "calculated_at": "2025-03-15T01:14:19",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1437,6 +1524,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses resource efficiency and flow efficiency, which are not directly related to Scrum principles or practices. While it touches on team dynamics and the importance of optimising work flow, it does not explicitly mention Scrum roles, events, or artifacts. The focus is more on general efficiency concepts rather than the Scrum framework, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

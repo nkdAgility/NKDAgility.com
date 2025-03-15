@@ -30,6 +30,11 @@ aliasesArchive:
 - /resources/blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 tags:
 - Troubleshooting
+- Software Development
+- System Configuration
+- Windows
+- Practical Techniques and Tooling
+- Install and Configuration
 categories:
 - DevOps
 preview: metro-problem-icon-7-7.png

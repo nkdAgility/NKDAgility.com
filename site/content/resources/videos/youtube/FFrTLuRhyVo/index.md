@@ -27,12 +27,11 @@ preview: https://i.ytimg.com/vi/FFrTLuRhyVo/maxresdefault.jpg
 duration: 36
 isShort: true
 tags:
+- Software Development
 - Value Delivery
 - Technical Debt
-- Working Software
-- Technical Leadership
-- Agile Product Management
-- Technical Mastery
+- Product Delivery
+- Ability to Innovate
 sitemap:
   filename: sitemap.xml
   priority: 0.6

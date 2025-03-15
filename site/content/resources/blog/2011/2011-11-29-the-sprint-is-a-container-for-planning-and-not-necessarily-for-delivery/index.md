@@ -8,7 +8,7 @@ ResourceImportId: 4092
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-29
-weight: 265
+weight: 300
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,16 +23,16 @@ aliasesArchive:
 - /the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 - /resources/blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 tags:
+- Continuous Delivery
 - Product Delivery
+- Software Development
+- Software Developers
+- Pragmatic Thinking
+- Agile Project Management
 - Practical Techniques and Tooling
 - Technical Excellence
-- Deployment Frequency
-- Definition of Done
-- Continuous Delivery
-- Software Development
-- Technical Debt
-- Agile Frameworks
-- Agile Project Management
+- Working Software
+- Frequent Releases
 categories:
 - DevOps
 - Social Technologies

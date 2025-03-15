@@ -37,10 +37,8 @@ tags:
 - People and Process
 - Agile Frameworks
 - Agile Project Management
+- Agile Transformation
 - Software Development
-- Pragmatic Thinking
-- Scrum Product Development
-- Software Developers
 resourceTypes:
 - video
 categories:

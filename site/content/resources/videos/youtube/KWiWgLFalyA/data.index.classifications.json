@@ -637,12 +637,12 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-20T18:25:53",
+    "calculated_at": "2025-03-14T16:19:34",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "Content primarily focuses on scaling product development teams and system optimization, which is more about general business management and process improvement rather than core principles of entrepreneurship.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -691,12 +691,12 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-20T18:25:53",
+    "calculated_at": "2025-03-14T16:19:34",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "Content discusses product development scaling but does not primarily focus on Scrum principles, roles, or practices. It emphasizes alignment and system optimization rather than specific Scrum methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1399,7 +1399,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:37:59",
+    "calculated_at": "2025-03-14T16:20:37",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1407,6 +1407,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses challenges in scaling product development and the importance of system alignment, which indirectly relates to Scrum principles like team dynamics and continuous improvement. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

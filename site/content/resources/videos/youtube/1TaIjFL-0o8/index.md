@@ -24,16 +24,16 @@ preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 isShort: false
 tags:
+- Professional Scrum
 - Scrum Team
 - Scrum Master
-- People and Process
 - Agile Frameworks
-- Agile Project Management
-- Agile Transformation
-- Professional Scrum
 - Software Development
+- People and Process
+- Agile Project Management
+- Organisational Agility
 - Agile Leadership
-- Pragmatic Thinking
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

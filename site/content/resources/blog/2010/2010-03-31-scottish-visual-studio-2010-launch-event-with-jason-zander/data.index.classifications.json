@@ -325,7 +325,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T18:12:04",
+    "calculated_at": "2025-03-15T07:08:02",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -333,7 +333,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content mentions ALM (Application Lifecycle Management) in the context of a launch event for Visual Studio 2010, which indicates a connection to the category. However, the primary focus of the content is on the event details and speakers rather than a thorough discussion of ALM principles or practices. While there is some alignment with the category through the mention of collaboration features and the role of a Technical Specialist, the depth of discussion on the lifecycle management aspects is limited. Therefore, the confidence score reflects a moderate relevance to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -382,7 +382,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T12:06:36",
+    "calculated_at": "2025-03-15T07:08:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -390,7 +390,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on an event announcement rather than a discussion of technical mastery. While it mentions Visual Studio 2010 and includes speakers who may touch on relevant topics, the overall emphasis is on the event logistics and speakers rather than on best practices, principles, or methodologies of software craftsmanship. The alignment with the category is weak, as it lacks in-depth discussion of technical topics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -592,11 +592,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:08:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a launch event for Visual Studio 2010, which is a development tool, and includes mentions of development practices and features related to it, making Software Development a major but secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily serves as an announcement for a launch event rather than a discussion on software development practices. While it mentions Visual Studio 2010 and includes references to development topics, the focus is on the event details and speakers rather than on methodologies, best practices, or in-depth discussions related to software engineering. The alignment with the core themes of the category is minimal, and the depth of discussion is limited to event logistics and speaker introductions.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -664,7 +667,7 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-11T15:10:34",
+    "calculated_at": "2025-03-15T07:08:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -672,7 +675,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content mentions collaboration features in Visual Studio 2010, which aligns with the category. However, it primarily focuses on an event announcement rather than a detailed discussion of collaboration tools or their impact on Agile teams. The depth of discussion is limited to the event agenda and speakers, lacking comprehensive insights into collaboration practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1018,7 +1021,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T18:51:48",
+    "calculated_at": "2025-03-15T07:08:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1026,7 +1029,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, with mentions of speakers discussing collaboration features. However, it lacks a direct discussion on team dynamics or collaboration strategies within Agile or DevOps frameworks. While there is some alignment with the theme of collaboration, the depth of discussion is minimal and does not explore the core topics outlined in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1222,7 +1225,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T15:04:08",
+    "calculated_at": "2025-03-15T07:08:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1230,7 +1233,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a launch event for Visual Studio 2010, mentioning speakers and their topics, which include development and collaboration features. However, it lacks a direct discussion on Agile or DevOps methodologies, and the details provided are more about the event logistics rather than the role of software developers within those frameworks. While there are mentions of development tools, the overall content does not deeply engage with the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

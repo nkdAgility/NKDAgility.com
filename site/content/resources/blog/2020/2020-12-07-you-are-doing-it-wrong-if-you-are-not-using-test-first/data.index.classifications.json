@@ -1,12 +1,15 @@
 {
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:46:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of Test First principles and their role in minimising rework and ensuring that customer needs are met, which aligns with Lean principles of efficiency and value delivery. However, the primary focus is on testing methodologies rather than Lean Product Development itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Test First principles and Test Driven Development (TDD), which are more aligned with software development practices than Lean Product Development. While there are mentions of minimising rework and improving customer satisfaction, the focus is not on Lean principles or waste reduction in the product lifecycle. The discussion lacks depth in Lean methodologies and does not integrate Lean with Agile practices, which are crucial for the category.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -55,12 +58,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of Test First principles and their impact on delivering value to customers, which aligns with Agile values. However, it primarily focuses on specific practices like Test Driven Development (TDD) rather than a broader discussion of Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of Test First principles, which indirectly relates to Agile values such as customer collaboration and responding to change. However, it primarily focuses on specific practices (like TDD) rather than the broader Agile values and principles. While it touches on the need for validation and meeting customer expectations, it lacks a direct discussion of the Agile Manifesto or its core principles, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -103,12 +109,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of Test First principles and their role in validating software development processes, which aligns with the themes of inspection and adaptation in empirical process control. However, the primary focus is on Test Driven Development and related methodologies rather than a direct discussion of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Test First principles and their importance in software development, which aligns with the concept of empirical process control through the emphasis on validation and feedback loops. However, it primarily focuses on Test Driven Development (TDD) rather than explicitly addressing empirical process control as a primary theme. While it touches on aspects of transparency and adaptation, the depth of discussion on empirical process control principles is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -214,12 +223,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of Test First principles and their impact on software development processes, which aligns with strategic approaches in Agile environments. However, the primary focus is on testing methodologies rather than broader strategic alignment or execution within Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of Test First principles and their role in software development, which indirectly relates to strategic alignment and optimisation of delivery processes. However, it primarily focuses on technical practices rather than strategic frameworks within Agile, Scrum, or DevOps. The mention of continuous delivery and the need for validation aligns with strategic goals, but the overall depth and focus remain more on implementation than on strategic formulation or execution.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -232,12 +244,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:46:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of Test First principles and their impact on software development processes, which indirectly relates to team performance by emphasising collaboration and validation within teams. However, the primary focus is on testing methodologies rather than direct team dynamics or performance strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of Test First principles, particularly in the context of Agile methodologies like Scrum. It highlights how adopting Test First can enhance team performance by reducing rework, improving collaboration, and ensuring that the team builds what the customer needs. However, while it touches on team dynamics and the role of developers, it primarily focuses on technical practices rather than broader team performance strategies, which slightly limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -250,12 +265,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Test First principles and their relation to Agile methodologies, particularly in the context of Scrum. However, the primary focus is on testing practices rather than a comprehensive exploration of Agile Project Management principles.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Test First principles and their importance in software development, which aligns with agile methodologies. However, it primarily focuses on testing practices rather than the broader aspects of Agile Project Management, such as Scrum roles or iterative development strategies. While it mentions Scrum in the context of training, the overall emphasis is on testing rather than agile project management principles.",
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -337,12 +355,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of Test First principles and their role in ensuring that the right software is built, which relates to decision-making in software development. However, the primary focus is on testing methodologies rather than structured decision-making processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of Test First principles and their role in software development, which indirectly relates to decision-making in terms of validating what is built and ensuring it meets customer expectations. However, it lacks a structured discussion on decision-making methodologies or frameworks, focusing more on practices rather than the decision-making process itself.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -463,12 +484,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Test First principles and their relevance to software development, mentioning Scrum roles and the importance of validation in the context of Scrum teams. However, the primary focus is on testing methodologies rather than the dynamics and collaboration within a Scrum Team.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses Test First principles and their importance in software development, which indirectly relates to Scrum practices. However, it primarily focuses on testing methodologies rather than the dynamics, roles, and collaboration within a Scrum Team. While there are mentions of Scrum roles and the importance of validation in the context of team performance, the overall emphasis is on testing rather than Scrum-specific team dynamics.",
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -568,21 +592,24 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T22:08:03",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-13T16:58:19",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily discusses the principles and practices of Test First Development, including its benefits, goals, and the importance of writing tests before code. It also elaborates on Test-Driven Development (TDD) and related methodologies, making it a central theme throughout the text.",
+    "final_score": 86.0,
+    "reasoning": "The content explicitly discusses Test First principles, particularly focusing on Test-Driven Development (TDD) and its benefits. It provides a thorough exploration of the goals and virtues of Test First Development, emphasising the importance of writing tests before code. The depth of discussion is significant, covering various aspects such as validation, feedback loops, and the relationship between Test First Development and Agile practices. Overall, the content aligns closely with the core themes of the category, making it a strong fit.",
     "level": "Primary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:37",
+    "calculated_at": "2025-03-15T02:46:17",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses Test First principles and software development practices, which are not directly related to the strategic adoption of digital technologies for business transformation. While there are mentions of improving processes and meeting customer expectations, the focus is more on software development methodologies rather than broader digital transformation strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -631,12 +658,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:46:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of Test First principles and their relation to software development, including mentions of modern source control practices. However, the primary focus is on testing methodologies rather than version control systems or practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Test First principles and methodologies, particularly focusing on Test Driven Development (TDD) and its benefits. While it briefly mentions modern source control in the context of professional development practices, the main focus is on testing strategies rather than version control systems or practices. The alignment with the category is limited, as it does not delve into specific version control methodologies, branching strategies, or collaboration workflows that are central to modern source control discussions.",
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -658,11 +688,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Test First principles and their relation to Agile practices, particularly in the context of Scrum. However, the primary focus is on testing methodologies rather than a comprehensive exploration of Agile frameworks themselves.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Test First principles and their relation to Agile practices, particularly in the context of Scrum. However, it primarily focuses on Test Driven Development (TDD) and does not provide a comprehensive exploration of Agile frameworks as a whole. While it mentions Scrum and its training, the discussion lacks depth in comparing various Agile frameworks or their broader implications on organisational agility.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
@@ -694,7 +727,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:23:18",
+    "calculated_at": "2025-03-15T02:46:17",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -702,15 +735,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses Test First principles and their implementation in software development, which is more focused on technical practices than on strategic product management. While it touches on the importance of meeting customer needs and validating what has been built, it lacks a comprehensive exploration of product management methodologies or frameworks. The discussion is more about development practices rather than the strategic alignment of product management with business objectives.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Test First principles and their importance in software development, which relates to Continuous Integration practices. However, the primary focus is on Test Driven Development (TDD) and related methodologies rather than CI itself.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses Test First principles and Test Driven Development (TDD), which are related to quality assurance and testing practices in software development. While these practices are important for Continuous Integration, the content does not explicitly focus on CI itself, such as the integration of code changes into a shared repository or the tools and technologies that support CI. The discussion on feedback loops and validation aligns with CI principles but lacks depth in terms of CI-specific practices and tools. Therefore, the confidence score reflects a moderate alignment with the Continuous Integration category.",
     "level": "Tertiary"
   },
   "Windows": {
@@ -742,12 +778,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of validating that what is built meets customer expectations, which aligns with customer satisfaction principles. However, the primary focus is on test-driven development and technical practices rather than a comprehensive exploration of customer satisfaction as a central theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of Test First principles in software development, highlighting how they can lead to better alignment with customer needs and expectations. However, while it touches on customer satisfaction indirectly, it primarily focuses on technical practices and methodologies without a comprehensive exploration of customer satisfaction as a primary theme. The mention of meeting customer expectations is present but not the central focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -787,11 +826,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-13T22:08:40",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T02:46:20",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses Test First principles, specifically focusing on Test Driven Development (TDD) and its importance in software engineering practices. It elaborates on the benefits of TDD, validation processes, and the significance of writing tests before code, which aligns closely with the key topics of the Engineering Practices category.",
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on Test First principles, which are closely related to Test-Driven Development (TDD). It discusses the importance of writing tests before code, the benefits of a test-first culture, and the implications for software quality and maintenance. The depth of discussion is significant, covering various aspects of TDD and its advantages, while also addressing misconceptions about automation in testing. The content aligns well with the core themes of Engineering Practices, particularly in relation to clean code and automation, thus justifying a high confidence score.",
     "level": "Primary"
   },
   "Professional Scrum": {
@@ -805,12 +847,15 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:46:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 40,
-    "final_score": 49.0,
-    "reasoning": "The content discusses Acceptance Test Driven Development (ATDD) as one of several testing methodologies, but the primary focus is on Test Driven Development (TDD) and general test-first principles. ATDD is mentioned, but it is not the central theme of the content.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content discusses Acceptance Test Driven Development (ATDD) explicitly, highlighting its role in validating business functionality and the importance of acceptance criteria. It aligns well with the core themes of ATDD, such as collaboration and the need for clear acceptance criteria. However, the primary focus is on Test Driven Development (TDD) and general test-first principles, which slightly detracts from the depth of discussion specifically on ATDD. Overall, while ATDD is a significant part of the content, it is not the sole focus, leading to a high but not perfect confidence score.",
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -832,20 +877,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:46:38",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Test First principles and their relevance to software development, mentioning Scrum indirectly through references to Professional Scrum Developer training and the importance of validating customer needs. However, the primary focus is on testing methodologies rather than Scrum practices themselves.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses Test First principles and their importance in software development, which indirectly relates to Scrum practices, particularly in terms of validating customer needs and ensuring quality. However, it lacks a direct focus on Scrum roles, events, or specific Scrum methodologies, making it more of a general software development discussion rather than a dedicated exploration of Scrum Product Development.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-13T22:08:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:46:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of Test First principles in software development, which directly relates to validating that the product built meets customer needs and expectations. It covers aspects of validation through testing, feedback loops, and ensuring that the product aligns with user requirements, making it a central theme.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of Test First principles, which indirectly relates to product validation by emphasising the need to validate that what is built meets customer expectations. However, the primary focus is on testing methodologies rather than direct user engagement or feedback loops, which are central to the Product Validation category. The depth of discussion on validation is present but not exhaustive, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -913,38 +964,50 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-13T22:09:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:46:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of Test First principles, particularly Test Driven Development (TDD), in enhancing software delivery and operational efficiency. It outlines how adopting these practices can reduce rework, improve maintainability, and ensure that customer needs are met, which aligns well with the key topics of operational practices in Agile and DevOps frameworks.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of Test First principles, particularly Test Driven Development (TDD), in enhancing software delivery and operational efficiency. It aligns well with the core themes of operational practices by focusing on techniques that improve quality, reduce rework, and streamline processes. The depth of discussion is significant, providing detailed insights into the benefits of Test First methodologies and their impact on operational excellence. Overall, the content is highly relevant to the category.",
     "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-13T22:09:03",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T02:46:27",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "Content primarily discusses Test First principles, specifically focusing on Test Driven Development (TDD) and its importance in the software development lifecycle, aligning closely with best practices in coding and software design.",
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses Test-Driven Development (TDD) and its importance in the software development process, aligning closely with key topics such as best practices in coding, continuous delivery, and the software development life cycle. It provides detailed insights into the principles of Test First, its benefits, and its implications for software quality and maintenance, demonstrating a deep understanding of software engineering practices.",
     "level": "Primary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T22:09:05",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:46:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the importance of Test First principles, particularly Test Driven Development (TDD), which is closely related to Continuous Delivery practices. It highlights how adopting a test-first culture can facilitate continuous delivery by ensuring that code is production-ready and reducing the risk of bugs in production. However, the main focus is on testing methodologies rather than Continuous Delivery itself, making it a significant but secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of Test First principles, particularly in relation to Test Driven Development (TDD), which is a key practice that supports Continuous Delivery. It highlights how adopting a test-first approach can lead to more reliable software delivery and reduce risks associated with production changes. However, while it touches on Continuous Delivery, the primary focus is on testing methodologies rather than the broader principles and practices of Continuous Delivery itself. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-13T22:09:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:46:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the principles and practices of Test First, which is closely related to Test Automation, particularly through the lens of Test Driven Development (TDD) and its implications for software quality and development processes.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the principles of Test First, particularly focusing on Test Driven Development (TDD) and its importance in ensuring software quality. It aligns well with the core themes of Test Automation, such as the rationale behind automating tests, the benefits of early validation, and the role of automated testing in improving feedback loops. The depth of discussion is significant, covering various aspects of Test First methodologies and their implications for software development. Overall, the content is highly relevant to the Test Automation category.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -958,11 +1021,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of Test First principles and their impact on software development, which relates to technical leadership in terms of guiding teams towards best practices. However, the primary focus is on testing methodologies rather than direct technical leadership strategies or team dynamics.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of Test First principles and their role in software development, which indirectly relates to technical leadership by emphasising the need for professional validation and quality assurance in development processes. However, it lacks a direct focus on leadership strategies, team dynamics, or agile methodologies, which are core to the Technical Leadership category. The discussion is more about testing practices than about leading teams or fostering collaboration.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -994,11 +1060,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-13T22:09:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:46:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 42.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to Test First principles and their application in software development, particularly within Agile and Scrum contexts. It emphasises real-world applications, adaptability, and the importance of validation in the development process, aligning well with the category's focus.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of Test First principles, particularly in the context of Agile and Scrum methodologies. It highlights practical problem-solving strategies, such as Test Driven Development (TDD), and emphasises the need for validation and feedback loops in software development. The depth of discussion on how these principles can be applied in real-world scenarios aligns well with the core themes of Pragmatic Thinking. However, while it mentions Agile and Scrum, the focus is primarily on testing methodologies rather than a broader discussion of pragmatic approaches in project management.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -1087,11 +1156,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of feedback loops and validation in the context of Test First principles, which aligns with the theme of continuous improvement and evidence-based decision-making. However, the primary focus is on Test First methodologies rather than metrics and learning specifically.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of Test First principles, particularly in relation to feedback loops and validation processes, which are key aspects of metrics and learning. It highlights how these practices can lead to continuous improvement and better alignment with customer expectations. However, while it touches on metrics indirectly, it does not provide extensive detail on data collection or analysis techniques, which limits its depth in the category.",
     "level": "Tertiary"
   },
   "Resilience and Change": {
@@ -1171,12 +1243,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of Test First principles and their impact on team dynamics and software development processes, but it primarily focuses on technical aspects of testing methodologies rather than the interplay between human behaviour and structured methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of Test First principles in software development, which indirectly touches on team dynamics and the need for collaboration in achieving quality outcomes. However, while it mentions the role of developers and the need for validation, it primarily focuses on technical processes rather than the human factors or methodologies that govern team interactions and culture. The depth of discussion on people and process is limited, as it does not explore leadership, team collaboration, or communication strategies in detail.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1213,12 +1288,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Test First principles and their impact on software development processes, which relates to organisational agility through improved adaptability and responsiveness to customer needs. However, the primary focus is on testing methodologies rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Test First principles and their importance in software development, which indirectly relates to organisational agility by emphasising the need for adaptability and responsiveness to customer needs. However, it primarily focuses on technical practices rather than broader organisational strategies or cultural shifts that enhance agility. The mention of customer expectations and validation aligns with agile principles, but the depth of discussion remains centred on testing methodologies rather than organisational frameworks or leadership roles.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1231,12 +1309,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of Test First principles, which indirectly relates to flow efficiency by emphasising the reduction of rework and the shortening of feedback loops. However, the primary focus is on testing methodologies rather than directly optimising work throughput.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of Test First principles, particularly in relation to reducing rework and improving the quality of software delivery. While it touches on aspects of flow efficiency, such as shortening feedback loops and validating work, it primarily focuses on testing methodologies rather than optimising throughput across the value stream. The discussion lacks a direct emphasis on flow efficiency metrics or techniques for eliminating bottlenecks, which are central to the category.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1270,12 +1351,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Test First principles and their importance in software development, which aligns with Agile methodologies. However, it primarily focuses on technical practices rather than a holistic view of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Test First principles and Test Driven Development (TDD), which are technical practices rather than a holistic approach to product development. While it touches on aspects of Agile methodologies, it lacks a direct focus on the Agile Product Operating Model and does not sufficiently address the broader themes of value delivery, cross-functional teams, or continuous feedback in product development.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1288,21 +1372,27 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of Test First principles and their role in improving software quality and team performance, which aligns with the theme of continuous learning and adaptation in product development. However, the primary focus is on technical implementation details rather than broader discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of Test First principles and their role in software development, which indirectly relates to learning and discovery through the validation of requirements and feedback loops. However, the primary focus is on technical implementation details rather than a broader exploration of methodologies that foster innovation or continuous learning. While it touches on the significance of feedback and validation, it lacks a comprehensive discussion on fostering a culture of learning or innovation within teams.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:46:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Test First principles and their importance in software development, which relates to Agile practices. However, it primarily focuses on testing methodologies rather than the broader scope of Agile Product Management, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Test First principles and their importance in software development, which indirectly relates to Agile practices. However, it primarily focuses on technical aspects of testing rather than explicitly addressing Agile Product Management concepts such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. While it touches on the need for customer validation and feedback loops, it lacks a comprehensive exploration of Agile methodologies in product management.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1345,12 +1435,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:47:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Test First principles and their importance in software development, which relates to the maintenance and validation stages of the application lifecycle. However, it primarily focuses on testing methodologies rather than the broader aspects of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Test First principles and methodologies, particularly focusing on Test Driven Development (TDD) and its benefits. While it touches on aspects of software quality and validation, it does not explicitly address the broader stages of the application lifecycle, governance, or tools related to Application Lifecycle Management. The discussion is more centred on testing practices rather than the comprehensive management of the application lifecycle, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",

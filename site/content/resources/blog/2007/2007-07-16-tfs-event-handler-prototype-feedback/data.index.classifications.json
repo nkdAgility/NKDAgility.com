@@ -589,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:43:19",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific tool related to integration with Team Foundation Server, which is relevant to software development practices. However, it primarily solicits feedback rather than focusing on methodologies or best practices in software development.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses a specific tool related to software development (TFS Event Handler) and solicits feedback on its installation and configuration, which aligns with software development practices. However, it lacks depth in discussing methodologies or broader software engineering principles, focusing instead on user experience and feedback rather than development processes.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -1039,7 +1042,7 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-11T17:09:05",
+    "calculated_at": "2025-03-15T07:43:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1047,7 +1050,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on soliciting feedback about a specific technical implementation (TFS Event Handler) rather than discussing customer satisfaction principles or practices. While it does ask for user feedback, which is a component of customer satisfaction, it lacks a broader exploration of customer experience, engagement, or satisfaction metrics. The questions posed are more about technical performance than about enhancing customer happiness or aligning with Agile and DevOps practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -1117,12 +1120,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:43:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on feedback regarding installation and configuration of the TFS Event Handler, suggesting some troubleshooting elements, but primarily seeks user opinions rather than focusing on problem identification and resolution.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily seeks feedback on the TFS Event Handler's installation and configuration, which touches on troubleshooting aspects. However, it lacks detailed discussion on diagnosing or resolving specific issues, making it more of a feedback solicitation than a troubleshooting guide.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1198,7 +1204,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T12:16:42",
+    "calculated_at": "2025-03-15T07:43:13",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -1206,7 +1212,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily seeks feedback on a specific software tool, the TFS Event Handler, which indicates a focus on user experience and functionality. However, it lacks a comprehensive discussion on the characteristics of working software or best practices for ensuring software quality. The questions posed do touch on aspects of user satisfaction and operational success, but the overall depth and alignment with the core themes of working software are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",

@@ -28,6 +28,15 @@ aliasesArchive:
 - /resources/blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 tags:
 - Evidence Based Management
+- Evidence Based Leadership
+- Decision Making
+- Metrics and Learning
+- Value Delivery
+- Pragmatic Thinking
+- People and Process
+- Organisational Agility
+- Software Development
+- Ability to Innovate
 categories:
 - Product Management
 - Social Technologies

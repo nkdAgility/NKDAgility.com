@@ -38,16 +38,16 @@ aliases:
 categories:
 - Product Management
 tags:
-- Evidence Based Leadership
 - Evidence Based Management
-- Decision Making
 - Experimentation
-- Value Delivery
-- Metrics and Learning
 - Ability to Innovate
+- Evidence Based Leadership
+- Value Delivery
 - Empirical Process Control
 - Hypothesis Driven Development
-- Strategic Goals
+- Operational Practices
+- Decision Making
+- Metrics and Learning
 
 ---
 Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty. It provides a framework for organizations to improve their ability to deliver value in an uncertain world, seeking a path toward strategic goals. Using intentional experimentation and evidence (measures), EBM enables organizations to systematically improve their performance over time and refine their goals based on better information

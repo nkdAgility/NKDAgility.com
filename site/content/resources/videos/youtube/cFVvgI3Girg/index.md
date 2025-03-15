@@ -2,7 +2,7 @@
 title: 'From Product Owner to Systemic Leader: Embracing the Evolution in Agile Leadership'
 description: Discover how Product Owners evolve into influential leaders, fostering innovation and accountability in Agile environments. Embrace your journey today!
 date: 2023-07-28T07:00:14Z
-weight: 675
+weight: 665
 ResourceId: cFVvgI3Girg
 ResourceType: videos
 ResourceImport: true
@@ -25,15 +25,15 @@ duration: 159
 isShort: false
 tags:
 - People and Process
-- Agile Project Management
-- Agile Leadership
-- Organisational Culture
-- Organisational Agility
-- Accountability
 - Agile Product Management
-- Organisational Physics
+- Agile Project Management
+- Personal
+- Agile Leadership
+- Organisational Agility
+- Organisational Culture
+- Product Owner
+- Agile Transformation
 - Sociotechnical Systems
-- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

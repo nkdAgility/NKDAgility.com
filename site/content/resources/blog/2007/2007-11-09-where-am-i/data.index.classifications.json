@@ -100,12 +100,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of LINQ in a practical application, which aligns with the exploration of tools and methodologies, but it primarily focuses on a specific project rather than a broader discussion of Agile or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the use of LINQ in a practical application, which aligns with the category's focus on tooling. However, it lacks a broader exploration of Agile or DevOps methodologies, and the discussion is primarily centred on a specific project rather than general best practices or frameworks.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -217,12 +220,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of LINQ in a software project, touching on code quality and the complexities of SQL generation, but it primarily focuses on the application and its functionality rather than a deep exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific application using LINQ and .NET, focusing on its functionality and implementation details. While it touches on aspects of code quality through the use of LINQ and the resulting SQL complexity, it lacks a broader discussion on the principles of software code quality, best practices, or the impact of complexity on software architecture. The mention of LINQ and its SQL output indicates some awareness of code complexity, but the overall focus is more on the application itself rather than a deep exploration of code quality and complexity theory.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -316,7 +322,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T12:14:31",
+    "calculated_at": "2025-03-15T07:37:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -324,7 +330,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the use of LINQ in a specific application, which touches on technical practices but lacks a broader focus on engineering methodologies or principles that enhance agility in software development. While there are mentions of database interactions and some technical details, the discussion does not delve into key topics like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -571,7 +577,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:49:19",
+    "calculated_at": "2025-03-15T07:37:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -579,7 +585,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a specific project involving LINQ and .NET, detailing its functionality and implementation. While it touches on technical aspects relevant to software development, it lacks explicit discussions on Agile methodologies, DevOps principles, or broader engineering practices. The mention of LINQ and database interactions is relevant to developers, but the content does not explore the role of developers within Agile or DevOps frameworks, nor does it provide depth on collaboration or productivity strategies. Therefore, it aligns only marginally with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1195,7 +1201,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T15:17:35",
+    "calculated_at": "2025-03-15T07:37:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1203,7 +1209,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the development of a specific application (Locator project) that aims to provide a functional solution for tracking user locations within a company. However, it lacks a direct focus on the principles of working software as defined in Agile and Scrum frameworks. While it touches on aspects of software functionality and user needs, it does not delve into best practices for ensuring software quality or iterative development processes. The discussion is more technical and project-specific rather than addressing broader themes of working software delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1234,7 +1240,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T17:07:20",
+    "calculated_at": "2025-03-15T07:37:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1242,7 +1248,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a practical application of LINQ in a specific project, which aligns with pragmatic thinking. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve deeply into problem-solving strategies or real-world applications of these frameworks. The focus is more on technical implementation rather than the strategic application of pragmatic thinking in complex environments.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1255,7 +1261,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:18:41",
+    "calculated_at": "2025-03-15T07:37:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1263,7 +1269,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a specific project involving LINQ and .NET, detailing its functionality and implementation. While it touches on aspects of software development, such as the use of LINQ for database updates, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement processes. The mention of LINQ and SQL generation does not sufficiently align with the core themes of engineering excellence, which emphasise high standards in software craftsmanship and development practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

@@ -27,7 +27,16 @@ aliasesArchive:
 - /blog/create-your-own-path-to-organisational-agility
 - /resources/blog/organisational-change-create-path
 tags:
+- Business Agility
+- Enterprise Agility
+- Resilience and Change
 - Organisational Change
+- Value Delivery
+- Organisational Agility
+- Software Development
+- Agile Leadership
+- Organisational Culture
+- People and Process
 categories:
 - Scrum
 - Leadership

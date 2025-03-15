@@ -29,13 +29,9 @@ aliasesArchive:
 tags:
 - Software Development
 - Application Lifecycle Management
-- People and Process
-- Technical Leadership
-- Software Developers
 categories:
 - Social Technologies
 - Engineering Excellence
-- Scrum
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

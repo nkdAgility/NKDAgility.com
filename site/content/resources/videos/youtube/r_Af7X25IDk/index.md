@@ -25,13 +25,16 @@ preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 isShort: false
 tags:
-- Agile Leadership
-- Technical Leadership
-- Events and Presentations
-- Agile Product Management
-- Agile Transformation
+- Agile Project Management
 - Organisational Agility
-- Organisational Change
+- Agile Transformation
+- People and Process
+- Agile Leadership
+- Software Development
+- Pragmatic Thinking
+- Technical Leadership
+- Change Management
+- Events and Presentations
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -286,7 +286,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T16:50:10",
+    "calculated_at": "2025-03-15T05:12:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -294,7 +294,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses an issue related to connecting Visual Studio versions to Team Foundation Server (TFS) 2012, which is part of the Azure DevOps suite. However, it primarily focuses on a specific error and workaround rather than providing a broader discussion on Azure DevOps functionalities or best practices. While it mentions TFS, it does not delve into the core themes of Azure DevOps, such as CI/CD pipelines or agile project management, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -352,11 +352,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:12:42",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to connecting Visual Studio versions to Team Foundation Server, which is relevant to application lifecycle management, but it primarily focuses on a specific technical problem rather than the broader aspects of ALM.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses a specific issue related to connecting Visual Studio versions to Team Foundation Server, which is relevant to the application lifecycle management context. However, it primarily focuses on a technical problem rather than the broader methodologies, practices, or tools of ALM. While it mentions workspaces, which are part of the development and deployment stages, it lacks a comprehensive discussion on the lifecycle stages or governance practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -379,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:12:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content presents a technical issue relating to workspace creation in Visual Studio and offers a workaround, which addresses software craftsmanship practices, albeit indirectly.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to Visual Studio and Team Foundation Server, which is relevant to software development. However, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that contribute to technical mastery. The focus is on troubleshooting rather than on principles of clean code or architectural practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -487,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:12:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a practical issue related to workspace management in Visual Studio and Team Foundation Server, which aligns with operational practices in software development, but does not primarily focus on enhancing operational efficiency or delivery.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily addresses a technical issue related to Visual Studio and Team Foundation Server, focusing on a specific error and its workaround. While it touches on workspace management, it lacks a broader discussion on operational practices, methodologies, or strategies aimed at enhancing operational efficiency within Agile, DevOps, or Lean frameworks. The mention of workspaces is too narrow and does not provide sufficient depth or alignment with the key topics outlined in the category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1222,7 +1231,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T15:00:04",
+    "calculated_at": "2025-03-15T05:12:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1230,7 +1239,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a specific technical issue related to Visual Studio and Team Foundation Server, which is relevant to software developers. However, it does not engage with Agile or DevOps methodologies, nor does it explore broader themes such as collaboration or best practices in software development. The discussion is focused on a workaround for a technical problem rather than the role of developers within Agile or DevOps frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

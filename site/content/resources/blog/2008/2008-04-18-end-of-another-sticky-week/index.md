@@ -26,10 +26,7 @@ aliasesArchive:
 - /blog/end-of-another-sticky-week---
 - /end-of-another-sticky-week
 - /resources/blog/end-of-another-sticky-week
-tags:
-- Software Development
-- Products and Books
-- Release Management
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-3-3.png
 

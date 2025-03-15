@@ -28,12 +28,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:07:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of Scrum events and their relationship to the Product Backlog, particularly in the context of Sprint planning and backlog refinement. However, the primary focus is on myths surrounding Scrum and its implementation rather than a detailed exploration of the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum principles and events, including Sprint Planning and backlog refinement, which are relevant to the Product Backlog. However, the primary focus is on debunking myths about Scrum rather than a detailed exploration of the Product Backlog itself. While it touches on backlog management, it does not provide in-depth techniques or best practices specific to the Product Backlog, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -67,12 +70,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the importance of empiricism in decision-making, which aligns with evidence-based leadership principles. However, the primary focus is on Scrum myths and practices rather than a direct exploration of evidence-based leadership itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum and Agile methodologies rather than discussing evidence-based leadership principles. While it touches on aspects of Scrum that could relate to leadership, such as planning and team autonomy, it lacks a direct emphasis on empirical evidence or data-driven decision-making. The discussion is more about clarifying misconceptions than applying evidence-based practices in leadership contexts.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -136,11 +142,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum practices and myths, which are related to the delivery of functional software, but the primary focus is on misconceptions and the philosophy of Scrum rather than directly on working software itself.",
+    "calculated_at": "2025-03-14T19:06:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a framework for delivering working software. While it discusses the importance of Scrum events and planning, it does not explicitly address the delivery of functional software or customer value, which are core themes of the 'Working Software' category. The depth of discussion on Scrum principles provides some insight into how these practices can lead to effective software delivery, but the content lacks direct references to working software itself.",
     "level": "Tertiary"
   },
   "Decision Making": {
@@ -157,12 +166,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:07:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and myths, touching on aspects of self-organisation, particularly in relation to team autonomy and decision-making. However, it primarily focuses on misconceptions and traditional management practices, making self-organisation a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum principles and addresses misconceptions that relate to self-organisation, particularly the idea that Scrum encourages micromanagement and the importance of team autonomy in decision-making. It aligns well with the core themes of self-organisation by emphasising the need for teams to take ownership of their work and the role of Scrum events in facilitating this. However, while it touches on self-organisation, the primary focus is on debunking myths rather than a deep exploration of self-organisation principles, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -175,21 +187,27 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:07:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and practices, which align with Lean Product Development concepts such as minimising waste and maximising learning. However, the primary focus is on Scrum myths and roles rather than a comprehensive exploration of Lean principles, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is an Agile framework, rather than discussing Lean Product Development principles. While there are mentions of efficiency and value delivery, the core themes of Lean, such as waste reduction and continuous improvement, are not explicitly addressed. The depth of discussion on Scrum events and their purpose is significant, but it does not align closely with Lean principles.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and its myths, touching on how traditional top-down approaches can hinder Agile practices, which relates to organisational culture. However, the primary focus is on Scrum mechanics rather than a deep exploration of cultural aspects.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is more about the framework and its practices rather than the organisational culture that supports or hinders Agile adoption. While there are brief mentions of how misconceptions can affect Scrum's implementation, the discussion lacks a deep exploration of cultural elements, leadership roles, or team dynamics that are crucial to the category of Organisational Culture.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -298,12 +316,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:07:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and myths, touching on team dynamics and communication within Scrum events. However, the primary focus is on debunking myths rather than directly enhancing team collaboration or communication strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which indirectly relates to team collaboration by discussing Scrum events and their purposes. However, it lacks a direct emphasis on team dynamics, communication, or shared ownership, which are core themes of the Team Collaboration category. The depth of discussion on collaboration techniques is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -418,12 +439,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:07:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum events and roles, including the responsibilities of the Product Owner, but primarily focuses on myths and misconceptions about Scrum rather than a detailed exploration of the Product Owner's role.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses common myths about Scrum and its events, with only brief mentions of planning and backlog management. While it touches on aspects relevant to the Product Owner's role, such as Sprint Planning and backlog refinement, it does not focus on the specific responsibilities or strategies of a Product Owner. The discussion lacks depth in addressing the core themes of stakeholder engagement and product value maximisation, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -514,12 +538,15 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:07:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation techniques such as story points and planning poker, which are relevant to Agile estimation practices. However, the primary focus is on myths and misconceptions about Scrum rather than a deep exploration of estimation itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum principles and addresses misconceptions about planning and estimation, particularly in the context of story points and Sprint planning. However, it does not delve deeply into specific estimation techniques or empirical data, which are crucial for a higher confidence score in the Estimation category.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -541,12 +568,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content briefly mentions Windows in the context of Scrum and Agile practices, but the primary focus is on Scrum methodologies rather than Windows-specific topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:06:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on Scrum and Agile methodologies, with no direct mentions or discussions related to the Windows operating system. It does not align with any of the key topics outlined for the Windows category, such as installation, configuration, or troubleshooting of Windows. The content is irrelevant to the Windows environment, leading to a very low confidence score.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -568,12 +598,15 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses Scrum practices and myths, which are relevant to Agile methodologies, but it does not focus on scaling Agile across multiple teams or enterprise-level initiatives. It touches on some aspects of coordination and planning in larger contexts, but these are not the central themes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is an Agile framework, but does not address the scaling of Agile practices across multiple teams or at an enterprise level. While it discusses Scrum events and principles in detail, it lacks explicit references to scaling Agile methodologies or the coordination among multiple teams, which are essential for the 'Scaled Agile' category. Therefore, the confidence score reflects a low alignment with the core themes of Scaled Agile.",
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
@@ -619,12 +652,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and myths, which are related to Agile methodologies, but it primarily focuses on technical practices and misconceptions rather than a strategic alignment or implementation of Agile at an organisational level.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a specific Agile methodology. While it touches on some Agile principles, such as planning and governance, it lacks a broader discussion on Agile strategy as a whole. The depth of discussion is moderate, providing insights into Scrum practices, but it does not fully align with the strategic aspects of Agile methodologies or their implementation at an organisational level.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -655,12 +691,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:07:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and myths, touching on decision-making processes and the importance of adapting strategies within teams. However, the primary focus is on Scrum roles and events rather than a deep exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a specific Agile methodology. While it touches on aspects of decision-making and understanding Scrum principles, it does not explicitly discuss sensemaking in complex environments or the broader implications of interpreting complexity. The discussion is more about clarifying misconceptions rather than exploring how organisations can navigate complexity and uncertainty. Therefore, the confidence score reflects a low alignment with the core themes of sensemaking.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -673,12 +712,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and practices, including team dynamics, roles, and events, which are relevant to team performance. However, the primary focus is on debunking myths about Scrum rather than directly addressing strategies for enhancing team collaboration and effectiveness.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which directly relates to team performance and the effectiveness of Agile methodologies. It discusses Scrum events like Sprint Planning and Daily Scrum, emphasising their roles in enhancing team dynamics and productivity. The depth of discussion is substantial, providing insights into how misconceptions can hinder team collaboration and performance. However, while it aligns well with the category, it does not delve deeply into metrics or specific strategies for measuring team performance, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -727,11 +769,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T23:38:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:03:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum practices, myths, and their implications for Agile transformation, focusing on how to effectively implement Scrum within organisations and the cultural shifts required for Agile adoption.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a key framework within Agile transformation. It discusses the principles of Scrum, its events, and the misconceptions that hinder its effective adoption, aligning well with the core themes of Agile transformation. The depth of discussion is substantial, providing detailed explanations of Scrum practices and their importance in fostering an Agile environment. However, while it is heavily centred on Scrum, it does not explicitly address broader Agile transformation strategies or change management, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -754,12 +799,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:07:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and myths, which are related to Agile methodologies and organisational change. However, the primary focus is on Scrum roles and events rather than a comprehensive exploration of organisational change strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a specific Agile framework rather than a broader discussion on organisational change. While it touches on aspects of Agile methodologies that could relate to organisational change, such as the importance of planning and governance, it does not delve into the strategies or frameworks for implementing organisational change itself. The discussion lacks depth in terms of change management principles and does not address the broader implications of organisational transformation, leadership roles, or overcoming resistance to change.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -772,30 +820,39 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T23:38:19",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-13T15:26:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses various aspects of Scrum, including its principles, roles, events, and common myths that affect its adoption. It provides insights into Sprint planning, the importance of the Product Backlog, and the iterative nature of Scrum, making it highly relevant to Scrum Product Development.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses various myths about Scrum, directly addressing key aspects of the Scrum framework, including Sprint Planning and the role of events in Scrum. It aligns well with the core themes of Scrum Product Development by clarifying misconceptions and emphasising the importance of Scrum practices in product development. The depth of discussion is substantial, providing detailed explanations of Scrum events and their purposes, which enhances understanding of effective Scrum implementation.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and myths, touching on aspects of operational efficiency and the importance of planning and governance within Agile frameworks. However, the primary focus is on debunking myths rather than providing direct strategies or techniques for operational improvement.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:06:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a specific Agile framework. While it touches on operational practices related to Scrum events and planning, it does not delve deeply into broader operational efficiency techniques or strategies. The discussion is more about clarifying misconceptions rather than providing actionable insights or strategies for improving operational practices within Agile, DevOps, or Lean frameworks.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and practices, including the importance of empiricism and adaptation, which are relevant to Evidence-Based Management. However, the primary focus is on debunking myths about Scrum rather than a comprehensive exploration of EBM principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum rather than discussing Evidence-Based Management principles. While it touches on aspects of empirical processes within Scrum, it lacks a direct emphasis on data-driven decision-making or the broader implications of EBM. The discussion is more about clarifying misconceptions than providing insights into EBM practices or metrics.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -808,30 +865,39 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses various myths and misconceptions about Scrum, touching on aspects of planning and coordination that are relevant to scaling Scrum in large organisations. However, it primarily focuses on individual Scrum practices rather than explicitly addressing frameworks or challenges associated with scaling Scrum across multiple teams.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:06:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on debunking common myths about Scrum, which does not directly address the scaling of Scrum practices in large organisations. While it discusses Scrum roles and events, it lacks a clear emphasis on frameworks for scaling, coordination among multiple teams, or challenges specific to scaling Scrum. The discussion is more about clarifying misconceptions rather than exploring the application of Scrum principles at scale.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T23:38:27",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of Scrum, its events, and common myths surrounding its implementation, which are central to the responsibilities and practices of a Scrum Master.",
+    "calculated_at": "2025-03-13T16:34:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses various myths about Scrum, touching on Scrum events and their purposes, which aligns with the responsibilities of a Scrum Master. However, it does not explicitly focus on the role of the Scrum Master or provide in-depth insights into coaching, mentoring, or team dynamics, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and myths, which are primarily team-level Agile practices. However, it briefly touches on the challenges of scaling Agile in large organisations and the need for cross-team collaboration, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:07:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a team-level Agile methodology. While it touches on the importance of understanding Scrum principles, it does not address large-scale Agile practices, frameworks, or enterprise-level strategies. The discussion lacks depth in terms of scaling Agile across an organisation and does not mention frameworks like SAFe or LeSS, which are essential for the Large Scale Agility category.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -844,11 +910,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and myths, which are relevant to technical leadership in agile environments, but it primarily focuses on misconceptions rather than providing a clear, structured discussion on technical leadership principles or strategies.",
+    "calculated_at": "2025-03-14T19:07:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a framework within Agile methodologies. While it touches on aspects of technical leadership, such as the importance of planning and team autonomy, it does not explicitly discuss the broader principles of technical leadership or provide in-depth strategies for mentoring or coaching teams. The discussion is more about clarifying misconceptions rather than guiding teams through technical leadership practices.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -871,11 +940,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T23:38:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T14:52:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Scrum practices, including Sprint planning, backlog refinement, and the importance of planning within Agile methodologies. It addresses common myths about Scrum and emphasises the role of planning in Agile, making it a central theme.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a key framework within Agile Planning. It discusses specific Scrum events like Sprint Planning and Daily Scrum, emphasising their roles in planning and adapting work. The content aligns well with Agile principles, particularly the importance of planning in an Agile context. It provides a detailed exploration of common misconceptions, demonstrating a strong understanding of Agile Planning concepts. However, while it is deeply relevant, it does not exclusively focus on Agile Planning as a standalone topic, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -925,12 +997,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses various myths related to Scrum, including roles, events, and team dynamics, but primarily focuses on misconceptions rather than a deep exploration of Scrum Team collaboration and practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses various myths about Scrum, directly addressing Scrum events and their purposes, which aligns with the roles and responsibilities within a Scrum Team. It provides a good level of detail on how Scrum events function and their importance in team dynamics, although it does not delve deeply into team collaboration techniques or psychological safety. Overall, it maintains a strong focus on Scrum principles, justifying a relatively high confidence score.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -988,12 +1063,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Scrum events and their purposes, including Sprint planning and backlog management, which are relevant to Agile planning tools. However, the primary focus is on myths and misconceptions about Scrum rather than a comprehensive exploration of Agile planning tools themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:06:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum, which is an Agile framework, and touches on planning aspects such as Sprint Planning and backlog refinement. However, it primarily focuses on debunking myths rather than providing a comprehensive exploration of Agile Planning Tools. While there are relevant mentions of planning events, the overall emphasis is on misconceptions rather than the tools and methodologies that facilitate Agile planning.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1024,12 +1102,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of Scrum that relate to planning and goal setting, which are important for achieving strategic objectives. However, the primary focus is on debunking myths about Scrum rather than articulating long-term strategic goals directly.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:06:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is more operational in nature rather than discussing long-term strategic goals. While it touches on aspects of Agile methodologies, it does not explicitly define or articulate strategic objectives that enhance business agility or competitive advantage. The discussion lacks depth in terms of strategic alignment and does not provide frameworks or techniques for adapting strategic goals in response to market changes.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1051,12 +1132,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:06:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and myths, which are primarily team-level agile practices. However, it touches on organisational challenges and governance issues that impact the broader context of agility, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a team-level agile practice. While it touches on some aspects of agility, such as planning and governance, it lacks a broader organisational context and does not discuss enterprise-level agility frameworks, structures, or cultural implications. Therefore, it does not align well with the core themes of Enterprise Agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1138,12 +1222,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:07:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and myths, touching on the importance of adaptation and learning from experiences within the Scrum framework. However, the primary focus is on debunking myths and clarifying Scrum practices rather than exploring broader methodologies for discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is more aligned with project management than with the processes of discovery and learning. While it touches on the importance of understanding Scrum principles and adapting practices, it lacks a strong emphasis on experimentation, feedback loops, or continuous learning methodologies. The discussion is more about clarifying misconceptions rather than exploring innovative practices or learning processes.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1156,29 +1243,38 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its principles, touching on themes of adaptation, emergence, and the role of uncertainty in Agile practices. However, it primarily focuses on myths and misconceptions about Scrum rather than a deep exploration of complexity science or its frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:07:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a framework within Agile methodologies. While it touches on concepts like inspection, adaptation, and planning, it does not explicitly discuss complexity science or its principles. The discussion lacks depth in exploring non-linear dynamics or emergent behaviours typical of complex adaptive systems. Therefore, while there are elements of complexity thinking present, they are not the primary focus of the content.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:07:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of transparency in Scrum events and the need for accountability among team members, particularly in the context of decision-making and governance. However, the primary focus is on debunking myths about Scrum rather than a comprehensive exploration of transparency and accountability as central themes.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions transparency in the context of Scrum events, particularly in the Daily Scrum section. However, the primary focus is on debunking myths about Scrum rather than a thorough exploration of transparency and accountability principles. While there is some alignment with the category's themes, the depth of discussion is limited, and the overall emphasis is on clarifying misconceptions rather than fostering an environment of openness and responsibility.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum practices and myths, which are related to Agile methodologies, but it primarily focuses on philosophical debates rather than practical application of tools or techniques.",
+    "calculated_at": "2025-03-14T19:06:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum in detail, addressing common misconceptions and clarifying its principles and practices. While it does not explicitly mention specific tools or methodologies beyond Scrum, it aligns with the core themes of Agile practices and provides insights into how Scrum can be effectively implemented. However, the focus is more on debunking myths rather than exploring practical techniques or tooling in depth, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -1255,12 +1351,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and myths, touching on aspects of value delivery such as the importance of adapting processes to deliver value and the role of planning in Scrum. However, the primary focus is on debunking myths rather than directly addressing value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:06:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses common myths about Scrum, which indirectly relates to value delivery by addressing misconceptions that can hinder effective implementation. While it does mention the importance of Scrum events in delivering value, the primary focus is on debunking myths rather than directly discussing strategies or methodologies for value delivery. The depth of discussion on how these myths impact value delivery is moderate, but the overall emphasis remains on clarifying misunderstandings rather than providing actionable insights into value management.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1273,12 +1372,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:07:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and myths, which are related to Agile methodologies. However, the primary focus is on misconceptions rather than broader organisational agility strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a specific Agile methodology. While it discusses principles that can enhance organisational agility, such as flexibility, responsiveness, and the importance of planning, it does not explicitly address broader organisational strategies or cultural shifts necessary for agility. The depth of discussion on Scrum events and their purpose indicates a strong understanding of Agile practices, but the content remains narrowly focused on Scrum rather than organisational agility as a whole.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1303,12 +1405,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T13:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and myths, touching on the relationship between organisational culture and technology adoption, as well as team dynamics. However, the primary focus is on Scrum mechanics rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:06:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on debunking myths about Scrum, which is a framework for Agile project management. While it touches on aspects of team dynamics and the importance of understanding Scrum principles, it does not explicitly discuss the interplay between technology and organisational structures, nor does it delve deeply into the sociotechnical interactions that influence software delivery. The discussion is more centred on technical practices and misconceptions rather than the broader sociotechnical context.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",

@@ -319,7 +319,7 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-11T14:46:38",
+    "calculated_at": "2025-03-15T01:47:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -327,7 +327,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily critiques a common misconception about Scrum rather than focusing on coaching practices. While it touches on the importance of delivering value and collaboration, it lacks direct discussions on coaching techniques, building trust, or fostering a growth mindset, which are central to the Coaching category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -343,21 +343,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T10:22:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the Scrum framework and its efficiency claims, making Agile methodologies a major theme, though it lacks a direct discussion on strategic alignment, implementation, or long-term adaptability.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:55:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the misconceptions surrounding Scrum and emphasises the importance of outcomes over output, which aligns with Agile principles. However, it primarily focuses on debunking a myth rather than providing a comprehensive Agile strategy or discussing organisational alignment and implementation at scale. The depth of discussion on Agile principles is moderate, but it lacks a broader strategic context.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T10:22:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:33:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the effectiveness of Agile principles, particularly in relation to team performance and collaboration, but it's primarily focused on a broader debate about Scrum's efficiency versus effectiveness.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the misconceptions surrounding Scrum and emphasises the importance of focusing on outcomes rather than mere output, which aligns with the core themes of team performance and collaboration. However, while it touches on Agile principles, it does not delve deeply into specific strategies or practices for enhancing team dynamics or performance metrics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -553,12 +559,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T10:22:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum's effectiveness and the need for a focus on value delivery, but it primarily revolves around the debate of efficiency versus effectiveness in Scrum, making value delivery a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:47:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than output, which aligns well with the principles of value delivery. It critiques the misleading notion of productivity in Scrum and emphasises delivering meaningful results that benefit the customer. The discussion on shifting focus from volume to value further supports the core themes of the category. However, while it touches on Agile principles, it does not delve deeply into specific methodologies or practices related to value delivery, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -634,11 +643,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T01:47:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses Scrum and Agile practices, emphasizing team dynamics, the roles of teams in delivering value, and the importance of a happy and inspired workforce, but does not deeply analyze specific processes or human factors.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the misconceptions surrounding Scrum and emphasises the importance of focusing on outcomes rather than mere output. It highlights the impact of misleading marketing on team dynamics and the pressure it creates, which aligns with the category's focus on human behaviour and process methodologies. However, while it touches on team dynamics and leadership engagement, the depth of discussion on these aspects is limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -760,21 +772,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:47:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scrum and its implications for team dynamics and effectiveness, making team collaboration a secondary theme while primarily focusing on the efficiency debate.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the misconceptions surrounding Scrum and emphasises the importance of delivering value through collaboration and outcomes rather than mere output. While it touches on team dynamics and the impact of misleading expectations on team performance, it does not delve deeply into specific techniques for improving collaboration or fostering a culture of trust. The focus is more on debunking myths than on enhancing team collaboration directly.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:47:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scrum and agile methodologies, highlighting their potential for improving effectiveness and productivity, which relates to adaptability in the market. However, the primary focus is on the scrutiny of scrum's productivity claims rather than a clear strategy for market adaptability.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum and its focus on outcomes rather than output, which aligns with the principles of Agile methodologies. However, it primarily critiques a common misconception rather than providing strategies or practices that enhance market adaptability. While it touches on the importance of delivering value, it lacks detailed discussions on how these concepts directly contribute to an organisation's ability to respond to market shifts or competitive pressures.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -832,11 +850,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum principles, including its efficiency claims and the role of Agile methodologies in project management.",
+    "calculated_at": "2025-03-15T01:48:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses Scrum, a key framework within Agile Project Management, and critiques the common misconception surrounding its productivity promises. It aligns well with Agile principles by emphasising the importance of outcomes over mere output, which is a core theme in Agile methodologies. The depth of discussion is significant, as it explores the implications of misleading marketing in Agile and encourages a focus on value delivery. Overall, the content is a strong fit for the category, with a clear focus on Agile principles and practices.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -859,20 +880,26 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content references a book by Jeff Sutherland and discusses the Scrum framework, but primarily focuses on general Scrum practices and philosophy rather than detailed discussions or reviews of specific products or books.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:47:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the misconceptions surrounding Scrum, referencing Agile literature and the impact of misleading marketing on the understanding of Agile principles. It mentions books and authors, indicating a connection to the category, but the primary focus is on critiquing a common phrase rather than providing a detailed review or analysis of specific products or books. The depth of discussion on literature is moderate, as it includes personal anecdotes about using books to facilitate conversations, but it lacks comprehensive reviews or analyses of specific texts.",
+    "level": "Secondary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:47:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Scrum framework and its value proposition through a review of Jeff Sutherland's book, making it a secondary theme. However, it primarily focuses on opinions and interpretations rather than industry news or reviews.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the misconceptions surrounding Scrum, particularly the misleading promise of increased productivity. While it does touch on Agile methodologies, it primarily focuses on personal reflections and critiques rather than providing industry news or reviews. The mention of Woody Zuill's writings adds some depth, but the overall discussion lacks a broader context of industry updates or evaluations of tools and practices, which are essential for a stronger alignment with the 'News and Reviews' category.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -922,12 +949,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum, which is a key Agile framework, but it focuses more on efficiency and traditional project management concepts rather than specific Agile product management practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:47:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the misconceptions surrounding Scrum, particularly the misleading promise of increased output versus the actual focus on delivering value, which aligns closely with Agile Product Management principles. It highlights the importance of outcomes over outputs, a key theme in Agile methodologies. The depth of discussion is substantial, providing insights into the implications of these misconceptions and advocating for a value-driven approach, which is central to Agile practices.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -958,12 +988,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:47:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content mentions Scrum's impact on team effectiveness and roles indirectly, making it a secondary theme amidst broader discussions of productivity and Agile principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the misconceptions surrounding Scrum, particularly the misleading promise of increased output. While it touches on the importance of delivering value and the role of collaboration, it primarily critiques a marketing slogan rather than exploring the dynamics and roles within a Scrum Team. The focus on outcomes over output aligns with Scrum principles but lacks depth in discussing team roles, collaboration techniques, or specific Scrum practices.",
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -994,12 +1027,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:47:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of Scrum as a framework and touches upon effectiveness versus efficiency, which aligns with strategic discussions in Agile contexts. However, it primarily focuses on explaining Scrum rather than delving deeply into strategic planning or execution.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the misconceptions surrounding Scrum and emphasises the importance of focusing on outcomes rather than output, which aligns with strategic principles in Agile. However, it primarily critiques a common phrase rather than providing a comprehensive strategic framework or detailed techniques for optimising delivery processes. The discussion is relevant but lacks depth in strategic planning and execution.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -1012,21 +1048,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the philosophy behind Scrum and its effectiveness, which relates to Agile principles, but primarily focuses on Scrum as a specific framework.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:47:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the misconceptions surrounding Scrum, particularly the misleading promise of increased output versus the true focus on value delivery, which aligns well with Agile Philosophy. It addresses the importance of outcomes over outputs, emphasising customer value and continuous improvement. However, the primary focus remains on Scrum as a framework rather than a broader discussion of Agile principles, which slightly limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum, which is related to agile methodologies used in product delivery, but primarily focuses on debates about effectiveness versus efficiency in the context of Scrum.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:47:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Scrum, a key Agile methodology, and critiques the misleading promise of increased productivity. It aligns with the core themes of product delivery by emphasising the importance of outcomes over output, which is crucial for delivering value to customers. The depth of discussion includes personal anecdotes and reflections on Agile practices, but it does not delve deeply into specific methodologies or best practices for product delivery, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1039,21 +1081,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its implications on effectiveness versus efficiency, touching on agile principles relevant to organizational agility, but focuses mainly on the Scrum framework and methodology.",
+    "calculated_at": "2025-03-15T01:47:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum and critiques the misleading notion of productivity associated with it. While it touches on Agile principles, the primary focus is on debunking a myth rather than exploring broader organisational agility strategies or practices. The discussion lacks depth in terms of organisational adaptability and cultural shifts, which are central to the category of Organisational Agility.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Scrum and its implications for productivity and effectiveness, which are closely related to Agile methodologies and transformation practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:47:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Scrum in detail, addressing misconceptions and emphasising the importance of outcomes over output, which aligns with Agile principles. However, it primarily focuses on debunking a myth rather than providing a comprehensive discussion on Agile transformation strategies or methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1210,12 +1258,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:47:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum in project management, highlighting its perceived benefits and the nuance between efficiency and effectiveness, which aligns with pragmatic thinking in an Agile context.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content critiques a common misconception about Scrum, emphasising the importance of outcomes over mere output. It discusses the practical implications of this misunderstanding in Agile environments, highlighting the need for realistic expectations and adaptability. However, while it touches on pragmatic thinking, it does not delve deeply into specific problem-solving strategies or techniques, which slightly limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1282,12 +1333,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content predominantly discusses Scrum practices and efficiency versus effectiveness, making Agile values a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:47:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the misconceptions surrounding Scrum, particularly the misleading promise of increased output. It emphasises the importance of outcomes over output, which aligns with Agile principles. However, the primary focus is on Scrum as a framework rather than a deep exploration of Agile values and principles. While it touches on key Agile concepts like value delivery and collaboration, it does not extensively cover the Agile Manifesto or its core values, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1390,12 +1444,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T10:22:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and its effectiveness in enhancing productivity, which is related to operational practices within Agile methodology. However, the primary focus is more on the value proposition of Scrum rather than specific operational practices or techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:47:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content critiques a common misconception about Scrum, focusing on the distinction between output and outcome. While it touches on Agile principles, it primarily discusses the myth rather than providing actionable strategies or techniques for operational efficiency. The discussion lacks depth in practical applications or methodologies that enhance operational practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

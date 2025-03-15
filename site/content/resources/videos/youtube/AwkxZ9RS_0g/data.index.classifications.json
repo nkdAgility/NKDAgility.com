@@ -46,20 +46,26 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of consulting experience on training within organisations, touching on organisational dynamics and the challenges faced by teams. However, it primarily focuses on personal experiences and training methods rather than a comprehensive exploration of systems thinking or organisational behaviour.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the author's personal experiences in consulting and training, with a focus on real-world applications of Agile and Scrum. While it touches on themes of organisational dynamics and the importance of situational experience, it lacks a direct discussion of systems thinking principles or a holistic view of organisational behaviour. The content does not delve deeply into the interplay between organisational structure, culture, and processes, which are key aspects of Organisational Physics.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a trainer in a training environment, highlighting the importance of real-world experience and situational examples, which aligns with coaching principles. However, it primarily focuses on training rather than coaching as a central theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses training and consulting experiences, which are tangentially related to coaching but do not focus on the core themes of coaching as defined. While it mentions the importance of real experiences and situational learning, it lacks explicit discussions on coaching techniques, team dynamics, or fostering a growth mindset, which are central to the Coaching category.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
@@ -91,7 +97,7 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T14:38:55",
+    "calculated_at": "2025-03-14T23:25:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -99,7 +105,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content briefly mentions Agile and Scrum in the context of training but primarily focuses on the author's consulting experience and its impact on training delivery. While there is some alignment with Agile principles, the discussion lacks depth in exploring Agile leadership specifically, making it a secondary focus rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -121,12 +127,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of consulting experience in training, particularly in relation to agile methodologies and organisational challenges. While it touches on aspects of digital transformation, such as the need for organisations to adapt and improve their processes, it primarily focuses on training and personal experiences rather than a strategic discussion on digital technologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and consulting experiences, particularly in relation to Agile and Scrum methodologies. While it touches on the application of these methodologies in a training context, it does not explicitly address digital transformation or the strategic adoption of digital technologies. The focus is more on personal experiences and the effectiveness of training rather than on how digital tools can enhance business agility or operational efficiency.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -175,12 +184,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the influence of consulting experience on training, touching on cultural aspects within organisations and how they affect value delivery. However, the primary focus is on training methods and personal experiences rather than a deep exploration of organisational culture itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of real-life experiences in training, which can touch on cultural aspects of organisations. However, it primarily focuses on the trainer's personal experiences and the training process rather than explicitly addressing organisational culture or its impact on Agile methodologies. The mention of cultural hurdles is too brief and lacks depth, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -247,12 +259,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, particularly in the context of Agile, Scrum, and DevOps. While it touches on strategic elements related to bridging gaps between theory and practice, it primarily focuses on training experiences rather than a clear strategic approach.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the integration of consulting experience into training, with some references to Agile and Scrum principles. However, the primary focus is on the training process rather than strategic discussions within Agile frameworks. While there are mentions of Agile and Scrum, they are not the central theme, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -265,11 +280,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile principles and the role of trainers with real-world experience in agile methodologies, making it a major but secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions Agile and Scrum in the context of training but does not delve deeply into the frameworks themselves. While it touches on the importance of real-world application and consulting experience, the primary focus is on the training process rather than a thorough exploration of Agile frameworks. The discussion lacks detailed analysis or comparative insights into Agile methodologies, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -283,11 +301,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, which indirectly touches on team dynamics and communication within Agile contexts, but it primarily focuses on individual experiences rather than team collaboration as a central theme.",
+    "calculated_at": "2025-03-14T23:26:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the author's consulting experience in relation to training, touching on Agile and Scrum principles. However, it primarily focuses on individual experiences and training effectiveness rather than team collaboration dynamics. While there are mentions of Agile and Scrum, the discussion lacks depth in exploring team communication, shared ownership, or collaboration strategies, which are central to the category.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -301,12 +322,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, touching on Agile, Scrum, and Lean principles, but it primarily focuses on the trainer's experiences rather than Lean Thinking itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:26:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the author's consulting and training experiences, with a focus on Agile and Scrum methodologies. While there are mentions of real-world applications and the importance of situational experience, it does not explicitly address Lean Thinking principles or concepts. The discussion lacks depth in Lean-related topics, and the overall focus is not aligned with Lean principles, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -376,11 +400,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:24",
+    "ai_confidence": 47.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, touching on Agile concepts and the challenges organisations face in implementing Agile methodologies. However, it primarily focuses on training experiences rather than a deep exploration of Agile values and principles.",
+    "final_score": 44.0,
+    "reasoning": "The content briefly mentions Agile and Scrum in the context of training but does not delve into the core values or principles of Agile methodologies. While it discusses the importance of real-world experience in training, it lacks a focused discussion on Agile's foundational beliefs, making it more of a secondary mention rather than a primary focus.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -412,21 +439,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, particularly in relation to Agile and DevOps, which implies a connection to change management practices. However, the primary focus is on training and personal experiences rather than explicit change management strategies or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and consulting experiences, touching on Agile and Scrum principles, but it lacks a focused discussion on change management strategies or practices. While it mentions the importance of real-world application and situational experience, it does not delve into the core themes of change management, such as stakeholder engagement or leadership roles in transformation.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a trainer and the importance of real-world experience in training environments, which aligns with mentoring themes, but it primarily focuses on training rather than direct mentoring practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of real-life experiences in training, which aligns with mentoring principles. However, it primarily focuses on the trainer's perspective rather than on mentoring techniques or strategies for developing others. The discussion lacks depth in terms of specific mentoring practices or the role of a mentor in Agile environments.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -580,12 +613,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile principles and the importance of real-world experience in training related to agile methodologies, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content briefly mentions Agile and Scrum in the context of training but lacks a detailed exploration of Agile Project Management principles. While it touches on the importance of real-world application and consulting experience, it does not delve into the core themes of Agile methodologies or project management practices.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -598,11 +634,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training related to Agile methodologies, highlighting the gap between theoretical knowledge and practical application, which aligns with Agile Strategy themes.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile and Scrum in the context of training, highlighting the importance of real-world application and consulting experience. While it mentions Agile principles, the primary focus is on the training experience rather than a strategic discussion of Agile methodologies. The alignment with Agile Strategy is present but not the main focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
@@ -634,12 +673,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, highlighting how trainers can help participants navigate complex organisational challenges. However, the primary focus is on training methods rather than a deep exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the author's consulting experience in relation to training, which touches on the importance of real-world applications and situational experiences. However, it lacks a direct focus on sensemaking principles or frameworks, and the discussion primarily revolves around training methodologies rather than the interpretation of complexity in decision-making contexts.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -706,12 +748,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of consulting experience in training related to Agile methodologies, highlighting the importance of real-world examples and the challenges organisations face in adopting Agile practices. However, it primarily focuses on the training aspect rather than a comprehensive discussion on Agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile and Scrum within the context of training, indicating a connection to Agile transformation. However, it primarily focuses on the trainer's personal experiences and the importance of real-world application rather than providing a comprehensive exploration of Agile transformation strategies or methodologies. The mention of Agile is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -763,12 +808,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, particularly in relation to Agile, Scrum, and DevOps methodologies. However, it primarily focuses on the trainer's personal experiences rather than specific operational practices or strategies for improving efficiency.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of real-world experience in training, particularly in relation to Agile and Scrum methodologies. However, it primarily focuses on the personal experiences of the author rather than providing specific operational practices or techniques aimed at enhancing efficiency within Agile, DevOps, or Lean frameworks. The mention of Agile and Scrum is brief and does not delve into process optimisation or continuous improvement strategies, which are key aspects of the category.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -826,7 +874,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T16:28:21",
+    "calculated_at": "2025-03-14T23:25:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -834,7 +882,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses the author's consulting experience in relation to training, touching on Agile and Scrum principles. However, it primarily focuses on personal anecdotes and the importance of real-world experience in training rather than providing a structured discussion on technical leadership or agile methodologies. The mention of Agile and Scrum is brief and does not delve into the core themes of technical leadership, such as mentoring, team dynamics, or servant leadership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -856,11 +904,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:26",
+    "ai_confidence": 52.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training related to Agile methodologies, touching on Agile principles and the challenges organisations face in implementing them. However, it primarily focuses on the trainer's experiences rather than specific Agile Planning practices.",
+    "final_score": 48.0,
+    "reasoning": "The content briefly mentions Agile and Scrum in the context of training but does not focus on Agile Planning principles or methodologies. While it discusses the importance of real-world experience in training related to Agile, it lacks a detailed exploration of Agile Planning concepts, making it a secondary mention rather than a primary focus.",
     "level": "Tertiary"
   },
   "Accountability": {
@@ -919,12 +970,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, particularly in agile and DevOps contexts, which relates to technical practices. However, the primary focus is on training and personal experiences rather than specific technical methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the author's consulting and training experiences, with a focus on real-world applications of Agile and Scrum. While it touches on Agile principles, it lacks a deep exploration of software craftsmanship, best practices, or technical methodologies, which are central to the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -955,11 +1009,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:40:22",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, particularly in relation to Agile practices. While it touches on Agile concepts, it primarily focuses on the trainer's experience rather than the broader Agile philosophy.",
+    "final_score": 50.0,
+    "reasoning": "The content briefly mentions Agile and Scrum in the context of training but primarily focuses on the author's personal experiences and the importance of real-world application in training environments. While it touches on Agile principles, it does not delve deeply into the Agile Philosophy itself, making it a secondary focus rather than a primary discussion.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -1039,12 +1096,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, touching on the challenges organisations face in implementing agile practices. However, it primarily focuses on individual training experiences rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Agile and Scrum in the context of training but lacks a comprehensive discussion on enterprise agility principles. While it touches on the importance of real-world application and situational experience, it does not delve into organisational structures, frameworks, or broader implications of agility on organisational performance. The focus remains primarily on individual training experiences rather than enterprise-level agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1057,12 +1117,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, highlighting the challenges organisations face and the need for adaptability in training approaches. However, it primarily focuses on training methodologies rather than organisational resilience or change management as a central theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the author's consulting and training experiences, with a focus on real-world applications of Agile and Scrum. While it touches on the importance of situational experience and the need for trainers to have practical knowledge, it lacks a direct discussion on organisational resilience or change management. The themes of adaptability and continuous improvement are implied but not explicitly addressed, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1102,16 +1165,19 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training related to agile methodologies, which is a significant aspect of product delivery, but it primarily focuses on the training environment rather than the end-to-end product delivery process.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses training in Agile and Scrum, which are relevant to product delivery, but the primary focus is on the author's personal experiences and the training environment rather than the methodologies and practices of product delivery itself. While there are mentions of Agile and Scrum, they are not explored in depth or as a primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T17:41:04",
+    "calculated_at": "2025-03-14T23:25:21",
     "ai_confidence": 42.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
@@ -1119,16 +1185,19 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions Agile and Scrum in the context of training but does not delve into Agile Product Management principles or practices. While it touches on the importance of real-world application and consulting experience, it lacks a focused discussion on product management strategies, roles, or stakeholder engagement, which are central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of experiential learning in training environments, highlighting how real-world consulting experiences can enhance understanding and problem-solving in Agile and DevOps contexts. However, the primary focus is on training and consulting rather than on broader discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of real-world experience in training, which aligns with the concept of learning from practical situations. However, it primarily focuses on the trainer's personal experiences and does not delve deeply into methodologies or frameworks that foster discovery and learning. The mention of Agile and Scrum is brief and does not explore their roles in innovation or feedback loops, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1141,12 +1210,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges faced in training environments and the importance of real-world consulting experience, which touches on the complexities of organisational behaviour and the need for adaptive solutions. However, it primarily focuses on training and consulting experiences rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the author's personal experiences in consulting and training, with a focus on real-world applications of Agile and Scrum. While it touches on the importance of situational experience and the challenges of bridging theory to practice, it lacks a direct engagement with complexity science principles or frameworks. The discussion is more about practical training methods rather than the complexities of organisational behaviour or decision-making in complex systems.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1159,29 +1231,38 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of practical experience in training related to Agile and DevOps, highlighting the value of situational experiences and real-world examples. However, it primarily focuses on the trainer's perspective rather than specific tools or methodologies, making it a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of real-world experience in training, particularly in relation to Agile and Scrum methodologies. While it mentions Agile and Scrum, the focus is more on the trainer's personal experiences rather than specific practical techniques or tools. The discussion lacks depth in exploring methodologies or frameworks, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training experiences and the value of real-world consulting in a training environment, which relates to presentations and workshops, but it is primarily focused on personal experiences rather than specific events or formal presentations.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the author's consulting experience in relation to training, particularly in Agile and Scrum contexts. While it does mention training sessions that could be linked to events, it lacks explicit references to specific events or presentations. The alignment with the category is moderate, as it touches on themes relevant to Agile and DevOps but does not focus on formal events or structured presentations. The depth of discussion is significant, as it provides insights into the training process and the importance of real-world experience, but it does not fulfil the primary focus required for the category.",
     "level": "Tertiary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, particularly in relation to Agile and DevOps methodologies. While it touches on the challenges organisations face in adapting to these frameworks, the primary focus is on the trainer's personal experiences rather than a direct exploration of market adaptability strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile and Scrum in the context of training, which relates to market adaptability. However, it primarily focuses on personal experiences and the training process rather than specific strategies or methodologies for enhancing market adaptability. While there are mentions of Agile principles, the depth of discussion on how these principles can be applied to improve responsiveness to market changes is limited.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -1225,12 +1306,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, particularly in relation to agile methodologies, which aligns with the theme of business agility as it touches on adapting to organisational challenges and delivering value. However, the primary focus is on training experiences rather than a direct exploration of business agility principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions Agile and Scrum, indicating some relevance to business agility. However, the primary focus is on the author's personal experiences in consulting and training rather than a thorough exploration of business agility principles or practices. While there is some alignment with the themes of real-world application and the importance of situational experience, the depth of discussion on business agility itself is limited.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1243,12 +1327,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, particularly in relation to Agile, Scrum, and DevOps, which aligns with value delivery principles. However, the primary focus is on personal experiences and training methods rather than specific value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of real-world experience in training, particularly in relation to Agile and Scrum. However, it primarily focuses on personal experiences and training methodologies rather than specific strategies or methodologies for delivering value to customers. While there are mentions of Agile and Scrum, they are not the primary focus, and the depth of discussion on value delivery principles is limited.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1261,11 +1348,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of real-world consulting experience in training, particularly in relation to agile methodologies and the challenges organisations face in implementing these practices. However, it primarily focuses on the trainer's perspective rather than a comprehensive exploration of organisational agility as a central theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of real-world experience in training, particularly in relation to Agile and Scrum methodologies. While it does mention Agile principles, the primary focus is on the trainer's personal experiences and the effectiveness of training rather than a comprehensive exploration of organisational agility. The discussion lacks depth in terms of organisational strategies or frameworks that enhance agility, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1294,12 +1384,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between consulting experience and training in organisational contexts, touching on cultural and technical challenges faced by teams. However, it primarily focuses on personal experiences rather than a systematic exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the author's consulting experience and its impact on training, which touches on the interplay between social and technical aspects. However, it primarily focuses on personal anecdotes and training effectiveness rather than a comprehensive exploration of sociotechnical systems. While there are mentions of Agile and Scrum, the discussion lacks depth in examining organisational structures or team dynamics, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1372,12 +1465,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:47:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:26:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile principles and the importance of real-world consulting experience in training, making Agile a major theme, but it does not focus primarily on the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile and Scrum in the context of training but does not focus on the Agile Product Operating Model or its principles. The discussion is more about the trainer's personal experiences and the importance of real-world application rather than a detailed exploration of product-centric development or value delivery.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1426,7 +1522,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:21:50",
+    "calculated_at": "2025-03-14T23:25:21",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1434,6 +1530,6 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content briefly mentions agile and scrum in the context of training and consulting but lacks a focused discussion on Scrum principles, roles, events, or artifacts. While it touches on the challenges faced by organisations in adopting agile methodologies, it does not delve into the specifics of the Scrum framework or its implementation, which are crucial for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

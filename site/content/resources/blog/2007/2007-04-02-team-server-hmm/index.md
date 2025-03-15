@@ -26,13 +26,7 @@ aliasesArchive:
 - /team-server-hmm-
 - /blog/team-server-hmm-
 - /resources/blog/team-server-hmm
-tags:
-- Practical Techniques and Tooling
-- Products and Books
-- Miscellaneous
-- Software Development
-- Troubleshooting
-- Windows
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

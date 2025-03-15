@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:23:50",
+    "calculated_at": "2025-03-15T06:08:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server (TFS) and Active Directory, which is relevant to DevOps practices. However, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on aspects of system integration and troubleshooting, it does not delve into automation, CI/CD, or collaboration between development and operations teams, which are core themes of DevOps. Therefore, the confidence score reflects a moderate alignment with the DevOps category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:08:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting a specific technical issue related to Team Foundation Server (TFS) and Active Directory, which touches on engineering practices and methodologies. However, the primary focus is on problem-solving rather than a broader discussion of technical excellence principles such as TDD, CI/CD, or modular architecture.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server (TFS) and Active Directory integration, which touches on aspects of technical excellence such as troubleshooting and system configuration. However, it lacks a structured discussion on broader engineering practices or methodologies that enhance agility in software development. While it does provide some insights into problem-solving and system maintenance, it does not delve deeply into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -493,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:09:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting and workarounds for a TFS synchronization issue, which may relate to operational practices in managing TFS environments, although it primarily focuses on a specific technical issue rather than a broad operational strategy.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and Active Directory, focusing on troubleshooting and workarounds rather than operational practices aimed at enhancing efficiency or delivery. While it touches on aspects of system configuration and user management, it lacks a structured approach to process optimisation or continuous improvement strategies typical of Agile, DevOps, or Lean methodologies.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1228,12 +1234,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:09:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mainly revolves around technical issues with Team Foundation Server and Active Directory integration, which, while closely related to software development practices and could be of interest to software developers, does not centralize on Agile or DevOps methodologies or practices. It touches on relevant tools but lacks a focus on developer roles or methodologies under Agile and DevOps.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Server (TFS) and Active Directory, which is relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, best practices, or the role of developers in these contexts. While it does touch on troubleshooting and problem-solving, it does not delve into the broader themes of collaboration, productivity, or modern engineering practices that are central to the 'Software Developers' category.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

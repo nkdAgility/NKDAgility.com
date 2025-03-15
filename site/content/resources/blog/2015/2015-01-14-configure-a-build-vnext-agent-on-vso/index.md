@@ -27,9 +27,16 @@ aliasesArchive:
 - /blog/configure-a-build-vnext-agent
 - /resources/blog/configure-a-build-vnext-agent-on-vso
 tags:
-- System Configuration
+- Windows
 - Install and Configuration
+- System Configuration
+- Practical Techniques and Tooling
+- Azure DevOps
+- Continuous Integration
 - Azure Pipelines
+- Software Development
+- Azure Repos
+- Internal Developer Platform
 categories:
 - DevOps
 - Engineering Excellence

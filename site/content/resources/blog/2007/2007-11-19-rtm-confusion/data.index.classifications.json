@@ -1,7 +1,7 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T15:17:32",
+    "calculated_at": "2025-03-15T07:37:43",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions ALM in the tags but does not discuss any core principles or practices related to Application Lifecycle Management. The focus is primarily on confusion regarding the availability of specific Visual Studio components, which does not align with the key topics of ALM such as lifecycle stages, governance, or tools. Therefore, while there is a minimal mention of ALM, the overall content does not provide substantial information or depth on the subject.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -589,7 +589,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T17:07:17",
+    "calculated_at": "2025-03-15T07:37:43",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -597,7 +597,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses confusion regarding the availability of Visual Studio 2008 components, specifically Team Explorer and Team Suite. While it touches on software tools relevant to software development, the focus is primarily on personal confusion and download issues rather than on methodologies, practices, or detailed discussions about software development processes. The mention of Team Foundation Server indicates some alignment with version control systems, but the overall depth and focus on software development practices are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -853,7 +853,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T10:49:15",
+    "calculated_at": "2025-03-15T07:37:43",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -861,7 +861,7 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses confusion regarding the availability of Visual Studio 2008 components, specifically Team Explorer and Team Foundation Server. While it touches on source control indirectly by mentioning Team Foundation Server, it does not delve into any modern source control practices, methodologies, or strategies. The focus is more on installation issues rather than version control principles or collaboration workflows.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1120,12 +1120,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content raises questions regarding the availability and installation of software components related to Visual Studio 2008, indicating a troubleshooting scenario. However, the main focus is on confusion rather than systematic diagnosis or resolution of specific technical issues.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content expresses confusion regarding the availability of Team Explorer and its relation to Visual Studio 2008 Team Suite, which indicates a troubleshooting scenario. However, the discussion lacks depth in terms of diagnosing or resolving specific technical issues, focusing more on the user's uncertainty rather than providing methodologies or solutions. The mention of needing Team Foundation Server and the .NET 3.5 redistributable hints at troubleshooting but does not delve into systematic problem-solving techniques or detailed insights.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",

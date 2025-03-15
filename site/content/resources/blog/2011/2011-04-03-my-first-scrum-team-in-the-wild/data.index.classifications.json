@@ -52,12 +52,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the importance of learning from experiences within the context of a team's first sprint, but it primarily focuses on Scrum roles and events rather than broader discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on Scrum practices and project management rather than on discovery and learning methodologies. While it touches on the importance of adapting to feedback and the role of a Scrum Coach, these aspects are secondary to the detailed descriptions of Scrum processes and roles. The discussion lacks a strong emphasis on fostering a culture of innovation or continuous learning, which are core themes of the category.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -106,12 +109,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and team dynamics, which are relevant to sociotechnical systems, but the primary focus is on technical processes rather than the broader interplay between social and technical aspects.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses Scrum practices and team dynamics, which are relevant to sociotechnical systems. However, it lacks a comprehensive exploration of the interplay between technology and organisational structures. While it touches on team dynamics and the role of a Scrum Coach, it does not delve deeply into how these elements collectively influence software delivery or organisational culture. The focus remains more on technical practices rather than a balanced view of social and technical interactions.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -142,30 +148,33 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T09:09:14",
+    "calculated_at": "2025-03-15T06:38:58",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses Scrum processes and roles, with only brief mentions of decision-making aspects related to estimation and prioritisation. It does not focus on decision theory as a central theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a Scrum course and the experiences of a team during their first sprint, which relates to a structured learning experience, but it primarily focuses on Scrum practices rather than a specific event or presentation.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a Scrum course that the author taught, which relates to a structured learning experience. However, it primarily focuses on the author's personal experiences and insights rather than detailing a specific event or presentation. While it mentions teaching and the outcomes of a Scrum team, it lacks explicit references to formal events or presentations, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:09:14",
+    "calculated_at": "2025-03-15T06:38:58",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses Scrum roles, events, and practices, with only brief mentions of flow efficiency concepts such as backlog management and sprint planning.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -199,12 +208,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:39:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of metrics such as burndown charts and story points in the context of Scrum, indicating a focus on performance data and team dynamics. However, the primary focus is on Scrum roles and processes rather than a deep exploration of metrics and learning.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses various aspects of Scrum, including the importance of metrics like Story Points and burndown charts, which are essential for measuring team performance and facilitating learning. It highlights the role of feedback loops and the iterative nature of Scrum, aligning well with the core themes of the category. However, while it touches on metrics, the primary focus is more on Scrum practices rather than a deep exploration of metrics and learning methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -226,12 +238,12 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T09:09:14",
+    "calculated_at": "2025-03-15T06:38:58",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses Scrum processes and roles, with only brief mentions of complexity in relation to estimation and team dynamics. It does not focus on complexity science or its principles as a central theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -379,11 +391,14 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:39:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions the initial Definition of Done being devised during backlog creation, which indicates that it touches on the concept, but the overall focus is primarily on Sprint planning and team dynamics rather than clearly defining what constitutes the Definition of Done.",
+    "final_score": 41.0,
+    "reasoning": "The content briefly mentions the Definition of Done in the context of Sprint Planning, indicating that the team's initial Definition of Done may be devised at that time. However, the primary focus of the content is on Scrum processes, team dynamics, and personal experiences rather than a thorough exploration of the Definition of Done itself. While there is some alignment with the core themes, the depth of discussion is limited, and the overall emphasis is not on the Definition of Done.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
@@ -433,12 +448,12 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T09:09:14",
+    "calculated_at": "2025-03-15T06:38:58",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "Content primarily discusses Scrum processes and practices rather than organisational culture's influence on agility and transformation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -460,21 +475,27 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:39:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Product Backlog's creation, prioritization, and management within the context of Scrum, detailing the roles of the Product Owner and the team's involvement in backlog refinement during Sprint Planning, making it highly relevant.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the Product Backlog, including its creation, prioritisation, and the roles of the Product Owner and team during Sprint Planning. It provides detailed insights into backlog management practices, such as backlog refinement and the importance of user stories. The depth of discussion is significant, covering various aspects of backlog management, which aligns well with the category's key topics.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T06:39:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses Scrum practices, including sprint planning, story points, backlog management, and other Agile planning techniques. It focuses on the application of Agile principles within a team setting, making Agile Planning a central theme.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Scrum practices, including sprint planning, backlog management, and the use of story points, which are all integral to Agile Planning. It provides detailed insights into the processes and methodologies that facilitate effective Agile planning, demonstrating a strong alignment with the core themes of the category. The depth of discussion is significant, covering various aspects of Agile practices and their implications for team dynamics and project delivery.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -496,11 +517,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:39:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides significant practical insights into the Scrum process, specifically focusing on tactics related to sprint planning, backlog management, and estimation techniques like Story Points, which align with the operational efficiency themes in Agile practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the practical application of Scrum methodologies, focusing on the team's first sprint, the role of a Scrum Coach, and the importance of estimation techniques like Story Points. It aligns well with operational practices by detailing strategies for improving team performance and workflow management. The depth of discussion is significant, covering various aspects of the Scrum process, including backlog management and sprint planning, which are crucial for operational efficiency. However, while it is focused on Scrum, it does not explicitly mention broader operational practices or metrics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -544,11 +568,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:39:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation and experiences of a Scrum team, touching on Scrum roles, events, and best practices, which are central to Agile transformation.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the implementation of Scrum within a team, detailing specific practices, roles, and processes that align closely with Agile transformation principles. It discusses the importance of Scrum coaching, team dynamics, and the iterative nature of sprints, which are all critical aspects of Agile methodologies. The depth of discussion regarding Scrum practices and the emphasis on team collaboration and continuous improvement further support its relevance to Agile transformation. However, while it is rich in Scrum-specific content, it does not extensively cover broader Agile transformation strategies or change management, which slightly limits its alignment.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -571,11 +598,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:39:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the team's first sprint experience, emphasizing the importance of Scrum practices, team dynamics, and how the coaching influenced their performance, thus aligning well with the category of Team Performance.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed account of a Scrum team's experiences, focusing on their first sprint and the role of a Scrum Coach. It discusses specific practices such as estimation techniques, the importance of team collaboration, and the impact of Scrum ceremonies on team dynamics. The author reflects on the team's performance and potential pitfalls, aligning closely with the core themes of team performance and collaboration within Agile frameworks. The depth of discussion is substantial, covering various aspects of team dynamics and methodologies, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Increment": {
@@ -598,20 +628,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T06:39:31",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses Scrum roles, events, and practices, focusing on the application of Scrum methodology in software development, including sprint planning, backlog management, and team dynamics.",
+    "final_score": 84.0,
+    "reasoning": "The content provides a detailed account of experiences with Scrum, including specific practices, roles, and methodologies. It discusses the Scrum process, estimation techniques, and team dynamics, aligning closely with key topics in software development. The depth of discussion on Scrum roles and events, along with practical insights into the development process, supports a high confidence score.",
     "level": "Primary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-15T06:39:10",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 88.0,
-    "reasoning": "The content extensively discusses Scrum practices, roles, and processes, including sprint planning and estimation techniques, making Agile Project Management the clear primary topic.",
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses Scrum, including roles, ceremonies, and techniques for managing backlogs and prioritising work. It provides detailed insights into the Scrum process, including sprint planning and the importance of collaboration within the team. The author reflects on their experiences and offers practical advice, demonstrating a strong alignment with agile principles and methodologies. Overall, the content serves as a rich resource for understanding Agile Project Management, particularly within the context of Scrum.",
     "level": "Primary"
   },
   "Agile Values and Principles": {
@@ -625,11 +661,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:39:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content focuses on practical experiences and discussions related to Scrum roles, events, and estimation techniques, which align with the principles of Professional Scrum.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed account of a Scrum team's experiences, explicitly discussing Scrum roles, events, and practices. It mentions the importance of a Scrum Coach, the process of Sprint Planning, and the management of the Product Backlog, aligning closely with the core themes of Professional Scrum. The depth of discussion is significant, covering various aspects of Scrum implementation and addressing common questions related to Scrum practices.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -655,12 +694,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses Scrum processes and events, it makes some references to Scrum values such as openness and commitment. However, these values are not the central focus of the discussion.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Scrum process and the importance of having a Scrum Coach, which indirectly relates to the values of Openness and Commitment. However, it primarily focuses on Scrum roles, events, and technical aspects of sprint planning rather than explicitly addressing the Scrum Values themselves. The mention of openness in the context of team dynamics is relevant, but the overall discussion lacks depth on the core values.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -682,12 +724,12 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T09:09:14",
+    "calculated_at": "2025-03-15T06:38:58",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content primarily discusses Scrum methodologies and practices related to software development, which is not central to the topic of organisational change despite some implications of team dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -727,12 +769,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses leadership in the context of a Scrum team and touch upon the importance of using data (like burndown charts) and engaging in structured processes (like sprint planning) which are elements of evidence-based practices, but the primary focus is more on Scrum methodology rather than evidence-based leadership itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum practices and personal experiences rather than focusing on evidence-based leadership principles. While it touches on the importance of data (e.g., burndown charts) and team dynamics, it lacks a strong emphasis on empirical evidence guiding leadership decisions. The discussion is more anecdotal and does not provide substantial insights into evidence-based management techniques or frameworks.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -754,7 +799,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:02:00",
+    "calculated_at": "2025-03-15T06:38:58",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -762,7 +807,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily discusses Scrum practices and team dynamics rather than focusing on engineering excellence in software craftsmanship or development processes. While it touches on aspects of team collaboration and some best practices, it lacks a deep exploration of coding standards, quality assurance, or continuous improvement methodologies that are central to the category of Engineering Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -802,20 +847,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:39:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content extensively discusses practical problem-solving strategies in the context of a Scrum team, detailing real-world applications of Scrum principles and addressing challenges faced during project management.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed account of practical experiences in a Scrum environment, discussing specific strategies for estimation, backlog management, and team dynamics. It highlights the importance of real-world application of Scrum principles and the role of experience in navigating challenges, aligning well with the core themes of Pragmatic Thinking. The depth of discussion on Scrum practices and the emphasis on avoiding anti-patterns further support a high confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T06:39:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses elements such as backlog creation, prioritisation, and user story management within the context of Scrum, indicating a significant focus on backlog refinement practices even though it covers various aspects of the Scrum process.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses various aspects of Scrum, including backlog creation, prioritisation, and the role of the Product Owner in managing the backlog. It provides a detailed overview of the processes involved in backlog refinement, such as the importance of team consensus in estimation and the continuous pruning of the backlog. However, while it touches on backlog refinement, the primary focus is more on the overall Scrum process and team dynamics rather than exclusively on backlog refinement techniques.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -829,12 +880,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T06:39:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 30,
-    "final_score": 80.0,
-    "reasoning": "Content primarily discusses Scrum practices, including roles, sprint processes, backlog management, and team collaboration in product development.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content provides a detailed account of a Scrum team's experiences, including specific references to Scrum roles, sprint planning, and backlog management. It discusses the importance of story points, the role of the Product Owner, and the iterative nature of Scrum, demonstrating a strong alignment with the key topics of Scrum Product Development. The depth of discussion is significant, covering various aspects of the Scrum process and offering insights into best practices and potential pitfalls.",
+    "level": "Primary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -883,20 +937,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T06:39:26",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the Scrum process and the management of user stories, which are relevant to the development of working software, though it does not focus heavily on the actual delivery or quality of functional software itself.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the practical application of Scrum in delivering working software, detailing the processes involved in sprint planning, backlog management, and team dynamics. It explicitly mentions the importance of Scrum roles and practices, which are crucial for achieving functional software. The depth of discussion on estimation techniques and the iterative nature of Scrum aligns well with the core themes of working software, while also providing insights into potential pitfalls and best practices.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:39:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses various aspects of Scrum, including sprint planning, backlog management, and the use of story points for estimation, which are all key elements of Agile planning tools and methodologies.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses Scrum practices, including backlog management, sprint planning, and the use of story points, which are all relevant to Agile Planning Tools. It provides a detailed overview of the processes involved in planning and executing sprints, demonstrating a strong alignment with the category's core themes. However, while it touches on Agile Planning Tools, it does not explicitly focus on specific tools like Jira or Trello, which slightly lowers the depth of discussion.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -982,11 +1042,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:39:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the roles and responsibilities of the Product Owner, particularly related to backlog management and prioritization, focusing on how these aspects play out during Scrum ceremonies.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of the Product Owner in detail, particularly in the context of backlog management and prioritisation during sprint planning. It explicitly mentions the responsibilities of the Product Owner, such as creating and prioritising the backlog, and collaborating with the team. However, the focus is somewhat diluted by the broader discussion of Scrum practices and team dynamics, which, while relevant, do not exclusively centre on the Product Owner's role.",
     "level": "Secondary"
   },
   "Cycle Time": {
@@ -1027,11 +1090,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:39:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses team dynamics in the context of a Scrum team, focusing on collaboration, the learning process within the team, and the impacts of a Scrum Coach. It highlights questions and considerations that arise during team collaboration activities, which align well with the themes of teamwork communication and shared ownership.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the dynamics of a Scrum team, discussing the roles of team members, the importance of collaboration during sprint planning, and the impact of having a Scrum Coach. It provides detailed insights into team processes, such as backlog creation and estimation techniques, which are essential for effective team collaboration. The author also highlights the significance of consensus and shared ownership in the estimation process, aligning well with the core themes of the category. Overall, the depth of discussion and the explicit focus on team dynamics contribute to a high confidence score.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -1201,11 +1267,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:37:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:39:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master, including responsibilities in coaching teams, facilitating Scrum events, and addressing common issues faced in Scrum processes, which aligns well with the key topics outlined for the Scrum Master category.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of a Scrum Coach and the dynamics of a Scrum team during their first sprint, which aligns with the responsibilities of a Scrum Master. It touches on coaching, team collaboration, and Scrum ceremonies, but lacks a comprehensive exploration of the Scrum Master's role and practices. The discussion is somewhat detailed but does not delve deeply into the nuances of Scrum Master responsibilities.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1228,20 +1297,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T23:37:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:39:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the implementation of Scrum methodologies, which are central to Agile practices, and explores how software teams navigate these frameworks in practice.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the role of software developers within a Scrum framework, detailing their experiences and insights during a sprint. It directly mentions Scrum practices, team dynamics, and the importance of collaboration, which are core themes of Agile methodologies. The depth of discussion is significant, covering various aspects of sprint planning, estimation techniques, and the impact of Scrum coaching on team performance. Overall, the content aligns well with the category, focusing on the developers' experiences and practices in an Agile context.",
     "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Coach and mentions aspects of coaching within the context of a Scrum team, but the primary focus is on Scrum methodology and events rather than coaching strategies or techniques.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of a Scrum Coach and the impact of coaching on team performance, which aligns with the coaching category. However, it primarily focuses on Scrum processes and team dynamics rather than providing in-depth coaching techniques or strategies. The mention of a Scrum Coach is explicit, but the overall discussion is more about Scrum practices than coaching methodologies.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
@@ -1285,30 +1360,39 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum principles and the role of a Scrum Coach, highlighting team dynamics and how the team adopts Scrum practices, but it primarily focuses on specific project experiences rather than overarching self-organisation principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Scrum process and the role of the team in planning and executing sprints, which aligns with self-organisation principles. However, it primarily focuses on the mechanics of Scrum rather than deeply exploring self-organisation as a concept. While there are mentions of team dynamics and the importance of autonomy, the depth of discussion on fostering a culture of self-organisation and the role of leadership is limited.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T23:37:39",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T06:39:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content provides a detailed account of a Scrum team's experiences, including roles, events, and practices specific to the Scrum framework, making it a primary topic of discussion.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, detailing its implementation, roles, and processes. It discusses specific Scrum practices such as sprint planning, story points, and team dynamics, which align closely with the core themes of Agile frameworks. The depth of discussion is substantial, providing insights into the practical application of Scrum and the challenges faced by teams. Overall, the content is a strong fit for the Agile Frameworks category.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:39:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses implementing Scrum, roles, and practices, which are relevant to Agile methodologies but does not centralize on strategic alignment or broader Agile strategy principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the practical implementation of Scrum practices, such as sprint planning and story point estimation, rather than discussing Agile strategy at an organisational level. While it touches on some Agile principles and the importance of coaching, it lacks a comprehensive exploration of strategic alignment, adaptability, or leadership roles in fostering an Agile culture. Therefore, it does not fully meet the criteria for the Agile Strategy category.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1321,11 +1405,14 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T06:40:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses estimation techniques like Story Points and their role in predicting delivery timelines during Sprint Planning, which relates to forecasting in Agile and Scrum, but is also focused on various Scrum processes and observations.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses various aspects of Scrum, including estimation techniques like Story Points, which are crucial for forecasting delivery timelines. It mentions the importance of team consensus in estimation and how this can impact future planning. However, while it touches on forecasting indirectly, the primary focus is more on Scrum processes and team dynamics rather than dedicated forecasting methodologies. Therefore, it aligns moderately well with the category but lacks depth in specific forecasting practices.",
     "level": "Tertiary"
   },
   "Lean Product Development": {
@@ -1366,12 +1453,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Scrum such as sprint planning and story estimation, which relate to workflow and performance, making throughput a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum practices and roles, with some references to estimation and backlog management. While it touches on aspects that could relate to throughput, such as sprint planning and team performance, it lacks a focused discussion on measuring or optimising throughput specifically. The depth of discussion on related topics is present, but it does not directly address throughput as a primary theme.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1396,7 +1486,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T18:48:39",
+    "calculated_at": "2025-03-15T06:38:58",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1404,7 +1494,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on Scrum processes and technical details rather than leadership practices. While it mentions the role of a Scrum Coach and the importance of team dynamics, these aspects are secondary to the technical implementation of Scrum. The discussion lacks depth in exploring leadership strategies or frameworks, which are essential for a stronger alignment with the leadership category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

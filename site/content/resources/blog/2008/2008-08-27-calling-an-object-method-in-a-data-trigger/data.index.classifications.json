@@ -37,7 +37,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T18:15:13",
+    "calculated_at": "2025-03-15T07:29:37",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -45,7 +45,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on a specific technical implementation in WPF, discussing how to call a method on an object instance and the challenges faced with extension methods. While it touches on technical practices, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The mention of a specific technical issue does not align closely with the core themes of Technical Excellence, which emphasises practices like TDD, CI/CD, and modular architecture. Therefore, while there is some relevance, the overall focus is too narrow and lacks depth in the context of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -178,7 +178,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T17:05:00",
+    "calculated_at": "2025-03-15T07:29:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -186,7 +186,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a specific coding issue related to calling an object method in WPF, which does not directly address the broader themes of code quality or complexity management. While it discusses a technical problem and provides code snippets, it lacks a comprehensive exploration of principles or best practices in software development that would align with the 'Code and Complexity' category. The discussion is more about implementation details rather than the interplay between code quality and complexity.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -289,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:29:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a method related to WorkItemType, which is part of Azure DevOps, but primarily focuses on technical implementation details in WPF rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a technical implementation related to WorkItemType, which is part of Azure DevOps, but it primarily focuses on WPF and XAML without providing a comprehensive overview of Azure DevOps functionalities or best practices. The mention of TFS (Team Foundation Server) indicates a connection to Azure DevOps, but the overall discussion lacks depth in Azure DevOps-specific methodologies or practices.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -643,7 +646,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:13:33",
+    "calculated_at": "2025-03-15T07:29:37",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -651,7 +654,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on a technical implementation detail in WPF regarding calling methods on objects and does not explicitly discuss engineering excellence or best practices in software craftsmanship. While it touches on coding practices, it lacks depth in discussing principles of quality assurance, CI/CD, or other key topics related to engineering excellence. The mention of an error and a reference to a solution does not sufficiently align with the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -673,7 +676,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:45:58",
+    "calculated_at": "2025-03-15T07:29:37",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -681,7 +684,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a technical issue related to WPF and the invocation of methods in a data trigger context. While it involves software development concepts, it does not explicitly discuss Agile or DevOps methodologies, nor does it explore the role of software developers within those frameworks. The mention of extension methods and binding issues is relevant to developers but lacks a broader discussion on best practices, team dynamics, or collaboration that would align it more closely with the Software Developers category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -703,12 +706,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:29:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses WPF, which is related to Windows applications, and includes details about DataTemplates and extension methods in a context likely relevant to Windows development. However, the primary focus is more on code specifics than on general Windows OS topics.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a technical issue related to WPF (Windows Presentation Foundation), which is a part of the Windows ecosystem. However, it does not explicitly focus on broader Windows operating system topics such as installation, configuration, or troubleshooting. While it touches on a specific aspect of Windows development, it lacks depth in discussing Windows as an operating system, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1138,7 +1144,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T12:11:28",
+    "calculated_at": "2025-03-15T07:29:37",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1146,7 +1152,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a technical issue related to WPF and the invocation of methods, which does not directly address pragmatic thinking in Agile, Scrum, or DevOps contexts. While it discusses problem-solving in a practical scenario, it lacks explicit references to Agile methodologies or the broader themes of adaptability and real-world application of theories. The depth of discussion is limited to a specific coding problem without exploring the implications or strategies that align with pragmatic thinking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",

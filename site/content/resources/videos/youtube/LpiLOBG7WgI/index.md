@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Product Management
-- Customer Feedback Loops
-- Product Owner
 - Scrum Product Development
-- Scrum Team
 - Sprint Review
+- Agile Project Management
 - Pragmatic Thinking
-- Scrum Master
+- Software Development
+- Agile Planning
+- Agile Transformation
+- People and Process
 - Agile Frameworks
+- Agile Product Management
 resourceTypes:
 - video
 categories:

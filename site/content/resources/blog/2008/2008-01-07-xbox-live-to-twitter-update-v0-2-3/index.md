@@ -28,8 +28,7 @@ aliasesArchive:
 - /resources/blog/xbox-live-to-twitter-update-v0-2-3
 - /xbox--live-to-twitter-update-(v0-2-3)
 - /blog/xbox--live-to-twitter-update-(v0-2-3)
-tags:
-- Software Development
+tags: []
 categories: []
 preview: metro-xbox-360-link-1-1.png
 

@@ -26,12 +26,6 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - Software Development
-- Agile Frameworks
-- System Configuration
-- Agile Project Management
-- Products and Books
-- Software Developers
-- Pragmatic Thinking
 categories:
 - Social Technologies
 - Scrum

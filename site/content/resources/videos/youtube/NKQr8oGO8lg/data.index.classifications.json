@@ -517,7 +517,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-10T12:05:05",
+    "calculated_at": "2025-03-14T22:55:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -525,7 +525,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses the application of knowledge gained from immersive learning, which hints at practical techniques but lacks specific references to Agile or DevOps tools and methodologies. While it mentions practical knowledge and tools, it does not delve into specific frameworks or best practices that would align it more closely with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -724,7 +724,7 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-11T10:09:30",
+    "calculated_at": "2025-03-14T22:55:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -732,7 +732,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses immersive learning and its benefits for employees and organisations, which touches on employee development and potential engagement. However, it lacks direct mentions of employee engagement strategies, motivation, or commitment. The focus is more on training and skill application rather than the psychological and social aspects of engagement, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -817,7 +817,7 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-11T11:32:38",
+    "calculated_at": "2025-03-14T22:55:25",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -825,7 +825,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses immersive learning and its benefits for employees and organisations, touching on coaching and support. However, it lacks a direct focus on mentoring within Agile contexts, and while it mentions practical application of knowledge, it does not delve deeply into the mentoring process or the specific themes outlined in the category description.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1018,12 +1018,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T20:20:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:16:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of knowledge in a practical context, emphasising the importance of real-world application and value delivery in organisational settings, which aligns with pragmatic thinking.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the practical application of immersive learning in professional development, emphasising real-world applications and immediate impact, which aligns well with the core themes of Pragmatic Thinking. It highlights the importance of applying knowledge in organisational contexts and the benefits of practical skills, demonstrating a strong alignment with the category. However, while it touches on Agile and continuous improvement, it does not delve deeply into specific Agile or Scrum methodologies, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1072,11 +1075,14 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T20:20:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:38:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of immersive learning on employee development and organisational value, which relates to employee engagement and performance. However, it primarily focuses on training and practical knowledge rather than core psychological principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses immersive learning and its impact on both individuals and organisations, touching on themes of employee development and organisational improvement. However, while it mentions the benefits of training and practical application, it lacks a direct focus on psychological principles or theories that underpin motivation, engagement, or team dynamics, which are central to organisational psychology. The discussion is more about training methodologies than the psychological aspects of organisational behaviour.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -1279,11 +1285,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T20:21:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T16:47:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the value of immersive learning in terms of applying knowledge and delivering value to organisations, making it a major theme, though not the sole focus.",
+    "final_score": 71.0,
+    "reasoning": "The content explicitly discusses 'Value Delivery' in the context of immersive learning, highlighting how training modules are designed to deliver value and drive positive change. It aligns well with the core themes of the category, such as the importance of real-world application and continuous improvement. The depth of discussion is substantial, providing insights into both organisational and individual perspectives on value delivery, though it lacks specific methodologies or frameworks typically associated with Agile or DevOps.",
     "level": "Secondary"
   },
   "System Configuration": {
@@ -1324,12 +1333,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T20:21:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of immersive learning on organisations and employee development, which relates to organisational change, but it primarily focuses on the learning process rather than the broader strategies or frameworks for organisational transformation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:25:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the transformative impact of immersive learning on both individuals and organisations, highlighting the importance of applying knowledge to drive change. However, while it touches on themes of organisational improvement and agility, it lacks a detailed exploration of specific organisational change frameworks or methodologies. The focus is more on training and individual development rather than a comprehensive discussion of organisational change processes.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1369,12 +1381,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T20:21:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of immersive learning to enhance employee skills and organisational value, which aligns with the theme of adaptability and responsiveness, but it primarily focuses on training rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:55:29",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the benefits of immersive learning for both individuals and organisations, highlighting aspects such as real-world application, continuous improvement, and the importance of practical skills. However, while it touches on themes relevant to organisational agility, such as fostering an environment for change and innovation, it does not explicitly focus on agile methodologies or the cultural shifts necessary for agility. The discussion is more centred on training and development rather than the broader strategies and frameworks that define organisational agility.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1414,7 +1429,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:20:34",
+    "calculated_at": "2025-03-14T22:55:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1422,6 +1437,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses immersive learning and its benefits for employees and organisations, with no direct mention of Scrum principles, roles, or events. While it touches on value delivery and practical knowledge, these concepts are not specifically aligned with Scrum's framework or practices. The discussion lacks depth regarding Scrum, making it a secondary topic at best.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

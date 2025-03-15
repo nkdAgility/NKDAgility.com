@@ -94,12 +94,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and the evolution of Microsoft's Application Lifecycle Management tools, which are relevant to market adaptability, but the primary focus is on the book's production and features rather than on strategies for enhancing market responsiveness.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the release and features of a book about Application Lifecycle Management (ALM) with Visual Studio 2013. While it briefly touches on Agile methodologies and the importance of adapting to new features, it lacks a comprehensive discussion on market adaptability strategies. The mentions of Agile and Scrum are not central to the content, and the overall depth of discussion regarding market adaptability principles is minimal.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -121,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:41:44",
+    "calculated_at": "2025-03-15T04:32:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -129,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Application Lifecycle Management (ALM) and mentions tools and methodologies that could relate to DevOps practices. However, it primarily focuses on the book's production and features of Visual Studio 2013 rather than the core principles of DevOps, such as CI/CD, automation, or cultural shifts. While there are references to collaboration and software deployment, they are not explored in depth or as a primary focus, leading to a low confidence score in the DevOps category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -169,7 +172,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T16:46:06",
+    "calculated_at": "2025-03-15T04:32:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -177,16 +180,19 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly touches on the challenges of collaboration and the effort involved in producing a book, which hints at team dynamics. However, it primarily focuses on the technical aspects of Application Lifecycle Management and Visual Studio features, lacking a deeper exploration of human behaviour or structured methodologies in technology and product development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of Application Lifecycle Management (ALM) and mentions agility in the context of software development, but it primarily focuses on the book's production and features rather than a comprehensive discussion on enterprise agility.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions agility in the context of Microsoft's Application Lifecycle Management (ALM) tools, but it primarily focuses on the book's production and features rather than discussing enterprise agility as a broader organisational capability. While there are references to agility and collaboration, they are not explored in depth or connected to the organisational implications of agility, which is essential for this category.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -217,12 +223,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Application Lifecycle Management (ALM) and mentions methodologies that enhance software development processes, but it primarily focuses on the book's publication and features rather than in-depth technical practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the release of a book on Application Lifecycle Management (ALM) with Visual Studio 2013, which touches on some technical aspects such as new features and methodologies. However, the primary focus is on the book's publication and the author's experience rather than a deep exploration of technical excellence principles like TDD, CI/CD, or modular architecture. While there are mentions of agility and collaboration, they are not explored in detail, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -340,12 +349,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies in the context of Application Lifecycle Management, indicating a major but secondary theme related to organisational agility.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions agility in the context of Microsoft's Application Lifecycle Management (ALM) tools, but it primarily focuses on the book's production and features rather than discussing organisational agility strategies or practices. While there are references to Agile methodologies, they are not explored in depth, and the overall emphasis is on the book's content rather than on how organisations can enhance their adaptability and responsiveness.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -391,11 +403,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Application Lifecycle Management (ALM) and highlights features and methodologies related to software design and deployment, making it a significant secondary theme. However, the primary focus is on the book's publication and author experiences rather than detailed technical practices.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the author's experience in writing a book about Application Lifecycle Management (ALM) with Visual Studio 2013. While it touches on some technical aspects of ALM and mentions methodologies like Agile and Scrum, the discussion lacks depth in exploring best practices, principles of clean code, or specific techniques for improving code quality. The emphasis is more on the author's journey and the book's features rather than a thorough examination of technical mastery in software craftsmanship.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -472,12 +487,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Agile Software Development processes and reflects on the transition to Scrum within Microsoft's Application Lifecycle Management, indicating Agile practices but does not primarily focus on Agile Planning methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile methodologies in the context of Application Lifecycle Management (ALM) and discusses the transition from MSF for Agile Software Development to Scrum templates in Visual Studio. However, it lacks a focused discussion on Agile Planning principles, techniques, or practices. The references to Agile are secondary to the overall topic of ALM and do not provide in-depth exploration of Agile Planning concepts.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -499,12 +517,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content mainly discusses a book on Application Lifecycle Management and its features, it briefly touches upon themes of streamlining software design and deployment processes, which are relevant to operational practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the Professional Application Lifecycle Management (ALM) with Visual Studio 2013, which touches on operational practices in software development. However, it primarily focuses on the book's creation and features rather than providing in-depth strategies or techniques for enhancing operational efficiency. While there are mentions of streamlining software design and deployment, the discussion lacks detailed exploration of methodologies like Agile or DevOps, which are central to the category. Therefore, the content aligns with the category but does not delve deeply into operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -544,12 +565,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies and principles related to Visual Studio, making it relevant to Agile Transformation but is primarily focused on Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile methodologies in the context of Microsoft's Application Lifecycle Management (ALM) tools, specifically referencing the MSF for Agile Software Development and the Visual Studio Scrum template. However, the primary focus is on the book's production and the features of Visual Studio 2013 rather than a comprehensive discussion on Agile transformation strategies or practices. The alignment with Agile transformation principles is minimal, and the depth of discussion does not provide substantial insights into the category.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -610,12 +634,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Agile Software Development and discusses the changes related to agile methodologies in the context of Application Lifecycle Management, but it is primarily about a book release and does not focus solely on Agile Project Management.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Agile methodologies in the context of Visual Studio and its Application Lifecycle Management (ALM) tools. However, it primarily focuses on the book's production and features rather than providing a detailed discussion on Agile Project Management principles, frameworks, or practices. The mention of the MSF for Agile Software Development template and the transition to Scrum in TFS indicates some relevance, but it lacks depth and a primary focus on Agile Project Management as defined in the category.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -637,12 +664,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes a mention of 'new chapters on Git' which relates to version control and source control practices, but the primary focus is on Application Lifecycle Management and overall software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Git and discusses Application Lifecycle Management (ALM) in the context of Visual Studio 2013, but it primarily focuses on the overall ALM process rather than specific modern source control practices. While there are references to collaboration and methodologies, the depth of discussion on version control systems and related practices is limited.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -700,7 +730,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T14:56:17",
+    "calculated_at": "2025-03-15T04:32:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -708,7 +738,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions the release of a book and discusses updates in the context of Application Lifecycle Management (ALM) but does not focus on the principles or practices of Frequent Releases in software development. While it touches on new features and updates, it lacks a detailed exploration of continuous delivery, deployment strategies, or the role of DevOps, which are central to the category of Frequent Releases.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -757,7 +787,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T14:50:06",
+    "calculated_at": "2025-03-15T04:32:15",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -765,7 +795,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the application lifecycle management (ALM) in the context of Visual Studio 2013, which touches on aspects of software development practices. However, it primarily focuses on the book's production and the features of ALM tools rather than delving deeply into engineering excellence principles, best practices, or continuous improvement processes. While there are mentions of methodologies and tools that could relate to engineering excellence, the discussion lacks depth and does not explicitly promote high standards in software craftsmanship.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -805,12 +835,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses application lifecycle management in the context of Visual Studio and mentions Agile and Scrum, making it relevant to pragmatic thinking, though the main focus is on the book's publication and features rather than a deep dive into pragmatic problem-solving strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the practical application of Application Lifecycle Management (ALM) with Visual Studio 2013, touching on Agile methodologies and the transition from MSF to Scrum templates. However, while it mentions Agile and provides some insights into practical tools and methodologies, the primary focus is on the book's production and features rather than a deep exploration of pragmatic problem-solving strategies or real-world applications in Agile or DevOps contexts.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -886,11 +919,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses software development tools and methodologies, including ALM, but focuses more on the publication of a book rather than a comprehensive discussion on working software itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the Application Lifecycle Management (ALM) with Visual Studio 2013, which relates to the delivery of functional software. However, it primarily focuses on the book's production and features rather than directly addressing the characteristics of working software or best practices in Agile and Scrum. While there are mentions of Agile methodologies and the importance of tools in software development, the depth of discussion on working software itself is limited.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -976,11 +1012,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content briefly mentions release management as part of the broader topic of Application Lifecycle Management (ALM), but the primary focus is on the book and its features rather than on specific release management practices.",
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions 'Release Management' in the context of a book about Application Lifecycle Management (ALM) but does not delve into the specific strategies, practices, or metrics associated with release management. While it touches on the importance of ALM tools and methodologies, the discussion lacks depth and focus on the release process itself, making it secondary rather than a primary focus.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -1048,12 +1087,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses application lifecycle management and tools that enhance agility and collaboration in software development, which are related to digital transformation initiatives, but it primarily focuses on a specific software product rather than a strategic overview of digital transformation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the publication of a book about Application Lifecycle Management (ALM) with Visual Studio 2013, which is more about software development practices than digital transformation. While it mentions agility and the use of modern tools, it does not explicitly discuss the strategic adoption of digital technologies for business transformation. The depth of discussion on ALM tools and methodologies is present, but it lacks a clear connection to broader themes of digital transformation, such as organisational culture or change management.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1138,12 +1180,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:41",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly mentions aspects of deployment and streamlining software design and deployment processes, but it primarily focuses on the publication and features of a book about Application Lifecycle Management, rather than providing detailed discussion on specific deployment strategies.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses the publication of a book on Application Lifecycle Management (ALM) with Visual Studio 2013, focusing on the authors' experiences and the features of the ALM tools. While it briefly mentions 'streamline software design and deployment', it lacks specific discussions on deployment strategies such as Blue-Green Deployments, Canary Releases, or other methodologies outlined in the category definition. The content does not provide actionable insights or detailed exploration of deployment strategies, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1249,12 +1294,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) in the context of Visual Studio 2013, which is related to development practices. While it touches on Agile methodologies and the evolution of tools that might influence engineering practices, the primary focus is on the book's production and ALM features rather than in-depth discussions of core engineering practices such as clean code, TDD, or CI/CD.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the publication of a book on Application Lifecycle Management (ALM) with Visual Studio 2013, which is more focused on project management and tools rather than core engineering practices. While it briefly mentions Agile methodologies and the transition to Scrum templates, these are not the main focus of the content. The discussion lacks depth in terms of clean code, TDD, CI/CD, or other specific engineering practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1294,21 +1342,24 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:32:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Agile Software Development and Scrum in the context of Visual Studio and Application Lifecycle Management, but it primarily focuses on the features and functionalities of Visual Studio 2013 rather than deeply exploring Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Agile methodologies in the context of Microsoft's Application Lifecycle Management (ALM) tools, specifically referencing the MSF for Agile Software Development template and the Visual Studio Scrum template. However, the primary focus is on the book's production and the features of Visual Studio 2013 rather than a thorough exploration of Agile frameworks. The discussion lacks depth and does not provide a comprehensive analysis or case studies related to Agile frameworks, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:50",
+    "calculated_at": "2025-03-15T04:32:15",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content mainly discusses the development and publication of a book on Application Lifecycle Management (ALM) with a brief mention of Agile principles. However, it does not focus on Agile Strategy as a central theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1393,7 +1444,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T14:44:47",
+    "calculated_at": "2025-03-15T04:32:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1401,7 +1452,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile methodologies and the transition from MSF for Agile Software Development to Scrum templates in Visual Studio, indicating some relevance to Social Technologies. However, the primary focus is on the book's production and features of Visual Studio 2013 rather than a detailed discussion of Scrum, Kanban, Lean, or Agile practices. The alignment with core themes is limited, and the depth of discussion on Social Technologies is minimal.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1423,7 +1474,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:37:18",
+    "calculated_at": "2025-03-15T04:32:15",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1431,6 +1482,6 @@
     "non_ai_confidence": 50,
     "final_score": 28.0,
     "reasoning": "The content briefly mentions Scrum in the context of Visual Studio and its templates, but it does not delve into Scrum principles, roles, or practices in detail. The discussion is primarily focused on Application Lifecycle Management (ALM) rather than Scrum itself, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

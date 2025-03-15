@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/E2OBcBqZGoA/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
-- People and Process
-- Value Delivery
 - Beta Codex
+- People and Process
+- Team Motivation
+- Organisational Culture
+- Pragmatic Thinking
+- Value Delivery
+- Team Collaboration
 - Organisational Agility
 - Organisational Change
 - Business Agility
-- Enterprise Agility
-- Agile Leadership
-- Agile Philosophy
-- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

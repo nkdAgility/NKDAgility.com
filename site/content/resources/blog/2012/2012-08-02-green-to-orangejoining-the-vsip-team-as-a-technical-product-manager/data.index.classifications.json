@@ -1,7 +1,7 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T16:53:54",
+    "calculated_at": "2025-03-15T05:49:47",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -9,16 +9,19 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions the role of a Technical Product Manager and discusses opportunities for collaboration and product extensibility within the Visual Studio ecosystem. However, it lacks a direct focus on Agile methodologies, product backlog prioritisation, or stakeholder engagement, which are core themes of Agile Product Management. The discussion is more centred on technical aspects and personal experiences rather than Agile principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses opportunities for partners to extend Visual Studio and the creation of a new taxonomy for categorising partners, which relates to practical tooling and methodologies in the context of Visual Studio. However, the primary focus is on the author's new role and experiences rather than a detailed exploration of specific techniques or tools.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the author's new role in the Visual Studio Industry Partner Program and mentions opportunities for partners to extend Visual Studio, which aligns with tooling. However, it lacks a detailed exploration of specific methodologies or frameworks, and the focus is more on personal experience rather than practical techniques or tooling application.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -49,11 +52,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses opportunities for partners to extend Visual Studio and the importance of understanding gaps in extensibility, which relates to learning and adapting in product development. However, the primary focus is on the author's new role and responsibilities rather than a broader exploration of discovery and learning methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the author's new role as a Technical Product Manager and touches on opportunities for collaboration and growth within the Visual Studio ecosystem. While there are mentions of understanding partner needs and defining a new taxonomy, the primary focus is on the author's personal career transition rather than on broader themes of discovery and learning. The content lacks depth in discussing methodologies or processes that foster innovation or continuous learning, which are central to the category.",
     "level": "Tertiary"
   },
   "AI and Automation in Agility": {
@@ -121,7 +127,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:54:40",
+    "calculated_at": "2025-03-15T05:49:47",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -129,7 +135,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program, focusing on collaboration and extensibility opportunities. While there are mentions of collaboration and integration, which are relevant to DevOps, the content lacks a direct focus on DevOps principles, practices, or tools. The discussion is more centred on product management and partner relationships rather than the core themes of DevOps such as CI/CD, automation, or cultural shifts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -169,12 +175,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the author's transition into a Technical Product Manager role and touches on collaboration with the VSIP team and Product Teams, indicating a focus on team dynamics and process improvement, but it is primarily about the author's personal career journey.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the author's transition into a Technical Product Manager role and highlights the importance of collaboration with the Visual Studio Product Team and partners. It touches on team dynamics and the need for effective communication and understanding of partner needs, which aligns with the category. However, the focus is more on personal experience and specific tasks rather than a comprehensive exploration of team processes or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -214,7 +223,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T18:43:33",
+    "calculated_at": "2025-03-15T05:49:47",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -222,7 +231,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the author's new role as a Technical Product Manager and their responsibilities related to the Visual Studio Industry Partner Program. While there are mentions of opportunities for partners to extend Visual Studio and the need for better integration, the focus is more on the role and personal growth rather than on specific engineering practices or methodologies that enhance technical excellence. The discussion lacks depth in terms of technical practices like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -244,12 +253,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Technical Product Manager and the integration of partners with Visual Studio, which relates to product delivery, but it primarily focuses on personal experiences and opportunities rather than the methodologies and practices of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the author's new role as a Technical Product Manager and touches on opportunities for partners to extend Visual Studio, which relates to product delivery. However, it lacks a detailed exploration of methodologies, practices, or frameworks that are central to the product delivery category. The focus is more on personal experience and specific tasks rather than a comprehensive discussion on product delivery principles.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -328,39 +340,51 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Technical Product Manager and touches on product management and collaboration with product teams, which aligns with the Agile Product Operating Model as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program, focusing on opportunities for partners and extensibility of Visual Studio. While it touches on aspects of product management and collaboration, it lacks a direct discussion of Agile principles, product-centric development, or the Agile Product Operating Model. The mention of working with product teams and defining a taxonomy hints at some alignment with Agile concepts, but the overall focus is more on technical integration and personal career development rather than a comprehensive exploration of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses opportunities for collaboration and growth within the Visual Studio ecosystem, which aligns with themes of organisational agility, but it primarily focuses on the author's new role and responsibilities rather than a comprehensive exploration of agility principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the role of a Technical Product Manager and mentions opportunities for partners and extensibility within Visual Studio, which could imply a level of organisational agility. However, it lacks a direct focus on agile methodologies, leadership roles in fostering agility, or detailed discussions on cultural shifts. The content primarily centres around personal career development and specific tasks rather than broader organisational strategies or frameworks that enhance agility.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program, which relates to industry updates and opportunities for collaboration in the technology sector. However, it primarily focuses on personal experiences and insights rather than broader industry news or reviews.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program. While it mentions opportunities for partners and discusses the extensibility of Visual Studio, it lacks a broader context of industry news or reviews. The discussion is more personal and anecdotal rather than providing insights or evaluations relevant to Agile, DevOps, or technology trends. Therefore, while there are elements that touch on the category, they are not the primary focus.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:49:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Technical Product Manager in relation to the Visual Studio Industry Partner Program, touching on aspects of application extensibility and collaboration, which are relevant to Application Lifecycle Management. However, the primary focus is on the author's new role and experiences rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program, highlighting opportunities for partners and extensibility within Visual Studio. While it mentions ALM (Application Lifecycle Management) and the author's experience as an ALM Consultant, the primary focus is on the role and collaboration with partners rather than a comprehensive discussion of the application lifecycle stages or management practices. The content does touch on aspects of governance and collaboration, but lacks depth in discussing the full lifecycle management processes, thus resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -382,12 +406,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses opportunities for extending Visual Studio, which aligns with technical practices and software craftsmanship principles. However, the primary focus is on the role of a Technical Product Manager and the associated tasks, making it a secondary theme rather than the main focus.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the author's new role as a Technical Product Manager and their responsibilities related to the Visual Studio Industry Partner Program. While there are mentions of opportunities for partners to extend Visual Studio and the importance of understanding extensibility points, the focus is more on the role and personal growth rather than on best practices, principles, or methodologies that contribute to software craftsmanship. The discussion lacks depth in technical practices and does not provide substantial insights into software engineering excellence, thus leading to a lower confidence score in the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -409,12 +436,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:49:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the development of a new taxonomy related to Visual Studio partnerships and the role of the author as a Technical Product Manager, hinting at goals such as growth and better alignment with partner needs. However, it is primarily focused on personal transition and operational roles rather than clearly defined long-term strategic objectives.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the author's new role and responsibilities within the Visual Studio Industry Partner Program, discussing opportunities for partners and the extensibility of Visual Studio. While there are mentions of a new taxonomy and a roadmap, the discussion lacks a clear articulation of long-term strategic goals or alignment with agile principles. The content is more operational in nature, detailing specific tasks rather than overarching strategic objectives.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -517,12 +547,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses strategies for defining and understanding partner roles and gaps within the Visual Studio ecosystem, which aligns with strategic planning in a product management context. However, it primarily focuses on personal experience and tasks rather than broader strategic concepts.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses the author's new role and responsibilities as a Technical Product Manager within the Visual Studio Industry Partner Program. While there are mentions of strategy in the context of defining a new taxonomy for partners, the overall focus is more on personal career development and specific tasks rather than a comprehensive discussion of strategic approaches within Agile, Scrum, or DevOps frameworks. The alignment with the core themes of the Strategy category is limited, and the depth of discussion on strategic concepts is minimal.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -589,21 +622,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:49:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the author's role as a Technical Product Manager within the Visual Studio Industry Partner Program, which involves opportunities for developing and extending Visual Studio, a software development environment. While the content touches on software development practices, it mainly focuses on the author's career transition and role responsibilities rather than in-depth software development methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program, which involves collaboration with software development partners and the extensibility of Visual Studio. While it touches on relevant software development themes, such as product management and collaboration, it lacks a deep focus on specific software development methodologies or practices. The mention of defining a new taxonomy for partners indicates some alignment with software development processes, but the overall discussion is more about the author's personal career transition and less about concrete software development practices.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a transition to a role related to product management and discusses aspects related to collaboration with product teams, which aligns with agile principles but does not primarily focus on Agile Project Management or its methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on the role of a Technical Product Manager and mentions collaboration with Product Teams, which aligns with agile principles. However, it lacks a detailed discussion on agile methodologies, frameworks, or specific practices related to Agile Project Management, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -616,12 +655,12 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:09:05",
+    "calculated_at": "2025-03-15T05:49:47",
     "ai_confidence": 25,
     "non_ai_confidence": 20,
     "final_score": 24.0,
     "reasoning": "While the content mentions the author's transition to a Professional Scrum Trainer, the primary focus is on their new role as a Technical Product Manager and the opportunities with the Visual Studio Industry Partner Program, which deviates from core Scrum discussions.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -742,7 +781,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:54:52",
+    "calculated_at": "2025-03-15T05:49:47",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -750,7 +789,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program, focusing on collaboration and extensibility opportunities. While it touches on aspects of software development and product management, it lacks a direct emphasis on engineering excellence principles, best practices, or continuous improvement in engineering processes. The discussion is more about the role and responsibilities rather than promoting high standards in software craftsmanship or development practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -772,12 +811,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role and dynamics within a technical team and partner ecosystem related to Visual Studio, indicating some elements of organisational structure and collaboration but primarily focuses on individual roles and experiences.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the author's new role and responsibilities within the Visual Studio Industry Partner Program, focusing on technical product management and collaboration with partners. While there are elements of organisational dynamics, such as the mention of taxonomy and collaboration, the discussion lacks a strong emphasis on systems thinking principles or a holistic view of organisational behaviour. The content does not delve deeply into the interplay of organisational structure, culture, or processes, which are key aspects of Organisational Physics.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -811,12 +853,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the author's new role and responsibilities that involve leveraging opportunities for partners and extending Visual Studio, which relates to innovation. However, the primary focus is more on the author's career transition and specific tasks than on systematic innovation practices or empirical data, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses opportunities for partners to extend Visual Studio and mentions the need for a new taxonomy to better understand partner capabilities, which aligns with the concept of innovation. However, it lacks a strong focus on empirical data or Evidence-Based Management principles, and the discussion is more about personal career development and specific tasks rather than a comprehensive exploration of innovation capabilities.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -874,12 +919,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses opportunities for partners to extend Visual Studio and mentions the importance of extensibility points in delivering developer tools, which aligns with themes of working software. However, the primary focus seems to be on the author's new role and experiences rather than on delivering functional software directly.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the author's new role and responsibilities within the Visual Studio Industry Partner Program, focusing on opportunities for partners and extensibility within Visual Studio. While it touches on aspects of software development and collaboration, it lacks a direct focus on the delivery of functional, high-quality software that meets customer needs. The discussion is more about roles and opportunities rather than the characteristics or practices of working software as defined in Agile and Scrum frameworks.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -973,7 +1021,7 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-11T18:05:20",
+    "calculated_at": "2025-03-15T05:49:47",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -981,7 +1029,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the author's new role as a Technical Product Manager, which is related to product management but does not specifically address the responsibilities or practices of a Product Owner in Agile or Scrum. While there are mentions of working with product teams and understanding partner needs, the focus is more on technical aspects and collaboration rather than on the core responsibilities of a Product Owner, such as backlog management or stakeholder engagement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1042,12 +1090,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:49:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses opportunities for partners to extend Visual Studio and the integration of digital tools, which aligns with digital transformation themes, but it primarily focuses on individual role changes and specific organizational collaborations rather than a broad strategic adoption of digital technologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the author's new role and responsibilities within the Visual Studio Industry Partner Program, focusing on opportunities for partners and extensibility within Visual Studio. While there are elements that touch on collaboration and growth within a digital ecosystem, the discussion lacks a direct focus on broader digital transformation strategies, metrics, or case studies. The content is more about personal career development and specific technical roles rather than the strategic adoption of digital technologies for business transformation.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1078,16 +1129,19 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:50:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of product management and opportunities for extending the Visual Studio product, though it primarily focuses on personal experiences and role transition rather than in-depth product strategy methodologies.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the author's new role as a Technical Product Manager and touches on opportunities for partners to extend Visual Studio, which hints at product strategy. However, it primarily focuses on personal experiences and technical aspects rather than a comprehensive exploration of product strategy methodologies or frameworks. The mention of a roadmap and taxonomy indicates some alignment with product strategy, but the depth of discussion is limited and lacks a broader strategic context.",
     "level": "Tertiary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T15:03:51",
+    "calculated_at": "2025-03-15T05:49:47",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1095,7 +1149,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the role of a Technical Product Manager and mentions collaboration with the Product Team, but it lacks a focused discussion on technical leadership principles, agile methodologies, or team dynamics. The primary emphasis is on personal career transition and specific tasks rather than on guiding teams or fostering collaboration in an agile context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1108,12 +1162,12 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T09:09:05",
+    "calculated_at": "2025-03-15T05:49:47",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "While the content discusses working in a team and collaboration with different product teams, it primarily focuses on the author's role and responsibilities as a Technical Product Manager in the Visual Studio Industry Partner Program, rather than specifically addressing the concept of cross-functional teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -1228,7 +1282,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T12:54:58",
+    "calculated_at": "2025-03-15T05:49:47",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1236,7 +1290,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the author's new role as a Technical Product Manager within the Visual Studio Industry Partner Program, focusing on opportunities for partners and extensibility of Visual Studio. While it touches on aspects relevant to software development, such as collaboration and tools, it lacks a direct focus on Agile or DevOps methodologies. The discussion is more about product management and partner engagement rather than the role of software developers in Agile and DevOps contexts, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1306,12 +1360,12 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:05",
+    "calculated_at": "2025-03-15T05:49:47",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "While the content discusses roles and opportunities in product management and collaboration, it primarily focuses on technical aspects and integrations with Visual Studio, lacking a clear primary focus on Agile strategy implementation or principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1387,7 +1441,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T18:43:29",
+    "calculated_at": "2025-03-15T05:49:47",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1395,7 +1449,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions collaboration and the role of a Technical Product Manager, which aligns with the themes of Social Technologies. However, it lacks detailed discussion on specific frameworks like Scrum or Agile practices, and the focus is more on personal career development and the Visual Studio ecosystem rather than on methodologies that enhance team dynamics or continuous improvement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1426,7 +1480,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:44:25",
+    "calculated_at": "2025-03-15T05:49:47",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1434,6 +1488,6 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content briefly mentions the author's transition to a Professional Scrum Trainer, indicating some connection to Scrum principles. However, the primary focus is on the author's new role in the Visual Studio Industry Partner Program and opportunities for collaboration, which does not align closely with the core themes of Scrum. The discussion lacks depth regarding Scrum practices, roles, or events, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

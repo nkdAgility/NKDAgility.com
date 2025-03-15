@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:31:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and SharePoint, which involves aspects of internal developer platforms and tools that can enhance developer productivity. However, it focuses more on the upgrade process rather than the broader principles of platform engineering.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS) and SharePoint, which includes aspects of internal developer platforms and tools that can enhance developer productivity. However, while it touches on relevant topics such as process templates and automation, it lacks a comprehensive discussion on the principles of platform engineering and does not delve deeply into the broader themes of internal developer platforms or their components. The mention of Scrum for Team System indicates a connection to developer productivity, but the overall focus is more on migration and upgrade processes rather than on platform engineering as a discipline.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -40,12 +43,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:32:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the upgrade process of software systems, including Team Foundation Server and SharePoint, which involves considerations of code quality and complexity in managing large data migrations and process template upgrades. However, the primary focus is on the upgrade steps rather than a deep exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server and SharePoint, detailing specific steps and commands. While it touches on aspects of software development and project management, it lacks a deep exploration of code quality principles, complexity theory, or best practices in coding and architecture. The discussions are more procedural and operational rather than theoretical or conceptual, leading to a lower confidence score in the 'Code and Complexity' category.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -172,12 +178,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:32:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the upgrade process of TFS and SharePoint, mentioning the need for team collaboration and decision-making regarding project templates, which indicates a secondary theme related to team dynamics and process adaptation.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading software and process templates, with limited discussion on team dynamics, collaboration, or human factors. While it mentions the need for teams to upgrade and adapt to new templates, it lacks a deeper exploration of how these changes impact team collaboration or communication. The technical details overshadow any potential insights into the people and process aspects.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -466,12 +475,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:31:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content mainly discusses the migration of Team Foundation Server and process templates, it includes multiple references to work item types like Product Backlog Item and Sprint Backlog Item, making backlog management a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server and SharePoint, with only brief mentions of Scrum and process templates. While it touches on the concept of work item types, including 'Product Backlog Item', it lacks a comprehensive discussion on the Product Backlog's definition, purpose, or management strategies within Agile frameworks. The depth of discussion on backlog-related topics is minimal, leading to a low confidence score for alignment with the 'Product Backlog' category.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -514,12 +526,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:31:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the upgrade of the Scrum for Team System process templates, which relates to aspects of the Scrum framework. However, the primary focus is on technical migration and setup processes rather than the dynamics and collaboration within a Scrum Team.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and SharePoint, with only brief mentions of the Scrum for Team System process templates. While it references Scrum, it does not delve into the dynamics, roles, or collaboration aspects of a Scrum Team, which are central to the category. The discussion lacks depth in exploring team interactions or practices that contribute to a high-performing Scrum Team.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -532,12 +547,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:32:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading Scrum process templates within the context of Team Foundation Server, which relates to the application of strategic planning and execution in Agile environments. However, it primarily focuses on technical migration procedures rather than high-level strategic discussions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server and SharePoint, with detailed steps and commands. While it touches on the Scrum for Team System process templates, it lacks a comprehensive discussion on strategic alignment, value-driven approaches, or techniques for optimising delivery and enhancing team performance, which are core themes of the Strategy category. The depth of discussion is more technical than strategic, leading to a low confidence score in the Strategy classification.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -550,12 +568,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:32:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses upgrading from Scrum for Team System v2 to v3 and involves aspects of transitioning Agile practices within Team Foundation Server, which is relevant to Agile Transformation. However, the primary focus is on technical migration rather than a broader strategy for Agile cultural change.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server and SharePoint, with some references to the Scrum for Team System process template. While it mentions Scrum, it lacks a comprehensive discussion on Agile transformation principles, methodologies, or change management strategies. The depth of discussion is more about technical migration steps rather than the broader themes of Agile transformation.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -616,12 +637,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T23:10:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:31:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses upgrading Team Foundation Server and the Scrum for Team System process templates, which are aligned with Agile methodologies, focusing on Scrum specifically.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses the upgrade process of Scrum for Team System (SfTS) templates, which is related to Agile methodologies. However, it primarily focuses on technical aspects of upgrading software rather than exploring Agile principles, frameworks, or practices in depth. While there are mentions of Scrum, the overall discussion lacks a comprehensive exploration of Agile project management concepts, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -634,20 +658,26 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:31:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content primarily deals with the upgrade process of Scrum for Team System (SfTS) templates, indicating a focus on a Scrum implementation context within a technical upgrade narrative.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the upgrade process of Scrum for Team System templates, which is related to Scrum practices. However, it primarily focuses on technical aspects of upgrading software rather than exploring Scrum principles, roles, or values in depth. The mention of Scrum is limited and does not provide a comprehensive discussion on the core themes of Professional Scrum.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T23:10:04",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T06:31:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content primarily discusses the upgrade process for Team Foundation Server (TFS) and Scrum for Team System, which involves aspects related to source control practices, though it is heavily focused on upgrades and integration with SharePoint rather than modern source control methodologies and best practices.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on upgrading Team Foundation Server (TFS) and SharePoint, which are closely related to modern source control practices. It discusses specific processes, commands, and methodologies for managing version control systems, particularly in the context of TFS. The content includes detailed steps for upgrading, migrating data, and managing work item types, which are essential aspects of source control. However, while it touches on relevant topics, it does not delve deeply into broader best practices or methodologies of modern source control, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -670,12 +700,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:32:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses upgrading Team Foundation Server and Scrum for Team System process templates, which relates to Azure Boards as they are part of the Azure DevOps suite. However, the focus is more on the upgrade processes rather than the functionalities and best practices of Azure Boards within Agile project management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the upgrade process from TFS 2008 to TFS 2010, including the migration of process templates and SharePoint integration. While it touches on aspects related to Scrum for Team System, it lacks a focused discussion on Azure Boards' functionalities, best practices, or Agile project management principles. The mention of work item types and process templates is relevant but does not delve into the broader context of Azure Boards as a tool for managing Agile projects.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -724,12 +757,15 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:31:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade process for Scrum for Team System (SfTS) templates and how it relates to Team Foundation Server (TFS), indicating a focus on Scrum within a larger project management context, though it primarily revolves around technical tasks rather than scaling frameworks or processes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server and SharePoint, with some references to the Scrum for Team System process templates. While it mentions the upgrade from SfTSv2 to SfTSv3, it lacks a broader discussion on scaling Scrum principles, frameworks, or challenges associated with managing multiple teams or projects. The depth of discussion on Scrum is limited to the upgrade process rather than exploring scaling practices in a large organisational context.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -808,11 +844,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T23:10:05",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T06:31:24",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses practical approaches to upgrade and transition processes within Team Foundation Server and SharePoint, specifically focusing on Scrum for Team System. It emphasizes real-world problem-solving strategies, adaptation to complexities in project management, and offers detailed procedural steps that align with Agile principles.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed, practical guide on upgrading from TFS 2008 to TFS 2010, focusing on real-world applications of Agile and Scrum principles. It discusses specific problem-solving strategies, such as data migration and process template upgrades, which align closely with pragmatic thinking. The depth of discussion is significant, with step-by-step instructions and troubleshooting tips, demonstrating a strong alignment with the category's emphasis on practical, experience-based problem-solving in complex environments.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -835,21 +874,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T23:10:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:31:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the upgrade process of Scrum for Team System templates, which is integral to managing product development within a Scrum framework.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the upgrade process of Scrum for Team System templates, which is relevant to Scrum practices. However, it primarily focuses on technical aspects of migration and server upgrades rather than the broader principles of Scrum product development, such as iterative development or customer feedback integration.",
     "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T23:10:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:31:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process for Team Foundation Server (TFS) and the Scrum for Team System (SfTS) process templates, focusing on the transition from an individual project setup to a more structured enterprise-level agile process. It details methodologies related to Scrum and Agile practices in a scaled context, including reference to multiple teams and the support of Agile transformations at the enterprise level.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and the Scrum for Team System templates, which are relevant to Agile practices. However, it lacks a broader discussion on scaling Agile across multiple teams or enterprise-level strategies. While it mentions Scrum and the upgrade of process templates, it does not delve into frameworks for scaling Agile or the coordination among multiple teams, which are key aspects of the Scaled Agile category.",
+    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -889,11 +934,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T23:10:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:31:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server which is closely tied to the delivery of functional software. It addresses steps involved in upgrading process templates, ensuring software quality, and maintaining alignment with Agile practices, which aligns with the themes of working software.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server and SharePoint, detailing specific steps and challenges encountered during the migration. It discusses the importance of maintaining functional software through upgrades, which aligns with the concept of working software. However, while it touches on aspects of software quality and functionality, it lacks a broader discussion on best practices or customer feedback integration, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -979,11 +1027,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T23:10:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:31:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses heavily on the upgrade process of TFS 2008 to TFS 2010, which is a significant aspect of release management in the context of software delivery. It discusses strategies for managing the migration of process templates, coordinating the upgrade activities, and addressing risks and issues associated with the release. This aligns well with the release management category.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server and SharePoint, which is a critical aspect of release management. It discusses version control, migration strategies, and the coordination required for successful upgrades, aligning well with the core themes of release management. The depth of discussion is substantial, providing detailed steps and considerations for the upgrade process, which is essential for ensuring reliable and efficient software delivery.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1024,12 +1075,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:31:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses upgrading software systems and templates related to Team Foundation Server and SharePoint, which is more focused on technical upgrade processes than on strategic change management principles or cultivating organizational change aligned with Agile practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading software systems, specifically Team Foundation Server and SharePoint, rather than discussing change management principles or strategies. While it does mention the need for upgrades and some implications for team projects, it lacks a thorough exploration of change management concepts such as stakeholder engagement, leadership roles, or cultural adaptability. The discussion is more about technical migration processes than about managing change effectively within an organisation.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -1051,12 +1105,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:32:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server and SharePoint as part of a process that presents opportunities for improved processes and operational efficiency, aligning with themes of digital transformation.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading software systems (TFS and SharePoint) rather than discussing the strategic adoption of digital technologies for business transformation. While it does touch on aspects of process improvement and migration, it lacks a broader discussion on how these upgrades enhance business agility, foster innovation, or improve operational efficiency. The content is more of a technical guide than a strategic overview of digital transformation.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1078,12 +1135,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T23:10:06",
-    "ai_confidence": 100,
+    "calculated_at": "2025-03-15T06:31:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 92.0,
-    "reasoning": "The content primarily discusses the upgrade and configuration processes of Team Foundation Server and SharePoint, detailing various technical steps involved in system setup, including software installations, configurations, and best practices for managing system updates. It thoroughly explores methodologies required for system configuration and optimization, aligning directly with the definition of the category.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content provides a detailed guide on upgrading Team Foundation Server and SharePoint, which directly relates to system configuration. It discusses specific steps for software installation, configuration management, and troubleshooting issues encountered during the upgrade process. The depth of discussion is significant, covering various aspects of the upgrade, including data migration, authentication settings, and the installation of new process templates. The content aligns well with the key topics of system configuration, demonstrating a strong focus on practical configuration methodologies.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1132,21 +1192,27 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T23:10:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:31:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses upgrading Windows SharePoint Services 2007 to SharePoint Foundation 2010 and the related processes, which is closely tied to the Windows environment and requires Windows configuration and management knowledge.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on upgrading Windows SharePoint Services and Team Foundation Server, which are integral components of the Windows ecosystem. It discusses installation procedures, troubleshooting, and configuration settings specific to Windows environments. The depth of discussion is substantial, providing detailed steps and commands related to Windows software, thus aligning well with the Windows category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:32:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade process of Team Foundation Server and SharePoint, touching on aspects of deployment, migration, and implementation of process templates, indicating that deployment strategies are a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server and SharePoint, detailing steps and commands for migration rather than discussing deployment strategies. While it touches on aspects of deployment, such as upgrading and integrating systems, it lacks a direct focus on methodologies like Blue-Green Deployments or Canary Releases, which are central to the category of Deployment Strategies.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1186,12 +1252,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T23:10:06",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T06:31:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content focuses extensively on upgrading software systems, including Team Foundation Server and SharePoint, while highlighting various technical issues encountered during the process. It offers specific troubleshooting steps, techniques for resolving identified problems, and methodologies for effective upgrades, making troubleshooting the central theme.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on troubleshooting issues encountered during the upgrade process from TFS 2008 and WSS v3.0 to TFS 2010 and SF 2010. It explicitly discusses various problems, such as SharePoint authentication issues, missing features, and errors during the upgrade process, along with step-by-step resolutions. The depth of discussion is significant, covering multiple troubleshooting techniques and specific commands to resolve issues, which aligns well with the core themes of the Troubleshooting category.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1231,11 +1300,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T23:10:06",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T06:31:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server and Scrum for Team System templates, focusing on software development and project management methodologies within Agile contexts. It details steps involving software tools related to Agile practices, making it central to the role of software developers.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server and SharePoint, which is relevant to software developers, particularly those working with Agile methodologies and Scrum. It discusses specific tools and processes that developers would use, such as the Scrum for Team System templates and TFS commands. However, while it touches on Agile practices, it lacks a broader discussion on best practices, team dynamics, or the integration of DevOps principles, which slightly lowers the alignment score. The depth of technical detail provided is substantial, indicating a strong focus on the developer's role in the upgrade process.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,12 +1321,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:31:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 7,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrades and process changes related to Team Foundation Server and Scrum for Team System, which are relevant to engineering practices in the context of Agile software development. However, it focuses more on the upgrade process rather than directly on Agile engineering practices such as clean code, TDD, or CI/CD.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server and SharePoint, with some references to process templates and migration strategies. While it touches on Agile methodologies through the mention of Scrum for Team System, it lacks a strong emphasis on core engineering practices such as clean code, TDD, CI/CD, or automation. The discussion is more about the upgrade process rather than the principles of Agile engineering practices, leading to a low confidence score in this category.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1294,21 +1369,24 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T23:10:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:31:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of the Scrum for Team System (SfTS) framework, specifically transitioning from SfTSv2 to SfTSv3, along with the associated operational implications within Team Foundation Server and SharePoint. This indicates a focused exploration of an Agile framework in a specific context.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the upgrade process of Scrum for Team System (SfTS) templates, which is a specific Agile framework. It provides detailed steps and considerations for migrating from SfTSv2 to SfTSv3, indicating a focus on Agile practices. However, while it mentions Agile frameworks, the primary focus is on technical migration processes rather than a broader exploration or comparative analysis of Agile frameworks. Therefore, while there is significant mention and some alignment with Agile principles, the depth of discussion is more technical than conceptual.",
+    "level": "Tertiary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:13",
+    "calculated_at": "2025-03-15T06:31:04",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "The content primarily discusses technical aspects of upgrading TFS and Scrum templates, with limited focus on agile strategy concepts such as alignment of vision or implementation strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",

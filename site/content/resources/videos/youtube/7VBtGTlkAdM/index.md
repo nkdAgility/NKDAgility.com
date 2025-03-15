@@ -27,11 +27,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Philosophy
-- Pragmatic Thinking
-- Agile Values and Principles
-- People and Process
+tags: []
 resourceTypes:
 - video
 layout: video

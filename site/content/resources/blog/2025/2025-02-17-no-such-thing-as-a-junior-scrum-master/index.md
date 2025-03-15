@@ -5,7 +5,7 @@ ResourceId: f2RQh2UCwqB
 ResourceType: blog
 ResourceImport: false
 date: 2025-02-17T09:00:00
-weight: 225
+weight: 250
 AudioNative: true
 creator: Martin Hinshelwood
 Contributors:
@@ -22,16 +22,16 @@ aliasesArchive:
 - /there-is-no-such-thing-as-a--junior--scrum-master
 - /blog/there-is-no-such-thing-as-a--junior--scrum-master
 tags:
-- Accountability
-- Agile Project Management
 - Scrum Master
 - Scrum Team
+- Professional Scrum
+- Accountability
+- Technical Mastery
+- Agile Project Management
+- Scrum Product Development
+- Technical Leadership
 - People and Process
 - Software Development
-- Agile Product Management
-- Professional Scrum
-- Scrum Product Development
-- Team Performance
 categories:
 - Scrum
 - Social Technologies

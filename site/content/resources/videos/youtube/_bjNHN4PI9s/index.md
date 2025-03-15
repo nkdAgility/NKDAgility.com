@@ -24,12 +24,9 @@ duration: 1496
 isShort: false
 tags:
 - Collaboration Tools
-- Install and Configuration
-- Events and Presentations
 - Practical Techniques and Tooling
+- Events and Presentations
 - Remote Working
-- Products and Books
-- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

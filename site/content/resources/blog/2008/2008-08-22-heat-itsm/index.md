@@ -24,10 +24,7 @@ aliasesArchive:
 - /resources/blog/heat-itsm
 tags:
 - Practical Techniques and Tooling
-- Software Development
-- Products and Books
-categories:
-- Engineering Excellence
+categories: []
 preview: metro-visual-studio-2005-128-link-4-4.png
 
 ---

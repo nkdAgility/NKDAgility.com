@@ -19,7 +19,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T15:05:14",
+    "calculated_at": "2025-03-14T21:10:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -27,7 +27,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the role of the Scrum Master in managing team conflict, which relates to leadership in an Agile context. However, it lacks a comprehensive discussion on leadership strategies, decision-making processes, or team dynamics. The focus is more on conflict management rather than broader leadership practices, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -85,7 +85,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-06T15:05:16",
+    "calculated_at": "2025-03-14T21:10:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -93,7 +93,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses team conflict and the role of the Scrum Master in managing disagreements, which aligns with personal experiences in Agile environments. However, it lacks explicit personal anecdotes or reflections, making it more of a general observation rather than a deeply personal insight.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -268,11 +268,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses team conflict in the context of Agile methodologies, mentioning the Scrum Master role and the importance of managing disagreements to maintain Agile harmony.",
+    "calculated_at": "2025-03-14T21:10:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master in managing team conflict, which is a key aspect of Agile Project Management. It aligns well with core themes such as collaboration, communication, and the importance of addressing conflict within Agile teams. The depth of discussion is significant, providing strategies for de-escalation and emphasising the importance of maintaining a collaborative environment, which are crucial for effective Agile practices.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -331,12 +334,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content touches on conflict resolution and the role of the Scrum Master, it primarily discusses team dynamics and disagreements rather than focusing on coaching practices or techniques. Coaching is a secondary theme as it implies the need for guidance but does not emphasize coaching methodologies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of a Scrum Master in managing team conflict, which aligns with coaching principles. It emphasises the importance of open communication and collaboration, key aspects of coaching. However, while it touches on coaching techniques, the primary focus is on conflict management rather than coaching itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
@@ -421,12 +427,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:41:26",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses team conflict, it touches on the role of the Scrum Master in managing disagreements, which aligns indirectly with mentoring in Agile environments. However, mentoring is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses conflict management within Agile teams, which indirectly relates to mentoring by highlighting the role of a Scrum Master in guiding team dynamics. However, it lacks explicit mentions of mentoring techniques or the development of leadership skills, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -469,12 +478,15 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team conflict and the importance of managing disagreements, which relates to the concept of psychological safety, but the primary focus is on conflict resolution rather than explicitly fostering a psychologically safe environment.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of open communication and creating a safe space for team members to express their thoughts, which aligns well with the concept of psychological safety. It provides strategies for de-escalating conflict and emphasises the need for a supportive culture, which are key aspects of fostering psychological safety. However, while the topic of conflict management is relevant, it is not the primary focus, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -568,7 +580,7 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-10T18:04:29",
+    "calculated_at": "2025-03-14T21:10:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -576,7 +588,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on team conflict and the importance of managing disagreements, which aligns with themes of group behaviour and conflict resolution. However, it primarily focuses on Agile practices and does not delve deeply into psychological principles or theories related to organisational behaviour. The discussion lacks substantial depth and does not explore the psychological implications of conflict or team dynamics in a comprehensive manner.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -703,12 +715,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team dynamics and conflict resolution within an agile framework, which links to the broader theme of social interactions impacting software development processes. However, it primarily focuses on conflict management rather than a comprehensive exploration of the sociotechnical systems concept.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses team dynamics and conflict resolution within an Agile framework, which aligns with sociotechnical systems by highlighting the interplay between social interactions and organisational practices. However, it lacks explicit references to broader organisational structures or the integration of technical aspects, which limits its depth and direct mention of the category.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -739,12 +754,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team conflict and the need for healthy disagreement, which aligns with the Scrum values of Openness and Respect. However, the primary focus appears to be on the consequences of conflict rather than a direct discussion of Scrum values.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses team conflict and strategies for de-escalation, which indirectly relates to Scrum Values such as Openness and Respect. However, it does not explicitly mention the Scrum Values or provide in-depth analysis of them. The focus is more on conflict management rather than the values themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -787,12 +805,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses team dynamics within an Agile context, particularly related to conflict resolution, which is a relevant aspect of Agile practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses team conflict management within an Agile context, particularly from the perspective of a Scrum Master. It highlights the importance of communication and collaboration, which are key Agile principles. However, while it touches on Agile practices, the primary focus is on conflict resolution rather than product management strategies or methodologies. Therefore, it aligns with the category but does not delve deeply into Agile Product Management specifics.",
+    "level": "Secondary"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -868,12 +889,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team dynamics and the role of the Scrum Master in resolving conflicts, which relates to Scrum practices, but it does not primarily focus on Scrum product development.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Scrum Master in managing team conflict, which is relevant to Scrum practices. However, it primarily focuses on conflict resolution rather than the broader aspects of Scrum product development, such as sprint planning or product backlog management. While it touches on Agile principles, it lacks detailed exploration of Scrum methodologies and their application to product development.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -931,12 +955,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses team conflict and its management, it touches on aspects of team dynamics and the importance of resolving disagreements to maintain a productive team environment, which aligns with the theme of team motivation.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the dynamics of team conflict and strategies for de-escalation, which are crucial for maintaining team motivation and collaboration. It directly addresses the importance of open communication and creating a safe environment, aligning well with the core themes of team motivation. The depth of discussion on conflict management and its impact on team dynamics further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1012,21 +1039,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:11:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of managing team conflict within an Agile context, aligning with Agile principles of collaboration and continuous improvement; however, it primarily focuses on team dynamics rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of managing team conflict within an Agile context, highlighting the need for collaboration and open communication, which aligns with Agile principles. It addresses the role of the Scrum Master in fostering a healthy team environment, reflecting on the Agile philosophy of valuing individuals and interactions. However, while it touches on Agile concepts, the focus is primarily on conflict management rather than a broader discussion of Agile philosophy itself.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team conflict in the context of Agile practices, specifically mentioning the role of the Scrum Master, which is relevant to software development but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses conflict management within Agile teams, which is a relevant aspect of software development practices. It explicitly mentions the role of a Scrum Master and strategies for de-escalating conflict, aligning with Agile methodologies. However, while it touches on important themes, the focus is more on interpersonal dynamics rather than technical software development processes, resulting in a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1048,11 +1081,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:10:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses team conflict, a key aspect of team dynamics and collaboration within Agile teams, and the role of the Scrum Master in managing such conflicts.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses team conflict, its escalation, and strategies for de-escalation, which are directly related to enhancing team dynamics and collaboration. It aligns well with the core themes of the category, particularly in addressing conflict resolution and fostering open communication. The depth of discussion is substantial, providing specific strategies and insights into managing team performance within an Agile framework.",
     "level": "Secondary"
   },
   "Value Delivery": {
@@ -1102,12 +1138,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses team conflict in an Agile context, highlighting the importance of managing disagreements, which relates to Agile principles like team dynamics and collaboration. However, the focus is primarily on conflict resolution rather than a deep exploration of Agile values or principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of collaboration and open communication in managing team conflict, which aligns with Agile principles. It highlights the need for a safe space for discussions and the focus on problem-solving rather than personal conflicts, reflecting Agile values. However, while it touches on these principles, it primarily revolves around conflict management strategies rather than a deep exploration of Agile values themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1204,12 +1243,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses team conflict in the context of Agile practices, specifically mentioning Scrum roles, making Agile a major theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses team conflict within the context of Agile practices, specifically referencing the role of a Scrum Master and strategies for managing conflict in Agile teams. While it does not provide a comprehensive overview of Agile frameworks, it aligns well with the principles of collaboration and communication central to Agile methodologies. The depth of discussion on conflict management strategies indicates a solid understanding of Agile team dynamics, contributing to a higher confidence score.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1279,12 +1321,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses team conflict and dynamics, which are influenced by organisational culture; however, it primarily focuses on conflict management rather than cultural transformation or agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T14:58:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the dynamics of team conflict and its impact on collaboration, which aligns with the themes of organisational culture. It highlights the importance of open communication and establishing norms, which are cultural elements that can facilitate Agile practices. The depth of discussion on strategies for managing conflict and fostering a collaborative environment indicates a strong focus on cultural aspects within Agile teams.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1297,30 +1342,39 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team conflict within an agile context, mentioning the Scrum Master role, indicating a secondary focus on Scrum principles related to team dynamics.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses conflict management within Agile teams, highlighting the role of the Scrum Master in facilitating communication and resolving disagreements. While it touches on Scrum principles, such as the importance of collaboration and team dynamics, it lacks a direct focus on Scrum roles, events, or artifacts as outlined in the Professional Scrum category. The discussion is relevant but does not delve deeply into the core themes of Scrum, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team conflict in the context of Agile practices, specifically mentioning the role of the Scrum Master, which indicates that Agile principles are a significant theme, but the focus is on conflict rather than broader Agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses conflict management within Agile teams, particularly from the perspective of a Scrum Master. It touches on Agile principles such as open communication and collaboration, which are essential for Agile transformation. However, while it aligns with Agile practices, the primary focus is on conflict resolution rather than broader Agile transformation strategies, limiting its depth and direct mention of the category.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:10:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team conflict within the context of Agile principles, particularly emphasizing the role of the Scrum Master, which aligns with Agile practices. However, it primarily focuses on team dynamics and conflict management rather than broader strategic themes or the alignment of organizational vision.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses team conflict management within an Agile context, highlighting the role of a Scrum Master and strategies for fostering collaboration. While it touches on Agile principles, the primary focus is on conflict resolution rather than broader Agile strategy implementation or organisational alignment. Therefore, it aligns moderately with the category but lacks depth in strategic discussions.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1351,20 +1405,26 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:19:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses team conflict within the context of agile methodologies, indicating that it is a significant theme related to organisational agility, but it does not focus primarily on broader agile practices or frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the management of team conflict within an Agile framework, highlighting the importance of open communication and collaboration, which aligns with the principles of organisational agility. It provides specific strategies for de-escalating conflict, demonstrating a depth of discussion on how to maintain a flexible and responsive team environment. However, while it touches on Agile practices, it does not extensively cover broader organisational agility strategies or leadership roles, which slightly limits its overall alignment.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:35:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:33:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team conflict in the context of Agile methodologies and its impact on team dynamics, but the primary focus is on the issue of conflict rather than directly addressing broader business agility principles or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses team conflict management within an Agile context, highlighting the importance of open communication and collaboration, which are essential for fostering business agility. However, while it touches on themes relevant to business agility, such as innovation and team dynamics, it primarily focuses on conflict resolution strategies rather than broader principles or practices of business agility. Therefore, it aligns moderately with the category but lacks depth in discussing the overall concept of business agility.",
     "level": "Tertiary"
   },
   "Cycle Time": {

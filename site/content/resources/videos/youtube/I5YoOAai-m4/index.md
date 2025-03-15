@@ -2,7 +2,7 @@
 title: Agile Coach Versus Professional Coach
 description: 'Discover the key differences between an Agile coach and a professional coach with Martin Hinshelwood in this insightful short video! #Agile #Coaching'
 date: 2023-06-26T11:00:14Z
-weight: 680
+weight: 695
 ResourceId: I5YoOAai-m4
 ResourceType: videos
 ResourceImport: true
@@ -26,12 +26,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Coaching
-- People and Process
-- Agile Project Management
-- Technical Leadership
-- Agile Frameworks
+tags: []
 resourceTypes:
 - video
 categories:

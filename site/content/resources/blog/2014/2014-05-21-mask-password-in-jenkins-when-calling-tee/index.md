@@ -28,9 +28,6 @@ tags:
 - Software Development
 - Troubleshooting
 - System Configuration
-- Continuous Integration
-- Pragmatic Thinking
-- Technical Mastery
 categories:
 - DevOps
 preview: naked-alm-jenkins-logo-7-7.png

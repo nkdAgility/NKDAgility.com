@@ -13,7 +13,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:11:36",
+    "calculated_at": "2025-03-14T23:58:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -21,7 +21,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the application of Scrum and the transformation of a product development process at Microsoft. While it touches on aspects of efficiency and effectiveness, which are relevant to engineering excellence, it lacks a direct focus on software craftsmanship, coding standards, or quality assurance practices. The discussion is more centred on project management and team dynamics rather than the core themes of engineering excellence, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -262,7 +262,7 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-10T18:16:01",
+    "calculated_at": "2025-03-14T23:58:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -270,11 +270,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the transformation of a product development process at Microsoft, which hints at digital transformation through the mention of efficiency improvements. However, it lacks explicit discussion on digital technologies, strategies for implementation, or broader themes of organisational culture and agility. The focus is primarily on Scrum methodology rather than a comprehensive view of digital transformation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T10:13:19",
+    "calculated_at": "2025-03-14T23:58:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -282,7 +282,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions Scrum and its application in a specific context, but it primarily focuses on the technical achievements of a team rather than the human factors or processes involved. While there is some alignment with the category through the mention of team effectiveness and product delivery, the discussion lacks depth regarding team dynamics, leadership, or communication strategies. Therefore, it does not fully meet the criteria for a strong focus on 'People and Process'.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -370,7 +370,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T14:40:59",
+    "calculated_at": "2025-03-14T23:58:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -378,7 +378,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the application of Scrum and highlights a specific team's transition from Waterfall to Scrum, which touches on aspects of technical leadership. However, it lacks a direct focus on the principles of technical leadership, such as mentoring, team dynamics, or agile best practices. The discussion is more about the effectiveness of Scrum rather than the leadership strategies that guide teams in an agile context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -421,7 +421,7 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-11T17:42:57",
+    "calculated_at": "2025-03-14T23:58:46",
     "ai_confidence": 35.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -429,7 +429,7 @@
     "non_ai_confidence": 10,
     "final_score": 32.0,
     "reasoning": "The content discusses the transition from Waterfall to Scrum and highlights a significant improvement in build time, which touches on flow efficiency. However, the primary focus is on Scrum as a methodology rather than on optimising throughput or eliminating bottlenecks. The discussion lacks depth in flow efficiency principles and does not provide specific techniques or metrics related to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -451,12 +451,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T23:25:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the reduction of build time, which relates to Cycle Time, but primarily focuses on the application of Scrum and the effectiveness of a specific team's implementation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:58:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions the transition from a waterfall methodology to Scrum and highlights a significant reduction in build time, which relates to Cycle Time. However, the primary focus is on Scrum applications rather than a detailed discussion of Cycle Time itself. The content lacks depth in exploring Cycle Time as a metric, its importance, or strategies for improvement, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -505,12 +508,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:25:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum in a specific context, highlighting a transformation from waterfall to Agile practices, which aligns with Agile transformation themes. However, it primarily focuses on a specific case rather than broader Agile transformation strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:50:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the application of Scrum, which is a key framework within Agile transformation. It discusses the transition from a waterfall methodology to Scrum, highlighting the cultural and process shifts involved in this transformation. The mention of the Azure DevOps team's success story provides a concrete example of Agile principles in action, aligning well with the category's focus. However, while it touches on Agile transformation, it does not delve deeply into broader change management strategies or leadership roles, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -550,12 +556,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:26:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:28:28",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum in a specific context, highlighting a successful implementation and its impact on team performance, but lacks detailed exploration of tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the application of Scrum within a specific context, highlighting a successful transition from Waterfall to Scrum by the Azure DevOps teams at Microsoft. It provides a concrete example of how Scrum can enhance efficiency, which aligns well with the category's focus on practical techniques and tooling. However, while it mentions Scrum and its effectiveness, it lacks detailed exploration of specific tools or methodologies beyond this example, which slightly limits its depth and breadth of discussion.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -658,12 +667,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T23:26:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the improvement of a product's resonance with customers, indicating a focus on customer satisfaction as a secondary theme, but primarily revolves around Scrum implementation and effectiveness.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the application of Scrum within a specific team at Microsoft, highlighting their transition from Waterfall to Scrum and the efficiency gains achieved. While there are indirect references to customer resonance and satisfaction, the discussion lacks explicit exploration of customer satisfaction principles, measurement techniques, or strategies for enhancing customer engagement. The content does not delve deeply into customer feedback or its role in iterative development, which are key aspects of the category. Therefore, while there are some relevant elements, they are not the primary focus.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -739,12 +751,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:26:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum and its impact on product delivery, which aligns with Agile principles, but it primarily focuses on a specific case rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:58:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the application of Scrum, which is a specific Agile methodology, rather than discussing the broader Agile Product Operating Model. While it mentions transitioning from a waterfall approach and highlights efficiency improvements, it lacks a comprehensive exploration of product-centric development principles, cross-functional teams, or continuous feedback mechanisms that are central to the Agile Product Operating Model. The discussion is more about Scrum practices than the holistic framework of Agile product development.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -766,11 +781,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T23:26:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transformation of a product delivery process using Scrum, highlighting improvements in responsiveness and efficiency, which are relevant to market adaptability. However, the primary focus is on Scrum implementation rather than broader market adaptability strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the transition from Waterfall to Scrum within a DevOps context, highlighting the efficiency gains and customer resonance achieved through Agile practices. However, while it touches on aspects of market adaptability, such as responsiveness to customer needs, it lacks a comprehensive exploration of broader strategies or methodologies that enhance overall market adaptability. The focus is primarily on Scrum implementation rather than a detailed analysis of market adaptability principles.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
@@ -865,20 +883,26 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:26:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of Scrum and its effectiveness in a specific context, which relates to strategic alignment and optimisation of delivery processes. However, it does not delve deeply into broader strategic concepts or frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the application of Scrum within a specific team at Microsoft, highlighting their transition from Waterfall to Scrum and the efficiency gains achieved. While it mentions Scrum and its effectiveness, it lacks a broader discussion on strategic alignment, value-driven approaches, or continuous improvement practices that are central to the Strategy category. The depth of discussion is more anecdotal than strategic, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T23:26:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of Scrum and its impact on operational efficiency, particularly in the context of Azure DevOps teams. However, it primarily focuses on a specific case study rather than broader operational practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the application of Scrum within a specific context, highlighting a successful transition from Waterfall to Scrum and showcasing significant improvements in build time. However, while it touches on operational efficiency, it lacks a detailed exploration of broader operational practices or methodologies. The focus is more on a specific case study rather than a comprehensive discussion of operational strategies or techniques.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
@@ -955,11 +979,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:27:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum in a specific context, highlighting improvements in product delivery and customer resonance, but it does not focus primarily on Agile Product Management principles or practices.",
+    "calculated_at": "2025-03-14T23:59:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses the application of Scrum, which is a framework within Agile methodologies. While it mentions the transition from Waterfall to Scrum and highlights the efficiency gains achieved, it lacks a direct focus on Agile Product Management principles such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. The discussion is more about Scrum implementation rather than product management strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
@@ -1027,21 +1054,27 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:27:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:59:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a specific application of Scrum in a real-world context, highlighting practical problem-solving strategies and the effectiveness of Agile transformations within a complex environment.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the application of Scrum in a real-world context, specifically highlighting the transition from Waterfall to Scrum by the Azure DevOps teams at Microsoft. This aligns with the category's focus on practical problem-solving strategies and real-world applications of Agile principles. However, while it mentions Scrum and provides a specific example, the depth of discussion on pragmatic techniques and critical thinking is limited, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T23:27:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the reduction of time taken to build a product, which relates to Lead Time, but the primary focus is on Scrum implementation rather than Lead Time itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:59:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on the concept of efficiency and mentions a significant reduction in build time, which relates to Lead Time. However, it primarily focuses on the application of Scrum and does not delve into the broader implications or measurement of Lead Time as a metric. The discussion lacks depth and does not cover key topics such as customer satisfaction or strategies for reducing Lead Time.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1054,11 +1087,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:27:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:59:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum and its impact on product delivery, highlighting improvements in efficiency and customer resonance, which are relevant to working software, but the primary focus is on the Scrum implementation rather than directly on working software itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the application of Scrum in a specific context, highlighting the transition from Waterfall to Scrum and the resulting improvements in product delivery. However, while it touches on the effectiveness of Scrum and mentions customer satisfaction, it lacks a detailed exploration of working software characteristics, best practices, or metrics for assessing software quality. The focus is more on the Scrum methodology rather than the delivery of functional software itself.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -1099,12 +1135,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:27:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:59:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum and its impact on software development processes, making it a major theme, but it lacks depth in broader software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the application of Scrum, a key Agile framework within the Software Development category. It discusses the transition from Waterfall to Scrum, highlighting the benefits and efficiency gains achieved by the Azure DevOps teams at Microsoft. The mention of specific improvements in build time and the effectiveness of Scrum aligns well with core themes of software development methodologies. The depth of discussion is substantial, providing insights into practical applications and outcomes, which reinforces its relevance to the category.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1117,12 +1156,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T23:27:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:59:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Azure DevOps in the context of Scrum implementation, but the primary focus is on Scrum rather than Azure DevOps itself.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content mentions Azure DevOps teams at Microsoft, indicating a connection to the category. However, the primary focus is on Scrum and Agile methodologies rather than Azure DevOps itself. While there is some alignment with the themes of collaboration and project management, the depth of discussion on Azure DevOps services is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1153,21 +1195,27 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:27:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:59:19",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum and its impact on development processes, which is relevant to software developers, but it primarily focuses on a specific case study rather than broader Agile or DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the application of Scrum within a specific team at Microsoft, which relates to the role of software developers in Agile practices. However, while it mentions Scrum and DevOps, it lacks a detailed exploration of best practices, tools, or the broader implications for developer productivity and collaboration. The focus is more on a specific case study rather than a comprehensive discussion of the category's key themes.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T23:27:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:59:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improvements in deployment times and efficiency, which relates to deployment frequency, but primarily focuses on Scrum implementation rather than deployment frequency as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the application of Scrum and the transition from Waterfall to Agile methodologies, with a focus on the efficiency improvements achieved by a specific team. While it mentions a significant reduction in build time, which indirectly relates to deployment frequency, the main focus is on Scrum practices rather than optimising deployment intervals. Therefore, the direct mentions and depth of discussion on deployment frequency are limited.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1198,11 +1246,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T23:27:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:59:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum in a specific context, highlighting a significant transformation in a well-known organisation, which aligns with industry updates. However, it lacks broader industry news or reviews, making it a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the application of Scrum within the context of a specific team at Microsoft, which aligns with the themes of Agile and DevOps. However, it primarily focuses on a personal opinion about the effectiveness of Scrum rather than providing a comprehensive review or analysis of industry news or trends. The depth of discussion is limited, as it lacks detailed insights or evaluations that would typically characterise a news or review piece.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -1279,20 +1330,26 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T23:28:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:59:26",
+    "ai_confidence": 35.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the improvement in build times, which relates to throughput, but the primary focus is on the application of Scrum and the effectiveness of the Azure DevOps teams rather than a detailed exploration of throughput as a central theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the transition from Waterfall to Scrum and highlights a significant improvement in build time, which indirectly relates to throughput. However, it primarily focuses on Scrum practices rather than explicitly measuring or optimising throughput. The mention of efficiency and progress hints at throughput but lacks detailed exploration of its measurement or strategies for improvement.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:28:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:59:28",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transformation of a product delivery process using Scrum principles, highlighting improvements in efficiency and customer resonance, which are relevant to value delivery, but the primary focus is on the specific application of Scrum rather than broader value delivery strategies.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the application of Scrum within a specific team at Microsoft, highlighting their transition from a waterfall methodology to Scrum. While it mentions the effectiveness of Scrum and its impact on customer satisfaction, the focus is more on the implementation and admiration for the team rather than on strategies or methodologies that ensure continuous delivery of value. The discussion lacks depth in terms of value delivery principles and does not provide substantial techniques for measuring or maximising customer value.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -1324,12 +1381,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:59:31",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the application of Scrum principles in a specific case, highlighting improvements in product development efficiency, but lacks a detailed focus on Scrum practices or frameworks.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the application of Scrum in a specific context, highlighting a successful transition from waterfall to Scrum. However, it lacks detailed exploration of Scrum roles, processes, or metrics, which are crucial for a deeper understanding of Scrum Product Development. The focus is more on a case study rather than a comprehensive discussion of Scrum principles.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1351,12 +1411,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:28:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum and its impact on product delivery, which aligns with Agile methodologies, but it primarily focuses on a specific case rather than broader Agile strategy principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:59:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the application of Scrum, detailing a specific case study of the Azure DevOps team at Microsoft. While it mentions the transition from Waterfall to Scrum and highlights efficiency improvements, it lacks a broader discussion on Agile strategy, such as organisational vision alignment or strategic planning. The emphasis is more on technical practices and specific implementations rather than on strategic integration of Agile principles.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1378,11 +1441,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:28:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:59:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transformation of a product delivery process using Scrum, highlighting improvements in responsiveness and effectiveness, which are relevant to organisational agility. However, the primary focus is on Scrum rather than broader organisational agility strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the application of Scrum, a specific Agile methodology, rather than discussing broader organisational agility principles. While it mentions transitioning from a waterfall approach and highlights efficiency improvements, it lacks a comprehensive exploration of organisational agility strategies, leadership roles, or cultural shifts necessary for true agility. The discussion is more about the effectiveness of Scrum in a specific context rather than how it contributes to overall organisational adaptability.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -1423,7 +1489,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:23:29",
+    "calculated_at": "2025-03-14T23:58:46",
     "ai_confidence": 35.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1431,6 +1497,6 @@
     "non_ai_confidence": 50,
     "final_score": 36.0,
     "reasoning": "The content briefly mentions Scrum in the context of its application within Azure DevOps teams, but it lacks a detailed discussion of Scrum principles, roles, or events. While it touches on the effectiveness of Scrum in improving product delivery, it does not delve into the core themes of the Scrum framework or provide substantial insights into its implementation or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

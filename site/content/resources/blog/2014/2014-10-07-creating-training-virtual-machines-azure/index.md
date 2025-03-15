@@ -30,8 +30,6 @@ tags:
 - Install and Configuration
 - Practical Techniques and Tooling
 - System Configuration
-- Windows
-- Software Development
 categories:
 - DevOps
 preview: nakedalm-windows-logo-16-16.png

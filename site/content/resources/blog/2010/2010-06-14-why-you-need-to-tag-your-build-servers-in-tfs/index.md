@@ -24,15 +24,10 @@ aliasesArchive:
 - /resources/blog/why-you-need-to-tag-your-build-servers-in-tfs
 tags:
 - Practical Techniques and Tooling
+- Software Development
 - Azure DevOps
 - Pragmatic Thinking
-- Software Development
 - Install and Configuration
-- Azure Pipelines
-- Operational Practices
-- Technical Mastery
-- Continuous Integration
-- Technical Excellence
 preview: metro-SSWLogo-128-link-10-10.png
 categories:
 - DevOps

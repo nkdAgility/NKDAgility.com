@@ -31,16 +31,16 @@ aliasesArchive:
 - /blog/professional-scrum-in-immingham--uk
 - /resources/blog/professional-scrum-immingham-uk
 tags:
-- Events and Presentations
-- People and Process
-- Scrum Product Development
-- Cross Functional Teams
-- Professional Scrum
 - Software Development
+- Events and Presentations
+- Agile Project Management
+- People and Process
 - Team Collaboration
 - Team Performance
-- Scrum Team
 - Agile Frameworks
+- Scrum Product Development
+- Scrum Team
+- Professional Scrum
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-6-6.png

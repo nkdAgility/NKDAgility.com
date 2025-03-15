@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:00:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upcoming training courses related to Visual Studio ALM, TFS, and Scrum, which are practical tools and methodologies relevant to Agile and DevOps practices. However, the primary focus is on scheduling and personal updates rather than a deep exploration of techniques or tooling.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content mentions specific courses related to Agile and DevOps tools, such as Visual Studio ALM and TFS, which aligns with the category. However, the focus is primarily on scheduling events rather than a detailed exploration of practical techniques or methodologies. The depth of discussion is limited, as it does not provide insights into how these tools can be effectively implemented or integrated within teams.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -73,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:00:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions a course specifically focused on TFS 2013 Configuration & Administration, which relates to installation and configuration, but the primary focus is on upcoming events and training rather than detailed installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses upcoming training courses related to ALM and Scrum, with a specific mention of a course on TFS configuration and administration. While there is a direct mention of configuration in the context of a course, the overall focus is more on event scheduling and training rather than detailed installation or configuration processes. The alignment with the category is moderate due to the mention of configuration, but the depth of discussion on actionable installation or configuration instructions is limited.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -169,7 +175,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T16:43:12",
+    "calculated_at": "2025-03-15T04:00:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -177,7 +183,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on scheduling and promoting various training courses related to ALM and Scrum, with limited discussion on the human factors or processes involved in these methodologies. While it mentions Scrum and DevOps, it does not delve into team dynamics, leadership, or communication strategies, which are essential aspects of the 'People and Process' category. The content lacks depth in exploring how these courses might influence team collaboration or process improvement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -244,12 +250,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:00:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upcoming training courses related to ALM and Scrum, which are relevant to product delivery methodologies, but the primary focus is on scheduling and personal updates rather than in-depth discussions on product delivery practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on scheduling and promoting upcoming training courses related to ALM and Scrum, which are tangentially related to product delivery. However, it lacks a direct discussion on methodologies, practices, or strategies that are central to the product delivery process. While it mentions DevOps and Scrum, these are not explored in depth or connected to the broader context of delivering software products effectively.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -271,12 +280,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:01:03",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upcoming training courses related to Agile methodologies and DevOps practices, which aligns with the category as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on upcoming public courses related to Agile methodologies and DevOps practices, specifically mentioning training in Visual Studio ALM, TFS, and Scrum. While it does not provide in-depth reviews or analyses of specific books or products, it discusses tools and training that facilitate Agile practices, aligning with the core themes of the category. The depth of discussion is moderate, as it lists several courses and their details, but lacks comprehensive analysis or recommendations.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -289,16 +301,19 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:00:57",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training courses related to Visual Studio ALM and TFS, which are components of Azure DevOps, but the primary focus is on the events and personal experiences rather than a deep exploration of Azure DevOps functionalities.",
+    "final_score": 42.0,
+    "reasoning": "The content mentions Azure DevOps-related courses and tools, specifically Visual Studio ALM and TFS, which are part of the Azure DevOps suite. However, the primary focus is on announcing training events rather than a detailed discussion of Azure DevOps functionalities or best practices. While there is some alignment with the category through the mention of DevOps and related tools, the depth of discussion is limited to course announcements without exploring methodologies or practices in Azure DevOps.",
     "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T17:55:19",
+    "calculated_at": "2025-03-15T04:00:32",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 25,
@@ -306,7 +321,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content includes personal anecdotes about the author's move and living situation, which provides some personal context. However, the primary focus is on announcing upcoming training courses and events rather than deep reflections or insights related to Agile, Scrum, or DevOps. While there are mentions of Scrum and DevOps courses, they are not explored in a personal or reflective manner, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -358,11 +373,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:00:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses various ALM-related courses and events, indicating a focus on Application Lifecycle Management, but it primarily revolves around training and scheduling rather than in-depth discussions on ALM methodologies or practices.",
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses upcoming training events related to Application Lifecycle Management (ALM) and associated tools like Visual Studio ALM and TFS. While it mentions ALM and its relevance to the courses being offered, the focus is more on the scheduling of events rather than a deep exploration of ALM methodologies, practices, or tools. The content lacks detailed discussion on the stages of the application lifecycle or best practices, which diminishes its alignment and depth in relation to the category.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -403,12 +421,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:00:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions a course on 'DevOps with Visual Studio ALM' that includes a focus on continuous delivery, but the primary focus is on scheduling and promoting various training events rather than a deep discussion on Continuous Delivery principles.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on upcoming training events related to ALM and Scrum, with only a brief mention of a course on 'DevOps with Visual Studio ALM' that hints at continuous delivery concepts. However, it lacks a detailed discussion on the principles, practices, or methodologies of Continuous Delivery, making it more of an announcement rather than a focused discussion on the topic.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -493,12 +514,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:00:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions various training courses related to DevOps and Scrum, which are operational practices, but the primary focus is on scheduling and promoting these events rather than discussing techniques or strategies for enhancing operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on scheduling and promoting upcoming training courses rather than discussing operational practices or methodologies aimed at enhancing efficiency. While it mentions DevOps and Scrum, it does not delve into techniques or strategies for process optimisation or continuous improvement, which are central to the category of Operational Practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -592,21 +616,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:01:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upcoming training courses related to DevOps and Scrum, which are relevant to software development practices, but the primary focus is on scheduling and personal updates rather than in-depth software development methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on scheduling and promoting upcoming training courses related to ALM, DevOps, and Scrum. While it mentions relevant topics in software development, such as DevOps and Scrum, the discussion lacks depth and does not delve into methodologies or practices in a meaningful way. The primary focus is on event announcements rather than a substantive exploration of software development techniques or frameworks.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:01:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions a Professional Scrum Master course and discusses managing projects with TFS, indicating a secondary theme related to Agile Project Management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content mentions a Professional Scrum Master course, which relates to Agile Project Management, but the primary focus is on scheduling and promoting various training events rather than discussing Agile principles or methodologies in depth. While there is some alignment with Agile concepts, the overall discussion lacks substantial detail on Agile practices, making it a secondary mention rather than a primary focus.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -619,12 +649,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:00:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions a Professional Scrum Master course, indicating a secondary theme related to Scrum, but the primary focus is on scheduling and promoting various training events.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions a Professional Scrum Master course, which indicates a connection to Scrum principles. However, the primary focus is on scheduling and promoting various training events, with limited in-depth discussion on Scrum roles, practices, or values. The overall content lacks substantial exploration of Scrum concepts, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -691,7 +724,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T14:53:23",
+    "calculated_at": "2025-03-15T04:00:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -699,7 +732,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses upcoming training events and courses rather than focusing on the principles of frequent software releases. While there is a mention of a course related to continuous delivery, the overall emphasis is on scheduling and logistics of training rather than the practices and strategies associated with frequent releases in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -793,7 +826,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T11:48:15",
+    "calculated_at": "2025-03-15T04:00:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -801,7 +834,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on scheduling and promoting upcoming training courses related to ALM, DevOps, and Scrum. While it mentions relevant topics, it lacks a strong emphasis on practical problem-solving strategies or real-world applications of Agile and DevOps principles. The discussion is more about logistics and personal experiences rather than a deep exploration of pragmatic thinking in complex environments.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -967,12 +1000,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:01:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions scheduling courses related to DevOps and Visual Studio ALM, which are relevant to release management practices, but the primary focus is on training events rather than a comprehensive discussion on release management strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses upcoming training events and courses related to ALM and Scrum, with only a brief mention of release management concepts in the context of DevOps and Visual Studio ALM. While there is some alignment with release management through the mention of continuous delivery and the scheduling of courses, the focus is not on the strategies or practices of release management itself. The depth of discussion is limited, primarily providing event details rather than in-depth analysis or strategies related to release management.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1066,12 +1102,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:00:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a mention of a course on 'TFS 2013 Configuration & Administration', which relates to system configuration, but the primary focus is on training events and schedules rather than detailed discussions on system configuration practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses upcoming training events and courses related to ALM and Scrum, with only a brief mention of a course on TFS 2013 Configuration & Administration. While there is a slight alignment with system configuration through this mention, the overall focus is on event scheduling and training rather than the technical aspects of system configuration. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1156,16 +1195,19 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:01:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions live online training courses, which relates to remote work, but the primary focus is on scheduling and promoting these courses rather than discussing remote working practices or challenges in an Agile context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions online live training and courses, which relates to remote working, but it lacks a focused discussion on remote Agile practices or challenges. The primary emphasis is on scheduling and promoting training events rather than exploring strategies or tools for effective remote collaboration in an Agile context.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-11T10:22:31",
+    "calculated_at": "2025-03-15T04:00:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1173,7 +1215,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on scheduling and promoting upcoming training courses rather than discussing principles of Continuous Learning. While it mentions training, it lacks a strong emphasis on growth mindset, knowledge sharing, or team improvement, which are core themes of the category. The discussion is more about logistics and event promotion than fostering a culture of continuous learning.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1195,7 +1237,7 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T18:31:24",
+    "calculated_at": "2025-03-15T04:00:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1203,7 +1245,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions a Professional Scrum Master course, which indicates a connection to the Scrum Master role. However, the primary focus is on scheduling and promoting various ALM training courses, with limited discussion on the responsibilities or practices of a Scrum Master. The alignment with core themes is weak, as there is no in-depth exploration of Scrum Master techniques, coaching, or team dynamics. Overall, while there is a mention of Scrum, it does not delve into the specifics of the Scrum Master role.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1225,7 +1267,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T14:41:03",
+    "calculated_at": "2025-03-15T04:00:32",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -1233,7 +1275,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on scheduling and promoting various training courses related to ALM, DevOps, and Scrum. While it mentions relevant topics, such as DevOps and Scrum Master training, the discussion lacks depth and does not explore the role of software developers in Agile or DevOps contexts. The content is more about event announcements than a substantive exploration of best practices or methodologies that enhance developer productivity and collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1291,12 +1333,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:00:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions a Professional Scrum Master course and discusses Scrum in the context of training events, indicating a secondary theme related to Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions a Professional Scrum Master course, which relates to Agile frameworks, but the primary focus is on scheduling and promoting various training events rather than a detailed exploration of Agile principles or frameworks. The discussion lacks depth and does not provide insights into the application or impact of Agile frameworks in organisations.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -1390,7 +1435,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T12:35:52",
+    "calculated_at": "2025-03-15T04:00:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1398,7 +1443,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions a Professional Scrum Master course, which aligns with the category, but the primary focus is on scheduling and promoting various training events rather than a detailed discussion of Scrum or Agile methodologies. The depth of discussion on the core themes of Social Technologies is limited, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

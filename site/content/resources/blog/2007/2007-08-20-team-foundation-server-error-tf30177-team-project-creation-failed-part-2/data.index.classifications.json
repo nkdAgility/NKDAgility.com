@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server and SharePoint, which are tools used in the application lifecycle. However, the primary focus is on debugging a specific error rather than a comprehensive discussion on application lifecycle management methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a specific error related to Team Foundation Server and SharePoint, providing troubleshooting steps rather than discussing the broader aspects of Application Lifecycle Management. While it briefly mentions ALM in the tags, the main discussion does not align with the key topics of application lifecycle stages, governance, or best practices. The depth of discussion is limited to error resolution, lacking comprehensive insights into ALM methodologies or tools.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -295,12 +298,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, but primarily focuses on troubleshooting a specific error rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific error related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, the focus is primarily on troubleshooting a SharePoint integration issue rather than on Azure DevOps functionalities or best practices. While TFS is mentioned, the discussion lacks depth regarding Azure DevOps services and does not explore broader themes such as CI/CD or agile project management within Azure DevOps.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -322,12 +328,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses debugging a specific error related to Team Foundation Server and SharePoint, which touches on technical practices but primarily focuses on troubleshooting rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, which does not directly discuss engineering practices or methodologies that enhance agility in software development. While it provides some technical details and insights into debugging, it lacks a broader discussion on principles like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence. The mention of managed paths and site creation is more operational than methodological, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -958,12 +967,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:32",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T07:40:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content primarily discusses a technical error related to Team Foundation Server and SharePoint, providing troubleshooting details and steps to rectify the problem. However, while it involves technical practices, it does not cover broader principles of software craftsmanship, architecture, or engineering practices as required by the 'Technical Mastery' category.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server and SharePoint, which does not directly address broader principles of software craftsmanship or engineering practices. While it provides some technical details and debugging steps, it lacks a comprehensive discussion on best practices, clean code principles, or methodologies that contribute to high-quality software development. The mention of managed paths and site creation is relevant but does not delve into the overarching themes of technical mastery.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1198,12 +1210,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:32",
+    "calculated_at": "2025-03-15T07:40:15",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses a specific error related to Team Foundation Server and SharePoint, which may be about software operational issues but does not focus on the delivery of high-quality software or customer value.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",

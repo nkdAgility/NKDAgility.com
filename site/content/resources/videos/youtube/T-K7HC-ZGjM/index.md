@@ -29,15 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Product Development
+- Agile Planning
 - Agile Project Management
 - Professional Scrum
 - Software Development
+- Transparency
 - Agile Frameworks
 - Software Developers
-- Agile Planning
-- Agile Product Management
-- Product Delivery
-- Pragmatic Thinking
+- Organisational Agility
+- Agile Planning Tools
 resourceTypes:
 - video
 categories:

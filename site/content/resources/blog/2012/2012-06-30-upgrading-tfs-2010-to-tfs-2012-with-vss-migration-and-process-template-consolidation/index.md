@@ -23,8 +23,14 @@ aliasesArchive:
 - /upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 - /resources/blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 tags:
-- System Configuration
+- Troubleshooting
 - Install and Configuration
+- System Configuration
+- Software Development
+- Practical Techniques and Tooling
+- Release Management
+- Pragmatic Thinking
+- Modern Source Control
 categories:
 - Scrum
 

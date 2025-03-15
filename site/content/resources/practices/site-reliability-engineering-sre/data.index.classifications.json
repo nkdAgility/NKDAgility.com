@@ -10,7 +10,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T11:38:56",
+    "calculated_at": "2025-03-14T18:02:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly touches on aspects of team collaboration, such as building trust and transparency, which are relevant to the category. However, it primarily focuses on the practices of Site Reliability Engineering and the responsibilities of engineering teams rather than exploring the dynamics of teamwork or communication in Agile or DevOps contexts. The discussion lacks depth in terms of specific techniques or strategies for enhancing team collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -103,7 +103,7 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-11T11:14:29",
+    "calculated_at": "2025-03-14T18:02:28",
     "ai_confidence": 35.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -111,7 +111,7 @@
     "non_ai_confidence": 0,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions transparency, which is a key aspect of empirical process control, but it primarily focuses on Site Reliability Engineering practices rather than a thorough discussion of empirical process control principles. The alignment with core themes is limited, and while there is some depth in discussing practices, it does not delve into the theoretical foundations or detailed techniques related to empirical process control.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
@@ -379,7 +379,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-07T12:50:56",
+    "calculated_at": "2025-03-14T18:02:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -387,7 +387,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses practices related to engineering teams and their responsibilities in running a production site, which aligns with the role of software developers. However, it primarily focuses on Site Reliability Engineering (SRE) rather than Agile or DevOps methodologies specifically. While there are mentions of transparency and on-call practices, the discussion lacks depth in Agile principles and does not explicitly address the core themes of the Software Developers category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -400,12 +400,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:02:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practices related to running production sites and the responsibilities of engineering teams, which are relevant to software development, but the primary focus is on Site Reliability Engineering rather than core software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses practices related to Site Reliability Engineering (SRE), which is closely aligned with software development methodologies, particularly in the context of DevOps. It mentions the shift-left movement, which is relevant to CI/CD practices, and touches on operational aspects that are crucial for software development. However, the discussion lacks depth in specific software development methodologies and best practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -463,12 +466,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:49:18",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practices related to running a production site and the responsibilities of engineering teams, which aligns with operational efficiency. However, it primarily focuses on the experiences of a specific team rather than broader operational practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses practices related to running a production site and the responsibilities of engineering teams, which aligns with operational efficiency. However, it lacks explicit mentions of Agile, DevOps, or Lean methodologies and does not delve deeply into specific techniques or strategies for process optimisation or continuous improvement.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -739,12 +745,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:22:13",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions transparency as part of a broader discussion on practices for engineering teams in Site Reliability Engineering, indicating it is a significant theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 64.0,
+    "reasoning": "The content briefly mentions the importance of transparency in the context of SRE practices, indicating a recognition of its role in building trust with customers. However, the discussion lacks depth and does not explore transparency in Agile methodologies or provide specific techniques or tools to promote it. The focus is more on operational practices rather than a thorough examination of transparency as a core theme.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -805,7 +814,7 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-11T17:21:24",
+    "calculated_at": "2025-03-14T18:02:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -813,7 +822,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the transition from on-premises to a SaaS solution, which aligns with digital transformation themes. However, it lacks explicit mentions of digital technologies enhancing business agility or detailed strategies for digital transformation initiatives. The focus is more on operational practices rather than a comprehensive exploration of digital transformation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -997,11 +1006,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:59:16",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses practices related to running a production site and the responsibilities of engineering teams, which aligns with some aspects of engineering practices, but it primarily focuses on Site Reliability Engineering rather than core Agile methodologies.",
+    "final_score": 49.0,
+    "reasoning": "The content discusses practices related to running a production site, which touches on aspects of engineering practices such as transparency and telemetry. However, it lacks a direct focus on Agile methodologies, clean code, or TDD, which are core to the category. The discussion is somewhat relevant but does not delve deeply into the principles of Agile engineering practices.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
@@ -1081,12 +1093,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:02:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between engineering practices and organisational responsibilities, touching on themes of team dynamics and transparency, which are relevant to sociotechnical systems. However, the primary focus is on Site Reliability Engineering practices rather than a comprehensive exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the responsibilities of engineering teams and the importance of transparency and telemetry, which are relevant to sociotechnical systems. However, it lacks a direct discussion of the interplay between social and technical aspects, and does not delve deeply into organisational structures or team dynamics. The focus is more on technical practices rather than the broader sociotechnical context.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1120,7 +1135,7 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-11T16:08:21",
+    "calculated_at": "2025-03-14T18:02:28",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1128,7 +1143,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on concepts related to metrics, such as telemetry and transparency, which are relevant to the category. However, it primarily focuses on the operational aspects of Site Reliability Engineering (SRE) rather than a comprehensive discussion on metrics and learning. The mention of practices to cope with running a production site indicates some alignment with continuous improvement, but the depth of discussion lacks a thorough exploration of evidence-based decision-making or feedback loops, which are central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1192,11 +1207,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:22:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practices related to running a production site and the responsibilities of engineering teams, which aligns with technical excellence. However, it primarily focuses on operational aspects rather than core engineering methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses practices related to running a production site, which touches on aspects of technical excellence such as transparency and telemetry. However, it lacks a direct focus on specific engineering methodologies like TDD or CI/CD, and the depth of discussion on these practices is limited. The primary emphasis seems to be on operational aspects rather than the core themes of technical excellence.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -1246,12 +1264,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:11:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:02:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practices that help engineering teams cope with running a production site, which relates to organisational resilience. However, the primary focus is on technical practices and experiences rather than a comprehensive exploration of resilience and change methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses practices that help engineering teams cope with running a production site, which touches on resilience in the context of operational challenges. However, it lacks a direct focus on organisational resilience and change management principles. While it mentions transparency and protecting teams from disruptions, it does not delve deeply into strategies for fostering a culture of adaptability or change management practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -1285,7 +1306,7 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-11T13:09:00",
+    "calculated_at": "2025-03-14T18:02:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1293,7 +1314,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions the shift-left movement and touches on practices relevant to running a production site, which can relate to agility in terms of responsiveness and collaboration. However, it lacks a direct focus on enterprise agility as a primary theme, and the discussion is more centred on operational practices rather than broader organisational agility principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1432,7 +1453,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:42:10",
+    "calculated_at": "2025-03-14T18:02:28",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1440,6 +1461,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions concepts like transparency, which aligns with Scrum principles, but it primarily focuses on Site Reliability Engineering (SRE) practices rather than Scrum itself. There are no direct mentions of Scrum roles, events, or artifacts, and the discussion lacks depth in relation to Scrum's core themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

@@ -26,10 +26,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Miscellaneous
 - Team Motivation
-- People and Process
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

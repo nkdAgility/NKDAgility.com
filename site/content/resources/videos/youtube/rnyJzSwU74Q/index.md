@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg
 duration: 866
 isShort: false
 tags:
+- Software Development
+- Value Delivery
+- Agile Project Management
 - Product Delivery
+- Empirical Process Control
 - Software Developers
 - Pragmatic Thinking
 - People and Process
-- Agile Frameworks
-- Agile Project Management
-- Agile Philosophy
-- Empirical Process Control
-- Agile Product Management
-- Software Development
+- Working Software
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

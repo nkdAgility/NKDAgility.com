@@ -32,9 +32,14 @@ aliasesArchive:
 tags:
 - Agile Project Management
 - Agile Frameworks
-- People and Process
-- Professional Scrum
+- Scrum Master
+- Agile Product Management
 - Software Development
+- People and Process
+- Pragmatic Thinking
+- Scrum Product Development
+- Scrum Team
+- Agile Transformation
 categories:
 - Scrum
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg

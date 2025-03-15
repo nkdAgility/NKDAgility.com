@@ -28,13 +28,9 @@ aliasesArchive:
 - /resources/blog/team-foundation-server-2012-teams-without-areas
 tags:
 - Software Development
-- Practical Techniques and Tooling
 - Install and Configuration
+- Practical Techniques and Tooling
 - Azure DevOps
-- Azure Boards
-- System Configuration
-- Pragmatic Thinking
-- Operational Practices
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-16-16.png

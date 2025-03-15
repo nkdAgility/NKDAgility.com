@@ -169,7 +169,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T15:07:04",
+    "calculated_at": "2025-03-15T06:27:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -177,7 +177,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a course offering related to testing tools and methodologies, with some mention of the roles of testers and managers. However, it lacks a deep exploration of team dynamics, collaboration, or the human factors influencing processes, which are central to the 'People and Process' category. The discussion is more about the technical aspects of the tools rather than the interplay between people and processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:27:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a course on testing methodologies and tools, which relates to technical practices, but the primary focus is on promoting the course rather than in-depth technical excellence discussions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes a course on testing tools and methodologies, which aligns with the category of Technical Excellence. However, it lacks a deep exploration of the principles and practices that enhance agility in software development. While it mentions tools like Microsoft Test Manager and TFS, the discussion is more focused on course promotion rather than a thorough examination of technical excellence concepts such as TDD, CI/CD, or modular architecture. The content does not provide substantial detail on how these tools contribute to high-quality engineering practices, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -244,7 +247,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T16:57:05",
+    "calculated_at": "2025-03-15T06:27:32",
     "ai_confidence": 42.0,
     "ai_mentions": 10,
     "ai_alignment": 30,
@@ -252,7 +255,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on a course about testing methodologies and tools, which are relevant to the product delivery process. However, it lacks a comprehensive discussion on broader product delivery practices such as Agile methodologies, deployment strategies, or cross-functional team roles. While it mentions aspects of testing and quality assurance, it does not delve deeply into how these fit into the overall product delivery lifecycle.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -295,12 +298,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:27:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses testing with Visual Studio and Team Foundation Server (TFS), which are part of the Azure DevOps suite, but the primary focus is on a specific course rather than Azure DevOps as a whole.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a course related to testing with Visual Studio and Team Foundation Server (TFS), which are components of Azure DevOps. However, the focus is primarily on the course details and not on Azure DevOps functionalities or best practices. While there are mentions of TFS and testing workflows, the overall discussion lacks depth in exploring Azure DevOps as a suite of tools and does not provide insights into CI/CD or agile project management practices.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -349,12 +355,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:27:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a specific course offering related to testing tools, which is relevant to the technology field, but lacks broader industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on promoting a specific course related to testing software with Visual Studio and Microsoft Test Manager. While it mentions the course details and the benefits for testers, it lacks broader industry news or reviews that would typically characterise the 'News and Reviews' category. The direct mentions of the course and its features provide some alignment, but the overall depth of discussion is limited to a promotional context rather than an analytical or evaluative perspective on industry trends or tools.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -388,12 +397,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:28:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a course on testing methodologies using specific tools (Visual Studio and TFS), which touches on technical practices related to software quality; however, it mainly focuses on the course details and target audience rather than broader engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes a course on testing tools rather than delving into the principles of software craftsmanship or engineering practices. While it mentions testing and tools like Microsoft Test Manager and TFS, it lacks a detailed discussion on best practices, methodologies, or the broader implications of technical mastery in software development.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -496,12 +508,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:27:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a course on testing methodologies and tools, which includes aspects relevant to operational practices in testing. However, the primary focus is on the course promotion rather than a detailed exploration of operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on promoting a course about testing software with Visual Studio and TFS, which is more about training and education rather than directly discussing operational practices. While it mentions aspects of workflow and testing management, it lacks a detailed exploration of techniques or strategies aimed at enhancing operational efficiency within Agile, DevOps, or Lean frameworks.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -598,12 +613,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:27:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a course on testing with Visual Studio and emphasizes methodologies related to testing in the software development lifecycle, making software quality a secondary topic.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily promotes a course on testing software using Visual Studio and Microsoft Test Manager, which aligns with software development practices, particularly in the context of testing and quality assurance. However, while it mentions relevant tools and concepts, the focus is more on the course offering rather than an in-depth discussion of software development methodologies or practices. The details provided about the course structure and target audience indicate some alignment with the category, but the overall depth of discussion is limited to promotional content.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -751,7 +769,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:28:31",
+    "calculated_at": "2025-03-15T06:27:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -759,7 +777,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily promotes a course on testing tools and methodologies, which is relevant to engineering practices. However, it lacks a direct focus on broader engineering excellence principles such as software craftsmanship or continuous improvement. While it mentions aspects of testing and quality assurance, the discussion is more about the course details rather than a deep exploration of engineering excellence concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -862,11 +880,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:27:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a course that includes automating tests with Test Professional and Visual Studio, which is a significant aspect of test automation.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily promotes a course on testing with Visual Studio and mentions aspects of test automation, such as 'automating manual tests' and 'executing automated tests'. However, the focus is more on the course details and less on the principles or frameworks of test automation. While there are relevant topics mentioned, the overall discussion lacks depth and does not fully align with the core themes of test automation.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
@@ -880,12 +901,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:27:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily advertises a testing course focusing on Microsoft Test Manager and related software tools, indicating a significant emphasis on ensuring software quality and functionality, which is relevant to the category.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on promoting a course related to testing software using Visual Studio and Microsoft Test Manager. While it mentions aspects of software testing and quality assurance, it does not explicitly discuss the delivery of functional software or align closely with the core themes of working software. The depth of discussion on working software principles is limited, focusing more on the course details rather than the broader implications of working software in Agile or Scrum contexts.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1123,12 +1147,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:27:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on a course about Testing with Test Professional 2010 and Visual Studio 2010, which are tools developed for the Windows operating system, but the main topic is the course offering itself rather than detailed discussions about Windows as an operating system.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses a course on testing software using Visual Studio and Microsoft Test Manager, which are tools associated with the Windows environment. However, it does not delve deeply into the Windows operating system itself, focusing instead on the testing tools and methodologies. While there are mentions of Microsoft products that run on Windows, the content lacks a comprehensive discussion on installation, configuration, or troubleshooting specific to Windows, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1168,7 +1195,7 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-11T12:02:37",
+    "calculated_at": "2025-03-15T06:27:32",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1176,7 +1203,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on promoting a specific course about testing software with Visual Studio and does not explicitly discuss Continuous Learning principles or practices. While it mentions skills that participants will gain, it lacks a strong emphasis on growth mindset, knowledge sharing, or team improvement, which are core themes of Continuous Learning. The depth of discussion is limited to course details rather than exploring broader Continuous Learning concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1225,7 +1252,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:37:29",
+    "calculated_at": "2025-03-15T06:27:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1233,7 +1260,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily focuses on a course for testers and development managers, with limited direct discussion on software developers' roles in Agile or DevOps contexts. While it mentions tools like Microsoft Test Manager and TFS, which are relevant to software development, the emphasis is on testing rather than on the broader themes of Agile methodologies or developer practices. The depth of discussion is also limited, focusing mainly on course logistics and outcomes for testers rather than exploring the integration of Agile or DevOps principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1246,12 +1273,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:28:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 7,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of testing and mentions automation and the workflow between developers and testers, which are relevant to engineering practices, but the primary focus is on promoting a course rather than a detailed discussion of practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes a course on testing with Visual Studio and Microsoft Test Manager, which is relevant to testing practices in software engineering. However, it lacks a direct focus on core engineering practices such as clean code, TDD, or CI/CD. While it mentions automated testing and the workflow between developers and testers, the discussion is more about the course details rather than in-depth exploration of engineering methodologies. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1417,7 +1447,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:47:39",
+    "calculated_at": "2025-03-15T06:27:32",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1425,6 +1455,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a course about testing with Visual Studio and does not mention Scrum principles, roles, or events. While it discusses aspects of software testing and development, it lacks any direct references to Scrum or its framework, making it only tangentially related to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

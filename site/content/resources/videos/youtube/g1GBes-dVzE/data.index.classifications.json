@@ -49,7 +49,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-07T13:37:27",
+    "calculated_at": "2025-03-14T22:21:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -57,7 +57,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the role of an agile coach and their understanding of team processes and tools, which is somewhat related to business agility. However, it lacks explicit discussions on broader principles of business agility, such as organisational adaptability or leadership roles in promoting agility. The depth of discussion is moderate, but it does not sufficiently cover the key topics outlined in the category definition.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -238,7 +238,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T18:09:10",
+    "calculated_at": "2025-03-14T22:21:57",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -246,7 +246,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the role of an Agile Coach, which is related to product delivery, but it primarily focuses on the understanding of processes and tools rather than the end-to-end delivery of software products. While it touches on Agile practices, it lacks detailed discussion on methodologies, testing, deployment, or metrics that are central to the Product Delivery category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -301,7 +301,7 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-11T14:34:49",
+    "calculated_at": "2025-03-14T22:21:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -309,7 +309,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions being a 'lean Agile Practitioner' but does not delve into Lean principles or practices in detail. The focus is primarily on Agile coaching rather than Lean Thinking, with minimal discussion on Lean concepts such as waste reduction or continuous improvement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -397,7 +397,7 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-11T17:37:10",
+    "calculated_at": "2025-03-14T22:21:57",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -405,7 +405,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the role of an Agile Coach and the importance of understanding Agile processes and tools, which aligns with Agile principles. However, it lacks a direct focus on Agile Planning methodologies and practices, making it more about coaching than planning itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -499,12 +499,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T18:47:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:14:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an Agile coach, which is a significant aspect of Agile transformation, but it does not delve deeply into broader Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of an Agile Coach and the importance of understanding Agile processes and tools, which aligns with Agile transformation principles. However, it lacks detailed exploration of broader Agile transformation strategies, frameworks, or change management, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -517,12 +520,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T18:47:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:21:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions being a lean agile practitioner and understanding processes, which relates to Lean principles, but the primary focus is on agile coaching rather than Lean itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions being a 'lean Agile Practitioner' and touches on understanding tools and practices, which aligns with Lean principles. However, it primarily focuses on Agile coaching rather than a detailed discussion of Lean principles, waste reduction, or value maximisation. The depth of discussion on Lean concepts is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -544,12 +550,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T18:47:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:45:07",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding tools and technologies used by Agile teams, which aligns with the category, but it primarily focuses on the role of an Agile coach rather than practical techniques or tooling itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding tools and technologies in Agile coaching, which aligns with the category's focus on practical techniques and tooling. It mentions the need for Agile coaches to have a grasp of the tools their teams use, indicating a direct mention of tooling. However, while it touches on methodologies and practices, it lacks detailed exploration of specific tools or frameworks, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -571,12 +580,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T18:47:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:21:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 7,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides personal insights on the role of an Agile coach, reflecting on the importance of understanding team processes and tools, which aligns with personal experiences in Agile contexts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of an Agile Coach and the importance of understanding team processes and technologies, but it primarily focuses on technical aspects and coaching strategies rather than personal experiences or reflections. While there are some personal insights, they are not the main focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -679,12 +691,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T18:48:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:21:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an Agile coach and their understanding of team processes and tools, which relates to team dynamics and collaboration, but it primarily focuses on the individual role of the coach rather than team collaboration as a central theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of an Agile Coach and the importance of understanding team processes and tools, which indirectly relates to team collaboration. However, it primarily focuses on the individual role of the coach rather than on team dynamics or collaboration techniques. The mention of guiding and challenging teams suggests some alignment with collaboration, but the depth of discussion is limited to the coach's perspective rather than broader team interactions.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -724,12 +739,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T18:48:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:21:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an Agile coach in understanding team processes and tools, which relates to fostering self-organisation, but it primarily focuses on the coach's responsibilities rather than self-organisation itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of an Agile Coach and the importance of understanding team processes and tools, which indirectly relates to self-organisation. However, it primarily focuses on coaching rather than the principles of self-organisation itself. The mention of elevating teams suggests a supportive role but lacks depth in discussing self-organisation principles or practices.",
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -760,12 +778,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T18:48:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:22:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an Agile coach and touches on understanding processes and tools, which are relevant to Agile methodologies. However, it does not primarily focus on market adaptability strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of an Agile Coach and the importance of understanding tools and practices within Agile frameworks. While it touches on Agile principles, it does not explicitly discuss market adaptability or strategies for responding to market shifts. The mention of 'lean Agile Practitioner' hints at adaptability but lacks depth in discussing how these practices enhance responsiveness to market changes. Overall, the content is more about coaching than market adaptability.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -832,12 +853,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T18:49:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:22:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 8,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an agile coach, which relates to mentoring, but primarily focuses on understanding processes and tools rather than direct mentoring techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of an Agile Coach, which aligns with mentoring in Agile environments. However, it primarily focuses on the understanding of tools and technologies rather than on mentoring techniques or strategies. While it touches on guiding and challenging teams, it lacks depth in discussing specific mentoring practices or emotional intelligence, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -868,21 +892,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T18:49:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding processes and practices in Agile coaching, which relates to operational efficiency, but it primarily focuses on the role of an Agile coach rather than specific operational practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:22:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding processes and tools in Agile coaching, which aligns with operational practices. However, it lacks specific techniques or strategies for enhancing operational efficiency, focusing more on the role of the Agile Coach rather than direct operational improvements.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T18:50:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:22:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an Agile coach and touches on understanding Agile processes and practices, which aligns with the Agile Philosophy. However, it primarily focuses on the practical aspects of coaching rather than the broader principles and values of Agile.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the role of an Agile Coach and the importance of understanding tools and practices, which leans more towards specific Agile frameworks rather than the broader Agile Philosophy. While it touches on the need for a deep understanding of Agile concepts, it does not explicitly discuss the foundational principles or values of Agile as a mindset. The discussion lacks depth in exploring the cultural shifts or broader implications of Agile adoption.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -895,11 +925,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T18:50:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:22:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the essential qualities and understanding required for an Agile coach, emphasising the role of the coach in facilitating team success and improvement, which aligns closely with the Coaching category.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the role of an Agile Coach and the importance of understanding team processes and technologies, which aligns with coaching principles. However, it primarily focuses on the knowledge required for coaching rather than techniques or strategies for effective coaching, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Frequent Releases": {
@@ -985,12 +1018,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T18:50:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:22:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an agile coach in understanding team processes and tools, which touches on the interaction between social and technical aspects. However, it primarily focuses on the coach's knowledge of tools and practices rather than a broader sociotechnical system perspective.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of an Agile Coach and the importance of understanding tools and technologies used by teams. While it touches on aspects of team dynamics and the coaching process, it lacks a direct discussion of sociotechnical systems as a primary focus. The mention of tools and practices is more technical than sociotechnical, and the depth of discussion does not sufficiently explore the interplay between social and technical elements within organisations.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1021,11 +1057,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T18:50:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:22:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of understanding processes, practices, and tools in Agile coaching, which aligns with pragmatic problem-solving in Agile contexts. However, it does not delve deeply into specific strategies or real-world applications, making it a secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of a deep understanding of Agile processes and tools, which aligns with pragmatic thinking in Agile contexts. It emphasises practical knowledge and the application of tools in real-world scenarios, reflecting adaptability and critical thinking. However, while it touches on these themes, it lacks extensive detail and specific examples of pragmatic problem-solving strategies, which limits its depth of discussion.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -1066,12 +1105,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T18:50:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:22:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions being a lean agile practitioner, indicating a connection to Lean principles, but the primary focus is on Agile coaching rather than Lean methodologies.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content briefly mentions being a 'lean Agile Practitioner' but primarily focuses on Agile coaching without a substantial discussion of Lean principles or methodologies. The alignment with Lean concepts is minimal, as the content does not delve into waste reduction, continuous improvement, or Lean tools. The depth of discussion on Lean is also lacking, as it does not provide detailed insights or examples related to Lean practices.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1093,12 +1135,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T18:50:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:22:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile coaching, which is a significant aspect of software development methodologies, but it primarily focuses on the role of the coach rather than specific software development practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the role of an Agile Coach, which is closely related to software development practices, particularly Agile methodologies. It mentions the importance of understanding processes and tools, aligning with the core themes of software development. However, the discussion lacks depth in specific software engineering practices and methodologies, focusing more on coaching rather than direct software development techniques.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1147,11 +1192,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T18:50:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:22:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an Agile coach and their understanding of team processes and tools, which relates to software developers' practices in Agile contexts, but it is primarily focused on coaching rather than the developers themselves.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the role of an Agile Coach rather than software developers directly. While it touches on Agile practices and tools, it does not delve deeply into how these relate specifically to software developers' roles or their productivity. The focus is more on coaching and guiding teams rather than the developers themselves, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
@@ -1237,11 +1285,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T18:50:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:22:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an Agile coach, which relates to leadership in Agile contexts, but primarily focuses on understanding processes and tools rather than leadership practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of an Agile Coach, which is related to Agile Leadership, but primarily focuses on technical understanding and coaching practices rather than leadership strategies or fostering a culture of adaptability and empowerment. While it touches on guiding teams, it lacks depth in discussing leadership principles and the broader implications of Agile Leadership.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -1345,12 +1396,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T18:51:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:22:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an Agile coach and the importance of understanding Agile processes and practices, which aligns with Agile principles. However, it primarily focuses on the coaching aspect rather than broader strategic themes.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of an Agile Coach and the importance of understanding Agile processes and tools, which aligns with Agile principles. However, it primarily focuses on the practical aspects of coaching rather than strategic alignment or broader organisational strategies, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1372,11 +1426,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T18:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:22:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an agile coach and the importance of understanding agile processes and practices, which aligns with the theme of organisational agility, but it is primarily focused on the coaching aspect rather than broader organisational strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of an Agile Coach and the importance of understanding Agile processes and tools, which aligns with the principles of organisational agility. However, it primarily focuses on the individual role of the coach rather than broader organisational strategies or cultural shifts. The depth of discussion is limited, as it does not explore organisational structures or leadership roles in fostering agility.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -1417,7 +1474,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:18:55",
+    "calculated_at": "2025-03-14T22:21:57",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -1425,6 +1482,6 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions agile coaching and the importance of understanding processes and practices, which aligns with Scrum principles. However, it lacks direct references to Scrum roles, events, or artifacts, and does not delve deeply into Scrum-specific discussions. The focus is more on general agile coaching rather than Scrum itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

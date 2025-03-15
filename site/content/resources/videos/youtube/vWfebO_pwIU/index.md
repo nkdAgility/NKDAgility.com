@@ -27,12 +27,8 @@ duration: 291
 isShort: false
 tags:
 - People and Process
-- Scrum Master
-- Scrum Team
-- Agile Frameworks
-- Agile Project Management
-- Mentoring
-- Team Performance
+- Continuous Learning
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

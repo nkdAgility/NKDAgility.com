@@ -10,7 +10,7 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T13:25:51",
+    "calculated_at": "2025-03-15T07:49:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions the integration of Team Server with SQL Server Management Studio, which relates to installation and configuration. However, it lacks detailed step-by-step instructions or best practices, and the primary focus is more on the integration aspect rather than a comprehensive guide on installation or configuration processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -223,7 +223,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T19:06:26",
+    "calculated_at": "2025-03-15T07:49:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -231,7 +231,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Team Foundation Server (TFS) and its integration with SQL Server Management Studio, which relates to application lifecycle management. However, it lacks a comprehensive discussion on the stages of the application lifecycle, best practices, or tools in a detailed manner. The focus is more on integration rather than the broader aspects of ALM, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -385,12 +385,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:49:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integration with Microsoft SQL Server Management Studio, which is a Windows application, but the primary focus is on team server and integration rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content mentions Microsoft SQL Server Management Studio, which is a Windows application, but the primary focus is on integration with Team Foundation Server and other software rather than on Windows itself. The discussion does not delve into installation, configuration, or troubleshooting of Windows, which are key themes of the category. Therefore, while there are relevant mentions, the overall alignment and depth of discussion regarding Windows are limited.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -466,7 +469,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:21:22",
+    "calculated_at": "2025-03-15T07:49:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -474,7 +477,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions integration between Team Server and SQL Server Management Studio, which relates to system configuration. However, it lacks a detailed exploration of configuration processes, best practices, or optimisation strategies. The focus is more on software compatibility rather than the methodologies of configuring systems, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -541,11 +544,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:49:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses integrating Team Foundation Server with various software tools, which is relevant to software development practices, but it is not the primary focus of the content.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the integration of Team Foundation Server (TFS) with Microsoft SQL Server Management Studio, which relates to version control systems and collaborative development practices. However, the discussion lacks depth and primarily focuses on a specific integration question rather than broader software development methodologies or practices. The mention of TFS indicates a connection to software development, but the overall content does not provide substantial insights into software engineering processes or frameworks.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -685,12 +691,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T10:22:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:49:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integrating team server with Microsoft SQL Server Management Studio, which involves resolving potential integration issues. However, the primary focus is on the integration itself rather than troubleshooting specific technical problems or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on a question regarding the integration of team server with SQL Server Management Studio, which hints at a troubleshooting scenario. However, it lacks a detailed discussion on diagnosing or resolving issues, and the focus is more on software capabilities rather than systematic problem-solving or methodologies for troubleshooting.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -901,7 +910,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T17:10:41",
+    "calculated_at": "2025-03-15T07:49:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -909,7 +918,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions Team Foundation Server (TFS) in the context of integration with SQL Server Management Studio, which relates to source control. However, the primary focus is on integration rather than best practices or methodologies of modern source control. The discussion lacks depth and does not cover key topics such as branching strategies, code review processes, or collaboration workflows, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",

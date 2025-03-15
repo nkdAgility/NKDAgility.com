@@ -24,15 +24,15 @@ preview: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg
 duration: 74
 isShort: false
 tags:
+- Professional Scrum
+- Agile Project Management
+- People and Process
 - Scrum Master
 - Events and Presentations
-- Professional Scrum
-- Agile Frameworks
-- Agile Project Management
 - Software Development
+- Continuous Learning
+- Agile Frameworks
 - Scrum Team
-- Agile Product Management
-- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:39:34",
+    "calculated_at": "2025-03-15T04:23:37",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS (Team Foundation Server) and WITADMIN commands, which is more focused on specific software tools rather than the broader principles and practices of DevOps. While there are elements of migration and tool compatibility that could relate to DevOps, the discussion lacks explicit references to DevOps practices such as CI/CD, automation, or cultural shifts. The depth of the discussion is moderate, but it does not provide a comprehensive view of DevOps as a category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -292,12 +292,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:23:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to TFS (Team Foundation Server), which is part of the Azure DevOps suite, but primarily focuses on troubleshooting and personal experiences rather than best practices or methodologies associated with Azure DevOps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and WITADMIN, which are components of the Azure DevOps suite. However, it does not explicitly mention Azure DevOps or its functionalities, focusing instead on a specific technical problem and migration process. While there is some conceptual alignment with Azure DevOps, particularly in the context of migration to Visual Studio Online, the depth of discussion is limited to a specific error and troubleshooting steps rather than broader Azure DevOps practices or methodologies.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -355,12 +358,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:23:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to managing software versions and tools in the context of migrating from TFS to Visual Studio Online, which is relevant to application lifecycle management, but it is primarily focused on troubleshooting rather than a comprehensive discussion of ALM practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical issue related to using WITADMIN with TFS versions, which is tangentially related to application lifecycle management. While it touches on aspects of software versioning and migration, it lacks a comprehensive discussion on the stages of the application lifecycle, best practices, or governance. The focus is more on troubleshooting and specific tool usage rather than the broader principles of ALM.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -382,11 +388,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:23:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses technical challenges and resolutions related to software versions and compatibility, which aligns moderately with technical practices.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS and WITADMIN, which is relevant to software engineering practices. However, it lacks a broader discussion on best practices, principles, or methodologies that contribute to technical mastery. While it touches on the importance of using updated software versions for compatibility, it does not delve deeply into the principles of software craftsmanship or engineering excellence.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -490,12 +499,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:23:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical troubleshooting steps and operational considerations related to managing Team Foundation Server (TFS) versions during a migration, which reflects some aspects of operational practices. However, it is primarily focused on a specific technical issue rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to using WITADMIN with TFS versions, which does not directly address operational practices or methodologies aimed at enhancing efficiency. While there are mentions of software versions and compatibility, the focus is on troubleshooting rather than on broader operational strategies or practices. The discussion lacks depth in terms of operational efficiency techniques, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -628,7 +640,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T16:45:07",
+    "calculated_at": "2025-03-15T04:23:37",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -636,7 +648,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses issues related to TFS (Team Foundation Server) and the use of WITADMIN, which are relevant to source control practices. However, the focus is primarily on troubleshooting and migration rather than best practices or methodologies in modern source control. While it mentions version control tools and compatibility, it lacks depth in discussing broader strategies or collaborative workflows, which are key themes in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -658,12 +670,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:23:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses work item types and WITADMIN, which are relevant to Azure Boards, but the primary focus is on TFS versions and error messages rather than Azure Boards specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses issues related to WITADMIN and TFS (Team Foundation Server), which are not directly aligned with Azure Boards. While it mentions work item types, it does not delve into Azure Boards' functionalities, best practices, or Agile project management. The focus is more on troubleshooting and migration rather than exploring Azure Boards as a tool for managing Agile projects.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -748,7 +763,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T14:44:49",
+    "calculated_at": "2025-03-15T04:23:37",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -756,7 +771,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a technical issue related to using WITADMIN with TFS versions, which is more about troubleshooting than promoting engineering excellence. While it touches on the importance of using updated software for compatibility, it lacks a broader discussion on best practices, coding standards, or continuous improvement in engineering processes. The focus is on a specific problem rather than a comprehensive exploration of engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -952,12 +967,12 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:08:48",
+    "calculated_at": "2025-03-15T04:23:37",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses troubleshooting a specific software issue and the considerations for upgrading, but it does not primarily focus on structured decision-making methodologies or evidence-based decision-making practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1126,11 +1141,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:23:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to using the WITADMIN tool with different versions of Team Foundation Server (TFS), which is part of the Visual Studio ecosystem that runs on Windows. However, the primary focus is on TFS and not directly on the Windows operating system itself, making it a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and WITADMIN, which are tools that operate within the Windows environment. While it does not explicitly focus on the Windows operating system itself, it does touch on aspects of software installation, configuration, and troubleshooting that are relevant to Windows users. The depth of discussion regarding error messages and the need for updates indicates a good level of detail, but the primary focus is on TFS rather than Windows as a standalone topic.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
@@ -1228,7 +1246,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T14:55:19",
+    "calculated_at": "2025-03-15T04:23:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1236,7 +1254,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses a specific technical issue related to TFS and WITADMIN, which is relevant to software development. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is primarily about troubleshooting and version compatibility rather than best practices or collaborative frameworks. While it touches on tools used in software development, it does not delve into the broader themes of Agile or DevOps, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

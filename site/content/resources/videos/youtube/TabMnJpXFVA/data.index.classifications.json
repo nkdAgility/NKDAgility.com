@@ -40,7 +40,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:18:56",
+    "calculated_at": "2025-03-15T01:09:50",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -48,7 +48,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of delivering value to customers and improving training methods, which aligns with product management principles. However, it primarily focuses on training and DevOps rather than the strategic aspects of product management. While there are mentions of Agile and Scrum, they are not the central theme, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -61,12 +61,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content highlights the importance of Product Owner training within a broader discussion about Scrum training formats, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:10:31",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 22.0,
+    "reasoning": "The content discusses training and value delivery in the context of DevOps and Agile methodologies but does not specifically address the responsibilities or practices of a Product Owner. While it touches on concepts relevant to Agile, such as prioritising value and stakeholder needs, it lacks a direct focus on the Product Owner role, making it only tangentially related.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -79,30 +82,39 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive Scrum training and the evolution of training formats for Scrum practitioners, highlighting key aspects relevant to Scrum roles and professional development.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum in the context of agile methodologies but does not delve into specific Scrum principles, roles, or practices. The focus is more on training and DevOps rather than an in-depth exploration of Scrum itself.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a new format of Scrum training, emphasizing its implementation and benefits, which aligns well with Agile frameworks.",
+    "calculated_at": "2025-03-13T16:54:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content briefly mentions agile methodologies, specifically Scrum and Kanban, indicating a recognition of Agile frameworks. However, the primary focus is on DevOps and training approaches rather than a deep exploration of Agile frameworks themselves. While there is some alignment with Agile principles, the depth of discussion on Agile frameworks is limited, making it a secondary theme rather than the main focus.",
     "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses immersive Scrum training and its benefits for Scrum roles, making it a major theme, but not primarily focused on Scrum product development.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:09:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum within the context of agile methodologies but does not focus on Scrum principles or practices in product development. The discussion is more centred on training and DevOps rather than the Scrum framework, roles, or product development processes.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -154,11 +166,14 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:09:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the positive impact of a happy and inspired workforce on customer experience, making customer satisfaction a secondary theme. However, the primary focus is on Scrum training and immersive learning rather than directly discussing customer satisfaction strategies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of aligning training with the needs of individuals and organisations, which indirectly relates to customer satisfaction. However, it primarily focuses on training methodologies and value delivery rather than explicitly addressing customer satisfaction metrics or strategies. The mention of fostering a positive perception of training offerings suggests some alignment with customer satisfaction, but the depth of discussion on this topic is limited.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -298,48 +313,63 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T01:10:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on Scrum training and methodologies, emphasizing immersive learning formats which directly relate to Software Development practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses DevOps and agile methodologies, which are core aspects of software development. It highlights the importance of practices surrounding tools and the role of training in enhancing software development outcomes. The depth of discussion on training approaches and their alignment with software practices indicates a strong focus on the category, although it also touches on broader business perspectives.",
     "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile coaching and training in the context of immersive learning, indicating a focus on facilitating growth and development, though it primarily promotes a specific training format.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:10:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses training and learning approaches, which are related to coaching, but it primarily focuses on the delivery of training rather than the coaching process itself. While it touches on concepts like double-loop learning and prioritising value, it lacks a direct emphasis on coaching techniques or the role of a coach in facilitating growth. The discussion is more about training methodologies than the collaborative and supportive nature of coaching.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses immersive Scrum training which is related to Agile practices, but the primary focus is on training formats rather than the principles of Agile Planning.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:10:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile methodologies, specifically mentioning Scrum and Kanban, which are relevant to Agile Planning. However, the primary focus is on training and value delivery rather than on Agile Planning principles or practices. While there is some alignment with Agile concepts, the depth of discussion on Agile Planning itself is limited, making it a secondary theme rather than a primary focus.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum training and the immersive learning format, which is related to Agile methodologies, but the focus is primarily on training practices rather than strategic alignment and broader Agile strategy discussions.",
+    "calculated_at": "2025-03-15T01:09:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile methodologies, particularly in the context of training and value delivery, which aligns with Agile Strategy principles. However, the primary focus is on training methods and DevOps rather than a comprehensive Agile strategy. While it touches on value creation and the importance of adapting training to meet organisational needs, it lacks a deep exploration of strategic alignment or implementation at scale, which are key aspects of Agile Strategy.",
     "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive Scrum training, which relates to enhancing team dynamics and collaboration in Agile environments, making it a significant secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content touches on agile methodologies and the importance of collaboration, which aligns with the category. However, it primarily focuses on training and value delivery rather than directly discussing team performance or dynamics. The mention of Scrum and DevOps is brief and does not delve deeply into team performance metrics or practices.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -415,12 +445,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a new immersive learning format for Scrum training, emphasizing assignments and feedback, which relate to continuous learning principles, but the primary focus is on Scrum training rather than Continuous Learning itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:10:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of effective training methods and the shift towards immersive learning, which aligns with the principles of Continuous Learning. It mentions concepts like double-loop learning and a flipped learning model, indicating a focus on adapting training to enhance knowledge retention and application. However, while it touches on Continuous Learning, the primary focus is on training methodologies rather than a broader exploration of Continuous Learning principles within Agile or DevOps contexts.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -517,7 +550,7 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T12:18:59",
+    "calculated_at": "2025-03-15T01:09:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -525,7 +558,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Agile and Scrum in the context of training and learning formats, but it does not focus on the specific role or responsibilities of a Scrum Master. While there are references to Agile principles, the discussion is more centred on training methodologies and DevOps rather than the Scrum Master’s role in facilitating Scrum processes or coaching teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -538,12 +571,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile training and coaching with a focus on improving Scrum Master and Product Owner capabilities, which indirectly relates to enhancing value delivery in Agile environments.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:10:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the role of DevOps in value delivery and highlights the importance of aligning training with organisational needs, which directly relates to value delivery principles. It also explores methodologies like Agile and Scrum, emphasising continuous improvement and customer satisfaction. The depth of discussion on training approaches and prioritising value over revenue further supports its alignment with the category, although some sections veer into personal experiences and opinions, slightly detracting from a purely objective analysis of value delivery.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -622,11 +658,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T01:10:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the immersive learning format in Scrum training, focusing on team dynamics, learning processes, and enhancing collaboration among scrum masters and product owners.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the interplay between training methodologies and human behaviour, particularly in the context of DevOps and Agile practices. It highlights the importance of understanding people's needs and adapting training approaches to enhance learning outcomes, which aligns well with the core themes of the category. The depth of discussion on training methods and their impact on individuals and organisations further supports a strong alignment with the 'People and Process' category.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -760,11 +799,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scrum training and the benefits of an immersive learning format, which ties into agile principles and enhancing responsiveness, but the primary focus is on training rather than direct market adaptability strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of DevOps and Agile methodologies in enhancing value delivery and training effectiveness, which aligns with the principles of market adaptability. However, while it touches on these themes, the primary focus is on training methods rather than directly addressing market adaptability strategies. The depth of discussion on how these methodologies can specifically enhance responsiveness to market changes is moderate, leading to a moderately high confidence score.",
     "level": "Tertiary"
   },
   "AI": {
@@ -823,11 +865,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum training and the immersive learning format, which directly relates to Agile Project Management practices and the development of Scrum roles.",
+    "calculated_at": "2025-03-15T01:10:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses agile methodologies, specifically mentioning Scrum and Kanban, which aligns with the core themes of Agile Project Management. However, the primary focus is on training and DevOps rather than on agile project management principles or practices. The depth of discussion on agile concepts is moderate, but it lacks comprehensive exploration of agile roles, ceremonies, or metrics, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -859,12 +904,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a new training format in Scrum and includes insights into the approach taken by NKD Agility, making it relevant as a minor theme within the context of Agile training updates.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of DevOps in value delivery and reflects on training approaches, which aligns with the themes of Agile and DevOps. However, it primarily focuses on personal experiences and insights rather than providing industry news or reviews. While it touches on relevant topics, it lacks a structured analysis of trends or tools, which diminishes its alignment with the 'News and Reviews' category.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -952,7 +1000,7 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:45:00",
+    "calculated_at": "2025-03-15T01:09:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -960,7 +1008,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Scrum in the context of agile methodologies but does not focus on Scrum Team dynamics, roles, or collaboration. The discussion is more centred on training and DevOps rather than the specific interactions and practices of a Scrum Team.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1018,12 +1066,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the immersive Scrum training format, which relates to Agile methodologies and potentially improving product delivery practices, but it primarily focuses on training and certification rather than the end-to-end product delivery process.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of DevOps and agile methodologies in delivering value, which aligns with product delivery principles. However, the primary focus is on training and learning approaches rather than the end-to-end process of delivering software products. While it touches on relevant themes, it lacks depth in discussing specific product delivery methodologies and practices.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1036,20 +1087,26 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive Scrum training, which is related to Agile methodologies, but the primary focus is on training formats rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:32:12",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of DevOps and agile methodologies, which are relevant to organisational agility. However, while it touches on themes of value delivery and training approaches, it lacks a focused exploration of organisational agility principles and practices. The discussion is more centred on training and personal experiences rather than a comprehensive analysis of organisational agility strategies.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses immersive Scrum training, which is directly related to Agile practices and transformation. It emphasizes evolving roles and the impact of training on Agile capabilities.",
+    "calculated_at": "2025-03-13T15:45:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile methodologies, specifically mentioning Scrum and Kanban, which aligns with Agile transformation principles. However, the primary focus is on training and DevOps rather than a comprehensive exploration of Agile transformation strategies. While it touches on value delivery and learning approaches, it lacks depth in discussing change management, leadership roles, or specific Agile transformation frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -1099,12 +1156,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:11",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the immersive Scrum training format and its benefits, which ties to the practical application of Scrum methodologies, but does not deeply explore specific tools or techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of DevOps and agile methodologies, specifically mentioning Scrum and Kanban, which are relevant tools and practices in the context of Agile and DevOps. It explores the practical application of these methodologies in training and value delivery, aligning well with the category's focus. However, while it touches on practical techniques, the primary emphasis is on training approaches and value creation rather than a detailed exploration of specific tools or methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1162,12 +1222,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:10:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses immersive Scrum training, which includes feedback sessions and real-time implementation, highlighting elements of learning and adaptation in Agile environments.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of immersive learning and innovative training approaches, which aligns well with the themes of discovery and learning. It explicitly mentions concepts like double-loop learning and the flipped-ish learning model, indicating a strong focus on methodologies that enhance learning. The discussion on DevOps and agile methodologies also supports the idea of continuous improvement and adaptation to new insights. However, while the content is rich in learning concepts, it does not delve deeply into specific tools or frameworks that support discovery and learning, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1390,12 +1453,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T10:22:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a new immersive learning format for Scrum training, which relates to improving training practices within Agile methods, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T01:09:52",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of DevOps in streamlining processes and enhancing value delivery, which aligns with operational practices. However, the primary focus is on training methodologies rather than direct operational efficiency techniques. While it mentions Agile and DevOps principles, the depth of discussion on specific operational practices is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1417,7 +1483,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:26:42",
+    "calculated_at": "2025-03-15T01:09:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1425,6 +1491,6 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content briefly mentions Scrum in the context of agile practices and training but does not focus on Scrum principles, roles, or events in detail. The discussion primarily revolves around DevOps and training methodologies, with Scrum being a secondary topic rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

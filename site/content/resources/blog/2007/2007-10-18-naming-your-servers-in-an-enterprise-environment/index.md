@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/naming-your-servers-in-an-enterprise-environment
 - /naming-your-servers-in-an-enterprise-environment
 - /resources/blog/naming-your-servers-in-an-enterprise-environment
-tags:
-- System Configuration
-- Pragmatic Thinking
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

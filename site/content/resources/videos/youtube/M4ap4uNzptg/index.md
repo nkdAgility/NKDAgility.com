@@ -30,16 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Values and Principles
+- Agile Philosophy
 - Agile Leadership
 - People and Process
-- Organisational Agility
-- Market Adaptability
-- Business Agility
-- Agile Philosophy
+- Continuous Learning
 - Agile Project Management
-- Agile Strategy
 - Agile Transformation
-- Change Management
+- Organisational Culture
+- Organisational Agility
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

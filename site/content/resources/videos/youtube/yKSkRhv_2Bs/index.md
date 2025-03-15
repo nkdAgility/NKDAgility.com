@@ -28,10 +28,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Scrum Master
-- Agile Project Management
-- Professional Scrum
+- Software Development
+- Scrum Product Development
 resourceTypes:
 - video
 categories:

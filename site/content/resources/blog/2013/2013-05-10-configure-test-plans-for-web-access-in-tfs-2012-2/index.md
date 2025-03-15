@@ -27,8 +27,6 @@ tags:
 - Practical Techniques and Tooling
 - Azure DevOps
 - Software Development
-- Troubleshooting
-- System Configuration
 categories: []
 
 ---

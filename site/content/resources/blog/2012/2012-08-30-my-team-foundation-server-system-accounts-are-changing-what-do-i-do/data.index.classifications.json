@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:15:40",
+    "calculated_at": "2025-03-15T05:44:26",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server (TFS) and does not explicitly discuss DevOps principles or practices. While it touches on aspects of system administration that could relate to DevOps, such as service account management, it lacks a broader discussion on collaboration, automation, or continuous delivery. The content is more operational in nature and does not delve into the cultural or process-oriented aspects of DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -355,12 +355,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:44:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses managing service accounts for Team Foundation Server, which is related to the maintenance and operational aspects of application lifecycle management, but it primarily focuses on account management rather than the broader lifecycle stages.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the management of service accounts within Team Foundation Server (TFS), which is a specific aspect of application management. However, it lacks a broader discussion on the application lifecycle stages, governance, or best practices that are central to Application Lifecycle Management. While it touches on operational aspects relevant to TFS, it does not delve into the comprehensive lifecycle management practices or methodologies, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -382,7 +385,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T18:04:27",
+    "calculated_at": "2025-03-15T05:44:26",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -390,7 +393,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on managing service accounts for Team Foundation Server (TFS) and provides step-by-step instructions for changing these accounts. While it touches on technical aspects related to TFS, it lacks a broader discussion on software craftsmanship, architecture, or engineering practices. The mention of service accounts and their management is relevant but does not delve into best practices or principles of clean code, testing, or DevOps, which are central to the 'Technical Mastery' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -493,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:44:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses the management of service accounts within Team Foundation Server, which is an operational practice related to maintaining system reliability and efficiency in an Agile context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the management of service accounts within Team Foundation Server (TFS) and provides practical steps for changing account details. While it touches on operational aspects related to account management, it lacks a broader discussion on operational efficiency, process optimisation, or methodologies like Agile, DevOps, or Lean. The content is more about specific technical instructions rather than strategies for enhancing operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1228,12 +1234,12 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:03",
+    "calculated_at": "2025-03-15T05:44:26",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content primarily discusses changing service accounts for Team Foundation Server (TFS) and does not delve into Agile, DevOps practices or software development methodologies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

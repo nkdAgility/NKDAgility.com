@@ -24,6 +24,13 @@ aliasesArchive:
 - /resources/blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 tags:
 - Install and Configuration
+- System Configuration
+- Windows
+- Software Development
+- Practical Techniques and Tooling
+- Azure DevOps
+- Release Management
+- Application Lifecycle Management
 preview: metro-visual-studio-2010-128-link-36-36.png
 categories:
 - DevOps

@@ -31,13 +31,11 @@ tags:
 - People and Process
 - Agile Project Management
 - Agile Transformation
-- Change Management
 - Software Development
-- Agile Frameworks
 - Agile Philosophy
+- Agile Frameworks
 - Agile Strategy
-- Organisational Change
-- Team Collaboration
+- Organisational Agility
 resourceTypes:
 - video
 categories:

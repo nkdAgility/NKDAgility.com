@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/dyslexia-awareness-week
 tags:
 - Personal
-- Miscellaneous
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
 

@@ -25,6 +25,13 @@ duration: 302
 isShort: false
 tags:
 - Experimentation
+- Discovery and Learning
+- Hypothesis Driven Development
+- Product Validation
+- Metrics and Learning
+- Product Discovery
+- Decision Making
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

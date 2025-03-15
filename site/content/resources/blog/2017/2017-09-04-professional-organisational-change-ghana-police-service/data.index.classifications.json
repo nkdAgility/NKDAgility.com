@@ -127,7 +127,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T18:29:32",
+    "calculated_at": "2025-03-15T03:41:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -135,7 +135,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses organisational change within the Ghana Police Service, focusing on leadership, vision, and the adoption of Scrum as a framework for transformation. While it briefly mentions Scrum, which is related to Agile methodologies, it does not delve into DevOps principles, practices, or tools. The discussion lacks a clear focus on the integration of development and operations, automation, or continuous delivery, which are core to the DevOps category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -328,11 +328,14 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:42:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational transformation and the need for a structured approach, which aligns with Systems Thinking principles. However, it primarily focuses on Scrum and leadership rather than a comprehensive exploration of Systems Thinking itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses organisational change within the Ghana Police Service, touching on the need for a structured approach and leadership vision, which aligns with Systems Thinking principles. However, it primarily focuses on specific methodologies like Scrum and does not deeply explore the interconnectedness of system components or provide extensive analysis of complex systems. While it mentions the need for a framework rather than a methodology, the discussion lacks a thorough exploration of Systems Thinking concepts such as feedback loops and holistic analysis.",
     "level": "Tertiary"
   },
   "One Engineering System (1ES)": {
@@ -430,11 +433,14 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-14T19:09:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T17:00:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the need for a clear vision and structured approach to organisational transformation within the Ghana Police Service, aligning with long-term objectives and business agility principles.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the need for a clear vision and structured approach to organisational transformation within the Ghana Police Service, which aligns with the concept of strategic goals. It mentions the importance of leadership and a high-performance framework, indicating a focus on long-term objectives. However, while it touches on these themes, the primary focus is more on the transformation process and methodologies rather than explicitly defining strategic goals themselves.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -448,11 +454,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-14T19:09:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:41:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the transformation of the Ghana Police Service, focusing on leadership, vision, and the cultural shift required for effective change, which aligns closely with the themes of organisational culture.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the transformation of the Ghana Police Service, focusing on the need for a cultural shift from command and control to servant leadership. It highlights the role of leadership in shaping organisational culture and the importance of a clear vision and strategic approach, which aligns well with the core themes of the category. The depth of discussion is significant, as it explores the implications of cultural change on organisational effectiveness and employee morale, providing a nuanced view of how culture impacts agility and transformation. However, while it mentions frameworks and methodologies, the primary focus remains on cultural aspects, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Definition of Ready": {
@@ -511,38 +520,50 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T19:09:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:41:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the transformation of the Ghana Police Service through the application of frameworks like Scrum and Kanban, focusing on leadership, vision, and structured approaches to enhance operational efficiency and effectiveness.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transformation of the Ghana Police Service, focusing on leadership, vision, and the need for a structured approach to change. It mentions frameworks and methodologies like Scrum and Kanban, which are relevant to operational practices. However, the primary focus is on the broader organisational change rather than specific operational efficiency techniques, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:42:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the adoption of Scrum within the context of organisational transformation, highlighting the importance of frameworks and team dynamics, but it is primarily focused on broader organisational change rather than specific Scrum Team roles or dynamics.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the application of Scrum principles in the context of organisational transformation within the Ghana Police Service. While it mentions Scrum and its framework, the primary focus is on broader organisational change rather than the specific dynamics and roles within a Scrum Team. The discussion touches on servant leadership and the need for a framework, which aligns with Scrum principles, but lacks detailed exploration of Scrum Team roles, collaboration techniques, or team dynamics. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the 'Scrum Team' category.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-14T19:09:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:41:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the transformation of the Ghana Police Service through a framework that incorporates Agile principles, particularly focusing on leadership, vision, and the need for a structured approach to change, which aligns with the Agile Philosophy.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the need for a transformation in the Ghana Police Service, highlighting the importance of leadership, vision, and a framework for change, which aligns with Agile principles. It mentions Scrum and the Agility Path Guide, indicating a connection to Agile methodologies, but primarily focuses on the broader implications of organisational change and the shift towards servant leadership, which are core aspects of Agile philosophy. However, the discussion on specific frameworks like Scrum slightly detracts from the primary focus on Agile philosophy.",
     "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-14T19:09:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:41:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the strategic transformation of the Ghana Police Service, focusing on leadership, vision, and the application of frameworks like Scrum to achieve organisational change, which aligns well with the Strategy category.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the need for a strategic approach to organisational change within the Ghana Police Service, highlighting the importance of leadership, vision, and a framework for transformation. It mentions Scrum and the Agility Path Guide, which aligns with Agile principles. However, while it touches on strategic concepts, the primary focus is on the specific case of the Ghana Police Service rather than a broader discussion of Agile strategy, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -556,11 +577,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-14T19:09:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:41:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the transformation of the Ghana Police Service using Agile principles, specifically referencing Scrum and the Agility Path Guide as frameworks for organisational change. It addresses leadership roles, the need for a structured approach, and the cultural shifts necessary for Agile adoption, aligning closely with the key topics of Agile transformation.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the transformation of the Ghana Police Service with a strong emphasis on leadership, vision, and the adoption of Agile frameworks like Scrum and Kanban. It aligns well with the principles of Agile transformation, particularly in terms of cultural shifts and the need for a structured approach to change. The depth of discussion on frameworks and the importance of servant leadership further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -583,11 +607,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:42:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses organisational transformation and leadership in the context of the Ghana Police Service, touching on Agile principles and frameworks, which are relevant to team performance. However, the primary focus is on broader organisational change rather than specifically on team dynamics or performance metrics.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses organisational change within the Ghana Police Service, touching on leadership and the need for a framework to facilitate transformation. While it mentions Scrum and the importance of servant leadership, the primary focus is on broader organisational change rather than specific strategies or practices aimed at maximising team performance and collaboration. The discussion lacks depth in terms of agile team dynamics and does not provide concrete techniques or metrics for measuring team performance.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -619,11 +646,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T19:09:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:41:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the application of Scrum and agile principles in the context of organisational transformation within the Ghana Police Service, highlighting the importance of frameworks, servant leadership, and empirical approaches.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the application of Scrum and the Agility Path Guide in the context of organisational transformation within the Ghana Police Service. It highlights the importance of frameworks over methodologies, servant leadership, and the need for a structured approach to change, which aligns with agile principles. However, the primary focus is on organisational change rather than agile project management specifically, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
@@ -637,11 +667,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-14T19:10:01",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:41:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the application of Scrum principles in the context of organisational transformation within the Ghana Police Service, highlighting the use of a Scrum-based framework for change. However, the primary focus is on broader organisational change rather than Scrum itself.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the application of Scrum principles within the context of organisational transformation at the Ghana Police Service. It mentions the Agility Path Guide, which is based on Scrum, and highlights the importance of a framework over a methodology. However, while Scrum is referenced, the primary focus is on broader organisational change rather than an in-depth exploration of Scrum roles, events, or artifacts. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -655,21 +688,27 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-14T19:10:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:41:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content discusses the application of Scrum and an empirical approach to organisational transformation within the Ghana Police Service, highlighting the importance of frameworks, transparency, and adaptation in the change process.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the transformation of the Ghana Police Service with a focus on empirical approaches and frameworks, particularly referencing Scrum and the Agility Path Guide. It highlights the importance of leadership, vision, and adapting to change, which aligns with the principles of empirical process control. However, while it mentions empirical methods, the primary focus is on organisational change rather than a deep exploration of empirical process control itself.",
     "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:42:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the adoption of Scrum in the context of organisational transformation, touching on themes of leadership and collaboration, which relate to Scrum Values. However, it primarily focuses on organisational change rather than explicitly detailing the Scrum Values themselves.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses organisational change and transformation within the Ghana Police Service, mentioning Scrum as a framework for facilitating this change. However, it does not explicitly address the Scrum Values such as commitment, courage, focus, openness, or respect. While there are references to leadership and a collaborative approach, these are not directly tied to the Scrum Values. The discussion is more focused on the need for a framework and the challenges of traditional command-and-control structures rather than the core values that underpin Scrum.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -691,12 +730,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-14T19:10:10",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T03:41:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the organisational transformation of the Ghana Police Service, focusing on leadership, vision, frameworks for change, and the need for a structured approach to achieve lasting change, which aligns closely with the category of Organisational Change.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the organisational transformation of the Ghana Police Service, focusing on the need for a clear vision, leadership, and a structured approach to change. It aligns well with key topics such as the role of leadership in driving change, the importance of frameworks for implementing organisational change, and the need for a cultural shift towards agility. The depth of discussion is significant, providing insights into the challenges faced and the strategies proposed for effective transformation, thus demonstrating a strong alignment with the category of Organisational Change.",
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -727,11 +769,14 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T19:10:18",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:41:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the application of Scrum principles in the context of organisational transformation within the Ghana Police Service, highlighting the need for a framework to implement change effectively. While it touches on Scrum, the primary focus is on broader organisational change rather than specifically on scaling Scrum practices across multiple teams.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the application of Scrum principles in the context of organisational transformation within the Ghana Police Service. It mentions the Agility Path Guide, which is a framework based on Scrum, indicating a direct connection to scaling practices. However, while it touches on the need for frameworks and leadership in transformation, it lacks detailed exploration of specific scaling frameworks like SAFe or LeSS, and does not delve deeply into the coordination among multiple teams or the challenges of scaling Scrum. Therefore, while there is a relevant focus, it is not comprehensive enough to warrant a higher confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -754,16 +799,19 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T19:10:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:41:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses organisational transformation within the Ghana Police Service, focusing on leadership, frameworks for change, and the adoption of agile principles, particularly Scrum, at an organisational level. It highlights the need for a structured approach to implement agility across the organisation, which aligns well with the key topics of scaling agility.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses organisational transformation within the Ghana Police Service, highlighting the need for a framework rather than a methodology, which aligns with scaling agility principles. It mentions leadership and the importance of a clear vision, which are relevant to fostering an agile culture. However, the focus is more on the specific case of the Ghana Police Service rather than broader strategies for scaling agility across multiple teams or organisations, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:32:55",
+    "calculated_at": "2025-03-15T03:41:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -771,7 +819,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses organisational change within the Ghana Police Service, focusing on leadership and transformation rather than software engineering practices. While it briefly mentions Scrum and frameworks, these are not the main focus, and the discussion lacks depth in software craftsmanship or engineering processes. The content does not align closely with the core themes of Engineering Excellence, which emphasises coding standards, quality assurance, and continuous improvement in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -793,11 +841,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-14T19:10:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:41:59",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the transformation of the Ghana Police Service through systems thinking principles, leadership, and organisational dynamics, making it a clear focus of the discussion.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the transformation of the Ghana Police Service, focusing on leadership, vision, and the need for a structured approach to organisational change. It aligns well with the principles of systems thinking, particularly in how it addresses the interplay between organisational structure and culture. The depth of discussion on frameworks, servant leadership, and the need for a holistic view of organisational dynamics contributes to a high confidence score. However, while it touches on systems thinking, it does not delve deeply into feedback loops or emergent behaviours, which slightly lowers the overall score.",
     "level": "Secondary"
   },
   "Customer Retention": {
@@ -811,11 +862,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T19:10:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:42:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the application of Scrum and organisational transformation within the Ghana Police Service, focusing on practical strategies for change, leadership, and the importance of a framework over a methodology. It highlights real-world applications of Agile principles in a complex environment, aligning well with the category of Pragmatic Thinking.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the transformation of the Ghana Police Service through a pragmatic approach, emphasising the need for a clear vision, structured frameworks, and servant leadership. It aligns well with the core themes of pragmatic thinking by addressing real-world applications of Scrum and organisational change, providing practical strategies for navigating complexity in a hierarchical environment. The depth of discussion is significant, detailing the challenges faced and the empirical methods proposed for effective change, thus demonstrating a strong alignment with the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -928,20 +982,26 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-14T19:10:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:42:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of leadership in facilitating organisational change within the Ghana Police Service, emphasising servant leadership, empowerment, and the need for a cultural shift towards Agile principles.",
+    "final_score": 80.0,
+    "reasoning": "The content discusses the transformation of the Ghana Police Service with a strong emphasis on leadership, particularly servant leadership, which is a core aspect of Agile Leadership. It outlines the need for a clear vision and strategic approach, aligning well with the principles of empowering teams and fostering a culture of trust and collaboration. The depth of discussion regarding the shift from command and control to a more Agile leadership style further supports a high confidence score.",
     "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-14T19:10:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:42:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the need for a clear vision and strategic approach to organisational transformation within the Ghana Police Service, highlighting the importance of leadership and frameworks in navigating complex change. It addresses the dynamics of complexity and uncertainty in the context of public sector reform, making sense of the challenges faced and the strategies to overcome them.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the need for a clear vision and strategic approach to organisational change within the Ghana Police Service, which aligns with sensemaking principles. It highlights the importance of leadership in fostering a culture of change and the necessity of frameworks over methodologies, indicating an understanding of complexity in organisational contexts. However, while it touches on sensemaking, the primary focus is on the transformation process rather than a deep exploration of sensemaking itself.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -1027,11 +1087,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-14T19:11:22",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T03:42:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the organisational transformation of the Ghana Police Service, focusing on effective change management strategies, leadership roles, and the importance of a structured approach to facilitate lasting change. It aligns well with the principles of change management in Agile environments.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the need for organisational change within the Ghana Police Service, highlighting the importance of a clear vision, leadership, and a structured approach to transformation. It aligns well with the core themes of change management, particularly in an Agile context, by emphasising the role of servant leadership and the necessity of a framework for effective change. The depth of discussion is significant, providing insights into the challenges faced and the strategies proposed for meaningful and sustainable change.",
     "level": "Secondary"
   },
   "Team Collaboration": {
@@ -1054,11 +1117,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-14T19:11:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:42:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the organisational transformation of the Ghana Police Service, focusing on strategic approaches, leadership, and frameworks for change, which aligns closely with the principles of digital transformation.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the organisational transformation of the Ghana Police Service, focusing on the need for a strategic approach to change, which aligns with the principles of digital transformation. It mentions the importance of leadership, vision, and frameworks, which are relevant to the category. However, while it touches on the role of frameworks like Scrum and Kanban, it does not explicitly discuss digital technologies or their direct impact on business agility and innovation, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "MVP": {
@@ -1099,11 +1165,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-14T19:11:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:42:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the principles of servant leadership, the importance of leadership in organisational transformation, and the application of frameworks like Scrum in a public sector context, which aligns well with the themes of technical leadership.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the need for a clear vision and servant leadership style in the context of organisational change within the Ghana Police Service. It touches on agile principles, particularly the shift from command and control to servant leadership, which aligns with the core themes of technical leadership. However, the focus is more on organisational transformation rather than specific technical leadership practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Estimation": {
@@ -1153,11 +1222,14 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-14T19:11:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:42:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses organisational transformation within the Ghana Police Service, focusing on the adoption of a framework for change that aligns with Agile principles. It highlights the need for leadership, vision, and a structured approach to implement Agile at an enterprise level, which aligns with the key topics of Large Scale Agility.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses organisational transformation within the Ghana Police Service, touching on leadership, frameworks, and the need for a structured approach to change. While it mentions Scrum and the Agility Path Guide, the primary focus is on the transformation process rather than explicitly scaling Agile methodologies across multiple teams or the entire organisation. The discussion of frameworks and leadership aligns with large-scale agility principles, but the depth and direct mentions are limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Team Motivation": {
@@ -1207,12 +1279,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:42:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the adoption of Scrum within the context of organisational transformation, highlighting the importance of leadership and frameworks, which are relevant to the role of a Scrum Master. However, the primary focus is on broader organisational change rather than specifically on Scrum Master responsibilities.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the application of Scrum principles in the context of organisational change within the Ghana Police Service. While it mentions Scrum and its framework, the primary focus is on broader organisational transformation rather than the specific role and responsibilities of a Scrum Master. The discussion includes elements of servant leadership and team dynamics, which are relevant to the Scrum Master role, but lacks detailed exploration of Scrum Master-specific practices and responsibilities.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1243,21 +1318,27 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:42:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transformation of the Ghana Police Service and touches on the role of leadership as a form of coaching, particularly in the context of Agile practices. However, the primary focus is on organisational change rather than coaching itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the need for a transformation in the Ghana Police Service, highlighting the importance of leadership styles that empower individuals, which aligns with coaching principles. However, while it mentions coaching in the context of leadership, it primarily focuses on organisational change and frameworks rather than providing in-depth discussions on coaching techniques or practices. The mention of servant leadership and the shift from command and control to coaching roles indicates some alignment with coaching concepts, but the overall depth and focus on coaching as a primary topic are limited.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:42:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adoption of Scrum and organisational transformation, which relates to Agile methodologies, but the primary focus is on leadership and organisational change rather than specific engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational change and transformation within the Ghana Police Service, touching on Agile principles like Scrum and the need for a framework rather than a methodology. However, the primary focus is on leadership and organisational strategy rather than specific engineering practices such as clean code, TDD, or CI/CD. While there are mentions of Agile concepts, they are not the main focus, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1279,7 +1360,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:31:48",
+    "calculated_at": "2025-03-15T03:41:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1287,7 +1368,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses organisational change and transformation within the Ghana Police Service, touching on leadership and frameworks like Scrum. However, it primarily focuses on change management rather than the strategic alignment of customer needs, business objectives, and technical capabilities as defined in the Product Management category. While there are mentions of frameworks and leadership styles, the depth of discussion does not sufficiently cover the core themes of product management, such as customer feedback prioritisation or metrics for product success.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1300,20 +1381,26 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-14T19:12:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:42:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the application of Scrum and Agile principles in the context of organisational transformation within the Ghana Police Service, highlighting the importance of frameworks over methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the application of Scrum and the Agility Path Guide in the context of organisational transformation within the Ghana Police Service. It explicitly mentions Scrum as a framework and explores its role in facilitating change, aligning well with the principles of Agile frameworks. The discussion includes the need for a framework rather than a methodology, which is a core theme in Agile practices. However, while the content is rich in examples and insights, it does not delve deeply into comparative analyses of different Agile frameworks or provide extensive case studies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-14T19:12:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:42:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the transformation of the Ghana Police Service through a structured approach that aligns with Agile principles, emphasising leadership, vision, and the adoption of frameworks like Scrum for organisational change.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the transformation of the Ghana Police Service with a focus on leadership, vision, and the adoption of Agile principles, particularly Scrum, to facilitate organisational change. It highlights the importance of a structured approach and the need for a framework rather than a strict methodology, which aligns with Agile Strategy. However, while Agile concepts are present, the primary focus is on the specific case of the Ghana Police Service rather than a broader discussion of Agile strategy as a whole.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1345,21 +1432,27 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:42:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational transformation within the Ghana Police Service, touching on Agile methodologies and the need for a framework rather than a strict methodology. While it mentions trends in leadership and organisational change, the primary focus is on the specific case of the Ghana Police Service rather than a broader analysis of trends.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational transformation within the Ghana Police Service, touching on leadership, frameworks, and the need for change. However, it lacks a focused analysis of trends in Agile or DevOps methodologies, which is essential for a higher confidence score in the Trend Analysis category. While it mentions Scrum and the Agility Path Guide, these references are not explored in the context of broader trends or their implications for organisational practices, leading to a lower overall confidence in alignment with the category.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:42:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses leadership and organisational transformation, touching on themes of ownership and the need for a shift from command and control to servant leadership, which relates to accountability. However, it primarily focuses on the broader context of organisational change rather than accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational change and leadership within the Ghana Police Service, touching on themes of transformation and the need for a framework rather than a methodology. However, it lacks a direct focus on accountability as defined in the Agile context. While it mentions leadership and the shift from command and control to servant leadership, it does not explicitly address accountability in terms of team dynamics or ownership. The discussion is more about organisational structure and change rather than the principles of accountability in Agile teams.",
+    "level": "Ignored"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",

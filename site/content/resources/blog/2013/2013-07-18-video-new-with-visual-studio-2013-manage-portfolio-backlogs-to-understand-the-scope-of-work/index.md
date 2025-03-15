@@ -26,11 +26,7 @@ aliasesArchive:
 - /video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
 - /blog/video--new-with-visual-studio-2013--manage-portfolio-backlogs-to-understand-the-scope-of-work
 - /resources/blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
-tags:
-- Portfolio Management
-- Agile Planning Tools
-- Practical Techniques and Tooling
-- Software Development
+tags: []
 categories:
 - Social Technologies
 preview: nakedalm-experts-visual-studio-alm-2-2.png

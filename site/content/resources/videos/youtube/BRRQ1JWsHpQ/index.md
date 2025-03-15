@@ -26,11 +26,12 @@ preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false
 tags:
+- Discovery and Learning
 - Team Collaboration
 - People and Process
+- Continuous Learning
 - Pragmatic Thinking
-- Software Developers
-- Agile Product Management
+- Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
   priority: 0.6

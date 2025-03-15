@@ -19,7 +19,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:18:30",
+    "calculated_at": "2025-03-15T02:11:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -27,7 +27,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions the role of product managers and the importance of skills and certifications relevant to product management. However, it primarily focuses on personal development and training rather than strategic discussions on product management methodologies or frameworks. The alignment with core themes is moderate, but the depth of discussion lacks substantial detail on product management practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -61,12 +61,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses topics related to agility and training, it touches on skills and training for Product Owners, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Product Owners in the context of training and skills development but lacks a focused discussion on their specific responsibilities, techniques, or challenges. The primary emphasis is on agility and upskilling in a general sense, rather than on the Product Owner role itself.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -79,25 +82,31 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:11:43",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses upskilling in relation to Scrum certifications and courses, indicating that Scrum is a major but secondary theme to the broader topic of professional development and value in the job market.",
+    "final_score": 49.0,
+    "reasoning": "The content mentions Scrum in the context of courses and certifications, indicating a focus on professional development related to Scrum. However, it lacks a detailed exploration of Scrum principles, roles, and practices, which are essential for a higher confidence score. The discussion is more about agility in general and the importance of upskilling rather than a deep dive into Scrum itself.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:11:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of agility and mentions Scrum certification courses, but it focuses more on individual skills and leveraging certifications rather than deeply exploring Agile frameworks themselves.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses agility and the importance of skills and certifications related to Agile practices, particularly mentioning Scrum. However, it lacks a detailed exploration of Agile frameworks, their principles, or comparative analysis. The focus is more on personal development and training rather than a thorough examination of Agile frameworks themselves.",
     "level": "Tertiary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-03-11T17:49:46",
+    "calculated_at": "2025-03-15T02:11:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -105,15 +114,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions Scrum and its associated courses, but it primarily focuses on the importance of agility and personal skills in the job market rather than on Scrum principles or product development practices. While there are references to Scrum training, the discussion lacks depth in Scrum methodologies and does not provide substantial insights into product development within a Scrum framework.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:11:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses upcoming training classes, which are events, and emphasizes the value of courses related to Agile methodologies. However, the main focus is on personal skills development rather than specific events or presentations.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses upcoming training classes and mentions specific courses related to Agile and Scrum, which aligns with the category of Events and Presentations. However, it lacks detailed discussions on specific events or presentations, and the focus is more on the importance of skills and certifications rather than on the events themselves. The mention of training classes provides some relevance, but it is not the primary focus of the content.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -298,11 +310,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:11:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the importance of agility and certifications in the context of software development, with specific references to Scrum courses and practices, making software development a major but secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses agility and Scrum, which are relevant to software development methodologies. However, it primarily focuses on personal skills and certifications rather than in-depth software engineering practices. While it mentions Scrum and the importance of upskilling in a competitive landscape, the overall discussion lacks detailed exploration of software development processes or methodologies.",
     "level": "Tertiary"
   },
   "Coaching": {
@@ -316,7 +331,7 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-10T18:23:28",
+    "calculated_at": "2025-03-15T02:11:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -324,15 +339,18 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses agility and the importance of skills in navigating uncertainty, which aligns with Agile principles. However, it lacks a direct focus on Agile Planning methodologies, techniques, or specific practices. The mention of Scrum courses indicates some relevance, but the overall discussion is more about personal development and skills rather than detailed Agile Planning practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:11:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of agility in adapting to changes in the marketplace and emphasizes upskilling and Agile practices, making it a major but secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of agility in navigating complex business environments and highlights the need for skills and certifications that align with Agile principles. However, it primarily focuses on personal development and training rather than a comprehensive Agile strategy or organisational alignment. While it touches on Agile concepts, it lacks depth in strategic discussions and does not explicitly address the integration of Agile practices into broader organisational strategies.",
     "level": "Tertiary"
   },
   "Team Performance": {
@@ -400,30 +418,39 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:11:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses agility and the importance of upskilling in the context of navigating a changing business landscape, which aligns with themes of digital transformation, although the primary focus is on skills and certifications rather than direct business transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of agility and upskilling in a rapidly changing business environment, which aligns with the themes of digital transformation. However, it primarily focuses on personal skills and certifications rather than the strategic adoption of digital technologies within organisations. While there are mentions of agility and innovation, the depth of discussion on digital transformation as a strategic initiative is limited.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:11:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly discusses the importance of running experiments and adapting in Agile environments, but it primarily focuses on skills, certifications, and personal development rather than systematic experimentation methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the importance of running experiments and adapting in Agile environments, but it lacks a focused discussion on hypothesis-driven experimentation. While it touches on agility and the need for innovation, it does not delve into specific techniques or case studies related to experimentation, which are crucial for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:11:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of upskilling and continuous education through certifications and courses, linking it to adaptability and value creation in agile environments. However, it primarily focuses on training offerings rather than a deep exploration of continuous learning principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of upskilling and continuous education in the context of Agile methodologies, which aligns with the principles of Continuous Learning. It mentions the need for individuals to adapt and innovate in a changing job market, reflecting a growth mindset. However, while it touches on relevant themes, the depth of discussion on specific Continuous Learning practices and techniques is limited, focusing more on the necessity of certifications rather than detailed strategies for knowledge sharing or feedback loops.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -541,11 +568,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:56:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions the importance of agility in creating value and focuses on upskilling and certifications that could contribute to delivering value in an Agile context, but it primarily discusses skill development rather than specific value delivery practices.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of agility and skills in delivering value in a competitive landscape, which aligns with the core themes of value delivery. However, it primarily focuses on personal development and certifications rather than specific methodologies or practices related to Agile, Scrum, or DevOps. The discussion lacks depth in terms of strategies for continuous delivery or customer value measurement, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Leadership": {
@@ -595,7 +625,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T12:23:57",
+    "calculated_at": "2025-03-15T02:11:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -603,7 +633,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of agility in the context of organisational change, particularly in relation to upskilling and adapting to market demands. However, it primarily focuses on personal skills and certifications rather than the broader strategies and frameworks of organisational change. While there are mentions of agility and the need for organisations to innovate, the depth of discussion on specific change management methodologies or leadership roles is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -625,11 +655,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T02:12:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the importance of skills, capabilities, and certifications in the context of Agile practices, which relates to team dynamics and the role of individuals within processes. However, it also leans towards promotion of courses and certifications, making the category a major but secondary theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of agility and upskilling in the context of the current job market, highlighting how individuals can enhance their value within teams and organisations. It touches on the human factors of innovation and the need for continuous learning, which aligns with the category's focus on people and processes. However, the discussion lacks depth in exploring team dynamics or specific methodologies like Agile or Scrum, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -643,11 +676,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:12:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of agility in the modern marketplace and highlights the need for skills that enable individuals to create value and innovate. However, it mainly focuses on certification and personal skills development rather than broader principles and practices of business agility.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of agility in navigating a complex market and highlights the need for skills and certifications that enhance adaptability and innovation. However, while it touches on relevant themes, such as the value of agility and the need for upskilling, it lacks a detailed exploration of business agility principles, leadership roles, or specific strategies for fostering a culture of innovation. The focus is more on personal development and training rather than a comprehensive discussion of business agility as a concept.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -709,12 +745,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:11:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agility and the importance of upskilling in an Agile context, making Agile principles a major theme, but it primarily focuses on skills and certifications rather than leadership roles within Agile.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of agility in the workplace and the need for individuals to upskill in order to remain valuable in a changing job market. While it touches on themes of adaptability and the value of Agile skills, it lacks a direct focus on leadership roles or practices within an Agile context. The discussion is more centred on personal development and training rather than on how leaders can foster a culture of Agile principles or empower teams. Therefore, while there is some alignment with Agile Leadership concepts, it is not the primary focus.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -736,11 +775,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:11:57",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly discusses agility, experimentation, inspection, and adaptation, which are key elements of empirical process control, but primarily focuses on upskilling and training rather than deeply exploring the principles and practices of empirical process control.",
+    "final_score": 50.0,
+    "reasoning": "The content briefly mentions agility, experimentation, inspection, and adaptation, which are core principles of empirical process control. However, it lacks a focused discussion on these topics and does not provide in-depth analysis or case studies related to empirical process control in Agile methodologies. The primary focus is on skills and certifications rather than the principles of empirical process control.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -763,12 +805,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:48:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses agility and the importance of upskilling to navigate the competitive landscape, aligning with the theme of market adaptability. However, it primarily focuses on individual skills and certifications, making market adaptability a major but secondary theme.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of agility in navigating market complexities and uncertainties, which aligns with the principles of market adaptability. It mentions the need for skills and certifications that enhance one's ability to respond to competitive pressures, reflecting a conceptual alignment with the category. However, while it touches on relevant themes, the depth of discussion on specific methodologies like Agile, DevOps, or Lean is somewhat limited, focusing more on personal development rather than organisational strategies.",
+    "level": "Tertiary"
   },
   "AI": {
     "category": "AI",
@@ -808,12 +853,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:11:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of agility in the workplace and the need for skills and certifications that enhance adaptability and innovation, but it primarily focuses on individual skills and courses rather than organizational practices or frameworks.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agility in a general sense, emphasising the importance of skills and capabilities in a changing market. However, it primarily focuses on individual upskilling and certifications rather than organisational agility or broader enterprise-level practices. While it touches on the need for adaptability and innovation, it lacks detailed exploration of frameworks, structures, or leadership roles that are central to enterprise agility.",
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -856,20 +904,26 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:05",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training courses related to Agile certifications and skills, which aligns partially with the category's focus on products and literature that support Agile practices. However, the primary theme seems to revolve around upskilling and the current job market rather than a specific product or book review.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of upskilling and obtaining certifications related to Agile methodologies, specifically mentioning Scrum courses. However, it primarily focuses on personal development and career advice rather than providing in-depth reviews or analyses of specific products or books. While there are mentions of training classes and certifications, the discussion lacks detailed exploration of the methodologies or frameworks themselves, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:11:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of Agile skills and certifications in the current job market while promoting specific training courses. It touches on industry trends and the value of further education in Agile but is primarily focused on promoting courses rather than providing news or reviews.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of agility and upskilling in the context of current job market trends, which aligns with industry news and updates. However, it primarily focuses on personal development and training offerings rather than providing a comprehensive review or analysis of specific tools or methodologies. While it mentions Agile and Scrum, the depth of discussion on these topics is limited, and it lacks direct references to recent developments or reviews in the Agile and DevOps fields.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -919,11 +973,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T12:22:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:11:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agility and the importance of upskilling in Agile practices, particularly mentioning Scrum and the role of Product Owners, suggesting a connection to Agile Product Management, but it is more focused on personal skills and certifications rather than direct Agile methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses agility and the importance of skills in navigating the market, which aligns with Agile principles. However, it lacks a direct focus on Agile Product Management practices, such as the role of the Product Owner or specific techniques for backlog prioritisation. The mention of Scrum courses indicates some relevance, but the overall depth and specificity regarding Agile Product Management are limited.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -955,12 +1012,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum certifications and training for Scrum Teams, indicating a focus on improving skills within the Scrum framework, though it is not primarily about Scrum Team dynamics or roles.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Scrum Teams in the context of training and skill development but lacks a focused discussion on the dynamics, roles, and collaboration within a Scrum Team. While it touches on the importance of skills for Scrum roles, it does not delve into the specific themes outlined for the category, such as team collaboration techniques or the importance of trust and psychological safety.",
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -973,11 +1033,14 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of skills and value creation in the context of a changing job market, hinting at entrepreneurial themes. However, the primary focus is on upskilling and certification rather than direct discussions of entrepreneurship.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of skills and capabilities in navigating the competitive landscape, which aligns with the entrepreneurial mindset and the need for innovation. It briefly mentions the potential for creating one's own business or product, indicating a connection to entrepreneurship. However, the primary focus is on personal development and training rather than the broader principles of entrepreneurship, which limits the depth of discussion on core entrepreneurial themes.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -991,12 +1054,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of agility in navigating complex market conditions and emphasizes upskilling related to Agile practices, which indicates a secondary theme of strategic alignment and development within Agile environments.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of agility and upskilling in a competitive landscape, which aligns with strategic themes in Agile environments. However, it lacks direct discussions on specific strategic frameworks or detailed techniques for optimising delivery processes, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -1009,12 +1075,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:33",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agility and its importance in today's marketplace, emphasizing the need to innovate and create value, which aligns with Agile principles. However, it is primarily focused on skills and certifications rather than the philosophy itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses agility in the context of navigating complexity and creating value, which aligns with Agile Philosophy. However, it primarily focuses on skills and certifications rather than the foundational principles of Agile. The mention of 'agility' and the need for continuous improvement reflects some alignment, but the depth of discussion on Agile principles is limited, making it a secondary focus.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1045,11 +1114,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions agility and the importance of Agile skills and certifications in the context of navigating complexity and creating value, but the primary focus is on personal skills and professional development rather than a comprehensive discussion about Agile transformation strategies or methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses agility and its importance in the modern marketplace, highlighting the need for skills and certifications related to Agile practices. It mentions Scrum courses and the value of Agile competencies, indicating a focus on Agile transformation. However, it lacks detailed exploration of Agile principles, frameworks, or change management strategies, which limits its depth and alignment with the category.",
     "level": "Tertiary"
   },
   "Portfolio Management": {
@@ -1063,11 +1135,14 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of agility in navigating uncertainty and complexity, and touches on upskilling as a way to adapt to organizational changes. However, it primarily focuses on skills and certifications, making resilience and change a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of agility in navigating uncertainty and adapting to changes in the job market, which aligns with the themes of resilience and change. However, it primarily focuses on personal skills and certifications rather than organisational strategies or frameworks. The depth of discussion on organisational resilience is limited, making it a secondary focus rather than a primary one.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -1099,12 +1174,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of upskilling and offers training courses related to Scrum, which aligns with practical techniques in Agile, though the primary focus leans towards personal development rather than direct tool application.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of upskilling and obtaining certifications related to Agile practices, specifically mentioning Scrum courses. However, it primarily focuses on the value of skills and certifications rather than providing a detailed exploration of specific tools or methodologies. While there are mentions of Agile and Scrum, the discussion lacks depth in practical techniques and tooling, making it more of a motivational piece rather than a technical guide.",
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1153,21 +1231,27 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agility and the importance of skills that create value in a competitive landscape, suggesting a connection to Agile principles, but it does not focus explicitly on the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses agility and the importance of skills in navigating a competitive landscape, but it lacks a direct focus on the Agile Product Operating Model. While it touches on concepts related to Agile and value creation, it does not delve into the specific principles, strategies, or frameworks associated with the Agile Product Operating Model. The discussion is more about personal development and training rather than the organisational framework itself.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of agility and the value of learning through skills and certifications, which relates to learning and adaptation in professional environments, but it is primarily focused on career advancement and training opportunities.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of agility and continuous learning in the context of upskilling and adapting to market changes. It mentions the value of certifications and skills in fostering innovation and creating value, which aligns with the core themes of the category. However, the primary focus is on personal development and training rather than a broader exploration of discovery and learning processes within teams or organisations. The depth of discussion on methodologies and frameworks is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1207,12 +1291,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses skills and certifications relevant to Agile and Scrum, touching on the practical implications of agility in navigating complexity, though it primarily serves as promotional material for training courses.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of agility in navigating complexity and uncertainty, which aligns with pragmatic thinking. It mentions the need for skills and certifications relevant to Agile and Scrum, indicating a practical approach to problem-solving. However, while it touches on these themes, the discussion lacks depth and specific strategies, focusing more on personal development and training rather than concrete applications of Agile principles.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1234,12 +1321,15 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agility and the importance of skills and capabilities in a rapidly changing environment, which touches on themes relevant to BetaCodex. However, it primarily focuses on personal development and training rather than the broader principles and practices of BetaCodex.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agility and the importance of skills in a changing market, which aligns with some principles of Beta Codex, such as decentralisation and human-centric approaches. However, it primarily focuses on personal development and training rather than the broader organisational design principles of Beta Codex. The mention of agility is present but not a primary focus, and the depth of discussion on Beta Codex principles is limited.",
+    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1279,12 +1369,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agility and the importance of upskilling in a changing environment, though it primarily focuses on training and certification rather than deep principles or values of Agile.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agility in a general sense and touches on the importance of skills and capabilities in navigating uncertainty, which aligns with Agile principles. However, it lacks direct references to the Agile Manifesto or its core values and principles, making it more of a secondary mention rather than a primary focus.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1378,21 +1471,27 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of skills and innovation in the context of Agile and the current job market, making the Ability to Innovate a major theme, albeit secondary to a broader discussion about career development.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of agility and upskilling in the context of navigating a competitive landscape, which indirectly relates to the Ability to Innovate. However, it lacks a direct focus on measuring or enhancing innovation capabilities, and does not delve into Evidence-Based Management principles or specific frameworks for innovation. The discussion is more about personal skills and certifications rather than organisational innovation practices.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T12:22:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:12:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of skills and capabilities in Agile environments, which relates to operational practices, but it primarily focuses on personal development and certification rather than specific operational techniques or methods.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of agility and upskilling in a competitive landscape, which touches on operational practices indirectly. However, it lacks specific techniques or strategies aimed at enhancing operational efficiency within Agile, DevOps, or Lean frameworks. The focus is more on personal development and certifications rather than on practical applications that streamline processes or improve performance in organisational settings.",
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

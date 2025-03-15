@@ -18,17 +18,8 @@ aliases:
 aliasesArchive:
 - /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
 - /resources/newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
-categories:
-- Scrum
-tags:
-- Agile Product Management
-- Discovery and Learning
-- Continuous Learning
-- News and Reviews
-- Product Owner
-- Products and Books
-- Software Developers
-- Software Development
+categories: []
+tags: []
 
 ---
 Greetings,

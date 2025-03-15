@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/calling-an-object-method-in-a-data-trigger
 tags:
 - Software Development
-- Troubleshooting
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

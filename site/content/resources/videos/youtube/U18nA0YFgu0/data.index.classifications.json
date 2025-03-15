@@ -10,11 +10,14 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:30",
+    "ai_confidence": 65.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of iterating on procedures and policies, which aligns with the theme of experimentation, but the primary focus is on the concept of wrath and accountability in Agile environments.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of fostering a culture of learning from mistakes, which aligns with the core themes of experimentation in Agile. It mentions encouraging risk-taking and learning from outcomes, which are key aspects of hypothesis-driven approaches. However, the primary focus is on addressing the issue of wrath and blame rather than on systematic experimentation itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
@@ -46,12 +49,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of organisational culture, specifically the blame culture and lack of accountability, which relates to organisational dynamics. However, it primarily focuses on individual behaviours and specific Agile practices rather than a comprehensive systems thinking approach.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:39:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the dynamics of team behaviour in Agile environments, particularly focusing on the concept of accountability versus blame. While it touches on aspects of organisational culture and the importance of fostering a safe environment for learning, it does not explicitly engage with systems thinking principles or the broader organisational dynamics that are central to the category of Organisational Physics. The discussion is primarily centred on individual behaviours and team interactions rather than a holistic view of organisational systems.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -82,7 +88,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T15:08:11",
+    "calculated_at": "2025-03-14T21:38:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -90,7 +96,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the concept of 'wrath' within Agile teams, particularly in relation to accountability and decision-making processes. While it touches on aspects relevant to product management, such as stakeholder interactions and team dynamics, it primarily focuses on cultural issues rather than strategic product management methodologies or frameworks. The mention of the product owner and accountability indicates some relevance, but the overall discussion lacks depth in strategic alignment with product management principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -130,29 +136,38 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and the impact of organisational culture on accountability, which relates to the delivery of functional software, but it primarily focuses on the concept of 'wrath' rather than directly addressing working software.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:38:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the cultural aspects of Agile teams, particularly focusing on the sin of wrath and its impact on team dynamics. While it touches on accountability and learning from mistakes, which are relevant to the delivery of working software, it does not explicitly address the characteristics or practices of working software itself. The primary focus is on team behaviour rather than the functional aspects of software delivery, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes within teams and the impact of accountability on those decisions, but it primarily focuses on the negative aspects of organisational culture rather than structured, evidence-based methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the impact of wrath on team dynamics and decision-making processes, particularly in Agile environments. However, it primarily focuses on emotional aspects and cultural shifts rather than structured, evidence-based methodologies for decision-making. While it mentions accountability and risk-taking, it lacks detailed exploration of frameworks or empirical evidence that would strengthen its alignment with the category.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses accountability and blame culture within Agile teams, which relates to self-organisation, but it primarily focuses on the negative aspects of organisational culture rather than self-organisation principles or practices.",
+    "calculated_at": "2025-03-13T15:12:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of accountability and creating a safe environment for mistakes, which aligns with self-organisation principles. However, it primarily focuses on the negative aspect of wrath and blame rather than directly addressing self-organisation practices or techniques. While it touches on fostering a culture of learning and risk-taking, it lacks detailed exploration of self-organisation frameworks or tools, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -205,12 +220,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses accountability and blame culture within Agile teams, which relates to transparency in terms of visibility of decisions and actions. However, the primary focus is on the concept of wrath and its implications rather than on transparency itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses accountability and the importance of creating a safe environment for admitting mistakes, which indirectly relates to transparency. However, it primarily focuses on the concept of wrath and blame rather than explicitly addressing transparency in Agile processes. While there are mentions of fostering a culture of openness, the overall emphasis is not on transparency itself, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -250,11 +268,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:34:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses accountability and organisational culture within Agile teams, which relates to strategic alignment and team performance. However, it primarily focuses on the concept of 'wrath' rather than a clear strategic approach.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the impact of wrath on Agile teams and emphasises the importance of accountability and a learning culture, which aligns with strategic themes in Agile. However, it primarily focuses on the emotional and cultural aspects rather than providing a comprehensive strategic framework or techniques for optimising delivery processes. The depth of discussion is moderate, as it offers insights into overcoming blame culture but lacks detailed strategic methodologies or metrics.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
@@ -268,12 +289,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:38:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'wrath' within Agile teams and its impact on accountability, which relates to Agile principles. However, it primarily focuses on cultural issues rather than a detailed exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of 'wrath' within Agile teams, focusing on accountability and the culture of learning from mistakes, which aligns with Agile principles. However, it does not explicitly mention specific Agile frameworks or provide a comparative analysis, which limits its depth. The primary focus is on team dynamics rather than a thorough exploration of Agile frameworks themselves.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -286,12 +310,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of blame culture and accountability on team dynamics, which relates to team collaboration. However, it primarily focuses on the concept of 'wrath' and its implications rather than providing clear techniques or strategies for improving collaboration.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the impact of wrath on team dynamics and the importance of fostering accountability over blame, which aligns closely with the themes of team collaboration. It provides detailed insights into how to create a supportive environment that encourages risk-taking and learning, essential for high-performance Agile teams. The depth of discussion on overcoming blame culture and promoting shared ownership further strengthens its relevance to the category.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -379,12 +406,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of 'wrath' in Agile environments, particularly focusing on accountability and blame culture, which relates to Agile values. However, it primarily revolves around specific team dynamics and issues rather than a comprehensive exploration of Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of 'wrath' in Agile teams, focusing on the importance of accountability over blame, which aligns with Agile principles of fostering a safe environment for learning and growth. It explicitly mentions the need for a culture that embraces mistakes, reflecting Agile's emphasis on continuous improvement and self-organising teams. However, while it touches on relevant themes, it does not delve deeply into the Agile Manifesto or the twelve principles, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -406,20 +436,26 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:43",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of the Product Owner in the context of accountability during a Sprint review, highlighting the importance of taking responsibility for product decisions. However, the primary focus is on the concept of 'wrath' in Agile environments rather than a comprehensive exploration of the Product Owner's responsibilities.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Product Owner's role in fostering accountability within Agile teams, which aligns with the responsibilities of a Product Owner. However, the primary focus is on the broader issue of 'wrath' in Agile environments rather than a detailed exploration of the Product Owner's specific responsibilities or practices. The mention of the Product Owner is limited and does not delve deeply into their techniques or strategies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of organisational culture on accountability and decision-making within Agile teams, which relates to change management principles. However, it primarily focuses on the concept of 'wrath' and its manifestations rather than providing a comprehensive discussion on change management strategies or practices.",
+    "calculated_at": "2025-03-14T14:59:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of transforming blame into accountability, which aligns with change management principles in fostering a culture of continuous improvement. It addresses the need for a shift in mindset within Agile teams, which is a key aspect of change management. However, while it touches on relevant themes, it does not provide extensive strategies or practices for managing change at an organisational level, which limits its depth in the context of the category.",
     "level": "Tertiary"
   },
   "Mentoring": {
@@ -433,11 +469,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses accountability and iterative processes in Agile, which are related to empirical process control, but the primary focus is on the concept of 'wrath' and its impact on team dynamics rather than on empirical process control itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of accountability and learning from mistakes, which aligns with the principles of empirical process control. However, it primarily focuses on the emotional aspect of team dynamics rather than explicitly addressing empirical process control practices or techniques. While it mentions Agile concepts, it does not delve deeply into inspection, adaptation, or specific tools related to empirical process control.",
     "level": "Tertiary"
   },
   "Product Validation": {
@@ -535,12 +574,15 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific incident during a Sprint Review, highlighting issues of accountability and stakeholder interaction, making it a major but secondary theme within a broader discussion on Agile principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:38:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of 'wrath' in Agile teams, focusing on blame and accountability, which are not specific to the Sprint Review. While it touches on roles like the Product Owner, it does not address the Sprint Review process, its purpose, or best practices, leading to a very low confidence score for alignment with the Sprint Review category.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -604,12 +646,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'wrath' in Agile environments, particularly focusing on accountability and organisational culture, which are relevant to Agile strategy. However, it primarily revolves around specific behaviours and cultural issues rather than a comprehensive discussion on Agile strategy itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the cultural aspects of Agile teams, specifically addressing the detrimental effects of blame and the importance of accountability, which aligns with Agile principles. It provides a detailed exploration of how to foster a positive team environment, which is crucial for Agile strategy. However, while it touches on strategic elements, it does not delve deeply into broader organisational strategies or the integration of Agile practices into strategic planning, which slightly limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -649,21 +694,27 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of blame culture and lack of accountability on team dynamics, which relates to team motivation, but it primarily focuses on the negative aspects of organisational culture rather than strategies for enhancing motivation.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the negative impact of wrath on team dynamics and emphasises the importance of accountability and a culture of learning, which aligns well with the core themes of team motivation. It provides detailed insights into how to foster a supportive environment that encourages risk-taking and learning from mistakes, thus enhancing team engagement and collaboration. The depth of discussion is significant, addressing specific symptoms and solutions related to team motivation, making it a strong fit for the category.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of blame culture and accountability on team dynamics, which relates to team performance. However, it primarily focuses on the concept of 'wrath' rather than providing strategies or practices for enhancing team collaboration or effectiveness.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the impact of wrath on team dynamics and the importance of fostering accountability over blame, which aligns closely with the core themes of team performance. It provides detailed insights into the symptoms of wrath, the role of the Product Owner, and strategies for creating a supportive team culture. The depth of discussion is significant, addressing both the problems and solutions related to team performance in an Agile context.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -739,11 +790,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of organisational culture on accountability and blame, which relates to organisational change. However, it primarily focuses on Agile practices and team dynamics rather than broader organisational change strategies.",
+    "calculated_at": "2025-03-14T21:39:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the cultural aspects of Agile teams, particularly focusing on overcoming blame and fostering accountability, which aligns with the principles of organisational change. However, it primarily centres on team dynamics and Agile practices rather than broader organisational change strategies or frameworks. While it touches on themes relevant to organisational change, such as creating a culture of learning and resilience, it lacks detailed exploration of methodologies or frameworks like ADKAR or Kotter's 8-Step Process, which are central to the category. Therefore, while there is a significant connection, it does not fully meet the criteria for a primary focus on organisational change.",
     "level": "Tertiary"
   },
   "Test Automation": {
@@ -757,20 +811,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles, particularly accountability during Sprint reviews, but primarily focuses on the concept of 'wrath' in Agile environments rather than Scrum product development itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile principles and the importance of accountability, which are relevant to Scrum, but it does not explicitly focus on Scrum practices or product development. The mention of the Product Owner's role provides some alignment, but the overall discussion is more about team dynamics than Scrum-specific methodologies.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of organisational culture on accountability and decision-making within Agile teams, which relates to operational practices. However, it primarily focuses on the concept of 'wrath' rather than specific operational techniques or strategies.",
+    "calculated_at": "2025-03-14T21:38:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the impact of blame and accountability in Agile teams, which relates to operational practices by addressing team dynamics and fostering a culture of learning. However, it lacks direct mentions of specific operational techniques or metrics, focusing more on cultural aspects rather than practical methodologies for improving operational efficiency.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
@@ -802,12 +862,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses accountability and team dynamics within a Scrum context, particularly during a Sprint review, which relates to the Scrum Master's role.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of accountability and blame within Agile teams, which is relevant to the Scrum Master's role in fostering a positive team culture. However, it primarily focuses on the general Agile environment and the Product Owner's role, with only brief mentions of Scrum principles. The depth of discussion on Scrum Master-specific practices is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -829,12 +892,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses accountability and team dynamics within an Agile context, which relates to technical leadership, but it primarily focuses on the negative aspects of organisational culture rather than providing clear guidance or strategies for technical leadership.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of accountability and fostering a culture of learning within Agile teams, which aligns with the principles of technical leadership. It addresses team dynamics and the role of the Product Owner in guiding the team, but it lacks a broader discussion on technical leadership strategies and practices. The focus is primarily on the emotional aspect of team dynamics rather than on specific technical leadership methodologies or practices.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -856,11 +922,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of organisational culture on accountability within Agile teams, touching on themes relevant to Agile Planning, such as iteration and stakeholder engagement during Sprint reviews. However, it primarily focuses on the concept of 'wrath' and blame culture rather than providing a clear, structured discussion on Agile Planning methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the impact of team dynamics, specifically the sin of wrath, on Agile practices. It highlights the importance of accountability and learning from mistakes, which aligns with Agile principles. However, it does not delve deeply into specific Agile planning methodologies or techniques, making it more of a secondary discussion rather than a primary focus on Agile Planning.",
     "level": "Tertiary"
   },
   "Accountability": {
@@ -895,12 +964,15 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of accountability and blame culture, which are related to psychological safety, but the primary focus is on the negative impact of wrath in Agile environments rather than directly addressing psychological safety itself.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the concept of wrath in Agile teams, linking it to a culture of blame and fear of making mistakes, which directly relates to psychological safety. It highlights the importance of creating a safe environment for accountability and learning, aligning well with the core themes of psychological safety. The depth of discussion is substantial, providing examples and strategies for fostering a supportive culture, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -913,12 +985,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:38:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses team dynamics and accountability within a Scrum context, particularly during a Sprint review, but primarily focuses on the concept of wrath and blame culture rather than Scrum roles or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the impact of blame and accountability within Agile teams, which aligns with the dynamics of a Scrum Team. It mentions the Product Owner's role, indicating a direct connection to Scrum roles. However, the focus is more on general Agile principles rather than specific Scrum practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -1024,12 +1099,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of accountability and learning from mistakes within Agile teams, which aligns with the principles of Continuous Learning, but it primarily focuses on the concept of wrath and its impact on team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:39:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of transforming blame into accountability, which aligns closely with the principles of Continuous Learning. It highlights the need for a culture that embraces mistakes as learning opportunities, directly addressing key topics such as the growth mindset and the role of feedback loops. The depth of discussion is substantial, providing examples and actionable insights on fostering a learning culture within Agile teams. Overall, the content is highly relevant to Continuous Learning, making it a strong fit for the category.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1042,12 +1120,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:38:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational culture and accountability in the context of Agile practices, which relates to enterprise agility. However, it primarily focuses on team-level dynamics and the concept of 'wrath' rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on team-level dynamics and the cultural aspects of Agile, specifically addressing the issue of blame and accountability within teams. While it touches on themes relevant to a broader organisational context, such as fostering a culture of learning and adaptability, it does not explicitly discuss enterprise-level frameworks, structures, or strategies that are central to the concept of Enterprise Agility. Therefore, while there is some alignment with the category, it lacks the necessary depth and direct focus on organisational agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1060,12 +1141,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of a blame culture on accountability within Agile teams, which relates to organisational resilience and adaptability. However, the primary focus is on the concept of wrath in Agile rather than on resilience strategies or change management practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:39:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of fostering a culture of accountability and learning from mistakes, which aligns with the principles of resilience and adaptability in Agile environments. However, while it touches on these themes, the primary focus is on addressing the specific issue of 'wrath' in Agile teams rather than a broader discussion on organisational resilience or change management. The depth of discussion is moderate, providing examples and strategies but not extensively covering the wider implications for organisational resilience.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1105,30 +1189,39 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the impact of organisational culture on accountability in product delivery, but it primarily focuses on the concept of 'wrath' rather than the methodologies and practices of product delivery itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the impact of team dynamics, specifically the sin of wrath, on Agile methodologies, which is relevant to product delivery. It highlights the importance of accountability and learning from mistakes, aligning with the iterative development and feedback loops essential in product delivery. However, while it touches on Agile practices, it lacks a comprehensive exploration of the broader product delivery processes, such as deployment and testing, which limits its depth in this category.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:39:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of accountability within Agile teams and the Product Owner's responsibilities during Sprint reviews, which are relevant to Agile Product Management. However, the primary focus is on the concept of 'wrath' and its impact on team dynamics rather than a comprehensive exploration of Agile methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of accountability in Agile teams, particularly highlighting the Product Owner's responsibilities in fostering a culture of learning from mistakes. It aligns with Agile principles by addressing team dynamics and the importance of a supportive environment. However, while it touches on relevant themes, it does not delve deeply into specific Agile product management practices or methodologies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of iterating on processes and learning from mistakes, which aligns with the theme of continuous learning. However, the primary focus is on the concept of 'wrath' in Agile environments and accountability, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:39:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the importance of transforming blame into accountability, which aligns with the core themes of fostering a culture of learning and innovation. It highlights the significance of learning from mistakes and encourages experimentation, which are key aspects of the Discovery and Learning category. The depth of discussion is substantial, providing examples and actionable insights on how to create a supportive environment for continuous learning. However, the primary focus is on addressing a specific issue (wrath) within Agile teams rather than a broader exploration of discovery and learning methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1225,11 +1318,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:42:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of accountability within Agile teams and how a culture of blame (wrath) can hinder organisational adaptability and responsiveness, which are key aspects of business agility. However, the primary focus is on the negative impacts of wrath rather than a comprehensive exploration of business agility principles or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of fostering a culture of accountability and learning within Agile teams, which aligns with the principles of business agility. However, it primarily focuses on the specific issue of 'wrath' and blame in Agile environments rather than broader business agility concepts. While it touches on themes of adaptability and innovation, it lacks a comprehensive exploration of business agility as a whole.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -1243,11 +1339,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses accountability and iterative processes in Agile, which are related to value delivery, but the primary focus is on the concept of 'wrath' and its impact on team dynamics rather than on strategies for delivering value.",
+    "calculated_at": "2025-03-14T21:39:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of accountability and learning from mistakes within Agile teams, which aligns with the principles of iterative development and maximising customer value. However, it primarily focuses on the cultural aspects of Agile rather than specific strategies or methodologies for value delivery, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
@@ -1261,12 +1360,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'wrath' in Agile environments, particularly focusing on accountability and blame culture, which are relevant to organisational agility. However, it primarily revolves around the negative aspects of team dynamics rather than providing a clear framework or strategies for enhancing agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:38:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the cultural aspects of Agile, particularly focusing on the detrimental effects of blame and the importance of accountability, which aligns with the principles of organisational agility. It addresses how fostering a culture of learning and risk-taking can enhance adaptability, a key theme in the category. However, while it touches on these themes, it does not delve deeply into broader organisational strategies or frameworks, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1342,12 +1444,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'wrath' in the context of organisational culture and accountability, which relates to psychological aspects of team dynamics and behaviour. However, the primary focus is on Agile practices and processes, making the psychological theme a secondary aspect.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:39:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the psychological aspects of team dynamics, specifically focusing on the detrimental effects of blame and the importance of accountability in Agile teams. It aligns well with core themes of organisational psychology, such as conflict resolution, psychological safety, and the role of leadership in fostering a positive team environment. However, the primary focus remains on Agile practices rather than a broader exploration of organisational psychology principles, which slightly limits its depth of discussion in that specific field.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

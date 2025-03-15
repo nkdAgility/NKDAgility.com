@@ -32,11 +32,10 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Frameworks
-- Lean Thinking
-- Practical Techniques and Tooling
-- Metrics and Learning
-- Operational Practices
-- Continuous Learning
+- Software Development
+- Agile Project Management
+- Value Delivery
+- Flow Efficiency
 resourceTypes:
 - video
 categories:

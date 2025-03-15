@@ -31,14 +31,13 @@ sitemap:
 tags:
 - Empirical Process Control
 - Agile Planning
+- Agile Values and Principles
 - Agile Philosophy
 - Pragmatic Thinking
 - Software Development
 - Agile Project Management
 - People and Process
-- Agile Product Management
-- Agile Transformation
-- Organisational Agility
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

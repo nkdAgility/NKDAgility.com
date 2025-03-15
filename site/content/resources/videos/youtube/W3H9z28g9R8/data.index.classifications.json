@@ -58,11 +58,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:30:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational challenges and the importance of empowering individuals to make decisions, which aligns with coaching principles. However, it primarily focuses on systemic issues rather than direct coaching practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of trust, empowerment, and fostering a supportive environment, which aligns with coaching principles. However, it primarily focuses on resource scarcity and organisational challenges rather than direct coaching techniques or practices.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
@@ -97,11 +100,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-11T23:34:43",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-13T15:12:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 34.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the impact of top-down management structures on organisational effectiveness and the importance of empowering individuals to make decisions, which aligns with Agile Leadership principles. However, it primarily focuses on the concept of 'famine' in organisations rather than explicitly addressing leadership roles or practices in an Agile context.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses the importance of empowerment, trust, and resource allocation in Agile environments, which aligns well with Agile Leadership principles. It provides actionable strategies for leaders to foster a supportive culture, directly addressing the role of leaders in overcoming challenges. However, while it touches on leadership, the primary focus is on the concept of 'famine' and resource scarcity rather than a comprehensive exploration of Agile Leadership itself.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -124,38 +130,47 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational challenges related to resource allocation and decision-making, which can impact digital transformation efforts. However, it primarily focuses on agile practices and management structures rather than a direct discussion on digital technologies or their strategic adoption.",
+    "calculated_at": "2025-03-14T21:30:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the challenges of resource scarcity in Agile organisations and suggests strategies for overcoming these issues, which indirectly relates to digital transformation through the empowerment of teams and the need for modern tools. However, it lacks a direct focus on digital technologies or their strategic adoption, which is essential for a higher confidence score in the Digital Transformation category.",
     "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:04",
+    "calculated_at": "2025-03-14T21:29:57",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "The content discusses organisational challenges and decision-making processes that impact the availability of resources necessary for effective software development, but it does not focus primarily on the delivery of functional software or its quality.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-11T23:34:50",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the impact of decision-making processes on organisational success, particularly in relation to resource allocation and the consequences of top-down management structures. It highlights the importance of empowering individuals to make informed decisions based on their understanding of needs, which aligns with evidence-based decision-making principles.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-13T15:34:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses decision-making in the context of resource allocation and empowerment within Agile organisations. It mentions the importance of trust and transparency in decision-making processes, which aligns with the core themes of the category. However, the discussion is somewhat anecdotal and lacks a structured, evidence-based approach, which affects the depth and overall confidence score.",
+    "level": "Tertiary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-11T23:34:51",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the impact of top-down management structures on team autonomy and the importance of empowering individuals within an organisation to make decisions. It highlights the need for self-organisation to avoid 'famine' in resources and decision-making, making it a significant theme, though not the sole focus.",
+    "calculated_at": "2025-03-13T16:42:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of trust, empowerment, and resource allocation, which are key aspects of self-organisation. It highlights strategies for fostering an environment that supports autonomy and decision-making at all levels, aligning well with the principles of self-organisation in Agile. However, while it touches on these themes, it does not delve deeply into specific Agile frameworks or provide extensive case studies, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Remote Working": {
@@ -169,20 +184,26 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational challenges related to resource allocation and decision-making, which are relevant to Lean principles. However, it primarily focuses on Agile practices and management structures rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:31:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses resource scarcity and empowerment within Agile organisations, which touches on themes of efficiency and continuous improvement. However, it primarily focuses on Agile practices rather than Lean principles specifically. While there are mentions of trust and investment in people, the discussion lacks direct references to Lean methodologies or waste reduction techniques, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-11T23:34:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the impact of organisational culture on resource availability and decision-making processes, highlighting how cultural elements can hinder or facilitate success in Agile environments.",
+    "calculated_at": "2025-03-14T14:59:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the impact of resource scarcity on Agile organisations, highlighting the importance of trust, empowerment, and a supportive culture. It aligns well with the themes of organisational culture, particularly in fostering an environment conducive to Agile practices. The depth of discussion on strategies for overcoming cultural barriers and promoting continuous improvement further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -205,12 +226,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of top-down management structures and the importance of enabling team members to make decisions regarding resources, which relates to transparency in decision-making processes. However, the primary focus is on the concept of 'famine' in Agile environments rather than transparency itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:31:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 28,
+    "ai_depth": 36,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of transparency in decision-making, particularly in the context of financial decisions and resource allocation. It highlights how clear communication of the rationale behind these decisions can foster trust and accountability within teams. While transparency is not the primary focus, it is a significant theme woven throughout the discussion on overcoming resource scarcity in Agile organisations. The depth of discussion on strategies to promote transparency, such as advocating for budget flexibility and fostering an environment of trust, further supports this classification.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -259,21 +283,27 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses organisational challenges that hinder innovation, such as top-down management structures and resource allocation issues. While it touches on the importance of empowering individuals to make decisions that can drive innovation, the primary focus is on the problems rather than a structured discussion on measuring or enhancing the ability to innovate.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:30:26",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 26,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the scarcity of resources in Agile organisations and how it affects innovation. It mentions the importance of trust, training, and financial support, which are crucial for fostering a culture of innovation. However, while it touches on these themes, it does not explicitly focus on the measurement or frameworks for innovation capabilities, which limits its alignment with the Ability to Innovate category. The depth of discussion is moderate, providing actionable strategies but lacking in empirical data or specific metrics related to innovation.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:31:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges within organisations that can hinder Agile practices, such as top-down management structures and resource allocation. While it touches on Agile concepts, it primarily focuses on the implications of these challenges rather than a detailed exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges faced by Agile organisations, particularly focusing on resource scarcity and its impact on agility. While it touches on Agile principles and the need for empowerment and trust, it does not delve deeply into specific Agile frameworks or provide a comparative analysis. The mention of Agile is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -286,11 +316,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-11T23:35:11",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the impact of organisational structures and policies on team dynamics and collaboration, particularly in relation to trust and resource availability. While it touches on themes relevant to team collaboration, it primarily focuses on the concept of 'famine' in organisations rather than directly exploring techniques or strategies for enhancing teamwork.",
+    "calculated_at": "2025-03-14T15:20:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of trust, empowerment, and resource allocation within Agile teams, which aligns well with the themes of team collaboration. It provides actionable strategies for fostering a collaborative environment and highlights the impact of team dynamics on performance. However, while it touches on collaboration, the primary focus is on addressing resource scarcity rather than direct team collaboration techniques, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -340,12 +373,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies and their impact on organisational effectiveness, which is a significant theme in software development. However, it also delves into broader organisational management issues, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:31:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the challenges and strategies related to Agile methodologies, particularly focusing on resource scarcity within Agile organisations. It aligns with the Software Development category through its emphasis on Agile practices and the importance of trust, training, and empowerment in software teams. However, while it touches on relevant themes, the depth of technical discussion and specific software development practices is limited, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -412,11 +448,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-11T23:35:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:30:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of 'famine' in organisations, which relates to the lack of resources and support necessary for effective change management. It highlights the importance of empowering individuals within the organisation to make decisions and manage resources, aligning with change management principles in Agile environments. The discussion on the impact of top-down management structures and the need for adaptability and responsiveness to organisational needs further supports its relevance to change management.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of 'famine' in Agile organisations, focusing on the lack of resources and how it affects team performance and organisational success. It aligns with change management by addressing the need for empowerment, trust, and strategic investment in resources, which are essential for effective change. The depth of discussion includes actionable strategies for overcoming these challenges, indicating a strong focus on fostering a culture of adaptability and resilience. However, while it touches on change management principles, it does not explicitly frame the entire discussion within the context of change management, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -466,12 +505,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:31:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of organisational structures and policies on the ability of teams, including software developers, to access necessary resources and training, which is relevant to Agile and DevOps contexts. However, the primary focus is on broader organisational issues rather than specific practices or roles of software developers.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges faced by Agile teams, particularly the scarcity of resources and the importance of empowerment and trust. While it touches on Agile principles, it does not focus specifically on the role of software developers or their practices within Agile and DevOps contexts. The discussion is more about organisational structures and management rather than the direct experiences or methodologies of software developers.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -538,12 +580,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:30:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses delays and their impact on organisational efficiency, which relates to Lead Time, but the primary focus is on organisational famine and resource allocation rather than a direct exploration of Lead Time as a metric.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the concept of 'famine' in Agile organisations, focusing on resource scarcity and empowerment rather than Lead Time. There are no direct mentions of Lead Time, and while it touches on themes of efficiency and resource allocation, it does not provide substantial detail or techniques related to measuring or optimising Lead Time.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -556,11 +601,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T23:36:03",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical issues related to resource allocation and decision-making within Agile and organisational contexts, highlighting real-world applications and consequences of management decisions. It focuses on problem-solving strategies and the importance of empowering individuals to make decisions, which aligns well with the principles of pragmatic thinking.",
+    "calculated_at": "2025-03-14T21:30:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses practical strategies for overcoming resource scarcity in Agile organisations, aligning with pragmatic thinking. It provides real-world examples and actionable insights, particularly around empowerment and trust, which are crucial in Agile contexts. However, while it touches on relevant themes, the depth of discussion on specific Agile methodologies is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -592,11 +640,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-11T23:36:09",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T21:30:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the impact of organisational structures and decision-making on Agile practices, highlighting the importance of enabling teams to access resources and make decisions to foster an Agile culture. While it touches on Agile principles, the primary focus is on the consequences of management practices rather than a comprehensive Agile strategy.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of 'famine' in Agile organisations, focusing on the lack of resources and how it affects Agile practices. It aligns well with Agile Strategy by addressing the need for empowerment, trust, and strategic investment in resources, which are crucial for successful Agile implementation. The depth of discussion is significant, providing actionable strategies and personal insights that reflect on the integration of Agile principles into organisational structures. However, while it touches on Agile methodologies, it does not explicitly frame these discussions within a broader strategic context, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -628,30 +679,39 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-11T23:36:17",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:30:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the concept of 'famine' in organisations, focusing on the lack of resources and decision-making processes that hinder effective operations. It highlights the importance of understanding the impact of decisions on organisational success, which aligns with sensemaking principles. However, the primary focus is on specific organisational challenges rather than a broader exploration of sensemaking frameworks or techniques.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of 'famine' in Agile organisations, focusing on resource scarcity and its impact on decision-making. It mentions the importance of trust, empowerment, and transparency, which align with sensemaking principles. However, the primary focus is on practical strategies rather than a deep exploration of sensemaking frameworks or models, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-11T23:36:18",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the impact of organisational structures and policies on team performance and motivation, particularly focusing on the lack of resources and autonomy that can lead to disengagement. While it touches on team dynamics, the primary focus is on systemic issues rather than direct motivational strategies.",
+    "calculated_at": "2025-03-14T21:30:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of trust, empowerment, and resource allocation, which are key aspects of team motivation. It provides actionable strategies for fostering an environment of trust and empowerment, aligning well with the core themes of the category. The depth of discussion is substantial, offering insights and personal experiences that enhance the understanding of team dynamics in an Agile context.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of organisational structures and resource availability on team performance, touching on themes of trust, decision-making, and the importance of empowering team members. However, it primarily focuses on broader organisational issues rather than specific agile team dynamics or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:30:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of trust, empowerment, and resource allocation within Agile teams, which aligns with the core themes of team performance. It provides actionable strategies for overcoming resource scarcity, fostering trust, and promoting continuous improvement, indicating a strong focus on enhancing team dynamics and collaboration. However, while it touches on relevant topics, it does not delve deeply into specific Agile ceremonies or metrics, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -727,11 +787,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-11T23:36:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:30:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the concept of 'famine' in organisations, focusing on the lack of resources and decision-making authority that can hinder effective change. It highlights the importance of empowering individuals within the organisation to make decisions and access necessary resources, which aligns with the principles of organisational change and agility. The examples provided illustrate the impact of organisational structure on responsiveness and the need for a cultural shift to facilitate effective change management.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the challenges of resource scarcity in Agile organisations and suggests strategies for overcoming these issues, which aligns with the themes of organisational change. It touches on the need for empowerment, trust, and flexible budgeting, which are relevant to change management. However, while it mentions organisational structures and transformation, the focus is more on Agile practices rather than a comprehensive exploration of organisational change methodologies or frameworks.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -754,21 +817,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:31:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of organisational structures and decision-making on operational efficiency, particularly in relation to resource allocation and the importance of empowering employees to make spending decisions. However, it primarily focuses on the concept of 'famine' in Agile contexts rather than providing concrete operational practices or strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of 'famine' in Agile organisations, focusing on the scarcity of resources and its impact on operational efficiency. It provides actionable strategies for overcoming these challenges, such as empowering teams, fostering trust, and advocating for flexible budgeting. However, while it touches on operational practices, the primary focus is more on the challenges and personal insights rather than a detailed exploration of specific operational methodologies or metrics, which slightly limits its alignment and depth.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:30:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses organisational challenges and decision-making processes, touching on the importance of having the right resources and the impact of budget constraints. However, it primarily focuses on anecdotal evidence and personal experiences rather than empirical data or structured EBM principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges of resource scarcity in Agile organisations and suggests strategies for overcoming these issues. However, it primarily focuses on personal insights and anecdotal evidence rather than empirical data or structured evidence-based management practices. While it touches on themes of empowerment and trust, it lacks a direct connection to the core principles of Evidence-Based Management, such as the use of metrics or case studies demonstrating EBM applications.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -817,12 +886,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:31:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of organisational structures and decision-making on team effectiveness, which relates to technical leadership principles. However, it primarily focuses on the concept of 'famine' in organisations rather than providing clear strategies or practices for technical leadership.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the challenges of resource scarcity in Agile organisations and offers strategies for overcoming these issues, which aligns with the principles of technical leadership. It touches on fostering trust, empowering teams, and advocating for budget flexibility, all of which are relevant to technical leadership. However, the discussion is somewhat anecdotal and lacks a deeper exploration of specific technical leadership practices or agile methodologies, which limits its overall depth and direct focus on the category.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -853,12 +925,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-11T23:36:56",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T21:30:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the importance of ownership and responsibility in decision-making within organisations, particularly in relation to resource allocation and the impact of delays on team performance. It highlights the need for individuals at all levels to have the authority to make decisions that affect their work, which aligns with the principles of accountability in Agile. However, the primary focus is on the concept of 'famine' and its implications rather than a direct exploration of accountability itself.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of trust and empowerment within Agile teams, which aligns with the principles of accountability. It mentions the need for team members to take ownership of their roles and decisions, and it provides strategies for fostering a culture of trust and transparency. However, the primary focus is on resource scarcity rather than accountability itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "MVP": {
     "category": "MVP",
@@ -880,11 +955,14 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:31:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the lack of trust and the impact of top-down management structures on team performance, which relates to psychological safety. However, the primary focus is on organisational challenges and resource allocation rather than directly addressing psychological safety as a central theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of trust and empowerment within Agile teams, which aligns with the concept of psychological safety. It mentions fostering an environment of trust and valuing team members, which are key aspects of psychological safety. However, the primary focus is on resource scarcity and management strategies rather than a deep exploration of psychological safety itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
@@ -943,11 +1021,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-11T23:37:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:30:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the concept of 'famine' in organisations, which relates to the lack of resources and support necessary for Agile practices. It highlights the importance of empowering teams and individuals to make decisions, aligning with Agile principles of collaboration and adaptability. The focus on organisational structure and the impact of management decisions on Agile success indicates a strong connection to Agile philosophy.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of 'famine' in Agile organisations, focusing on the lack of resources and its impact on team empowerment and trust, which aligns with Agile principles of collaboration and continuous improvement. It provides actionable strategies for overcoming these challenges, reflecting a deep understanding of Agile philosophy. However, while it touches on Agile values, it does not explicitly reference the Agile Manifesto or its principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -997,12 +1078,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of organisational structures and decision-making on resource availability, which relates to strategic goals. However, it primarily focuses on operational challenges and examples rather than explicitly defining or articulating long-term objectives.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:30:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of resource allocation and empowerment within Agile organisations, which indirectly relates to strategic goals. However, it primarily focuses on operational challenges and solutions rather than explicitly defining long-term objectives or aligning with Agile principles. The depth of discussion on strategies for overcoming resource scarcity provides some insight into organisational improvement, but it lacks a direct connection to strategic goal-setting frameworks or the broader impact on business agility.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1039,12 +1123,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:31:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational challenges related to resource allocation and decision-making, which can be linked to Lean principles of maximising value and minimising waste. However, the primary focus is on Agile concepts and management structures, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and the challenges faced within Agile organisations, particularly the concept of 'famine' related to resource scarcity. While it touches on themes of empowerment and continuous improvement, which are relevant to Lean, it does not explicitly discuss Lean principles or methodologies. The discussion lacks depth in Lean-specific tools or concepts, leading to a low confidence score in alignment with the Lean category.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1093,48 +1180,63 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in organisational structures and resource allocation that impact product delivery, particularly in the context of Agile methodologies. However, it primarily focuses on the concept of 'famine' in organisations rather than providing a clear, structured discussion on product delivery practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:31:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the challenges of resource scarcity in Agile organisations, which indirectly relates to product delivery by highlighting the importance of trust, training, and financial support in delivering successful software products. However, while it touches on relevant themes, it lacks a direct focus on methodologies and practices specifically tied to the end-to-end product delivery process.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:31:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of organisational structures and decision-making on Agile practices, particularly in relation to resource allocation and the role of individuals in maximising product success. However, it primarily focuses on broader organisational challenges rather than specific Agile product management techniques or principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges faced in Agile organisations, particularly the scarcity of resources, which indirectly relates to Agile Product Management. However, it lacks direct references to Agile methodologies, roles like the Product Owner, or specific product management practices. The focus is more on organisational culture and resource allocation rather than on product value maximisation or Agile principles in product management.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of providing necessary resources and training within organisations, which relates to learning and adapting for success. However, the primary focus is on organisational challenges and management structures rather than explicit methodologies for discovery and learning.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:30:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of empowerment, trust, and investment in training, which aligns with the themes of continuous learning and fostering a culture of innovation. However, it primarily focuses on the challenges of resource scarcity in Agile environments rather than exploring methodologies for discovery and learning in depth. The mention of personal training budgets and strategies for overcoming resource famine indicates some alignment with the category, but the overall focus leans more towards project management and organisational challenges.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational dynamics and decision-making processes, particularly in relation to resource allocation and the impact of management structures. While it touches on Systems Thinking principles, it primarily focuses on the concept of 'famine' in organisations rather than a comprehensive exploration of Systems Thinking itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:30:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses challenges within Agile organisations, particularly focusing on resource scarcity and empowerment. While it touches on systemic issues like traditional management structures and the need for trust, it does not explicitly engage with Systems Thinking principles or methodologies. The discussion is more aligned with Agile practices than a holistic analysis of interconnected systems, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational challenges and decision-making processes that reflect elements of complexity thinking, particularly in relation to resource allocation and emergent behaviours. However, it primarily focuses on specific issues within Agile and management practices rather than a comprehensive exploration of complexity science principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:31:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses challenges in Agile organisations, particularly the scarcity of resources, which can relate to complexity thinking in terms of understanding organisational dynamics and the need for adaptive strategies. However, it lacks direct references to complexity science principles and frameworks, such as the Cynefin Framework or emergence. The discussion is more focused on practical strategies and personal insights rather than a deep exploration of complexity theory.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1177,12 +1279,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T16:42:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:30:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of 'famine' in organisations, which relates to broader themes of resource availability and decision-making without directly referencing specific Agile, Scrum, DevOps, or Lean frameworks. However, it does touch on Agile-related topics, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of 'famine' in Agile organisations, which is a metaphorical exploration rather than a direct reference to established Agile frameworks. While it touches on themes relevant to Agile, such as empowerment and resource allocation, it does not strictly adhere to recognised Agile methodologies or provide actionable insights based on established practices. The personal anecdotes and general reflections contribute to a broader discussion that aligns with the Miscellaneous category, but the focus on Agile-related issues prevents a higher confidence score.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -1339,7 +1444,7 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-11T16:21:33",
+    "calculated_at": "2025-03-14T21:29:57",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1347,7 +1452,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of trust, empowerment, and resource allocation within Agile organisations, which aligns with themes of organisational psychology. However, the primary focus is on Agile methodologies and practices rather than psychological principles. While there are mentions of psychological concepts, they are not the main focus, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1429,7 +1534,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:16:23",
+    "calculated_at": "2025-03-14T21:29:57",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1437,6 +1542,6 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content discusses issues related to organisational structure and decision-making that can impact agile practices, but it does not explicitly mention Scrum roles, events, or artifacts. While it touches on themes relevant to agile principles, such as empowerment and team dynamics, it lacks a focused discussion on Scrum itself, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

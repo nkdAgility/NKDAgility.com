@@ -10,7 +10,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T18:11:39",
+    "calculated_at": "2025-03-15T07:00:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions MVVM and test-driven development, which are relevant to practical techniques in software development. However, it lacks a detailed exploration of specific tools or methodologies related to Agile or DevOps practices. The focus is more on an event and speaker rather than a comprehensive discussion on practical techniques and tooling.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses MVVM and test-driven development, which are related to software code quality and complexity, but the primary focus is on an event and speaker rather than an in-depth exploration of these topics.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions concepts related to MVVM and test-driven development, which are relevant to software quality and complexity. However, it primarily focuses on an event announcement rather than an in-depth discussion of code quality principles or complexity theory. The depth of discussion is limited, as it does not explore the implications of these concepts on maintainability or scalability.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -271,11 +274,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Jesse Liberty, an author of books relevant to Silverlight and programming, but primarily focuses on an event rather than a detailed discussion or review of specific products or literature.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses an event featuring a speaker who is an author and expert in Silverlight, which indirectly relates to products and books. However, it lacks detailed reviews or analyses of specific literature or tools relevant to Agile or DevOps. The mention of the speaker's books provides a slight connection, but the overall focus is more on the event rather than a thorough exploration of products or literature.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -343,12 +349,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an upcoming talk on Silverlight 4, which includes topics relevant to technology and development practices, but it primarily focuses on the event details rather than providing a review or analysis.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on an event featuring Jesse Liberty discussing Silverlight 4, MVVM, and test-driven development. While it mentions a specific talk and provides details about the speaker and venue, it lacks a broader discussion on industry news or reviews related to Agile or DevOps. The event itself is relevant to technology but does not delve into trends or evaluations that would typically characterise the 'News and Reviews' category. Therefore, while there are elements of relevance, the overall focus is more on the event specifics rather than industry-wide insights.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -553,7 +562,7 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-03-11T17:00:40",
+    "calculated_at": "2025-03-15T07:00:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -561,7 +570,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions 'test-driven programs' in the context of MVVM and Silverlight, indicating a connection to automated testing principles. However, it lacks detailed discussion on automated testing methodologies, tools, or best practices, which are crucial for a higher confidence score. The focus is more on the event and speaker rather than a thorough exploration of automated testing.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -748,7 +757,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:37:28",
+    "calculated_at": "2025-03-15T07:00:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -756,7 +765,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses MVVM and test-driven development, which are relevant to software craftsmanship and quality assurance. However, it primarily focuses on an event and the speaker rather than providing a detailed exploration of engineering excellence principles or practices. The mention of refactoring and dependency injection aligns with best practices, but the overall depth and direct focus on engineering excellence are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -859,12 +868,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Test-Driven Development (TDD), which relates to test automation principles, but primarily focuses on MVVM and Silverlight applications.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions 'test-driven programs' in the context of MVVM and Silverlight, indicating a connection to test automation principles. However, it lacks a detailed exploration of test automation frameworks, CI/CD practices, or best practices in test automation. The focus is more on the event and speaker rather than a comprehensive discussion on test automation, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1111,7 +1123,7 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-11T15:10:12",
+    "calculated_at": "2025-03-15T07:00:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1119,7 +1131,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions 'test-driven programs' in the context of a talk about MVVM and Silverlight, indicating some relevance to Test First Development. However, it lacks a detailed exploration of TDD principles, practices, or tools, and does not provide substantial depth on the topic. The focus is more on the event and speaker rather than a thorough discussion of Test First Development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -1222,7 +1234,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:40:44",
+    "calculated_at": "2025-03-15T07:00:45",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -1230,7 +1242,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses Test-Driven Development (TDD) and the MVVM pattern, which are relevant to software developers. However, it primarily focuses on a specific event and speaker rather than a broader discussion on Agile or DevOps methodologies. While there are mentions of TDD and related practices, the overall context does not deeply engage with the themes of Agile or DevOps, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1243,11 +1255,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:00:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Test-Driven Development, Refactoring, and MVVM, which are relevant to engineering practices, but it is more of an event announcement than a deep discussion on these practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Test-Driven Development (TDD) and refactoring, which are key topics within Engineering Practices. However, the primary focus is on an event and speaker rather than an in-depth exploration of these practices. The mention of MVVM and TDD indicates some alignment with the category, but the overall depth and direct discussion are limited.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -1369,7 +1384,7 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-03-10T15:03:30",
+    "calculated_at": "2025-03-15T07:00:45",
     "ai_confidence": 42.0,
     "ai_mentions": 30.0,
     "ai_alignment": 40.0,
@@ -1377,7 +1392,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content mentions Test-Driven Development (TDD) in the context of a talk about MVVM and Silverlight, indicating a focus on TDD principles. However, the discussion lacks depth and specific details about TDD practices, such as the Red-Green-Refactor cycle or writing unit tests before code implementation. The primary focus seems to be on the event and speaker rather than a thorough exploration of TDD itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

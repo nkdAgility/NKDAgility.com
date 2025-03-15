@@ -175,7 +175,7 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-10T18:58:16",
+    "calculated_at": "2025-03-15T07:31:20",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -183,7 +183,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content provides a personal account of attending the MSDN Roadshow, which includes some insights into the event and mentions specific technologies like ADO.NET and Silverlight. However, it lacks a broader analysis or review of the event's impact on Agile or DevOps practices. The discussion is primarily anecdotal and does not delve deeply into industry trends or provide substantial evaluations, which limits its alignment with the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -289,7 +289,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T10:46:47",
+    "calculated_at": "2025-03-15T07:31:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -297,7 +297,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content provides a personal account of attending the MSDN Roadshow, which aligns with the Personal category by sharing individual experiences and reflections. However, the focus is more on the event and technical insights rather than deep personal insights related to Agile, Scrum, or DevOps methodologies. The mention of personal experiences is present but not the primary focus, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",

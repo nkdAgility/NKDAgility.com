@@ -33,7 +33,6 @@ tags:
 - Practical Techniques and Tooling
 - Install and Configuration
 - System Configuration
-- Software Development
 categories: []
 preview: metro-problem-icon-4-4.png
 

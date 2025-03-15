@@ -24,6 +24,7 @@ aliasesArchive:
 - /resources/blog/installing-visual-studio-2008-team-suite-on-windows-7
 tags:
 - Windows
+- Install and Configuration
 preview: metro-visual-studio-2005-128-link-9-9.png
 categories: []
 

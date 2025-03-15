@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:47:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a feature wish related to Team Foundation Server (TFS) and source control, which is relevant to application lifecycle management, but it is primarily focused on a specific tool and feature rather than the broader aspects of ALM.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions ALM in the tags but primarily focuses on a specific feature request related to source control in TFS. It does not discuss the broader aspects of Application Lifecycle Management, such as lifecycle stages, governance, or best practices, which are essential for a higher confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -403,12 +406,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:47:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses a feature related to Team Foundation Server (TFS), which is closely associated with Azure Repos, but the primary focus is on a specific feature wish rather than on core Azure Repos functionalities.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a feature wish related to Team Foundation Server (TFS), which is relevant to Azure Repos as it involves source control management. However, the focus is primarily on a specific feature request rather than a comprehensive exploration of Azure Repos functionalities. While it touches on source control issues, it lacks depth in discussing broader topics like branching strategies, pull requests, or CI/CD integration, which are key themes of the Azure Repos category.",
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -565,7 +571,7 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-11T10:52:53",
+    "calculated_at": "2025-03-15T07:47:20",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -573,11 +579,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses a specific feature wish for a Team Foundation Server (TFS) add-in that aims to improve collaboration by notifying users about file access. While it touches on the need for better communication and coordination among team members, it lacks a broader discussion on various collaboration tools or their integration with Agile methodologies. The focus is primarily on a single feature rather than a comprehensive overview or best practices, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T15:20:20",
+    "calculated_at": "2025-03-15T07:47:20",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -585,16 +591,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific feature wish related to source control in the context of Team Foundation Server (TFS), which is relevant to software developers. However, it does not explicitly mention Agile or DevOps methodologies, nor does it explore best practices or principles associated with these frameworks. The discussion is more focused on a specific tool and its functionality rather than the broader role of software developers within Agile or DevOps contexts. Therefore, while there is some relevance, the overall alignment and depth of discussion are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:47:26",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific feature related to Source Control in the context of Team Foundation Server (TFS), which is relevant to software development practices. However, the focus is more on proposing a feature rather than discussing established software development methodologies or best practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a specific feature wish related to source control in software development, which aligns with version control systems. However, it lacks depth in discussing broader software development methodologies or practices, focusing instead on a singular feature request without extensive detail on its implications or integration into the development lifecycle.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -925,7 +934,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T19:05:34",
+    "calculated_at": "2025-03-15T07:47:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -933,7 +942,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the challenges of collaboration in a source control context, specifically regarding file access among team members. However, it lacks a comprehensive discussion on team dynamics, shared ownership, or strategies for improving communication and collaboration. The focus is more on a specific tool suggestion rather than a broader exploration of team collaboration principles within Agile or DevOps frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -1198,7 +1207,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T15:20:41",
+    "calculated_at": "2025-03-15T07:47:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1206,7 +1215,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a feature wish for a TFS add-in that aims to improve user collaboration and access to files, which indirectly relates to working software by addressing user needs. However, it lacks explicit discussion on software quality, functionality, or Agile principles, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1408,7 +1417,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:21:31",
+    "calculated_at": "2025-03-15T07:47:20",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1416,6 +1425,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a feature request related to source control in Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, events, or artifacts. While it touches on collaboration, it lacks depth in discussing Scrum's framework or its implementation, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

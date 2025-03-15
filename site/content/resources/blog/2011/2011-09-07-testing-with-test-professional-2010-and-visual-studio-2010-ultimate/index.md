@@ -25,8 +25,6 @@ aliasesArchive:
 tags:
 - Events and Presentations
 - Products and Books
-- Application Lifecycle Management
-- Practical Techniques and Tooling
 categories: []
 
 ---

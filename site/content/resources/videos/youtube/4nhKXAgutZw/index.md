@@ -30,14 +30,14 @@ sitemap:
 tags:
 - People and Process
 - Agile Philosophy
+- Team Collaboration
 - Agile Values and Principles
+- Personal
 - Organisational Culture
-- Customer Satisfaction
-- Team Motivation
-- Agile Product Management
-- Employee Engagement
-- Agile Leadership
-- Organisational Psychology
+- Agile Transformation
+- Value Delivery
+- Customer Retention
+- Team Performance
 resourceTypes:
 - video
 layout: video

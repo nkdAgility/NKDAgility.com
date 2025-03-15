@@ -24,7 +24,6 @@ aliasesArchive:
 - /resources/blog/allow-user-to-change-the-region-for-windows-live-id-billing
 tags:
 - Windows
-- Personal
 categories: []
 preview: metro-xbox-360-link-2-2.png
 

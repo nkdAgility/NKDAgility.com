@@ -28,6 +28,7 @@ aliasesArchive:
 - /resources/blog/installing-tfs-2013-scratch-easy
 tags:
 - Install and Configuration
+- System Configuration
 categories: []
 
 ---

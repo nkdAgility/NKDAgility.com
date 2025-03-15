@@ -214,7 +214,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T11:54:51",
+    "calculated_at": "2025-03-15T05:11:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -222,7 +222,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a specific technical issue related to TFS Integration Tools and provides a workaround for a runtime conflict. While it touches on a technical problem, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is more on troubleshooting rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -289,7 +289,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T18:01:44",
+    "calculated_at": "2025-03-15T05:11:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -297,7 +297,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific issue related to the TFS Integration Platform, which is part of the Azure DevOps suite. However, it primarily focuses on a technical problem without providing a broader context or insights into Azure DevOps functionalities or best practices. The mention of TFS indicates a connection to Azure DevOps, but the discussion lacks depth and does not cover key topics such as CI/CD, agile practices, or integration with other tools.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -355,12 +355,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to the TFS Integration Tools, which is relevant to application lifecycle management, but it primarily focuses on a technical problem rather than the broader aspects of ALM.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific issue related to the TFS Integration Platform during a source control migration, which is a technical problem rather than a comprehensive discussion on Application Lifecycle Management. While it touches on aspects of application management, such as migration and path mapping, it lacks a broader exploration of the application lifecycle stages, governance, or best practices. The focus is too narrow and does not sufficiently align with the core themes of ALM.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -490,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses workarounds for a specific issue related to TFS Integration Tools, which can be seen as a practical application aimed at improving operational efficiency in source control migration. However, the primary focus is on a technical issue rather than broader operational practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific issue related to TFS Integration Tools and provides workarounds for a runtime conflict during source control migration. While it touches on operational practices by suggesting ways to reduce the likelihood of errors in the migration process, it lacks a broader discussion on methodologies like Agile, DevOps, or Lean. The focus is more on a technical issue rather than on enhancing operational efficiency or delivery within those frameworks.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -628,7 +634,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T16:50:00",
+    "calculated_at": "2025-03-15T05:11:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -636,7 +642,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content discusses a specific issue related to the TFS Integration Platform, which is a version control system. However, it primarily focuses on a particular error encountered during migration rather than broader best practices or methodologies in modern source control. While it touches on aspects of source control, such as path mapping and conflict resolution, it lacks a comprehensive exploration of the core themes outlined in the category, such as branching strategies or collaboration workflows.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1123,12 +1129,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a specific issue related to the TFS Integration Platform and its interaction with Windows path limitations, making Windows a significant theme, but the primary focus is on TFS and source control migration.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Tools and its interaction with Windows path limitations. While it directly mentions Windows in the context of character limits, the primary focus is on TFS and source control migration rather than broader Windows topics like installation or troubleshooting. The discussion is somewhat detailed regarding the issue but lacks depth in exploring Windows-specific features or configurations. Overall, it aligns with the Windows category but does not fully meet the criteria for a primary focus.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1306,12 +1315,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:11:50",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS Integration Tools, which are related to Azure Repos, but the primary focus is on a specific issue encountered during source control migration rather than a broader discussion of Azure Repos functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses an issue related to the TFS Integration Platform, which is part of the broader Azure DevOps ecosystem. However, it primarily focuses on a specific error encountered during source control migration rather than exploring Azure Repos functionalities or best practices. While it mentions TFS, it does not delve into Azure Repos' core themes such as branching strategies, pull requests, or CI/CD integration, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",

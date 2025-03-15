@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/team-suite-on-the-cheap
 - /team-suite-on-the-cheap
 - /resources/blog/team-suite-on-the-cheap
-tags:
-- Products and Books
+tags: []
 categories: []
 
 ---

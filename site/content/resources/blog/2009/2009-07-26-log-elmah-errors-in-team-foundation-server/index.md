@@ -23,7 +23,12 @@ aliasesArchive:
 - /log-elmah-errors-in-team-foundation-server
 - /resources/blog/log-elmah-errors-in-team-foundation-server
 tags:
+- Practical Techniques and Tooling
+- Azure DevOps
 - Software Development
+- Troubleshooting
+- Technical Mastery
+- Application Lifecycle Management
 preview: metro-binary-vb-128-link-1-1.png
 categories:
 - DevOps

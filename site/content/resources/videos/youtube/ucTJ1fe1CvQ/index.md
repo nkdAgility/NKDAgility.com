@@ -30,6 +30,12 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
+- Product Discovery
+- Pragmatic Thinking
+- Continuous Learning
+- People and Process
+- Product Owner
+- Ability to Innovate
 resourceTypes:
 - video
 categories:

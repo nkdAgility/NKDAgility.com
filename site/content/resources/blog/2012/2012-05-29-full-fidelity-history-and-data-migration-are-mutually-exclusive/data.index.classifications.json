@@ -40,11 +40,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:58:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses data migration and its implications on software tractability, which relates to code quality and complexity. However, the primary focus is on migration strategies rather than a deep exploration of code quality principles or complexity theory.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the complexities involved in data migration and the importance of maintaining traceability in software systems, which aligns with the themes of code quality and complexity. It addresses the challenges of ensuring compliance and the implications of different migration strategies on software architecture. However, while it touches on relevant topics, it does not delve deeply into complexity theory or best practices in coding, which limits its overall depth of discussion.",
     "level": "Tertiary"
   },
   "Discovery and Learning": {
@@ -76,21 +79,27 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses data migration and upgrade options in Team Foundation Server, which relates to installation and configuration processes, but it primarily focuses on the implications and considerations rather than providing clear, actionable installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses data migration and the challenges associated with maintaining historical data during the process. While it touches on aspects of installation and configuration indirectly, such as the implications of using Team Foundation Server and the need for tractability, it primarily focuses on the theoretical and strategic considerations of data migration rather than providing actionable installation or configuration instructions. The discussion lacks detailed step-by-step guidance or specific configuration best practices, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of tractability and accountability in data migration processes, particularly in relation to compliance with regulations like SOX. However, the primary focus is on technical aspects of data migration rather than a broader discussion on transparency and accountability within Agile teams.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges of data migration and the importance of traceability in software development, which touches on accountability. However, it lacks a strong focus on transparency and does not delve deeply into the principles of openness or communication within Agile teams. The mention of compliance and traceability aligns somewhat with accountability, but the overall discussion is more technical and operational rather than centred on the Agile principles of transparency and accountability.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -121,7 +130,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:56:35",
+    "calculated_at": "2025-03-15T05:57:36",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -129,7 +138,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses data migration and the challenges associated with maintaining traceability and history in software systems, particularly in the context of Team Foundation Server. While it touches on aspects relevant to DevOps, such as the importance of traceability in software development and the implications for application lifecycle management, it lacks a direct focus on core DevOps principles like CI/CD, automation, or cultural shifts. The discussion is more centred on data management and compliance rather than the integration of development and operations practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -142,12 +151,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:58:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes related to data migration and system upgrades, presenting choices and considerations that align with decision theory principles, but it primarily focuses on technical aspects of migration rather than a broader exploration of decision-making frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses decision-making in the context of data migration, presenting choices and their implications. However, it primarily focuses on technical aspects of migration rather than exploring decision theory concepts such as heuristics, biases, or frameworks. While it does mention the need for careful consideration of options, it lacks depth in discussing decision-making processes in uncertain environments.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -169,7 +181,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T16:54:52",
+    "calculated_at": "2025-03-15T05:57:36",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -177,7 +189,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content discusses the challenges of data migration and the importance of maintaining traceability, which indirectly touches on human factors and decision-making processes. However, it primarily focuses on technical aspects of migration rather than the interplay between people and structured methodologies. While there are mentions of customer concerns and decision-making, the depth of discussion on team dynamics, leadership, or process improvement is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -217,12 +229,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:41",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses data migration and the importance of tractability in software development, which relates to engineering practices. However, it primarily focuses on specific migration challenges rather than broader technical excellence methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses data migration and the challenges associated with maintaining historical data integrity, which touches on aspects of technical excellence, particularly in relation to software development practices. However, it lacks a direct focus on core themes such as TDD, CI/CD, or modular architecture. While it does mention the importance of traceability and compliance, the discussion is more about the implications of data migration rather than a deep dive into engineering methodologies or practices that enhance agility. Therefore, while there is some relevance, it does not fully align with the category's primary focus.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -499,12 +514,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses data migration strategies and their implications for operational efficiency, particularly in the context of compliance and traceability, which are relevant to operational practices. However, it primarily focuses on specific migration challenges rather than broader operational methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses data migration and the challenges associated with maintaining historical data integrity, which relates to operational practices in terms of process optimisation and decision-making. However, it lacks a direct focus on Agile, DevOps, or Lean methodologies, and while it touches on operational efficiency, it does not provide in-depth strategies or techniques for improvement.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -526,12 +544,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the strategic considerations involved in data migration and upgrade processes within the context of software development and compliance, which aligns with strategic decision-making in Agile environments.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content discusses data migration strategies and the implications of choosing between upgrading and migrating systems, which touches on strategic decision-making. However, it lacks a direct focus on Agile, Scrum, or DevOps frameworks, and does not delve deeply into the strategic alignment of teams or organisational goals. The discussion is more technical and operational rather than strategic in the Agile context.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -637,11 +658,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses data migration and history retention in the context of Team Foundation Server, which relates to version control practices, but it primarily focuses on migration strategies rather than broader source control methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses data migration in the context of source control systems, specifically Team Foundation Server (TFS). It addresses the challenges of maintaining history and traceability during migrations, which is relevant to version control practices. However, while it touches on important aspects of source control, such as tractability and the implications of data integrity, it lacks a comprehensive exploration of broader modern source control methodologies and best practices. The focus is primarily on migration rather than a holistic view of version control systems, which slightly limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -886,11 +910,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses data migration and the implications for software traceability and compliance, which are relevant to the delivery of functional software. However, the primary focus is on migration strategies rather than the characteristics or delivery of working software itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses data migration and the challenges associated with maintaining historical data integrity, which is relevant to working software. However, it primarily focuses on the technical aspects of migration rather than the broader principles of delivering functional software that meets user needs. While it touches on the importance of traceability and compliance, it lacks a comprehensive exploration of working software characteristics, best practices, or customer feedback integration.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -979,11 +1006,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses data migration and its implications for software release processes, particularly in relation to maintaining history and compliance, which are relevant to release management. However, the primary focus is on data migration rather than the broader strategies and practices of release management.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses data migration and the challenges associated with maintaining historical data integrity during software upgrades. While it touches on aspects of release management, such as the importance of traceability and the implications of migration choices, it lacks a direct focus on broader release management strategies, practices, or coordination between teams. The discussion is more centred on data handling and compliance rather than the overall release process.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -1051,12 +1081,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:58:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses data migration and the challenges associated with maintaining historical data integrity, which relates to digital transformation in terms of upgrading systems and ensuring compliance. However, it primarily focuses on technical aspects of data migration rather than broader strategic themes of digital transformation.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses data migration and the challenges associated with maintaining historical data integrity, which is relevant to digital transformation. However, it primarily focuses on technical aspects of data handling rather than broader strategic implications or methodologies for digital transformation. While it touches on the importance of traceability and compliance, it lacks a comprehensive exploration of how these issues relate to enhancing business agility or fostering innovation.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1078,11 +1111,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:58:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses data migration and system upgrades, which are related to system configuration, but the primary focus is on the challenges and considerations of data migration rather than the technical aspects of configuring systems.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the complexities of data migration and system upgrades, which are relevant to system configuration. It mentions the need for maintaining history and tractability during migrations, which aligns with configuration management principles. However, while it touches on configuration aspects, the primary focus is on migration challenges rather than detailed configuration practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -1186,12 +1222,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:57:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges and considerations related to data migration and system upgrades, which are relevant to troubleshooting issues in software systems. However, it primarily focuses on decision-making rather than systematic problem-solving techniques.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges and considerations involved in data migration, particularly in relation to maintaining historical data and compliance requirements. It explicitly mentions the need for tractability and the difficulties faced during migrations, which aligns with troubleshooting themes. The depth of discussion includes specific scenarios, potential solutions, and the implications of choices made during the migration process, indicating a thorough exploration of the topic. However, while it addresses troubleshooting aspects, it does not focus solely on problem identification and resolution, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1312,11 +1351,14 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:58:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses data migration and history retention in the context of Team Foundation Server (TFS), which is related to Azure Repos. However, the primary focus is on migration strategies rather than Azure Repos functionalities or best practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses data migration in the context of Team Foundation Server (TFS), which is related to Azure Repos. However, it primarily focuses on the challenges of data migration and historical data integrity rather than the specific functionalities or best practices of Azure Repos itself. While TFS is mentioned, the discussion lacks depth on Azure Repos features like branching strategies, pull requests, or CI/CD integration, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Forecasting": {
@@ -1420,7 +1462,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:45:20",
+    "calculated_at": "2025-03-15T05:57:36",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1428,6 +1470,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses data migration challenges and compliance issues related to software development, particularly in the context of Team Foundation Server. While it touches on aspects of project management, it does not explicitly mention Scrum principles, roles, events, or artifacts. The discussion lacks depth in Scrum-related topics and does not align with the core themes of the Scrum framework, making it only tangentially related to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

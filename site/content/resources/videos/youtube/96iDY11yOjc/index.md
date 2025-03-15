@@ -2,7 +2,7 @@
 title: How big is the gap between an average developer and a great Agile Developer?
 description: "Unlock the secrets to becoming a great agile developer! Discover the power of self-investment, practice, and continuous learning. \U0001F4DA\U0001F4A1✨"
 date: 2023-06-06T07:00:04Z
-weight: 475
+weight: 415
 ResourceId: 96iDY11yOjc
 ResourceType: videos
 ResourceImport: true
@@ -33,12 +33,7 @@ tags:
 - Discovery and Learning
 - People and Process
 - Software Developers
-- Coaching
-- Employee Engagement
-- Pragmatic Thinking
-- Personal
-- Software Development
-- Mentoring
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

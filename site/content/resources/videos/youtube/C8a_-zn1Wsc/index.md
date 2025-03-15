@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
+- Continuous Learning
+- Agile Transformation
+- Agile Project Management
+- Software Development
+- Pragmatic Thinking
+- Software Developers
+- Agile Values and Principles
+- Agile Frameworks
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

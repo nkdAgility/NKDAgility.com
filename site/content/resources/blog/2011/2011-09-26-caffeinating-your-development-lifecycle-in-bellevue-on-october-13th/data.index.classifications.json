@@ -1,7 +1,7 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T18:08:07",
+    "calculated_at": "2025-03-15T06:22:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -9,15 +9,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Agile in the context of a Coffee Talk event, but it lacks a detailed discussion on Agile Product Management principles. While it hints at Agile practices and their benefits, it does not delve into specific methodologies, roles, or strategies relevant to Agile Product Management, making it a secondary focus rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:14",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a live event focused on Agile practices and the use of Microsoft Visual Studio, which aligns with practical techniques and tooling, but it is primarily an event announcement rather than a detailed exploration of these topics.",
+    "final_score": 42.0,
+    "reasoning": "The content mentions practical advice and live demonstrations of Microsoft Visual Studio, which aligns with the category's focus on tools and methodologies. However, the primary emphasis is on the event itself rather than a detailed exploration of techniques or tooling. The discussion of Agile is somewhat relevant but lacks depth and specific methodologies or frameworks, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -49,12 +52,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses in-person events and discussions related to Agile and Application Lifecycle Management, which suggests a focus on learning and sharing knowledge. However, the primary emphasis is on the event logistics rather than deep exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on promoting an in-person event rather than discussing discovery and learning methodologies. While it mentions Agile and Application Lifecycle Management (ALM), these references are not explored in depth or connected to the core themes of innovation and continuous learning. The event's emphasis on interaction and live demonstrations suggests a potential for learning, but it lacks a detailed exploration of the processes that foster innovation or experimentation.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -94,12 +100,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and their impact on development processes, which aligns with market adaptability, but the primary focus is on an event rather than a comprehensive strategy for market responsiveness.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile methodologies and discusses the importance of in-person events for engagement, which aligns with the category's focus on responsiveness to market demands. However, it lacks a detailed exploration of strategies or practices that enhance market adaptability, such as continuous feedback loops or data-driven decision-making. The discussion is more about event promotion than a comprehensive analysis of market adaptability principles.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -121,7 +130,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:59:09",
+    "calculated_at": "2025-03-15T06:22:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -129,15 +138,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile and Application Lifecycle Management (ALM), which are related to DevOps principles, but it primarily focuses on an event announcement rather than a detailed discussion of DevOps practices. The depth of discussion is limited to promoting an event rather than exploring DevOps concepts in detail.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an event related to Agile and Application Lifecycle Management but primarily focuses on the event details and personal experiences rather than providing actionable insights or aligning with specific Agile frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses an in-person event focused on Coffee Talks and the social aspects of networking rather than delving into specific Agile, Scrum, DevOps, or Lean methodologies. While it mentions Agile in passing, it does not provide actionable insights or detailed discussions on recognised practices, making it more aligned with the Miscellaneous category. The event's focus on community engagement and informal discussions lacks depth in relation to established frameworks.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -172,30 +184,39 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses in-person events and interactions that foster collaboration and communication among teams, particularly in the context of Agile practices. However, the primary focus is on the event details rather than a deep exploration of team dynamics or process methodologies.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses an in-person event focused on Agile and Application Lifecycle Management (ALM), which touches on team dynamics and collaboration. However, the primary focus is on promoting the event rather than a deep exploration of the interplay between people and processes. While there are mentions of Agile and team engagement, the depth of discussion on these topics is limited, and the content does not provide substantial insights into the methodologies or human factors involved.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and Application Lifecycle Management, indicating a focus on organisational processes and improvement, but it primarily centres around an event rather than a comprehensive exploration of enterprise agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile principles and discusses Application Lifecycle Management (ALM) practices, which are relevant to enterprise agility. However, it primarily focuses on an event and in-person discussions rather than providing a comprehensive exploration of enterprise agility concepts, frameworks, or organisational strategies.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and their application in a development lifecycle context, but it primarily focuses on an event rather than a comprehensive exploration of business agility principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile and discusses Application Lifecycle Management (ALM) practices, which are related to business agility. However, it primarily focuses on promoting an event rather than exploring the principles or strategies of business agility in depth. The discussion lacks substantial detail on how organisations can adapt or innovate in a dynamic market environment.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -217,12 +238,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile and Application Lifecycle Management (ALM) practices, which are relevant to technical excellence, but the primary focus is on promoting an event rather than a deep discussion of technical practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile and Application Lifecycle Management (ALM) practices, which are relevant to technical excellence. However, the primary focus is on promoting an event rather than discussing engineering practices in depth. The alignment with the category is limited, as it does not delve into specific methodologies or principles that enhance technical excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -244,12 +268,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies and Application Lifecycle Management (ALM) practices, which are relevant to product delivery, but the primary focus is on promoting an event rather than an in-depth discussion of product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile and Application Lifecycle Management (ALM) practices, which are relevant to product delivery. However, the primary focus is on promoting an event rather than providing in-depth discussions or methodologies related to the end-to-end process of delivering software products. The details provided are more about the event logistics and less about the core principles of product delivery.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -271,21 +298,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an event focused on Agile practices and the use of Microsoft Visual Studio, making it a major theme, but it primarily promotes the event rather than providing in-depth analysis or reviews of products or literature.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses an event focused on Agile practices and the use of Microsoft Visual Studio, which aligns with the category. However, it lacks detailed reviews or analyses of specific products or literature, and the discussion is more about the event itself rather than a deep dive into products or books. The mention of Agile and practical advice provides some relevance, but it does not fully meet the criteria for a strong alignment with the 'Products and Books' category.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and Application Lifecycle Management, which are related to value delivery, but the primary focus is on promoting an event rather than a detailed exploration of value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile and discusses Application Lifecycle Management (ALM) practices, which are relevant to value delivery. However, it primarily focuses on promoting an event rather than providing in-depth strategies or methodologies for delivering value to customers. The discussion lacks substantial detail on iterative development, customer value measurement, or continuous delivery practices, which are core themes of the category.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -325,21 +358,27 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile and discusses Application Lifecycle Management practices, indicating a focus on Agile principles, but it primarily promotes an event rather than deeply exploring the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile in the context of a Coffee Talk event, but it lacks a focused discussion on the Agile Product Operating Model. While it touches on Agile practices and Application Lifecycle Management, it does not delve into the principles, strategies, or metrics associated with the Agile Product Operating Model. The primary focus is on promoting an event rather than exploring the category's core themes.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and their impact on processes, but the primary focus is on an event rather than a deep exploration of organisational agility.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Agile practices and discusses the importance of in-person interactions for effective communication and learning, which aligns with the principles of organisational agility. However, it lacks a detailed exploration of strategies or frameworks that enhance organisational adaptability, making it a secondary focus rather than a primary discussion on organisational agility.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -385,12 +424,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:22:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes discussions about Agile practices and Application Lifecycle Management (ALM), however, the primary focus is on an event announcement rather than deep technical discussions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on promoting an event rather than discussing technical mastery. While it mentions Agile and Application Lifecycle Management (ALM) practices, these are not explored in depth. The event's promotional nature and emphasis on in-person interaction detract from a thorough examination of software craftsmanship principles.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -466,12 +508,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions Agile in the context of a discussion but primarily focuses on an event invitation rather than a deep exploration of Agile Planning principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile in the context of a Coffee Talk event, but it lacks a focused discussion on Agile Planning principles or methodologies. While it hints at Agile practices and their benefits, it does not delve into specific Agile Planning techniques, strategies, or frameworks, making it more of a promotional piece rather than a substantive exploration of Agile Planning.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -493,12 +538,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and Application Lifecycle Management (ALM), which are relevant to operational efficiency, but the primary focus is on an event announcement rather than deep exploration of operational practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile and Application Lifecycle Management (ALM) practices, which are relevant to operational practices. However, the primary focus is on promoting an event rather than providing in-depth discussions or strategies for improving operational efficiency. The details provided are more about the event logistics and less about practical applications or techniques that enhance operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -511,21 +559,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:42",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions Agile in the context of discussing Application Lifecycle Management and includes a session aimed at providing practical advice related to Agile practices. However, it primarily focuses on an event and live demonstrations rather than a deep discussion of Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions Agile in the context of a Coffee Talk event, but it primarily focuses on the event details and logistics rather than a deep exploration of Agile principles or philosophy. While there is some alignment with Agile concepts, such as process improvement and team energisation, the discussion lacks depth and does not engage with the broader implications of Agile as a mindset.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes mentions of Agile and discusses processes related to Application Lifecycle Management, but it primarily focuses on an event and in-person discussions rather than a detailed strategy.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile and discusses Application Lifecycle Management (ALM) practices, but it primarily focuses on promoting an event rather than developing or refining strategic approaches. The discussion lacks depth in strategic alignment or techniques for optimising delivery, which are core themes of the Strategy category.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -538,12 +592,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes discussions about Agile practices in the context of a live event that focuses on Application Lifecycle Management, but it primarily promotes the event rather than a detailed discussion on Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile in the context of a Coffee Talk event, but it lacks a detailed discussion on Agile transformation principles, methodologies, or practices. While it hints at Agile practices and their benefits, it does not delve into the core themes of Agile transformation or provide substantial insights into strategies or frameworks for implementing Agile within organisations.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -592,30 +649,39 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:22:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily promotes a live event focusing on Agile practices and ALM discussions, indicating a major but secondary theme related to software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses an event focused on Agile practices and Application Lifecycle Management (ALM), which are relevant to software development. However, the primary focus is on promoting the event rather than providing in-depth discussions or methodologies related to software development. The mention of Agile and ALM indicates some alignment with the category, but the overall depth and direct discussion are limited.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content briefly mentions Agile in the context of a Coffee Talk event but primarily focuses on event details and logistics rather than in-depth discussion of Agile principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile in the context of a Coffee Talk event, but it lacks a detailed discussion of Agile principles, frameworks, or practices. The focus is more on the event logistics and social aspects rather than on Agile Project Management methodologies.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly mentions Agile in the context of discussions and practical advice during the event, but it primarily focuses on the event details rather than a comprehensive exploration of Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile in the context of a promotional event for Coffee Talks, but it does not delve into Agile values or principles. The focus is primarily on the event details and logistics rather than a discussion of Agile methodologies or their foundational beliefs.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -673,7 +739,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-11T10:37:18",
+    "calculated_at": "2025-03-15T06:22:50",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -681,7 +747,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on an event promoting in-person discussions about Agile and Application Lifecycle Management (ALM) practices. While it mentions Agile, it does not delve into organisational change strategies, methodologies, or frameworks. The discussion lacks depth regarding the principles of organisational change, leadership roles, or overcoming resistance, which are crucial for this category. Overall, the content is more about event promotion than a substantive exploration of organisational change.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -739,16 +805,16 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:09:11",
+    "calculated_at": "2025-03-15T06:22:50",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "While the content mentions 'Agile' and talks about Application Lifecycle Management practices, the primary focus is on an in-person event, coffee talks, and live demonstrations, rather than on scaling agility as a central theme.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:59:48",
+    "calculated_at": "2025-03-15T06:22:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -756,7 +822,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile and Application Lifecycle Management (ALM) practices, which are relevant to engineering excellence. However, the primary focus is on promoting an event rather than a detailed discussion of engineering practices. The depth of discussion on engineering excellence is minimal, primarily serving as a backdrop to the event promotion.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -796,12 +862,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile and provides practical advice related to using Microsoft tools for Application Lifecycle Management, which aligns with pragmatic thinking, but the primary focus is on promoting an event rather than deep discussions on pragmatic strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Agile and provides practical advice related to Application Lifecycle Management (ALM), which aligns with pragmatic thinking. However, the focus is primarily on promoting an event rather than deeply exploring problem-solving strategies or real-world applications in Agile or DevOps contexts. The discussion lacks substantial depth and direct engagement with the core themes of pragmatic thinking.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -877,12 +946,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile and visual demonstrations of Visual Studio, indicating a secondary focus on processes related to working software, although it primarily promotes an event rather than a direct discussion on software delivery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on an event promoting in-person discussions and demonstrations related to Agile and Application Lifecycle Management (ALM). While it mentions Agile and provides practical advice, it lacks a detailed exploration of working software characteristics, quality assurance practices, or customer feedback mechanisms. The discussion is more about the event format and less about the delivery of functional software, leading to a low confidence score in the 'Working Software' category.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -913,7 +985,7 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T15:06:51",
+    "calculated_at": "2025-03-15T06:22:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -921,7 +993,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile in the context of a Coffee Talk event, but it primarily focuses on the event details and logistics rather than discussing Agile leadership principles or practices. While there is a mention of Agile and its benefits, the discussion lacks depth and does not explore the role of leaders or the cultivation of an Agile culture.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1024,12 +1096,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes discussions about in-person events aimed at energizing teams and facilitating Agile conversations, which relates to team collaboration but is more focused on event promotion.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile and discusses in-person events aimed at enhancing team dynamics through Coffee Talks. However, it lacks a detailed exploration of team collaboration techniques or strategies, focusing more on event logistics and promotion rather than the core themes of teamwork and shared ownership.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1042,12 +1117,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes discussions about Application Lifecycle Management (ALM), Agile practices, and the use of Microsoft tools to enhance processes, indicating a secondary theme related to digital tools in a business context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on an in-person event discussing Agile practices and Application Lifecycle Management (ALM) using Microsoft tools. While it touches on themes of process improvement and team dynamics, it lacks a direct focus on the strategic adoption of digital technologies for broader business transformation. The mention of 'Caffeinate Your Development Lifecycle' suggests a focus on enhancing development processes but does not delve into the strategic implications or broader organisational changes associated with digital transformation.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1087,7 +1165,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T16:56:52",
+    "calculated_at": "2025-03-15T06:22:50",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1095,7 +1173,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on promoting an in-person event centred around coffee talks and discussions on Application Lifecycle Management (ALM) with Microsoft tools. While it briefly mentions Agile and offers practical advice, it lacks a strong emphasis on the principles of technical leadership, mentoring, or fostering team dynamics. The discussion does not delve into the core themes of technical leadership, making it a secondary focus rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1126,12 +1204,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:22:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Microsoft Visual Studio and Application Lifecycle Management, which can relate to Windows usage, but the primary focus is on the event rather than detailed discussions about Windows itself.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content mentions Microsoft Visual Studio, which is a Windows application, but it primarily focuses on an event rather than discussing Windows as an operating system. The discussion lacks depth on Windows-specific topics such as installation, configuration, or troubleshooting, and does not provide substantial insights into managing the Windows environment.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1171,7 +1252,7 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-11T12:02:24",
+    "calculated_at": "2025-03-15T06:22:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1179,7 +1260,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile and discusses in-person events aimed at knowledge sharing, but it lacks a strong focus on the principles of Continuous Learning. While it promotes interaction and learning through Coffee Talks, it does not delve into the core themes of growth mindset, feedback loops, or continuous improvement in a detailed manner.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1249,12 +1330,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:24:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile concepts and Application Lifecycle Management, but the main focus is on an event that includes social interaction rather than deep technical discussions on engineering practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Agile and Application Lifecycle Management (ALM) practices, but it primarily focuses on promoting an event rather than providing in-depth discussions on engineering practices. The mention of Agile is not elaborated upon, and the overall content lacks substantial detail on the core themes of clean code, TDD, CI/CD, or other engineering practices.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1276,7 +1360,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T15:27:49",
+    "calculated_at": "2025-03-15T06:22:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1284,7 +1368,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Agile and discusses Application Lifecycle Management (ALM) practices, which are relevant to product management. However, it primarily focuses on promoting an event rather than providing in-depth discussions or methodologies related to product management. The mention of Agile is not explored in detail, and the overall content lacks a strategic focus on product management principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1297,21 +1381,27 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile practices in the context of a discussion and event, but it primarily focuses on a specific event rather than a detailed exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile in the context of a Coffee Talk event, but it lacks a detailed exploration of Agile frameworks or their principles. The focus is primarily on the event logistics and the use of Microsoft tools rather than a thorough discussion of Agile methodologies or their implementation.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:23:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes discussions related to Agile, but primarily focuses on promoting a specific event rather than thoroughly exploring Agile strategy concepts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile in the context of a Coffee Talk event, but it lacks a focused discussion on Agile strategy or its implementation. While it touches on Agile principles and practices, it does not delve into strategic alignment, continuous value delivery, or leadership roles in fostering an Agile culture, which are key aspects of the Agile Strategy category.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1387,7 +1477,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T18:47:13",
+    "calculated_at": "2025-03-15T06:22:50",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1395,7 +1485,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions Agile practices in the context of a Coffee Talk event, which aligns with the category of Social Technologies. However, the discussion lacks depth and does not delve into specific frameworks or methodologies like Scrum or Kanban. The focus is more on the event itself rather than on the principles of collaboration or continuous improvement, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1426,7 +1516,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:47:29",
+    "calculated_at": "2025-03-15T06:22:50",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1434,6 +1524,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions Agile principles and discusses an event focused on Application Lifecycle Management (ALM) and Agile practices. However, it does not explicitly address Scrum roles, events, or artifacts, nor does it delve into the Scrum framework or its implementation. The primary focus is on a coffee talk event rather than a detailed discussion of Scrum.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

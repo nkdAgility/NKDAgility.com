@@ -35,6 +35,10 @@ tags:
 - Decision Making
 - Agile Product Management
 - People and Process
+- Products and Books
+- Software Development
+- Discovery and Learning
+- Market Adaptability
 resourceTypes:
 - video
 categories:

@@ -27,8 +27,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
+tags: []
 resourceTypes:
 - video
 categories:

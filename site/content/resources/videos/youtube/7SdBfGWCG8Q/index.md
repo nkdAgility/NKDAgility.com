@@ -29,11 +29,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Team Collaboration
+- Team Performance
 - Scrum Team
 - People and Process
-- Team Collaboration
-- Scrum Values
-- Personal
+- Agile Project Management
+- Coaching
 resourceTypes:
 - video
 layout: video

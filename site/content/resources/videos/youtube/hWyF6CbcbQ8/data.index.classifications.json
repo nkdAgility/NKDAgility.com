@@ -136,7 +136,7 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-11T09:49:41",
+    "calculated_at": "2025-03-14T17:19:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -144,7 +144,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses data integrity in the context of DevOps migrations, touching on the balance between data fidelity and flexibility. However, it lacks explicit discussions on structured decision-making methodologies or evidence-based practices. While it hints at decision-making aspects related to data selection, it does not delve into the core themes of the category, such as cognitive biases or frameworks for evaluating options. The focus is more on technical processes rather than decision-making principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -466,7 +466,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-07T12:49:01",
+    "calculated_at": "2025-03-14T17:19:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -474,7 +474,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses DevOps migrations, which is relevant to software developers, but it primarily focuses on data integrity rather than the role of developers within Agile or DevOps frameworks. While it touches on tools and processes that developers might use, it lacks a direct exploration of best practices or methodologies that enhance developer productivity and collaboration. The discussion is somewhat aligned with the category but does not delve deeply into the core themes of Agile or DevOps practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -505,7 +505,7 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T00:18:02",
+    "calculated_at": "2025-03-14T17:19:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -513,7 +513,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses data integrity and migration processes in a DevOps context, touching on potential issues like data loss and fidelity. However, it lacks a focused discussion on troubleshooting techniques or methodologies for resolving specific technical issues. While it mentions challenges in the migration process, it does not provide systematic approaches or tools for diagnosing or resolving these issues, which are essential for a strong alignment with the Troubleshooting category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -919,7 +919,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T13:54:12",
+    "calculated_at": "2025-03-14T17:19:01",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -927,7 +927,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses data integrity in the context of DevOps migrations, touching on technical aspects such as database architecture and the balance between data fidelity and flexibility. However, it lacks a strong focus on broader software craftsmanship principles, best practices, or methodologies that are central to the 'Technical Mastery' category. The discussion is somewhat technical but does not delve deeply into the principles of clean code, testing, or architectural best practices, which diminishes its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1417,7 +1417,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:59",
+    "calculated_at": "2025-03-14T17:19:01",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -1425,6 +1425,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses data integrity in the context of DevOps migrations, with no direct mentions of Scrum principles, roles, or events. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical migration processes rather than Scrum practices, resulting in a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

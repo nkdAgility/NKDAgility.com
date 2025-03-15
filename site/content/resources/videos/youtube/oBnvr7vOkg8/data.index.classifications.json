@@ -37,30 +37,39 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile consulting and mentions Scrum principles, but the primary focus is on the journey to becoming an Agile consultant rather than an in-depth exploration of Scrum itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile consulting and the journey to becoming an Agile consultant, with some references to Scrum principles. However, it primarily focuses on the broader concept of Agile rather than delving deeply into Scrum-specific roles, events, or artifacts. The discussion lacks a thorough exploration of Scrum as outlined in the Scrum Guide, which diminishes its alignment with the Professional Scrum category.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile consulting and its application in various industries, touching on systems thinking principles and the importance of context in organisational dynamics. However, the primary focus is on the journey to becoming an Agile consultant rather than a deep exploration of organisational physics.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, discussing Agile principles and personal experiences rather than explicitly addressing systems thinking or organisational dynamics. While it touches on the importance of context and the application of Agile in various industries, it lacks a thorough exploration of organisational structures, cultures, or the interplay of systems within organisations, which are central to the category of Organisational Physics.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, which includes elements of coaching and mentoring within Agile practices. However, the primary focus is on the process of becoming a consultant rather than on coaching techniques or the role of a coach.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, which includes elements of coaching, such as the importance of mastering one's domain and the role of experience in applying Agile principles. However, while it touches on coaching concepts, it primarily focuses on the path to consultancy rather than the practice of coaching itself. The depth of discussion on coaching techniques and team dynamics is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -91,7 +100,7 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-11T14:44:50",
+    "calculated_at": "2025-03-15T01:05:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -99,7 +108,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the importance of expertise and experience in Agile practices. However, it primarily focuses on the individual's path rather than the leadership aspects of guiding teams or organisations through Agile principles. While there are mentions of applying Agile in various contexts, the content lacks a strong emphasis on leadership roles, strategies for empowering teams, or fostering a culture of trust and collaboration, which are central to Agile Leadership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -121,12 +130,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile consulting, which is related to digital transformation through the application of Agile methodologies in various industries. However, the primary focus is on the journey to becoming an Agile consultant rather than a direct discussion on digital transformation strategies or impacts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, discussing Agile methodologies and their application in various industries. While it touches on the importance of Agile in enhancing business processes, it lacks a direct focus on digital transformation as defined in the category. The discussion is more about personal development and consulting practices rather than the strategic adoption of digital technologies for business transformation.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -166,12 +178,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:07:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and their integration with Lean methodologies, indicating a significant but secondary theme related to Lean Product Development.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile consulting and mentions Lean principles, but it primarily focuses on the journey to becoming an Agile consultant rather than Lean Product Development itself. While there are references to Lean, they are not the main focus, and the depth of discussion on Lean principles is limited.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -247,12 +262,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:05:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the integration of Agile practices and the importance of expertise, which aligns with strategic themes in Agile environments. However, the primary focus is on personal development rather than strategic alignment or execution.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the importance of mastering Agile principles and integrating them into one's professional expertise. However, while it mentions Agile practices and their application, it primarily focuses on personal development and career advice rather than strategic alignment or optimisation of delivery processes within Agile frameworks. The discussion lacks depth in strategic concepts and does not provide a comprehensive exploration of strategic alignment or techniques for enhancing team performance.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -265,12 +283,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on Agile principles and practices, but primarily focuses on the personal development and experiences of the consultant rather than a detailed exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, which inherently involves Agile frameworks like Scrum and Lean. It mentions Agile principles and practices, indicating a solid understanding of the frameworks. However, the primary focus is on the consulting journey rather than a deep exploration of the frameworks themselves. While Agile frameworks are referenced, the content does not provide extensive comparative analysis or case studies, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -301,11 +322,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Lean principles in the context of becoming an Agile consultant, indicating that Lean is a significant theme, but the primary focus is on Agile consulting rather than Lean Thinking itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Lean principles in the context of Agile consulting, highlighting the integration of Lean methodologies with Agile practices. While Lean is mentioned several times, the primary focus remains on Agile consulting rather than a deep exploration of Lean Thinking itself. The discussion includes some relevant concepts, such as the importance of context and abstraction in applying Lean, but lacks a thorough examination of Lean principles or tools. Therefore, while there is a connection to Lean Thinking, it is not the main focus of the content.",
     "level": "Tertiary"
   },
   "Cycle Time": {
@@ -376,11 +400,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant and touches on Agile principles, but it primarily focuses on the process and personal experiences rather than a deep exploration of Agile values and principles.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the importance of mastering Agile principles and the integration of Agile practices into one's professional expertise. However, it primarily focuses on the practical aspects of consulting rather than deeply exploring Agile values and principles themselves. While there are mentions of Agile concepts, the discussion lacks a thorough examination of the Agile Manifesto or its core values, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -412,21 +439,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:05:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, which includes elements of applying Agile principles to facilitate change in various industries. However, the primary focus is on personal development and career progression rather than on change management strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, discussing personal experiences and the importance of expertise in Agile practices. While it touches on the application of Agile principles in various contexts, it lacks a direct focus on Change Management strategies, stakeholder engagement, or leadership roles in transformation. The discussion is more about individual career development rather than organisational change processes, which diminishes its relevance to the Change Management category.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, which includes elements of mentoring and coaching within Agile practices. However, the primary focus is on the process of becoming a consultant rather than on mentoring techniques or relationships.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, which indirectly touches on mentoring aspects, such as the importance of experience and guidance in mastering Agile practices. However, it primarily focuses on personal development and career progression rather than explicit mentoring techniques or strategies. The depth of discussion on mentoring is limited, as it lacks detailed exploration of mentoring relationships or coaching methods.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -580,12 +613,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:07:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on Agile principles and their application in various contexts, but it primarily focuses on personal development and career advice rather than in-depth Agile project management practices.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, which inherently involves Agile principles and practices. It discusses the importance of mastering Agile methodologies, the role of experience, and the application of Agile in various contexts, aligning well with Agile Project Management themes. However, while it touches on key aspects of Agile, such as Scrum and Lean, the depth of discussion on specific Agile frameworks and project management techniques is somewhat limited, preventing a higher confidence score.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -598,12 +634,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:05:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the integration of Agile practices and the importance of context, which aligns with Agile principles. However, it primarily focuses on personal development and experiences rather than a broader organisational strategy.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, which touches on Agile principles and practices. However, it primarily focuses on personal development and experiences rather than strategic alignment or organisational vision. While it mentions the importance of context and applying Agile in various industries, it lacks a comprehensive discussion on Agile strategy as defined in the category. The depth of discussion on Agile practices is moderate, but it does not delve into strategic planning or leadership roles, which are key aspects of Agile Strategy.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -697,12 +736,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Lean principles in the context of becoming an Agile consultant, but the primary focus is on Agile practices and the journey to consultancy rather than Lean principles themselves.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile consulting and mentions Lean principles in the context of integrating them into one's professional expertise. However, the primary focus is on Agile rather than Lean, with only brief references to Lean methodologies. The alignment with Lean principles is present but not deeply explored, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -766,12 +808,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the application of Agile and Lean practices in various industries. While it mentions operational practices, the primary focus is on personal development and career progression rather than specific operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the importance of mastering one's domain and integrating Agile practices. However, it primarily focuses on personal development and career progression rather than specific operational practices or methodologies aimed at enhancing operational efficiency. While there are mentions of Agile and Lean principles, the depth of discussion on operational efficiency techniques is limited.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -829,7 +874,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T16:34:24",
+    "calculated_at": "2025-03-15T01:05:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -837,7 +882,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the importance of expertise and experience in Agile practices. However, it primarily focuses on personal experiences and the process of becoming a consultant rather than on the principles of technical leadership, mentoring, or team dynamics. While there are mentions of Agile methodologies, the depth of discussion on technical leadership concepts is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -850,21 +895,24 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T16:42:21",
+    "calculated_at": "2025-03-15T01:05:53",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses Agile principles and their application in consulting, with some mention of Lean methodologies. However, the primary focus is on becoming an Agile consultant rather than on Lean Startup principles or the iterative learning process central to Lean Startup methodology.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on Agile principles and practices, but primarily focuses on personal development and career progression rather than specific Agile planning methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on Agile principles and their application in various contexts. However, it primarily focuses on personal experiences and the importance of expertise rather than specific Agile planning methodologies or practices. While there are mentions of Agile practices, the depth of discussion on Agile Planning itself is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -958,11 +1006,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:45:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on Agile principles and their application in various contexts, but primarily focuses on the practical aspects of consulting rather than the broader Agile philosophy.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on Agile principles and the importance of context and experience. However, it primarily focuses on practical aspects of consulting rather than the broader Agile philosophy. While there are mentions of Agile practices, the depth of discussion on the underlying philosophy is limited, making it a secondary focus rather than a primary one.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -1021,12 +1072,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, emphasising the importance of mastering one's domain and integrating Agile practices, which aligns with the principles of continuous learning. However, the primary focus is on the process of becoming a consultant rather than on continuous learning itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, emphasising the importance of mastering one's domain and integrating Agile practices. While it touches on aspects of continuous learning, such as gaining experience and knowledge sharing, it primarily focuses on the process of becoming a consultant rather than exploring continuous learning principles in depth. The discussion lacks explicit references to growth mindset, feedback loops, or a culture of experimentation, which are key topics in the Continuous Learning category.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1039,30 +1093,39 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the application of Agile principles in various industries, which aligns with the broader implications of agility on organisational performance. However, the primary focus is on individual career development rather than enterprise-level agility practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, discussing individual experiences and practices rather than addressing enterprise-level agility. While it touches on the application of Agile principles in various contexts, it lacks a comprehensive exploration of organisational structures, frameworks, or metrics that define Enterprise Agility. The discussion is more centred on personal development and team-level practices, which does not align with the broader implications of agility on organisational performance and culture.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Lean in the context of becoming an Agile consultant, highlighting the integration of Lean methodologies with Agile practices. However, the primary focus remains on Agile consulting, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on Agile consulting, with Lean mentioned only in relation to Agile practices. While there are references to Lean methodologies, they are not the main focus of the discussion. The content lacks detailed exploration of Lean principles, tools, or case studies, which diminishes its alignment with the Lean category.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the journey of becoming an Agile consultant, which includes elements of adaptability and applying Agile principles in various contexts. However, the primary focus is on personal development and career progression rather than organisational resilience or change management strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the importance of expertise and adaptability in various contexts. However, it primarily focuses on personal development and technical skills rather than organisational resilience or change management strategies. While there are mentions of applying Agile principles in different industries, the depth of discussion on resilience and change is limited, making it a secondary theme rather than a primary focus.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1102,12 +1165,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and their application in consulting, which relates to product delivery, but the primary focus is on the journey to becoming an Agile consultant rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, discussing personal experiences and the importance of expertise in Agile practices. While it touches on Agile methodologies, it lacks a direct focus on the end-to-end product delivery process, which is central to the category. The discussion is more about individual career development rather than the methodologies and practices involved in delivering software products to customers.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1123,12 +1189,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the importance of mastering one's domain and integrating Agile practices, which aligns with learning and discovery. However, the primary focus is on the process of becoming a consultant rather than on methodologies that foster innovation or continuous learning.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the importance of mastering one's domain and integrating Agile practices. While it mentions learning and experience, the primary focus is on the process of becoming a consultant rather than on discovery and learning methodologies. The discussion lacks depth in exploring specific techniques or frameworks that foster innovation and continuous learning, which are central to the category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1159,12 +1228,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on Agile practices and methodologies, but primarily focuses on personal experiences and insights rather than specific tools or techniques.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the importance of mastering Agile practices and integrating them into one's professional expertise. However, it primarily focuses on personal experiences and insights rather than specific tools, methodologies, or frameworks that enhance Agile and DevOps practices. While there are mentions of Agile and Lean practices, the discussion lacks depth in practical techniques and tooling, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1177,12 +1249,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile consulting and the application of Agile and Lean methodologies, which are relevant to market adaptability. However, the primary focus is on the journey to becoming an Agile consultant rather than directly addressing strategies for enhancing market adaptability.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, with some references to Agile and Lean methodologies. However, it lacks a direct discussion on market adaptability strategies or practices. While it touches on the importance of context and experience in applying Agile principles, it does not delve into how these practices enhance an organisation's ability to respond to market shifts or competitive pressures. The depth of discussion on Agile practices is present, but it does not sufficiently connect to the core themes of market adaptability.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1222,12 +1297,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, which includes elements of business agility, such as adapting Agile practices to various industries and the importance of context. However, the primary focus is on the personal journey and experiences of becoming an Agile consultant rather than a comprehensive exploration of business agility principles and practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the journey to becoming an Agile consultant, discussing Agile principles and practices. However, it lacks a direct emphasis on broader business agility concepts such as organisational adaptability, leadership roles, or case studies demonstrating successful implementations. While it touches on the importance of context and experience in applying Agile methodologies, it does not delve deeply into how these practices enhance overall business agility in a dynamic market environment.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1240,12 +1318,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on Agile principles and their application in various industries, which relates to value delivery. However, the primary focus is on personal development and career progression rather than direct strategies for delivering value to customers.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on Agile principles and their application in various industries. However, it primarily focuses on personal experiences and the process of becoming a consultant rather than directly addressing value delivery strategies or methodologies. While there are mentions of Agile practices, the depth and focus on value delivery concepts are limited.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1258,12 +1339,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:05:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on Agile principles and their application across various industries, which aligns with the theme of organisational agility. However, the primary focus is on personal development and career progression rather than broader organisational strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, which indirectly touches on organisational agility through the application of Agile principles in various contexts. However, it primarily focuses on personal development and the consultant's perspective rather than organisational strategies or frameworks. While it mentions the importance of Agile practices and their application in different industries, it lacks a thorough exploration of how these practices enhance organisational adaptability and responsiveness.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1291,12 +1375,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:06:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the integration of Agile practices within various industries and the importance of context and experience. However, it primarily focuses on individual career development rather than a comprehensive exploration of sociotechnical systems as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the importance of context and expertise in applying Agile principles. However, it primarily focuses on individual experiences and skills rather than the broader interplay between technology and organisational structures. While there are mentions of organisational change and the application of Agile in various contexts, the depth of discussion on sociotechnical systems is limited, making it a secondary theme rather than a primary focus.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1357,7 +1444,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T12:18:39",
+    "calculated_at": "2025-03-15T01:05:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1365,7 +1452,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the journey to becoming an Agile consultant, touching on the importance of experience and understanding in different contexts. While it mentions organisational change and the application of Agile principles, it lacks a direct focus on leadership practices or strategies. The discussion is more about personal development and expertise rather than the role of leaders in fostering an agile environment or inspiring teams. Therefore, while there are relevant elements, they are not the primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",

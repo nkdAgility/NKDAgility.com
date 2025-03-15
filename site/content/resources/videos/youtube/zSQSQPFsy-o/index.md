@@ -28,7 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
 - Transparency
+- Agile Frameworks
+- Software Development
+- Agile Transformation
+- Scrum Product Development
+- Empirical Process Control
+- Agile Product Management
+- People and Process
+- Professional Scrum
 resourceTypes:
 - video
 categories:

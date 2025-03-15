@@ -10,7 +10,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T18:06:40",
+    "calculated_at": "2025-03-15T06:03:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 11, which is a specific tool. However, it lacks a broader discussion on methodologies or frameworks that enhance Agile and DevOps practices. While it does mention some features and user interface aspects, it does not delve into practical techniques or best practices for tool integration or application within teams, which are key aspects of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -151,7 +151,7 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T14:57:03",
+    "calculated_at": "2025-03-15T06:03:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -159,7 +159,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions a presentation about Visual Studio 11, which aligns with the category of Events and Presentations. However, the primary focus of the content is on the installation process and features of Visual Studio 11, rather than on the event itself or discussions related to Agile or DevOps. The mention of the presentation is not detailed, and the overall discussion lacks depth regarding the event, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -346,12 +346,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:03:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and features of Visual Studio 11, which is relevant to technology updates, but it primarily focuses on a personal experience rather than broader industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the installation process and user experience of Visual Studio 11, which is more of a technical tutorial than a news or review piece. While it mentions the launch of Visual Studio 11 beta, it lacks a broader discussion on industry trends or evaluations that would typically characterise news and reviews. The depth of discussion is limited to personal experiences and observations rather than providing insights or analyses relevant to Agile or DevOps practices.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -382,7 +385,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T10:35:36",
+    "calculated_at": "2025-03-15T06:03:48",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
@@ -390,7 +393,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 11, which is more of a user experience and setup guide rather than a discussion on technical mastery. While it mentions aspects of the user interface and installation efficiency, it lacks in-depth discussions on software craftsmanship, architecture, or engineering practices. The content does not delve into best practices, code quality, or methodologies that contribute to high-quality software development, which are essential for the 'Technical Mastery' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -592,12 +595,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:03:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installation and features of Visual Studio 11, which is a software development tool. However, it mostly revolves around the installation process and user interface rather than methodologies or practices in software development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11, which is a software development tool. While it mentions aspects of the user interface and installation experience, it lacks a deeper discussion on software development methodologies, best practices, or coding principles. The mention of Team Foundation Server hints at collaborative development but does not provide substantial insights into software engineering practices.",
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -628,7 +634,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T15:05:19",
+    "calculated_at": "2025-03-15T06:03:48",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -636,7 +642,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation and user interface of Visual Studio 11, with only a brief mention of connecting to Team Foundation Server, which is related to source control. However, it lacks a detailed discussion on version control practices, methodologies, or strategies, making it only tangentially relevant to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -667,7 +673,7 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-11T16:55:19",
+    "calculated_at": "2025-03-15T06:03:48",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -675,7 +681,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the installation and features of Visual Studio 11, with only a brief mention of Team Foundation Server, which is a collaboration tool. However, the discussion does not delve into how collaboration tools enhance Agile team dynamics or workflows, making it peripheral to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1066,7 +1072,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T12:00:35",
+    "calculated_at": "2025-03-15T06:03:48",
     "ai_confidence": 42.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
@@ -1074,7 +1080,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily discusses the installation process of Visual Studio 11 on Windows 7, which includes some aspects of system configuration, such as the installation experience and user interface. However, it lacks a detailed exploration of configuration management tools, optimisation strategies, or troubleshooting common configuration issues. While it does mention the installation being painless and the lack of configuration required, these points are not elaborated upon in a way that aligns with the core themes of system configuration. Therefore, while there are relevant mentions, the depth and conceptual alignment are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",

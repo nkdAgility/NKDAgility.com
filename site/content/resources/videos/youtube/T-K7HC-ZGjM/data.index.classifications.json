@@ -85,7 +85,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:57:09",
+    "calculated_at": "2025-03-14T23:56:26",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -93,7 +93,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the concept of a Sprint backlog within the Scrum framework, which is a project management methodology rather than a direct focus on product management. While it touches on aspects relevant to product management, such as stakeholder engagement and customer needs, the discussion is heavily centred on Scrum practices and technical implementation details. Therefore, it does not fully align with the strategic aspects of product management as defined in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -133,12 +133,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Sprint backlog and its relationship to the Sprint goal, which is relevant to the delivery of functional software. However, the primary focus is on Scrum roles and processes rather than directly on working software itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog within the context of Scrum, touching on its role in achieving Sprint Goals and maintaining flexibility. While it does not explicitly mention 'working software', it aligns with the principles of Agile and the importance of delivering functional software through effective backlog management. However, the depth of discussion on working software itself is limited, focusing more on the Sprint Backlog's characteristics and management rather than on broader software delivery practices.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -151,12 +154,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:56:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Sprint backlog and its relationship to the Sprint goal, touching on aspects of team autonomy and flexibility in responding to business needs, which are relevant to self-organisation. However, the primary focus is on the mechanics of the Sprint backlog rather than self-organisation principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog within the context of Scrum, focusing on its components and importance in achieving Sprint Goals. While it touches on themes of team success and adaptability, it lacks a direct exploration of self-organisation principles, such as autonomy and team ownership. The discussion is more about the mechanics of Scrum rather than fostering a self-organising culture, which limits its alignment with the category.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -205,12 +211,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:56:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the Sprint backlog and its role in providing visibility into current work and progress towards goals, which aligns with the theme of transparency. However, the primary focus is on the mechanics of the Sprint backlog rather than a broader discussion on transparency itself.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content discusses the Sprint Backlog and highlights its role in providing transparency regarding current work and progress towards goals. It explicitly mentions 'transparency of the present' and addresses how the Sprint Backlog serves as a tool for visibility. However, while it touches on transparency, the primary focus is on the Sprint Backlog itself rather than a broader discussion on transparency in Agile processes. The depth of discussion on transparency is moderate, as it does not explore techniques or tools for promoting transparency in detail.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -289,21 +298,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Sprint backlog and its implications for team dynamics and goal setting within Scrum, which relates to team collaboration. However, the primary focus is on the mechanics of the Sprint backlog rather than explicit strategies for enhancing team collaboration.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the concept of the Sprint Backlog within the Scrum framework, discussing its components and importance in achieving Sprint Goals. While it touches on team success and morale, it lacks a direct emphasis on team collaboration techniques or dynamics. The discussion is more about the mechanics of Scrum rather than enhancing teamwork or communication, which is essential for a higher confidence score in the 'Team Collaboration' category.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:56:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of aligning Sprint goals with customer needs and the impact of team happiness on product quality, indicating a secondary theme of customer satisfaction.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog in the context of Scrum, focusing on its components and the importance of setting achievable goals for teams. While it touches on the need to respond to evolving business and customer needs, it does not explicitly address customer satisfaction or its measurement. The discussion lacks depth in exploring customer experience or satisfaction strategies, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -325,12 +340,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 7,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Sprint backlog and its relation to Sprint goals, including aspects of refactoring and automation, which are relevant to engineering practices. However, the primary focus is on Scrum roles and events rather than core engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog, which is a Scrum artefact rather than a direct focus on engineering practices like clean code, TDD, or CI/CD. While it touches on the importance of balancing tasks such as refactoring and bug fixes, the overall emphasis is on Scrum methodology and team dynamics rather than core engineering principles. The mentions of flexibility and adaptability align somewhat with Agile practices, but the depth of discussion does not delve into specific engineering methodologies or practices.",
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -382,11 +400,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a Sprint backlog within the context of Scrum, touching on themes of flexibility and customer focus, but primarily focuses on specific Scrum practices rather than the underlying Agile values and principles.",
+    "calculated_at": "2025-03-14T23:57:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content primarily focuses on the Sprint Backlog, a specific Scrum artefact, rather than discussing Agile values and principles directly. While it touches on flexibility and adaptability, which are core Agile concepts, the discussion is largely centred around Scrum practices without a deep exploration of the underlying Agile philosophy. The mention of staying Agile and adaptable is relevant but not sufficiently detailed to elevate the content's alignment with the category.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -409,12 +430,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Sprint backlog and its relationship to the Sprint goal, touching on stakeholder needs and customer engagement, which are relevant to the Product Owner's role. However, the primary focus is on Scrum events rather than the specific responsibilities and practices of a Product Owner.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog, which is a Scrum artefact rather than focusing on the specific responsibilities and practices of a Product Owner. While it touches on aspects like balancing priorities and stakeholder focus, it lacks direct references to the Product Owner's role in backlog management or stakeholder engagement, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -436,12 +460,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Sprint backlog and its role in transparency and flexibility within Scrum, which are related to empirical process control principles. However, it primarily focuses on the mechanics of the Sprint backlog rather than a comprehensive discussion on empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Sprint Backlog in the context of Agile and Scrum, highlighting the importance of transparency, flexibility, and adaptability, which are core principles of empirical process control. It explicitly mentions transparency and the need for teams to adapt their goals based on evolving circumstances. However, while it touches on these themes, it does not delve deeply into inspection techniques or provide case studies, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -607,12 +634,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint backlog and its relation to Sprint goals, which are important elements of Agile methodologies. However, the primary focus is on technical practices and Scrum roles rather than a strategic discussion on Agile principles or organisational alignment.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:56:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog, which is a tactical element of Scrum rather than a strategic discussion on Agile methodologies. While it touches on adaptability and the importance of setting achievable goals, it lacks a broader focus on organisational vision, strategic planning, or the integration of Agile principles into decision-making processes. The discussion is more about the mechanics of Scrum rather than an Agile strategy, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -652,21 +682,27 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:10",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of setting achievable Sprint goals to prevent team dissatisfaction and maintain motivation, making team motivation a significant theme, though not the primary focus.",
+    "final_score": 43.0,
+    "reasoning": "The content primarily focuses on the Sprint Backlog and its components within the Scrum framework, with only brief mentions of team success and morale. While it touches on the importance of setting achievable goals to prevent disillusionment, the overall discussion lacks depth in exploring broader team motivation strategies and practices. The emphasis is more on technical aspects rather than the psychological and social dynamics that drive team motivation.",
     "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:56:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of setting achievable Sprint goals and the impact on team morale and performance, which aligns with team dynamics and productivity. However, it primarily focuses on the concept of the Sprint backlog rather than broader team performance strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Sprint Backlog, which is a crucial element in Agile and Scrum methodologies. It touches on how the Sprint Goal can impact team morale and success, indicating a focus on team performance. However, while it mentions team success and morale, it lacks a deeper exploration of team dynamics, collaboration techniques, or conflict resolution strategies, which are key aspects of the 'Team Performance' category.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -715,30 +751,39 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the concept of a Sprint backlog within the Scrum framework, which is a component of Agile practices. However, it does not delve deeply into broader Agile transformation strategies or methodologies, making Agile a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:57:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog, a specific Scrum artefact, which is a component of Agile practices. While it touches on Agile principles such as flexibility and adaptability, it does not delve into broader Agile transformation strategies or methodologies. The discussion is somewhat detailed regarding the Sprint Backlog but lacks a comprehensive exploration of Agile transformation as a whole.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions technical debt as part of the discussion on Sprint backlogs and Agile practices, but it primarily focuses on Scrum roles and events rather than a deep exploration of technical debt management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:56:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog within the context of Scrum, focusing on its components and the importance of balancing priorities. While it briefly mentions tasks like refactoring and bug fixes, which could relate to technical debt, the overall focus is on Scrum practices rather than the management or implications of technical debt itself. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:56:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of commitment in relation to the Sprint goal, but primarily focuses on the Sprint backlog and its components, making Scrum Values a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog and its components, with only a brief mention of concepts like transparency and team success, which are tangentially related to Scrum Values. However, it lacks a direct focus on the core Scrum Values such as commitment, courage, focus, openness, and respect. The discussion does not delve deeply into these values, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -772,12 +817,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:56:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Sprint backlog and its role in achieving operational efficiency within Scrum, but it primarily focuses on Scrum roles and events rather than broader operational practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog within the context of Scrum, focusing on its components and importance in achieving Sprint goals. While it touches on aspects of operational practices, such as setting teams up for success and maintaining flexibility, it lacks a direct focus on broader operational efficiency techniques or strategies. The discussion is more about Scrum roles and events rather than specific operational practices that enhance efficiency in Agile or Lean frameworks.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -808,11 +856,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:56:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Sprint backlog and its relationship to the Sprint goal, which is relevant to the Scrum framework. However, it primarily focuses on the backlog itself rather than the specific role and responsibilities of a Scrum Master.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog, which is a Scrum artefact, but does not explicitly focus on the role of the Scrum Master or their responsibilities. While it touches on aspects of team success and flexibility, it lacks depth in discussing how a Scrum Master facilitates these elements or coaches the team. The mention of setting teams up for success hints at Scrum Master responsibilities but does not delve into specific practices or techniques relevant to the role.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -862,11 +913,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T01:24:37",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concept of a Sprint backlog, its components, and its role in Agile Planning, particularly within the Scrum framework. It addresses how to set effective Sprint goals and the importance of flexibility in planning, which aligns closely with Agile Planning principles.",
+    "calculated_at": "2025-03-13T15:41:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of the Sprint Backlog, a crucial element of Agile Planning. It directly discusses the importance of the Sprint Goal, selected backlog items, and the need for a concrete plan, which aligns well with Agile principles. The emphasis on flexibility and adaptability in response to changing requirements further strengthens its relevance to Agile Planning. The depth of discussion is substantial, covering various aspects of the Sprint Backlog and its impact on team success, making it a primary focus of the content.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -916,11 +970,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:56:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Sprint backlog and its relation to the Sprint goal, which touches on team dynamics and responsibilities, but it primarily focuses on the backlog itself rather than the broader aspects of Scrum Team collaboration.",
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog, which is a Scrum artefact, but it does not delve deeply into the dynamics of the Scrum Team itself. While it touches on the importance of setting teams up for success and mentions team morale, it lacks a comprehensive exploration of roles, collaboration techniques, or team dynamics that are central to the Scrum Team category. The focus is more on the artefact rather than the team interactions and practices.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
@@ -961,11 +1018,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the Sprint backlog within the context of Scrum, but it also touches on broader Agile principles such as flexibility, customer focus, and team dynamics. However, the focus remains on specific Scrum practices, making Agile philosophy a secondary theme.",
+    "calculated_at": "2025-03-14T23:57:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog, a specific Scrum framework element, rather than the broader Agile Philosophy. While it touches on concepts like flexibility and adaptability, which are aligned with Agile principles, the focus remains on technical aspects of Scrum. The discussion lacks depth in exploring the foundational values and principles of Agile as a mindset, which diminishes its alignment with the Agile Philosophy category.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -979,12 +1039,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint backlog, which is a component of Agile planning, but it primarily focuses on the nuances of managing Sprint goals rather than on specific Agile planning tools or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:57:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog, which is a crucial Agile Planning Tool within the Scrum framework. It explicitly mentions the components of the Sprint Backlog and its role in achieving Sprint Goals, indicating a strong focus on Agile planning. The discussion aligns well with the category's core themes, such as backlog management and the importance of planning in Agile methodologies. However, while it provides a good level of detail, it does not delve deeply into specific tools or broader strategies for Agile planning, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1156,21 +1219,27 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:28:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of the Sprint backlog and its role in transparency regarding current work and progress towards goals. However, it primarily focuses on Scrum roles and events rather than a comprehensive exploration of transparency and accountability principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Sprint Backlog and its role in transparency within Agile practices, particularly highlighting how it provides visibility into current work and progress. However, while it touches on transparency, it does not delve deeply into accountability or the broader implications of these concepts within team dynamics. The discussion is primarily focused on the mechanics of the Sprint Backlog rather than a comprehensive exploration of transparency and accountability as core themes.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:56:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a Sprint backlog within the context of Scrum, which is a methodology for implementing Agile practices. While it touches on practical aspects of managing a Sprint backlog, the primary focus is on the philosophy and implications of setting Sprint goals rather than specific tools or techniques for Agile and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Sprint Backlog, a key Agile tool, and its components, which aligns with the category's focus on practical techniques. However, it primarily revolves around the concept of the Sprint Backlog without delving deeply into specific methodologies or frameworks beyond Scrum. While it touches on Agile principles and the importance of flexibility, it lacks detailed exploration of tooling or metrics, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1183,12 +1252,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the flexibility of the Sprint goal and the ability to respond to changing business and market needs, which aligns with the theme of market adaptability. However, the primary focus is on explaining the Sprint backlog and its components rather than a comprehensive discussion on market adaptability strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Sprint Backlog in the context of Agile methodologies, highlighting its flexibility and adaptability to changing market and customer needs. It explicitly mentions the importance of being Agile and adaptable, which aligns well with the category's focus. However, while it touches on relevant concepts, the primary focus is on the mechanics of the Sprint Backlog rather than broader market adaptability strategies, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1228,12 +1300,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the flexibility and adaptability of the Sprint backlog in response to customer and market needs, which aligns with the principles of business agility. However, the primary focus is on Scrum roles and events, making business agility a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:57:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Sprint Backlog, a key component of Scrum, which is a framework that supports Agile methodologies. While it touches on concepts of flexibility and adaptability, which are relevant to business agility, the primary focus is on Scrum practices rather than a broader exploration of business agility principles. The mention of responding to evolving business needs and the importance of setting achievable goals aligns with the category, but the overall depth and focus remain on Scrum rather than a comprehensive discussion of business agility.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1246,11 +1321,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:56:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of aligning the Sprint goal with customer needs and the flexibility required to respond to those needs, which relates to value delivery. However, the primary focus is on the mechanics of the Sprint backlog rather than broader value delivery strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the Sprint Backlog in detail, focusing on its components and the importance of setting achievable goals. However, while it touches on Agile principles and the need for flexibility in response to customer and market needs, it lacks a direct focus on broader value delivery strategies or methodologies. The discussion is more centred on Scrum practices rather than explicitly addressing how these practices enhance customer value or business agility.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
@@ -1264,12 +1342,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the flexibility and adaptability of the Sprint backlog in relation to changing customer needs and business requirements, which aligns with the principles of organisational agility. However, the primary focus is on Scrum roles and events rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:56:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the Sprint Backlog in detail, highlighting its role in maintaining flexibility and adaptability within Agile practices. It explicitly mentions the importance of responding to evolving business and customer needs, which aligns well with the core themes of organisational agility. The depth of discussion around balancing priorities and setting teams up for success further supports its relevance to the category. However, the primary focus remains on Scrum-specific practices rather than broader organisational agility strategies, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1369,12 +1450,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:20:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Sprint backlog and its role in Agile practices, which is a significant aspect of the Agile Product Operating Model, but it primarily focuses on Scrum roles and events rather than the broader principles of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:57:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog, a specific Scrum artefact, rather than the broader Agile Product Operating Model. While it touches on Agile principles and the importance of flexibility and adaptability, it lacks a direct focus on product-centric development, value delivery, or the integration of Agile methodologies within the product lifecycle. The discussion is more about Scrum practices than the overarching Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",

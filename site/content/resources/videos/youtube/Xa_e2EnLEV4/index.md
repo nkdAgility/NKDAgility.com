@@ -33,9 +33,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Operational Practices
+- Transparency
 - People and Process
-- Personal
-- Transparency and Accountability
 resourceTypes:
 - video
 categories: []

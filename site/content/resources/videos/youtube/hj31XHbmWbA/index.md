@@ -32,9 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
-- Decision Theory
-- Sensemaking
-- Personal
+- Metrics and Learning
 resourceTypes:
 - video
 categories: []

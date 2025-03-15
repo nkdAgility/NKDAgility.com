@@ -70,7 +70,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-07T13:00:49",
+    "calculated_at": "2025-03-14T18:59:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -78,7 +78,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on Agile principles and the importance of delivering working software iteratively, which is more aligned with Agile methodologies than with Application Lifecycle Management (ALM) as defined. While it touches on aspects of user feedback and validation, it lacks explicit discussion of the full application lifecycle stages, governance, tools, or metrics that are central to ALM. Therefore, the confidence score reflects a low alignment with the core themes of ALM.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -148,7 +148,7 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-10T14:00:22",
+    "calculated_at": "2025-03-14T18:59:19",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -156,7 +156,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the importance of delivering working software and gathering feedback, which touches on aspects of transparency in terms of validating assumptions and ensuring alignment with customer needs. However, it lacks a direct focus on accountability and does not delve deeply into the principles of openness or responsibility within Agile teams. The discussion is more about Agile practices rather than explicitly addressing transparency and accountability as primary themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -322,7 +322,7 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-11T17:25:20",
+    "calculated_at": "2025-03-14T18:59:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -330,7 +330,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on team-level agile practices, specifically the importance of delivering working software every iteration. While it touches on concepts like feedback loops and stakeholder involvement, it lacks a broader organisational context and does not discuss frameworks, structures, or leadership roles that support enterprise agility. Therefore, it does not align well with the category's primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -343,25 +343,31 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T13:09:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:59:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses maximising value and minimising work, which aligns with Lean principles, but primarily focuses on Agile practices and feedback loops.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile principles, particularly the importance of delivering working software and closing feedback loops. While it touches on concepts like maximizing value and minimizing waste, which are relevant to Lean, the discussion lacks a direct focus on Lean methodologies or tools. The depth of discussion on Agile practices overshadows any Lean-related content, leading to a low confidence score for the Lean category.",
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:09:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:25:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of delivering working software and gathering feedback, which aligns with Agile principles and value delivery, but it primarily focuses on the practice of iteration rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the importance of delivering working software in Agile, which aligns with the principles of the Agile Product Operating Model. It emphasises continuous feedback, stakeholder involvement, and value delivery, all of which are core themes of the model. The depth of discussion is significant, providing practical steps and personal experiences that reinforce the importance of these concepts. However, while it touches on Agile principles, it does not explicitly frame the discussion within the broader context of the Agile Product Operating Model, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T13:43:50",
+    "calculated_at": "2025-03-14T18:59:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -369,25 +375,31 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Agile principles and the importance of delivering working software iteratively, which aligns more closely with Agile methodologies than with DevOps practices. While there is a mention of gathering feedback and validating assumptions, the focus is not on the integration of development and operations, automation, or specific DevOps tools and practices. Therefore, the confidence score reflects a low alignment with the core themes of DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T13:09:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:34:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of delivering working software to gather user feedback, which aligns with the principles of experimentation and learning in product development.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the importance of delivering working software iteratively, which aligns with the principles of continuous learning and feedback loops in product development. It highlights the significance of validating assumptions through real-world testing and emphasises the role of user feedback in shaping future iterations. The depth of discussion on practical steps, such as starting with a Minimal Viable Product (MVP) and involving stakeholders, further supports its alignment with the category. However, while it touches on learning and discovery, the primary focus remains on Agile practices, which slightly detracts from a pure 'Discovery and Learning' classification.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T13:09:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:52:00",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 26,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering working software quickly and gathering feedback, which relates to flow efficiency principles, but it primarily focuses on Agile practices and customer interaction.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of delivering working software iteratively, which aligns with flow efficiency principles by emphasising the need for quick feedback loops and minimising wasted effort. It mentions concepts like validating assumptions and maximising work not done, which are relevant to flow efficiency. However, the primary focus is on Agile practices rather than a direct exploration of flow efficiency metrics or techniques, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -466,11 +478,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering working software quickly to gather feedback, which relates to the concept of Lead Time as it emphasizes the time taken to provide value to customers. However, it mainly focuses on agile practices and feedback loops, making Lead Time a secondary theme.",
+    "calculated_at": "2025-03-14T18:59:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of delivering working software early and often, which indirectly relates to Lead Time by emphasising the need for quick feedback and validation of assumptions. However, it does not explicitly define or measure Lead Time, nor does it provide detailed strategies for optimising it. The focus is more on Agile principles and practices rather than on Lead Time as a specific metric.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -565,20 +580,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:59:29",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the delivery of working software, gathering user feedback, and the agility of the development process, which aligns well with the emphasis on functional and high-quality software that meets customer needs.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the importance of delivering working software in Agile, emphasising practical steps, stakeholder involvement, and the necessity of early feedback. It aligns closely with the core themes of the category, providing detailed insights and actionable advice, thus demonstrating a strong focus on the delivery of functional software.",
+    "level": "Primary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on delivering working software iteratively and gathering feedback, which relates to release processes, but it primarily discusses Agile methodology rather than specifically focusing on release management practices.",
+    "calculated_at": "2025-03-14T18:59:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of delivering working software iteratively, which aligns with some aspects of release management, such as feedback loops and stakeholder involvement. However, it primarily focuses on Agile principles and practices rather than the specific strategies and practices of release management. The discussion lacks depth in areas like version control, risk management, and CI/CD practices, which are crucial for a comprehensive understanding of release management.",
     "level": "Tertiary"
   },
   "Organisational Change": {
@@ -610,21 +631,27 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering working software and gathering feedback, which relates to evidence-based practices, but primarily focuses on agile delivery rather than leadership decision-making.",
+    "calculated_at": "2025-03-14T18:59:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of delivering working software and closing feedback loops, which aligns with evidence-based practices in leadership. However, it primarily focuses on Agile methodologies and technical implementation rather than explicitly addressing leadership decisions or empirical evidence in leadership contexts. The discussion lacks depth in terms of leadership strategies and frameworks, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:59:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses agile methodologies which can relate to digital transformation, but the primary focus is on delivering working software and customer feedback rather than broader strategic digital adoption.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the importance of delivering working software iteratively. While it touches on aspects of user feedback and stakeholder engagement, which are relevant to digital transformation, it lacks a direct focus on the strategic adoption of digital technologies or the broader implications of digital transformation initiatives. The discussion is more centred on Agile practices rather than the overarching theme of digital transformation.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -637,21 +664,27 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:59:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 34.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of delivering working software to gather feedback, validate assumptions, and close feedback loops, which aligns well with the principles of empirical process control in Agile.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of delivering working software iteratively, which aligns with the principles of empirical process control by emphasising feedback loops and validation of assumptions. It highlights the need for transparency and adaptation based on user feedback, which are core themes of the category. However, while it touches on these concepts, it does not delve deeply into empirical process control as a standalone topic, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:00:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of gathering feedback from real users during iterations, which relates to customer satisfaction, but it does not focus primarily on customer satisfaction principles or practices.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of delivering working software to gather customer feedback and validate assumptions, which aligns with customer satisfaction principles. However, while it touches on customer interaction and feedback, it lacks a comprehensive exploration of customer satisfaction metrics or strategies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -673,12 +706,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:00:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses the importance of delivering working software and gathering feedback from real users, emphasizing the role of feedback loops in agile methodologies.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content explicitly discusses the importance of closing feedback loops and the necessity of delivering working software to gather customer feedback early in the Agile process. It aligns well with the core themes of customer feedback integration, providing detailed insights into how to validate assumptions and involve stakeholders. The depth of discussion on practical steps for gathering and acting on feedback further supports a high confidence score.",
+    "level": "Primary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -730,21 +766,27 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of gathering customer feedback and validating assumptions, which aligns with Lean principles, but it is primarily focused on Agile practices, making Lean a secondary theme.",
+    "calculated_at": "2025-03-14T19:00:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses Agile principles, particularly the importance of delivering working software and closing feedback loops. While it touches on concepts like validating assumptions and maximizing value, which align with Lean principles, it does not explicitly focus on Lean Product Development techniques or waste reduction. The discussion is more centred on Agile methodologies rather than Lean practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:00:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile principles, such as delivering working software and gathering feedback, which are related to self-organisation. However, self-organisation is not the central topic, as the focus is more on agile practices and stakeholder value rather than explicitly on self-organising teams.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the importance of delivering working software and closing feedback loops, which are key Agile principles. However, it does not explicitly discuss self-organisation or the practices that enable teams to operate autonomously. While there are mentions of team involvement and stakeholder engagement, the depth of discussion on self-organisation principles and techniques is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -769,12 +811,15 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses the importance of delivering working software and gathering user feedback, which aligns with customer-centric approaches, it mainly focuses on agile practices rather than a comprehensive product strategy framework.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:00:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Agile practices and the importance of delivering working software, which is more about implementation than product strategy. While it touches on user feedback and stakeholder involvement, it lacks a comprehensive discussion on product vision, roadmapping, or competitive analysis, which are core to product strategy.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -805,12 +850,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:59:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering working software iteratively and gathering feedback, which relates to operational practices in Agile. However, the focus is more on the concept of Agile delivery rather than specific operational techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the operational practice of delivering working software in Agile, discussing techniques such as closing feedback loops, validating assumptions, and involving stakeholders. It provides practical steps for implementation, aligning well with the core themes of operational efficiency and continuous improvement. The depth of discussion is significant, offering detailed strategies and personal experiences that reinforce the importance of these practices.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -832,20 +880,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content emphasizes the importance of delivering value iteratively and gathering feedback, which aligns with Agile principles, but it is primarily focused on the practice of delivering software rather than a broader strategic discussion.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:00:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of delivering working software every iteration, which aligns closely with Agile principles of continuous value delivery and customer-centric approaches. It provides detailed insights into closing feedback loops, validating assumptions, and maximising value for stakeholders, all of which are key themes in Agile strategy. The depth of discussion is significant, offering practical steps and personal experiences that reinforce the strategic importance of these Agile practices.",
+    "level": "Secondary"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:00:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of delivering working software iteratively and gathering feedback, which aligns with Agile practices relevant to software developers.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of delivering working software in Agile, which is a core principle for software developers. It directly addresses best practices in Agile development, such as closing feedback loops, validating assumptions, and involving stakeholders, all of which are crucial for developers. The depth of discussion is significant, providing practical steps and personal experiences that reinforce the role of developers in Agile methodologies. Overall, the content aligns well with the category, focusing on how developers can enhance productivity and collaboration through Agile practices.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -913,11 +967,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:00:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the principles of agile methodology, particularly the focus on delivering working software and gathering feedback, which aligns with the themes of fostering collaboration and continuous improvement. However, it does not delve deeply into technical leadership roles or specific leadership strategies, making it a secondary theme rather than the primary focus.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of delivering working software in Agile, which aligns with the principles of technical leadership by emphasising feedback loops and stakeholder involvement. However, it lacks direct discussions on mentoring, coaching, or specific leadership strategies, which are crucial for a higher confidence score in the Technical Leadership category.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -931,12 +988,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content emphasizes the importance of delivering working software to gather feedback and validate assumptions, which ties into innovation practices. However, it does not focus primarily on the broader aspects of measuring and enhancing the ability to innovate per the provided category definition.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:59:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the importance of delivering working software and closing feedback loops, which are essential for validating assumptions and driving innovation. However, it primarily focuses on Agile practices rather than explicitly measuring or enhancing the ability to innovate within an organisation. While there are mentions of user feedback and iterative development, the discussion lacks depth in frameworks, metrics, or Evidence-Based Management principles that are central to the Ability to Innovate category.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -949,30 +1009,39 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:59:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering working software and gathering feedback, key principles of Agile, but it is primarily focused on practical advice rather than an exploration of specific Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the importance of delivering working software in Agile, aligning closely with Agile principles and practices. It highlights key concepts such as closing feedback loops, validating assumptions, and the role of stakeholder involvement, which are central to Agile frameworks. The depth of discussion is significant, providing practical steps and personal experiences that reinforce the Agile mindset. However, while it focuses on Agile principles, it does not explicitly mention specific Agile frameworks like Scrum or Kanban, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of agile methodology and the importance of delivering working software iteratively, which can impact team performance and collaboration. However, the primary focus is on the delivery of software and customer feedback rather than explicitly on team dynamics or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:00:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of delivering working software every iteration, which is a key aspect of Agile methodologies that directly impacts team performance. It highlights techniques for closing feedback loops, validating assumptions, and involving stakeholders, all of which are crucial for enhancing team dynamics and productivity. The depth of discussion on practical steps for teams to improve their delivery processes further supports its alignment with the 'Team Performance' category.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:00:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering working software quickly and gathering feedback, aligning with the throughput theme of optimizing the flow of work and delivering value efficiently, but it focuses more on general Agile principles and practices rather than specifically on throughput metrics or improvement strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of delivering working software iteratively, which relates to throughput by emphasising the need for early feedback and validating assumptions. However, it primarily focuses on Agile principles and practices rather than explicitly measuring or optimising throughput. While it touches on aspects like maximising value and minimising unnecessary work, it lacks detailed techniques for measuring throughput or specific strategies for optimisation, which limits its depth in this category.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -1012,12 +1081,15 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of gathering feedback and validating assumptions with real users, which relates to hypothesis-driven development, but it primarily focuses on agile principles without a strong emphasis on specific hypotheses or experimentation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:59:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivering working software and validating assumptions through user feedback, which aligns with hypothesis-driven development principles. However, it primarily focuses on Agile practices without explicitly detailing hypothesis formulation or experimentation methods, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1039,12 +1111,15 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:00:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of gathering feedback from real users and validating assumptions about the product, which aligns with some aspects of product discovery. However, the primary focus is on agile practices and delivering working software, rather than a deep exploration of product discovery methodologies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of delivering working software and closing feedback loops, which aligns with the principles of product discovery. It mentions the role of MVPs and user feedback, but the primary focus is on Agile practices rather than explicitly exploring methodologies for identifying customer needs or defining product features. While it touches on relevant concepts, it lacks depth in discussing frameworks or techniques specifically related to product discovery.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1084,12 +1159,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the importance of delivering working software iteratively, which is central to software development practices.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T19:00:04",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 34.0,
+    "non_ai_confidence": 20,
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses Agile methodologies, particularly the importance of delivering working software every iteration, which is a core principle of Agile practices. It provides detailed insights into closing feedback loops, validating assumptions, and practical steps for implementation, aligning well with the Software Development category. The depth of discussion on Agile principles and practices, along with specific strategies for effective software delivery, supports a high confidence score.",
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1111,11 +1189,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content discusses the iterative delivery of working software and the importance of customer feedback, which aligns closely with Scrum principles and practices in product development.",
+    "calculated_at": "2025-03-14T19:00:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of delivering working software iteratively, which aligns closely with Scrum principles. It highlights key aspects such as closing feedback loops, validating assumptions, and involving stakeholders, all of which are central to Scrum practices. The depth of discussion on practical steps, like starting with a Minimal Viable Product and prioritising user stories, further reinforces its relevance to Scrum Product Development.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -1138,21 +1219,27 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:00:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses feedback loops and validating assumptions in an agile context, which are related to sensemaking. However, it primarily focuses on Agile practices rather than a broader discussion of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile practices and the importance of delivering working software, which is more about project management and technical implementation than sensemaking. While it touches on the need for feedback and validating assumptions, it does not deeply explore the principles of sensemaking or frameworks that aid in understanding complexity. The discussion lacks a strong emphasis on interpreting complex situations or decision-making processes in organisational contexts.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:00:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content emphasizes the importance of delivering working software iteratively and gathering feedback, which aligns with Agile Planning principles but is more focused on delivery and user interaction.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of delivering working software iteratively, which aligns closely with Agile Planning principles. It highlights key Agile concepts such as closing feedback loops, validating assumptions, and prioritising user stories, all of which are central to effective Agile Planning. The depth of discussion is significant, providing practical steps and personal experiences that reinforce the Agile philosophy. Overall, the content is a strong fit for the Agile Planning category.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1174,11 +1261,14 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T15:12:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "Content discusses the importance of delivering working software and gathering feedback, which aligns with Lean Startup principles, though it primarily focuses on agile methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of delivering working software iteratively, which aligns with Lean Startup principles, particularly the concept of the Minimum Viable Product (MVP) and the Build-Measure-Learn feedback loop. However, while it touches on these themes, the primary focus is on Agile practices rather than Lean Startup methodology specifically. The discussion on MVP is relevant but not the central theme, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -1192,11 +1282,14 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:00:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily emphasizes the importance of delivering working software to users for feedback and validation, aligning closely with methodologies for product validation.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of delivering working software to real users, which is a core aspect of product validation. It highlights the need to validate assumptions through user feedback, emphasises the role of early delivery in gathering insights, and provides practical steps for involving users and stakeholders in the development process. The depth of discussion on methodologies like MVPs and user story prioritisation further aligns with the key topics of product validation, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
@@ -1228,12 +1321,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of delivering working software iteratively to gather feedback, which is relevant to deployment frequency but is primarily focused on agile principles and customer interaction.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:59:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the importance of delivering working software frequently, which aligns closely with the principles of deployment frequency in Agile. It explicitly mentions the need for early and regular delivery to close feedback loops and validate assumptions, which are key aspects of optimising deployment intervals. The depth of discussion includes practical steps for achieving this, such as prioritising user stories and automating testing and deployment, further reinforcing its relevance to the category. Overall, the content is focused on deployment frequency, making it a strong fit for the classification.",
+    "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -1309,11 +1405,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:00:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content emphasizes practical strategies for delivering working software iteratively, gathering feedback, and validating assumptions, aligning well with pragmatic approaches in Agile.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses practical strategies for delivering working software in Agile environments, emphasising real-world applications and the importance of feedback loops. It aligns well with the core themes of pragmatic thinking by providing actionable steps and personal experiences that illustrate the value of early delivery and stakeholder involvement. The depth of discussion is significant, covering various techniques and their implications for project success.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -1381,12 +1480,15 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 60,
-    "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses delivering working software iteratively and emphasizes the importance of rapid feedback and validation of assumptions, which are key components related to MVP development. However, it does not explicitly focus on the concept of a Minimum Viable Product, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:59:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses the concept of a Minimum Viable Product (MVP) as a strategy for delivering working software early and gathering user feedback. It aligns well with the core themes of MVP, such as validating assumptions and iterating based on user feedback. The depth of discussion includes practical steps for implementing an MVP, which enhances its relevance to the MVP category.",
+    "level": "Primary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1399,11 +1501,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T13:56:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the team's delivery of working software and the importance of feedback, which relates to collaboration and communication within the Agile framework. However, the primary focus is on the delivery process and customer interaction rather than teamwork dynamics.",
+    "calculated_at": "2025-03-14T18:59:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of delivering working software and engaging with stakeholders, which indirectly relates to team collaboration. However, it primarily focuses on the delivery process and individual practices rather than explicitly addressing team dynamics or collaboration techniques. While there are mentions of stakeholder involvement and team reflection, the overall emphasis is more on Agile principles and software delivery than on enhancing teamwork or communication.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {

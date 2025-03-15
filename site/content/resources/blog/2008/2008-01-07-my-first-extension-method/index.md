@@ -26,8 +26,7 @@ aliasesArchive:
 - /blog/my-first-extension-method---
 - /my-first-extension-method
 - /resources/blog/my-first-extension-method
-tags:
-- Software Development
+tags: []
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

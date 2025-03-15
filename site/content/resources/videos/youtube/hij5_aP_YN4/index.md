@@ -30,12 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Coaching
-- Agile Leadership
+- Agile Philosophy
 - Mentoring
-- Agile Product Management
-- Discovery and Learning
+- Agile Values and Principles
+- People and Process
+- Software Development
+- Agile Project Management
+- Agile Leadership
+- Agile Transformation
+- Value Delivery
 resourceTypes:
 - video
 categories:

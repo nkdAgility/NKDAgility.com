@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Leadership
-- Evidence Based Management
-- Value Delivery
-- Metrics and Learning
 - Decision Making
+- Evidence Based Leadership
+- Ability to Innovate
+- Discovery and Learning
 - Pragmatic Thinking
-- Decision Theory
-- Agile Product Management
-- Organisational Agility
-- People and Process
+- Operational Practices
+- Customer Satisfaction
+- Evidence Based Management
+- Strategy
+- Value Delivery
 resourceTypes:
 - video
 layout: video

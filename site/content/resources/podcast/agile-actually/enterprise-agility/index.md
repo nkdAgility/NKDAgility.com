@@ -14,11 +14,7 @@ layout: podcast
 slug: enterprise-agility
 aliases:
 - /resources/SOXXjw2lnAK
-tags:
-- Transparency
-- News and Reviews
-- People and Process
-- Transparency and Accountability
+tags: []
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

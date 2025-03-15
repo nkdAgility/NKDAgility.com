@@ -220,16 +220,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T11:07:53",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T04:37:21",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily discusses the importance of metrics and evidence-based management in decision-making processes, focusing on the role of metrics in Agile and DevOps practices, techniques for collecting and analysing performance data, and the significance of feedback loops for continuous improvement.",
+    "final_score": 86.0,
+    "reasoning": "The content extensively discusses the importance of metrics and evidence-based management in decision-making processes, particularly in Agile and DevOps contexts. It provides detailed insights into various metrics, their implications, and the necessity of accurate data for effective management. The depth of discussion on specific metrics, feedback loops, and continuous improvement methodologies aligns closely with the core themes of the 'Metrics and Learning' category.",
     "level": "Primary"
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-10T14:45:12",
+    "calculated_at": "2025-03-15T04:37:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -237,7 +240,7 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content discusses metrics and evidence-based management, which are relevant to Kanban principles, particularly in terms of measuring flow and outcomes. However, it primarily focuses on general metrics and does not explicitly delve into Kanban practices such as visualisation of work or limiting WIP. The mention of Kanban is minimal and not a primary focus, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -268,11 +271,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T11:08:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:37:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses metrics and KPIs related to quality and decision-making in software delivery, aligning closely with the principles of product delivery, particularly in the context of Agile methodologies and evidence-based management.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses metrics and KPIs related to quality and decision-making in software delivery, aligning well with the core themes of product delivery. It covers the importance of evidence-based management, which is crucial for evaluating product delivery performance. The depth of discussion on metrics at both team and organisational levels indicates a strong focus on improving product delivery processes.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -304,20 +310,26 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T11:08:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:37:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 95.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its application in measuring and maximising customer value, aligning product development with customer needs, and improving decision-making through effective metrics, which are central to value delivery practices.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) and its application in measuring and improving value delivery in software development. It aligns closely with key topics such as the importance of metrics in assessing customer value, the iterative nature of improvements, and the role of data in decision-making. The depth of discussion is significant, providing detailed insights into metrics, their implications, and the need for accurate data to enhance value delivery, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T11:08:09",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:37:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses metrics and KPIs in the context of software delivery, specifically mentioning Team Foundation Server (TFS), which is part of Azure DevOps. However, the primary focus is on evidence-based management and general metrics rather than Azure DevOps functionalities.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses metrics and KPIs in the context of software delivery, referencing Team Foundation Server (TFS), which is part of Azure DevOps. However, the primary focus is on evidence-based management and general metrics rather than specific Azure DevOps functionalities or best practices. While TFS is mentioned, the discussion does not delve deeply into Azure DevOps services or methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -331,12 +343,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:38:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Evidence-based Management and its implications for decision-making within organisations, touching on the interconnectedness of metrics and outcomes. However, it primarily focuses on metrics and KPIs rather than a comprehensive exploration of Systems Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its implications for decision-making within organisations, which aligns with Systems Thinking principles. However, it primarily focuses on metrics and KPIs rather than a holistic analysis of interconnected systems. While there are mentions of organisational dynamics and the importance of accurate metrics for decision-making, the depth of discussion on Systems Thinking concepts such as feedback loops and interdependencies is limited. The content does not explicitly explore Systems Thinking methodologies or frameworks, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -358,11 +373,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-15T11:08:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:37:30",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the use of metrics and KPIs in the context of Evidence-based Management, which aligns with the principles of organisational agility by focusing on continuous improvement, adaptability, and the integration of metrics to enhance decision-making and responsiveness within an organisation.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses the importance of metrics and KPIs in relation to Evidence-based Management (EBM), which aligns with the principles of organisational agility. It highlights how accurate metrics can influence decision-making and improve adaptability within an organisation. The discussion on the Agility Index and its role in measuring organisational performance further supports the category's focus on enhancing adaptability and responsiveness. The depth of the analysis, including specific metrics and their implications for organisational agility, contributes to a high confidence score.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -376,11 +394,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T11:08:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:37:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses metrics and KPIs relevant to application lifecycle management, particularly in the context of quality and decision-making in software delivery. It aligns well with the key topics of measuring application performance and lifecycle effectiveness.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses metrics and KPIs relevant to software quality and decision-making, which aligns with the Application Lifecycle Management category. However, while it touches on aspects of governance and performance measurement, it lacks a comprehensive exploration of the entire application lifecycle stages and best practices. The focus is more on metrics rather than the broader context of managing the application lifecycle.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -448,12 +469,12 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T09:08:50",
+    "calculated_at": "2025-03-15T04:37:19",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses metrics and evidence-based management primarily, with some mention of organisational contexts; however, it lacks a deep focus on cultural themes that directly influence agility or team dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -475,12 +496,12 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:50",
+    "calculated_at": "2025-03-15T04:37:19",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "The content discusses metrics and evidence-based management but does not primarily focus on the Product Backlog. It touches on various themes related to Agile and project management without being centered on the roles, practices, or strategies associated with managing a Product Backlog.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -511,11 +532,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:37:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses evidence-based management, metrics, and KPIs aimed at improving operational efficiency within software delivery, which aligns well with the category on Operational Practices.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses metrics and KPIs, which are crucial for measuring operational efficiency. It aligns well with the core themes of operational practices by focusing on evidence-based management, continuous improvement, and the importance of accurate metrics in decision-making. The depth of discussion is significant, providing detailed insights into how metrics can be used to enhance operational practices within Agile and DevOps frameworks.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -529,20 +553,26 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:37:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) in the context of Agile practices, focusing on delivering value through metrics and continuous improvement, which aligns closely with Agile philosophy principles.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its implications for metrics in Agile environments, which aligns with Agile principles of continuous improvement and value delivery. However, the focus is primarily on metrics and reporting rather than a broader discussion of Agile philosophy, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:37:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses metrics and KPIs in the context of Evidence-based Management, which aligns with strategic decision-making within Agile frameworks. It focuses on how to choose and evaluate metrics to support organizational goals, contributing to a value-driven approach in strategy.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of metrics and KPIs in Agile environments, particularly through the lens of Evidence-based Management (EBM). It aligns well with the core themes of strategic alignment, optimisation of delivery processes, and the role of leadership in decision-making based on accurate data. The depth of discussion is significant, covering various metrics at both team and organisational levels, and emphasising the need for continuous improvement and adaptation of strategies based on evidence. Overall, the content is highly relevant to the Strategy category.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -556,11 +586,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:37:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses metrics and KPIs which are crucial for measuring the effectiveness of Agile transformations and implementing evidence-based management practices in Agile environments. It touches on team and organizational metrics, leading indicators for Agile success, and the Agility Index, which are all central to the theme of Agile transformation.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses metrics and KPIs in the context of Agile practices, particularly focusing on Evidence-based Management (EBM) and its application in Agile environments. It aligns well with Agile transformation principles by addressing the importance of metrics for decision-making and continuous improvement, which are key aspects of Agile methodologies. The depth of discussion on organisational and team-level metrics, as well as the mention of the Agility Index, indicates a strong focus on Agile transformation strategies. However, while it is relevant, the primary focus on metrics may not fully encapsulate the broader aspects of Agile transformation, such as cultural shifts and leadership roles.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -583,11 +616,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:38:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses metrics and practices related to team performance, specifically focusing on evidence-based management, team-level metrics, and the impact of these on ultimate performance and decision-making within Agile frameworks.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses various metrics and KPIs relevant to team performance, particularly in the context of Agile and Evidence-based Management. It explicitly mentions team-level metrics such as Cycle Time, Innovation Rate, and Defects, which are crucial for evaluating team effectiveness. The discussion on how to select and interpret these metrics aligns well with the core themes of enhancing team dynamics and productivity. Additionally, the content provides a detailed exploration of the implications of using the right metrics for decision-making, which is essential for fostering collaboration and trust within teams. Overall, the content is focused on team performance, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Increment": {
@@ -610,20 +646,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:38:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its application in software development, focusing on metrics and KPIs relevant to improving software delivery and organizational practices. The discussion is deeply rooted in software engineering practices and methodologies, particularly in relation to Agile practices and metrics that are critical for decision-making in software projects.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) and its application in software development, particularly in relation to metrics and KPIs for quality. It aligns well with key topics in software development, such as Agile practices, continuous improvement, and the importance of accurate metrics in decision-making. The depth of discussion is significant, providing detailed insights into how metrics can influence software delivery and project management, thus making it a strong fit for the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:38:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily focuses on metrics within the context of Evidence-Based Management and its application to Agile project delivery, discussing KPIs, team-level metrics, and agile practices, particularly relevant to Scrum and broader Agile methodologies.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses Evidence-based Management (EBM) and its application in measuring project success, which aligns with agile principles of iterative improvement and metrics for success. It mentions team-level and organisational metrics, which are relevant to agile project management. However, while it touches on agile concepts, it does not delve deeply into specific agile frameworks like Scrum or Kanban, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
@@ -655,11 +697,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:37:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Evidence-based Management (EBM) and its application in measuring outcomes and making informed decisions based on evidence, directly aligning with the principles of Empirical Process Control within Agile methodologies.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM), which is closely related to empirical process control principles. It highlights the importance of using accurate metrics for decision-making, emphasising transparency, inspection, and adaptation. The author provides detailed insights into how metrics can influence organisational outcomes and the necessity of evaluating evidence to inform decisions, aligning well with the core themes of empirical process control. The depth of discussion on metrics and their implications for Agile practices further supports a high confidence score.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -727,20 +772,26 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:38:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics at both team and organizational levels, touching on how these metrics can be applicable in a scaling context, particularly referencing concepts like Evidence-based Management that can be relevant for organizations implementing Scrum at scale.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses metrics and evidence-based management, which are relevant to scaling Scrum, particularly in the context of organisational metrics and decision-making. However, it lacks a direct focus on specific frameworks for scaling Scrum or detailed discussions on coordination among multiple teams. The mention of the Agility Index from Scrum.org provides some alignment, but the overall depth and direct references to scaling practices are limited.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T04:37:58",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) principles and their application to metrics and KPIs in leadership decision-making, emphasizing data-driven approaches to improve organizational outcomes.",
+    "final_score": 86.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) and its application in leadership decision-making, particularly through the use of metrics and KPIs. It provides a detailed exploration of how to gather and analyse data to inform leadership decisions, aligning closely with the core themes of Evidence Based Leadership. The depth of discussion is significant, covering various aspects of EBM, including its principles, the importance of accurate metrics, and the implications of data-driven decision-making in organisational contexts.",
     "level": "Primary"
   },
   "Psychological Safety": {
@@ -754,11 +805,14 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:38:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content focuses on metrics and evidence-based management at both team and organizational levels, with a significant emphasis on deriving value from metrics that are pertinent to scaling agile practices across an organization. While it touches upon team-level metrics, it discusses how these should align with further organizational goals, which is relevant to the topic of scaling agility.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses metrics and KPIs at both team and organisational levels, which aligns with the Scaling Agility category. However, the primary focus is on evidence-based management and metrics rather than explicitly on scaling agile practices or frameworks. While it touches on organisational metrics and the importance of aligning metrics with value delivery, it lacks a comprehensive exploration of frameworks like SAFe or LeSS, and does not delve deeply into leadership roles or cross-team collaboration, which are crucial aspects of scaling agility.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -793,11 +847,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:37:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses metrics, KPIs, and Evidence-based Management at both team and organisational levels, focusing on how these elements influence decision-making and overall organisational performance. The emphasis on analysing organisational dynamics through metrics aligns closely with the principles of systems thinking and organisational dynamics.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its application in organisational contexts, particularly in relation to metrics and decision-making. It aligns well with the core themes of Organisational Physics, such as the interplay between organisational structure and processes, the importance of accurate metrics for leadership decisions, and the need for a systems thinking approach to evaluate outcomes and implement improvements. The depth of discussion on organisational metrics and their implications for performance further supports this classification.",
     "level": "Secondary"
   },
   "Customer Retention": {
@@ -811,11 +868,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:37:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) as a practical approach to metrics and decision-making within Agile environments. It focuses on real-world applications of these metrics, critical thinking in evaluating outcomes, and practical strategies for improving processes, aligning closely with the theme of pragmatic thinking in Agile and Scrum contexts.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses Evidence-based Management (EBM) and its application in Agile and Scrum contexts, focusing on practical metrics and KPIs for decision-making. It highlights the importance of using accurate metrics to inform critical organisational decisions, aligning well with the core themes of pragmatic thinking. The depth of discussion is significant, providing detailed examples and insights into how to navigate complexities in project management through evidence-based approaches.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -829,11 +889,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T04:37:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content discusses Evidence-Based Management (EBM) principles and how they can be leveraged to make informed decisions based on metrics and data, which is crucial for the Ability to Innovate. It emphasizes the importance of selecting the right metrics, fostering a culture of continuous improvement, and examining the impacts of organizational structures on innovation. These elements are directly related to measuring and enhancing an organization's capacity to innovate sustainably.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) and its application in measuring and improving organisational metrics, which directly aligns with the Ability to Innovate category. It provides a detailed exploration of metrics that matter for decision-making, emphasising the importance of accurate data in fostering innovation. The depth of discussion on how to implement EBM principles and the focus on continuous improvement through empirical data further solidify its relevance to the category.",
     "level": "Secondary"
   },
   "Scrum Product Development": {
@@ -847,11 +910,14 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:37:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses metrics and evidence-based management in the context of organizations and how these metrics can influence decision-making at both team and organizational levels, which aligns with scaled Agile practices. It specifically mentions the need for metrics that are effective for measuring performance across multiple teams, hinting at an enterprise-level perspective which is central to scaled Agile methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses metrics and KPIs at both team and organisational levels, which aligns with the principles of scaling Agile practices. It mentions Evidence-based Management (EBM) and its application in organisational contexts, indicating a focus on enterprise-level metrics and decision-making. However, while it touches on scaling, it does not delve deeply into specific frameworks like SAFe or LeSS, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -892,11 +958,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T17:51:20",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:38:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "While the content primarily addresses metrics and evidence-based management in software development, it revolves around assessing and improving software quality and functionality, which aligns closely with the importance of working software. However, the focus on metrics makes it a secondary theme rather than the primary discussion about delivering functional software.",
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses metrics and KPIs related to software quality and delivery, aligning well with the principles of working software. It highlights the importance of evidence-based management in making informed decisions about software development, which directly relates to delivering functional software that meets user needs. The depth of discussion on metrics, team and organisational levels, and the implications of these metrics on software quality further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -964,12 +1033,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-15T17:51:21",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T04:38:13",
+    "ai_confidence": 92.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily focuses on evidence-based management principles, the importance of correct metrics in decision-making, and how to apply structured methodologies to guide business decisions. It discusses various aspects of metrics, data analytics, and their role in enhancing decision quality, aligning closely with the core principles of decision-making in organizations.",
-    "level": "Secondary"
+    "final_score": 84.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) principles, emphasising the importance of using accurate metrics for informed decision-making. It aligns closely with the core themes of structured decision-making, including the role of data analytics, the impact of cognitive biases, and frameworks for evaluating options based on empirical evidence. The depth of discussion is significant, providing detailed insights into metrics, their implications for decision-making, and the necessity of avoiding vanity metrics. Overall, the content is highly relevant to the category of Decision Making.",
+    "level": "Primary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1009,12 +1081,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:38:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and reporting related to Team Foundation Server (TFS), which is associated with Azure DevOps. It briefly mentions KPIs for builds and quality indicators, but the primary focus is on evidence-based management and metrics at both team and organizational levels, rather than specifically on Azure Pipelines.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses metrics and KPIs in the context of software development and mentions Team Foundation Server (TFS), which is related to Azure DevOps. However, it does not focus specifically on Azure Pipelines or CI/CD practices. The discussion is more about evidence-based management and general metrics rather than the specific automation of builds, tests, and deployments that Azure Pipelines entails.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1108,12 +1183,12 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-17T09:08:50",
+    "calculated_at": "2025-03-15T04:37:19",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses metrics, KPIs, and overall management practices but does not focus primarily on estimation techniques or practices within Agile or Scrum frameworks. Estimation is mentioned in the context of metrics and reporting but is not the central theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -1207,12 +1282,12 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:50",
+    "calculated_at": "2025-03-15T04:37:19",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content discusses metrics and evidence-based management primarily, with minimal reference to the role of a Scrum Master or Scrum principles.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1300,30 +1375,36 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T17:51:21",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:38:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Evidence-Based Management (EBM) and metrics related to Agile processes, indicating a focus on Agile frameworks while not exclusively covering them.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its application in measuring metrics relevant to Agile frameworks, particularly mentioning the Agility Index from Scrum.org. However, while it touches on Agile principles and metrics, it primarily focuses on the concept of EBM rather than providing a comprehensive exploration of various Agile frameworks themselves. The discussion lacks depth in comparing frameworks or detailing their implementation, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T17:51:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:38:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses metrics and evidence-based management in the context of Agile practices, focusing on how metrics impact decision-making, strategic planning, and value delivery, which aligns well with Agile Strategy principles.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its application in measuring metrics that align with Agile principles, particularly in the context of organisational decision-making and value delivery. It explores the importance of selecting the right metrics for both team and organisational levels, which directly ties into the Agile Strategy category. The depth of discussion on how metrics can influence strategic decisions and the emphasis on continuous improvement and adaptability further supports its alignment with Agile Strategy. However, while it touches on Agile methodologies, the primary focus is on metrics rather than a comprehensive Agile strategy, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:08:50",
+    "calculated_at": "2025-03-15T04:37:19",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses metrics and evidence-based management in software development, with a brief mention of Team Foundation Server (TFS) and its metrics. However, it does not focus on Azure Repos as a central topic.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1345,11 +1426,14 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-15T17:51:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:38:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the use of metrics, KPI's, and Evidence-based Management to analyze trends over time within Agile and organizational contexts. It focuses on how to evaluate metrics for decision-making, observe trends, and assess their implications for process improvements, which aligns well with the theme of trend analysis.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of metrics and KPIs in Agile and DevOps contexts, particularly through the lens of Evidence-based Management (EBM). It highlights how trends in metrics can inform decision-making and improve organisational practices, aligning closely with the core themes of trend analysis. The depth of discussion is significant, providing detailed insights into various metrics, their implications, and the need for accurate data to avoid misleading conclusions. Overall, the content is a strong fit for the Trend Analysis category.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -1363,20 +1447,26 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:38:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics and Evidence-Based Management in a software delivery context, which relates to assessing flow and efficiency, a key aspect of scaling Kanban. However, it primarily focuses on metrics and decision-making processes rather than explicitly detailing the application of Kanban principles at scale.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses metrics and evidence-based management, which are relevant to Kanban practices, but it primarily focuses on general Agile methodologies and metrics rather than specifically addressing the scaling of Kanban principles in large organisations. While there are mentions of team and organisational metrics, the content lacks a direct focus on the application of Kanban at scale, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-15T17:51:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:38:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses metrics related to throughput, such as cycle time and lead time, and emphasizes the importance of using the right metrics for measuring team and organizational performance in Agile and DevOps contexts.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses metrics and KPIs relevant to Agile and DevOps, including Cycle Time, which is a direct measure of throughput. However, the primary focus is on Evidence-based Management and the importance of selecting the right metrics rather than a detailed exploration of throughput itself. While it touches on concepts related to throughput, such as measuring outcomes and improving processes, it does not delve deeply into strategies specifically aimed at optimising throughput.",
     "level": "Secondary"
   },
   "Test Driven Development": {

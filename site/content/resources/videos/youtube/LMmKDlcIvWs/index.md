@@ -31,13 +31,11 @@ tags:
 - Operational Practices
 - Lean Principles
 - Strategy
+- Agile Project Management
 - Metrics and Learning
 - Practical Techniques and Tooling
 - Continuous Learning
 - Flow Efficiency
-- Agile Frameworks
-- Software Development
-- Lean
 resourceTypes:
 - video
 categories:

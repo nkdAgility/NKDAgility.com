@@ -30,11 +30,7 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
-- Product Owner
-- Value Delivery
-- Agile Project Management
-- Agile Transformation
-- People and Process
+- Software Development
 resourceTypes:
 - video
 categories:

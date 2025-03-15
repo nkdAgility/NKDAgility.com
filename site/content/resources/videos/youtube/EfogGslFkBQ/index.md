@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Throughput
+- Value Delivery
+- Agile Project Management
+- Pragmatic Thinking
+- Software Development
+- Team Performance
+- Operational Practices
+- Flow Efficiency
+- Agile Philosophy
+- Agile Planning
 resourceTypes:
 - video
 categories:

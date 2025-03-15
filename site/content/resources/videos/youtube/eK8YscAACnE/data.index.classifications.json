@@ -145,7 +145,7 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-10T14:04:50",
+    "calculated_at": "2025-03-14T20:09:29",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -153,7 +153,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions Agile practices and criticises the use of story points and velocity metrics, which are related to measuring value delivery. However, it lacks a comprehensive discussion on value delivery strategies or methodologies, focusing instead on a critique of specific metrics without aligning them to broader value delivery principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -205,7 +205,7 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-11T09:59:10",
+    "calculated_at": "2025-03-14T20:09:29",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -213,7 +213,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions agile concepts but primarily critiques specific metrics (story points and velocity) rather than discussing broader organisational agility principles. While it touches on the importance of objective measures, it lacks a comprehensive exploration of agility strategies, leadership roles, or cultural shifts necessary for enhancing organisational responsiveness.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -247,7 +247,7 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-11T11:22:10",
+    "calculated_at": "2025-03-14T20:09:29",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -255,7 +255,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions cycle time and throughput, which are relevant to Lean principles, but primarily focuses on critiquing Agile practices without a substantial discussion on Lean methodologies or concepts. The alignment with Lean is minimal, as it does not delve into core Lean topics such as waste reduction or continuous improvement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -433,12 +433,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:29:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the misuse of specific Agile metrics (story points and velocity) and suggests a shift towards more effective measures (cycle time and throughput), indicating a critique of Agile practices that relates to the broader implications of Agile as a mindset focused on value delivery and team success.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the misuse of Agile practices, particularly story points and velocity metrics, which directly relates to the Agile Philosophy. It critiques how these metrics can undermine collaboration and trust, aligning with the core themes of value delivery and continuous improvement. The depth of discussion is significant, as it not only identifies problems but also suggests alternative metrics that foster a healthier Agile environment, reinforcing the importance of adaptability and responsiveness to change.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -541,12 +544,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:10:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily focuses on Agile methodologies and critiques elements like story points and velocity, it suggests looking at cycle time and throughput, which are metrics relevant to Lean principles. However, Lean Thinking is not the central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and critiques the use of story points and velocity metrics, which are not directly related to Lean Thinking principles. While it touches on themes of efficiency and continuous improvement, it does not explicitly mention Lean concepts or tools. The focus is more on Agile methodologies rather than Lean principles, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -559,12 +565,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T14:51:24",
+    "calculated_at": "2025-03-14T20:09:29",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content critiques the use of story points and velocity in agile methodologies, but it does not primarily discuss working software itself or its delivery. It focuses more on metrics and practices that may contribute to team success rather than explicitly addressing functional, high-quality software delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -604,11 +610,14 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of metrics in Agile management and advocates for objective measures over subjective ones, indicating a focus on data-driven leadership practices, though it primarily critiques specific Agile practices rather than fully engaging with evidence-based leadership principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the misuse of metrics in Agile leadership, particularly story points and velocity, which are critiqued for being subjective and detrimental to team dynamics. While it does touch on the importance of objective measures like cycle time and throughput, it lacks a direct focus on evidence-based leadership principles and does not provide empirical data or case studies to support its claims. The discussion is relevant but does not fully align with the core themes of evidence-based leadership, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Digital Transformation": {
@@ -631,12 +640,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content critiques the use of story points and velocity metrics in Agile, suggesting a shift to more objective measures like cycle time and throughput, which aligns with the principles of empirical process control. However, the primary focus is on criticizing specific metrics rather than a broader discussion on empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the misuse of story points and velocity metrics in Agile, highlighting the importance of transparency and collaboration, which aligns with empirical process control principles. However, it primarily critiques specific practices rather than focusing on empirical process control as a central theme. The depth of discussion on empirical practices is moderate, with some suggestions for alternative metrics, but it lacks extensive exploration of inspection and adaptation techniques.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -676,11 +688,14 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses story points and velocity, which are related to estimation practices in Agile. However, it primarily criticizes their use rather than providing constructive estimation techniques or practices.",
+    "calculated_at": "2025-03-14T20:10:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content discusses the misuse of story points and velocity metrics in Agile, which are directly related to estimation practices. It critiques the subjectivity of story points and how they can lead to misaligned expectations, indicating a clear understanding of estimation's role in Agile. However, while it addresses estimation, the focus is more on the critique of these practices rather than on collaborative techniques or empirical data, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -703,7 +718,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T11:49:12",
+    "calculated_at": "2025-03-14T20:09:29",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -711,7 +726,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on Agile methodologies, specifically critiquing the use of story points and velocity metrics. However, it lacks a comprehensive discussion on product management strategies or frameworks. The focus is more on the critique of specific practices rather than the broader strategic alignment of product management principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -724,12 +739,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics such as cycle time and throughput, which align with Lean principles of measuring efficiency and performance. However, the primary focus is on critique of Agile methodologies rather than Lean Product Development itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily critiques the misuse of Agile metrics, focusing on story points and velocity, which are not directly related to Lean Product Development principles. While it touches on themes of continuous improvement and collaboration, it does not explicitly discuss Lean principles or techniques for waste reduction. The depth of discussion is limited to Agile practices rather than Lean methodologies.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -787,21 +805,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:10:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content critiques the use of specific Agile metrics (story points and velocity) and suggests alternatives, indicating a major theme in Agile practices while primarily focusing on a critique rather than broader Agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content explicitly discusses Agile principles, particularly the misuse of metrics like story points and velocity, which directly relates to Agile transformation. It aligns well with the core themes of fostering collaboration and continuous improvement, while also providing depth in discussing alternative metrics that support Agile values. However, it does not delve deeply into broader frameworks or methodologies for Agile transformation, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content critiques the use of story points and velocity in Agile, suggesting a shift toward cycle time and throughput, which aligns with operational metrics and efficiency discussions, but overall it is more about critiquing specific practices rather than providing a broad operational practice strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:09:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the misuse of Agile metrics, specifically story points and velocity, which directly relates to operational practices in Agile. It critiques these metrics and suggests alternatives like cycle time and throughput, aligning with the category's focus on improving operational efficiency. The depth of discussion is substantial, providing insights into how these metrics can create a toxic environment and proposing more effective measures that enhance team collaboration and performance.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -823,21 +847,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses issues related to Agile practices and metrics, it primarily critiques specific metrics (story points and velocity) rather than focusing on broader Agile strategy topics such as alignment with organizational vision or long-term adaptability.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the misuse of Agile metrics, specifically story points and velocity, which directly relates to Agile principles and their strategic implications. It critiques how these metrics can undermine team dynamics and suggests a shift towards more objective measures like cycle time and throughput, aligning with the core themes of continuous value delivery and adaptability. The depth of discussion is substantial, providing insights into the negative impacts of misapplied metrics and advocating for a healthier Agile culture, which is central to Agile strategy. However, it does not explicitly address broader strategic planning or leadership roles, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices related to story points and velocity metrics, which are relevant to the role of software developers, but focuses more on criticizing these practices rather than providing constructive insights directly related to developers' roles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses Agile practices, particularly the misuse of story points and velocity metrics, which are relevant to software developers. It aligns well with the core themes of Agile methodologies and their impact on team dynamics and productivity. The depth of discussion is substantial, providing insights into alternative metrics like cycle time and throughput, which are crucial for developers. Overall, the content is focused on the role of developers in Agile contexts, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -904,12 +934,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content critiques certain agile practices related to metrics, it does not explicitly focus on technical leadership principles or the role of technical leaders in guiding teams.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:15:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the misuse of Agile metrics, particularly story points and velocity, which directly relates to the principles of technical leadership in fostering a collaborative and trusting environment. It highlights the negative impact of these metrics on team dynamics and advocates for a shift towards more objective measures, aligning with the core themes of continuous improvement and effective team guidance. However, while it touches on important aspects of technical leadership, it does not delve deeply into specific strategies for mentoring or facilitating agile ceremonies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -940,29 +973,38 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Agile concepts, specifically story points and velocity metrics within the context of Agile frameworks, but focuses on a critique rather than a comprehensive exploration or comparison of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles and critiques the misuse of specific Agile metrics, such as story points and velocity, which aligns with the core themes of Agile frameworks. It provides a detailed analysis of how these metrics can undermine Agile values, promoting a shift towards more objective measures like cycle time and throughput. However, while it touches on Agile concepts, it does not delve deeply into specific frameworks like Scrum or Kanban, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to team performance and how certain practices (like using story points and velocity) can negatively impact team success. It also mentions the importance of objective measures, which ties into team effectiveness, but the primary focus is more on criticizing those metrics rather than outlining methodologies for improving team performance.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:10:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the negative impact of using story points and velocity metrics on team dynamics, which directly relates to team performance. It highlights the importance of fostering collaboration and trust, aligning well with the core themes of the category. The depth of discussion is significant, providing alternative metrics and advocating for a culture of openness and continuous improvement, which are essential for enhancing team effectiveness.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 70,
-    "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses throughput as an objective measure, contrasting it with story points and velocity, indicating that it relates to the measurement of work completion rates. However, the primary focus is more on critiquing story points and velocity rather than an in-depth discussion on throughput itself.",
+    "calculated_at": "2025-03-14T14:55:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 77.0,
+    "reasoning": "The content explicitly discusses throughput as a metric for measuring team output, which aligns directly with the category's focus. It provides a clear definition of throughput and contrasts it with less effective metrics like story points and velocity. The discussion on cycle time further supports the theme of measuring work completion rates. While the content does touch on broader Agile principles, the primary focus remains on optimising throughput, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Windows": {
@@ -994,12 +1036,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:10:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile concepts, specifically critiquing the use of story points and velocity metrics, which are traditionally associated with agile project management. However, the focus is more on their detriment rather than on promoting agile principles or practices.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses Agile principles, particularly the misuse of story points and velocity metrics, which are central to Agile project management. It aligns well with the core themes of Agile, such as collaboration, transparency, and continuous improvement. The depth of discussion is significant, providing insights into alternative metrics like cycle time and throughput, which further emphasises the importance of adapting Agile practices to foster a healthier team environment.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1066,21 +1111,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:10:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content critiques the use of specific agile metrics (story points and velocity) and suggests alternative metrics (cycle time and throughput) that are more objective, which relates to decision-making in selecting appropriate metrics for assessing team performance.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the misuse of metrics in Agile, particularly story points and velocity, which directly relates to decision-making processes within teams. It highlights the importance of using objective measures like cycle time and throughput to inform decisions, aligning with evidence-based practices. However, while it touches on decision-making, the primary focus is on critiquing specific Agile practices rather than a structured discussion on decision-making methodologies, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices, specifically the use of story points and velocity metrics, which are related to software development methodologies. However, the primary focus is on criticizing these practices rather than on promoting software development methodologies overall.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Agile methodologies, specifically critiquing the use of story points and velocity metrics, which are integral to Agile practices. It aligns well with the core themes of the Software Development category, particularly in relation to Agile frameworks and practices. The depth of discussion is substantial, providing insights into the misuse of these metrics and suggesting alternatives, which enhances its relevance to software development discussions.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1102,21 +1153,24 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T14:51:24",
+    "calculated_at": "2025-03-14T20:09:29",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content touches on topics related to agile practices but primarily critiques the use of specific metrics (story points and velocity) rather than discussing Scrum principles or product development processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses cycle time and throughput, which are relevant to Lean thinking, but primarily focuses on Agile practices and the critique of story points and velocity metrics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:10:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and criticises the misuse of metrics like story points and velocity, which indirectly relates to Lean principles of continuous improvement and value maximisation. However, it primarily focuses on Agile rather than Lean, leading to a lower confidence score. The discussion on cycle time and throughput aligns with Lean's emphasis on efficiency, but the overall focus remains on Agile methodologies.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -1138,12 +1192,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile concepts, specifically criticizing the use of story points and velocity in Agile Planning, which is a major aspect of the topic. However, the focus is on the negative impacts of these metrics rather than on positive Agile Planning practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the misuse of Agile metrics like story points and velocity, which are relevant to Agile Planning. However, it primarily critiques these practices rather than focusing on Agile Planning methodologies or techniques. While it aligns with Agile principles of collaboration and continuous improvement, the depth of discussion on Agile Planning itself is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1192,12 +1249,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content critiques the use of story points and velocity metrics, which are tools related to Agile practices. It indicates an emphasis on team dynamics and the importance of focusing on objective measures rather than subjective metrics, which ties back to the principles of valuing collaboration and self-organising teams. However, the primary focus is on practices rather than the underlying values and principles of Agile.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:10:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 40,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the misuse of Agile practices, particularly story points and velocity metrics, which directly relates to Agile values. It critiques how these metrics can undermine collaboration and trust, emphasising the importance of transparency and continuous improvement—core Agile principles. The depth of discussion is significant, providing insights into alternative metrics that align better with Agile values. Overall, the content strongly aligns with the category, focusing on the foundational beliefs of Agile methodologies.",
+    "level": "Primary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1228,12 +1288,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:37:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content critiques the use of story points and velocity metrics in Agile contexts, suggesting an alternative focus on cycle time and throughput, indicating an exploration of strategic alignment in Agile practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the misuse of Agile metrics, specifically story points and velocity, which directly relates to strategic alignment and the optimisation of delivery processes. It critiques the pressure on teams to meet subjective performance metrics, highlighting the need for a value-driven approach and the importance of fostering a collaborative environment. While it does not delve deeply into formal strategic frameworks, it aligns well with the core themes of Agile strategy, particularly in advocating for continuous improvement and the role of leadership in creating a supportive culture. The depth of discussion is moderate, focusing on alternatives to traditional metrics, which contributes to the overall confidence score.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -1300,11 +1363,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:09:59",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily critiques the use of subjective metrics like story points and velocity in Agile, advocating for more practical, objective measures like cycle time and throughput, which aligns well with pragmatic thinking and real-world application in Agile contexts.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the misuse of Agile metrics, specifically story points and velocity, and advocates for more pragmatic, objective measures like cycle time and throughput. It aligns well with the core themes of pragmatic thinking by emphasising practical problem-solving strategies in Agile contexts and the importance of fostering collaboration over arbitrary metrics. The depth of discussion is substantial, providing clear alternatives and a call to action, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -1345,12 +1411,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T14:51:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:07:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the content primarily discusses the issues with story points and velocity metrics, it does mention cycle time as an alternative measure. However, cycle time is not the primary focus of the discussion.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Cycle Time as an alternative to story points and velocity metrics, highlighting its importance in measuring efficiency and identifying bottlenecks. However, while Cycle Time is mentioned, the primary focus of the content is on critiquing the misuse of story points and velocity, which detracts from a deeper exploration of Cycle Time itself. The discussion provides some alignment with the category's themes but lacks extensive detail on methods for measuring or strategies for reducing Cycle Time.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1426,7 +1495,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:51:05",
+    "calculated_at": "2025-03-14T20:09:29",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1434,6 +1503,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions agile concepts related to story points and velocity, which are often associated with Scrum practices. However, it primarily critiques these metrics rather than discussing Scrum principles or frameworks in detail. The focus is more on the negative implications of certain agile practices rather than a comprehensive exploration of Scrum roles, events, or artifacts. Therefore, while there are mentions of Scrum-related topics, the overall alignment and depth of discussion do not strongly support a high confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

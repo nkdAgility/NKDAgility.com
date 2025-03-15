@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/windows-live-id-and-openid
 - /windows-live-id-and-openid
 - /resources/blog/windows-live-id-and-openid
-tags:
-- Install and Configuration
-- Windows
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-7-1.png
 

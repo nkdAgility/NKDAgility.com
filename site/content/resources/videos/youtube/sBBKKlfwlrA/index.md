@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
 duration: 175
 isShort: false
 tags:
-- Events and Presentations
-- Pragmatic Thinking
-- Professional Scrum
 - Scaling Scrum
-- People and Process
+- Practical Techniques and Tooling
+- Professional Scrum
 - Scaled Agile
-- Scaling Agility
-- Agile Product Management
-- Agile Frameworks
 - Agile Project Management
+- Agile Frameworks
+- Software Development
+- Large Scale Agility
+- Products and Books
+- Events and Presentations
 sitemap:
   filename: sitemap.xml
   priority: 0.6

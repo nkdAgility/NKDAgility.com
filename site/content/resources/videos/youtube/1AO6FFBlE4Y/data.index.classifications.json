@@ -82,7 +82,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T12:48:34",
+    "calculated_at": "2025-03-14T17:17:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -90,7 +90,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the implications of poor quality code on productivity and brand reputation, which are relevant to product management. However, it primarily focuses on technical aspects and engineering practices rather than strategic product management methodologies or frameworks. While it touches on the importance of delivering value to customers, it lacks a direct focus on product management principles, making it a secondary discussion rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -121,11 +121,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which indirectly relates to digital transformation through the lens of improving operational efficiency and engineering practices. However, the primary focus is on coding practices rather than a strategic discussion of digital technologies for business transformation.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of high-quality code and its impact on productivity and brand reputation, which indirectly relates to digital transformation. However, it lacks a direct focus on the strategic adoption of digital technologies or methodologies for business transformation. While it touches on improving processes and efficiency, it does not delve into broader digital transformation strategies or case studies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Working Software": {
@@ -142,12 +145,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of poor quality code on productivity and decision-making within teams, highlighting the importance of structured approaches to improve engineering practices. However, the primary focus is on the costs associated with poor quality rather than a structured decision-making framework.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the costs associated with poor-quality code and suggests improvements, but it lacks a structured approach to decision-making. While it touches on the importance of investing in quality and reducing technical debt, it does not provide evidence-based methodologies or frameworks for decision-making, nor does it focus on collaborative insights or empirical evidence. The discussion is more about the implications of poor decisions rather than a structured decision-making process.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -169,12 +175,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which aligns with Lean principles of minimising waste and maximising value delivery. However, the primary focus is on software engineering practices rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:18:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the costs associated with poor-quality code and the benefits of improving code quality, which indirectly relates to efficiency and productivity. However, it does not explicitly mention Lean principles or focus on minimising waste in the product development process. The discussion is more centred on technical debt and code quality rather than Lean Product Development concepts.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -250,21 +259,27 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:46:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which relates to strategic outcomes in Agile environments. However, the primary focus is on the consequences of technical debt and engineering practices rather than a clear strategic approach or framework.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses the implications of poor-quality code and its impact on productivity and brand reputation, which indirectly relates to strategic outcomes in Agile environments. However, it lacks a direct focus on strategic alignment or specific Agile methodologies, making it more of a general discussion on quality rather than a strategic analysis.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, highlighting the importance of engineering excellence and the ability to deliver features. While it touches on aspects of innovation, such as improving processes and reducing technical debt, the primary focus is on the costs associated with poor quality rather than a direct exploration of innovation capabilities.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:18:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the impact of poor-quality code on innovation and productivity, highlighting how addressing technical debt can free up resources for innovation. However, it does not explicitly focus on the Ability to Innovate as a primary theme, nor does it delve deeply into frameworks or metrics for measuring innovation capabilities. The discussion is more about the consequences of poor practices rather than a structured approach to enhancing innovation.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -295,21 +310,27 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of poor quality code on customer satisfaction and brand reputation, making customer satisfaction a significant theme, but it primarily focuses on technical issues and engineering practices.",
+    "calculated_at": "2025-03-14T17:18:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the impact of poor-quality code on customer satisfaction, particularly in terms of brand reputation and customer support strain. However, the primary focus is on technical debt and code quality rather than a comprehensive exploration of customer satisfaction principles and practices. While it touches on customer happiness, it does not delve deeply into measurement techniques or strategies for enhancing customer engagement, which are central to the category.",
     "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which aligns with Lean principles of minimising waste and enhancing efficiency. However, the primary focus is on software engineering practices rather than Lean Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the costs associated with poor-quality code and the importance of improving code quality, which indirectly relates to Lean principles of efficiency and waste reduction. However, it primarily focuses on software quality and technical debt rather than explicitly addressing Lean Thinking concepts such as value stream mapping or waste identification. The mention of productivity and efficiency is present but lacks depth in Lean-specific tools or methodologies.",
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -367,20 +388,26 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:07:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and delivery timelines, which relates to throughput. However, the primary focus is on quality issues and their broader implications rather than a direct exploration of throughput as a central theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the impact of poor-quality code on team productivity and mentions a case study of the Azure DevOps team improving their efficiency, which aligns with throughput concepts. However, it primarily focuses on the costs of poor code quality rather than directly measuring or optimising throughput, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:18",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 35.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, with a specific example from the Azure DevOps team. While it touches on aspects of software development and engineering practices, it does not primarily focus on Azure Pipelines or CI/CD processes, making it a secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of code quality and mentions Azure DevOps in the context of improving productivity through better practices. However, it does not focus specifically on Azure Pipelines or CI/CD processes, which are central to the category. The mention of Azure DevOps is brief and serves more as an example rather than a detailed discussion on Azure Pipelines. Overall, while there is some relevance, the primary focus is not on Azure Pipelines.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
@@ -394,12 +421,15 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code and the benefits of improving engineering practices, including the shift from long-running system tests to small discrete unit tests. While automated testing is a significant theme, the primary focus is on broader engineering practices and the costs associated with poor quality, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of code quality and mentions unit tests briefly, but it primarily focuses on the costs of poor-quality code and strategies for improvement rather than on automated testing principles or methodologies. The discussion lacks depth in automated testing practices and tools, which are central to the category.",
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -496,7 +526,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T17:20:01",
+    "calculated_at": "2025-03-14T17:17:44",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -504,7 +534,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of high-quality code and its impact on productivity and customer satisfaction, which indirectly relates to frequent releases. However, it does not explicitly focus on the principles of frequent releases, continuous delivery, or deployment strategies. The mention of Azure DevOps improving their release efficiency hints at the benefits of frequent releases, but the overall discussion is more centred on code quality and technical debt rather than the release process itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -517,21 +547,27 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of poor quality code and the associated costs, which indirectly relates to troubleshooting by highlighting the need for effective problem resolution and the impact of unresolved issues on productivity and brand reputation. However, the primary focus is on the costs and benefits of quality rather than direct troubleshooting techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the costs associated with poor-quality code and suggests improvements, but it primarily focuses on the implications of code quality rather than directly addressing troubleshooting techniques or methodologies. While it touches on issues like bugs and technical debt, it lacks a systematic approach to diagnosing and resolving specific technical problems, which is essential for a strong alignment with the Troubleshooting category.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering high-quality software and the impact of technical debt on productivity and feature delivery, which aligns with the Increment concept in Agile. However, the primary focus is on quality and engineering practices rather than the Increment itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of high-quality code and its impact on productivity and customer satisfaction, which indirectly relates to the concept of delivering valuable software increments. However, it does not explicitly mention the Increment or its role within Agile frameworks, nor does it focus on the delivery of software increments as a primary topic.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -583,12 +619,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and the ability to deliver features, which indirectly relates to deployment frequency. However, the primary focus is on quality and technical debt rather than optimising deployment intervals.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of high-quality code and its impact on productivity and deployment efficiency. While it touches on reducing feedback loops and improving deployment intervals, the primary focus is on code quality rather than deployment frequency itself. The mention of Azure DevOps improving their validation time hints at deployment frequency but lacks a detailed exploration of strategies or metrics specifically related to deployment frequency.",
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -601,12 +640,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, touching on practices that can relate to Continuous Integration, such as the importance of maintaining a reliable codebase and the benefits of automated testing. However, the primary focus is on the costs associated with poor engineering practices rather than a direct exploration of CI principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:18:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of reducing branching strategies and mentions continuous integration as a method to improve code quality. However, the primary focus is on the costs of poor-quality code and the benefits of high-quality code rather than a detailed exploration of Continuous Integration principles or practices. While CI is mentioned, it is not the central theme, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -619,11 +661,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and delivery, touching on aspects of Continuous Delivery such as the importance of maintaining a production-ready state and the role of automation in improving delivery speed. However, the primary focus is on the costs associated with poor quality rather than Continuous Delivery principles themselves.",
+    "calculated_at": "2025-03-13T16:29:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of code quality and its impact on productivity and deployment efficiency, which are relevant to Continuous Delivery. However, it primarily focuses on the costs of poor-quality code and does not explicitly address Continuous Delivery principles or practices. While it mentions branching strategies and the need for continuous integration, these points are not explored in depth, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Cross Functional Teams": {
@@ -664,11 +709,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of poor quality code on team productivity and the importance of engineering practices, which are relevant to team performance. However, the primary focus is on code quality and its broader implications rather than specific strategies or methodologies for enhancing team dynamics or collaboration.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the impact of poor-quality code on team productivity and morale, which aligns with the themes of team performance. It mentions specific strategies for improving team efficiency and reducing cognitive load, indicating a focus on enhancing team dynamics. However, the primary focus is on code quality rather than direct team performance strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "AI": {
@@ -709,12 +757,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which aligns with Lean principles of waste reduction and value maximisation. However, the primary focus is on software engineering practices rather than Lean principles themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the costs associated with poor-quality code and the benefits of improving code quality, which indirectly relates to Lean principles such as waste reduction and continuous improvement. However, it primarily focuses on software quality and technical debt rather than explicitly addressing Lean concepts or practices. The discussion lacks depth in Lean-specific tools or methodologies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -955,12 +1006,15 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of code quality and the impact of poor engineering practices, which are relevant to TDD principles. However, it primarily focuses on general software development challenges and does not explicitly centre on TDD practices or the TDD cycle.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of code quality and mentions practices like unit tests, but it does not focus specifically on Test Driven Development (TDD) principles or the TDD cycle. While it touches on related themes, such as reducing technical debt and improving productivity, it lacks a detailed exploration of TDD as a methodology.",
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -982,12 +1036,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses branching strategies and the impact of poor engineering practices on productivity, which are relevant to modern source control. However, the primary focus is on the costs of poor quality code and its broader implications, making source control a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the impact of poor-quality code on productivity and team morale, with a specific mention of complex branching strategies and the need for simpler approaches. It aligns with the category by addressing modern source control practices, particularly in the context of version management and continuous integration. However, the primary focus is on code quality rather than source control methodologies, which limits the depth of discussion on the category itself.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1036,12 +1093,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of improving engineering practices and learning from past mistakes, which aligns with the principles of Continuous Learning. However, the primary focus is on the costs of poor quality code and its impact on productivity rather than a direct exploration of Continuous Learning practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:18:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of improving code quality and mentions practices like reducing feedback loops and investing in engineering excellence, which align with continuous learning principles. However, it primarily focuses on the costs of poor-quality code rather than explicitly promoting a growth mindset or knowledge sharing, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1063,21 +1123,27 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which aligns with Lean principles of maximising value and minimising waste. However, the primary focus is on software engineering practices rather than Lean methodologies specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the costs associated with poor-quality code and the benefits of improving code quality, which aligns with Lean principles of efficiency and waste reduction. However, it does not explicitly mention Lean methodologies or tools, and the focus is primarily on software quality rather than Lean practices. The discussion lacks depth in Lean-specific strategies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which indirectly relates to organisational resilience. However, the primary focus is on technical aspects and practices rather than explicit strategies for resilience or change management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the costs of poor-quality code and how improving code quality can enhance productivity and brand reputation. While it touches on themes of organisational improvement and efficiency, it lacks a direct focus on resilience and change management strategies. The discussion is primarily technical and does not delve into the human and cultural aspects of change, which are crucial for the category.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1144,12 +1210,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, highlighting the importance of learning from past mistakes and improving engineering practices. However, the primary focus is on the costs associated with poor quality rather than on discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the implications of poor-quality code and how improving it can lead to increased productivity and innovation. While it touches on the importance of learning from past mistakes and adapting practices, the primary focus is on the costs associated with code quality rather than a deep exploration of discovery and learning methodologies. The mention of reducing feedback loops and investing in engineering excellence aligns with the category, but the overall depth of discussion on discovery and learning processes is moderate.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1180,12 +1249,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, and mentions engineering practices and techniques that can improve team performance. However, it primarily focuses on the consequences of poor practices rather than providing a clear exploration of specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the implications of poor-quality code and suggests practical techniques for improvement, such as reducing branching strategies and investing in engineering excellence. However, while it touches on relevant tools and methodologies, the primary focus is more on the consequences of poor practices rather than a detailed exploration of specific tools or frameworks that enhance Agile and DevOps practices.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1198,12 +1270,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which indirectly relates to market adaptability. However, the primary focus is on the costs associated with poor engineering practices rather than strategies for enhancing responsiveness to market shifts.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of high-quality code and its impact on productivity and brand reputation, which indirectly relates to market adaptability. However, it lacks a direct focus on Agile, DevOps, or Lean methodologies, and does not provide specific strategies for enhancing market responsiveness. The mention of Azure DevOps showcases a case of improved efficiency, but the overall discussion is more about code quality than market adaptability.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1228,11 +1303,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:01",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of poor quality code and technical debt, referencing the Azure DevOps team as a case study. While Azure DevOps is mentioned, the primary focus is on general software engineering practices and their implications rather than specific Azure DevOps functionalities or methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the impact of poor-quality code and mentions the Azure DevOps team as a case study for improving productivity. However, the primary focus is on code quality rather than Azure DevOps itself. While there is a relevant mention of Azure DevOps, it is not the central theme of the discussion, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Products and Books": {
@@ -1246,12 +1324,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which indirectly relates to business agility by highlighting the importance of delivering value and adapting to customer needs. However, the primary focus is on technical debt and engineering practices rather than the principles and practices of business agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of high-quality code and its impact on productivity and brand reputation, which are relevant to business agility. However, it primarily focuses on technical debt and code quality rather than the broader principles and practices of business agility. The mention of missed opportunities and the need for innovation aligns somewhat with business agility, but the overall discussion lacks depth in agile methodologies and leadership roles in fostering agility.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1288,12 +1369,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, touching on themes of organisational responsiveness and the importance of engineering practices. However, it primarily focuses on technical debt and quality issues rather than explicitly addressing organisational agility as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the impact of poor-quality code on productivity and innovation, which aligns with the themes of organisational agility. However, it primarily focuses on technical debt and code quality rather than explicitly addressing agile methodologies or cultural shifts necessary for agility. The mention of productivity and missed opportunities hints at agility but lacks depth in discussing agile principles or frameworks.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -1306,21 +1390,27 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of poor quality code on team productivity and organisational efficiency, highlighting human factors and engineering practices. However, the primary focus is on technical debt and code quality rather than the interplay between people and structured methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of poor-quality code on team productivity and morale, highlighting the interplay between human behaviour and structured methodologies. It addresses team dynamics, the importance of reducing cognitive load, and the need for effective communication and processes to enhance productivity. However, while it touches on these aspects, the primary focus remains on technical debt and code quality rather than a deep exploration of people and process methodologies.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on team productivity and organisational outcomes, touching on the interplay between technical practices and their effects on team dynamics and brand reputation. However, the primary focus is on technical debt and code quality rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the impact of poor-quality code on team productivity and morale, which touches on sociotechnical aspects. However, it primarily focuses on technical debt and code quality without a thorough exploration of the interplay between social and technical systems within organisations. While there are mentions of team dynamics and productivity, the discussion lacks depth in addressing organisational culture or structure, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1333,30 +1423,39 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, touching on the importance of metrics in measuring productivity improvements and the iterative learning cycle in engineering practices. However, the primary focus is on the consequences of poor engineering rather than a detailed exploration of metrics and learning principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the costs associated with poor-quality code and the benefits of improving code quality, which indirectly relates to metrics and learning through the lens of productivity and team efficiency. However, it lacks explicit discussions on metrics, data collection, or feedback mechanisms, which are central to the category. The focus is more on the implications of code quality rather than on evidence-based decision-making or continuous improvement methodologies.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity, brand reputation, and the importance of maintaining a high-quality product throughout its lifecycle. While it touches on aspects relevant to Application Lifecycle Management, such as technical debt and the need for effective governance, the primary focus is on the consequences of poor engineering practices rather than a comprehensive discussion of ALM methodologies or tools.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implications of poor-quality code and its impact on productivity and brand reputation, which are relevant to the application lifecycle. However, it primarily focuses on code quality rather than the comprehensive management of the application lifecycle stages, tools, or methodologies. While there are mentions of practices that could relate to ALM, they are not the primary focus of the discussion.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T12:03:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:17:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of poor quality code on productivity and brand reputation, which relates to the flow of value. However, it primarily focuses on technical debt and engineering practices rather than directly addressing Value Stream Management principles or techniques.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the costs associated with poor-quality code and the benefits of improving code quality, which indirectly relates to efficiency and productivity. However, it does not explicitly mention Value Stream Management or its core principles, nor does it provide in-depth analysis or techniques related to value streams. The focus is more on code quality and technical debt rather than the strategic approach of Value Stream Management.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1441,7 +1540,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:45",
+    "calculated_at": "2025-03-14T17:17:44",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1449,6 +1548,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the costs associated with poor quality code and the impact on productivity and brand reputation. While it touches on themes relevant to software development, it does not explicitly mention Scrum principles, roles, events, or artifacts. The discussion lacks a direct focus on Scrum practices or frameworks, resulting in a low confidence score for alignment with the Scrum category.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

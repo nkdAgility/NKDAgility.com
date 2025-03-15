@@ -1,12 +1,15 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of data and metrics to identify problems and suggests running experiments based on data analysis, which aligns with hypothesis-driven development principles. However, the primary focus is on transitioning to Kanban and project management strategies rather than on hypothesis formulation and experimentation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses transitioning to Kanban and does not explicitly mention hypothesis formulation or experimentation. While it touches on data collection and analysis, it lacks a focus on validating hypotheses or making data-driven decisions based on experiments, which are central to hypothesis-driven development.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -46,12 +49,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, touching on organisational dynamics and the importance of understanding existing processes. However, it primarily focuses on Kanban as a methodology rather than a comprehensive exploration of systems thinking within organisations.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, discussing methodologies and practical steps rather than the systems thinking principles central to Organisational Physics. While it touches on aspects of workflow and improvement, it lacks a comprehensive exploration of organisational dynamics, feedback loops, or the interplay of structure and culture, which are key themes in the category.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -121,12 +127,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, which relates to the adoption of digital methodologies to improve processes. However, it primarily focuses on project management strategies rather than a broader digital transformation context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, which is a specific Agile methodology. While it touches on themes of process improvement and gradual change, it does not explicitly discuss the strategic adoption of digital technologies or their impact on business agility, innovation, or operational efficiency. The mention of tools like JIRA and Azure DevOps hints at digital tools but lacks a broader context of digital transformation. Overall, the content is more about Agile methodologies than the strategic integration of digital technologies for business transformation.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -178,12 +187,12 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T13:15:34",
+    "calculated_at": "2025-03-14T19:34:29",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses the transition from traditional project management to Kanban, touching on organisational willingness to change and the identification of systemic issues. However, the primary focus is on the Kanban process and its implementation rather than a deep exploration of organisational culture itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -262,12 +271,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, highlighting the importance of data collection and analysis to identify areas for improvement. While it touches on innovation through process optimisation, the primary focus is on Kanban implementation rather than a comprehensive exploration of the Ability to Innovate framework.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:34:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the transition to Kanban and the importance of data collection and analysis for continuous improvement, which aligns with the themes of innovation and Evidence-Based Management. However, the primary focus is on the Kanban methodology rather than directly addressing the broader concept of Ability to Innovate in organisations. The discussion lacks depth in exploring frameworks or metrics specifically related to measuring innovation capabilities.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -310,11 +322,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban, which is a Lean tool, and touches on principles of visualising workflow and optimising processes. However, it primarily focuses on the transition from project management to Kanban rather than a comprehensive exploration of Lean Thinking principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Kanban, which is a Lean tool, and touches on principles of gradual improvement and waste identification. However, it primarily focuses on the transition from traditional project management to Kanban rather than a comprehensive exploration of Lean Thinking principles. While it aligns with some Lean concepts, it lacks depth in discussing broader Lean principles and practices.",
     "level": "Tertiary"
   },
   "Cycle Time": {
@@ -427,12 +442,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:34:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, touching on the need for change and the importance of understanding existing processes. However, it primarily focuses on Kanban as a methodology rather than a comprehensive discussion on change management principles in an Agile context.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses transitioning from traditional project management to Kanban, which touches on change management principles. However, it primarily focuses on the Kanban methodology rather than the broader strategies and practices of change management in Agile contexts. While it mentions gradual improvement and stakeholder engagement, it lacks depth in discussing the core themes of effective change management, such as leadership roles and measuring impact. Therefore, while there is some relevance, it does not fully align with the category's primary focus.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -445,12 +463,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban as an observational strategy that relies on data collection and analysis to identify areas for improvement, which aligns with the principles of empirical process control. However, the primary focus is on transitioning from traditional project management to Kanban rather than a deep exploration of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Kanban as a method for transitioning from traditional project management to Agile, emphasising observational approaches and data-driven improvements, which align with empirical process control principles. However, it primarily focuses on Kanban rather than directly addressing empirical process control as a standalone concept, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -481,11 +502,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, which is relevant to Agile methodologies. However, the primary focus is on project management strategies rather than the role of software developers specifically within Agile or DevOps contexts.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses transitioning from traditional project management to Kanban, which is related to Agile methodologies. However, it primarily focuses on project management strategies rather than the specific role of software developers within Agile or DevOps contexts. While it mentions Agile and provides some insights into Kanban, it lacks depth in discussing best practices or tools specifically for software developers, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -553,12 +577,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, touching on metrics like cycle time and the importance of data analysis to identify inefficiencies. While it does mention aspects related to Lead Time, it primarily focuses on the Kanban strategy and its implementation rather than Lead Time as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:34:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the transition to Kanban and mentions collecting metrics, including cycle time, which is related to Lead Time. However, it does not explicitly focus on Lead Time as a primary topic, nor does it provide in-depth analysis or strategies specifically aimed at measuring or optimising Lead Time. The discussion is more centred on the Kanban methodology and its implementation rather than the Lead Time metric itself.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -571,11 +598,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T06:03:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:05:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for transitioning from traditional project management to Kanban, emphasising real-world applications, data collection, and iterative improvement, which aligns well with the principles of pragmatic thinking in Agile contexts.",
+    "final_score": 74.0,
+    "reasoning": "The content focuses on practical strategies for transitioning from traditional project management to Kanban, emphasising gradual improvement and data-driven decision-making. It discusses real-world applications of Kanban principles, aligning well with the core themes of pragmatic thinking. The depth of discussion is substantial, providing a step-by-step guide and practical examples, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -589,11 +619,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T06:03:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:27:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses the transition from traditional project management to Kanban, which is a key agile framework. It explores the benefits of Kanban, the importance of understanding existing workflows, and the use of metrics to identify areas for improvement, aligning with agile principles. However, it also references traditional project management practices, which slightly detracts from its focus on agile methodologies.",
+    "final_score": 77.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, which is a key agile framework. It discusses the principles of Kanban, its benefits, and practical steps for implementation, aligning well with agile methodologies. The depth of discussion is substantial, covering various aspects of Kanban and its application in an agile context, although it briefly touches on traditional project management. Overall, the content is highly relevant to Agile Project Management.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -607,12 +640,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, highlighting the strategic benefits of adopting a Kanban strategy. While it touches on Agile principles, the primary focus is on the practical implementation of Kanban rather than a broader Agile strategy context.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the transition from traditional project management to Kanban, which is a specific Agile methodology. While it touches on aspects of Agile strategy, such as gradual improvement and adaptability, it lacks a comprehensive exploration of broader Agile strategic principles. The focus is more on practical implementation rather than strategic alignment or organisational vision, which diminishes its overall alignment with the Agile Strategy category.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -643,12 +679,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, highlighting the importance of understanding existing processes and using data to identify areas for improvement. While it touches on aspects of sensemaking, such as interpreting data and recognising patterns, the primary focus is on the Kanban strategy rather than a broader exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, discussing the benefits and implementation steps of Kanban. While it touches on aspects of data collection and analysis, which are relevant to sensemaking, the overall emphasis is on practical implementation rather than on interpreting complexity or decision-making processes in a broader organisational context. The discussion lacks depth in exploring sensemaking principles or frameworks, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -661,11 +700,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, touching on metrics and data analysis which can relate to team performance. However, the primary focus is on Kanban as a methodology rather than directly addressing team dynamics or collaboration strategies.",
+    "calculated_at": "2025-03-14T19:35:04",
+    "ai_confidence": 47.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 10,
+    "final_score": 43.0,
+    "reasoning": "The content discusses the transition to Kanban and touches on team collaboration through workshops, but it primarily focuses on the Kanban methodology rather than directly addressing team performance or dynamics. While it mentions metrics and gradual improvement, it lacks a deeper exploration of team dynamics, leadership roles, or conflict resolution, which are crucial for the 'Team Performance' category.",
     "level": "Tertiary"
   },
   "AI": {
@@ -679,12 +721,15 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:34:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, highlighting the benefits of a Kanban strategy and its observational nature. While it touches on Kanban principles, it primarily focuses on individual implementation rather than scaling Kanban across multiple teams or departments.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, which is relevant but does not specifically address scaling Kanban practices in large organisations. While it discusses Kanban principles and implementation, it lacks depth in exploring how these principles can be applied at scale or in multi-team environments. The mention of metrics and continuous improvement is present, but the overall discussion does not align closely with the key topics of scaling Kanban.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -706,20 +751,26 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban, which is a Lean methodology focused on visualising workflow and optimising processes. However, it primarily centres on transitioning from project management to Kanban rather than explicitly addressing Lean principles or waste reduction.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Kanban, which is closely related to Lean principles, particularly in terms of continuous improvement and waste reduction. However, it primarily focuses on the transition from traditional project management to Kanban rather than explicitly addressing Lean principles themselves. While it mentions gradual improvement and data-driven changes, it lacks a thorough exploration of Lean concepts such as Muda, Kaizen, or specific Lean tools. Therefore, while there is some alignment with Lean principles, the primary focus remains on Kanban and Agile methodologies.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T06:04:12",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T16:35:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses transitioning from traditional project management to Kanban, which is a key Agile methodology. It addresses the benefits of Kanban in the context of Agile transformation and highlights the importance of understanding existing processes before implementing changes. However, the primary focus is on Kanban rather than a broader discussion of Agile transformation principles and practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the transition from traditional project management to Kanban, which is a specific Agile methodology. It mentions Agile principles and the gradual improvement process, aligning with Agile transformation themes. However, it lacks a broader discussion on Agile transformation strategies, leadership roles, or change management, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -742,11 +793,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses transitioning from traditional project management to Kanban, which involves organisational change strategies. However, the primary focus is on the Kanban methodology itself rather than the broader principles of organisational change.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses transitioning from traditional project management to Kanban, which is related to organisational change. However, it primarily focuses on the implementation of Kanban as a methodology rather than the broader principles of organisational change. While it touches on gradual improvement and the need for change, it lacks depth in discussing frameworks or leadership roles in driving change, which are key aspects of the category.",
     "level": "Tertiary"
   },
   "Test Automation": {
@@ -769,20 +823,26 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T06:04:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T14:53:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a Kanban strategy as a means to optimise workflows and improve operational efficiency, aligning closely with the key topics of operational practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the practical application of Kanban as a method for transitioning from traditional project management to Agile practices. It discusses specific techniques for implementing Kanban, such as documenting workflows, collecting metrics, and making incremental changes, which directly align with the core themes of operational efficiency and continuous improvement. The depth of discussion is substantial, providing a step-by-step guide and practical examples that illustrate the benefits of Kanban in enhancing operational practices. Overall, the content is highly relevant to the category.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of metrics and data analysis in the context of implementing a Kanban strategy, which aligns with the principles of Evidence-Based Management. However, the primary focus is on the transition from project management to Kanban rather than a comprehensive exploration of EBM principles.",
+    "calculated_at": "2025-03-14T19:34:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses Kanban as a method for transitioning from traditional project management to Agile, focusing on gradual improvements and data collection. While it mentions collecting metrics and using data to inform decisions, it does not explicitly discuss Evidence-Based Management principles or practices. The primary focus is on Kanban rather than EBM, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -859,12 +919,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses transitioning from traditional project management to Kanban, which is related to Agile methodologies. However, the primary focus is on Kanban rather than Agile Planning principles, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses transitioning from traditional project management to Kanban, which is an Agile methodology. While it does not explicitly mention Agile Planning principles, it aligns with the core themes of gradual improvement and flexibility in project delivery. The depth of discussion on implementing Kanban provides a practical approach to Agile Planning, but it lacks a direct focus on Agile Planning techniques and strategies.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -949,12 +1012,15 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, touching on the identification of patterns and metrics that can inform decision-making. However, it primarily focuses on the implementation of Kanban rather than a broader analysis of trends in Agile or DevOps practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:34:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on transitioning to Kanban from traditional project management, discussing its benefits and implementation steps. While it touches on data collection and analysis, which are relevant to trend analysis, it does not explicitly discuss trends in Agile or DevOps practices. The mention of identifying patterns and using metrics is relevant but not the primary focus of the content, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -976,12 +1042,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, which is related to Agile methodologies. However, it primarily focuses on the Kanban strategy rather than specific Agile planning tools or techniques, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:35:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses the transition from traditional project management to Kanban, which is a specific Agile methodology. While it mentions tools like JIRA and Azure DevOps, the focus is more on the Kanban approach rather than on Agile Planning Tools as a category. The discussion touches on some relevant themes, such as workflow documentation and incremental improvements, but lacks depth in exploring various Agile Planning Tools or their functionalities. Overall, it aligns with Agile methodologies but does not sufficiently focus on the tools themselves.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1021,12 +1090,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, highlighting the importance of understanding existing processes and using data to identify areas for improvement. While it touches on aspects of continuous improvement and optimisation, the primary focus is on the Kanban strategy rather than a broader discussion on continuous learning principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:35:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the transition to Kanban and highlights the importance of gradual improvement and data-driven decision-making, which aligns with the principles of Continuous Learning. However, it primarily focuses on the implementation of Kanban rather than explicitly discussing Continuous Learning as a primary theme. The depth of discussion on continuous improvement practices is present, but it lacks a broader exploration of knowledge sharing and growth mindset principles.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1039,12 +1111,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:34:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses transitioning from traditional project management to Kanban, which touches on organisational change and the need for adaptability. However, it primarily focuses on team-level practices and does not extensively address broader organisational implications or frameworks for scaling agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, which is a team-level agile practice. While it discusses gradual improvement and data-driven changes, it lacks a broader organisational context and does not address enterprise-level agility or the implications of agility on organisational performance and culture. The mention of Kanban as a strategy for improvement is relevant but does not extend to the key topics of enterprise agility, such as leadership roles or organisational structures that support agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1108,11 +1183,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, touching on methodologies that can enhance product delivery. However, it primarily focuses on the Kanban strategy rather than the broader aspects of product delivery, making it a secondary theme.",
+    "calculated_at": "2025-03-14T19:35:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses transitioning to Kanban, which is a methodology relevant to product delivery. It touches on aspects of Agile methodologies, gradual improvement, and metrics, aligning with the core themes of product delivery. However, the focus is primarily on the transition process rather than the end-to-end delivery of software products, which limits the depth of discussion on product delivery practices.",
     "level": "Tertiary"
   },
   "Agile Product Management": {
@@ -1126,30 +1204,39 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:34:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, highlighting the importance of data collection and analysis to identify areas for improvement. While it touches on learning from existing processes and optimising them, the primary focus is on project management strategies rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, which is more about project management methodologies than the processes of discovery and learning. While it mentions gradual improvement and data-driven changes, it lacks a strong emphasis on experimentation, feedback loops, or fostering a culture of innovation. The discussion is more procedural and instructional rather than exploratory in nature, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:34:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, touching on the importance of understanding existing systems and optimising them. While it does mention aspects of Systems Thinking, such as observing interdependencies and using data to inform changes, the primary focus is on Kanban as a methodology rather than a comprehensive exploration of Systems Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, discussing incremental improvements and workflow documentation. While it touches on aspects of systems thinking, such as understanding workflows and identifying patterns, it does not explicitly discuss the interconnectedness of components within a system or the foundational principles of Systems Thinking. The discussion is more aligned with Agile methodologies rather than a holistic analysis of complex systems.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, touching on aspects of system optimisation and data analysis, which are relevant to complexity thinking. However, it primarily focuses on practical implementation rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, which is a methodology within Agile practices. While it touches on aspects of gradual improvement and observational approaches, it does not explicitly discuss complexity science or its principles. The mention of data-driven improvements and incremental changes aligns somewhat with complexity thinking, but the overall discussion lacks depth and direct references to complexity frameworks or theories. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1183,11 +1270,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, highlighting the importance of understanding existing workflows and using data to identify areas for improvement. While it touches on adaptability through Kanban, the primary focus is on the process of transitioning rather than broader market adaptability strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the transition to Kanban, which is an Agile methodology that can enhance market adaptability by allowing organisations to make incremental changes and respond to inefficiencies. It mentions the importance of data collection and analysis, which aligns with leveraging data for decision-making. However, the primary focus is on the transition process rather than directly addressing broader market adaptability strategies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -1210,12 +1300,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Kanban strategies and mentions Azure DevOps in the context of data collection and analysis, but the primary focus is on project management methodologies rather than Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, discussing Agile methodologies in general rather than specifically addressing Azure DevOps. While Azure DevOps is mentioned in the context of collecting metrics, it is not the main focus of the discussion. The content lacks depth in exploring Azure DevOps functionalities or best practices, leading to a low confidence score in alignment with the Azure DevOps category.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1249,11 +1342,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, highlighting the benefits of a Kanban strategy in optimising workflows and delivering value. However, the primary focus is on project management methodologies rather than directly on value delivery practices within Agile or DevOps frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses transitioning to Kanban, which is related to Agile methodologies and continuous improvement. However, it primarily focuses on the process of implementing Kanban rather than explicitly addressing value delivery principles or strategies. While it touches on gradual improvements and data-driven decision-making, it lacks a strong emphasis on customer value or the broader implications of value delivery in Agile frameworks.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
@@ -1267,11 +1363,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses transitioning from traditional project management to Kanban, highlighting the importance of understanding existing processes and using metrics for improvement, which aligns with themes of organisational agility. However, the primary focus is on Kanban rather than broader agile principles or cultural shifts.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses transitioning to Kanban, which is an Agile methodology that promotes gradual improvement and adaptability. While it does not explicitly mention 'Organisational Agility', it aligns with the core themes of enhancing adaptability and responsiveness through incremental changes. The depth of discussion on implementing Kanban and its benefits contributes to a moderate confidence score, but the primary focus remains on Kanban rather than a broader exploration of organisational agility principles.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1297,12 +1396,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:34:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional project management to Kanban, touching on organisational willingness to change and the impact of existing processes on team dynamics. However, it primarily focuses on the Kanban strategy itself rather than a broader sociotechnical analysis.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the transition from traditional project management to Kanban, discussing the methodology and its implementation. While it touches on aspects of team dynamics and gradual improvement, it lacks a direct exploration of the interplay between social and technical systems, which is central to the Sociotechnical Systems category. The discussion is more about technical practices without a strong emphasis on organisational context or culture.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1336,12 +1438,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T13:15:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:35:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban as a strategy for improving workflow and efficiency, which aligns with the principles of Value Stream Management. However, it primarily focuses on the transition from project management to Kanban rather than explicitly addressing Value Stream Management as a central theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on transitioning from traditional project management to Kanban, discussing Agile methodologies rather than Value Stream Management specifically. While it touches on concepts like continuous improvement and workflow analysis, it does not explicitly mention Value Stream Management or its core principles. The discussion lacks depth in relation to the specific techniques and metrics associated with Value Stream Management, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1429,7 +1534,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:49:02",
+    "calculated_at": "2025-03-14T19:34:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1437,6 +1542,6 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content primarily discusses Kanban and its advantages over traditional project management, with only brief mentions of Scrum. While it touches on the concept of Scrum as a potential strategy for organisations, it does not delve into the core principles, roles, events, or artifacts of Scrum. The discussion lacks depth regarding Scrum's framework and practices, leading to a low confidence score in its alignment with the Scrum category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

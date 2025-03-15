@@ -10,7 +10,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T16:46:12",
+    "calculated_at": "2025-03-15T04:33:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the practical steps for updating Windows Server 2012 R2, detailing the update process and specific updates required. While it does provide a practical technique related to server management, it lacks a broader discussion on Agile or DevOps methodologies, tools, or frameworks. The mention of updates and installation procedures aligns somewhat with the category, but it does not delve into Agile or DevOps practices, which are central to the classification. Therefore, the confidence score reflects a moderate relevance to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -286,7 +286,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T18:34:37",
+    "calculated_at": "2025-03-15T04:33:02",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 25.0,
@@ -294,7 +294,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Team Foundation Server (TFS), which is part of Azure DevOps, but the primary focus is on updating Windows Server and the installation process of updates. There is minimal discussion on Azure DevOps functionalities or best practices, and the content does not delve into CI/CD, project management, or integration topics relevant to Azure DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -343,7 +343,7 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-11T17:58:06",
+    "calculated_at": "2025-03-15T04:33:02",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 25.0,
@@ -351,7 +351,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the technical process of updating Windows Server and does not provide industry news or reviews related to Agile, DevOps, or technology trends. While it mentions the release of an update, it lacks broader context or analysis that would align it with the 'News and Reviews' category. The discussion is more of a technical guide rather than an evaluation or commentary on industry developments.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -382,7 +382,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T11:51:03",
+    "calculated_at": "2025-03-15T04:33:02",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 20,
@@ -390,7 +390,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the process of updating Windows Server systems, which is more operational than a discussion on software craftsmanship or engineering practices. While it does touch on technical aspects, such as the order of updates and installation times, it lacks a deeper exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development. The discussion is practical and procedural, rather than theoretical or strategic, which diminishes its alignment with the 'Technical Mastery' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -592,12 +592,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses updating Windows Server and Team Foundation Server, which is related to the software development lifecycle and the environment used for software development projects, though it primarily focuses on update procedures rather than on software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the process of updating Windows Server and mentions Team Foundation Server (TFS), which is relevant to software development practices. However, the primary focus is on the update process rather than broader software development methodologies or practices. While it touches on aspects of version control and server management, it lacks depth in discussing software engineering principles or frameworks.",
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -691,7 +694,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T14:56:20",
+    "calculated_at": "2025-03-15T04:33:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -699,7 +702,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the installation of updates for Windows Server 2012 R2, which implies a focus on software updates. However, it lacks a broader discussion on the principles of frequent releases, continuous delivery, or the impact of these updates on user satisfaction. The mention of updates is more procedural than strategic, and there is no exploration of metrics, best practices, or the role of DevOps in facilitating frequent releases.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -964,7 +967,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T10:25:31",
+    "calculated_at": "2025-03-15T04:33:02",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -972,7 +975,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the installation of updates for Windows Server 2012 R2, which relates to the release of software updates. However, it lacks a comprehensive focus on release management strategies, such as planning, scheduling, or risk management. While it mentions the release of updates and the process of applying them, it does not delve into the broader context of release management practices or metrics, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1180,12 +1183,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:33:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of updating servers and may implicitly touch on troubleshooting aspects related to installation and potential issues, but the primary focus is on the update process rather than explicit troubleshooting methodologies or techniques.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the process of updating Windows Server 2012 R2, detailing the steps and considerations involved. While it does touch on potential issues related to the update process, such as the need for restarts and the order of updates, it lacks a strong emphasis on diagnosing or resolving specific technical problems. The discussion is more about performing updates rather than troubleshooting issues that arise from them, which limits its alignment with the troubleshooting category.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",

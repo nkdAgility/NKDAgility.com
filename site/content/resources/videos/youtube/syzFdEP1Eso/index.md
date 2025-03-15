@@ -30,16 +30,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Product Development
+- Working Software
+- Product Delivery
 - Agile Project Management
 - Definition of Done
 - Agile Product Management
 - Software Development
 - People and Process
-- Pragmatic Thinking
-- Scrum Team
-- Agile Frameworks
-- Professional Scrum
-- Software Developers
 resourceTypes:
 - video
 categories:

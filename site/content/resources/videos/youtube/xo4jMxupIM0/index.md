@@ -32,14 +32,14 @@ layout: video
 tags:
 - Discovery and Learning
 - People and Process
+- Scrum Master
 - Agile Project Management
+- Team Collaboration
+- Team Performance
 - Continuous Learning
 - Professional Scrum
-- Scrum Master
 - Pragmatic Thinking
-- Team Collaboration
-- Agile Frameworks
-- Coaching
+- Scrum Product Development
 categories:
 - Scrum
 - Social Technologies

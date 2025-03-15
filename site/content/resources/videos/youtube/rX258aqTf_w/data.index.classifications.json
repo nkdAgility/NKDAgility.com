@@ -1,11 +1,14 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:31",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 35.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of agile consultants in identifying problems and designing hypotheses and experiments, indicating a secondary theme of hypothesis-driven development within a broader discussion on agile consulting.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions the design of hypotheses and experiments in the context of agile consulting, indicating some alignment with hypothesis-driven development. However, the primary focus is on agile consulting practices rather than a detailed exploration of hypothesis formulation, experimentation, or validated learning. The discussion lacks depth in these areas, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -58,20 +61,26 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of agile coaches and consultants, highlighting the importance of developing internal coaching capabilities. However, the primary focus is on consulting rather than coaching itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the roles of agile coaches and consultants, highlighting the importance of developing internal coaching capabilities rather than relying on external coaches. While it touches on coaching, the primary focus is on consulting and the systemic issues within organisations, which detracts from a deeper exploration of coaching practices. The discussion lacks detailed techniques or frameworks specific to coaching, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:06:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of agile consultants in developing internal leadership capabilities and emphasises the importance of data and evidence in problem-solving, which aligns with evidence-based leadership principles. However, the primary focus is on agile consulting rather than leadership practices specifically.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal leadership capabilities, which aligns with evidence-based practices. However, it primarily focuses on the roles of agile coaches and consultants rather than explicitly addressing evidence-based leadership principles or empirical data-driven decision-making. The mention of using data and evidence to inform actions is present but not deeply explored, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -85,7 +94,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:17:13",
+    "calculated_at": "2025-03-15T02:06:34",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -93,7 +102,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses agile consulting and its implications for leadership within organisations, which touches on aspects of product management, particularly in relation to aligning business needs and leadership roles. However, it primarily focuses on the role of agile coaches versus consultants rather than the strategic aspects of product management itself. The discussion lacks depth in product management methodologies and frameworks, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -127,11 +136,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile consulting and its role in developing internal capabilities, which relates to digital transformation. However, the primary focus is on agile methodologies rather than a strategic discussion of digital technologies for business transformation.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses agile consulting and its role in developing internal capabilities, which can relate to digital transformation. However, it primarily focuses on agile methodologies rather than the strategic adoption of digital technologies for business transformation. While there are mentions of improving processes and capabilities, the depth of discussion on digital transformation specifically is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Working Software": {
@@ -157,12 +169,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of developing internal leadership and coaching capabilities within teams, which aligns with self-organisation principles. However, the primary focus is on agile consulting and the role of external coaches, making self-organisation a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities and leadership within teams, which aligns with the principles of self-organisation. However, it primarily focuses on the need for external consultants rather than on self-organisation itself. While there are mentions of empowering teams and transitioning from management to leadership, the depth of discussion on self-organisation principles is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -268,38 +283,50 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of agile consultants in developing internal capabilities and solving problems effectively, which relates to fostering a culture of innovation. However, the primary focus is on agile consulting practices rather than a direct exploration of innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities rather than relying on external coaches. While it touches on themes of continuous improvement and problem-solving, it lacks a direct focus on the measurement and enhancement of innovation capabilities. The mention of evidence-based approaches is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T02:29:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:48:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses agile consulting and the roles of agile coaches and consultants, which are related to Agile frameworks. However, it primarily focuses on the consulting aspect rather than a deep exploration of specific Agile frameworks themselves.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses agile consulting and the role of agile coaches and consultants, which are relevant to Agile frameworks. It mentions the importance of developing internal capabilities and contrasts the roles of agile coaches and consultants, indicating an understanding of agile principles. However, while it touches on frameworks like Scrum, it primarily focuses on consulting practices rather than a deep exploration of Agile frameworks themselves. The discussion is substantial but lacks a comprehensive analysis of various Agile frameworks, which affects the overall depth of discussion.",
     "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities and leadership within organisations, which aligns with the theme of scaling agility. However, it primarily focuses on the distinction between coaching and consulting rather than broader strategies for scaling agile practices across multiple teams or the organisation as a whole.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities, which aligns with the theme of fostering an agile culture. However, it primarily focuses on the individual team level and the need for internal leadership rather than explicitly addressing frameworks or strategies for scaling agility across the organisation. The depth of discussion on organisational transformation is present but not comprehensive enough to fully meet the criteria for the category.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities and fostering team dynamics, which aligns with themes of team collaboration. However, the primary focus is on consulting practices rather than direct collaboration techniques or team dynamics.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities and fostering leadership within teams, which aligns with the themes of team collaboration. However, the primary focus is on the distinction between consultants and coaches rather than on direct techniques or strategies for improving team collaboration. The depth of discussion on collaboration is limited, as it primarily revolves around the need for internal leadership rather than specific collaborative practices or tools.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -349,11 +376,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T02:29:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:56:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses agile consulting, which is a key aspect of software development methodologies, particularly in relation to Agile practices and team dynamics.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses agile consulting, which is a key aspect of software development methodologies. It addresses the roles of agile coaches and consultants, the importance of internal capabilities, and the need for effective problem-solving within agile frameworks. While it does touch on broader business practices, the focus remains on improving software development processes through agile practices, thus aligning well with the Software Development category.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -385,12 +415,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of agile consultants and coaches, touching on themes of internal capabilities and leadership, which are related to Agile principles. However, it primarily focuses on consulting practices rather than a deep exploration of Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities rather than relying on external coaches, which aligns with Agile principles of self-organisation and continuous improvement. However, it primarily focuses on consulting practices rather than explicitly discussing Agile values or principles, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -439,12 +472,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities, which relates to empirical process control principles. However, it primarily focuses on the role of agile consultants and coaches rather than directly addressing empirical process control as a central theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities, which aligns with the principles of empirical process control. However, it primarily focuses on the role of agile consultants and coaches rather than explicitly addressing empirical process control principles such as transparency, inspection, and adaptation. While there are mentions of problem-solving and iterative improvement, the depth of discussion on empirical process control is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -475,12 +511,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile consulting and its implications for team dynamics and internal capabilities, which are relevant to software developers, but the primary focus is on consulting practices rather than the role of developers themselves.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile consulting and the role of agile consultants in developing internal capabilities, which indirectly relates to software developers. However, it primarily focuses on consulting practices rather than the direct role of software developers within Agile and DevOps frameworks. While there are mentions of team dynamics and the importance of internal leadership, the content lacks a strong focus on best practices for software developers or specific methodologies that enhance their productivity and collaboration.",
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -565,11 +604,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T02:30:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:34:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the role of agile consultants in developing internal capabilities and solving problems effectively within Agile frameworks, emphasising practical, experience-based approaches to enhance organisational performance.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the role of agile consultants versus coaches, emphasising practical problem-solving strategies and the importance of developing internal capabilities. It aligns well with the core themes of pragmatic thinking by focusing on real-world applications of Agile principles, particularly in navigating complex organisational challenges. The depth of discussion is significant, providing insights into effective interventions and the need for adaptability in Agile environments.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -583,11 +625,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T02:30:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:06:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of agile consultants and coaches in developing internal capabilities and improving agile practices within organisations, aligning closely with agile project management principles.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses agile consulting extensively, focusing on the roles of agile coaches and consultants, which aligns with agile project management principles. It highlights the importance of developing internal capabilities and leadership within teams, reflecting core agile values. However, while it touches on agile methodologies and their application, it lacks detailed exploration of specific frameworks like Scrum or Kanban, which slightly reduces the depth of discussion.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -601,11 +646,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-12T02:30:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:06:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of agile consultants and coaches in developing internal capabilities and leadership within organisations, which aligns with the themes of Agile Strategy, particularly in terms of organisational vision, adaptability, and continuous value delivery.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities, which aligns with the Agile Strategy category's focus on organisational vision and adaptability. However, it primarily centres on the practical aspects of consulting rather than a strategic overview of Agile methodologies. While it touches on the importance of internal leadership and the dangers of outsourcing, it lacks a comprehensive exploration of Agile principles in strategic planning, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -637,12 +685,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of agile consultants in helping organizations identify and solve compelling problems, which relates to sensemaking in decision-making processes. However, the primary focus is on agile consulting rather than a deep exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities rather than relying on external coaches. While it touches on decision-making and problem-solving, it primarily focuses on the roles of agile consultants and coaches without deeply exploring the principles of sensemaking or frameworks for understanding complexity. The discussion lacks a strong emphasis on the dynamics of complexity and uncertainty, which are central to the sensemaking category.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -655,12 +706,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities and leadership within teams, which relates to team performance. However, the primary focus is on consulting practices rather than direct strategies for enhancing team dynamics or performance.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities and leadership within teams, which aligns with the category's focus on enhancing team dynamics and performance. However, it primarily centres on consulting practices rather than directly addressing team performance metrics or methodologies, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -709,11 +763,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T02:30:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:06:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of agile consultants and coaches in facilitating Agile transformations, emphasising the importance of developing internal capabilities and leadership within organisations. It addresses key themes such as the need for cultural shifts, the dangers of outsourcing core competencies, and the importance of sustainable transformation, aligning well with the principles of Agile transformation.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of agile consultants and coaches in facilitating Agile transformations, emphasising the importance of developing internal capabilities over relying on external resources. It aligns well with Agile transformation principles, particularly in terms of leadership, internal competencies, and the need for sustainable change. However, while it touches on key aspects of Agile transformation, it does not delve deeply into specific frameworks or methodologies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -736,11 +793,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-12T02:30:45",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T02:06:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the role of agile consulting in developing internal capabilities and leadership within organisations, which aligns with the principles of organisational change. However, it also delves into specific agile practices and coaching, making it a major but secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities and leadership within organisations, which aligns with the principles of organisational change. It highlights the importance of internal competencies over outsourcing, suggesting a focus on sustainable transformation. However, while it touches on relevant themes, the primary focus is on agile consulting rather than a comprehensive exploration of organisational change methodologies or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -763,20 +823,26 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:06:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities and improving organisational performance, which aligns with operational practices. However, the primary focus is on the distinction between coaching and consulting rather than specific operational techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities, which aligns with operational practices. It touches on the importance of internal leadership and the dangers of outsourcing core competencies, indicating a focus on improving operational efficiency. However, the discussion is more centred on the roles and relationships within agile frameworks rather than specific operational techniques or metrics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:06:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of agile consultants in identifying problems and using data and evidence to inform decision-making, which aligns with some principles of Evidence-Based Management. However, the primary focus is on agile consulting rather than EBM itself.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities, but it lacks a strong focus on Evidence-Based Management principles. While it mentions the use of data and evidence in decision-making, it does not delve deeply into EBM practices or metrics, which are central to the category. The discussion is more about agile coaching and consulting rather than a comprehensive exploration of EBM.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -826,11 +892,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T02:30:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:06:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of agile consultants and coaches in developing internal leadership capabilities, emphasising the importance of servant leadership and the transition from management to leadership within agile environments.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of internal leadership and the role of agile consultants in developing internal capabilities, which aligns with the principles of technical leadership. It highlights the need for servant leadership, mentoring, and fostering a culture of continuous improvement, all of which are key topics in the category. However, while the content is rich in insights, it primarily focuses on the role of consultants rather than direct technical leadership practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -853,12 +922,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile consulting and the development of internal capabilities, which are related to Agile principles, but it primarily focuses on the role of consultants and coaches rather than specific Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities rather than relying on external coaches. While it touches on Agile principles, it primarily focuses on consulting roles and the dynamics of leadership within organisations, rather than specific Agile Planning methodologies or practices. The discussion lacks direct references to Agile Planning techniques, user stories, or iterative planning, which are central to the category.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -907,12 +979,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles of agile coaches and consultants, which relates to team dynamics and internal capabilities, but it primarily focuses on agile consulting rather than Scrum Team specifics.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile consulting and coaching, touching on the roles of agile coaches and consultants, which are relevant to Scrum teams. However, it primarily focuses on the broader context of agile practices rather than the specific dynamics and collaboration within a Scrum Team. While there are mentions of team capabilities and leadership, the depth of discussion on Scrum-specific roles and practices is limited.",
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -1006,12 +1081,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of developing internal capabilities and leadership within an organisation, which aligns with long-term objectives and business agility. However, the primary focus is on agile consulting and coaching rather than explicitly defining strategic goals.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses agile consulting and coaching, focusing on internal capabilities and the dangers of outsourcing core competencies. While it touches on themes of organisational improvement and agility, it lacks a clear articulation of long-term strategic goals or frameworks for measuring objectives. The discussion is more operational and tactical rather than strategic, which diminishes its relevance to the category of Strategic Goals.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1099,48 +1177,63 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile consulting and its role in developing internal capabilities, which relates to product delivery methodologies. However, the primary focus is on the distinction between agile coaches and consultants rather than the end-to-end product delivery process.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses agile consulting and its role in developing internal capabilities, which aligns with product delivery methodologies. It mentions the importance of agile consultants in identifying valuable steps for successful product delivery and highlights the need for internal leadership development. However, while it touches on relevant themes, the primary focus is on consulting rather than the end-to-end product delivery process itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile consulting and coaching, which are related to Agile principles, but it primarily focuses on the roles and effectiveness of consultants and coaches rather than directly addressing Agile Product Management practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile consulting and coaching, which are related to Agile methodologies, but it does not focus specifically on Agile Product Management principles. While it touches on the importance of internal capabilities and problem-solving in an agile context, it lacks detailed discussions on product value maximisation, backlog prioritisation, or the role of the Product Owner, which are key topics in Agile Product Management.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of agile consultants in fostering internal capabilities and continuous improvement, which aligns with the themes of discovery and learning. However, the primary focus is on agile consulting rather than explicitly on discovery and learning processes.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the role of agile consultants in fostering internal capabilities and continuous improvement, which aligns with the themes of discovery and learning. It mentions the importance of identifying compelling problems and using experimentation to find solutions, reflecting the iterative learning process. However, the primary focus is on agile consulting rather than explicitly on discovery and learning methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of developing internal capabilities and leadership within organisations, which aligns with Systems Thinking principles. However, the primary focus is on agile consulting rather than a comprehensive exploration of Systems Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities rather than relying on external coaches. While it touches on systemic issues within organisations, it primarily focuses on agile methodologies and coaching rather than the broader principles of Systems Thinking. The mention of systemic lack of leadership hints at interconnectedness, but the overall discussion lacks depth in exploring Systems Thinking concepts such as feedback loops or holistic analysis.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile consulting and the development of internal capabilities, which relates to complexity thinking in terms of organisational dynamics and the need for adaptive leadership. However, it primarily focuses on agile methodologies rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities rather than relying on external coaches. While it touches on themes of leadership and organisational dynamics, it does not explicitly reference complexity science or frameworks like Cynefin. The discussion is more focused on practical agile methodologies and coaching rather than the non-linear dynamics and emergent behaviours characteristic of complexity thinking. Therefore, while there are relevant elements, the primary focus remains on agile practices rather than a deep exploration of complexity science.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1153,12 +1246,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:07:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of agile consultants and coaches in developing internal capabilities and solving problems, which relates to practical techniques in Agile. However, it primarily focuses on the philosophical aspects of consulting rather than specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities rather than relying on external coaches. While it touches on practical aspects of agile consulting, such as identifying compelling problems and providing actionable interventions, it lacks a strong focus on specific tools or methodologies that enhance Agile and DevOps practices. The discussion is more centred on the philosophy of agile consulting rather than practical techniques or tooling, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1312,11 +1408,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T16:42:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:06:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of agile consultants in helping organizations identify and solve problems, which implies a focus on metrics and continuous improvement. However, the primary focus is on the distinction between agile coaching and consulting rather than on metrics and learning itself.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses agile consulting and the importance of developing internal capabilities, which indirectly relates to metrics and learning through the emphasis on continuous improvement and problem-solving. However, it lacks direct discussions on metrics, data analysis, or feedback loops, which are core to the category. The focus is more on consulting practices rather than on metrics and learning methodologies.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -1426,7 +1525,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:28:56",
+    "calculated_at": "2025-03-15T02:06:34",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1434,6 +1533,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agile consulting and the role of agile coaches, but it does not explicitly mention Scrum or its specific roles, events, or artifacts. While it touches on themes of leadership and organisational change, which are relevant to Agile principles, it lacks a direct focus on Scrum practices and frameworks. The discussion is more about the need for internal leadership and consulting rather than the Scrum framework itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

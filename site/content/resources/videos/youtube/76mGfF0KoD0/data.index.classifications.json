@@ -43,7 +43,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T14:24:15",
+    "calculated_at": "2025-03-15T00:51:47",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -51,7 +51,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and the dynamics within a Scrum team, which are more focused on Agile practices rather than the strategic aspects of product management. While it touches on the importance of team dynamics and decision-making, it lacks a direct focus on product management methodologies, frameworks, or metrics that drive product success. The discussion is more about coaching and facilitation within Agile rather than aligning customer needs with business objectives.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -82,38 +82,50 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in relation to the team and mentions Scrum principles, though it primarily focuses on the challenges faced by Scrum Masters and the use of workshops rather than Scrum practices or frameworks in depth.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master and the dynamics within a Scrum team, which aligns with the Professional Scrum category. It mentions Scrum principles and the importance of collaboration, but it does not delve deeply into the Scrum framework or its artifacts. The discussion on Agile Process Simulation workshops adds a practical element but slightly deviates from core Scrum principles, affecting the overall depth of discussion.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:52:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the challenges faced by a Scrum Master and the importance of understanding Scrum within the context of team dynamics, coaching, and agile practices. It focuses on agile methodologies and directly references Scrum, indicating a strong relevance to Agile Frameworks.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within the Scrum framework, discussing challenges and potential solutions through Agile Process Simulation workshops. It directly mentions Scrum and its principles, aligning well with the core themes of Agile frameworks. The depth of discussion includes practical advice and reflections on team dynamics, indicating a thorough exploration of the topic. However, while it is centred on Scrum, it does not extensively cover other Agile frameworks or provide a comparative analysis, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the role of the Scrum Master in relation to the team and Scrum practices, indicating Scrum is a significant theme, but primarily focuses on the challenges faced rather than on product development processes.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master and the dynamics within a Scrum team, which aligns well with Scrum principles. It addresses the importance of collaboration, understanding team dynamics, and the potential use of Agile Process Simulation workshops to enhance Scrum practices. However, while it touches on key aspects of Scrum, such as team empowerment and the Scrum Master's role, it does not delve deeply into specific Scrum events or product development metrics, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T00:52:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses APS workshops and Agile consulting, which are related to events and presentations, but it primarily focuses on the struggles of Scrum Masters without emphasizing specific events or presentations.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the potential benefits of an Agile Process Simulation (APS) workshop, which aligns with the category of events and presentations. However, it primarily focuses on the role of the Scrum Master and team dynamics rather than detailing specific events or presentations. While the mention of the APS workshop indicates a connection to structured learning experiences, the overall emphasis is more on theoretical concepts and personal insights rather than formal discussions or presentations. Therefore, while there is some relevance, it does not fully meet the criteria for a strong alignment with the category.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -127,11 +139,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:52:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in relation to the team and touches upon themes of responsibility and team dynamics, but it does not focus primarily on accountability.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the importance of collaboration and team dynamics, which aligns with the principles of accountability in Agile. It mentions the need for the Scrum Master to facilitate understanding and empower the team, reflecting ownership and responsibility. However, the focus is more on the Scrum Master's challenges rather than a direct exploration of accountability as a primary theme, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Windows": {
@@ -199,12 +214,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:51:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions decision-making processes and reflects on the interaction between the Scrum Master and the team, which could imply an aspect of evidence-based leadership, but the primary focus is on Agile methods and personal experiences, not directly on empirical evidence or structured decision-making frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the dynamics within a team, but it primarily focuses on personal experiences and recommendations rather than empirical evidence or data-driven decision-making. While it touches on the importance of collaboration and understanding team dynamics, it lacks a strong emphasis on evidence-based practices or metrics that inform leadership decisions. The discussion is more anecdotal and does not provide substantial detail on evidence-based leadership principles or techniques.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -226,12 +244,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the dynamics between a Scrum Master and the team, touching on self-organisation by emphasizing the need for the team to make decisions collectively rather than being dictated to. It highlights the importance of autonomy and team agency, but is primarily focused on the challenges faced by the Scrum Master rather than self-organisation as a primary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:44:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating team dynamics and highlights the importance of team autonomy and empowerment, which are key aspects of self-organisation. It mentions the need for collaboration and understanding within the team, aligning with self-organisation principles. However, the focus is more on the Scrum Master's challenges and the potential use of an APS workshop rather than a deep exploration of self-organisation itself. The depth of discussion on self-organisation is moderate, as it touches on relevant themes but does not provide extensive detail or case studies.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -298,20 +319,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:52:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum roles, Agile practices, and the use of Agile Process Simulation workshops, which are central to the Software Development category.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within Agile methodologies, discussing the dynamics of team collaboration and the importance of understanding Scrum principles. It provides detailed insights into when to consider an Agile Process Simulation workshop, which directly relates to Agile practices and frameworks. The depth of discussion on Scrum roles, team dynamics, and the facilitation of Agile processes indicates a strong alignment with the Software Development category, particularly in the context of Agile methodologies.",
     "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:52:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role of coaching within Agile practices, specifically in relation to the Scrum Master role and how to facilitate team collaboration and decision-making.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of collaboration and facilitation, which aligns with coaching principles. It mentions coaching explicitly and explores how to empower teams and facilitate understanding, indicating a focus on growth and development. However, the primary emphasis is on the Scrum Master’s challenges and the use of workshops, which slightly detracts from a deeper exploration of coaching techniques and strategies.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -325,20 +352,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:52:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and their relationship with the team, emphasizing the importance of team decisions in an Agile context, which aligns with customer-centric approaches. However, the primary focus is more on Scrum practices rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master and the dynamics within a team, which are important aspects of Agile methodologies. However, while it touches on the importance of collaboration and understanding team dynamics, it lacks a broader strategic focus on Agile principles and their integration into organisational vision or long-term success. The discussion is more operational than strategic, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T00:52:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "Content discusses the role of the Scrum Master, team dynamics, and the effectiveness of agile coaching workshops, focusing on improving team performance and collaboration. However, it also delves into the context of the Scrum Master's challenges rather than being solely about team performance strategies.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master in enhancing team dynamics and effectiveness, which aligns closely with the category of Team Performance. It discusses collaboration, conflict resolution, and the importance of understanding team dynamics, all of which are key topics in the category. The depth of discussion is substantial, providing specific strategies and insights into how to improve team performance through workshops and coaching. The content does not merely mention these concepts but delves into them, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Lean": {
@@ -388,11 +421,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master and how they can help teams navigate challenges, which relates to change management in the context of Agile principles. However, the primary focus is on Scrum roles rather than change management strategies.",
+    "calculated_at": "2025-03-14T15:31:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the dynamics within a team, which are relevant to change management in Agile contexts. It mentions strategies for engaging the team and fostering collaboration, aligning with the principles of effective change management. However, the primary focus is on Scrum practices rather than a comprehensive exploration of change management strategies, which limits the depth of discussion. Overall, while it touches on important aspects of change management, it does not fully delve into the broader themes outlined in the category description.",
     "level": "Tertiary"
   },
   "Digital Transformation": {
@@ -415,7 +451,7 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-11T11:39:27",
+    "calculated_at": "2025-03-15T00:51:47",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -423,15 +459,18 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the role of a Scrum Master and the importance of team dynamics, which touches on aspects of continuous learning, such as the need for feedback and adapting processes. However, it primarily focuses on the challenges faced by Scrum Masters rather than explicitly promoting continuous learning principles or practices. The discussion lacks depth in exploring growth mindset or knowledge sharing techniques, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the dynamics between a Scrum Master and their team, touching on systems thinking within the Agile framework. While it primarily focuses on Scrum roles, it does engage with themes of organisational behaviour and decision-making in context.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the dynamics within a team and the role of the Scrum Master, which aligns with the principles of systems thinking and organisational behaviour. It touches on collaboration, conflict resolution, and the importance of understanding team dynamics, which are relevant to the category. However, the focus is primarily on Scrum practices and individual roles rather than a broader exploration of organisational systems, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Release Management": {
@@ -493,12 +532,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between the Scrum Master and the team, hinting at cultural dynamics within the team and the organizational context, but it primarily focuses on Agile processes and workshops rather than an in-depth analysis of organizational culture.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:51:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of the Scrum Master and team dynamics, which are closely related to organisational culture. It highlights the importance of collaboration, understanding conflicts, and empowering teams, all of which are cultural elements that influence Agile practices. However, the primary focus is on Scrum processes rather than a broader examination of organisational culture itself, which slightly limits the depth of discussion. Overall, while the content aligns with key themes of the category, it does not fully encapsulate the broader implications of organisational culture.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -541,12 +583,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:52:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in facilitating team effectiveness, approaches to coaching, and the importance of aligning Scrum practices with team needs, which touches on the theme of value delivery, albeit mainly in a secondary context.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the importance of collaboration and understanding within the team, which aligns with the principles of value delivery. It mentions the use of an Agile Process Simulation workshop as a means to enhance team effectiveness and deliver value, indicating a focus on customer satisfaction and business agility. However, the primary focus is more on the Scrum Master's challenges rather than on broader value delivery strategies, which slightly limits the depth of discussion on the category.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -571,12 +616,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:52:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making within Scrum environments, including how teams should decide whether to adopt Scrum practices, which aligns with decision-making processes, albeit as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the dynamics within a team, with a focus on Agile methodologies rather than decision-making processes in uncertain environments. While it touches on the importance of understanding team dynamics and making informed choices, it lacks a direct focus on decision theory principles such as heuristics, biases, or frameworks. The discussion is more about practical Agile implementation than theoretical decision-making.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -598,7 +646,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T12:17:27",
+    "calculated_at": "2025-03-15T00:51:47",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 25,
@@ -606,7 +654,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the role of a Scrum Master and the dynamics within a team, which touches on aspects of organisational change, particularly in the context of Agile methodologies. However, it primarily focuses on the Scrum process and coaching rather than broader organisational change strategies or frameworks. While there are mentions of workshops and team dynamics, the depth of discussion does not sufficiently cover the principles of organisational change or provide a comprehensive analysis of change management practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -646,12 +694,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master and addresses Agile practices, which relate to business agility, but the primary focus is on Scrum-specific issues rather than broader principles of business agility.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master and the use of Agile Process Simulation workshops, which are related to agile practices but do not directly address the broader principles of business agility. While it touches on themes of collaboration and team dynamics, it lacks a comprehensive exploration of business agility as defined in the category. The discussion is more about Scrum methodology than the overarching concept of business agility.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -757,21 +808,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:52:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the relationship between a Scrum Master and their team, focusing on collaboration, communication, and the importance of a democratic process in team dynamics. It emphasizes the role of the Scrum Master in facilitating effective teamwork and decision-making, which aligns closely with the themes of team collaboration within Agile frameworks.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating team dynamics and collaboration, which aligns with the category's focus on teamwork and communication. It highlights the importance of understanding team conflicts and fostering a culture of self-discovery and empowerment, which are key themes in team collaboration. However, while it touches on these aspects, the primary focus is on the Scrum Master's challenges rather than a broader exploration of team collaboration techniques or strategies, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile methodologies and coaching in the context of Scrum, indicating a focus on adaptability within teams and processes, but it is primarily centered around the Scrum Master’s role and struggles, rather than broader market adaptability strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the importance of collaboration and understanding within a team, which aligns with Agile methodologies. However, it primarily focuses on the Scrum Master’s effectiveness and team dynamics rather than directly addressing market adaptability strategies. While it touches on the need for teams to adapt and engage with Agile practices, it lacks a comprehensive exploration of how these practices enhance responsiveness to market shifts or competitive pressures.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -784,11 +841,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:51:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and the role of the Scrum Master, which ties into the broader theme of effective software development and delivery. While it touches on concepts that relate to working software, the primary focus is more on the Scrum Master’s interactions and coaching rather than directly discussing working software itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the dynamics within a team, which are relevant to Agile practices. However, it primarily focuses on the challenges faced by Scrum Masters rather than directly addressing the delivery of functional software or the characteristics of working software. While it touches on the importance of collaboration and understanding team dynamics, it lacks detailed exploration of software quality, customer feedback, or iterative development, which are core themes of the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -811,12 +871,12 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T10:22:11",
+    "calculated_at": "2025-03-15T00:51:47",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses Scrum practices and advice for Scrum Masters, lacking a broader organizational context or focus on enterprise-level agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -829,11 +889,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T00:53:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the roles and challenges of a Scrum Master, the importance of team dynamics in Scrum implementation, and the benefits of workshops and coaching in the context of agile project management.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within the Agile framework, discussing collaboration, conflict resolution, and the importance of understanding Scrum principles. It provides detailed insights into when to consider an Agile Process Simulation workshop, which aligns well with agile methodologies. The depth of discussion on Scrum roles and the emphasis on team dynamics and empowerment further solidify its relevance to Agile Project Management.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -874,21 +937,27 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the relationship between the Scrum Master and the team, the challenges they face, and the importance of team autonomy and decision-making, which relates to team motivation as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating team dynamics and highlights the importance of collaboration, empowerment, and understanding team conflicts. It aligns with key topics of team motivation, such as fostering engagement and building trust. However, while it touches on these themes, the primary focus is on the Scrum Master's role and the APS workshop rather than a comprehensive exploration of team motivation strategies.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T00:53:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content includes personal insights and recommendations regarding the role of a Scrum Master and the dynamics of team interactions, reflecting personal experiences and perspectives in coaching and consulting.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on personal reflections and experiences related to the role of a Scrum Master and the dynamics within Agile teams. It discusses the author's thoughts on when to recommend an Agile Process Simulation workshop, which aligns with personal insights on challenges faced in Agile practices. The depth of discussion is significant, as it includes specific strategies and personal anecdotes about coaching and facilitating workshops. However, it also contains technical elements regarding Scrum practices, which slightly detracts from the personal focus.",
+    "level": "Secondary"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -919,11 +988,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:52:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master and the challenges in implementing Scrum, focusing on Agile principles and practices in product management.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master within Agile frameworks, which is a key aspect of Agile Product Management. It addresses collaboration, team dynamics, and the importance of understanding Scrum principles, aligning well with the core themes of the category. The depth of discussion includes practical strategies for improving team effectiveness and facilitating workshops, indicating a strong engagement with Agile practices. However, while it touches on Agile principles, it does not delve deeply into broader product management strategies or stakeholder engagement, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -994,65 +1066,83 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses facilitating Agile processes and workshops, touching on strategic decisions around Scrum implementation. While it primarily addresses Scrum roles and communication, it also reflects on helping teams make aligned decisions regarding Scrum practices, indicating a secondary theme of strategy.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the dynamics within Agile teams, which aligns with strategic discussions about team effectiveness and collaboration. It mentions the importance of understanding team dynamics and the potential use of an Agile Process Simulation workshop as a strategic tool for improvement. However, while it touches on strategic elements, the focus is more on practical advice and specific scenarios rather than a comprehensive strategic framework, which slightly lowers the depth score.",
     "level": "Tertiary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master in relation to team dynamics and various coaching approaches, making mentoring a significant theme, though it is mixed with other topics.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of coaching and facilitating team dynamics, which aligns with mentoring principles. However, it primarily focuses on the Scrum Master’s challenges and the use of an Agile Process Simulation workshop rather than providing direct mentoring strategies or techniques. The depth of discussion on mentoring is limited, as it does not delve deeply into specific mentoring practices or emotional intelligence aspects.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and team dynamics, which are relevant to the Agile Philosophy; however, it primarily focuses on specific situations related to Scrum rather than the broader principles of Agile.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master and the dynamics within a team, which are specific to the Scrum framework rather than the broader Agile Philosophy. While it touches on collaboration and team empowerment, it does not deeply engage with the foundational principles of Agile or the Agile Manifesto. The focus is more on practical application within Scrum rather than the underlying Agile mindset.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:51:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses the role of a Scrum Master and agile processes, it touches on issues related to effective Scrum implementation which ties back to product delivery practices. However, it does not focus directly on end-to-end delivery methodologies or quality assurance, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master within Agile methodologies, which is a key aspect of product delivery. It addresses the importance of collaboration, understanding team dynamics, and the potential benefits of Agile Process Simulation workshops, all of which align with the core themes of product delivery. However, while it provides a good level of detail on Scrum practices, it does not delve deeply into broader product delivery methodologies or metrics, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T10:22:11",
+    "calculated_at": "2025-03-15T00:51:47",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses the role of a Scrum Master and how they can manage team dynamics but does not primarily focus on scaling agile practices across the organization.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master and the importance of teamwork and flexibility, but it mainly revolves around Scrum practices rather than comprehensive organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the importance of collaboration and team dynamics, which are relevant to organisational agility. However, it primarily focuses on Scrum practices and the effectiveness of the Scrum Master rather than broader organisational agility strategies. While it touches on themes of empowerment and self-discovery, it lacks a comprehensive exploration of agile methodologies and their impact on organisational adaptability.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:53:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master and consulting practices within the context of Scrum, which is a key framework in Agile transformation. It addresses strategies for helping teams effectively adopt and adapt Agile practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within Agile frameworks, discussing the importance of collaboration, understanding team dynamics, and the potential benefits of an Agile Process Simulation workshop. It aligns well with Agile transformation principles by addressing the need for cultural shifts and effective leadership in Agile practices. However, while it provides substantial insights into Scrum, it does not delve deeply into broader Agile transformation strategies or methodologies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -1066,12 +1156,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of a Scrum Master and the importance of adaptability and change within teams through workshops, which aligns with resilience and change concepts, although the primary focus is on Scrum roles and processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:53:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the dynamics within a team, which touches on aspects of change management and adaptability. However, it primarily focuses on Scrum practices and team interactions rather than broader organisational resilience strategies. While there are mentions of fostering a culture of self-discovery and empowerment, the depth of discussion on resilience and change methodologies is limited.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1102,20 +1195,26 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile processes, specifically Scrum, and suggests practical approaches such as APS workshops to address issues with Scrum Masters and team dynamics. While it emphasizes practical application, it primarily focuses on the challenges and observations rather than deeply exploring specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the potential use of an Agile Process Simulation (APS) workshop, which aligns with practical techniques in Agile. However, while it touches on the importance of collaboration and understanding team dynamics, it lacks a detailed exploration of specific tools or methodologies beyond the APS workshop. The focus is more on the challenges faced by Scrum Masters rather than a comprehensive examination of Agile tooling or methodologies, which limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-18T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:53:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding team dynamics and decision-making processes within the context of Scrum, which aligns with the themes of sensemaking but primarily focuses on Agile methodologies and Scrum roles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of the Scrum Master and the dynamics within a team, which touches on aspects of sensemaking, particularly in understanding team conflicts and decision-making processes. However, it primarily focuses on Agile practices and the Scrum framework rather than a deep exploration of sensemaking principles or frameworks. While it does encourage reflection and dialogue among team members, the overall emphasis is more on practical implementation rather than the theoretical underpinnings of sensemaking in complex environments.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -1165,7 +1264,7 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-03-10T18:19:10",
+    "calculated_at": "2025-03-15T00:51:47",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1173,7 +1272,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the role of a Scrum Master and the importance of understanding team dynamics, which aligns with the themes of learning and adaptation. However, the primary focus is on project management and the challenges faced by Scrum Masters rather than on broader discovery and learning methodologies. While there are mentions of workshops and coaching, the depth of discussion on continuous learning and innovation is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",

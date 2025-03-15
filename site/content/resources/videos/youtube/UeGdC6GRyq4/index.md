@@ -31,14 +31,10 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Miscellaneous
-- People and Process
-- Personal
+tags: []
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 ## It's Your Time to Shine: Pay 30% Up Front, Balance When You Land the Job 

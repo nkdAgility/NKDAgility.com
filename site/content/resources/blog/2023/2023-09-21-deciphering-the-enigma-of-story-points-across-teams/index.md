@@ -8,7 +8,7 @@ ResourceImportId: 49888
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-09-21
-weight: 470
+weight: 395
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -28,12 +28,12 @@ tags:
 - Value Delivery
 - Throughput
 - Software Development
-- Flow Efficiency
 - Agile Project Management
-- Agile Product Management
+- Flow Efficiency
 - Team Performance
-- Practical Techniques and Tooling
-- Operational Practices
+- Pragmatic Thinking
+- Agile Product Management
+- Agile Frameworks
 categories:
 - Product Management
 - Social Technologies

@@ -25,9 +25,10 @@ duration: 49
 isShort: true
 tags:
 - Operational Practices
-- Continuous Learning
-- Flow Efficiency
-- Agile Frameworks
+- Transparency
+- Pragmatic Thinking
+- Team Collaboration
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

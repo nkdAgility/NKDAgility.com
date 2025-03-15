@@ -109,7 +109,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T11:17:20",
+    "calculated_at": "2025-03-14T18:38:10",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -117,7 +117,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Azure DevOps migrations, which touches on aspects of system configuration, such as moving data and upgrading environments. However, the primary focus is on migration challenges and customer needs rather than detailed technical practices or methodologies for system configuration. While there are mentions of server upgrades and the importance of maintaining environments, the depth of discussion on configuration best practices and optimisation strategies is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -199,7 +199,7 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-03-11T17:24:18",
+    "calculated_at": "2025-03-14T18:38:10",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -207,7 +207,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content primarily discusses Azure DevOps migration, which is related but not exclusively focused on Azure Repos. While it mentions TFS and Git, it lacks a detailed exploration of Azure Repos functionalities, best practices, or specific features like pull requests or branching strategies. The discussion is more about migration challenges and benefits rather than the core themes of Azure Repos.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -358,7 +358,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:50:40",
+    "calculated_at": "2025-03-14T18:38:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -366,7 +366,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Azure DevOps migrations, touching on aspects of software development practices and the importance of maintaining modern environments. However, it lacks a direct focus on engineering excellence principles, such as coding standards or CI/CD practices. While it mentions the need for better environments and the implications of outdated systems, it does not delve deeply into best practices or continuous improvement in engineering processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -772,12 +772,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:24:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps migration, which involves operational practices related to process optimisation and workflow management. However, it primarily focuses on the challenges and reasons for migration rather than specific operational strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on the operational practices involved in migrating to Azure DevOps, discussing best practices, common challenges, and strategies for effective migration. It provides detailed insights into planning, communication, testing, and adaptability, which are all key aspects of operational efficiency. The mention of specific scenarios and the emphasis on practical application align well with the core themes of the category, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -1270,7 +1273,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T13:59:05",
+    "calculated_at": "2025-03-14T18:38:10",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1278,7 +1281,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Azure DevOps migrations, which touches on technical practices but lacks a strong focus on engineering methodologies that enhance agility or quality. While it mentions the importance of moving to a supported environment, it does not delve into specific practices like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1336,11 +1339,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:02:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps migrations, which are related to the application lifecycle, but the primary focus is on migration challenges and solutions rather than the broader aspects of Application Lifecycle Management.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the migration process to Azure DevOps, which is a specific aspect of application lifecycle management. While it touches on challenges, best practices, and the importance of planning and communication, it does not comprehensively cover the entire application lifecycle or the broader principles of ALM. The discussion is more centred on migration rather than the holistic management of applications throughout their lifecycle.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -1363,12 +1369,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T12:30:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:38:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps migration, which relates to internal development processes and tools, but it primarily focuses on migration challenges rather than platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, which is related to platform engineering but does not explicitly discuss the principles or components of Internal Developer Platforms (IDPs). While it touches on enhancing developer productivity and automation, it lacks a direct emphasis on platform engineering as a discipline. The depth of discussion on migration best practices provides some relevant insights, but the overall focus remains on migration challenges rather than platform engineering itself.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1435,7 +1444,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:46:02",
+    "calculated_at": "2025-03-14T18:38:10",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1443,6 +1452,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on Azure DevOps migration and does not explicitly discuss Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it lacks direct references to Scrum or its core themes, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

@@ -26,13 +26,16 @@ preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg
 duration: 371
 isShort: false
 tags:
+- Discovery and Learning
 - Agile Product Management
 - Pragmatic Thinking
 - People and Process
-- Agile Project Management
-- Team Collaboration
-- Software Developers
-- Agile Frameworks
+- Software Development
+- Value Delivery
+- Decision Making
+- Scrum Product Development
+- Professional Scrum
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

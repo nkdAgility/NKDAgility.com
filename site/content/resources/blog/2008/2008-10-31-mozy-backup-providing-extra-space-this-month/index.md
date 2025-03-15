@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/mozy-backup-providing-extra-space-this-month
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Products and Books
+tags: []
 
 ---
 Until the 30th of November 2008 [Mozy](http://mozy.com/?ref=8R96AG) are increasing the amount of space you get for referring a friend from 256mb to 512mb!

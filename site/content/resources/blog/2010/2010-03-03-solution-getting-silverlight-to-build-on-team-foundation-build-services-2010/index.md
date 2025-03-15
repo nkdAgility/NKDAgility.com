@@ -31,14 +31,9 @@ tags:
 - Software Development
 - Troubleshooting
 - Practical Techniques and Tooling
-- Continuous Integration
-- System Configuration
-- Pragmatic Thinking
-- Technical Excellence
 categories:
 - DevOps
 - Engineering Excellence
-- Scrum
 preview: metro-visual-studio-2010-128-link-3-3.png
 
 ---

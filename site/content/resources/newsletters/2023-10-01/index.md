@@ -22,6 +22,12 @@ categories:
 - Social Technologies
 tags:
 - Events and Presentations
+- Agile Transformation
+- Agile Leadership
+- People and Process
+- Organisational Agility
+- News and Reviews
+- Organisational Change
 
 ---
 **🌟 Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**

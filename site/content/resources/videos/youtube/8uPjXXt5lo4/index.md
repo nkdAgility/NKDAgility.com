@@ -28,11 +28,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Software Development
+- Agile Frameworks
+- Agile Transformation
+- Pragmatic Thinking
 - Personal
 - People and Process
-- Agile Product Management
-- Discovery and Learning
-- Team Collaboration
 resourceTypes:
 - video
 categories:

@@ -118,7 +118,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-06T13:23:04",
+    "calculated_at": "2025-03-14T16:27:34",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -126,7 +126,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses the need for architectural adaptation in software development but does not explicitly mention Agile frameworks or principles. While it touches on the importance of enabling teams to work incrementally, it lacks a direct focus on Agile methodologies like Scrum or Kanban. The discussion is more about architectural changes rather than the frameworks themselves, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1393,7 +1393,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-06T14:34:45",
+    "calculated_at": "2025-03-14T16:27:34",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
@@ -1401,6 +1401,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the need for architectural changes in response to evolving product demands, which aligns with the Agile principle of responding to change. However, it lacks explicit references to Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices. The focus is more on architectural adaptation rather than Scrum-specific methodologies, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

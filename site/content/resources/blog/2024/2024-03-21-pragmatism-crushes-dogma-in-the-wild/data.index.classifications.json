@@ -10,21 +10,21 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses the application of Scrum and its adaptability rather than focusing on hypothesis-driven experimentation or systematic testing of ideas within Agile workflows.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily focuses on the application of Scrum in product development rather than discussing entrepreneurship principles, innovation, or risk-taking. While it touches on adaptability and team dynamics, these themes are not central to the entrepreneurial process.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -37,29 +37,38 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-11T13:23:13",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-13T15:04:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "Content heavily discusses Scrum principles, roles, and practical applications, particularly through the lens of a structured program that mirrors real-world Scrum practices.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed exploration of Scrum principles, particularly through practical applications in a unique context (Minecraft). It explicitly discusses Scrum roles, events, and the importance of adaptability, aligning well with the core themes of the category. The depth of discussion is significant, as it includes specific elements from the Scrum Guide and reflects on the philosophy of Scrum, demonstrating a strong understanding of its principles.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-11T13:23:16",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-13T15:26:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the application of Scrum principles in a team setting, highlighting adaptability and resilience in response to complexity, which aligns with systems thinking in organisational contexts. However, the primary focus is on Scrum rather than a broader exploration of organisational dynamics.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the application of Scrum in a practical context, highlighting adaptability and resilience within teams. While it touches on systems thinking principles, such as the need for flexibility and the impact of unforeseen challenges, it primarily focuses on Scrum as a methodology rather than a broader organisational dynamics perspective. The discussion lacks depth in exploring the interplay between organisational structure, culture, and processes, which are key themes of Organisational Physics.",
+    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-11T13:23:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:34:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the practical application of Scrum in a mentoring context, highlighting the role of adaptability, resilience, and team growth, which aligns with coaching principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a mentoring program that uses Scrum principles, highlighting adaptability and resilience within teams. While it touches on coaching aspects, such as facilitating growth and learning, the primary focus is on Scrum practices rather than on coaching techniques or the role of a coach. The depth of discussion on coaching is limited, as it primarily illustrates Scrum's application rather than providing detailed insights into coaching methodologies or strategies.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -73,12 +82,12 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses the application of Scrum in a product development context, focusing on adaptability and resilience rather than employee engagement strategies or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -94,11 +103,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-11T13:23:23",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T14:52:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the application of Scrum principles and the importance of adaptability and resilience in teams, which aligns with Agile Leadership themes. However, it primarily focuses on Scrum practices rather than leadership roles or strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the practical application of Scrum and its adaptability, which indirectly relates to Agile Leadership. However, it lacks a direct focus on leadership roles or practices, making it more about Scrum methodology than leadership in an Agile context. While it touches on themes of adaptability and resilience, it does not delve deeply into the leadership aspects necessary for a higher confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -121,20 +133,26 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:19:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum in a product development context, highlighting adaptability and resilience, which are relevant to digital transformation. However, it primarily focuses on Scrum practices rather than a broader strategic adoption of digital technologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the application of Scrum in a product development context, highlighting adaptability and resilience, which are relevant to digital transformation. However, it primarily focuses on Scrum practices rather than the broader strategic adoption of digital technologies for business transformation. While there are elements of digital transformation, such as agility and adaptability, the content does not explicitly address the strategic integration of digital tools or methodologies, nor does it provide in-depth insights into organisational culture or change management practices. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-11T13:41:57",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T15:13:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the practical application of Scrum in a product development context, highlighting the importance of adaptability and resilience in delivering functional software. While it primarily focuses on Scrum principles, it also touches on the delivery of working software through iterative development and the importance of responding to changes, making it a major theme.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the practical application of Scrum in a product development context, highlighting the importance of adaptability and resilience in delivering working software. It provides specific examples of how teams navigated challenges and adapted their processes, which aligns well with the core themes of working software. However, while it touches on the characteristics of working software, it does not delve deeply into metrics or best practices for ensuring software quality, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -148,11 +166,14 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-11T13:42:00",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T19:17:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "Content primarily discusses the principles of Scrum and how teams can self-organise and adapt to challenges, highlighting the importance of autonomy and flexibility in Agile practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the application of Scrum principles, particularly focusing on adaptability and resilience within teams. While it does mention self-organisation indirectly through the teams' ability to navigate challenges and adapt, it primarily centres on Scrum as a methodology rather than explicitly exploring self-organisation as a core theme. The depth of discussion on self-organisation is limited, as it does not delve into specific techniques or case studies that would enhance understanding of the concept. Overall, the content aligns with the category but does not make it the primary focus.",
     "level": "Secondary"
   },
   "Remote Working": {
@@ -202,12 +223,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-11T13:42:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:17:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of visibility and inspection in Scrum, highlighting how these elements support adaptability and resilience within teams, which aligns with the principles of transparency in Agile processes.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses Scrum and its principles, including the importance of visibility and inspection, which are key aspects of transparency. However, while it touches on these elements, the primary focus is on adaptability and resilience rather than transparency itself. The discussion of Scrum's guardrails and the need for visibility in processes supports the transparency theme, but it is not the main emphasis of the narrative.",
+    "level": "Tertiary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -238,11 +262,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-11T13:42:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:17:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the application of Scrum principles and their strategic implications in navigating complexity and adapting to change, aligning with the Strategy category's focus on Agile frameworks.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the practical application of Scrum, highlighting adaptability and resilience, which aligns with strategic themes in Agile. It mentions key Scrum principles and their implications for team performance and strategic alignment. However, while it touches on strategy, the primary focus is on Scrum practices rather than a comprehensive strategic framework, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -256,39 +283,45 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-11T13:42:54",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T19:18:00",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
-    "reasoning": "Content heavily discusses the practical application of Scrum, its principles, and the adaptability it fosters within teams, making it a primary focus.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the practical application of Scrum, detailing specific experiences and challenges faced during a product development programme. It highlights key Scrum principles such as adaptability, empiricism, and the importance of Scrum roles and events. The narrative provides a deep exploration of how Scrum can be effectively implemented to navigate complexity and foster a culture of continuous improvement, aligning well with the core themes of the Agile Frameworks category.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily focuses on the application of Scrum at the team level, discussing specific Scrum roles and events without addressing broader organisational scaling practices or frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-11T13:42:57",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T19:18:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the application of Scrum principles in a team setting, highlighting adaptability, resilience, and the dynamics of teamwork within Agile frameworks.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the application of Scrum in a team setting, highlighting adaptability and resilience, which are crucial for team collaboration. However, while it touches on team dynamics and the importance of flexibility, it primarily focuses on the Scrum framework and its principles rather than explicitly exploring techniques for improving team communication or fostering a culture of trust. The depth of discussion on team collaboration is present but not the primary focus, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses the application of Scrum and its principles, focusing on team dynamics and adaptability rather than product strategy, vision, or roadmap development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -328,21 +361,24 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses Scrum practices and experiences in a product development context, with limited relevance to portfolio management principles or strategic alignment.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-11T13:43:16",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T19:18:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "Content heavily discusses the practical application of Scrum, a key Agile framework, and its principles in software development, illustrating its adaptability and resilience in project management.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the practical application of Scrum, a key Agile framework in software development. It highlights the iterative nature of the Scrum process, the importance of adaptability, and the real-world implications of Scrum principles, which align closely with the core themes of software development methodologies. The depth of discussion is significant, providing detailed examples from a structured program that mirrors real-world complexities, thus demonstrating a strong understanding of the software development lifecycle and Agile practices.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -358,12 +394,12 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses the application of Scrum and its adaptability rather than focusing on the measurement and optimisation of throughput in Agile or DevOps contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -376,11 +412,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-11T13:43:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:18:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the philosophy of Scrum, emphasising adaptability, resilience, and the importance of responding to change, which aligns closely with Agile values and principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum extensively, focusing on its application and principles, which aligns with Agile values. However, it primarily centres on Scrum as a framework rather than the broader Agile values and principles. While it touches on adaptability and resilience, the depth of discussion is more about Scrum practices than the foundational Agile principles themselves.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -412,30 +451,39 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-11T13:43:28",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T19:18:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the adaptability and resilience fostered by Scrum, which aligns with change management principles, particularly in Agile environments. However, the primary focus is on Scrum practices rather than a comprehensive exploration of change management strategies.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the application of Scrum principles, particularly focusing on adaptability and resilience, which are key aspects of change management. It highlights how teams can navigate complexity and adapt to changes, aligning with the core themes of the category. However, while it touches on change management concepts, it primarily centres on Scrum practices rather than a broader discussion of change management strategies, which limits its depth in this specific category.",
     "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-11T13:43:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:18:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses a mentoring programme focused on Scrum, highlighting the role of mentorship in guiding participants through practical applications of Agile principles, which aligns with the mentoring category.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses a mentoring program focused on Scrum, which aligns with the mentoring category. However, while it mentions the mentoring aspect, the primary focus is on the application of Scrum principles rather than on mentoring techniques or strategies. The depth of discussion on mentoring is limited, as it primarily reflects on the experiences of participants rather than providing detailed guidance on mentoring practices.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-11T13:43:31",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T19:18:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 84.0,
-    "reasoning": "Content primarily discusses the principles of Scrum, particularly focusing on adaptability, inspection, and the importance of empiricism in decision-making, which are central to empirical process control.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the principles of Scrum, particularly focusing on adaptability, resilience, and the importance of empiricism in decision-making. It highlights the role of transparency, inspection, and adaptation, which are core themes of empirical process control. The detailed examples from the program illustrate how teams navigated complexities and adapted to unforeseen challenges, reinforcing the practical application of these principles. The mention of the Scrum Guide and its elements further solidifies the connection to empirical process control, demonstrating a strong alignment with the category's key topics.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -466,11 +514,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-11T13:43:38",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T19:18:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "Content primarily discusses the practical application of Scrum in a product development context, highlighting Agile principles and the role of developers in navigating complexity and adaptability.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the application of Scrum, a key Agile methodology, in a practical context, which directly relates to the role of software developers. It highlights best practices in Agile development, such as adaptability and resilience, and provides detailed examples of how teams can leverage Scrum principles to enhance their productivity and collaboration. The depth of discussion around the Scrum framework and its elements further supports its relevance to software developers, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -511,11 +562,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-11T13:57:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:18:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses the application of Scrum principles, including the importance of delivering a usable Increment and the adaptability required to meet project goals, which aligns closely with the Increment category.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the application of Scrum in a practical context, highlighting the importance of delivering usable increments and adapting to challenges. It explicitly mentions the Increment and its usability, aligning well with the core themes of the category. However, while it provides substantial detail on Scrum practices and principles, the focus is more on the philosophy and adaptability of Scrum rather than a deep dive into the Increment itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Windows": {
@@ -547,21 +601,24 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily focuses on the practical application of Scrum in a specific context, without addressing the scaling of Agile practices across multiple teams or at an enterprise level.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T13:57:58",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T19:18:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
-    "reasoning": "Content heavily discusses the practical application of Scrum principles in a real-world context, emphasising adaptability, problem-solving, and the navigation of complexity, which aligns closely with the themes of Pragmatic Thinking.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the practical application of Scrum principles in a real-world context, particularly through the immersive experience of using Minecraft to simulate product development challenges. It highlights adaptability, resilience, and the importance of navigating complexity, which are core themes of Pragmatic Thinking. The depth of discussion is significant, as it provides detailed examples of how teams adapted to unforeseen challenges and the philosophical underpinnings of Scrum. Overall, the content aligns well with the category, demonstrating a strong focus on practical problem-solving strategies.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -574,11 +631,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-11T13:58:02",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-14T19:18:24",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 86.0,
-    "reasoning": "Content primarily focuses on the practical application of Scrum, detailing its principles, roles, and adaptability in project management, which aligns closely with Agile Project Management discussions.",
+    "final_score": 84.0,
+    "reasoning": "The content extensively discusses the practical application of Scrum, detailing its principles, roles, and adaptability in project management. It highlights specific Scrum events and the importance of flexibility, which aligns closely with Agile Project Management themes. The depth of discussion on real-world scenarios and the emphasis on Scrum as a philosophy rather than a strict methodology further supports a high confidence score.",
     "level": "Primary"
   },
   "Continuous Integration": {
@@ -592,11 +652,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-11T13:58:05",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T19:18:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the application of Scrum principles in a practical context, highlighting adaptability, resilience, and the alignment of Scrum with Agile philosophy, which are central to Agile strategy.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the practical application of Scrum, highlighting adaptability and resilience, which are core themes of Agile Strategy. It provides specific examples of how teams navigated complexities and adapted to changes, aligning well with the category's focus on continuous value delivery and integration of Agile principles into strategic planning. However, while it touches on strategic aspects, the primary focus remains on Scrum practices rather than a broader organisational strategy, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -628,29 +691,38 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-11T13:58:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:18:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the application of Scrum in navigating complexity and adapting to change, highlighting principles of sensemaking within a team context.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the application of Scrum in navigating complexity and adapting to change, which aligns with the principles of sensemaking. It highlights the importance of adaptability and resilience in complex environments, particularly through the lens of a practical experience in a product development context. However, while it touches on sensemaking concepts, the primary focus remains on Scrum practices rather than a deeper exploration of sensemaking frameworks or leadership roles in fostering a culture of sensemaking.",
     "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-11T13:58:14",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T19:18:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the application of Scrum and its impact on team dynamics, adaptability, and resilience, which are relevant to team motivation. However, the primary focus is on the Scrum framework rather than explicit strategies for enhancing team motivation.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the application of Scrum in a team setting, highlighting adaptability and resilience, which are key aspects of team motivation. However, while it touches on team dynamics and the importance of flexibility, it primarily focuses on the Scrum framework and its principles rather than explicitly exploring strategies for enhancing team motivation or engagement. The depth of discussion on team dynamics is moderate, but it lacks a comprehensive exploration of motivational strategies.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-11T13:58:16",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T19:18:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the application of Scrum principles in a team setting, focusing on adaptability, resilience, and the dynamics of team performance during sprints.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the application of Scrum principles in a team setting, highlighting the importance of adaptability, resilience, and collaboration within teams. It provides specific examples of team dynamics during sprints, illustrating how Scrum practices can enhance performance and address challenges. The depth of discussion on Scrum's role in fostering team effectiveness aligns well with the category's focus, making it a primary topic rather than a secondary mention.",
     "level": "Secondary"
   },
   "AI": {
@@ -691,21 +763,24 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses Scrum and its application in product development, focusing on adaptability and resilience rather than Lean principles such as waste reduction and value maximisation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-11T13:58:27",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T19:18:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
-    "reasoning": "Content primarily discusses the practical application of Scrum, illustrating its principles and adaptability in real-world scenarios, which aligns closely with Agile transformation strategies.",
-    "level": "Primary"
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the practical application of Scrum, highlighting its principles and adaptability in real-world scenarios. It aligns well with Agile transformation themes, such as the importance of flexibility, the role of Scrum in navigating complexity, and the emphasis on continuous improvement. The depth of discussion is significant, providing detailed examples and reflections on the Scrum philosophy, which supports a high confidence score.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -718,21 +793,27 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-11T13:58:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:18:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the application of Scrum principles, particularly focusing on adaptability and resilience, which align closely with the Scrum Values of commitment, courage, and respect. It illustrates how these values manifest in real-world scenarios, making them central to the narrative.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the application of Scrum principles and the adaptability of teams, which aligns with the core themes of Scrum Values, particularly Commitment and Courage. However, it does not explicitly mention the Scrum Values themselves, leading to a lower direct mention score. The depth of discussion on the values is also limited, focusing more on practical experiences rather than a thorough exploration of each value.",
     "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T09:08:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:19:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum and its adaptability, which relates to organisational change, but the primary focus is on Scrum practices rather than broader organisational change strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the application of Scrum in a product development context, focusing on its principles and adaptability. While it touches on themes of resilience and adaptability, which are relevant to organisational change, it does not explicitly address organisational change strategies or frameworks. The discussion is more centred on Scrum as a methodology rather than the broader organisational change processes, which limits its alignment with the category.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -745,20 +826,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T13:58:35",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T19:18:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 86.0,
-    "reasoning": "Content heavily discusses the application of Scrum principles, roles, and practices in a product development context, particularly through the lens of a practical program structured around sprints.",
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the application of Scrum principles through a practical program, highlighting key roles, sprints, and the importance of adaptability in product development. It provides detailed examples of Scrum events and the challenges faced, demonstrating a strong alignment with the core themes of Scrum Product Development.",
     "level": "Primary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-11T13:58:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:18:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the practical application of Scrum principles and their impact on operational efficiency and adaptability within teams, aligning well with the category's focus on enhancing operational practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the practical application of Scrum within a product development context, highlighting techniques for adaptability and resilience in operational practices. It provides specific examples of how Scrum principles were applied to navigate complexities, which aligns well with the core themes of operational efficiency and continuous improvement. However, while it does touch on operational practices, the focus is more on the narrative of Scrum's philosophy rather than a comprehensive exploration of operational techniques or metrics, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -781,21 +868,24 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T13:58:42",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T19:18:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the application of Scrum principles and the role of Scrum in facilitating team adaptability and resilience, which aligns closely with the responsibilities of a Scrum Master.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the practical application of Scrum principles, particularly in the context of a mentoring programme. It highlights the role of Scrum in facilitating team dynamics, adaptability, and resilience, which are core responsibilities of a Scrum Master. The narrative includes specific references to Scrum events and the importance of flexibility over rigid adherence to rules, aligning well with the key topics of the category. The depth of discussion is significant, providing insights into real-world challenges and the Scrum framework's adaptability, which are essential for a Scrum Master’s role.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily focuses on the practical application of Scrum at a team level, discussing specific Scrum roles and events without addressing large-scale Agile frameworks or enterprise-level strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -808,11 +898,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-11T13:58:47",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T19:18:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "Content primarily discusses the application of Scrum principles and the role of adaptability in agile environments, which aligns closely with technical leadership themes.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the application of Scrum in a practical context, highlighting adaptability and resilience within teams. While it touches on agile principles and the importance of flexibility, it lacks a direct focus on technical leadership roles, mentoring, or specific strategies for guiding teams. The discussion is more centred on Scrum as a framework rather than on the leadership aspects that drive team dynamics and agile practices.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -835,12 +928,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-11T13:58:51",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T19:18:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 83.0,
-    "reasoning": "Content heavily discusses the practical application of Scrum, including sprints, adaptability, and the principles of Agile Planning, making it a primary topic.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the practical application of Scrum, which is a key framework within Agile Planning. It highlights the importance of adaptability, iterative processes, and the role of sprints, aligning closely with Agile principles. The depth of discussion on real-world scenarios and the emphasis on flexibility over rigid adherence to rules further supports its relevance to Agile Planning.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -889,11 +985,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-11T13:59:00",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T19:18:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the application of Scrum principles, roles, and team dynamics in a practical setting, highlighting collaboration and adaptability within a Scrum Team.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the practical application of Scrum within a team context, highlighting roles, adaptability, and the dynamics of team collaboration through specific examples from a mentoring program. It mentions the Scrum Guide and its elements, which directly relate to Scrum Team roles and responsibilities. However, while it touches on team dynamics and adaptability, it does not delve deeply into specific communication strategies or conflict resolution, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Technical Mastery": {
@@ -907,12 +1006,12 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses the application of Scrum in a product development context, focusing on adaptability and team dynamics rather than specific release management practices or processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -934,11 +1033,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-11T13:59:10",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T19:18:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the philosophical underpinnings of Scrum, emphasising adaptability, resilience, and the importance of a flexible mindset in navigating complexity, which aligns closely with Agile Philosophy.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the Agile philosophy through the lens of Scrum, highlighting adaptability, resilience, and the importance of flexibility over rigid adherence to rules. It explicitly mentions Scrum as a philosophy rather than just a methodology, aligning well with the core themes of Agile philosophy. The depth of discussion is significant, providing detailed examples of how Scrum principles were applied in a practical setting, thus reinforcing the Agile mindset.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -997,21 +1099,24 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-11T13:59:21",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T19:18:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the application of Scrum principles, focusing on adaptability, resilience, and continuous improvement within teams, which aligns well with the themes of Continuous Learning.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the application of Scrum principles, particularly focusing on adaptability and resilience, which are key aspects of Continuous Learning. It highlights the importance of learning from experiences and adapting to challenges, aligning with the growth mindset. However, while it touches on these themes, the primary focus remains on Scrum practices rather than a broader exploration of Continuous Learning principles, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses the application of Scrum in product development, focusing on adaptability and resilience rather than decision-making processes in uncertain environments.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1186,7 +1291,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T13:03:01",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1194,7 +1299,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on Scrum, a framework within Agile methodologies, rather than discussing DevOps principles or practices. While it touches on adaptability and team dynamics, which are relevant to DevOps, it lacks explicit discussions on CI/CD, automation, or the integration of development and operations. The depth of discussion on Scrum is significant, but it does not align closely with the core themes of DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1324,12 +1429,12 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses the application of Scrum in product development, focusing on adaptability and team dynamics rather than the comprehensive management of the application lifecycle.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1342,12 +1447,12 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T09:08:33",
+    "calculated_at": "2025-03-14T19:17:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses the application of Scrum in a product development context, focusing on adaptability and resilience within teams. While it touches on team dynamics, it does not delve into psychological principles or theories central to organisational psychology.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",

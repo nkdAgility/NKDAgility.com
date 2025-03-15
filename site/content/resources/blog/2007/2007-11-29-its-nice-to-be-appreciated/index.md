@@ -26,9 +26,7 @@ aliasesArchive:
 - /it's-nice-to-be-appreciated-
 - /blog/it's-nice-to-be-appreciated-
 - /resources/blog/its-nice-to-be-appreciated
-tags:
-- Miscellaneous
-- Personal
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

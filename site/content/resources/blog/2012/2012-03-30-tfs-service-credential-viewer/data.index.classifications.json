@@ -289,7 +289,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T12:00:09",
+    "calculated_at": "2025-03-15T05:59:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -297,7 +297,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the TFS Service Credential Viewer, which is related to Team Foundation Server (TFS), a component of Azure DevOps. However, it primarily focuses on the credential management aspect without delving into broader Azure DevOps functionalities or best practices. While it mentions TFS, it does not provide a comprehensive overview of Azure DevOps services or methodologies, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -382,7 +382,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T16:55:01",
+    "calculated_at": "2025-03-15T05:59:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -390,7 +390,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the TFS Service Credential Viewer and its usage, which is more about a specific tool rather than broader software craftsmanship principles. While it does touch on technical aspects like prerequisites and troubleshooting, it lacks a deep discussion on best practices, clean code, or methodologies that contribute to software engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -631,12 +631,12 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:07",
+    "calculated_at": "2025-03-15T05:59:38",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
     "final_score": 19.0,
     "reasoning": "The content discusses a tool related to Team Foundation Server (TFS), but it primarily focuses on credentials and authentication rather than version control practices, methodologies, or strategies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",

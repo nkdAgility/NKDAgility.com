@@ -49,7 +49,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-07T13:40:29",
+    "calculated_at": "2025-03-14T22:39:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -57,7 +57,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions agile principles and practices, particularly in the context of Scrum training and coaching. However, it lacks a direct focus on the broader themes of business agility, such as organisational adaptability, leadership roles, or case studies demonstrating successful implementations. The discussion is more centred on specific agile methodologies rather than the overarching concept of business agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -70,7 +70,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-10T12:03:16",
+    "calculated_at": "2025-03-14T22:39:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -78,7 +78,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Scrum and agile training but lacks a detailed exploration of Scrum principles, roles, or practices. The focus is more on promoting services rather than providing in-depth discussions on the Scrum framework or its implementation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -211,7 +211,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T18:10:16",
+    "calculated_at": "2025-03-14T22:39:15",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -219,7 +219,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions agile and scrum training, indicating a focus on team performance, but lacks detailed discussion on specific strategies or methodologies for enhancing team dynamics or productivity. The references to consultancy services suggest a potential alignment with team performance, yet the overall content does not delve deeply into the core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -241,7 +241,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T10:08:34",
+    "calculated_at": "2025-03-14T22:39:15",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -249,7 +249,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses agile methodologies and their impact on team dynamics and customer experience, which aligns with the core themes of product delivery. However, it lacks a detailed exploration of the end-to-end process of delivering software products, focusing more on agile training and coaching rather than specific practices related to product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -676,7 +676,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T17:38:08",
+    "calculated_at": "2025-03-14T22:39:15",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -684,7 +684,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content mentions Agile and Scrum, which are relevant to team collaboration, but it primarily focuses on the consultancy services offered rather than discussing specific techniques or strategies for enhancing team dynamics. The depth of discussion on collaboration is limited, as it does not provide detailed insights or examples related to team communication or shared ownership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -760,12 +760,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T19:29:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:39:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and their impact on team performance, which relates to market adaptability, but it primarily focuses on Agile consultancy services rather than specific strategies for responding to market shifts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile and Scrum, which are relevant to market adaptability, but it lacks a detailed discussion on how these methodologies specifically enhance responsiveness to market shifts. The focus is more on promoting Agile consultancy services rather than exploring the principles and practices that enable market adaptability.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -895,11 +898,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T19:30:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:37:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions agile coaching and its positive impact on teams, but it primarily focuses on promoting services rather than in-depth discussions on coaching practices.",
+    "final_score": 41.0,
+    "reasoning": "The content mentions agile coaching and consulting, indicating a focus on coaching practices. However, it lacks detailed discussions on specific coaching techniques, team dynamics, or the role of a coach in Agile environments. The references to training and consultancy suggest a broader context rather than a deep dive into coaching itself.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -949,12 +955,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T19:30:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:39:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum training, which are relevant to Agile Product Management, but it primarily focuses on consultancy services rather than specific Agile product management practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content mentions Agile and Scrum, indicating a connection to Agile methodologies. However, it lacks a focused discussion on Agile Product Management principles, such as the role of the Product Owner or backlog prioritisation. The depth of discussion is limited to promoting services rather than exploring key topics in Agile Product Management.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1021,12 +1030,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T19:30:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:39:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum training and coaching, indicating a focus on practical applications in these frameworks, but it does not delve deeply into specific pragmatic problem-solving strategies or real-world applications.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Agile and Scrum, indicating a connection to pragmatic thinking. However, it lacks detailed discussions on practical problem-solving strategies or real-world applications of these frameworks. The focus is more on promoting services rather than providing in-depth insights into navigating complexity or applying Lean principles.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1093,12 +1105,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T19:30:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:24:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum methodologies, which are significant aspects of software development, but it primarily focuses on consultancy and training services rather than in-depth software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile methodologies and Scrum training, which are directly related to software development practices. However, it primarily focuses on consultancy services rather than in-depth discussions of software development techniques or methodologies. The mention of Agile and Scrum indicates a connection to the category, but the overall depth and detail are limited, focusing more on promotional content than on substantive software development discussions.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1147,12 +1162,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T19:30:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:39:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum, which are relevant to software developers, but it primarily focuses on consultancy and training rather than the role of developers themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile and Scrum, which are relevant to software development practices. However, it lacks a direct focus on the role of software developers and does not delve into specific methodologies or practices that enhance developer productivity or collaboration. The discussion is more about Agile consultancy and training rather than the practical application of Agile principles by software developers.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1282,12 +1300,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T19:31:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:39:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum methodologies, highlighting the importance of a happy and inspired workforce for customer experience, which aligns with value delivery principles. However, it primarily focuses on consultancy services rather than specific value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Agile and Scrum, highlighting the importance of a happy workforce for customer experience, which aligns with the concept of delivering value. However, it lacks detailed discussions on specific strategies or methodologies related to value delivery, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1318,12 +1339,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T19:31:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:39:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile consultancy and Scrum training, indicating a focus on Scrum principles, but does not delve deeply into specific Scrum practices or product development processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content mentions Scrum and Agile in the context of training and consulting, but it lacks a direct focus on Scrum product development practices. While it touches on the importance of a collaborative workforce, it does not delve into specific Scrum roles, events, or product development methodologies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1345,12 +1369,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T19:31:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:39:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and their impact on team performance and customer experience, but it primarily focuses on training and consulting services rather than a strategic discussion.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content mentions Agile and Scrum but primarily focuses on training and consultancy services rather than discussing Agile strategy in depth. While it touches on the importance of a happy workforce and high-performing teams, it lacks a clear alignment with the core themes of Agile strategy, such as organisational vision alignment or strategic planning integration.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1372,12 +1399,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T19:31:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:39:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile methodologies and their impact on team performance, but primarily focuses on the services offered by an agile consultancy rather than a deep exploration of organisational agility principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions agile methodologies and their benefits, particularly in relation to team dynamics and customer experience. However, it lacks a detailed exploration of organisational agility principles, leadership roles, or specific strategies for enhancing adaptability. The focus is more on promoting agile consultancy services rather than a comprehensive discussion on organisational agility.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",

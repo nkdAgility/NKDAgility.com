@@ -8,7 +8,7 @@ ResourceImportId: 22774
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-03
-weight: 275
+weight: 240
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,7 +28,15 @@ aliasesArchive:
 - /resources/blog/professional-scrum-teams-build-software-works
 tags:
 - Working Software
+- Increment
+- Scrum Product Development
 - Software Development
+- Professional Scrum
+- Scrum Team
+- Software Developers
+- Empirical Process Control
+- Product Delivery
+- Technical Mastery
 categories:
 - Scrum
 - Social Technologies

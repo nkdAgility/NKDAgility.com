@@ -18,7 +18,7 @@ references:
   url: https://agilemanifesto.org/
 recommendedContent: 
 date: 2024-09-17
-weight: 465
+weight: 545
 creator: Martin Hinshelwood
 card:
   button:
@@ -28,11 +28,16 @@ card:
 categories:
 - Social Technologies
 tags:
-- Agile Philosophy
 - Agile Values and Principles
 - Software Development
+- Agile Philosophy
 - Agile Project Management
 - Agile Transformation
+- Software Developers
+- Value Delivery
+- Working Software
+- People and Process
+- Agile Frameworks
 
 ---
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:

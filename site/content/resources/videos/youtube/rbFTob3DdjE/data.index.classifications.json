@@ -67,7 +67,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-06T15:11:40",
+    "calculated_at": "2025-03-14T22:08:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -75,7 +75,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Scrum Masters and the use of digital whiteboards in the context of Agile collaboration, which is relevant to Scrum practices. However, it lacks a detailed exploration of Scrum principles, roles, or events, and does not provide in-depth discussion on the Scrum framework or its core values. The focus is more on tools rather than the theoretical foundations of Scrum, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -124,7 +124,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-07T13:36:15",
+    "calculated_at": "2025-03-14T22:08:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Scrum Masters and the use of digital whiteboards in Agile collaboration, which indicates a connection to Agile frameworks. However, it primarily focuses on tools rather than exploring Agile principles or frameworks in depth. The discussion lacks a comprehensive analysis of Agile methodologies or their impact on organisational agility, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -241,7 +241,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T18:08:24",
+    "calculated_at": "2025-03-14T22:08:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -249,7 +249,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the use of digital whiteboards in the context of Scrum, which is a methodology related to product delivery. However, it lacks a comprehensive discussion on the broader aspects of product delivery, such as planning, testing, or deployment. The focus is primarily on tools rather than the end-to-end process of delivering software products, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -502,12 +502,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T18:17:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:14:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of digital whiteboards in the context of Scrum, which is a framework for Agile transformation. However, the primary focus is on the tools rather than the broader strategies or methodologies of Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the use of digital whiteboards in the context of Agile practices, particularly from the perspective of a Scrum Master. While it does mention Agile collaboration and the importance of engagement in team dynamics, it primarily focuses on the tools rather than the broader strategies and methodologies of Agile transformation. The discussion is relevant but lacks depth in exploring Agile principles, frameworks, or change management strategies, which are crucial for a higher confidence score in this category.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -547,12 +550,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T18:18:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:36:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of digital whiteboards as a tool for enhancing Agile collaboration, making it a major but secondary theme in the context of Agile practices.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the use of digital whiteboards as tools for enhancing Agile collaboration, which aligns well with the category's focus on practical techniques and tooling. It provides detailed insights into the benefits of these tools, recommendations for their use, and how they can improve team dynamics and engagement. The depth of discussion is significant, covering various aspects of tool selection and application, which supports a high confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -610,12 +616,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T18:18:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:44:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the use of digital whiteboards in the context of Scrum, highlighting their role in team collaboration and engagement, which aligns with the theme of Scrum Team dynamics.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of digital whiteboards in enhancing collaboration within Scrum Teams, particularly from the perspective of a Scrum Master. It directly mentions the Scrum Master role and touches on team dynamics and engagement, which are relevant to the category. However, while it aligns with the themes of collaboration and communication, it lacks in-depth exploration of Scrum-specific practices and roles beyond the mention of the Scrum Master. The focus on tools rather than Scrum principles limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -664,12 +673,15 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T18:18:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of digital whiteboards, which can facilitate collaboration in remote Agile settings, but it primarily focuses on the tools rather than the broader practices or challenges of remote working.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:01:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the use of digital whiteboards in Agile collaboration, particularly in remote settings. It explicitly mentions the importance of visual collaboration and engagement, which are crucial for remote teams. However, while it aligns with the core themes of remote working, it does not delve deeply into broader strategies or challenges faced by remote Agile teams, focusing instead on a specific tool. Therefore, the confidence score reflects a strong but not complete alignment with the category.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -682,21 +694,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T18:18:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:22:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the use of digital whiteboards as a tool to enhance collaboration within Agile teams, which aligns well with the category's focus on improving team communication and collaboration.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the use of digital whiteboards as tools for enhancing team collaboration, which is a primary focus of the category. It aligns well with key themes such as improving team communication, fostering engagement, and adapting to remote work environments. The depth of discussion is substantial, providing practical recommendations and insights on how to effectively use these tools to enhance team dynamics and collaboration.",
     "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T18:18:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:08:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions the Daily Scrum in the context of using digital whiteboards for collaboration, indicating that it is a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions 'daily scrums' in the context of using digital whiteboards but does not focus on the Daily Scrum event itself. While it discusses collaboration and engagement, which are relevant to the Daily Scrum, it lacks depth in addressing the specific structure, roles, and practices of the Daily Scrum. The primary focus is on digital tools rather than the event's purpose or best practices.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -781,11 +799,14 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T18:19:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:08:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of digital whiteboards as information radiators, which relates to transparency in Agile processes, but the primary focus is on the tools rather than transparency itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of digital whiteboards as information radiators, which directly relates to transparency in Agile processes. It highlights how these tools enhance visibility and engagement among team members, aligning well with the core themes of transparency. The depth of discussion includes practical recommendations for using these tools effectively, which further supports the importance of clear communication and shared information. However, while transparency is a significant aspect of the content, it is not the primary focus, leading to a moderately high confidence score.",
     "level": "Tertiary"
   },
   "Customer Feedback Loops": {
@@ -871,12 +892,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T18:19:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of digital whiteboards in Agile collaboration, which relates to enhancing operational efficiency and team engagement, but it primarily focuses on the tools rather than specific operational practices or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:08:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the use of digital whiteboards in Agile collaboration, which aligns with operational practices by enhancing team engagement and communication. However, it primarily focuses on the tools and personal experiences rather than specific operational strategies or methodologies. While it touches on aspects of process optimisation and team dynamics, it lacks detailed exploration of metrics, KPIs, or broader operational efficiency techniques.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -952,12 +976,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T18:19:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:09:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of digital whiteboards in the context of Agile collaboration, which is relevant to Agile practices, but it does not primarily focus on Agile Product Management principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of digital whiteboards in facilitating Agile collaboration, particularly in Scrum settings. While it mentions the Scrum Master role and highlights the importance of team engagement and collaboration, it lacks a direct focus on Agile Product Management principles such as backlog prioritisation or stakeholder engagement. The discussion is more about tools and techniques rather than the strategic aspects of product management, which slightly limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -997,12 +1024,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T18:19:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:09:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses digital whiteboards as tools that facilitate Agile collaboration, making it a major theme, but it does not delve into specific product reviews or analyses.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the use of digital whiteboards as tools for Agile collaboration, which aligns with the category's focus on products that facilitate Agile practices. It provides specific recommendations and insights on various platforms, indicating a depth of discussion. However, it lacks direct reviews or analyses of specific books or literature, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1024,12 +1054,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T18:19:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:09:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical use of digital whiteboards in Agile collaboration, which aligns with pragmatic problem-solving strategies in Scrum contexts. However, it does not delve deeply into broader pragmatic thinking principles.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the practical application of digital whiteboards in Agile collaboration, highlighting their role in enhancing team engagement and facilitating problem-solving. While it does not explicitly mention 'Pragmatic Thinking,' it aligns well with the core themes of adaptability and real-world application in Agile contexts. The depth of discussion on specific strategies for using these tools adds to the overall relevance, though it could benefit from more detailed case studies or evidence-based practices.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1096,12 +1129,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T18:20:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:09:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of digital whiteboards in the context of Agile collaboration, which is a significant aspect of software development practices, particularly in Scrum. However, the focus is more on the tools rather than the methodologies themselves.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the use of digital whiteboards in the context of Agile collaboration, specifically within Scrum practices. While it does not delve deeply into software development methodologies or coding practices, it aligns with Agile principles and highlights the importance of collaboration and engagement in software teams. The discussion is somewhat detailed, providing practical recommendations for using these tools effectively, which contributes to the overall confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1150,12 +1186,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T18:20:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:09:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of digital whiteboards in Agile collaboration, which is relevant to software developers, but it primarily focuses on the tools rather than the developers' roles or practices in Agile.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the use of digital whiteboards in Agile collaboration, which is relevant to software developers. However, it primarily focuses on the tools and personal experiences of a Scrum Master rather than the broader role of software developers in Agile and DevOps contexts. While it touches on themes of collaboration and engagement, it lacks depth in discussing best practices, methodologies, or the impact on developer productivity, which are key aspects of the category.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1249,12 +1288,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T18:20:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:09:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of digital whiteboards in enhancing team collaboration, which is a significant aspect of team motivation, but it primarily focuses on the tools rather than broader motivational strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the use of digital whiteboards to enhance team engagement and collaboration, which aligns with the core themes of team motivation. However, while it touches on important aspects like participation and visual collaboration, it primarily focuses on the tools and their functionalities rather than deeper motivational strategies or team dynamics. The discussion lacks extensive detail on psychological safety, trust-building, or leadership styles, which are crucial for a higher confidence score in the 'Team Motivation' category.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1321,12 +1363,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T18:20:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:09:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of digital whiteboards in the context of Scrum, highlighting their role in facilitating collaboration and engagement during Scrum events, but does not primarily focus on Scrum product development principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of digital whiteboards in facilitating collaboration within Scrum teams, which aligns with Scrum principles. However, it primarily focuses on the tools rather than the Scrum framework itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1375,11 +1420,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T18:20:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:09:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of digital whiteboards in the context of Agile collaboration, which is a significant aspect of organisational agility, but it primarily focuses on the tools rather than broader strategies or practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of digital whiteboards in the context of Agile collaboration, which aligns with the principles of flexibility and responsiveness. However, while it touches on engagement and team dynamics, it lacks a broader discussion on organisational agility strategies or frameworks. The focus is primarily on tools rather than the cultural and structural shifts necessary for agility.",
     "level": "Tertiary"
   },
   "Troubleshooting": {

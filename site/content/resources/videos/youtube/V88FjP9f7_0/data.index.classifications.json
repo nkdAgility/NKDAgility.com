@@ -31,7 +31,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:28:22",
+    "calculated_at": "2025-03-14T21:40:07",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -39,7 +39,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions Agile principles, which are relevant to product management, but it lacks a comprehensive discussion on product management strategies or methodologies. The focus is more on the Agile concept of 'less is more' rather than on product management as a whole, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -52,11 +52,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles related to Agile and touches on efficiency and value in work, making it a major theme but not the primary focus.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the principle of 'less is more' within Agile methodologies, which aligns with the concept of maximising value and minimising waste. However, it primarily focuses on Agile practices rather than broader business agility principles, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -124,11 +127,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:40:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the concept of 'less is more' in relation to Agile principles, particularly referencing the Agile Manifesto and Kanban. While it aligns with Agile ideas, it does not provide a deep exploration or focus on specific frameworks.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses Agile principles, particularly the 'less is more' concept, which is central to Agile methodologies like Kanban. It aligns well with the core themes of the category by emphasising value maximisation and waste minimisation, both of which are fundamental to Agile frameworks. The depth of discussion is substantial, covering practical applications such as backlog refinement and sprint planning, which are integral to Agile practices. Overall, the content is focused on Agile frameworks and their implementation, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -205,7 +211,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-06T15:08:23",
+    "calculated_at": "2025-03-14T21:40:07",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -213,7 +219,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions Agile principles and the concept of focusing on valuable work, which aligns with the idea of maximising team effectiveness. However, it lacks detailed discussion on team dynamics, collaboration, or specific methodologies that enhance team performance, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -286,11 +292,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses agile principles, particularly the concept of 'less is more' in the context of the Agile Manifesto and Kanban, emphasizing the importance of focusing on valuable work.",
+    "calculated_at": "2025-03-14T21:40:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses Agile principles, particularly the concept of 'less is more' in relation to value maximisation and waste minimisation, which aligns closely with Agile methodologies. It mentions the Agile Manifesto and provides practical insights on backlog refinement and sprint planning, demonstrating a strong understanding of Agile practices. The depth of discussion is substantial, covering benefits and implementation strategies, which reinforces its relevance to Agile Project Management.",
     "level": "Secondary"
   },
   "Lean Thinking": {
@@ -391,30 +400,39 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and how the concept of 'less is more' applies, highlighting a core concept from the Agile Manifesto. However, it does not provide a comprehensive exploration of Agile Planning methods or practices.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses Agile principles, particularly the concept of 'less is more', which aligns closely with Agile Planning methodologies. It mentions backlog refinement and sprint planning, both of which are key practices in Agile. The depth of discussion is substantial, providing insights into prioritising value and eliminating non-essential tasks, which are critical for effective Agile Planning.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:40:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the Agile Manifesto concept of maximizing work not done, which is a fundamental Agile principle, and relates to the value of doing less to achieve more in the context of Agile.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the principle of 'less is more' in the context of Agile, directly referencing the Agile Manifesto and its emphasis on maximising work not done. It aligns well with the core themes of Agile values, such as prioritising value over volume and eliminating non-essential tasks. The depth of discussion is substantial, covering practical implementations and benefits of this principle within Agile practices, which enhances the overall understanding of Agile values.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Agile principle of maximizing the amount of work not done and touches on Kanban, which relates to optimising throughput and flow efficiency, but it does not deeply delve into specific flow efficiency techniques or metrics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:40:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the principle of 'Less is More' in Agile, which aligns with the concept of flow efficiency by emphasising the importance of maximising value and minimising waste. However, while it touches on relevant themes such as prioritising value and eliminating non-essential tasks, it lacks a direct focus on flow efficiency metrics or specific techniques for optimising throughput. The discussion is somewhat superficial and does not delve deeply into the core principles of flow efficiency, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -490,12 +508,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts related to the Agile Manifesto and mentions Kanban, indicating a secondary but relevant theme about Agile principles.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses Agile principles, particularly the concept of 'less is more' as it relates to maximising value and minimising waste, which aligns closely with Agile methodologies. It references the Agile Manifesto and provides practical strategies for implementing these principles, such as backlog refinement and sprint planning. The depth of discussion is substantial, covering benefits and practical applications, which supports a high confidence score.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -718,21 +739,27 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:12:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches upon Agile principles and the importance of focusing on value, implying aspects of self-organisation, but it primarily discusses the concept of 'less is more' without a strong focus on self-organisation practices or principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the principle of 'less is more' in Agile, which aligns with the concept of self-organisation by promoting value-driven work. However, it lacks direct mentions of self-organisation and does not delve deeply into the practices or principles that specifically enable teams to operate autonomously. The focus is more on efficiency and value rather than on the empowerment and collaboration aspects of self-organisation.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on Agile principles and the idea of maximizing value by doing less, which is relevant to the Agile Product Operating Model, but it lacks a strong focus on product-centric development and other key topics of the model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:40:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the principle of 'less is more' within Agile methodologies, which aligns with the Agile Product Operating Model's focus on maximising value delivery. It explicitly mentions Agile practices and principles, such as prioritising value over volume and eliminating non-essential tasks, which are key aspects of product-centric development. However, while it touches on relevant themes, it does not delve deeply into the broader aspects of the Agile Product Operating Model, such as cross-functional teams or continuous feedback mechanisms, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -754,11 +781,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles, particularly the focus on maximizing value and minimizing waste, which are relevant to market adaptability. However, it does not delve deeply into strategies or practices that enhance a business's ability to respond to market shifts.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile principles, particularly the 'less is more' approach, which aligns with the concept of maximising value and minimising waste. However, while it touches on aspects of market adaptability through Agile practices, it does not explicitly address strategies for responding to market shifts or competitive pressures. The focus is more on internal efficiency rather than external adaptability, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
@@ -817,12 +847,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the principle of 'less is more', which aligns with Lean concepts of maximizing value and minimizing waste, but it primarily centers around Agile and Kanban rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:40:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the principle of 'less is more' within the context of Agile methodologies, which aligns with Lean principles of maximising value and minimising waste. However, it primarily focuses on Agile practices rather than explicitly addressing Lean Product Development concepts. While there are strong connections to Lean thinking, the depth of discussion on Lean-specific tools and frameworks is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -853,29 +886,38 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:42:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Agile principle of focusing on value and maximizing work not done, which relates to strategic alignment in Agile. However, it primarily explores a philosophical approach rather than providing a strategic framework or detailed techniques.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses the principle of 'Less is More' within Agile, which aligns closely with strategic approaches to maximising value and minimising waste. It provides detailed insights into prioritising value, eliminating non-essential tasks, and implementing effective practices like backlog refinement and sprint planning. The conclusion reinforces the strategic focus in Agile, indicating a strong alignment with the category's core themes. Overall, the content is well-aligned with the Strategy category, demonstrating both depth and relevance.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content references Agile principles and the importance of focusing on valuable work, which aligns with operational efficiency themes, though it is more philosophical in nature and does not provide practical applications or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:40:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the principle of 'less is more' within Agile methodologies, which directly relates to operational efficiency and value maximisation. It provides detailed strategies for prioritising tasks, eliminating non-essential work, and implementing practices like backlog refinement and effective sprint planning. The discussion aligns well with the core themes of operational practices, focusing on process optimisation and continuous improvement, while also offering substantial depth in its exploration of these concepts.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:34:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the concept of 'less is more' in the context of Agile, specifically referencing the Agile Manifesto's principle of maximizing the amount of work not done. It aligns well with Agile Philosophy as it highlights value delivery and prioritizing important work, making it a primary topic.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the Agile philosophy of 'less is more', directly referencing the Agile Manifesto and its principles. It aligns well with core themes such as value delivery and continuous improvement, providing detailed insights into how this principle can be implemented in Agile practices. The depth of discussion is substantial, covering various aspects of prioritising value and eliminating non-essential tasks, which are central to the Agile mindset.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -964,11 +1006,14 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:59:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the importance of focusing on work that adds value, which aligns with the principles of Value Stream Management, but it primarily discusses general Agile concepts and does not delve deeply into Value Stream Management specifically.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the principle of 'less is more' within Agile, which aligns with the core themes of Value Stream Management, particularly in terms of maximising value and minimising waste. However, it primarily focuses on Agile practices rather than explicitly addressing Value Stream Management as a distinct category. While it touches on relevant concepts like prioritising value and eliminating non-essential tasks, it lacks a comprehensive exploration of Value Stream Management techniques, metrics, or case studies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scaling Scrum": {
@@ -1048,12 +1093,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of doing less to achieve more in the context of Agile and mentions value, but it is more focused on principles rather than specific discussions about working software delivery.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the principle of 'Less is More' in Agile, which indirectly relates to working software by emphasising value and quality. However, it lacks direct mentions of working software and does not delve deeply into specific practices or metrics for assessing software quality.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1066,12 +1114,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of doing less to achieve more, which aligns with Lean principles of value creation and waste reduction. However, the primary focus is on Agile methodologies rather than Lean itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the principle of 'less is more' within the context of Agile methodologies, which aligns with Lean principles of maximising value and minimising waste. However, the primary focus is on Agile practices rather than Lean itself, leading to a lower confidence score. While there are mentions of eliminating non-essential tasks and enhancing productivity, the depth of discussion on Lean-specific tools or methodologies is limited.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1093,12 +1144,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and their application, making it a significant but not exclusive focus on software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Agile methodologies, specifically the principle of 'less is more', which is a core aspect of software development practices. It directly mentions Agile and Kanban, aligning well with the key topics of the Software Development category. The depth of discussion is substantial, covering practical implementations and benefits of this principle in Agile practices, thus providing a comprehensive view of its relevance in software development.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1276,21 +1330,27 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:21:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on work that adds value, which relates to throughput, but it does not primarily address the measurement and optimization of throughput as the main topic.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the principle of 'less is more' in Agile, which aligns with the concept of throughput by emphasising the importance of maximising value and minimising waste. It mentions prioritising value over volume and eliminating non-essential tasks, which are relevant to optimising work completion rates. However, while it touches on throughput-related themes, it does not provide in-depth measurement techniques or specific strategies for improving throughput, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on Agile principles of doing less to maximize value and focuses on prioritizing valuable work, but it is not primarily about value delivery methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the principle of 'less is more' within Agile, focusing on maximising value and minimising waste, which aligns closely with the core themes of value delivery. It provides detailed strategies such as prioritising value over volume, eliminating non-essential tasks, and implementing effective sprint planning, all of which contribute to enhancing customer satisfaction and business agility. The depth of discussion is significant, covering various aspects of Agile practices that directly relate to value delivery.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1330,7 +1390,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T11:57:56",
+    "calculated_at": "2025-03-14T21:40:07",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1338,7 +1398,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile principles, particularly the concept of 'less is more' and maximising value, which aligns with some aspects of organisational change. However, it lacks a direct focus on organisational change strategies, frameworks, or leadership roles. The discussion is more centred on Agile practices rather than the broader context of organisational transformation, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1381,12 +1441,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:36:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content mentions principles related to Agile methodologies, such as the importance of focusing on valuable work and the concept of 'less is more', it primarily revolves around discussing these ideas rather than exploring broader strategies or frameworks that enable organisational agility.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the principle of 'Less is More' within Agile methodologies, which aligns with the core themes of organisational agility, particularly in terms of prioritising value and enhancing productivity. However, it primarily focuses on Agile practices rather than broader organisational strategies or cultural shifts, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1426,7 +1489,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:16:46",
+    "calculated_at": "2025-03-14T21:40:07",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1434,6 +1497,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile principles, which are relevant to Scrum, but it primarily discusses the concept of 'less is more' without a direct focus on Scrum roles, events, or artifacts. The reference to the Agile Manifesto indicates some alignment with Scrum's values, but the overall discussion leans more towards general Agile concepts and includes Kanban, which is outside the scope of Scrum. Therefore, while there are mentions of relevant ideas, the depth and direct focus on Scrum are insufficient for a higher confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

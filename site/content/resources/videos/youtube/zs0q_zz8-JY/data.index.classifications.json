@@ -49,12 +49,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which indirectly relates to the Scrum Values of respect and openness, but primarily focuses on misconceptions rather than the values themselves.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of a Scrum Master, emphasising servant leadership, autonomy, and collaboration, which align with the Scrum Values of commitment, courage, openness, and respect. However, it primarily focuses on the Scrum Master's role rather than directly addressing the Scrum Values themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -94,12 +97,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:24:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which touches on aspects of mentoring and leadership within Agile teams, but primarily focuses on misconceptions rather than providing direct guidance or coaching.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of a Scrum Master as a servant leader, which aligns closely with mentoring principles. It highlights the importance of facilitating team dynamics, encouraging autonomy, and fostering a culture of trust and collaboration, all of which are key aspects of effective mentoring. The depth of discussion on misconceptions and the path to mastery further supports the mentoring theme, although it does not explicitly mention mentoring techniques or emotional intelligence.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -112,7 +118,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T10:11:18",
+    "calculated_at": "2025-03-14T23:24:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -120,7 +126,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the role of a Scrum Master and challenges misconceptions about authority and control, which aligns with pragmatic thinking in Agile contexts. However, it lacks detailed practical problem-solving strategies or real-world applications, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -190,20 +196,26 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which is related to team dynamics and leadership within an agile context, but it primarily focuses on misconceptions rather than strategies or practices for enhancing team performance.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master as a servant leader, which directly relates to enhancing team dynamics and collaboration. It discusses misconceptions about authority and control, emphasising the importance of autonomy and trust within teams. The depth of discussion on the Scrum Master's role and its impact on team performance aligns well with the category, although it could benefit from more specific metrics or tools for measuring team effectiveness.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:26:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which is relevant to Agile methodologies and planning, but it primarily focuses on misconceptions rather than the core principles of Agile Planning.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of a Scrum Master, which is integral to Agile Planning, particularly in facilitating team dynamics and ensuring adherence to Scrum principles. It mentions key aspects of Agile, such as servant leadership and team autonomy, aligning well with Agile Planning concepts. However, the focus is more on the Scrum Master's role rather than on broader Agile Planning methodologies, which slightly limits the depth of discussion on planning itself.",
     "level": "Tertiary"
   },
   "Forecasting": {
@@ -337,12 +349,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which relates to Agile principles of servant leadership and team dynamics, but primarily focuses on misconceptions about Scrum rather than the core Agile values and principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:24:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a Scrum Master, which is tied to Agile principles, particularly servant leadership and team autonomy. However, it primarily focuses on the Scrum framework rather than the broader Agile values and principles. While it touches on concepts like empowerment and collaboration, it does not delve deeply into the Agile Manifesto or its core values, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -400,12 +415,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum roles and misconceptions, which are relevant to Agile methodologies in software development, but the focus is more on personal opinions rather than a comprehensive discussion of software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master within the Agile framework, which is a key aspect of software development methodologies. It discusses servant leadership, team dynamics, and the facilitative role of the Scrum Master, aligning well with core themes of Agile practices in software development. The depth of discussion is substantial, providing insights into misconceptions and the importance of autonomy and collaboration in teams, which are critical for effective software development. However, while it is rich in context, it does not delve deeply into broader software engineering practices or methodologies beyond Scrum, which slightly limits its overall alignment.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -454,12 +472,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:24:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of a Scrum Master, which is a key aspect of Agile transformation, but primarily focuses on misconceptions rather than broader Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master within the Agile framework, discussing servant leadership and team dynamics. While it does not explicitly mention Agile transformation strategies or methodologies in detail, it aligns with Agile principles and highlights the importance of empowering teams, which is a key aspect of Agile transformation. However, the depth of discussion on broader transformation strategies is limited, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -619,12 +640,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:24:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and touches on aspects of leadership and team dynamics, but it primarily focuses on misconceptions rather than strategies for enhancing team motivation.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master as a servant leader, which directly ties into team motivation by emphasising empowerment, autonomy, and collaboration. It discusses how a Scrum Master can foster a culture of trust and support within the team, aligning well with the key topics of team dynamics and motivation. The depth of discussion is substantial, providing insights into misconceptions and the importance of the Scrum Master's role in enhancing team performance. Overall, the content is highly relevant to the category of Team Motivation.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -664,12 +688,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:48:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which is related to Agile practices, but primarily focuses on misconceptions rather than the broader Agile philosophy. It touches on servant leadership, which aligns with Agile values, but does not delve deeply into the foundational principles of Agile as a mindset.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of a Scrum Master, focusing on servant leadership, team autonomy, and collaboration, which aligns with Agile principles. However, it primarily centres on the Scrum framework rather than the broader Agile philosophy, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -700,12 +727,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the role of the Scrum Master, which is a key aspect of Scrum, but does not focus on product development or Scrum practices in detail.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed exploration of the Scrum Master's role, emphasising servant leadership, team dynamics, and the facilitation of Scrum processes. It directly addresses misconceptions about authority and control, aligning well with Scrum principles. The depth of discussion on the Scrum Master's responsibilities and the importance of fostering autonomy and collaboration within the team further supports its relevance to Scrum Product Development.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -784,12 +814,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:40:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in relation to self-organisation, highlighting the misconception of authority and control, which aligns with the principles of self-organisation. However, the primary focus is on misconceptions rather than a deep exploration of self-organisation itself.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master as a servant leader, emphasising the importance of autonomy and empowerment within teams. It aligns well with the principles of self-organisation by highlighting how a Scrum Master should facilitate rather than control, fostering a culture of trust and collaboration. The depth of discussion is significant, addressing misconceptions and providing insights into how Scrum Masters can support self-organisation. Overall, the content is highly relevant to the category, with a strong focus on self-organisation principles.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -910,12 +943,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:04",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 29.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master and challenges misconceptions about authority, which aligns with coaching principles. However, it primarily focuses on the Scrum Master role rather than coaching techniques or practices.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content discusses the role of a Scrum Master as a servant leader, which aligns with coaching principles by emphasising facilitation, support, and empowerment of team members. It directly addresses misconceptions about authority and control, reinforcing the collaborative nature of coaching. However, while it touches on coaching concepts, it primarily focuses on the Scrum Master role rather than broader coaching techniques or frameworks, leading to a high but not perfect confidence score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -1003,12 +1039,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of a Scrum Master, which is a key aspect of the Scrum framework, but it does not provide a comprehensive exploration of Agile frameworks as a whole.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within the Scrum framework, discussing servant leadership and team dynamics, which are core aspects of Agile frameworks. It provides a detailed exploration of misconceptions and the importance of facilitation over control, aligning well with Agile principles. The depth of discussion is significant, offering insights into the practical application of Scrum, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -1021,12 +1060,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:24:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses misconceptions about the role of a Scrum Master, which is a significant aspect of Scrum principles, but it does not provide a comprehensive exploration of Scrum as a whole.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a thorough exploration of the Scrum Master role, emphasising the principles of servant leadership, which is a core aspect of Scrum. It directly addresses misconceptions about the Scrum Master's authority and responsibilities, aligning well with the key topics of Scrum roles and values. The depth of discussion is significant, offering insights into the practical implementation of Scrum principles, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1075,12 +1117,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which touches on team dynamics and leadership within a sociotechnical context, but it primarily focuses on misconceptions rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of servant leadership, which touches on team dynamics and organisational culture. However, it primarily focuses on the Scrum Master’s responsibilities and misconceptions rather than a broader exploration of sociotechnical systems. While there are elements of social and technical interplay, the discussion lacks depth in addressing how these aspects collectively influence software delivery and team effectiveness.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1192,12 +1237,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses misconceptions about a Scrum Master and mentions an advanced Scrum Master class, indicating a connection to a learning event, but the primary focus is on the role itself rather than the event.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and servant leadership, which are relevant to Agile practices. However, it does not focus on specific events or presentations, only briefly mentioning the recommendation to attend an advanced Scrum Master class. This mention is not sufficient to classify the content under the 'Events and Presentations' category as the primary focus is on theoretical concepts and personal insights rather than structured learning experiences or discussions about actual events.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -1339,12 +1387,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:24:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides a personal interpretation of the role of a Scrum Master, reflecting on common misconceptions and offering insights based on individual experience, but it primarily focuses on the role itself rather than personal anecdotes or experiences.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the author's personal reflections and experiences as a Scrum Master, discussing misconceptions and insights related to the role. It aligns well with the Personal category by sharing individual anecdotes and interpretations of servant leadership within Agile practices. The depth of discussion is substantial, providing detailed insights into the author's journey and the impact of their experiences on team dynamics. However, it does include some technical aspects of Scrum, which slightly detracts from the personal focus.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1381,11 +1432,14 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T21:47:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:25:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in a way that aligns with human-centric leadership principles, which is a theme within BetaCodex. However, it primarily focuses on Scrum roles rather than the broader principles of BetaCodex.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of a Scrum Master as a servant leader, which aligns with the human-centric approach of Beta Codex. However, it primarily focuses on Scrum practices rather than the broader principles of Beta Codex. While it touches on decentralisation and empowerment, it lacks in-depth exploration of Beta Codex principles and does not provide case studies or comparisons with traditional models.",
     "level": "Tertiary"
   },
   "Platform Engineering": {

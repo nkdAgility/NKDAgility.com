@@ -13,11 +13,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:33",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its implementation, which relates to Agile practices, but it primarily focuses on the philosophy and effectiveness of Scrum rather than specific practical techniques or tooling.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses Scrum and its implementation, touching on the importance of values and principles in achieving effectiveness. However, it primarily focuses on the philosophical aspects of Scrum rather than providing practical techniques or tooling. While it mentions the concept of 'Professional Scrum' and hints at methodologies, it lacks detailed exploration of specific tools or frameworks that enhance Agile practices.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -103,12 +106,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between Scrum practices and organisational effectiveness, touching on the importance of values and principles in software delivery, which aligns with sociotechnical themes. However, the primary focus is on Scrum mechanics rather than a broader sociotechnical analysis.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Scrum and its implementation within organisations, touching on the importance of values and principles in achieving effectiveness. However, it primarily focuses on Scrum as a framework rather than exploring the broader sociotechnical interactions between technology and organisational structures. While there are mentions of organisational effectiveness and team dynamics, the depth of discussion on sociotechnical systems is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -178,12 +184,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling Scrum and the importance of Professional Scrum, which relates to organisational agility, but primarily focuses on team-level practices without a broader organisational context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and its implementation at the team level, focusing on the concept of 'Professional Scrum' rather than addressing broader organisational agility. While it touches on the importance of values and principles in Scrum, it lacks a comprehensive exploration of enterprise-level agility frameworks, structures, or cultural implications. The discussion is more about effective Scrum practices than about how these practices scale to enhance organisational agility.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -214,11 +223,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of technical excellence within the context of Scrum and Agile methodologies, but the primary focus is on Scrum practices rather than engineering practices themselves.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of technical excellence within the context of Scrum, highlighting its role in achieving effectiveness and minimising technical debt. However, the primary focus is on Scrum practices rather than specific engineering methodologies or technical practices that enhance agility. While it mentions technical excellence, it does so in a secondary manner, making it less aligned with the core themes of the category.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -241,12 +253,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Agile methodologies, which are relevant to product delivery, but the primary focus is on the effectiveness of Scrum rather than the broader aspects of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Scrum and Agile methodologies, which are integral to product delivery. It highlights the importance of adhering to Scrum values and principles for effective product delivery, indicating a strong alignment with the category. However, while it provides insights into the effectiveness of Scrum, it lacks detailed exploration of other key aspects of product delivery, such as testing, deployment, and cross-functional teams.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -268,20 +283,26 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its implementation, which relates to Agile methodologies, but it primarily focuses on the concept of 'Professional Scrum' rather than specific products or literature.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum and its implementation, which aligns with Agile methodologies. However, it primarily focuses on the practice of Scrum rather than specific products or books. While it mentions the concept of Professional Scrum and references Jeff Sutherland, it lacks detailed analysis or reviews of specific literature or tools, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the effectiveness of Scrum and its principles in delivering customer value, but it primarily focuses on the concept of Professional Scrum rather than directly addressing value delivery strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of Professional Scrum and its principles, which aligns with value delivery concepts. However, it primarily focuses on the effectiveness of Scrum practices rather than specific strategies for delivering customer value. The mention of shipping features and minimising technical debt indicates some alignment with value delivery, but the depth of discussion is more about Scrum implementation than direct value delivery methodologies.",
     "level": "Tertiary"
   },
   "Azure DevOps": {
@@ -322,20 +343,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its principles, which are relevant to Agile methodologies, but the primary focus is on Scrum practices rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses Scrum and its implementation, focusing on the principles and values of Scrum rather than the broader Agile Product Operating Model. While it touches on aspects of value delivery and the importance of professional practices, it lacks a comprehensive exploration of product-centric development, cross-functional teams, and continuous feedback mechanisms that are central to the Agile Product Operating Model. Therefore, it aligns partially with the category but does not delve deeply into its core themes.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and its principles, highlighting the importance of adopting Agile values and practices for effective implementation. However, the primary focus is on Scrum mechanics rather than broader organisational agility strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum and Agile methodologies, highlighting the importance of values and principles in achieving effectiveness. While it touches on organisational practices and the need for cultural shifts, the primary focus is on Scrum as a framework rather than broader organisational agility strategies. The mention of Professional Scrum and its impact on productivity aligns with the category, but the depth of discussion is more centred on Scrum mechanics than on organisational agility as a whole.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -376,12 +403,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:57",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of technical excellence and minimising technical debt within the context of Scrum, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum and Agile methodologies, focusing on the importance of technical excellence and minimising technical debt. However, the primary focus is on Scrum practices rather than broader software craftsmanship principles. While it touches on technical excellence, it does not delve deeply into best practices, clean code, or specific engineering techniques, which limits its alignment with the Technical Mastery category.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -421,12 +451,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of values and principles in Scrum, which relates to organisational culture, but primarily focuses on Scrum practices and effectiveness.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of values and principles in Scrum, which relates to organisational culture. However, it primarily focuses on Scrum practices and technical excellence rather than a comprehensive exploration of organisational culture's role in Agile methodologies. The mention of organisations paying 'lip service' to Scrum hints at cultural issues but lacks depth in discussing how culture influences agility or team dynamics.",
+    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -457,12 +490,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:19",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its principles, which are relevant to Agile Planning, but the primary focus is on the effectiveness of Scrum rather than on planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum and the importance of adhering to its values and principles, which aligns with Agile Planning. However, it primarily focuses on the concept of 'Professional Scrum' and critiques the superficial application of Scrum, rather than providing a comprehensive exploration of Agile Planning methodologies or practices. The discussion lacks depth in terms of specific Agile Planning techniques or strategies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -484,20 +520,26 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the effectiveness of Scrum and the importance of adhering to its values and principles, which relates to operational practices in Agile. However, the primary focus is on the concept of Professional Scrum rather than specific operational techniques or strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of Professional Scrum and the pitfalls of merely following mechanical Scrum without embracing its values and principles. While it touches on operational efficiency by mentioning the desire to ship 'twice the features in half the time', the focus is more on the philosophy and principles of Scrum rather than specific operational practices or techniques. The discussion lacks depth in practical strategies or metrics for improving operational efficiency, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of Professional Scrum and the effectiveness of Scrum Teams, but it primarily focuses on the pitfalls of mechanical Scrum and the need for values and principles rather than the dynamics and collaboration within a Scrum Team.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the concept of a 'Professional Scrum Team' and the importance of adhering to Scrum values and principles, which aligns with the roles and responsibilities within a Scrum Team. However, it primarily focuses on the effectiveness of Scrum in a broader context rather than delving deeply into team dynamics, collaboration techniques, or specific roles. The mention of 'mechanical Scrum' suggests a critique of superficial practices, but it lacks detailed exploration of team interactions or communication strategies.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
@@ -646,11 +688,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of values and principles in Scrum, which relates to empirical process control, but primarily focuses on the concept of Professional Scrum and its effectiveness rather than empirical process control itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of Professional Scrum and the values and principles that underpin its effectiveness, which aligns with the core themes of empirical process control. However, it primarily focuses on the concept of 'mechanical Scrum' and the pitfalls of not adhering to Scrum principles, rather than explicitly discussing empirical process control itself. The mention of Jeff Sutherland and the emphasis on technical excellence and team dynamics contribute to the alignment, but the depth of discussion on empirical process control is somewhat limited.",
     "level": "Tertiary"
   },
   "Scrum Values": {
@@ -685,12 +730,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of Scrum and Agile methodologies within organisations, touching on the principles and values necessary for effective transformation. However, the primary focus is on Scrum practices rather than broader organisational change strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum and Agile methodologies, focusing on their implementation and effectiveness within organisations. While it touches on the need for organisations to adopt Professional Scrum to achieve better results, it does not delve into broader organisational change strategies or frameworks like ADKAR or Kotter's 8-Step Process. The discussion is more about the mechanics of Scrum rather than the principles of organisational change, which limits its alignment with the category.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -721,11 +769,14 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T22:02:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T17:01:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the concept of Professional Scrum and its importance in scaling Scrum effectively within organisations, making it a central theme.",
+    "final_score": 67.0,
+    "reasoning": "The content explicitly mentions 'Scaling Scrum' in the title and discusses the importance of Professional Scrum, which aligns with the core themes of maintaining Scrum principles while scaling. It provides a detailed exploration of the challenges organisations face when implementing Scrum effectively, touching on the need for values and principles, which is crucial for scaling. However, it lacks specific frameworks or methodologies for scaling Scrum, which slightly lowers the depth of discussion.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -748,12 +799,15 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling Scrum and the importance of Professional Scrum, which aligns with the theme of scaling agility, but primarily focuses on team-level practices rather than broader organisational strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses scaling Scrum, which is relevant to the category of Scaling Agility. However, it primarily focuses on the concept of Professional Scrum and the pitfalls of mechanical Scrum, rather than exploring broader strategies for scaling agility across an organisation. While there are mentions of organisational effectiveness and the need for values and principles, the depth of discussion on frameworks, leadership roles, or cross-team alignment is limited. Therefore, while there is some alignment with the category, it does not fully meet the criteria for a strong focus on Scaling Agility.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -805,11 +859,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T22:02:30",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:57:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the practical application of Scrum principles and the importance of enacting values and principles for effective outcomes, making it a major theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of Professional Scrum and the pitfalls of merely adopting a mechanical approach to Scrum. It highlights the need for values, principles, and technical excellence, which aligns with pragmatic thinking in Agile contexts. However, while it touches on practical applications and critiques ineffective practices, it lacks detailed strategies or case studies that would enhance its depth in pragmatic problem-solving. The focus is more on the critique of Scrum practices rather than a comprehensive exploration of pragmatic techniques.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -832,20 +889,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the principles and effectiveness of Scrum, particularly in the context of Professional Scrum and its application in organisations, but it does not focus primarily on product development processes.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of Professional Scrum and the principles behind effective Scrum practices, which aligns well with the core themes of Scrum Product Development. It mentions the roles and values of Scrum, the pitfalls of 'mechanical Scrum', and the need for technical excellence, indicating a strong conceptual alignment. However, while it touches on product development outcomes, it lacks detailed discussions on specific Scrum processes like sprint planning or backlog management, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling Scrum and the importance of Professional Scrum, indicating a major theme related to scaling Agile practices, but it primarily focuses on Scrum rather than broader scaled Agile frameworks.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses Scrum and its implementation, focusing on the concept of 'Professional Scrum' and the pitfalls of 'mechanical Scrum'. While it touches on scaling Scrum, it does not delve into broader frameworks for scaling Agile or enterprise-level strategies, which are key aspects of the Scaled Agile category. The discussion lacks depth in terms of coordination among multiple teams or enterprise-level transformation, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -886,12 +949,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:05",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the effectiveness of Scrum and the importance of adhering to its values and principles, which are related to delivering working software, but it primarily focuses on the concept of Professional Scrum rather than directly addressing the delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of Professional Scrum and the principles behind effective Scrum implementation, which aligns with the concept of delivering working software. However, it primarily focuses on the challenges and misconceptions surrounding Scrum rather than directly addressing the characteristics or delivery of working software itself. The mention of shipping features and technical excellence provides some relevance, but the depth of discussion on working software is limited.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1030,11 +1096,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of Professional Scrum and the values and principles that underpin effective teamwork, which aligns with team collaboration themes. However, it primarily focuses on the mechanics of Scrum rather than directly addressing team dynamics or collaboration techniques.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of Professional Scrum and the values and principles that underpin effective Scrum practices. While it touches on team dynamics and the need for a professional approach to Scrum, it primarily focuses on the mechanics of Scrum rather than explicitly exploring team collaboration techniques or shared ownership. The discussion lacks depth in terms of specific strategies for enhancing team communication or fostering a culture of trust, which are key aspects of the Team Collaboration category.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -1093,12 +1162,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of Professional Scrum and technical excellence, which are relevant to technical leadership, but the primary focus is on Scrum practices rather than direct leadership strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of Professional Scrum and the principles behind effective Scrum implementation, which aligns with the core themes of technical leadership. However, it primarily focuses on the concept of Scrum rather than broader technical leadership strategies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1201,11 +1273,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Scrum and the importance of adhering to its values and principles, which are relevant to the role of a Scrum Master, but it primarily focuses on the concept of Professional Scrum rather than the specific responsibilities or practices of a Scrum Master.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of 'Professional Scrum' and critiques the superficial application of Scrum principles, which indirectly relates to the role of a Scrum Master. However, it lacks direct references to the responsibilities or practices of a Scrum Master, focusing more on the broader implications of Scrum adoption rather than the specific role itself. The depth of discussion on Scrum Master responsibilities is minimal, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -1228,11 +1303,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-14T22:03:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:57:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation and effectiveness of Scrum within software development teams, focusing on the role of developers in adopting Agile methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the implementation and effectiveness of Scrum within software development teams, which directly relates to the role of software developers in Agile practices. It highlights the importance of adhering to Scrum values and principles, which aligns well with the core themes of the category. The depth of discussion includes specific references to Professional Scrum and the consequences of not fully embracing Agile methodologies, indicating a strong understanding of the subject matter. However, while the focus is on Scrum, it does not extensively cover other Agile or DevOps practices, which slightly limits its overall alignment.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1246,20 +1324,26 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of technical excellence and the principles underpinning Scrum, which are relevant to Agile engineering practices, but the primary focus is on Scrum as a framework rather than specific engineering practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses Scrum and its implementation, focusing on the importance of adhering to Scrum values and principles. While it touches on the need for technical excellence and minimising technical debt, which are relevant to engineering practices, the main focus is on Scrum as a framework rather than on core engineering practices like clean code, TDD, or CI/CD. Therefore, while there is some alignment with the category, it is not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:58:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses minimising technical debt as part of implementing Professional Scrum, making it a significant but secondary theme in the broader context of Scrum practices.",
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions minimising technical debt within the context of Professional Scrum, but the primary focus is on Scrum practices and principles rather than a detailed discussion of technical debt itself. While there is some alignment with the category's themes, the depth of discussion on technical debt is minimal, making it a secondary topic rather than a primary focus.",
     "level": "Tertiary"
   },
   "Sprint Review": {
@@ -1285,30 +1369,39 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the principles of Professional Scrum and the importance of values and principles in effective Scrum practices, which relates to self-organisation, but it primarily focuses on the critique of mechanical Scrum rather than self-organisation itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Scrum and the importance of adhering to its values and principles, which are related to self-organisation. However, it primarily focuses on the effectiveness of Scrum and the pitfalls of not fully embracing its framework, rather than explicitly exploring self-organisation as a primary topic. The mention of Professional Scrum hints at self-organisation but does not delve deeply into techniques or case studies that would strengthen the alignment with the category.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-14T22:03:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:57:23",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum, its principles, and the importance of enacting its values for effective implementation, making Agile frameworks a central theme.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Scrum, a specific Agile framework, and delves into the principles and values that underpin its effectiveness. It highlights the importance of Professional Scrum and contrasts it with 'mechanical Scrum', indicating a clear understanding of Agile principles. The depth of discussion is significant, as it explores the implications of Scrum practices on organisational performance and value delivery, aligning well with the core themes of the Agile Frameworks category.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:57:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of Scrum and the importance of adhering to Agile principles, which aligns with Agile Strategy as a secondary theme. However, the primary focus is on Scrum practices rather than broader strategic alignment.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the implementation of Scrum and the importance of adhering to Agile principles, which aligns with the Agile Strategy category. However, it primarily focuses on Scrum practices rather than broader strategic discussions. The mention of Professional Scrum and its effectiveness indicates some alignment with Agile strategy, but the depth of discussion is more technical than strategic.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",

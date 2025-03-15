@@ -184,11 +184,14 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of backlog refinement and the role of Developers in selecting work for the Sprint, which relates to self-organisation. However, the primary focus is on Scrum processes rather than self-organisation principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the importance of backlog refinement in Scrum, which indirectly relates to self-organisation by emphasising the need for Developers to understand their work and take ownership of it. However, it lacks a direct focus on self-organisation principles, techniques, or the role of leadership in fostering autonomy. The discussion is more about Scrum practices than the broader concept of self-organisation.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
@@ -223,21 +226,24 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of backlog refinement in Scrum, which is a significant aspect of Agile strategy. However, it primarily focuses on practical implementation rather than broader strategic alignment or planning.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the importance of backlog refinement within Scrum, which is a tactical aspect rather than a strategic discussion. While it touches on the need for alignment between the Product Owner and Developers, it lacks a broader strategic context or exploration of how these practices contribute to overall organisational goals or competitive advantage.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:08:37",
+    "calculated_at": "2025-03-15T02:42:13",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses Scrum roles and events, specifically focusing on backlog refinement, which is a technical aspect of the Scrum framework rather than the broader Agile philosophy.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -262,11 +268,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-13T21:53:40",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-13T16:58:09",
+    "ai_confidence": 92.0,
+    "ai_mentions": 95.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "Content primarily discusses the importance of backlog refinement within the Scrum framework, detailing roles, responsibilities, and best practices that align closely with Agile Project Management principles.",
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the importance of backlog refinement within the Scrum framework, highlighting roles such as the Product Owner and Developers, and emphasising iterative development and collaboration. It provides detailed insights into Scrum events, particularly Sprint Planning, and the necessity of having a well-prepared Product Backlog, which aligns closely with Agile Project Management principles.",
     "level": "Primary"
   },
   "Lean Startup": {
@@ -307,12 +316,15 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of having a working agreement between the Product Owner and Developers regarding backlog readiness, which is a key aspect of working agreements. However, the primary focus is on backlog refinement and Scrum processes, making working agreements a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of refinement in Scrum and mentions the need for a working agreement between the Product Owner and Developers. However, the primary focus is on backlog refinement rather than explicitly exploring working agreements as a standalone topic. While it touches on the concept of working agreements, it does not delve deeply into their creation, implementation, or broader implications for team dynamics.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -343,20 +355,26 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of backlog refinement in Scrum, which indirectly relates to decision-making processes within teams. However, the primary focus is on Scrum roles and events rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of backlog refinement in Scrum, which indirectly relates to decision-making processes within teams. However, it primarily focuses on Scrum practices rather than structured, evidence-based methodologies for decision-making. While there are mentions of how developers should understand backlog items and make decisions based on their understanding, the overall emphasis is on Scrum roles and events rather than a comprehensive exploration of decision-making frameworks or empirical evidence.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-13T21:53:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:42:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the responsibilities and practices of the Product Owner in relation to backlog refinement, which is central to their role in Agile and Scrum.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the responsibilities of the Product Owner in managing the Product Backlog and ensuring that it is refined and ready for the development team. It discusses the importance of collaboration between the Product Owner and Developers, which aligns well with the key topics of stakeholder engagement and backlog management. The depth of discussion is significant, providing detailed insights into refinement processes and the implications of inadequate backlog preparation. However, while the Product Owner is a central figure in the discussion, the content also touches on the roles of Developers and Scrum Teams, which slightly dilutes the primary focus on the Product Owner.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -370,20 +388,26 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of backlog refinement and its impact on team dynamics, particularly focusing on the roles of the Product Owner and Developers in Scrum. While it primarily addresses backlog management, it also touches on collaboration aspects within the Scrum team, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of backlog refinement within Scrum teams, which indirectly relates to team collaboration by emphasising the need for shared understanding and communication among team members. However, it primarily focuses on the technical aspects of backlog management rather than broader themes of team dynamics, trust, or psychological safety. While it touches on collaboration, it does not delve deeply into strategies or tools that enhance teamwork, thus limiting its alignment with the category.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-13T21:54:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:42:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of backlog refinement in the context of Agile methodologies, specifically Scrum, and how it impacts sprint planning and team effectiveness.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the importance of backlog refinement within the Scrum framework, which is a critical aspect of Agile planning. It discusses techniques for managing the Product Backlog, the significance of having a 'ready' backlog for effective Sprint Planning, and the role of the Scrum Team in this process. The depth of discussion is substantial, providing insights into how refinement impacts team performance and project delivery. However, while it aligns well with Agile Planning Tools, it does not explicitly mention specific tools like Jira or Trello, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Team Motivation": {
@@ -397,12 +421,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of backlog refinement within the Scrum framework, which is a key Agile practice. While it touches on aspects of Agile methodology, it primarily focuses on technical practices rather than strategic alignment or broader Agile strategy discussions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of backlog refinement within the Scrum framework, which is a specific practice rather than a strategic discussion. While it touches on the importance of having a refined backlog for effective Sprint Planning, it lacks a broader discussion on how these practices align with organisational vision or long-term Agile strategy. The depth of discussion is more about execution than strategic integration, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -460,20 +487,26 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-13T21:54:14",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:42:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of backlog refinement and how it relates to the Developers' ability to estimate and select work for the Sprint, indicating that estimation is a significant theme, though not the primary focus.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of backlog refinement and how it relates to the ability of Developers to estimate and select items for a Sprint. It explicitly mentions the need for Developers to understand backlog items to make accurate estimations, aligning well with the core themes of estimation in Agile. The depth of discussion includes practical advice on refining the backlog and measuring effectiveness, which contributes to a higher confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-13T21:54:16",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T02:42:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities of the Scrum Team, particularly focusing on the importance of backlog refinement and its impact on the Development Team's ability to deliver value during Sprints.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the roles and responsibilities of the Scrum Team, particularly focusing on the importance of backlog refinement and the collaboration between the Product Owner and Developers. It provides detailed insights into how refinement impacts team performance and the dynamics of the Scrum Team, aligning well with the core themes of the category. The depth of discussion is substantial, covering practical techniques for refinement and the implications of poor backlog management on team effectiveness.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -496,20 +529,26 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-13T21:54:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:42:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of backlog refinement in Scrum, focusing on the role of developers in understanding and selecting backlog items for sprints, which aligns closely with Agile methodologies and the responsibilities of software developers.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the role of developers within the Scrum framework, particularly focusing on the importance of backlog refinement and its impact on the developers' ability to plan and execute sprints effectively. It directly mentions developers multiple times, emphasising their responsibilities and the need for their understanding of backlog items. The discussion aligns well with Agile methodologies and highlights best practices that enhance developer productivity and collaboration. The depth of the content is significant, providing detailed insights into the refinement process and its implications for developers, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:27",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of backlog refinement and its impact on Sprint Planning and Sprint Review, making it a major but secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses backlog refinement and its importance for Sprint Planning, with only a brief mention of the Sprint Review. While it touches on the implications of refinement for the Sprint Review, it does not focus on the review process itself or the roles and responsibilities during that event. The depth of discussion is more aligned with backlog management than with the Sprint Review specifically.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
@@ -523,11 +562,14 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:42:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of having a refined Product Backlog and mentions the Definition of Done as a factor that influences the Developers' confidence in Sprint planning. However, the primary focus is on backlog refinement rather than the Definition of Done itself.",
+    "final_score": 59.0,
+    "reasoning": "The content briefly mentions the Definition of Done in the context of Sprint Planning and backlog refinement, indicating its importance for Developers to understand what they are working on. However, the primary focus of the content is on backlog refinement rather than a detailed exploration of the Definition of Done itself. While it does touch on the relationship between understanding backlog items and the Definition of Done, it lacks depth and comprehensive discussion on the criteria and best practices associated with the Definition of Done.",
     "level": "Tertiary"
   },
   "Portfolio Management": {
@@ -541,11 +583,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-13T21:54:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:42:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of backlog refinement within the Scrum framework, which is a key aspect of Agile practices. It addresses the roles of Scrum Team members and the need for effective planning and understanding of backlog items, aligning well with Agile transformation principles.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the importance of backlog refinement within the Scrum framework, which is a key aspect of Agile practices. It explicitly mentions Scrum roles and events, indicating a focus on Agile methodologies. However, while it touches on Agile principles, it lacks broader discussions on organisational transformation, change management, or leadership roles, which are critical for a comprehensive Agile transformation narrative.",
     "level": "Secondary"
   },
   "AI": {
@@ -658,11 +703,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-13T21:54:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:42:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of backlog refinement within the Scrum framework, detailing roles, events, and practices that align with Agile principles.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on Scrum, a specific Agile framework, discussing the importance of backlog refinement and its impact on Sprint Planning. It provides detailed insights into Scrum roles, events, and practices, aligning closely with the core themes of Agile frameworks. The depth of discussion is significant, offering practical advice and examples, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -778,12 +826,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-13T21:55:02",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T02:42:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the importance of refining the Product Backlog, the role of the Product Owner, and the impact of backlog readiness on Sprint Planning, making it central to the topic of Product Backlog management.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of refining the Product Backlog, detailing how it impacts Sprint Planning and team performance. It provides a thorough exploration of the refinement process, the roles of the Product Owner and Developers, and the implications of a poorly managed backlog. The depth of discussion on techniques for refinement and the relationship between backlog readiness and Sprint success strongly aligns with the core themes of the Product Backlog category.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -796,12 +847,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-13T21:55:05",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T02:42:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses the importance of Product Backlog refinement within the Scrum framework, detailing roles, events, and practices that align closely with Scrum principles.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of backlog refinement within the Scrum framework, directly referencing Scrum roles, events, and principles. It provides a detailed examination of how refinement impacts Sprint Planning and team performance, aligning well with the core themes of Professional Scrum. The depth of discussion is significant, offering practical advice and insights into the refinement process, which is crucial for Scrum teams.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -832,11 +886,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-13T21:55:10",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T02:42:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "Content primarily discusses the importance of Product Backlog refinement within the Scrum framework, detailing roles, processes, and best practices related to Scrum product development.",
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the importance of Product Backlog refinement, a key aspect of Scrum Product Development. It directly mentions Scrum roles, such as the Product Owner and Developers, and elaborates on the Sprint Planning process, which aligns well with the core themes of the category. The depth of discussion is significant, providing detailed insights into how to effectively manage the Product Backlog and the implications of inadequate refinement. Overall, the content is highly relevant and focused on Scrum practices.",
     "level": "Primary"
   },
   "Product Validation": {
@@ -877,12 +934,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:42:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of backlog refinement and the role of Developers in selecting work for the Sprint, which touches on accountability in terms of ownership and responsibility within the team. However, the primary focus is on Scrum processes rather than a deep exploration of accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of backlog refinement and the role of Developers in selecting work for the Sprint, which touches on accountability in terms of ownership and responsibility. However, it primarily focuses on the technical aspects of Scrum processes rather than a deep exploration of accountability as a principle. While there are mentions of team dynamics and the need for Developers to understand their tasks, the discussion lacks a comprehensive examination of accountability's impact on trust and collaboration within Agile teams.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -904,29 +964,38 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T21:55:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:42:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in facilitating backlog refinement and its importance in the Scrum process, including interactions with the Product Owner and Developers.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the importance of backlog refinement within the Scrum framework, highlighting the Scrum Master's role in facilitating this process. It mentions the Scrum Team, including the Scrum Master, and provides detailed insights into how refinement impacts Sprint Planning and team dynamics. The focus on the Scrum Master’s involvement in guiding workshops and ensuring effective collaboration aligns well with the category's core themes.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-13T21:55:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:42:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of backlog refinement in Scrum, which is a key operational practice aimed at enhancing efficiency and delivery within Agile frameworks. It provides practical strategies for optimising the backlog and ensuring that the development team can effectively plan and execute their work, aligning well with the category's focus on operational practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the importance of backlog refinement within the Scrum framework, which is a key operational practice in Agile methodologies. It discusses techniques for optimising the backlog to enhance the efficiency of Sprint Planning and delivery. The depth of discussion includes practical steps for conducting refinement sessions and monitoring their effectiveness, aligning well with the category's focus on operational efficiency. The content does not merely mention operational practices but delves into specific strategies and their implications for team performance.",
     "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-13T21:55:24",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T02:42:47",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses Scrum practices, specifically the importance of backlog refinement in the context of the Scrum framework, which is a key aspect of Agile software development methodologies.",
+    "final_score": 84.0,
+    "reasoning": "The content extensively discusses the importance of backlog refinement within the Scrum framework, a key aspect of Agile methodologies in software development. It provides detailed insights into the roles of Scrum Team members, the significance of having a well-prepared Product Backlog, and practical advice on conducting refinement sessions. The focus on Scrum practices aligns closely with the core themes of software development, particularly in relation to Agile frameworks and best practices. The depth of discussion is substantial, offering actionable guidance and reflecting a strong understanding of the subject matter.",
     "level": "Primary"
   },
   "Continuous Delivery": {
@@ -958,47 +1027,62 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of backlog refinement and its impact on the Scrum process, which relates to technical leadership in guiding teams. However, it primarily focuses on Scrum practices rather than broader technical leadership principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the importance of backlog refinement in Scrum, which is a key aspect of agile methodologies. While it touches on the role of the Developers and the Product Owner, it lacks a broader discussion on technical leadership principles, such as mentoring, coaching, or fostering team dynamics. The focus is more on process than on leadership strategies, which diminishes its alignment with the category of Technical Leadership.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of refining the Product Backlog to ensure that items are ready for the Sprint, which is related to delivering a quality Increment. However, the primary focus is on backlog refinement rather than the Increment itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of backlog refinement in relation to delivering a potentially shippable product increment. It highlights how a well-refined backlog contributes to the quality and completeness of the Increment, aligning with the core themes of the category. However, while it touches on the Increment concept, the primary focus is on backlog management rather than the Increment itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-13T21:55:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:42:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of backlog refinement in Scrum, which is a key aspect of Agile Planning. It focuses on how proper refinement impacts Sprint Planning and overall project delivery, aligning well with Agile principles.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the importance of backlog refinement within the Scrum framework, which is a key aspect of Agile Planning. It discusses how proper refinement impacts Sprint Planning and the overall effectiveness of Agile practices. The depth of discussion includes specific strategies for refining the backlog, the role of the Product Owner and Developers, and the implications of inadequate refinement on project delivery. This aligns well with the core themes of Agile Planning, particularly in optimising delivery through iterative planning and feedback loops.",
     "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of backlog refinement and its impact on Sprint Planning, which indirectly relates to forecasting by emphasising the need for Developers to understand their capacity and past performance to make informed Sprint forecasts. However, the primary focus is on backlog management rather than forecasting methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of backlog refinement and its impact on Sprint Planning, which indirectly relates to forecasting by emphasising the need for Developers to understand their capacity and past performance. However, it lacks a direct focus on forecasting methodologies or empirical data usage, making it more about backlog management than forecasting itself.",
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-13T21:55:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:42:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for refining the Product Backlog within a Scrum framework, emphasising the importance of preparation for Sprint Planning and the real-world application of Scrum principles to enhance team effectiveness.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the importance of backlog refinement in Scrum, which is a practical problem-solving strategy within Agile frameworks. It provides detailed insights into how to effectively prepare a Product Backlog for Sprint Planning, emphasising real-world applications and the necessity of understanding tasks to ensure quality outcomes. The depth of discussion on techniques for navigating complexity in project management and the role of experience in decision-making further aligns it with the category of Pragmatic Thinking.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -1075,12 +1159,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of backlog refinement in Scrum, which indirectly relates to flow efficiency by ensuring that work items are well understood and appropriately sized for sprints. However, the primary focus is on Scrum roles and processes rather than directly on optimising throughput or eliminating bottlenecks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of backlog refinement in Scrum, which indirectly relates to flow efficiency by ensuring that work items are well understood and appropriately sized for sprints. However, the primary focus is on Scrum practices rather than directly addressing flow efficiency principles, techniques, or metrics. The discussion lacks depth in terms of flow efficiency concepts and does not provide specific strategies for optimising throughput or eliminating bottlenecks.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1258,12 +1345,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices, particularly backlog refinement, which is a key aspect of Agile methodologies. While it touches on principles that can enhance organisational agility, the primary focus is on Scrum roles and events rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices, particularly backlog refinement, which is a specific aspect of Agile methodologies. While it touches on themes of team collaboration and the importance of understanding tasks for effective Sprint planning, it lacks a broader discussion on organisational agility as a whole. The content does not explore cultural shifts, leadership roles, or strategies for enhancing adaptability beyond the Scrum framework, which limits its alignment with the category's core themes.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -1288,12 +1378,12 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:37",
+    "calculated_at": "2025-03-15T02:42:13",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses Scrum roles and events, focusing on backlog refinement and its impact on the development process. While it touches on team dynamics and the importance of communication within the Scrum framework, it does not deeply explore the broader sociotechnical interactions or organisational structures that influence software delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1369,11 +1459,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:43:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses Scrum practices, particularly the importance of backlog refinement, which is a key aspect of Agile methodologies. However, it does not explicitly address the broader Agile Product Operating Model or its principles, making it a secondary theme rather than the primary focus.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the importance of backlog refinement within the Scrum framework, which is a key aspect of Agile methodologies. While it touches on principles of product-centric development and the role of cross-functional teams, it does not fully explore the broader Agile Product Operating Model or its strategic implications. The focus is more on Scrum practices rather than a comprehensive discussion of the Agile Product Operating Model, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Beta Codex": {

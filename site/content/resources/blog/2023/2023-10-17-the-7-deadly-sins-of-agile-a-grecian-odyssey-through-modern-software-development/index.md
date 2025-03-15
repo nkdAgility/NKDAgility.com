@@ -31,13 +31,6 @@ tags:
 - Software Development
 - People and Process
 - Agile Philosophy
-- Agile Values and Principles
-- Agile Project Management
-- Software Developers
-- Agile Transformation
-- Agile Strategy
-- Agile Product Management
-- Agile Frameworks
 categories:
 - Social Technologies
 - Scrum

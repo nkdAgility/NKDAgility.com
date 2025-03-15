@@ -26,10 +26,8 @@ preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
 isShort: false
 tags:
-- Software Developers
 - Software Development
-- People and Process
-- Agile Values and Principles
+- Software Developers
 - Pragmatic Thinking
 sitemap:
   filename: sitemap.xml

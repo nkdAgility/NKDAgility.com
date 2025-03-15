@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/back-to-the-grind
 categories: []
 preview: nakedalm-logo-128-link-2-2.png
-tags:
-- Personal
+tags: []
 
 ---
 Well that's my paternity leave over, I cant believe that it has been two weeks! Well I got a gorgeous  baby girl out of it:

@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Software Development
 - Practical Techniques and Tooling
-- Pragmatic Thinking
 categories: []
 preview: image11-1-1.png
 

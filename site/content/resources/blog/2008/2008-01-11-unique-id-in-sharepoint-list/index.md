@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/unique-id-in-sharepoint-list
 - /unique-id-in-sharepoint-list
 - /resources/blog/unique-id-in-sharepoint-list
-tags:
-- Troubleshooting
+tags: []
 categories: []
 preview: metro-sharepoint-128-link-2-1.png
 

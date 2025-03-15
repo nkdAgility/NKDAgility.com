@@ -214,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:18:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to SMTP configuration and provides a solution, which touches on engineering practices. However, it primarily focuses on a specific problem and its resolution rather than broader engineering methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to SMTP configuration in IIS, which is a practical engineering problem. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility or quality in software development. While it does provide a solution to a technical problem, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, while there is some relevance, the overall focus is more on troubleshooting than on the principles of technical excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -241,7 +244,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T18:12:52",
+    "calculated_at": "2025-03-15T07:18:17",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -249,7 +252,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily addresses a technical issue related to email delivery in a specific software environment, focusing on troubleshooting and configuration rather than the broader methodologies and practices of product delivery. While it touches on aspects of deployment and configuration, it lacks a comprehensive discussion on product delivery principles such as Agile methodologies, iterative development, or cross-functional team roles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -490,11 +493,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:18:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides a practical solution to an operational issue regarding email sending in IIS, demonstrating a specific operational practice but does not directly link to broader Agile, DevOps, or Lean methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily addresses a technical issue related to email delivery in IIS, providing a step-by-step solution to a specific problem. While it touches on operational practices by discussing the configuration of the SMTP service, it lacks a broader focus on enhancing operational efficiency or delivery within Agile, DevOps, or Lean frameworks. The discussion is more about troubleshooting than about optimising processes or implementing methodologies that improve overall performance.",
     "level": "Tertiary"
   },
   "Scrum Team": {

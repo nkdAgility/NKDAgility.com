@@ -26,6 +26,15 @@ duration: 2977
 isShort: false
 tags:
 - People and Process
+- Resilience and Change
+- Organisational Agility
+- Organisational Change
+- Events and Presentations
+- Pragmatic Thinking
+- Change Management
+- Discovery and Learning
+- Business Agility
+- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -8,7 +8,7 @@ ResourceImportId: 4049
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2011-11-19
-weight: 630
+weight: 575
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,15 +28,15 @@ aliasesArchive:
 - /resources/blog/are-you-doing-scrum-really
 tags:
 - Software Development
+- Agile Frameworks
 - Agile Project Management
 - Scrum Product Development
-- Scrum Master
-- People and Process
 - Professional Scrum
+- People and Process
+- Scrum Master
+- Agile Product Management
+- News and Reviews
 - Software Developers
-- Team Performance
-- Agile Frameworks
-- Agile Transformation
 categories:
 - Social Technologies
 - Scrum

@@ -41,15 +41,15 @@ categories:
 - Social Technologies
 tags:
 - Scaling Scrum
-- Scaled Agile
-- Product Delivery
-- Professional Scrum
+- Increment
 - Scrum Product Development
+- Product Delivery
+- Scaled Agile
+- Professional Scrum
+- Software Development
+- Agile Project Management
 - Transparency
-- Agile Frameworks
-- Large Scale Agility
-- Scrum Team
-- Scaling Agility
+- Accountability
 
 ---
 The Definitive Guide to Scaling Scrum with Nexus

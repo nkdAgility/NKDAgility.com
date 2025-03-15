@@ -26,6 +26,15 @@ duration: 198
 isShort: false
 tags:
 - Agile Planning Tools
+- Agile Planning
+- Agile Product Management
+- Agile Project Management
+- Pragmatic Thinking
+- Scrum Product Development
+- Software Development
+- Software Developers
+- Practical Techniques and Tooling
+- Coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6

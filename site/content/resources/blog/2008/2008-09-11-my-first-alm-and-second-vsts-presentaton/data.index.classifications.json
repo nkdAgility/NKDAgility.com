@@ -325,7 +325,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-10T15:10:21",
+    "calculated_at": "2025-03-15T07:29:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -333,7 +333,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on personal experiences related to presentations and team dynamics, but lacks a focused discussion on structured methodologies or the interplay between human behaviour and processes. While there are mentions of collaboration and personal reflections on roles, the overall emphasis is more on individual experiences rather than a comprehensive exploration of team dynamics or process improvement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -670,12 +670,12 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:18",
+    "calculated_at": "2025-03-15T07:29:20",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content mentions developers and discusses experiences related to a presentation, but it primarily focuses on a personal account rather than the Agile or DevOps practices relevant to software development.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -724,7 +724,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T10:45:38",
+    "calculated_at": "2025-03-15T07:29:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -732,7 +732,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on software development through the mention of a presentation related to ALM (Application Lifecycle Management) and VSTS (Visual Studio Team Services). However, the primary focus is on personal experiences and reflections rather than a detailed discussion of software development methodologies or practices. The alignment with core themes is weak, as it lacks depth in discussing relevant software engineering concepts, and the overall content is more anecdotal than instructional.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1402,7 +1402,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:58:00",
+    "calculated_at": "2025-03-15T07:29:20",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1410,6 +1410,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content does not explicitly mention Scrum or its principles, roles, or events. While there is a brief mention of a presentation and some aspects of project management, it lacks a clear focus on Scrum as a framework. The discussion is more about personal experiences and perceptions related to a role in technology consultancy rather than the Scrum methodology itself.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

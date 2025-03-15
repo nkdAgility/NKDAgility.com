@@ -28,12 +28,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of an organisational change backlog and its importance in making Scrum successful, which aligns with backlog management. However, the primary focus is on Scrum fundamentals and the challenges faced in its implementation, making the Product Backlog a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:38:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Scrum principles and practices but does not explicitly focus on the Product Backlog. While it mentions the creation of an 'organisational change backlog', this is not the primary focus of the discussion. The content primarily revolves around the APS approach and Scrum mastery, lacking detailed exploration of backlog management techniques, roles, or best practices.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -49,20 +52,26 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:38:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum in the context of organisational processes and dynamics, particularly focusing on the concept of 'barnacles' that accumulate over time, which can be seen as a metaphor for organisational inefficiencies. However, the primary focus remains on Scrum practices rather than a comprehensive exploration of systems thinking or organisational dynamics.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Applied Professional Scrum (APS) methodology and its practical applications within Scrum teams. While it touches on organisational dynamics through the metaphor of 'barnacles' and mentions creating an 'organisational change backlog', the focus remains on Scrum practices rather than a comprehensive exploration of systems thinking or organisational behaviour. The discussion lacks depth in terms of systems thinking principles and does not explicitly address the interplay of organisational structure, culture, or processes, which are central to the category of Organisational Physics.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:37:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the EPS in preparing teams for Scrum and includes exercises that facilitate team improvement and self-discovery, which are coaching-related themes. However, the primary focus is on Scrum processes rather than coaching itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the Applied Professional Scrum (APS) and its role in enhancing Scrum practices, which indirectly relates to coaching by emphasising team development and introspection. However, it lacks explicit discussions on coaching techniques, the role of a coach, or fostering a growth mindset, which are central to the Coaching category. The focus is more on Scrum methodologies than on the coaching process itself.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
@@ -85,7 +94,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:40:17",
+    "calculated_at": "2025-03-14T22:37:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -93,7 +102,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses Scrum practices and methodologies, which are relevant to product management but focuses more on the technical implementation of Scrum rather than the strategic aspects of product management. While it touches on the importance of aligning Scrum practices with organisational needs, it lacks a broader discussion on product management frameworks, customer feedback prioritisation, or metrics for product success, which are key themes in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -145,12 +154,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:38:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of identifying and addressing ineffective practices within Scrum, which relates to decision-making processes in Agile environments. However, the primary focus is on Scrum practices rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the Applied Professional Scrum (APS) and its role in Scrum mastery, focusing on personal experiences and reflections rather than structured decision-making methodologies. While it touches on the importance of feedback and collaboration, it lacks explicit discussions on evidence-based practices or frameworks for decision-making, which are central to the category. The content is more anecdotal and does not provide substantial depth on decision-making principles.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -253,11 +265,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:38:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of refining Scrum practices and identifying ineffective elements ('barnacles') within the Scrum process, which aligns with strategic improvement in Agile environments. However, the primary focus is on Scrum roles and practices rather than broader strategic alignment or planning.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Applied Professional Scrum (APS) and its role in enhancing Scrum practices, which aligns with strategic approaches within Agile frameworks. It mentions the importance of delivering a usable product and reflects on the need for continuous improvement by identifying and removing ineffective practices ('barnacles'). However, while it touches on strategic elements, the primary focus is more on Scrum practices and personal experiences rather than a comprehensive strategic discussion. Therefore, the confidence score reflects a moderate alignment with the Strategy category.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
@@ -388,11 +403,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum practices and the importance of understanding core Scrum principles, but it primarily focuses on specific Scrum roles and events rather than the underlying Agile values and principles.",
+    "calculated_at": "2025-03-14T22:38:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content primarily discusses the Applied Professional Scrum (APS) and its practices, which are specific to the Scrum framework. While it touches on the importance of delivering a usable product and reflects on the need for teams to shed ineffective practices ('barnacles'), it does not explicitly discuss the Agile values or principles as outlined in the Agile Manifesto. The focus is more on Scrum methodologies rather than the foundational beliefs of Agile, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -424,12 +442,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:37:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Scrum that relate to organisational change, particularly in the context of improving Scrum practices and addressing inefficiencies ('barnacles'). However, the primary focus is on Scrum roles and processes rather than a comprehensive exploration of change management principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) methodology and its principles, with only brief references to organisational change through the 'organisational change backlog'. While it touches on the importance of adapting Scrum practices, it lacks a comprehensive discussion on change management strategies, stakeholder engagement, or leadership roles in transformation, which are central to the Change Management category.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -529,11 +550,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-12T03:09:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:15:50",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of having a working usable product at the end of each iteration in Scrum, which aligns with the concept of Increment. However, it also delves into broader topics about Scrum practices and organisational challenges, making Increment a major but secondary theme.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of having a working product at the end of each iteration, which aligns with the Increment concept. However, it primarily focuses on the APS approach and Scrum mastery rather than providing a detailed exploration of Increments themselves. The mention of tangible, working products is significant but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Windows": {
@@ -574,11 +598,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T03:09:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:37:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for improving Scrum implementation, including identifying and addressing inefficiencies ('barnacles') in the process. It emphasises real-world applications of Scrum principles and the importance of adaptability in Agile environments, aligning well with the category of Pragmatic Thinking.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the Applied Professional Scrum (APS) and its practical applications in Scrum environments, highlighting the importance of tangible outcomes and the need to eliminate ineffective practices ('barnacles'). It provides a real-world analogy and a specific exercise aimed at improving team performance, which aligns with pragmatic thinking. However, while it touches on practical problem-solving, the focus is more on APS and Scrum principles rather than a broader discussion of pragmatic thinking strategies.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -592,12 +619,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T03:10:00",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-13T16:46:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses Scrum roles, principles, and practices, including the importance of maintaining core Scrum fundamentals and addressing deviations from them.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Scrum, including its principles, roles, and the importance of iterative development. It highlights the significance of delivering a usable product at the end of each iteration, which aligns closely with agile principles. The depth of discussion on the APS approach and its exercises further reinforces its focus on agile methodologies, making it a strong fit for the category.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -610,11 +640,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:38:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the importance of maintaining core Scrum principles, which aligns with Agile methodologies. However, it primarily focuses on technical practices and specific Scrum roles rather than a broader Agile strategy context.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the Applied Professional Scrum (APS) and its role in enhancing Scrum practices. While it touches on Agile principles, the focus is more on Scrum-specific practices rather than broader Agile strategy. The mention of creating an 'organisational change backlog' hints at strategic planning, but the overall discussion lacks depth in terms of organisational vision alignment and broader Agile methodologies. Therefore, while there are relevant elements, they do not constitute a primary focus on Agile Strategy.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
@@ -655,20 +688,26 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:38:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of identifying and addressing 'barnacles' in Scrum processes, which indirectly relates to team dynamics and improvement. However, the primary focus is on Scrum implementation rather than explicit team motivation strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Applied Professional Scrum (APS) methodology and its principles, with a focus on Scrum practices and the importance of delivering a usable product. While there are elements that touch on team dynamics, such as the 'Barnacle Exercise' aimed at helping teams identify and shed ineffective practices, the overall emphasis is on technical implementation and Scrum processes rather than on strategies for enhancing team motivation or engagement. The discussion lacks a strong focus on the psychological and social aspects of team dynamics, which are central to the 'Team Motivation' category.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-12T03:10:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:03:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the effectiveness of Scrum practices and methodologies, focusing on improving team dynamics and performance through the identification and removal of ineffective practices ('barnacles'). It also touches on exercises that promote team collaboration and retrospectives, which are central to enhancing team performance in an Agile context.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the Applied Professional Scrum (APS) and its role in enhancing team effectiveness and collaboration within Scrum frameworks. It explicitly mentions team dynamics, the importance of tangible products, and introspective exercises aimed at improving team performance. The depth of discussion includes practical exercises and reflections that align well with the category's focus on methodologies for maximising team collaboration and effectiveness. However, while the content is rich in relevant themes, it does not delve deeply into metrics or specific leadership roles, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "AI": {
@@ -718,11 +757,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T03:10:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:24:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Scrum practices and the importance of maintaining core Scrum principles, which aligns with Agile transformation strategies. It also touches on organisational change and the need for continuous improvement, making Agile transformation a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) and its role in enhancing Scrum practices, which aligns closely with Agile transformation principles. It discusses the importance of delivering usable products, the need for continuous improvement, and the identification of ineffective practices ('barnacles') that hinder agility. The mention of creating an 'organisational change backlog' indicates a strategic approach to Agile transformation. However, while it touches on key Agile concepts, it does not delve deeply into broader Agile transformation methodologies or change management strategies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -763,20 +805,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T03:10:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:37:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Scrum principles, roles, and practices, particularly focusing on the importance of maintaining a usable product at the end of iterations and addressing common pitfalls in Scrum implementation.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Applied Professional Scrum (APS) and its role in enhancing Scrum practices, which aligns well with Scrum principles. It mentions the importance of delivering a usable product at the end of iterations, emphasising iterative development and customer feedback. The depth of discussion includes specific exercises like the 'Barnacle Exercise' aimed at improving Scrum practices, indicating a strong focus on product development within a Scrum framework.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and the identification of inefficiencies ('barnacles') in Scrum processes, which relates to operational improvement. However, the primary focus is on Scrum roles and events rather than broader operational practices.",
+    "calculated_at": "2025-03-14T22:37:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the Applied Professional Scrum (APS) and its role in enhancing Scrum practices. While it touches on the importance of delivering usable products and the concept of 'barnacles' hindering Scrum efficiency, it lacks a direct focus on broader operational practices or methodologies like Lean or DevOps. The discussion is more centred on Scrum mastery rather than operational efficiency techniques, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
@@ -790,29 +838,38 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of an organisational change backlog and touches on improving Scrum processes, which are related to backlog refinement, but the primary focus is on Scrum fundamentals and the challenges faced by teams rather than a detailed exploration of backlog refinement itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:38:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum practices and the importance of tangible products but does not explicitly focus on backlog refinement. While it touches on concepts related to Agile and Scrum, such as team collaboration and the need for clarity, it lacks a direct discussion on backlog refinement techniques or the role of the Product Owner. The mention of an 'organisational change backlog' hints at backlog management but does not delve into refinement practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:37:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and practices, particularly in the context of improving Scrum implementations within organisations. However, it does not explicitly address scaling Scrum across multiple teams or frameworks for scaling, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) and its principles, which are relevant to Scrum but do not explicitly address the scaling of Scrum practices across multiple teams or organisations. While it discusses Scrum roles and the importance of maintaining core principles, it lacks a direct focus on frameworks for scaling, coordination among teams, or challenges specific to scaling Scrum. The discussion is more about individual team effectiveness rather than organisational scaling.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T03:10:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:37:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of Scrum in teams, the importance of adhering to Scrum principles, and techniques for improving Scrum practices, which aligns closely with the responsibilities and practices of a Scrum Master.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of the Applied Professional Scrum (APS) in enhancing Scrum mastery, which aligns with the responsibilities of a Scrum Master. It touches on the importance of delivering usable products and reflects on practices that can hinder Scrum effectiveness, which is relevant to the Scrum Master's role in facilitating team performance. However, while it mentions Scrum concepts and practices, it lacks a direct focus on the Scrum Master's specific responsibilities and techniques, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -835,11 +892,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the importance of maintaining core Scrum principles, which relates to technical leadership in guiding teams. However, it primarily focuses on Scrum implementation rather than broader technical leadership themes.",
+    "calculated_at": "2025-03-14T22:38:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Applied Professional Scrum (APS) and its role in enhancing Scrum practices, which aligns with the principles of technical leadership in guiding teams. However, it primarily focuses on personal experiences and reflections rather than providing structured strategies or in-depth discussions on mentoring, coaching, or agile methodologies. While it touches on the importance of identifying and removing ineffective practices ('barnacles'), it lacks a comprehensive exploration of technical leadership principles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -862,21 +922,27 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T03:10:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:37:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum practices, including the importance of maintaining core Scrum principles and addressing deviations (barnacles) that hinder Agile effectiveness. It also touches on creating an organisational change backlog, which aligns with Agile Planning methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the Applied Professional Scrum (APS) and its role in enhancing Scrum practices. While it touches on Agile principles and the importance of delivering usable products, it does not explicitly focus on Agile Planning methodologies or practices. The discussion is more about Scrum mastery and the challenges teams face rather than the planning aspects of Agile. Therefore, while there is some alignment with Agile principles, the depth and direct mentions of Agile Planning are limited.",
     "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:38:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of ownership and responsibility in the context of Scrum practices, particularly through the lens of identifying and addressing inefficiencies ('barnacles') in the process. However, the primary focus is on Scrum fundamentals and team dynamics rather than a direct exploration of accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum practices and the importance of delivering a usable product, which touches on accountability in terms of team commitments. However, it lacks explicit discussions on ownership, the distinction between accountability and blame, and strategies for fostering a culture of accountability. The focus is more on Scrum processes and personal experiences rather than a deep exploration of accountability as a principle within Agile teams.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -916,11 +982,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T03:10:55",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T22:37:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the preparation of teams for professional Scrum, the importance of understanding core Scrum principles, and includes exercises aimed at improving Scrum implementation within teams. While it touches on broader Agile concepts, the primary focus is on Scrum team dynamics and practices.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of Scrum mastery and the role of teams in achieving effective Scrum practices. It mentions the concept of 'barnacles' that hinder Scrum teams and introduces exercises aimed at improving team dynamics. However, while it touches on team collaboration and the goal of creating proficient Scrum teams, it lacks detailed exploration of specific roles, communication strategies, or conflict resolution within a Scrum Team, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Technical Mastery": {
@@ -961,12 +1030,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:38:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum in detail, focusing on its implementation and challenges, which are relevant to Agile practices. However, it primarily centres on specific Scrum roles and events rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) framework and its practices, with limited direct discussion of Agile Philosophy. While it touches on concepts like feedback and continuous improvement, it does so within the context of Scrum rather than addressing the broader Agile mindset or principles. The depth of discussion is more about specific practices than the underlying philosophy, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -979,12 +1051,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:38:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and the importance of maintaining its core principles, which relates to Agile methodologies. However, it primarily focuses on Scrum roles and practices rather than specific Agile planning tools or their functionalities.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Applied Professional Scrum (APS) methodology and its principles rather than focusing on Agile Planning Tools specifically. While it touches on concepts relevant to Scrum and team dynamics, it lacks direct mentions of specific Agile planning tools or detailed discussions on backlog management, sprint planning, or tool functionalities. The content is more about Scrum practices and team development than about planning tools, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1024,12 +1099,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:38:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of identifying and addressing inefficiencies in Scrum practices, which aligns with the theme of continuous improvement and learning from past implementations. However, the primary focus is on Scrum roles and processes rather than a broader exploration of continuous learning principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the Applied Professional Scrum (APS) and its role in enhancing Scrum practices, which indirectly relates to continuous learning through the concept of identifying and shedding ineffective practices ('barnacles'). However, the primary focus is on Scrum mastery rather than explicit continuous learning principles. The depth of discussion on continuous learning concepts is limited, focusing more on Scrum processes than on fostering a growth mindset or knowledge sharing.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1042,12 +1120,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the importance of organisational change in implementing Scrum effectively, which aligns with the theme of fostering a culture of agility. However, the primary focus is on team-level practices rather than broader organisational agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:37:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the Applied Professional Scrum (APS) methodology, which are more team-centric rather than addressing enterprise-level agility. While there are mentions of organisational change and transformation, the discussion lacks a broader context of how these practices impact overall organisational agility. The depth of discussion is limited to Scrum roles and practices, which do not fully align with the key topics of enterprise agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1060,12 +1141,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:38:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum practices and the importance of identifying and addressing inefficiencies ('barnacles') in the process, which relates to organisational adaptability and improvement. However, the primary focus is on Scrum methodology rather than broader organisational resilience strategies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the Applied Professional Scrum (APS) methodology, with limited direct discussion on resilience or change management. While it touches on the idea of identifying and shedding ineffective practices (the 'barnacles'), which could relate to adaptability, it lacks a comprehensive exploration of organisational resilience or change strategies. The depth of discussion remains centred on Scrum rather than broader organisational change principles.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1129,12 +1213,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:37:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 8,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of identifying and addressing inefficiencies ('barnacles') in Scrum processes, which relates to learning and improving practices. However, the primary focus is on Scrum roles and events rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the Applied Professional Scrum (APS) methodology and its role in enhancing Scrum practices. While it discusses the importance of feedback and reflection, which are relevant to discovery and learning, the main emphasis is on Scrum roles and practices rather than on broader learning methodologies or innovation processes. The discussion of the 'Barnacle Exercise' hints at a learning aspect, but it is not the central theme. Therefore, while there are elements of discovery and learning, they are not the primary focus.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1165,21 +1252,27 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:38:08",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and methodologies, focusing on the application of the EPS to improve Scrum implementation. However, it primarily revolves around Scrum philosophy and does not delve deeply into specific tools or techniques that enhance Agile and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Applied Professional Scrum (APS) and its role in enhancing Scrum practices, which aligns with the category's focus on practical techniques. However, while it mentions specific practices and exercises, such as the 'Barnacle Exercise', it lacks detailed exploration of tools or methodologies that would enhance Agile and DevOps practices. The primary focus is on Scrum philosophy rather than practical application of tools or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:37:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Agile Professional Scrum (APS) and includes references to exercises and classes, suggesting a connection to structured learning experiences. However, it primarily focuses on Scrum concepts rather than specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the Applied Professional Scrum (APS) and its methodologies, which are relevant to Agile practices. However, it primarily focuses on personal experiences and theoretical concepts rather than specific events or presentations. While there is mention of interactive exercises and collaboration with organisations, it lacks direct references to formal events, talks, or structured learning experiences that would align it more closely with the 'Events and Presentations' category.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1246,12 +1339,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:38:00",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and the importance of delivering a usable product at the end of each iteration, which aligns with value delivery principles. However, it primarily focuses on Scrum roles and the challenges of maintaining effective Scrum practices, making value delivery a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of delivering a usable product at the end of each iteration, which aligns with the principles of iterative development and incremental delivery. It also touches on the need for feedback and refining processes, which are crucial for maximising customer value. However, while it mentions value delivery concepts, the primary focus is on the APS methodology and Scrum practices rather than a comprehensive exploration of value delivery strategies. Thus, the confidence score reflects a moderate alignment with the category.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1264,12 +1360,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum practices and the importance of maintaining agility within teams, but it primarily focuses on Scrum roles and events rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:38:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the Applied Professional Scrum (APS) methodology and its principles, which are closely related to Agile practices. It mentions the importance of delivering a usable product and the need for continuous feedback, aligning with the core themes of organisational agility. However, the focus is more on Scrum-specific practices rather than broader organisational agility strategies, which limits the depth of discussion on organisational adaptability and cultural shifts.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1294,12 +1393,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:37:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of Scrum within an organisation and touches on the organisational change backlog, which indicates a consideration of the interplay between social and technical aspects. However, the primary focus is on Scrum practices rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the Applied Professional Scrum (APS) methodology and its practices, with a focus on Scrum roles and processes. While it touches on organisational aspects, such as the 'organisational change backlog', the discussion lacks a comprehensive exploration of the interplay between social and technical systems. The content does not explicitly mention sociotechnical systems or their principles, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1312,12 +1414,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T16:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:37:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of identifying and addressing inefficiencies ('barnacles') in Scrum processes, which relates to continuous improvement and feedback mechanisms. However, it primarily focuses on Scrum practices rather than metrics or data-driven decision-making.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Applied Professional Scrum (APS) and its role in Scrum mastery, with a focus on practices and team dynamics. While it touches on the importance of feedback and reflection, it lacks explicit discussions on metrics, data analysis, or evidence-based decision-making, which are central to the 'Metrics and Learning' category. The depth of discussion on Scrum practices is notable, but it does not sufficiently align with the core themes of metrics and learning.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1348,7 +1453,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T12:03:07",
+    "calculated_at": "2025-03-14T22:37:16",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
@@ -1356,7 +1461,7 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content primarily focuses on Scrum practices and the challenges teams face in implementing Scrum effectively. While it briefly touches on the role of leadership in facilitating organisational change and improving Scrum processes, the main emphasis is on technical aspects and team dynamics rather than leadership strategies or frameworks. The discussion lacks depth in exploring leadership's impact on team performance and organisational agility, which is essential for a higher confidence score in the Leadership category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

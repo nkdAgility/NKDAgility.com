@@ -19,11 +19,14 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of frequent deployments and breaking down work into smaller chunks, which aligns with MVP principles of rapid iteration and learning. However, the primary focus is on technical debt and deployment practices rather than explicitly on MVP development or validation.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of frequent deployments and iterative development, which aligns with MVP principles. It highlights the need for rapid feedback and learning, key aspects of MVPs. However, it does not explicitly mention MVP or its definition, and the focus is more on deployment practices rather than the MVP concept itself.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
@@ -121,11 +124,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T15:23:03",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-03-13T14:45:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
     "final_score": 78.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to frequent deployments, technical debt, and the importance of breaking down work into smaller, manageable chunks. It emphasises real-world applications of Agile principles, particularly in the context of continuous delivery and customer feedback, aligning well with the category of Pragmatic Thinking.",
+    "reasoning": "The content discusses practical strategies for improving code quality through frequent deployments, which aligns well with the core themes of Pragmatic Thinking. It emphasises real-world applications of Agile principles, such as iterative development and hypothesis-driven engineering, showcasing how these practices can enhance collaboration and efficiency. The depth of discussion is significant, providing specific examples and actionable steps, which further supports its alignment with pragmatic approaches. Overall, the content is focused on practical problem-solving in a complex environment, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -139,21 +145,27 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-12T15:23:09",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments and breaking down work into smaller increments, which aligns closely with the concept of delivering valuable software increments in Agile frameworks.",
+    "calculated_at": "2025-03-13T14:55:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 30,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the importance of frequent deployments and how they relate to delivering smaller, manageable increments of work. It highlights the benefits of iterative development, user feedback, and maintaining code quality, which aligns well with the Increment category. However, while it touches on key themes, it does not delve deeply into the specific Agile frameworks or the formal definition of an Increment, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and how they can lead to better code quality and customer feedback, which are related to innovation practices. However, the primary focus is on technical debt and deployment strategies rather than a direct exploration of the Ability to Innovate as a central theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and iterative development, which indirectly supports the concept of innovation through improved practices. However, it lacks explicit references to the Ability to Innovate category and does not delve deeply into frameworks or metrics for measuring innovation capabilities. The focus is more on deployment practices rather than a comprehensive exploration of innovation strategies.",
+    "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
@@ -193,20 +205,26 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of frequent deployments on code quality and team dynamics, touching on aspects of team performance and collaboration, but it primarily focuses on technical practices rather than team performance strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the impact of frequent deployments on code quality and team dynamics, touching on aspects like accountability and real-time user insights. However, it primarily focuses on deployment practices rather than directly addressing team performance strategies or methodologies. While there are mentions of team dynamics, the depth of discussion on team performance is limited, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:43:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and breaking down work into smaller chunks, which aligns with Agile principles. However, it primarily focuses on technical debt and deployment practices rather than Agile Planning methodologies and practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and iterative development, which are aligned with Agile principles. However, it primarily focuses on deployment practices rather than Agile Planning methodologies, making it a secondary discussion rather than a primary focus.",
     "level": "Tertiary"
   },
   "Forecasting": {
@@ -265,20 +283,26 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of maintaining code quality and the peer pressure to avoid creating technical debt, which touches on accountability within team dynamics. However, it primarily focuses on deployment practices and technical debt rather than accountability as a central theme.",
+    "calculated_at": "2025-03-14T16:44:15",
+    "ai_confidence": 47.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 50,
+    "final_score": 47.0,
+    "reasoning": "The content discusses accountability in the context of code quality and team practices, particularly highlighting how frequent deployments encourage better coding practices and a sense of responsibility among team members. However, the primary focus is on deployment strategies rather than a deep exploration of accountability as a core Agile principle. While it mentions accountability in relation to maintainability and team dynamics, it does not extensively cover the broader themes of ownership, trust, or collective responsibility within Agile frameworks.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T15:23:43",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments and how they relate to reducing technical debt, maintaining production readiness, and improving code quality, which are all central themes of Continuous Delivery.",
+    "calculated_at": "2025-03-13T15:19:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of frequent deployments, which aligns closely with Continuous Delivery principles. It highlights the benefits of smaller, manageable changes, the need for regular feedback, and the reduction of technical debt, all of which are core themes in Continuous Delivery. The depth of discussion is substantial, providing practical steps for improvement and emphasising the iterative nature of development. However, while it strongly aligns with Continuous Delivery, it does not explicitly mention the term 'Continuous Delivery' or delve into specific methodologies or practices outlined by experts in the field, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -292,12 +316,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and how they can lead to better understanding of customer needs and improved product quality, which are related to customer satisfaction. However, the primary focus is on technical practices rather than customer satisfaction itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:44:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the impact of frequent deployments on code quality and user feedback, which indirectly relates to customer satisfaction. However, it primarily focuses on technical practices rather than explicitly addressing customer satisfaction principles or methodologies. While it mentions the importance of user insights and improving customer happiness, these points are secondary to the main discussion on deployment strategies.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -310,20 +337,26 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-12T15:23:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:19:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments, which aligns closely with Continuous Integration principles. It highlights the importance of smaller batch sizes, maintainable code, and the relationship between deployment frequency and technical debt, all of which are central to CI practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of frequent deployments, which is a key aspect of Continuous Integration. It highlights the benefits of smaller, manageable changes and the need for regular feedback, aligning with CI principles. However, it lacks explicit mention of CI tools, automated testing, or detailed strategies for managing code merges, which are crucial for a higher confidence score in this category.",
     "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-12T15:23:52",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-13T16:25:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and breaking down work into smaller chunks, which aligns with Lean principles of waste reduction and value maximisation. However, it primarily focuses on technical debt and deployment practices, making Lean a secondary theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the benefits of frequent deployments, which aligns with Lean principles of iterative learning and continuous improvement. It highlights waste reduction through smaller batch sizes and the importance of feedback, which are core concepts in Lean thinking. However, while it touches on these principles, it primarily focuses on deployment practices rather than a comprehensive exploration of Lean itself, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -382,11 +415,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T15:24:08",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments and how they relate to technical debt, maintainability, and the role of developers in delivering quality software. It aligns well with Agile and DevOps principles, focusing on practices that enhance developer productivity and collaboration.",
+    "calculated_at": "2025-03-13T16:27:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the impact of frequent deployments on code quality, which aligns closely with Agile principles of iterative development and continuous feedback. It explicitly mentions concepts such as technical debt, maintainability, and user feedback, all of which are relevant to software developers' practices in Agile and DevOps contexts. The depth of discussion is substantial, providing practical steps for improvement and emphasising the importance of smaller batch sizes and increased deployment frequency. Overall, the content is highly relevant to the role of software developers, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Scaled Agile": {
@@ -400,12 +436,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T15:24:15",
-    "ai_confidence": 90,
-    "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "Content primarily discusses the benefits of frequent deployments in software development, focusing on reducing technical debt, improving code quality, and enhancing customer feedback through iterative delivery. It aligns closely with best practices in CI/CD and agile methodologies.",
-    "level": "Primary"
+    "calculated_at": "2025-03-14T14:46:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the impact of frequent deployments on code quality, aligning closely with best practices in Continuous Integration and Continuous Deployment (CI/CD). It provides detailed insights into the benefits of smaller, manageable changes, technical debt, and iterative development, which are core themes in software development methodologies. The depth of discussion is significant, offering practical steps for improvement and a clear connection to user feedback and maintainability, reinforcing its primary focus on software engineering practices.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -436,12 +475,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and reducing technical debt, which are relevant to Agile methodologies. However, it primarily focuses on technical practices rather than strategic alignment or broader Agile strategy discussions.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of frequent deployments and iterative development, which aligns with Agile principles of continuous value delivery and adaptability. It highlights the benefits of smaller, manageable changes and real-time user feedback, which are key aspects of Agile strategy. However, while it touches on Agile concepts, it primarily focuses on technical practices related to deployment rather than a broader strategic context, which slightly limits its depth in terms of Agile strategy discussions.",
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -463,11 +505,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T15:24:26",
-    "ai_confidence": 85,
-    "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments, focusing on reducing technical debt, improving code quality, and enhancing customer feedback through smaller, more manageable changes. It aligns well with operational efficiency strategies within Agile and DevOps frameworks.",
+    "calculated_at": "2025-03-14T15:05:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the impact of frequent deployments on code quality and operational efficiency, aligning closely with the core themes of operational practices. It provides detailed insights into the benefits of smaller batch sizes, increased deployment frequency, and the importance of real-time user feedback, all of which are essential for improving operational efficiency in Agile and DevOps contexts. The depth of discussion is significant, offering practical steps for improvement, which further supports its classification under Operational Practices.",
     "level": "Secondary"
   },
   "Decision Making": {
@@ -481,11 +526,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T15:24:32",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments, technical debt, and how these practices contribute to delivering functional software that meets customer needs. It aligns well with the principles of working software in Agile and Scrum frameworks.",
+    "calculated_at": "2025-03-14T16:43:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the impact of frequent deployments on code quality and user feedback, which aligns closely with the principles of working software. It highlights the importance of iterative development, gathering user insights, and maintaining software quality through regular updates. The depth of discussion on practical steps for improvement and the benefits of smaller, manageable changes further supports its relevance to the category. However, while it is focused on software delivery, it does not explicitly mention Agile or Scrum frameworks, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Sprint Review": {
@@ -499,12 +547,15 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and their impact on technical debt, which relates to principles of reliability and maintainability in production systems. However, it primarily focuses on software development practices rather than the core principles of Site Reliability Engineering.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the benefits of frequent deployments and their impact on code quality, which is more aligned with software development practices than Site Reliability Engineering. While it touches on aspects like monitoring and user feedback, it lacks a direct focus on SRE principles such as incident response, SLOs, or the integration of development and operations. The discussion is more about improving deployment processes rather than enhancing system reliability in production environments.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -544,11 +595,14 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-12T15:24:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T16:43:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses hypothesis-driven engineering practices and the importance of collecting telemetry and data to validate whether features are worth further investment. While the primary focus is on frequent deployments and reducing technical debt, the mention of validating assumptions through experimentation indicates that experimentation is a significant theme in the content.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of frequent deployments and how they can lead to better code quality and user insights, which aligns with the principles of experimentation. It mentions hypothesis-driven engineering and iterative development, indicating a focus on testing ideas and validating assumptions. However, the primary focus is more on deployment practices rather than a systematic exploration of experimentation within Agile workflows, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -562,20 +616,26 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and continuous delivery, which are relevant to Azure Pipelines, but it does not specifically mention Azure Pipelines or its configuration and management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and their impact on code quality, which aligns with CI/CD principles. However, it lacks specific references to Azure Pipelines, YAML configurations, or Azure DevOps services, making it more of a general discussion on deployment practices rather than a focused discourse on Azure Pipelines.",
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T15:24:50",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T16:43:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and breaking down work into smaller chunks, which aligns with agile principles of iterative development and responsiveness to customer feedback. However, it does not explicitly mention agile frameworks or roles, making it a secondary theme rather than the primary focus.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and iterative development, which align with agile principles. However, it lacks explicit references to agile frameworks like Scrum or Kanban, and does not delve deeply into agile roles or ceremonies. The focus is more on deployment practices than on agile project management as a whole.",
     "level": "Secondary"
   },
   "Lean Thinking": {
@@ -625,11 +685,14 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-12T15:25:00",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of frequent deployments and how they relate to hypothesis-driven engineering practices, including collecting telemetry and validating whether features resonate with users. However, the primary focus is on technical debt and deployment strategies rather than a detailed exploration of hypothesis formulation and experimentation.",
+    "calculated_at": "2025-03-14T16:43:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of frequent deployments and iterative development, which aligns with hypothesis-driven practices. It mentions 'hypothesis-driven engineering' and the need for user feedback, indicating a focus on experimentation and learning. However, the primary emphasis is on deployment frequency rather than a detailed exploration of hypothesis formulation or testing, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {
@@ -652,11 +715,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-12T15:25:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:43:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits and practices of frequent deployments, including reducing technical debt, improving code quality, and enhancing user feedback integration, which aligns closely with the principles of Frequent Releases.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of frequent deployments and their impact on code quality, user feedback, and team dynamics. It aligns well with the principles of Continuous Delivery and Agile methodologies, providing detailed insights into the benefits and practical steps for implementing frequent releases. The depth of discussion is substantial, covering both the pitfalls of infrequent deployments and the advantages of a more frequent release strategy.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
@@ -679,12 +745,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and how they relate to reducing technical debt and improving code quality, which indirectly touches on the concept of Lead Time. However, the primary focus is on deployment frequency and technical debt rather than a direct examination of Lead Time as a metric.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:44:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and how they can lead to smaller, more manageable changes, which indirectly relates to Lead Time. However, it does not explicitly define or focus on Lead Time as a primary metric. The discussion touches on concepts like delayed feedback and technical debt, which are relevant but not central to the definition of Lead Time. Overall, while there is some alignment with the category, the primary focus is on deployment frequency rather than Lead Time itself.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -697,12 +766,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and iterative development, which are relevant to Scrum principles. However, it does not explicitly mention Scrum roles, events, or the Scrum framework, making it a secondary theme rather than a primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:44:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of frequent deployments and iterative development, which aligns with Scrum principles. However, it lacks explicit references to Scrum roles, events, or the Product Backlog, which are crucial for a higher confidence score. The focus is more on deployment practices than on Scrum-specific methodologies.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -724,11 +796,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T15:25:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:43:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments in relation to technical debt management, code maintainability, and the importance of writing production-ready code. It aligns well with the principles of software craftsmanship and engineering practices.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the impact of frequent deployments on code quality, which aligns closely with the principles of software craftsmanship and technical excellence. It discusses best practices such as reducing batch size, increasing deployment frequency, and managing technical debt, all of which are core themes of the Technical Mastery category. The depth of discussion is substantial, providing practical steps and insights into how these practices can enhance software development. However, while the content is strong, it does not delve deeply into all aspects of software architecture or engineering practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -769,21 +844,27 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:43:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and their impact on technical debt, which relates to trends in software delivery practices. However, it primarily focuses on the technical aspects of deployment rather than a broader analysis of trends within Agile or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and their impact on code quality and user feedback, which aligns with some aspects of trend analysis in Agile and DevOps. However, it lacks explicit mentions of trend analysis as a primary focus and does not delve deeply into the identification of patterns or shifts within Agile or DevOps frameworks. The discussion is more about practices rather than analysing trends, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and how they can lead to better code quality and responsiveness to customer needs, which aligns with self-organisation principles. However, the primary focus is on technical debt and deployment strategies rather than self-organisation itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and iterative development, which can relate to self-organisation principles, such as accountability and continuous improvement. However, it primarily focuses on deployment practices rather than explicitly addressing self-organisation or team autonomy. The mention of accountability and team confidence hints at self-organisation but lacks depth in exploring the core themes of the category.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -817,11 +898,14 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-12T15:25:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:43:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses how frequent deployments can help manage and reduce technical debt by promoting maintainable and adaptable code practices. It highlights the relationship between deployment frequency and the quality of code, making technical debt a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses technical debt in the context of deployment frequency and its impact on code quality. It explicitly mentions technical debt accumulation as a consequence of infrequent deployments, which aligns with the category's focus. However, while it touches on the topic, the primary focus is on deployment practices rather than a comprehensive exploration of technical debt management strategies. The depth of discussion on technical debt is moderate, as it is integrated into broader themes of deployment and maintainability.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -853,11 +937,14 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-12T15:25:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:43:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments and how they relate to reducing technical debt, which aligns closely with deployment strategies. It emphasises the importance of smaller batch sizes and continuous delivery, making deployment methodologies a central theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the impact of deployment frequency on code quality and development practices, which aligns with the core themes of deployment strategies. It mentions practical steps for improvement, such as reducing batch size and increasing deployment frequency, which are relevant to deployment methodologies. However, while it touches on important aspects of deployment, it lacks detailed exploration of specific strategies like Blue-Green Deployments or Canary Releases, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -901,12 +988,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and how they relate to technical debt and code quality, which are relevant to modern source control practices. However, it primarily focuses on deployment strategies rather than specific version control methodologies or tools.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of frequent deployments, which aligns with modern source control practices, particularly in relation to continuous integration and deployment. It highlights the benefits of smaller, manageable changes and the need for regular feedback, which are key aspects of effective version control. However, while it touches on these topics, it does not delve deeply into specific version control systems or methodologies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -946,11 +1036,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-12T15:26:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:43:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments and their impact on technical debt, which aligns closely with release management practices, particularly in the context of continuous delivery and iterative release planning.",
+    "final_score": 74.0,
+    "reasoning": "The content focuses extensively on the benefits and practices of frequent deployments, which directly relates to release management. It discusses the importance of smaller, manageable changes, the impact of deployment frequency on code quality, and the necessity of user feedback, all of which align with key topics in release management. The depth of discussion is significant, providing practical steps for improvement and emphasising iterative development, which are crucial for effective release management. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -982,20 +1075,26 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and reducing technical debt, which are related to change management practices in Agile environments. However, the primary focus is on technical aspects of deployment rather than on broader change management strategies or principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:44:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the impact of frequent deployments on code quality and user feedback, which indirectly relates to change management principles. However, it primarily focuses on deployment practices rather than the broader strategies and practices of change management in Agile environments. While it touches on concepts like iterative development and continuous improvement, it lacks a comprehensive exploration of change management as a primary focus.",
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T15:26:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of frequent deployments, technical debt, and maintainable code, which are central to engineering practices in Agile development.",
+    "calculated_at": "2025-03-14T16:43:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses the impact of frequent deployments on code quality, which aligns closely with the principles of Continuous Integration and Continuous Delivery (CI/CD). It explicitly mentions the benefits of smaller, manageable changes and the importance of maintainability, which are key aspects of clean code and Agile practices. The depth of discussion is substantial, providing practical steps for improvement and insights into user feedback, which enhances the overall understanding of Agile engineering practices. However, while it touches on several relevant topics, it does not delve deeply into all aspects of Engineering Practices, such as TDD or pair programming, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -1027,12 +1126,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to frequent deployments and technical debt, which are relevant to CI/CD practices often associated with Azure DevOps, but it does not specifically mention Azure DevOps or its tools.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and iterative development, which are relevant to DevOps practices. However, it does not specifically mention Azure DevOps or its tools, nor does it delve into Azure DevOps functionalities or methodologies. The focus is more on general deployment strategies rather than Azure DevOps itself.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1078,12 +1180,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of frequent deployments on technical debt and code quality, which indirectly touches on team dynamics and organisational practices. However, it primarily focuses on technical aspects rather than the interplay between social and technical systems.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:43:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the technical aspects of deployment frequency and its impact on code quality, with limited reference to organisational structures or team dynamics. While it touches on concepts like accountability and user feedback, it lacks a thorough exploration of the interplay between social and technical systems, which is essential for a stronger alignment with the Sociotechnical Systems category.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1129,12 +1234,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and how they relate to technical debt and customer feedback, which are relevant to Agile principles. However, the primary focus is on technical practices rather than explicitly on Agile product management methodologies or roles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and iterative development, which align with Agile principles. However, it lacks explicit references to Agile Product Management roles, techniques, or strategies, making it more focused on deployment practices than on product management itself.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1219,11 +1327,14 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the benefits of frequent deployments and reducing batch sizes, which aligns with Lean principles of minimising waste and maximising value. However, the primary focus is on technical debt and deployment strategies rather than Lean methodologies themselves.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses the benefits of frequent deployments, which aligns with Lean principles of reducing waste and improving processes. It mentions concepts like smaller batch sizes and iterative development, which are relevant to Lean thinking. However, the primary focus is on deployment practices rather than a comprehensive exploration of Lean methodologies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -1288,12 +1399,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T11:57:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:43:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses frequent deployments and their impact on technical debt and product delivery, which aligns with agile principles. However, it primarily focuses on team-level practices rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the benefits of frequent deployments and iterative development, which are relevant to agile practices. However, it primarily focuses on team-level practices rather than organisational agility. While it touches on concepts like continuous improvement and responsiveness to user feedback, it lacks a broader organisational context and does not address enterprise-level frameworks or structures that support agility.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1447,7 +1561,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:38:59",
+    "calculated_at": "2025-03-14T16:43:20",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1455,6 +1569,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the benefits of frequent deployments and breaking down work into smaller chunks, which aligns with Agile principles and iterative progress. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it focus on Scrum practices specifically. The discussion is more about deployment strategies and technical debt rather than Scrum as a framework.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

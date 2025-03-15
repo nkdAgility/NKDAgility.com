@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/what's-in-a-burndown-
 - /resources/blog/whats-in-a-burndown
 tags:
+- Scrum Product Development
+- Software Development
+- Agile Project Management
 - Software Developers
 - Product Delivery
-- Scrum Product Development
-- Pragmatic Thinking
-- Software Development
 - Agile Planning
-- Agile Project Management
 - Professional Scrum
 - Team Performance
-- Practical Techniques and Tooling
+- Agile Frameworks
+- Pragmatic Thinking
 categories:
 - Scrum
 preview: nakedalm-logo-128-link-1-1.png

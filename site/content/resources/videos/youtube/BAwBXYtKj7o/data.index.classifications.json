@@ -118,12 +118,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:13:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated testing and its role in improving software quality and operational efficiency, which aligns with aspects of digital transformation. However, the primary focus is on technical debt management and testing strategies rather than a comprehensive discussion on digital transformation initiatives or strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical debt management, which is a crucial aspect of software development but does not explicitly focus on the strategic adoption of digital technologies for business transformation. While it touches on improving operational efficiency and mentions the Azure DevOps team's transition to a more agile model, it lacks a broader discussion on digital transformation strategies, emerging technologies, or change management practices. The primary focus remains on technical debt rather than a comprehensive view of digital transformation.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -139,12 +142,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of automated testing and its impact on software quality, which indirectly relates to decision-making in terms of choosing testing strategies and methodologies. However, the primary focus is on technical aspects of testing rather than structured decision-making processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:14:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses technical debt and its implications on decision-making within software development, particularly in the context of Agile practices. However, while it touches on the importance of making informed choices and the consequences of past decisions, it lacks a structured, evidence-based approach to decision-making as outlined in the category definition. The discussion is more focused on the concept of technical debt rather than a comprehensive exploration of decision-making methodologies.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -166,12 +172,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automated testing and its role in improving efficiency and quality in software development, which aligns with Lean principles of minimising waste and maximising value. However, the primary focus is on technical debt management and testing strategies rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:14:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses technical debt management, which is tangentially related to Lean principles, particularly in terms of maximising value and minimising waste. However, it primarily focuses on technical debt rather than Lean Product Development specifically. While there are mentions of improving delivery and efficiency, the core themes of Lean thinking, waste elimination, and customer feedback are not explicitly addressed, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -247,21 +256,27 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of automated testing and its role in improving software quality and delivery processes, which aligns with strategic approaches in Agile and DevOps. However, the primary focus is on technical aspects of testing rather than a clear strategic framework or alignment with organisational goals.",
+    "calculated_at": "2025-03-13T15:20:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the management of technical debt within the context of Agile practices, particularly highlighting how addressing technical debt can enhance team performance and delivery processes. It provides specific examples, such as the Azure DevOps team's transition to continuous delivery and the impact of technical debt on their ability to deliver features. However, while it touches on strategic elements, the primary focus is more on technical debt management rather than a comprehensive discussion of strategic alignment or planning within Agile frameworks.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses automated testing and its role in improving software quality and efficiency, which relates to innovation in practices. However, it primarily focuses on technical aspects of testing rather than a comprehensive exploration of the Ability to Innovate framework or strategies.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses technical debt management and its impact on delivering value, which indirectly relates to the ability to innovate. However, it primarily focuses on the challenges of technical debt rather than explicitly measuring or enhancing innovation capabilities. While there are mentions of improving delivery and value through better practices, the discussion lacks a strong emphasis on frameworks, metrics, or evidence-based management principles that are central to the Ability to Innovate category.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -301,12 +316,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated testing and its role in improving efficiency and quality, which aligns with Lean principles of minimising waste and enhancing value delivery. However, the primary focus is on testing strategies rather than Lean Thinking itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:13:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical debt management, which is tangentially related to Lean principles, particularly in terms of efficiency and value delivery. However, it does not explicitly mention Lean Thinking concepts such as waste identification or continuous improvement. The focus is primarily on technical debt rather than Lean methodologies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -364,21 +382,27 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:13:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated testing and its impact on software delivery speed, which relates to throughput. However, the primary focus is on technical debt management and testing strategies rather than a direct exploration of throughput as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical debt and its impact on delivery timelines, which indirectly relates to throughput. However, it primarily focuses on the concept of technical debt rather than explicitly measuring or optimising throughput. While there are mentions of improving delivery rates and the relationship between technical debt and feature delivery, the discussion lacks a direct focus on throughput as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automated testing and its importance in software engineering, with specific references to Azure DevOps and its features, such as test impact analysis. However, the primary focus is on testing strategies rather than Azure Pipelines specifically.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical debt management and references the Azure DevOps team, but it does not focus on Azure Pipelines specifically. While it touches on continuous delivery and the impact of technical debt on software delivery, it lacks detailed discussions on Azure Pipelines, such as configuration, management, or CI/CD practices directly related to Azure Pipelines. The primary focus is on technical debt rather than the automation of software development processes using Azure Pipelines.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -403,12 +427,12 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T12:01:55",
+    "calculated_at": "2025-03-14T17:13:51",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses automated testing and its importance in software engineering, but it primarily focuses on testing practices rather than the principles and practices of Site Reliability Engineering. While there are mentions of reducing problems in production and improving quality, these are not central themes related to SRE.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -487,21 +511,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automated testing and its importance in software engineering, touching on concepts related to Test-Driven Development (TDD). However, the primary focus is on automated testing strategies and infrastructure rather than a thorough exploration of Test First Development principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:13:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses technical debt management rather than Test First Development. While it touches on Agile practices and the importance of quality in development, it does not explicitly mention writing tests before code or the principles of Test-Driven Development (TDD). The focus is on the consequences of technical debt and the need to manage it, which is only tangentially related to the core themes of Test First Development.",
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated testing and its role in improving software delivery processes, which aligns with the principles of frequent releases. However, the primary focus is on test automation rather than the broader topic of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of technical debt and its impact on software delivery, particularly in the context of the Azure DevOps team's transition to a more frequent release cycle. While it touches on the benefits of moving to continuous delivery and mentions the increase in features delivered, the primary focus is on technical debt management rather than the principles and practices of frequent releases. The discussion lacks depth in terms of specific strategies or metrics related to release frequency, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -514,12 +544,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated testing and its role in reducing human errors and improving software quality, which relates to troubleshooting. However, the primary focus is on test automation strategies rather than direct troubleshooting techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical debt and its implications on software development, which indirectly relates to troubleshooting by highlighting the need to address issues arising from poor decisions. However, it lacks a direct focus on diagnosing or resolving specific technical problems, making it more about management than troubleshooting.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -580,11 +613,14 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:20:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated testing and its role in improving feedback loops and reducing deployment times, which are relevant to deployment frequency. However, the primary focus is on test automation rather than deployment frequency itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the impact of managing technical debt on deployment frequency, particularly through the example of the Azure DevOps team transitioning from a two-year release cycle to a three-week continuous delivery model. While it touches on the relationship between technical debt and deployment frequency, the primary focus is on technical debt management rather than optimising deployment intervals. The discussion lacks depth in strategies specifically aimed at increasing deployment frequency and does not provide metrics or measurement techniques, which are key topics in the category.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -598,7 +634,7 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-11T14:17:20",
+    "calculated_at": "2025-03-14T17:13:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -606,7 +642,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses technical debt management rather than Continuous Integration. While it briefly mentions the transition to a continuous delivery model, it does not delve into CI principles, practices, or tools. The focus is on the implications of technical debt and its management, which is not aligned with the core themes of Continuous Integration.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -619,7 +655,7 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-11T16:06:18",
+    "calculated_at": "2025-03-14T17:13:51",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -627,7 +663,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content discusses technical debt management and its impact on software delivery, mentioning Continuous Delivery in the context of the Azure DevOps team's transition from a waterfall model to a three-week cycle. However, the primary focus is on technical debt rather than Continuous Delivery principles and practices. While there are relevant connections to CD, such as the importance of feedback loops and the ability to deliver features, the depth of discussion on Continuous Delivery itself is limited, making it a secondary theme rather than the main focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -712,12 +748,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated testing and its role in improving efficiency and reducing errors, which aligns with Lean principles of waste reduction and value maximisation. However, the primary focus is on technical debt management and testing strategies rather than a comprehensive discussion of Lean principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical debt management, which indirectly relates to Lean principles through the concepts of waste reduction and value maximisation. However, it primarily focuses on technical debt rather than explicitly addressing Lean principles or practices. While there are mentions of improving processes and delivering value, the depth of discussion is more centred on technical debt rather than Lean methodologies or tools.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -730,12 +769,15 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:42",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses automated testing and its importance in software engineering, which indirectly relates to managing technical debt by improving code quality and reducing human error. However, the primary focus is on testing strategies rather than a direct discussion of technical debt itself.",
-    "level": "Tertiary"
+    "final_score": 85.0,
+    "reasoning": "The content provides a comprehensive discussion on technical debt, including its definition, types (intentional and unintentional), and real-world examples illustrating its impact on development velocity and product quality. It also discusses strategies for prioritising technical debt remediation and the importance of managing it effectively to enhance long-term value delivery. The depth of the discussion is significant, with detailed examples and a clear narrative on the consequences of neglecting technical debt, which aligns well with the key topics outlined in the category definition.",
+    "level": "Primary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -757,7 +799,7 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-03-11T17:19:45",
+    "calculated_at": "2025-03-14T17:13:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -765,7 +807,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses technical debt management and its implications on software quality and delivery, without a direct focus on test automation principles, frameworks, or practices. While it touches on Agile and continuous delivery, it does not delve into the specifics of automating testing processes or tools associated with test automation.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -778,11 +820,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T09:17:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:46:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of automated testing in enhancing operational efficiency, reducing human error, and improving the speed and quality of software delivery, which aligns well with operational practices in Agile and DevOps frameworks.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses technical debt management, which is crucial for improving operational efficiency in software development. It highlights the importance of addressing technical debt to enhance delivery speed and product quality, aligning well with operational practices. The depth of discussion includes specific examples and metrics related to the Azure DevOps team's experience, demonstrating a practical application of strategies to optimise processes and improve performance. However, while it is focused on operational practices, it does not explicitly mention Agile, DevOps, or Lean methodologies in a structured way, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -841,12 +886,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automated testing and its importance in software engineering, which relates to technical leadership principles. However, it primarily focuses on technical practices rather than the broader aspects of guiding teams or fostering collaboration, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses technical debt management, which is a crucial aspect of technical leadership, particularly in agile environments. It highlights the importance of making informed architectural decisions and the consequences of neglecting technical debt. However, while it touches on the role of teams in managing technical debt, it lacks a broader discussion on mentoring, coaching, or specific agile practices that would enhance its alignment with the category of Technical Leadership. The depth of discussion is somewhat limited to examples and consequences rather than strategies for leading teams through these challenges.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -931,30 +979,39 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T09:17:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:57:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses automated testing, its importance in software engineering, and strategies for improving testing practices, which aligns closely with the principles of technical mastery in software craftsmanship and quality assurance.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a thorough exploration of technical debt, its implications, and the importance of managing it effectively within software development. It discusses the concept of technical debt in detail, including its causes, consequences, and the necessity of prioritising its repayment to enhance product delivery. The examples provided, particularly regarding the Azure DevOps team, illustrate the practical impact of managing technical debt on software quality and team performance. This aligns closely with the core themes of Technical Mastery, focusing on best practices, principles of clean code, and the role of continuous improvement in software engineering. The depth of discussion is significant, offering insights into both known and unknown technical debt, and how addressing these issues can lead to improved outcomes in software delivery.",
     "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses automated testing and its importance in the software delivery process, which is relevant to release management. However, the primary focus is on testing strategies rather than the broader aspects of release management such as planning, scheduling, or coordination.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:14:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical debt management, which is tangentially related to release management through its impact on software delivery and product quality. However, it lacks direct mentions of release management practices, version control, or release scheduling. The discussion primarily focuses on the implications of technical debt rather than the structured processes of managing software releases, resulting in a low confidence score for the category.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automated testing and its importance in software engineering, touching on TDD principles. However, it primarily focuses on broader automated testing strategies and practices rather than exclusively on TDD.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical debt management rather than Test Driven Development (TDD). While it touches on aspects of software quality and decision-making, it does not explicitly mention TDD principles, the Red-Green-Refactor cycle, or the practice of writing tests before code. The focus is on managing technical debt and its implications, which is outside the core themes of TDD.",
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1057,12 +1114,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses automated testing and its role in improving efficiency and reducing waste in software engineering, which aligns with Lean principles. However, the primary focus is on testing strategies rather than Lean methodologies themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:13:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses technical debt management, which is related to efficiency and value delivery, but it primarily focuses on Agile practices and does not explicitly mention Lean principles or methodologies. While there are elements of continuous improvement and value maximisation, the discussion lacks depth in Lean-specific tools or concepts, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1096,21 +1156,27 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated testing and its role in improving software delivery speed and quality, which relates to flow efficiency. However, the primary focus is on technical debt management and automated testing strategies rather than directly addressing flow efficiency principles or bottleneck elimination.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses technical debt and its impact on delivery speed and product quality, which indirectly relates to flow efficiency. However, it primarily focuses on the concept of technical debt rather than explicitly addressing flow efficiency principles or techniques for optimising throughput. While there are mentions of improving delivery speed and managing work in progress, these are secondary to the main topic of technical debt management.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses automated testing and its importance in software engineering, which aligns with automation in Agile workflows. However, it primarily focuses on testing strategies rather than the broader integration of AI and automation within Agile frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:14:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses technical debt management within Agile frameworks, focusing on the implications of technical debt on software delivery and team performance. While it touches on Agile practices, it does not explicitly mention AI or automation technologies, nor does it explore their integration into Agile methodologies. The discussion lacks depth regarding AI's role in enhancing Agile processes, which is a key aspect of the specified category.",
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1135,12 +1201,12 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:01:55",
+    "calculated_at": "2025-03-14T17:13:51",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses automated testing and its importance in software engineering, focusing on technical implementation details rather than the processes of discovery and learning. While there are mentions of feedback and improvement, they are not central to the overall discussion.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1153,12 +1219,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the complexities of software engineering and the challenges of automated testing, touching on themes of non-linear dynamics and the need for adaptive strategies in testing. However, it primarily focuses on practical aspects of test automation rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical debt management, which touches on aspects of complexity in software development, such as the implications of decision-making and the need for adaptive practices. However, it primarily focuses on practical examples and does not explicitly reference complexity science or its principles. The discussion lacks depth in exploring non-linear dynamics or emergent behaviours, which are central to the category of Complexity Thinking.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1192,12 +1261,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated testing and its role in improving software quality and delivery speed, which are relevant to market adaptability. However, the primary focus is on technical debt management and testing strategies rather than directly addressing market adaptability principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses technical debt management and its impact on product delivery, which indirectly relates to market adaptability through the lens of Agile methodologies and continuous delivery. However, the primary focus is on technical debt rather than explicitly addressing strategies for market responsiveness or adaptability. While there are mentions of Agile practices and the benefits of shortening feedback loops, the overall discussion does not centre on enhancing market adaptability as defined in the category.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1303,11 +1375,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the human factors involved in automated testing and the challenges faced by testers, indicating a secondary theme related to team dynamics and process improvement.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the concept of technical debt and its implications on team performance and product delivery, particularly in the context of the Azure DevOps team's transition to continuous delivery. It highlights the importance of team dynamics, decision-making, and the need for effective communication and feedback loops, which are central to the 'People and Process' category. However, while it touches on these themes, the primary focus remains on technical debt rather than a comprehensive exploration of human behaviour and structured methodologies in technology and product development.",
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {
@@ -1330,21 +1405,27 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of automated testing and its impact on software quality and efficiency, which relates to metrics and performance data. However, the primary focus is on technical debt management and testing strategies rather than a direct exploration of metrics and learning principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses technical debt management and its impact on product delivery, which indirectly relates to metrics and learning through the emphasis on feedback loops and continuous improvement. However, it lacks explicit discussions on metrics or data analysis techniques, which limits its alignment with the core themes of the category. The depth of discussion on the consequences of technical debt and the benefits of addressing it provides some insight into learning from past decisions, but it does not fully explore the broader implications of metrics in Agile and DevOps practices.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:01:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:13:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automated testing and its importance in the software development process, which is a significant aspect of the application lifecycle. However, it primarily focuses on testing strategies rather than the broader scope of application lifecycle management, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical debt, which is a relevant aspect of application lifecycle management, particularly in the context of maintenance and improvement of software applications. However, it primarily focuses on the implications of technical debt rather than the broader stages of the application lifecycle or governance practices. While it touches on the importance of managing technical debt to enhance delivery and product quality, it lacks a comprehensive exploration of the entire application lifecycle, making it a secondary rather than primary focus.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1366,12 +1447,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T12:01:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:14:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses automated testing and its role in improving software engineering processes, which aligns with enhancing developer productivity. However, it primarily focuses on testing strategies rather than the broader principles of platform engineering.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses technical debt management and its implications on software development rather than focusing on platform engineering principles or Internal Developer Platforms (IDPs). While it touches on aspects of developer productivity and the importance of managing technical debt, it does not explicitly mention platform engineering or its core components. The discussion lacks depth in relation to platform engineering, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1438,7 +1522,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:31",
+    "calculated_at": "2025-03-14T17:13:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1446,6 +1530,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses automated testing and its importance in software engineering, with no direct mention of Scrum principles, roles, or events. While it touches on concepts like continuous improvement and efficiency, these are not explicitly linked to Scrum practices. The focus is more on technical aspects of testing rather than the collaborative and iterative nature of Scrum.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

@@ -24,9 +24,6 @@ aliasesArchive:
 - /resources/blog/visual-studio-team-system-2010-beta-1-ships
 tags:
 - Software Development
-- Practical Techniques and Tooling
-- Products and Books
-- News and Reviews
 categories: []
 
 ---

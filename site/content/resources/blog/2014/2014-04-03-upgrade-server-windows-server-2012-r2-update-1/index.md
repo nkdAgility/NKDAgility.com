@@ -28,6 +28,8 @@ aliasesArchive:
 - /resources/blog/upgrade-server-windows-server-2012-r2-update-1
 tags:
 - Windows
+- Install and Configuration
+- System Configuration
 categories: []
 preview: nakedalm-windows-logo-6-6.png
 

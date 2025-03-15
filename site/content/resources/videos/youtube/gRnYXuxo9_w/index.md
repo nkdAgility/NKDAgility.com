@@ -27,15 +27,15 @@ duration: 171
 isShort: false
 tags:
 - Transparency
-- Scrum Team
-- Team Collaboration
-- Agile Project Management
-- Professional Scrum
 - Scrum Values
 - Transparency and Accountability
-- People and Process
+- Professional Scrum
 - Team Performance
-- Agile Frameworks
+- People and Process
+- Agile Project Management
+- Scrum Team
+- Team Collaboration
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

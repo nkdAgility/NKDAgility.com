@@ -1,7 +1,7 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T17:08:01",
+    "calculated_at": "2025-03-15T07:39:29",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions TFS (Team Foundation Server) and alludes to aspects of application management, such as installation and documentation. However, it lacks a comprehensive discussion on the stages of the application lifecycle, best practices, or tools that are central to Application Lifecycle Management. The focus is more on personal experiences with TFS rather than a structured exploration of ALM principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -589,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:39:35",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which is relevant to software development practices, but the focus is more on handover documentation rather than core software development methodologies.",
+    "final_score": 47.0,
+    "reasoning": "The content discusses the creation of handover documentation for a TFS deployment, which relates to software development practices, particularly in the context of deployment and management. However, it lacks a detailed exploration of methodologies or best practices in software development, focusing more on personal experiences and specific tools rather than broader software engineering principles.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -1111,7 +1114,7 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T12:15:18",
+    "calculated_at": "2025-03-15T07:39:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1119,7 +1122,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the documentation process for a TFS deployment rather than troubleshooting specific issues. While it mentions the challenges of installation, it lacks detailed discussion on diagnosing or resolving technical problems, which is essential for the Troubleshooting category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1141,7 +1144,7 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-11T10:50:09",
+    "calculated_at": "2025-03-15T07:39:29",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1149,7 +1152,7 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily focuses on the documentation process related to a specific deployment of TFS, rather than discussing deployment strategies or methodologies. While it mentions installation and management, it lacks a detailed exploration of deployment strategies such as Blue-Green Deployments or Canary Releases, which are central to the category. The discussion is more about personal experiences and logistical aspects rather than actionable insights into deployment practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",

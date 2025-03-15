@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Discovery and Learning
 - People and Process
 - Agile Philosophy
+- Agile Project Management
+- Agile Product Management
 - Software Development
+- Agile Planning
+- Personal
+- Business Agility
 - Pragmatic Thinking
-- Agile Values and Principles
-- Agile Leadership
-- Agile Transformation
-- Complexity Thinking
-- Sociotechnical Systems
-- Agile Frameworks
 resourceTypes:
 - video
 categories:

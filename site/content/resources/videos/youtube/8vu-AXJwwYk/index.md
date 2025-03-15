@@ -2,7 +2,7 @@
 title: 'Unlocking Organisational Potential: The Transformative Power of a Great Consultant'
 description: Unlock your organisation's potential with expert consulting insights! Discover how a consultant's unique perspective can drive swift, impactful change.
 date: 2023-01-24T07:30:02Z
-weight: 770
+weight: 850
 ResourceId: 8vu-AXJwwYk
 ResourceType: videos
 ResourceImport: true
@@ -25,16 +25,12 @@ preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: false
 tags:
-- Pragmatic Thinking
-- Organisational Change
 - People and Process
-- Change Management
-- Organisational Agility
-- Sociotechnical Systems
-- Resilience and Change
-- Organisational Physics
-- Transparency and Accountability
 - Organisational Culture
+- Organisational Agility
+- Organisational Change
+- Agile Transformation
+- Change Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

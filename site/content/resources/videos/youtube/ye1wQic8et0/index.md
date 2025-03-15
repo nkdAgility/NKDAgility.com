@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 isShort: false
 tags:
+- Pragmatic Thinking
 - People and Process
 - Agile Project Management
-- Agile Philosophy
 - Agile Strategy
-- Decision Making
-- Lead Time
-- Market Adaptability
-- Enterprise Agility
-- Flow Efficiency
-- Operational Practices
+- Agile Product Management
+- Agile Values and Principles
+- Organisational Agility
+- Value Delivery
+- Business Agility
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

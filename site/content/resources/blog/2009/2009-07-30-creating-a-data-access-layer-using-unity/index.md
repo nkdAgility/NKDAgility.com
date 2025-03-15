@@ -26,9 +26,6 @@ tags:
 - Software Development
 - Technical Mastery
 - Practical Techniques and Tooling
-- Install and Configuration
-- System Configuration
-- Technical Excellence
 categories: []
 preview: metro-binary-vb-128-link-5-5.png
 

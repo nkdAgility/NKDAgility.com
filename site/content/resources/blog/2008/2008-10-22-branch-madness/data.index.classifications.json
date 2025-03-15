@@ -40,11 +40,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:28:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to source control management and branching strategies, which are relevant to technical practices, but the primary focus is on personal experiences and frustrations rather than a structured discussion on engineering methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical issue related to source control management and branching strategies, which aligns with the principles of technical excellence. However, the focus is more on a personal experience and troubleshooting rather than a structured discussion on engineering practices or methodologies that enhance agility. While it mentions the use of TFS as an ALM tool, it does not delve deeply into practices like TDD, CI/CD, or modular architecture, which are core to the category. Therefore, while there is some relevance, the overall depth and focus on technical excellence are limited.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -76,7 +79,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:50:37",
+    "calculated_at": "2025-03-15T07:28:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -84,7 +87,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses issues related to source control and branching strategies, which are relevant to DevOps practices. However, it primarily focuses on a specific incident rather than broader DevOps principles or practices. While there are mentions of tools like TFS and some aspects of version control, the discussion lacks depth in terms of automation, CI/CD, or cultural shifts necessary for DevOps. Therefore, it aligns with the category but does not provide a comprehensive exploration of DevOps concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -184,12 +187,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:28:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to source control branching and merging, which touches on code complexity and management, but primarily focuses on a specific incident rather than broader principles of code quality or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses issues related to source control and branching strategies, which are relevant to code complexity. However, it primarily focuses on a specific incident rather than exploring broader principles of code quality or complexity theory. The discussion lacks depth in addressing the relationship between code quality and complexity, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -274,30 +280,39 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:28:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and reflections on challenges faced while managing source control and team dynamics, but it primarily focuses on technical issues rather than personal insights.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical issues related to source control and branching strategies, which are not personal reflections or experiences. While there are some mentions of personal experiences with team dynamics and challenges faced, the focus remains on technical problem-solving rather than personal insights or anecdotes. The depth of personal context is limited, leading to a lower confidence score in the 'Personal' category.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:28:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a complex issue related to source control and the resolution process, which implies a learning experience. However, the primary focus is on technical implementation details rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a technical issue related to source control management and the resolution of a specific problem. While there is a brief mention of a lesson learned, the focus is predominantly on the technical steps taken to resolve the issue rather than on broader themes of discovery, learning, or innovation. The discussion lacks depth in exploring methodologies or processes that foster continuous learning or experimentation, which are central to the 'Discovery and Learning' category.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:28:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of TFS (Team Foundation Server), which is part of the Azure DevOps suite, but primarily focuses on personal experiences and issues with branching and source control rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of TFS (Team Foundation Server), which is part of the Azure DevOps suite, but it primarily focuses on a specific issue related to branching and source control management rather than providing a comprehensive overview or best practices associated with Azure DevOps. While there are mentions of work items and source control, the discussion lacks depth in terms of Azure DevOps functionalities and does not cover broader topics like CI/CD pipelines or agile project management practices.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -331,12 +346,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:28:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team dynamics and resistance to process changes in the context of using TFS as an ALM tool, indicating a secondary theme related to people and process.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the challenges faced by a team in adopting a new tool (TFS) and the resistance encountered, which touches on team dynamics and collaboration. However, the primary focus is on technical issues related to source control and branching strategies, with limited exploration of human factors or structured methodologies. While there are mentions of team interactions, the depth of discussion on processes and human behaviour is not substantial enough to classify it strongly within the 'People and Process' category.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -358,12 +376,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:17",
+    "calculated_at": "2025-03-15T07:28:21",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses issues related to source control and branching strategies, but it does not primarily focus on the methodologies or practices of product delivery as defined in the category. It is more about a specific incident in version control rather than the end-to-end process of delivering software products.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -376,12 +394,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:28:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to source control and branching in software development, which are relevant to release management, but primarily revolves around specific technical problems rather than a comprehensive overview of release management practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses issues related to source control and branching strategies, which are relevant to release management. However, it lacks a comprehensive focus on the broader aspects of release management such as planning, scheduling, and coordination with stakeholders. The discussion is more about specific technical challenges rather than a structured approach to managing software releases.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -448,11 +469,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:28:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges faced in source control management and provides a detailed walkthrough of the steps taken to resolve them, indicating a focus on software craftsmanship and technical practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific issue related to source control management and branching strategies, which touches on technical practices. However, it primarily focuses on a personal experience and the challenges faced rather than providing a structured discussion on best practices or methodologies in software craftsmanship. While there are elements of technical mastery, such as the steps taken to resolve the branching issue, the overall depth and focus on broader principles of software engineering are limited.",
     "level": "Tertiary"
   },
   "Accountability": {
@@ -646,7 +670,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:12:38",
+    "calculated_at": "2025-03-15T07:28:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -654,7 +678,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses issues related to source control and branching strategies, which are relevant to software development practices. However, it primarily focuses on a specific incident rather than promoting broader principles of engineering excellence or best practices. While there are mentions of problem-solving and lessons learned, the depth of discussion on engineering excellence concepts such as quality assurance, coding standards, or CI/CD practices is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -676,11 +700,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:28:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses a specific issue related to source control and branching in a development environment, with a focus on internal team collaboration and processes, but does not center on Agile or DevOps principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific issue related to source control management and branching strategies, which are relevant to software developers. However, it lacks a direct focus on Agile or DevOps methodologies, and the discussion is more about a specific incident rather than broader best practices or principles. While it touches on the challenges faced by developers, it does not delve deeply into the themes of collaboration, productivity, or modern engineering practices as outlined in the category description.",
     "level": "Tertiary"
   },
   "AI": {
@@ -850,12 +877,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:28:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses problems and solutions related to source control and branching strategies, which are practices relevant to software engineering. However, it primarily focuses on specific issues encountered in version control rather than broader engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to source control and branching strategies, which are relevant to engineering practices. However, it primarily focuses on a specific incident rather than providing a comprehensive discussion on Agile methodologies or principles like clean code, TDD, or CI/CD. The mention of 'ALM' (Application Lifecycle Management) is too vague and does not delve into the core themes of the category. Overall, while there are elements of engineering practices, they are not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -913,12 +943,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:28:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and processes related to source control management and branching strategies, which are relevant to working software in terms of ensuring functional and high-quality software delivery. However, the primary focus seems to be on the specific issue with source control rather than on broader discussions of working software principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses issues related to source control and branching strategies, which are relevant to software development practices. However, it lacks a direct focus on the delivery of functional software or customer value, making it more of a technical discussion rather than a comprehensive exploration of working software principles. The depth of discussion on the specific challenges faced in version control is notable, but it does not sufficiently address the broader themes of working software as defined in the category.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -985,12 +1018,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T11:56:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:28:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "While the primary discussion revolves around issues with branch management in source control, it elaborates on techniques for resolving these issues, which aligns with the focus on operational practices in Agile and DevOps contexts.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific issue related to source control management and the challenges faced in maintaining branch integrity within a version control system. While it touches on operational practices, such as the steps taken to resolve the branching issue, the primary focus is more on the narrative of the problem rather than a structured discussion on operational efficiency or methodologies like Agile, DevOps, or Lean. The mention of 'ALM' (Application Lifecycle Management) hints at a broader operational context, but the depth of discussion is limited to a specific incident without a comprehensive exploration of techniques or strategies that enhance operational practices.",
+    "level": "Tertiary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1126,12 +1162,12 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:13:18",
+    "calculated_at": "2025-03-15T07:28:21",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content describes a technical issue within a source control system and the steps taken to resolve it. While it mentions a 'lesson learned', it primarily focuses on the technical aspects of branching and merging rather than broader principles of Continuous Learning, growth mindset, or knowledge sharing.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -1375,12 +1411,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:28:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching and merging in source control, which are relevant to CI practices, but the primary focus is on issues with project management and team dynamics rather than Continuous Integration principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to source control and branching strategies, which are relevant to Continuous Integration practices. However, it primarily focuses on the challenges faced during a specific incident rather than exploring CI principles or best practices in depth. The mention of merging and branching indicates some alignment with CI concepts, but the overall discussion lacks a comprehensive exploration of CI tools, automated testing, or broader CI strategies.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -1420,7 +1459,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:57:46",
+    "calculated_at": "2025-03-15T07:28:21",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1428,6 +1467,6 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses issues related to source control and branching strategies in a version control system, with no explicit mention of Scrum principles, roles, or events. While there is a brief reference to project management (PM), it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical challenges rather than Scrum practices, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

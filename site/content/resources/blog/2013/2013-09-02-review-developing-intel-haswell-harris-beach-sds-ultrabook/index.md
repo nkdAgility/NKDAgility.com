@@ -28,6 +28,8 @@ aliasesArchive:
 - /resources/blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
 tags:
 - Windows
+- Products and Books
+- News and Reviews
 categories: []
 preview: Web-Intel-Metro-icon-21-21.png
 

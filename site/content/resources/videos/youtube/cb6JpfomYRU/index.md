@@ -26,15 +26,15 @@ duration: 353
 isShort: false
 tags:
 - People and Process
+- Scrum Master
 - Agile Project Management
 - Coaching
 - Discovery and Learning
-- Scrum Master
 - Continuous Learning
-- Practical Techniques and Tooling
-- Scrum Team
-- Agile Transformation
-- Mentoring
+- Team Collaboration
+- Personal
+- Organisational Agility
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6

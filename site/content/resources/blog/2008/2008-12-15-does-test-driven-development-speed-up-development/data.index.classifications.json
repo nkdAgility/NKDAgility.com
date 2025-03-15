@@ -121,11 +121,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses test-driven development (TDD), which is a practical technique relevant to software development, but it does not delve deeply into specific tools or methodologies associated with Agile or DevOps practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses test-driven development (TDD), which is a practical technique relevant to Agile methodologies. However, it lacks direct mentions of specific tools or frameworks, and the depth of discussion on TDD is limited. While it aligns conceptually with the category by addressing a technique that enhances software development practices, it does not provide extensive detail or practical application insights, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -157,12 +160,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses test-driven development (TDD) and its impact on adaptability and productivity in software development, which aligns with the theme of organisational agility, but it primarily focuses on TDD rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its benefits, such as reducing complexity and improving adaptability in software development. However, it does not explicitly address organisational agility as a primary focus. While it touches on concepts related to adaptability and flow, it lacks a comprehensive exploration of agile methodologies, leadership roles, or cultural shifts necessary for organisational agility. The discussion is more centred on TDD rather than broader organisational strategies, which limits its alignment with the category.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -175,20 +181,26 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses test-driven development (TDD) and its impact on complexity and productivity in software development, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its impact on complexity in software development, which aligns with the category's focus on code quality and complexity. It explicitly mentions how TDD decreases complexity and improves adaptability, which are key themes in the category. However, while it touches on these concepts, the depth of discussion is somewhat limited, primarily focusing on TDD without delving into broader complexity theory or architectural implications. Therefore, the confidence score reflects a strong but not exhaustive alignment with the category.",
+    "level": "Secondary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content references a post discussing test-driven development, which is relevant to software development practices, but primarily focuses on a specific opinion rather than broader industry news or reviews.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a specific post on test-driven development (TDD), which is relevant to the software development industry. It mentions the benefits of TDD and its impact on productivity, aligning with the core themes of Agile and technology updates. However, it primarily focuses on summarising another author's work rather than providing a comprehensive review or analysis, which limits its depth. The direct mention of industry relevance and the call to action for software professionals adds to its credibility, but the lack of extensive detail on TDD's implications in Agile or DevOps practices reduces the overall confidence score.",
     "level": "Tertiary"
   },
   "Business Agility": {
@@ -202,21 +214,27 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses test-driven development (TDD) and its impact on software development processes, which relates to iterative development and improving productivity, but it does not primarily focus on value delivery strategies or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its benefits, such as reducing complexity and improving adaptability, which aligns with the principles of iterative development and incremental delivery. However, it lacks a direct focus on value delivery strategies or methodologies within Agile or DevOps frameworks. The discussion is more about TDD's impact on development processes rather than explicitly addressing customer value or satisfaction, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship between test-driven development and flow, indicating that flow is a significant theme, but it is not the primary focus of the overall discussion.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses how test-driven development (TDD) supports flow in software development, which aligns with the principles of Flow Efficiency. It mentions the reduction of rework and design flaws, which are relevant to optimising throughput. However, while flow is a key theme, the discussion is not deeply focused on specific techniques or metrics for flow efficiency, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -274,12 +292,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses test-driven development (TDD) and its impact on software development processes, which relates to learning and adaptation in product development. However, the primary focus is on TDD rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its benefits, such as reducing complexity and improving adaptability, which aligns with the themes of continuous learning and innovation in software development. However, it primarily focuses on TDD as a technical practice rather than exploring broader methodologies or processes that foster discovery and learning. The discussion lacks depth in terms of how TDD can be integrated into a culture of experimentation or how it contributes to team dynamics, which limits its overall alignment with the category.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -337,16 +358,19 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses test-driven development (TDD) and its role in improving adaptability and reducing rework in software development, which aligns with the principles of Agile methodologies. However, the primary focus is on TDD rather than broader market adaptability strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its benefits, such as improving adaptability and reducing rework, which aligns with the principles of Agile methodologies. However, it does not explicitly focus on broader market adaptability strategies or practices, making it a secondary topic rather than a primary focus. The depth of discussion on TDD is moderate, but it lacks comprehensive coverage of how these practices directly enhance an organisation's ability to respond to market shifts.",
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T17:03:42",
+    "calculated_at": "2025-03-15T07:25:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -354,7 +378,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses test-driven development (TDD) and its benefits, such as reducing complexity and improving adaptability, which are relevant to product delivery. However, it primarily focuses on TDD as a practice rather than the broader methodologies and processes involved in delivering software products. While it touches on aspects that could relate to product delivery, it lacks a comprehensive exploration of the end-to-end delivery process, making it a secondary focus rather than a primary discussion.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -691,11 +715,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses test-driven development (TDD) and its impact on complexity, adaptability, and flow in software development, which are related to Lean principles such as waste reduction and value maximization, but the focus is not primarily on Lean principles themselves.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its benefits, such as reducing complexity and improving flow, which aligns with Lean principles of waste reduction and value maximisation. However, it primarily focuses on TDD rather than Lean principles directly, leading to a moderate confidence score. The mention of flow supports Lean concepts, but the overall depth of discussion on Lean itself is limited.",
     "level": "Tertiary"
   },
   "Windows": {
@@ -913,12 +940,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:33",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses test-driven development (TDD), which is a practice that contributes to the quality and functionality of software. While TDD is related to the concept of working software, the primary focus of the content is on TDD itself rather than directly on delivering working software.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its benefits, which relate to the delivery of functional software. However, it does not explicitly focus on the broader category of working software or its characteristics within Agile and Scrum frameworks. The mention of TDD aligns with the concept of ensuring software quality and functionality, but the depth of discussion is limited to TDD without exploring other aspects of working software or customer feedback integration.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -988,20 +1018,26 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses test-driven development (TDD) and its impact on software development processes, highlighting aspects of operational efficiency and workflow management. However, it primarily focuses on TDD rather than a broader operational practices theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its impact on reducing complexity and rework, which aligns with operational efficiency. However, it lacks a direct focus on broader operational practices or methodologies like Agile or Lean, and the discussion is somewhat general without delving deeply into specific operational strategies or metrics.",
     "level": "Tertiary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of test-driven development that relate to improving flow and productivity, which are indirectly relevant to throughput. However, it mostly focuses on TDD rather than throughput as a primary topic.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the impact of test-driven development (TDD) on productivity and flow, which are relevant to throughput. It mentions how TDD reduces complexity and rework, indirectly linking to the optimisation of work completion rates. However, it does not explicitly focus on throughput as a primary topic, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -1144,12 +1180,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the practical implications of test-driven development (TDD) on productivity and complexity in software development, reflecting on real-world applications and benefits, although it lacks a direct focus on Agile or Scrum frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its practical benefits in software development, aligning well with pragmatic thinking principles. It highlights how TDD decreases complexity and improves adaptability, which are key aspects of practical problem-solving in Agile contexts. The depth of discussion on TDD's impact on productivity and flow indicates a strong understanding of real-world applications, though it could benefit from more explicit connections to Agile or Scrum frameworks.",
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -1216,12 +1255,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:25:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of flow and how test-driven development (TDD) can enhance productivity, which relates to Lean principles, but the primary focus is on TDD rather than Lean Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses test-driven development (TDD) and its benefits, such as reducing complexity and improving flow, which are relevant to Lean Thinking principles. However, it does not explicitly mention Lean principles or tools, nor does it delve deeply into waste identification or continuous improvement strategies. The focus is primarily on TDD rather than Lean Thinking itself, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1417,7 +1459,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:56:10",
+    "calculated_at": "2025-03-15T07:25:06",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1425,6 +1467,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses test-driven development (TDD) and its benefits in software development, without any explicit mention of Scrum principles, roles, or events. While TDD can align with Agile methodologies, the discussion does not focus on Scrum specifically, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

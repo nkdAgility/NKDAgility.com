@@ -28,6 +28,9 @@ aliasesArchive:
 - /resources/blog/windows-8-issue-local-network-is-detected-as-public
 tags:
 - Windows
+- Troubleshooting
+- Install and Configuration
+- System Configuration
 categories: []
 preview: metro-problem-icon-5-5.png
 

@@ -23,16 +23,16 @@ aliasesArchive:
 - /continuous-value-delivery-with-modern-business-applications
 - /resources/blog/continuous-value-delivery-with-modern-business-applications
 tags:
+- Software Development
+- Deployment Frequency
+- Frequent Releases
 - Continuous Delivery
+- Value Delivery
 - Working Software
+- Product Delivery
 - Release Management
 - Pragmatic Thinking
-- Value Delivery
-- Business Agility
-- Deployment Frequency
-- News and Reviews
-- Product Delivery
-- Software Development
+- Software Developers
 categories:
 - DevOps
 - Engineering Excellence

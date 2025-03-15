@@ -30,6 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Continuous Learning
+- Agile Transformation
+- Discovery and Learning
+- Agile Project Management
+- Pragmatic Thinking
+- Agile Frameworks
+- Team Collaboration
+- Software Development
+- Coaching
 resourceTypes:
 - video
 categories:

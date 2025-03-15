@@ -24,9 +24,11 @@ preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 isShort: false
 tags:
+- Agile Project Management
 - Agile Frameworks
+- Coaching
+- Agile Transformation
 - Software Development
-- Technical Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6

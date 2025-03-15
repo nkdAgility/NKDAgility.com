@@ -124,7 +124,7 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-07T13:06:13",
+    "calculated_at": "2025-03-14T19:41:56",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the concept of learning in the context of Scrum but lacks explicit discussions on value delivery strategies or methodologies. While it mentions the importance of asking the right questions, it does not delve into how this relates to delivering value to customers or aligning product development with customer needs. The focus is more on the learning process rather than on value delivery principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -391,7 +391,7 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-10T14:02:59",
+    "calculated_at": "2025-03-14T19:41:56",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -399,7 +399,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the importance of theory in learning, which can relate to Agile's emphasis on continuous improvement and learning. However, it primarily focuses on immersive learning in a Scrum context without delving into the broader Agile principles or philosophy. The discussion lacks explicit references to Agile values or the Agile Manifesto, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -748,7 +748,7 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-03-11T09:57:40",
+    "calculated_at": "2025-03-14T19:41:56",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -756,7 +756,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the importance of theory in learning, which can relate to Agile principles of continuous improvement and learning. However, it lacks direct mentions of Agile transformation strategies, frameworks, or methodologies, and does not provide substantial depth on Agile practices or their implementation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -904,7 +904,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-11T11:20:37",
+    "calculated_at": "2025-03-14T19:41:56",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -912,7 +912,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions immersive learning in the context of Scrum, indicating a connection to Agile frameworks. However, it lacks a detailed exploration of Scrum principles or practices, focusing instead on the importance of theory in learning. While it aligns conceptually with the idea of enhancing understanding within Agile contexts, it does not provide a comprehensive discussion of Agile frameworks or their applications.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1231,12 +1231,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T13:24:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:05:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of learning and asking the right questions, which aligns with mentoring principles, but it primarily focuses on immersive learning rather than direct mentoring techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses immersive learning in Scrum and the importance of theory in training, which indirectly relates to mentoring. However, it lacks explicit focus on mentoring techniques or the role of a mentor, making it a secondary theme rather than a primary focus.",
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1276,12 +1279,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T13:24:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of theory in relation to experience and learning, which aligns with pragmatic thinking, but it primarily focuses on immersive learning rather than practical problem-solving strategies in Agile or Scrum contexts.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:28:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the integration of theory and experience in Scrum training, emphasising practical problem-solving and critical thinking. It aligns well with the core themes of pragmatic thinking by illustrating how theoretical knowledge enhances real-world application in Agile contexts. The depth of discussion is significant, providing personal insights and practical advice, which reinforces the importance of adaptability and experience in navigating complex environments.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1294,12 +1300,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T13:24:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:36:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of asking the right questions and learning, which aligns with coaching principles, but it primarily focuses on immersive learning rather than coaching itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses immersive learning in Scrum, emphasising the importance of asking the right questions and reflecting on experiences, which aligns with coaching principles. However, it primarily focuses on the theory and practice of Scrum training rather than coaching techniques or the role of a coach, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

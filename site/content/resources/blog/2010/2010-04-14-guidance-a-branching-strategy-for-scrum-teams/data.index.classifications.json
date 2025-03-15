@@ -43,11 +43,14 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:01:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses branching strategies in Scrum, which relates to managing complexity in codebases and the impact of branching on code quality. However, the primary focus is on Scrum practices rather than a deep exploration of code quality principles or complexity theory.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses branching strategies in Scrum, which relates to code management and complexity in software development. It mentions the impact of branching on code quality and the complexities involved in merging and integrating code. However, the primary focus is on Scrum practices rather than a deep exploration of code quality principles or complexity theory, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Discovery and Learning": {
@@ -124,7 +127,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T15:03:43",
+    "calculated_at": "2025-03-15T07:00:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +135,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on Scrum practices and branching strategies, which are more aligned with Agile methodologies than with DevOps principles. While it touches on aspects of version control and integration, it lacks a comprehensive discussion on DevOps practices such as Continuous Integration (CI), Continuous Delivery (CD), and the cultural shifts necessary for successful DevOps implementation. The depth of discussion on branching strategies is significant, but it does not sufficiently address the broader DevOps context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -286,21 +289,27 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:01:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses branching strategies in Scrum, which is related to value delivery through effective code management and integration practices, but it primarily focuses on technical implementation details rather than directly addressing value delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses branching strategies within Scrum, which is related to Agile methodologies. However, it primarily focuses on technical implementation details and branching practices rather than explicitly addressing value delivery principles, customer satisfaction, or business agility. While there are mentions of Scrum and some alignment with Agile practices, the depth of discussion on value delivery is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:01:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses branching strategies in the context of Scrum teams, with references to TFS (Team Foundation Server), which is part of Azure DevOps. However, the focus is more on Scrum practices rather than Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses branching strategies within Scrum teams, which is relevant to Azure DevOps but does not explicitly focus on Azure DevOps services or tools. While it touches on concepts like TFS (Team Foundation Server), which is part of the Azure DevOps suite, the overall discussion is more centred on Scrum methodologies rather than Azure DevOps functionalities. Therefore, the confidence score reflects a moderate alignment with the Azure DevOps category.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -340,12 +349,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:02:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and branching strategies, which are related to agile methodologies, but the primary focus is on technical implementation rather than broader organisational agility principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on branching strategies within Scrum teams, which is a specific aspect of Agile methodologies. While it touches on some principles of agility, such as the importance of flexibility and responsiveness in development processes, it lacks a broader discussion on organisational agility as defined in the category. The depth of discussion is limited to technical practices rather than exploring cultural shifts or leadership roles that enhance organisational adaptability.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -370,29 +382,35 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T09:09:18",
+    "calculated_at": "2025-03-15T07:00:56",
     "ai_confidence": 15,
     "non_ai_confidence": 10,
     "final_score": 14.0,
     "reasoning": "While the content mentions Scrum and touches on some processes related to sprints and branching, it does not primarily focus on the Daily Scrum itself or its key principles; hence the relevance is minimal.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:02:07",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses completing work according to the definition of done primarily in the context of branching strategies, making the DoD a significant but secondary theme.",
+    "final_score": 44.0,
+    "reasoning": "The content discusses branching strategies in Scrum and mentions the 'definition of done' in the context of merging code, but it does not provide a comprehensive exploration of the Definition of Done as a concept. While it touches on related practices, the primary focus is on branching rather than the criteria that constitute a Definition of Done.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:02:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily provides guidance on branching strategies within Scrum teams which touches on practices relevant to software craftsmanship. However, the focus on Scrum processes and team management dilutes the emphasis on technical principles and best practices in software design and architecture.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses branching strategies within the context of Scrum teams, which is a technical topic. However, while it touches on aspects of software craftsmanship and engineering practices, such as the importance of maintaining a stable codebase and avoiding anti-patterns, the focus is more on project management and Scrum processes rather than deep technical mastery. The depth of discussion on technical practices is moderate, but it lacks comprehensive exploration of broader software engineering principles.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -523,12 +541,12 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:09:18",
+    "calculated_at": "2025-03-15T07:00:56",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content primarily focuses on technical aspects of branching strategies in Scrum, with references to specific practices rather than a discussion on Agile principles or the underlying philosophy.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
@@ -571,29 +589,38 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:02:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses branching strategies in Scrum and mentions the importance of maintaining code quality and testing practices, but it does not primarily focus on automated testing methodologies or best practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on branching strategies within Scrum teams and does not delve into automated testing principles or practices. While there are brief mentions of testing in the context of the development process, it lacks a detailed exploration of automated testing methodologies, tools, or best practices, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:02:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a branching strategy for Scrum teams and touches upon how branching can affect team collaboration and dynamics, but the primary focus is on branching technicalities rather than team performance itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses branching strategies specifically for Scrum teams, which relates to team performance in terms of code management and collaboration. However, while it touches on aspects of team dynamics and practices, it lacks a comprehensive exploration of team performance metrics, leadership roles, or conflict resolution strategies. The focus is more on technical implementation rather than broader team performance methodologies.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-16T01:39:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:01:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content discusses the practices and strategies involved in branching and merging within Scrum, particularly focusing on how to handle software increments and the importance of delivering a potentially shippable product increment at the end of a sprint.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses branching strategies in Scrum, which directly relates to the delivery of increments. It explains the process of merging code back into the main branch after a sprint, emphasising the importance of having a potentially shippable product at the end of each sprint. The depth of discussion includes practical steps and considerations for ensuring quality and completeness of the increment, aligning well with the key topics of the Increment category.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -607,47 +634,59 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:39:26",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T07:01:09",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily focuses on branching strategies in Scrum teams, which is a central topic in the software development lifecycle, particularly in relation to version control practices and Agile methodologies.",
+    "final_score": 85.0,
+    "reasoning": "The content provides a comprehensive discussion on branching strategies specifically tailored for Scrum teams, which is a key aspect of software development methodologies. It directly addresses best practices in version control, particularly in the context of Scrum, and discusses the implications of branching on code quality and team collaboration. The depth of the discussion is significant, covering various scenarios, mistakes to avoid, and the rationale behind the proposed strategies, thus aligning well with the core themes of software development.",
     "level": "Primary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T01:39:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:00:59",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum concepts, branching strategies, and processes directly related to managing projects within an Agile framework, particularly focusing on sprint implementation and code management practices in Agile development.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on branching strategies within Scrum, which is a key framework in Agile Project Management. It discusses the importance of managing branches in relation to sprints, the roles of team members, and the iterative process of development, all of which align closely with Agile principles. The depth of discussion is substantial, providing detailed insights into best practices and common pitfalls in the context of Scrum, thus reinforcing its relevance to Agile Project Management.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:09:18",
+    "calculated_at": "2025-03-15T07:00:56",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "The content primarily discusses a branching strategy for Scrum teams and incorporates limited mentions of Scrum without deeply engaging with Agile values or principles. It focuses more on procedural advice rather than the underlying values of Agile methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-16T01:39:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:01:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content extensively discusses Scrum principles, particularly in the context of branching strategies for Scrum teams, and it provides practical advice on how to manage branches within the Scrum framework, which is relevant for professionals seeking to enhance their Scrum implementation.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses branching strategies in the context of Scrum development, which is relevant to Scrum practices. However, it does not delve deeply into Scrum roles, events, or values, and instead focuses more on technical aspects of version control. While it mentions Scrum and provides some guidance related to it, the primary focus is on branching strategies rather than a comprehensive exploration of Scrum principles.",
+    "level": "Tertiary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T01:39:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:01:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses branching strategies in source control systems, particularly in the context of Scrum teams, and how to handle merges and stabilize code, with a focus on best practices for version control.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on branching strategies within the context of Scrum teams, which is a key aspect of modern source control practices. It discusses various methodologies for managing branches, including forward and reverse integration, and highlights the importance of maintaining a stable main branch. The depth of discussion is significant, providing detailed insights into best practices, potential pitfalls, and the rationale behind specific branching strategies. While there are references to Scrum, the core focus remains on version control practices, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -670,12 +709,12 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:09:18",
+    "calculated_at": "2025-03-15T07:00:56",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content discusses branching strategies and Scrum workflows, but does not focus primarily on Azure Boards or its specific features and functionalities.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -724,12 +763,15 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:02:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a branching strategy for Scrum teams, including how to manage multiple teams and code merging, which relates to maintaining Scrum processes at scale.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses branching strategies specifically for Scrum teams, which is relevant to maintaining Scrum practices at scale. However, it does not delve deeply into frameworks for scaling Scrum or the coordination among multiple teams, which are key topics in the category. The mention of Scrum roles and processes is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -808,11 +850,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T01:39:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:01:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for implementing a branching strategy in Scrum teams, emphasizing real-world applications, problem-solving techniques, and navigating complexities associated with Agile development.",
+    "final_score": 70.0,
+    "reasoning": "The content provides a detailed exploration of a branching strategy specifically tailored for Scrum teams, which directly relates to practical problem-solving in Agile environments. It discusses real-world applications of branching, the importance of maintaining a stable code base, and the integration of various Scrum practices. The depth of discussion is significant, with multiple examples and scenarios illustrating the complexities of branching and merging in a Scrum context. However, while it aligns well with pragmatic thinking, it does not explicitly focus on broader Agile or DevOps principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -835,21 +880,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T01:39:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:01:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily focuses on branching strategies within the context of Scrum development, discussing the Scrum process, roles, and how branching can affect product development practices.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses a branching strategy specifically for Scrum teams, detailing how to manage code during sprints, which aligns well with Scrum principles. It mentions Scrum roles and processes, such as sprint planning and merging strategies, indicating a strong connection to Scrum practices. However, the focus on branching strategies may detract slightly from a broader discussion on Scrum product development, hence the confidence score reflects a strong but not perfect alignment.",
     "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T07:01:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content focuses on branching strategies in the context of Scrum teams, which reflects on coordinating work among teams, but it does not primarily address scaling Agile practices across multiple teams or at an enterprise level.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses branching strategies within Scrum teams, which is a specific Agile practice rather than a scaled Agile framework. While it touches on aspects of team coordination and mentions Scrum, it lacks a broader focus on scaling Agile practices across multiple teams or at an enterprise level. The discussion is more about individual team practices rather than the principles of Scaled Agile methodologies.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -889,30 +940,39 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T01:39:27",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T07:01:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses branching strategies in the context of Scrum development, which indirectly relates to ensuring working software by promoting better code integration and delivery practices. However, the focus on branching strategies makes it a secondary theme rather than a primary discussion centered on working software.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses branching strategies within Scrum, which is relevant to the delivery of working software. It touches on the importance of maintaining a stable codebase and the process of merging code, which aligns with the iterative development and quality assurance aspects of working software. However, the primary focus is on branching strategies rather than the broader concept of delivering functional software, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:02:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses branching strategies in Scrum which relates to Agile planning, though it focuses primarily on branching rather than a comprehensive overview of Agile planning tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses branching strategies within Scrum teams, which is a specific aspect of Agile development but does not focus on Agile Planning Tools as defined in the category. While it touches on some relevant concepts like sprint planning and team collaboration, it lacks a comprehensive exploration of Agile Planning Tools, their benefits, or techniques for backlog management. The discussion is more about branching and merging practices rather than the tools that facilitate Agile planning.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:02:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses branching strategies for Scrum teams, which is related to code management and integration practices. It touches on concepts such as merging, integration scenarios, and the importance of maintaining a stable 'Main' branch, which align with Continuous Integration principles, though it is not exclusively focused on CI.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses branching strategies within Scrum teams, which is tangentially related to Continuous Integration. While it touches on merging and integration practices, it lacks a focused discussion on CI principles, tools, or automated testing, which are core to the CI category. The depth of discussion on CI-related topics is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -961,12 +1021,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:02:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision points related to branching strategies in Scrum development, including how to handle bugs and the implications of choosing different branching methods. It provides insights that relate to collaborative decision-making within teams and considerations for evaluating options, though it primarily focuses on implementation rather than structured methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses branching strategies in Scrum, which indirectly relates to decision-making processes in software development. However, it primarily focuses on technical practices rather than structured, evidence-based methodologies for decision-making. While there are mentions of considerations and choices developers face, the depth of discussion on decision-making frameworks and empirical evidence is limited.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -979,11 +1042,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T01:39:27",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T07:01:27",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses branching strategies within the context of Scrum, which includes significant details about merging and releasing code, stabilization, and release activities. These aspects are closely tied to Release Management practices, emphasizing the processes involved in software release, making it a key theme of the content.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses branching strategies within the context of Scrum, which is closely related to release management practices. It covers topics such as merging, stabilisation, and the creation of release branches, all of which are integral to effective release management. However, while it touches on release processes, the primary focus remains on Scrum methodologies and branching strategies, leading to a high but not absolute confidence score.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1015,12 +1081,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:02:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses branching strategies within Scrum, which indirectly relates to deployment frequency by emphasizing the importance of merging and integration practices that can affect release cycles. However, the primary focus is on branching rather than explicitly optimizing deployment intervals.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses branching strategies within Scrum teams, which is tangentially related to deployment frequency. While it touches on aspects of merging and integration that can impact deployment practices, it does not focus on the optimisation of deployment intervals or the core principles of continuous delivery and deployment. The discussion lacks depth in terms of strategies specifically aimed at increasing deployment frequency or measuring it, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -1096,12 +1165,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:02:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses branching strategy in the context of Scrum, which is related to technical leadership and team practices. However, it primarily focuses on the specifics of branching and merging rather than broader themes of technical leadership.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses branching strategies within Scrum teams, which touches on aspects of technical leadership, such as fostering collaboration and managing team dynamics. However, it lacks a direct focus on the principles of technical leadership, such as mentoring or coaching, and does not delve deeply into agile methodologies or servant leadership. The primary emphasis is on technical practices rather than leadership strategies.",
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1204,12 +1276,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:39:28",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T07:01:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "Content discusses branching strategies specifically in the context of Scrum teams and mentions Scrum processes relevant to Scrum Masters, suggesting a significant focus on the role although it also contains tangential information.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses branching strategies in the context of Scrum teams, which is relevant to the role of a Scrum Master. However, it does not delve deeply into the responsibilities or practices of a Scrum Master, focusing instead on technical aspects of branching and merging. While it mentions Scrum and its processes, the primary focus is on technical implementation rather than the facilitation and coaching aspects of the Scrum Master role.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1231,11 +1306,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-16T01:39:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:01:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on branching strategies for Scrum teams, discussing methodologies and practices related to software development in an Agile context, which aligns well with the role of software developers.",
+    "final_score": 80.0,
+    "reasoning": "The content provides a comprehensive discussion on branching strategies specifically tailored for Scrum teams, which is a key aspect of Agile methodologies. It directly addresses the role of software developers in managing code through branching and merging practices, emphasising the importance of these strategies in maintaining code quality and facilitating collaboration within Agile frameworks. The depth of discussion is significant, covering various scenarios, best practices, and potential pitfalls, which aligns well with the category's focus on enhancing developer productivity and collaboration.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,11 +1327,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T01:39:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:01:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses branching strategies in the context of Scrum teams, emphasizing clean code practices, merging strategies, and the importance of stable code lines which aligns well with principles of software engineering practices.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses branching strategies within the context of Scrum, which is a framework for Agile development. It provides detailed insights into how branching can enhance code quality and maintainability, aligning well with the principles of clean code and automation. However, while it touches on relevant engineering practices, the focus on Scrum and project management aspects slightly detracts from a pure engineering practices discussion, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -1276,7 +1357,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T13:05:32",
+    "calculated_at": "2025-03-15T07:00:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1284,7 +1365,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on technical aspects of branching strategies within Scrum teams, which is more aligned with software development practices than with the strategic aspects of product management. While it briefly touches on Scrum and mentions the importance of aligning development with customer needs, it lacks a comprehensive discussion on product management methodologies, frameworks, or decision-making processes that drive product success. Therefore, the confidence score reflects a low alignment with the core themes of product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1297,30 +1378,39 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-16T01:39:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:01:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses branching strategies within the context of Scrum teams, providing specific insights and practices relevant to applying the Scrum framework effectively.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a branching strategy specifically for Scrum teams, which is a key Agile framework. It provides insights into Scrum practices, such as sprint planning, merging strategies, and the importance of maintaining a stable codebase. While it does not delve deeply into the broader principles of Agile frameworks or compare them, it aligns well with Scrum's methodologies and offers practical applications relevant to Agile practices. The depth of discussion on Scrum-related processes contributes to a higher confidence score.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:01:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses branching strategies and merges within the context of Scrum teams, highlighting practices that can contribute to an Agile framework. However, it primarily focuses on technical practices rather than an overarching Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses branching strategies within Scrum teams, which is a technical practice rather than a strategic discussion on Agile methodologies. While it touches on aspects of Scrum and mentions the importance of merging and integration, it lacks a comprehensive exploration of Agile strategy concepts such as organisational vision alignment, customer-centric approaches, or leadership roles in fostering an Agile culture. The focus remains on technical execution rather than strategic planning or adaptability.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:01:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses branching strategies related to Scrum teams, which are relevant to source control management practices. However, it also emphasizes Scrum methodologies and Team Foundation Server (TFS) without specifically focusing on Azure Repos. The second theme about branching may provide insights for Azure Repos users, but it does not exclusively concentrate on Azure Repos.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses branching strategies specifically in the context of Scrum teams, which is relevant to Azure Repos as it involves source control management. It mentions practices like forward and reverse integration, which are crucial for managing branches in Azure Repos. However, the primary focus on Scrum methodologies and the lack of direct references to Azure Repos features or tools slightly detracts from its alignment with the category.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",

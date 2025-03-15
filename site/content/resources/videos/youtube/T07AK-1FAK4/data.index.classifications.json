@@ -91,7 +91,7 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-06T15:05:21",
+    "calculated_at": "2025-03-14T21:10:39",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -99,7 +99,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the concept of 'fake agilists' in a somewhat anecdotal manner, which aligns with the Miscellaneous category. However, it does reference Agile principles and critiques a specific aspect of Agile practice, which detracts from its classification as purely Miscellaneous. The discussion lacks depth and actionable insights, focusing instead on personal opinion without a clear connection to established Agile frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -112,7 +112,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-07T13:23:36",
+    "calculated_at": "2025-03-14T21:10:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -120,7 +120,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions the concept of 'fake agilists' and their impact on teams, which touches on human behaviour in Agile environments. However, it lacks a detailed exploration of team dynamics, leadership, or structured methodologies, resulting in a low confidence score. The discussion is more focused on criticism rather than constructive insights into processes or collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -133,7 +133,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-06T15:05:19",
+    "calculated_at": "2025-03-14T21:10:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -141,7 +141,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions 'agile' and critiques 'fake agilists', which relates to Agile practices. However, it lacks detailed discussion on Scrum, Kanban, Lean, or Agile methodologies, focusing instead on a negative portrayal of individuals claiming expertise without proper understanding. This results in a low confidence score due to minimal direct mentions and insufficient depth.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1000,7 +1000,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T11:55:12",
+    "calculated_at": "2025-03-14T21:10:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1008,7 +1008,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Agile and critiques individuals claiming to be Agile practitioners without proper understanding. However, it lacks a detailed discussion on Agile methodologies or software development practices, focusing instead on a negative portrayal of certain individuals. This results in a low confidence score as the primary focus is not on software development techniques or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1399,7 +1399,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:15:18",
+    "calculated_at": "2025-03-14T21:10:39",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1407,6 +1407,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly mentions 'agile' and critiques individuals claiming to be agile experts, but it does not specifically discuss Scrum principles, roles, events, or practices. The focus is more on the concept of 'fake agilists' rather than on Scrum itself, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

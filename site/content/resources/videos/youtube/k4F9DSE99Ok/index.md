@@ -2,7 +2,7 @@
 title: 'Combatting Famine in Agile: How to Foster Stakeholder Engagement and Boost Team Morale'
 description: Combat Agile famine by boosting stakeholder engagement! Discover strategies to enhance feedback and align your team with business goals for better outcomes.
 date: 2023-10-31T07:00:18Z
-weight: 775
+weight: 700
 ResourceId: k4F9DSE99Ok
 ResourceType: videos
 ResourceImport: true
@@ -26,12 +26,16 @@ preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
 duration: 49
 isShort: true
 tags:
-- Agile Project Management
-- People and Process
-- Customer Feedback Loops
 - Agile Product Management
-- Agile Leadership
-- Scrum Team
+- Agile Project Management
+- Agile Frameworks
+- Software Development
+- Agile Planning
+- People and Process
+- Agile Strategy
+- Agile Transformation
+- Customer Feedback Loops
+- Team Collaboration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

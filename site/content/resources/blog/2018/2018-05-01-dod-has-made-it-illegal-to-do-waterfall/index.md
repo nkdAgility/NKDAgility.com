@@ -24,15 +24,15 @@ aliasesArchive:
 - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
 tags:
 - Business Agility
-- Agile Product Management
-- Increment
-- Market Adaptability
-- Agile Product Operating Model
+- Software Development
+- Working Software
 - Agile Project Management
-- Agile Values and Principles
-- Empirical Process Control
-- Large Scale Agility
-- Scrum Product Development
+- Organisational Agility
+- Pragmatic Thinking
+- Value Delivery
+- News and Reviews
+- Agile Transformation
+- Product Delivery
 categories:
 - Social Technologies
 - Engineering Excellence

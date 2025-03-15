@@ -37,12 +37,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses measuring and optimising systems for delivering value, which relates to throughput, but it primarily focuses on broader concepts of culture and technical leadership rather than specifically on throughput metrics or strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems for delivering value, which aligns with the concept of throughput. However, it lacks direct mentions of throughput and specific metrics related to measuring work completion rates. The discussion is more focused on organisational culture and general optimisation rather than explicitly addressing throughput as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -55,11 +58,14 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts related to optimising value and understanding systems, which align with Lean principles, but it primarily focuses on creating a culture of engineering excellence and technical leadership rather than explicitly addressing Lean Product Development practices.",
+    "calculated_at": "2025-03-14T16:47:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses concepts related to system optimisation and value delivery, which align with Lean principles. However, it lacks direct mentions of Lean Product Development and does not delve deeply into specific Lean techniques or frameworks. The focus is more on organisational culture and engineering excellence rather than explicitly on Lean methodologies.",
     "level": "Tertiary"
   },
   "Test Driven Development": {
@@ -100,11 +106,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding and measuring systems to optimise outcomes, which aligns with empirical process control principles. However, it primarily focuses on creating a culture of engineering excellence and cost-effective software development, making empirical process control a secondary theme.",
+    "calculated_at": "2025-03-14T16:48:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems, which aligns with empirical process control principles. However, it lacks direct references to Agile methodologies and does not delve deeply into the core themes of transparency, inspection, and adaptation. The focus is more on organisational culture and value optimisation rather than on empirical process control itself.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
@@ -139,20 +148,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:47:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a culture of engineering excellence and measuring systems to optimise value, which aligns with the themes of innovation and improvement, but it is not the primary focus.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems to deliver value, which aligns with the concept of innovation. However, it lacks explicit references to the Ability to Innovate category and does not delve deeply into frameworks or metrics for measuring innovation capabilities. The focus is more on operational excellence and culture rather than on innovation practices or Evidence-Based Management.",
     "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:19:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the optimisation of value delivery and the importance of metrics in decision-making, which are relevant to strategic approaches in Agile environments. However, it primarily focuses on the concept of culture and technical leadership rather than a clear strategic framework.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the optimisation of systems and the importance of metrics in delivering value, which aligns with strategic approaches in Agile environments. However, it lacks explicit references to Agile, Scrum, or DevOps frameworks, and while it touches on strategic concepts, it does not delve deeply into the specific methodologies or practices associated with these frameworks.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -166,12 +181,15 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses value optimisation and metrics for decision-making, which are relevant to portfolio management, but the primary focus is on creating a culture of engineering excellence and technical leadership rather than directly managing a portfolio of projects.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses optimising systems and creating value, which are relevant to portfolio management, but it primarily focuses on organisational culture and engineering excellence rather than directly addressing portfolio management practices or methodologies. The mention of metrics and optimisation aligns somewhat with the category, but the overall discussion lacks depth and direct references to portfolio management concepts.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -193,12 +211,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to value optimisation and system measurement, which are relevant to Agile Planning, but it primarily focuses on organisational culture and technical leadership rather than specific Agile methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses concepts related to system optimisation and value delivery, which are tangentially related to Agile Planning principles. However, it lacks direct mentions of Agile methodologies, specific planning techniques, or detailed discussions on Agile practices such as sprints or user stories. The focus is more on organisational culture and system understanding rather than the core aspects of Agile Planning.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -232,12 +253,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a culture of engineering excellence and optimising systems for value delivery, which are relevant to organisational change. However, the primary focus is on software development and technical leadership rather than a comprehensive exploration of organisational change methodologies or frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:47:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the transformation of organisational culture and the optimisation of systems, which aligns with the principles of organisational change. It mentions the importance of understanding current systems and implementing changes to enhance value, reflecting a focus on agility and improvement. However, it lacks explicit references to established frameworks or methodologies for organisational change, and the depth of discussion on change management practices is somewhat limited.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -313,11 +337,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to value optimisation and system measurement, which align with Lean principles, but it primarily focuses on creating a culture of engineering excellence and technical leadership rather than explicitly detailing Lean practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses concepts related to system optimisation and maximising value, which are aligned with Lean Principles. However, it lacks direct mentions of Lean terminology and specific practices like waste reduction or Kaizen. The depth of discussion on optimising for value and understanding systems indicates a moderate engagement with Lean concepts, but it does not fully delve into the core principles of Lean thinking.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -331,12 +358,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding systems and delivering value, which aligns with Agile principles, but it primarily focuses on cost optimisation and technical leadership rather than the core Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems to deliver value, which aligns with Agile principles of customer-centricity and continuous improvement. However, it lacks direct references to Agile values or the Agile Manifesto, and the focus is more on organisational culture and system optimisation rather than explicitly on Agile values and principles.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -394,11 +424,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses concepts related to software development, such as creating a culture of engineering excellence and optimising systems for delivering value, but it primarily focuses on organisational culture and decision-making rather than specific software development methodologies or practices.",
+    "calculated_at": "2025-03-14T16:47:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses organisational culture and system optimisation, which are relevant to software development practices, particularly in Agile methodologies. However, it lacks direct mentions of specific software development techniques or frameworks, and the depth of discussion on software engineering practices is minimal. The focus is more on organisational culture than on concrete software development processes.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -451,11 +484,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a culture of engineering excellence and optimising value delivery, which are relevant to Agile transformation, but it does not explicitly focus on Agile principles or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems within an organisation, which aligns with Agile principles of continuous improvement and value delivery. However, it lacks direct mentions of Agile methodologies or frameworks, and the depth of discussion on Agile transformation is minimal, focusing more on general engineering excellence and system optimisation.",
     "level": "Tertiary"
   },
   "Operational Practices": {
@@ -484,12 +520,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding and optimising systems for delivering value in software development, which aligns with the theme of working software, but it primarily focuses on organisational culture and metrics rather than directly on functional software delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:47:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational culture and system optimisation, which are tangentially related to working software but do not focus explicitly on the delivery of functional software. While it mentions metrics and iterative processes, it lacks direct references to software quality or customer feedback, which are core themes of the 'Working Software' category.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -583,11 +622,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:25:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to value optimisation and system measurement, which align with Lean principles, but it primarily focuses on creating a culture of engineering excellence and cost control rather than explicitly detailing Lean Thinking principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses concepts related to optimising systems for value, which aligns with Lean Thinking principles. It mentions the importance of understanding workflows and creating metrics, which are relevant to Lean practices. However, it lacks explicit references to key Lean concepts such as waste identification or specific Lean tools, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -664,21 +706,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:19:25",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of creating a culture of engineering excellence and understanding systems for delivering value, which aligns with Agile principles. However, it primarily focuses on the services offered by Naked Agility rather than a deep exploration of Agile philosophy itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems for value delivery, which aligns with Agile principles. However, it primarily focuses on organisational culture and technical leadership rather than explicitly addressing Agile philosophy or its foundational principles. The mention of 'Naked Agility' suggests a connection to Agile, but the discussion lacks depth in exploring Agile values and principles.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses achieving outcomes and optimising goals, which aligns with strategic objectives, but it primarily focuses on operational tactics and the concept of organisational culture rather than explicitly defining long-term strategic goals.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:47:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems to achieve organisational goals, which aligns with the concept of strategic goals. However, it primarily focuses on operational tactics and cultural aspects rather than explicitly defining long-term strategic objectives. The mention of 'maximising value' and 'technical leadership' hints at strategic goals but lacks depth in discussing frameworks or evidence-based approaches for setting these goals.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -709,29 +757,38 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of value optimisation and metrics, which are relevant to product strategy, but it primarily focuses on engineering culture and technical leadership rather than a clear product vision or roadmap.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational culture and system optimisation, which are tangentially related to product strategy but do not explicitly focus on defining a product vision or roadmap. While there are mentions of metrics and value optimisation, the primary focus is on engineering excellence and internal processes rather than strategic product development.",
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses understanding and measuring systems to make better decisions, which aligns with sensemaking principles, but it primarily focuses on cost optimisation and technical leadership rather than a comprehensive exploration of sensemaking.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding organisational systems and optimising for value, which aligns with sensemaking principles. However, it lacks explicit references to sensemaking frameworks or techniques, and the discussion is more focused on system optimisation rather than the broader context of decision-making in complexity.",
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:47:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts related to engineering excellence and optimising systems for value delivery, but it primarily focuses on organisational culture and decision-making rather than specific technical practices or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems within an organisation, which aligns with the principles of technical mastery. However, the focus is more on organisational culture and value optimisation rather than specific technical practices or methodologies. While there are mentions of technical leadership and engineering excellence, these are not explored in depth, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -805,11 +862,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:47:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a culture of engineering excellence and optimising systems for value delivery, which aligns with digital transformation themes, but it primarily focuses on cost reduction and technical leadership rather than a comprehensive digital transformation strategy.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of understanding and optimising organisational systems, which aligns with the themes of digital transformation, particularly in enhancing operational efficiency and fostering a culture of excellence. However, it lacks explicit mentions of digital technologies or specific strategies for digital transformation, which limits its direct relevance to the category. The depth of discussion on metrics and optimisation contributes positively, but the overall focus remains more on organisational culture than on the strategic adoption of digital tools.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -889,7 +949,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T14:37:08",
+    "calculated_at": "2025-03-14T16:47:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -897,16 +957,19 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of understanding and optimising systems for delivering value, which aligns with product management principles. However, it primarily focuses on organisational culture and engineering excellence rather than specific product management methodologies or frameworks. The mention of metrics and decision-making hints at product management but lacks depth in discussing strategic alignment with customer needs or business objectives.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of a culture of engineering excellence and the importance of understanding and measuring systems within an organisation, which aligns with themes of organisational culture. However, the primary focus is on technical leadership and optimisation rather than a deep exploration of cultural elements.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:05:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the concept of organisational culture and its importance in achieving engineering excellence. It aligns well with the core themes of the category by addressing how culture influences the optimisation of systems and value delivery. The depth of discussion is significant, as it explores the relationship between culture and organisational practices, although it leans slightly more towards technical aspects of system optimisation. Overall, the content maintains a strong focus on culture while integrating it with practical approaches, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -976,11 +1039,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T15:30:27",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the concept of technical leadership and engineering excellence, focusing on understanding and optimising systems for delivering value, which aligns with the principles of technical leadership. However, it lacks depth in specific agile practices and strategies, making it a secondary theme rather than the primary focus.",
+    "calculated_at": "2025-03-13T14:45:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of technical leadership in the context of optimising systems for engineering excellence. It mentions the importance of understanding and measuring systems, which aligns with the principles of technical leadership. However, the discussion is somewhat general and lacks specific strategies or detailed practices related to agile methodologies or team dynamics, which limits its depth and direct focus on technical leadership.",
     "level": "Secondary"
   },
   "Troubleshooting": {
@@ -994,21 +1060,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:46:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a culture of engineering excellence and understanding systems for delivering value, which are relevant to change management principles. However, it primarily focuses on technical leadership and optimisation rather than a comprehensive discussion on change management strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the transformation of organisational culture and the optimisation of systems, which are relevant to change management. However, it lacks explicit references to change management principles and strategies, focusing more on system optimisation and engineering excellence. While it touches on the importance of understanding and measuring systems, it does not delve deeply into stakeholder engagement, resistance management, or leadership roles in change initiatives, which are critical aspects of effective change management.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts related to engineering excellence and system optimisation, which are relevant to engineering practices, but it primarily focuses on organisational culture and value delivery rather than specific Agile methodologies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:48:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems within an organisation, which aligns with the principles of engineering practices. However, it primarily focuses on organisational culture and value optimisation rather than specific engineering methodologies like clean code, TDD, or CI/CD. The mention of technical leadership and metrics provides some relevance, but the overall discussion lacks depth in core engineering practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1057,30 +1129,39 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:47:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses making better decisions and optimising outcomes within a system, which aligns with decision-making processes, but it primarily focuses on Agile methodologies and organisational culture rather than decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational culture and system optimisation, which are tangentially related to decision-making processes. However, it lacks direct mentions of decision theory concepts such as heuristics, biases, or frameworks. The focus is more on operational efficiency rather than the decision-making under uncertainty that characterises decision theory.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding and measuring systems for delivering value, which aligns with flow efficiency principles, but it primarily focuses on culture and technical leadership rather than directly optimising work throughput.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses system optimisation and the importance of understanding workflows and metrics, which are relevant to flow efficiency. However, it lacks explicit references to flow efficiency principles, techniques for eliminating bottlenecks, or specific metrics like cycle time and lead time. The focus is more on organisational culture and value maximisation rather than directly on optimising throughput.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses optimising value and making better decisions based on understanding and measuring systems, which aligns with market adaptability principles, but it primarily focuses on creating a culture of engineering excellence rather than directly addressing market responsiveness.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems within an organisation, which aligns with the principles of Agile methodologies and continuous improvement. However, it lacks direct mentions of market adaptability strategies and does not explicitly address how these practices enhance responsiveness to market shifts. The focus is more on internal processes and culture rather than external market dynamics.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1096,21 +1177,27 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:47:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of understanding and measuring systems to create transparency, which aligns with the theme of accountability. However, the primary focus is on creating a culture of engineering excellence and optimising value rather than directly addressing transparency and accountability in Agile teams.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the importance of understanding systems and creating metrics, which touches on transparency. However, it lacks a direct focus on accountability and does not delve deeply into the principles of openness and responsibility within Agile teams. The discussion is more about system optimisation and engineering excellence rather than fostering an environment of trust and clear communication.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a culture of engineering excellence and understanding systems for delivering value, which aligns with themes of organisational agility, but it is primarily focused on cost optimisation and technical leadership.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:48:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of understanding and optimising organisational systems, which aligns with the principles of organisational agility. It mentions metrics and iterative processes, indicating a focus on continuous improvement. However, it lacks explicit references to agile methodologies or cultural shifts necessary for agility, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1138,12 +1225,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:47:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to value optimisation and metrics in the context of software development, which aligns with Agile principles, but it does not focus specifically on Agile Product Management practices or roles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses concepts related to system optimisation and value maximisation, which are relevant to Agile principles. However, it lacks direct mentions of Agile methodologies, roles like the Product Owner, or specific practices in Agile Product Management. The focus is more on organisational culture and engineering excellence rather than the core themes of Agile Product Management.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1195,11 +1285,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:07",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses concepts related to engineering excellence and optimising systems for value delivery, but it primarily focuses on cultural aspects and decision-making rather than specific technical practices or methodologies.",
+    "final_score": 49.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems within an organisation, which aligns with the principles of technical excellence. However, it primarily focuses on organisational culture and value optimisation rather than specific engineering practices or methodologies. While there are mentions of metrics and technical leadership, the depth of discussion on core technical practices like TDD, CI/CD, or modular architecture is lacking, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -1222,11 +1315,14 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:47:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to maximising value and optimising systems, which are aligned with Lean principles, but it primarily focuses on software development and technical leadership rather than Lean methodologies specifically.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems to maximise value, which aligns with Lean principles. However, it lacks direct references to specific Lean methodologies or tools, and the discussion is more focused on general optimisation and culture rather than Lean itself.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -1252,12 +1348,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses creating a culture of engineering excellence and optimising systems for better decision-making, which aligns with themes of adaptability and continuous improvement, but it primarily focuses on technical leadership and cost optimisation.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding and optimising organisational systems, which aligns with the themes of resilience and change. It mentions creating a culture of engineering excellence and making substantive changes, indicating a focus on adaptability and continuous improvement. However, the primary focus is more on technical optimisation rather than explicitly addressing resilience strategies or change management practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -1291,11 +1390,14 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:27:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a culture of engineering excellence and optimising systems for value delivery, which aligns with themes of organisational adaptability and continuous improvement, but it primarily focuses on cost reduction and technical leadership rather than broader enterprise agility principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of understanding and optimising organisational systems, which aligns with the principles of enterprise agility. However, it primarily focuses on engineering excellence and system optimisation without explicitly addressing broader organisational agility frameworks or cultural adaptability. The mention of metrics and iterative processes hints at agile practices, but the overall discussion lacks depth in terms of enterprise-level agility strategies and leadership roles.",
     "level": "Tertiary"
   },
   "Business Agility": {
@@ -1312,12 +1414,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses aspects of measuring and optimising systems for delivering value in software development, which aligns with application lifecycle management principles, but it primarily focuses on culture and technical leadership rather than the full lifecycle stages.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses organisational culture and system optimisation, which are tangentially related to Application Lifecycle Management. However, it lacks direct mentions of the application lifecycle stages, governance, or specific ALM tools. The focus is more on general engineering excellence and value optimisation rather than the structured management of software applications.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1330,29 +1435,38 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 24,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding and optimising systems for delivering value, which aligns with product delivery principles, but it primarily focuses on cultural aspects and technical leadership rather than specific methodologies or practices of product delivery.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding and optimising systems for delivering value, which aligns with product delivery principles. It mentions metrics and iterative processes, which are relevant to the category. However, the primary focus is on organisational culture and engineering excellence rather than specific product delivery methodologies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:47:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses creating a culture of engineering excellence and understanding systems for delivering value, which aligns with themes of continuous learning and optimisation. However, the primary focus is on cost reduction and technical leadership rather than explicit methodologies for discovery and learning.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of understanding and optimising organisational systems, which aligns with the themes of continuous learning and improvement. It mentions monitoring, identifying, and creating metrics, which are essential for fostering a culture of innovation. However, the primary focus is on system optimisation rather than explicit learning methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T11:57:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses understanding and optimising systems within organisations, which aligns with complexity thinking, but it primarily focuses on practical aspects of software development and engineering culture rather than a deep exploration of complexity science principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses organisational culture and system optimisation, which are relevant to complexity thinking. However, it lacks explicit references to complexity science principles, such as non-linear dynamics or emergent behaviours. While it touches on understanding systems and iterative processes, it does not delve deeply into the complexities of adaptive systems or uncertainty, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1444,7 +1558,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:39:07",
+    "calculated_at": "2025-03-14T16:47:28",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1452,6 +1566,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses concepts related to organisational culture and value optimisation, which are relevant to Agile methodologies but do not explicitly mention Scrum or its specific roles, events, or artifacts. While there is a focus on delivering value and improving systems, the discussion lacks direct references to Scrum principles or practices, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

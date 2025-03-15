@@ -2,7 +2,7 @@
 title: Understanding the True Role of a Scrum Master
 description: Discover why training is vital for Scrum Masters in this insightful video by Martin Hinshelwood, highlighting the leadership role in fostering thriving teams.
 date: 2023-11-28T07:00:15Z
-weight: 775
+weight: 650
 ResourceId: U0h7N5xpAfY
 ResourceType: videos
 ResourceImport: true
@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
+- Scrum Team
+- Pragmatic Thinking
+- Software Development
+- Agile Project Management
+- Professional Scrum
+- Empirical Process Control
+- People and Process
+- Accountability
+- Team Performance
 resourceTypes:
 - video
 categories:

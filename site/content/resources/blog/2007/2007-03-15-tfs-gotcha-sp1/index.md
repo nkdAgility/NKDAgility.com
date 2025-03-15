@@ -30,10 +30,8 @@ preview: nakedalm-logo-128-link-1-1.png
 categories: []
 tags:
 - Install and Configuration
-- System Configuration
 - Troubleshooting
-- Practical Techniques and Tooling
-- Windows
+- System Configuration
 
 ---
 If you are out there and you have installed SP1 for Team Foundation Server you probably went through as much pain as I did...

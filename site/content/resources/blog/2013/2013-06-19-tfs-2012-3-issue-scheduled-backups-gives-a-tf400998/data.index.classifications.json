@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to Team Foundation Server (TFS) and scheduled backups, which involves troubleshooting and configuration practices. However, it primarily focuses on a specific problem rather than broader engineering practices or methodologies that enhance agility in software development.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Server (TFS) and scheduled backups, which is a technical topic. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it does provide some insights into troubleshooting and configuration, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, while there are technical elements present, the overall focus is more on problem-solving rather than on the principles of technical excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -355,12 +358,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to the configuration and management of Scheduled Backups in Team Foundation Server, which is part of the application lifecycle management process, particularly in the maintenance and deployment stages. However, it primarily focuses on troubleshooting rather than broader ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific issue related to Scheduled Backups in Team Foundation Server (TFS) after a server migration. While it touches on aspects of application management, such as configuration and error handling, it lacks a comprehensive discussion on the broader stages of the application lifecycle, best practices, or governance. The focus is more on troubleshooting a specific problem rather than on the overall management of the application lifecycle, which limits its alignment with the category.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -493,12 +499,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:09:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to scheduled backups and their configuration after a server migration, which relates to operational practices in managing system backups and configurations in a development environment. However, it is not primarily focused on enhancing operational efficiency or specific methodologies within Agile, DevOps, or Lean frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical issue related to Scheduled Backups in Team Foundation Server, focusing on error messages and troubleshooting steps. While it touches on operational aspects of managing backups, it lacks a broader discussion on operational practices, methodologies, or strategies aimed at enhancing efficiency within Agile, DevOps, or Lean frameworks. The content does not provide in-depth insights into process optimisation or continuous improvement, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -877,12 +886,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:57",
+    "calculated_at": "2025-03-15T05:09:27",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content is mainly focused on troubleshooting errors related to Team Foundation Server backups rather than discussions about the characteristics, value delivery, or best practices of working software.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",

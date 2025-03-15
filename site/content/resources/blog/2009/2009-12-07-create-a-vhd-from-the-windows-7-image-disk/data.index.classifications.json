@@ -295,7 +295,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T17:02:01",
+    "calculated_at": "2025-03-15T07:18:34",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
@@ -303,7 +303,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical instructions for creating a VHD from a Windows image, with minimal personal reflection or insights related to Agile, Scrum, or DevOps. While there are brief mentions of the author's personal situation (waiting for a laptop, using a family member's device), these do not provide substantial personal anecdotes or insights relevant to the category. The technical nature of the content overshadows any personal context, leading to a low confidence score for alignment with the 'Personal' category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -379,7 +379,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T15:05:28",
+    "calculated_at": "2025-03-15T07:18:34",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -387,7 +387,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on a practical guide to converting a Windows image to a VHD, which involves technical steps and tools. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While it does provide detailed instructions and some technical insights, it does not delve into the underlying principles of technical mastery, such as clean code or architectural considerations.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1129,7 +1129,7 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-11T18:13:04",
+    "calculated_at": "2025-03-15T07:18:34",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1137,7 +1137,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on creating a VHD from a Windows image, which is more about installation and setup rather than deployment strategies. While it mentions 'deploying' an image, it lacks a comprehensive discussion on methodologies or practices related to deployment strategies such as Blue-Green Deployments or Canary Releases. The content does not provide actionable insights into deployment strategies, making it only tangentially related to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",

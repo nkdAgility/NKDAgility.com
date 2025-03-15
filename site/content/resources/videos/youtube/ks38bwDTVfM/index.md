@@ -27,16 +27,16 @@ preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
 duration: 344
 isShort: false
 tags:
-- Agile Project Management
-- Pragmatic Thinking
+- Agile Planning
 - Scrum Product Development
+- Team Performance
+- Agile Project Management
 - Software Developers
 - Software Development
+- Pragmatic Thinking
+- Agile Product Management
+- Agile Frameworks
 - People and Process
-- Operational Practices
-- Backlog Refinement
-- Product Backlog
-- Agile Planning
 sitemap:
   filename: sitemap.xml
   priority: 0.6

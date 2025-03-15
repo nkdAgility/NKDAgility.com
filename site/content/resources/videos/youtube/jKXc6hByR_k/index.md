@@ -26,12 +26,8 @@ preview: https://i9.ytimg.com/vi/jKXc6hByR_k/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 172
 isShort: false
 tags:
+- Software Development
 - Value Delivery
-- People and Process
-- Pragmatic Thinking
-- Technical Leadership
-- Product Delivery
-- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

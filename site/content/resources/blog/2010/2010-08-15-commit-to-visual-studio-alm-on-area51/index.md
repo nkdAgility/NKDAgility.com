@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/commit-to-visual-studio-alm-on-area51
 - /commit-to-visual-studio-alm-on-area51
 - /resources/blog/commit-to-visual-studio-alm-on-area51
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 

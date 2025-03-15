@@ -32,16 +32,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
+- Transparency
+- Scrum Product Development
 - People and Process
 - Agile Frameworks
-- Team Collaboration
-- Agile Project Management
-- Agile Transformation
 - Software Development
-- Agile Product Management
-- Empirical Process Control
+- Team Performance
 - Pragmatic Thinking
-- Organisational Agility
+- Team Collaboration
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

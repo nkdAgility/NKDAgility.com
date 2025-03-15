@@ -10,12 +10,15 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of batch size on flow and includes a structured exercise to explore improvements, which aligns with experimentation principles. However, it does not explicitly focus on hypothesis-driven approaches or systematic testing, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a workshop focused on optimising flow through batch size, which indirectly relates to experimentation by suggesting improvements based on observed outcomes. However, it lacks explicit mentions of hypothesis-driven approaches or systematic testing, which are central to the category of Experimentation. The discussion is more about process improvement rather than a structured experimentation framework.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -28,12 +31,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of breaking down large backlog items into smaller pieces, which relates to backlog management, but the primary focus is on a workshop and facilitation steps rather than the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which aligns with the concept of backlog management. However, it lacks a direct focus on the Product Backlog itself, such as its definition, roles, or prioritisation techniques. The discussion is more about flow and batch processing rather than the specific practices and responsibilities associated with managing a Product Backlog.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -130,21 +136,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:04:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which relates to the delivery of functional software. However, the primary focus is on facilitation steps and exercises rather than directly on working software itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which aligns with the concept of delivering functional software in smaller, manageable increments. However, while it touches on the implications of batch size and flow, it lacks a direct focus on working software as defined in the category. The discussion is more about process and facilitation rather than the delivery of high-quality, functional software that meets customer needs.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of batch size on flow and predictability, which relates to decision-making in terms of process optimisation. However, it primarily focuses on a workshop activity rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of batch size in optimising flow, which indirectly relates to decision-making in terms of process improvement. However, it lacks explicit discussions on structured decision-making methodologies, evidence-based practices, or collaborative insights. The focus is more on practical exercises rather than a deep exploration of decision-making frameworks or principles.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -241,11 +253,14 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:44",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of batch size on flow and delivery, which relates to Value Stream Mapping principles, but it primarily focuses on a workshop format and Scrum team dynamics rather than a comprehensive exploration of VSM itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the concept of optimising flow through batch sizes, which aligns with the principles of Value Stream Mapping. However, it primarily focuses on a workshop format and Scrum practices rather than explicitly detailing VSM techniques or creating a Value Stream Map. The mention of queuing theory and the implications of batch size suggest some conceptual alignment, but the depth of discussion on VSM itself is limited.",
     "level": "Tertiary"
   },
   "Strategy": {
@@ -259,12 +274,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:04:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses optimising flow through batch size, which relates to improving processes and potentially fostering innovation. However, it primarily focuses on practical facilitation steps rather than a comprehensive exploration of innovation capabilities or Evidence-Based Management.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses optimising flow through batch size, which indirectly relates to innovation by improving delivery processes. However, it lacks explicit discussions on the Ability to Innovate, Evidence-Based Management, or frameworks for measuring innovation. The focus is more on practical facilitation steps rather than strategic innovation practices.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -289,12 +307,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:04:34",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a workshop designed for Scrum teams, focusing on the dynamics of teamwork and collaboration through exercises. However, the primary focus is on batch processing and flow optimisation rather than directly on team collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a workshop designed to improve team dynamics through exercises that illustrate the impact of batch sizes on workflow. While it touches on team collaboration indirectly by involving team members in activities, it lacks explicit discussions on communication techniques, shared ownership, or psychological safety. The focus is more on process optimisation rather than enhancing team collaboration in an Agile context.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -319,12 +340,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:30:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of batch size on flow and delivery, which relates to Cycle Time, but it primarily focuses on a workshop format and facilitation steps rather than a direct analysis of Cycle Time itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the impact of batch size on flow and delivery, which is closely related to Cycle Time. It provides a workshop structure that aims to illustrate how smaller batches can enhance predictability and efficiency, aligning with the core themes of Cycle Time. However, while it touches on the concept, it lacks a detailed exploration of Cycle Time as a standalone metric, which affects the depth of discussion.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -358,7 +382,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T13:35:08",
+    "calculated_at": "2025-03-14T18:04:28",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -366,7 +390,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which aligns with the principles of software craftsmanship and continuous improvement. However, it primarily focuses on a workshop format and facilitation steps rather than in-depth engineering practices or methodologies. The mention of batch sizes and flow does touch on aspects of efficiency and predictability, but lacks a comprehensive exploration of coding standards, testing methodologies, or CI/CD practices, which are central to the category of Engineering Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -481,12 +505,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:13",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a workshop focused on optimising flow through batch processing, which is relevant to Agile methodologies. However, it primarily centres on facilitation steps and exercises rather than directly addressing the role of software developers in Agile or DevOps contexts.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a workshop focused on optimising flow through batch processing, which is relevant to Agile methodologies. However, it primarily centres on facilitation steps and exercises rather than directly addressing the role of software developers or their practices in Agile or DevOps contexts. While it mentions Scrum and the importance of smaller batches, it lacks depth in discussing how these concepts specifically enhance developer productivity or collaboration.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -508,11 +535,14 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes elements of estimation, particularly in the context of estimating time for tasks during the workshop. However, the primary focus is on optimising flow and batch sizes rather than a comprehensive discussion on estimation techniques within Agile or Scrum.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses estimation in the context of a workshop focused on breaking down backlog items and improving flow through batch processing. It explicitly mentions estimating time for tasks, which aligns with the estimation category. However, the primary focus is on the workshop's facilitation and the implications of batch size rather than a deep exploration of estimation techniques or practices within Agile or Scrum frameworks. Therefore, while estimation is a significant aspect, it is not the central theme, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -553,12 +583,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:49:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of batch size on flow and delivery times, which relates to Lead Time, but it primarily focuses on workshop facilitation and exercises rather than a comprehensive discussion on Lead Time itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the impact of batch size on flow and delivery, which relates to Lead Time. It mentions the importance of smaller batches for increasing flow and predictability, aligning with the core themes of Lead Time. However, it lacks a direct focus on measuring Lead Time or detailed strategies for its reduction, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -583,12 +616,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:04:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of batch size on flow and predictability, which relates to deployment frequency, but it primarily focuses on workshop facilitation and does not directly address deployment frequency as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which indirectly relates to deployment frequency by suggesting that smaller batches can improve flow and predictability. However, it does not explicitly focus on deployment frequency or provide detailed strategies or metrics related to it. The primary focus is on batch size and flow rather than the optimisation of deployment intervals.",
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -613,11 +649,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which aligns with Agile principles of continuous value delivery and adaptability. However, it primarily focuses on a workshop activity rather than a broader strategic discussion.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which aligns with Agile principles of delivering value incrementally. However, it primarily focuses on a specific workshop activity rather than a broader strategic discussion. While it touches on concepts relevant to Agile strategy, such as flow and batch size, it lacks depth in strategic planning and organisational alignment, which are key aspects of the Agile Strategy category.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
@@ -649,12 +688,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:04:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of batch size on flow and predictability, which relates to decision-making in complex environments. However, it primarily focuses on a workshop structure and facilitation steps rather than a comprehensive exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a workshop designed to optimise flow through batch processing in a Scrum context. While it touches on the implications of batch size and flow, it lacks a direct discussion on sensemaking principles or frameworks. The content does not delve into the complexities of decision-making or the dynamics of uncertainty, which are central to the sensemaking category. Therefore, while there are elements that could relate to sensemaking, they are not the primary focus, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -715,11 +757,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-12T14:16:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:59:26",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses optimising flow through batch size reduction, which aligns with Lean principles of waste reduction and value maximisation. It includes practical exercises that illustrate these concepts, making Lean principles a central theme.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of optimising flow through batch size, which aligns with Lean principles of waste reduction and value maximisation. It explicitly mentions the impact of smaller batches on flow and predictability, which are core concepts in Lean thinking. However, while it touches on these principles, the depth of discussion is more focused on a specific workshop format rather than a comprehensive exploration of Lean principles, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Agile Transformation": {
@@ -769,20 +814,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T14:16:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:22:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on the Scrum team dynamics and the impact of batch sizes on workflow, which aligns with Scrum principles and practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses a workshop designed to illustrate the impact of breaking down large backlog items into smaller pieces, which aligns with Scrum principles of iterative development and backlog management. However, while it mentions Scrum teams and includes facilitation steps relevant to Scrum practices, it lacks a comprehensive exploration of Scrum roles, sprint processes, or customer feedback mechanisms, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T14:16:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:22:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on optimising flow through the use of smaller batches, which aligns with process optimisation techniques in Agile methodologies. It discusses practical exercises and implications of batch size on delivery efficiency, making it central to operational practices.",
+    "final_score": 74.0,
+    "reasoning": "The content focuses on optimising flow through the use of smaller batches, which directly aligns with process optimisation techniques in Agile and Lean methodologies. It discusses practical exercises that illustrate the impact of batch size on delivery efficiency, providing a clear connection to operational practices. The depth of discussion is substantial, detailing facilitation steps and the implications of batch size, which enhances understanding of operational efficiency.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -814,12 +865,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses a workshop designed for Scrum teams, focusing on the implications of batch size on flow, which is relevant to Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a workshop designed to help teams understand the impact of batch sizes on delivery, which is relevant to Scrum practices. It mentions a Scrum team and includes facilitation steps that align with Scrum ceremonies. However, it lacks a direct focus on the Scrum Master role and does not delve deeply into the responsibilities or techniques specific to Scrum Masters, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -832,21 +886,27 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of batch size on flow and predictability, which relates to forecasting in Agile. However, it primarily focuses on a workshop activity rather than detailed forecasting methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the impact of batch size on flow and predictability, which aligns with forecasting principles in Agile. It mentions estimating delivery times and improving processes based on empirical observations, but lacks a direct focus on forecasting methodologies or detailed practices. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses facilitation steps and exercises related to Scrum teams and batch processing, which are relevant to agile methodologies. However, it does not primarily focus on the principles of technical leadership or the broader themes of guiding development teams.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on a workshop designed to illustrate the impact of batch size on flow and delivery within a Scrum team context. While it touches on agile practices, it lacks explicit discussions on technical leadership principles, such as mentoring, coaching, or team dynamics. The mention of Scrum and facilitation steps indicates some alignment with agile methodologies, but the depth of discussion does not sufficiently cover the core themes of technical leadership, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -868,12 +928,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which aligns with Agile principles. However, it primarily focuses on a workshop activity rather than a comprehensive discussion on Agile Planning methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which aligns with Agile principles of iterative planning and optimising delivery. It also includes facilitation steps that reflect Agile practices, such as team collaboration and feedback loops. However, while it touches on Agile concepts, it lacks a comprehensive exploration of Agile Planning methodologies and frameworks, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -922,21 +985,27 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:04:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content includes a workshop designed for a Scrum Team, discussing the impact of batch sizes on flow, which is relevant to team dynamics and collaboration. However, the primary focus is on the workshop structure and facilitation rather than in-depth discussions on Scrum roles or team interactions.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a workshop designed for a Scrum Team, specifically focusing on the dynamics of breaking down large backlog items into smaller pieces. While it mentions the Scrum Team and includes facilitation steps that imply team collaboration, the primary focus is on the concept of batch size and flow rather than the roles, responsibilities, or deeper dynamics of the Scrum Team itself. Therefore, while there is a relevant mention and some alignment with Scrum principles, the depth of discussion on team dynamics is moderate.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which relates to software delivery practices. However, the primary focus is on facilitation and workshop activities rather than deep technical principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a workshop designed to illustrate the effects of batch size on delivery flow, which is more aligned with Agile practices than with core technical mastery principles. While it touches on concepts like breaking down backlog items and improving flow, it lacks a deep exploration of software craftsmanship, clean code, or engineering practices. The discussion is more about process optimisation rather than technical excellence in software development.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -985,12 +1054,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:04:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which relates to backlog management and flow in Agile methodologies. However, it primarily focuses on a workshop activity rather than a comprehensive exploration of Agile Planning Tools.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which aligns with backlog management techniques in Agile. However, it lacks direct mentions of specific Agile planning tools and does not delve deeply into the functionalities or strategies of Agile planning. The focus is more on a workshop activity rather than a comprehensive exploration of Agile planning tools.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1039,21 +1111,27 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of batch size on flow and predictability, which relates to decision-making in uncertain environments, but primarily focuses on Scrum practices and facilitation steps.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a workshop designed to optimise flow through batch processing in a Scrum context. While it touches on concepts related to decision-making, such as estimating times and improving processes, it does not explicitly discuss decision theory or its core principles. The mention of queuing theory is relevant but does not directly align with the broader themes of decision theory. The depth of discussion on decision-making processes is minimal, primarily revolving around practical exercises rather than theoretical exploration.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:04:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses optimising flow through batch sizes, which relates to agile principles. However, it primarily focuses on team-level practices rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a workshop designed to optimise flow through batch processing, which is a team-level agile practice. While it touches on concepts like flow and batch size, it lacks a broader organisational context and does not discuss enterprise-level agility frameworks, leadership roles, or cultural implications. The discussion is more about practical exercises for teams rather than strategies for fostering agility across the entire organisation.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1129,39 +1207,51 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which aligns with Agile principles. However, it primarily focuses on a workshop format and facilitation steps rather than in-depth Agile product management strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a workshop focused on optimising flow through batch processing, which is relevant to Agile principles. It mentions Scrum teams and the importance of breaking down backlog items, aligning with Agile practices. However, the discussion lacks depth in terms of Agile product management strategies and does not explicitly cover key topics such as stakeholder engagement or product vision alignment.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:04:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which relates to learning about flow and batch size in product development. However, the primary focus is on facilitation steps and Scrum team dynamics rather than a broader exploration of discovery and learning methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on a workshop designed to optimise flow through batch processing, which is more aligned with project management and process efficiency than with discovery and learning. While it touches on the implications of batch size and encourages experimentation through the coin game, it lacks a strong emphasis on the broader themes of innovation, continuous learning, or knowledge sharing. The discussion is more procedural and instructional, with limited exploration of how these practices foster a culture of learning or adaptation.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:04:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of batch size on flow and predictability, which relates to systems dynamics. However, it primarily focuses on a workshop format and Scrum practices rather than a comprehensive exploration of Systems Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of optimising flow through batch processing, which relates to systems thinking in terms of understanding interdependencies and feedback loops. However, it primarily focuses on practical facilitation steps and does not deeply explore the foundational principles or broader implications of systems thinking. The mention of queuing theory hints at interconnectedness but lacks a comprehensive analysis of complex systems or holistic approaches, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of batch size on flow and predictability, which relates to non-linear dynamics in complex systems. However, it primarily focuses on practical facilitation steps rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of batch size in optimising flow, which relates to queuing theory and Agile practices. However, it does not explicitly reference complexity science or its principles, nor does it delve deeply into the non-linear dynamics or emergent behaviours characteristic of complex adaptive systems. The focus is more on practical facilitation steps rather than a theoretical exploration of complexity thinking.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1243,11 +1333,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses optimising flow through batch sizes, which relates to principles of business agility, but primarily focuses on a specific workshop activity rather than broader business agility concepts.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which aligns with the principles of business agility by promoting faster delivery and adaptability. However, the focus is primarily on a specific workshop activity rather than a broader discussion on business agility principles, strategies, or leadership roles. The depth of discussion is limited, focusing mainly on facilitation steps and exercises without exploring the wider implications or case studies related to business agility.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -1276,21 +1369,27 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of breaking down large backlog items into smaller pieces, which relates to agile practices and flow optimisation. However, it primarily focuses on workshop facilitation rather than deep technical methodologies or engineering practices.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on a workshop designed to illustrate the effects of batch size on flow within a Scrum team context. While it touches on concepts related to Agile methodologies and the importance of smaller batches for predictability, it lacks a direct discussion on technical practices such as TDD, CI/CD, or modular architecture. The emphasis is more on the facilitation of a workshop rather than a deep exploration of technical excellence principles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:28",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of optimising flow through batch sizes, which relates to agile principles. However, it primarily focuses on a specific workshop activity rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a workshop focused on optimising flow through batch processing, which aligns with agile principles of delivering value incrementally. However, it primarily centres on a specific exercise rather than broader organisational agility strategies or cultural shifts. While it touches on concepts relevant to agility, such as smaller batches improving flow and predictability, it lacks depth in discussing leadership roles, cross-functional teams, or continuous improvement strategies, which are crucial for a comprehensive understanding of organisational agility.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1315,12 +1414,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:05:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of batch size on flow and delivery within a Scrum team context, which relates to team dynamics and organisational processes. However, it primarily focuses on a workshop activity rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a workshop designed to optimise flow through batch processing in a Scrum context. While it touches on team dynamics and the importance of collaboration, it lacks a direct discussion of sociotechnical systems as a primary focus. The relationship between organisational culture and technology adoption is not explicitly addressed, and the depth of exploration into sociotechnical interactions is minimal. Overall, the content is more centred on technical processes rather than the interplay of social and technical systems.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1333,12 +1435,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:04:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of batch size on flow and predictability, which relates to metrics and performance data in Agile practices. However, it primarily focuses on a workshop format rather than a deep exploration of metrics and learning.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the impact of batch size on flow and predictability, which aligns with the core themes of metrics and learning. However, it lacks explicit discussions on metrics, data analysis, or feedback mechanisms, resulting in a moderate confidence score. The workshop format suggests a practical application of concepts but does not delve deeply into evidence-based decision-making or continuous improvement methodologies.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1351,12 +1456,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T12:10:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:09:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of batch size on flow, which is relevant to Value Stream Management, but it primarily focuses on a workshop format and Scrum team dynamics.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of optimising flow through batch size, which aligns with the principles of Value Stream Management. However, it primarily focuses on a workshop format and Scrum practices, limiting its depth and direct mentions of Value Stream Management concepts.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",

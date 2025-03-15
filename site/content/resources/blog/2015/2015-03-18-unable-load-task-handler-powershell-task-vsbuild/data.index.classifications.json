@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to setting up a build system, which is relevant to platform engineering, but it primarily focuses on troubleshooting specific errors rather than the broader principles or practices of platform engineering.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses issues related to setting up a build system in Team Foundation Server, which is relevant to platform engineering. However, it primarily focuses on troubleshooting specific errors rather than providing a comprehensive discussion on platform engineering principles or practices. While it touches on aspects of internal developer platforms and automation, the depth of discussion is limited to a specific problem rather than broader themes of enhancing developer productivity or standardisation of tools.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -40,12 +43,12 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:08:43",
+    "calculated_at": "2025-03-15T03:59:14",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses a specific error encountered during the setup of a build system, focusing on troubleshooting and configuration rather than the broader themes of code quality or complexity in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -172,12 +175,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses collaboration and communication with peers to resolve a technical issue, indicating a secondary theme of team dynamics.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a technical issue related to the Team Foundation Server's build system, detailing error messages and troubleshooting steps. While there are brief mentions of collaboration with peers and communication (e.g., asking for help), these aspects are secondary to the technical discussion. The core themes of team dynamics, leadership, and process methodologies are not adequately addressed, leading to a low confidence score in alignment with the 'People and Process' category.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -217,11 +223,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a technical issue related to the vNext build system and PowerShell versions, which touches on aspects of Continuous Integration and Continuous Delivery practices. However, the primary focus is on troubleshooting rather than broader engineering practices or methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses a specific error encountered while setting up a build system in Team Foundation Server, which is more operational than focused on engineering practices. While it touches on aspects of build configuration and troubleshooting, it lacks a comprehensive discussion on methodologies like TDD, CI/CD, or modular architecture. The mention of PowerShell versions and build agent configuration is relevant but does not delve into the principles of technical excellence or agile methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -244,12 +253,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to setting up a build system, which is a part of the deployment phase in product delivery, but it primarily focuses on troubleshooting rather than broader methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a specific error encountered during the setup of a build system, which is related to the deployment phase of product delivery. However, it primarily focuses on troubleshooting rather than broader methodologies or practices in product delivery. While it touches on aspects of deployment and configuration, it lacks a comprehensive discussion on planning, testing, or iterative development, which are key themes in the Product Delivery category.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -301,12 +313,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and reflections on troubleshooting a specific error in a build system, which aligns with the Personal category, but the primary focus is on technical details rather than personal insights.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on a technical issue related to Team Foundation Server and PowerShell, lacking personal reflections or insights. While there are brief mentions of personal experiences, such as asking peers for help, the overall discussion is heavily technical and does not align with the core themes of the Personal category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -346,21 +361,27 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific error related to the vNext build system in Team Foundation Server 2015, which is a recent development in DevOps tools. However, it primarily focuses on troubleshooting rather than providing a broader review or news analysis.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Team Foundation Server's vNext build system, which is more of a technical tutorial than a news or review piece. While it mentions the release of TFS 2015, it lacks broader industry context or analysis of trends, and does not provide a review of tools or methodologies. The discussion is practical and technical, which does not align well with the core themes of the 'News and Reviews' category.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to the build process in a software application lifecycle context, specifically within Team Foundation Server's vNext build system. However, it primarily focuses on troubleshooting a specific error rather than a comprehensive discussion on application lifecycle management methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error encountered while setting up a build system in Team Foundation Server, which is related to the deployment stage of the application lifecycle. However, it lacks a comprehensive discussion on the broader aspects of Application Lifecycle Management, such as methodologies, governance, or best practices. The focus is more on troubleshooting a technical issue rather than managing the application lifecycle as a whole.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -382,11 +403,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses troubleshooting a specific technical issue related to the vNext build system in Team Foundation Server, which touches on aspects of software craftsmanship and engineering practices. However, the primary focus is on resolving an error rather than a broader discussion of technical mastery principles.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses a specific error encountered while setting up a build system in Team Foundation Server, which is more focused on troubleshooting than on broader technical mastery principles. While it touches on aspects of software configuration and the importance of PowerShell versions, it lacks a comprehensive exploration of best practices, clean code principles, or methodologies that contribute to high-quality software development. The discussion is more about resolving a specific issue rather than demonstrating mastery in software craftsmanship or engineering practices.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -490,12 +514,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses troubleshooting and configuration issues related to the vNext build system in Team Foundation Server, which touches on operational practices in a DevOps context. However, the primary focus is on specific errors and resolutions rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error encountered while setting up a build system in Team Foundation Server, which is more technical troubleshooting than a discussion on operational practices. While it touches on aspects of configuration and potential improvements (like enabling PowerShell features), it lacks a broader focus on operational efficiency, methodologies, or strategies that enhance delivery within Agile, DevOps, or Lean frameworks. The depth of discussion is limited to a specific issue rather than a comprehensive exploration of operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -745,7 +772,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:35:37",
+    "calculated_at": "2025-03-15T03:59:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -753,7 +780,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific technical issue related to the setup of a build system, which touches on aspects of software craftsmanship and troubleshooting. However, it lacks a broader discussion on best practices, continuous improvement, or engineering processes. The focus is primarily on resolving a specific error rather than promoting high standards in software development or engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -877,11 +904,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to building software using Team Foundation Server, which is relevant to the delivery of functional software. However, the primary focus is on troubleshooting specific errors rather than broader themes of working software.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific error encountered while setting up a build system, which is related to working software. However, it primarily focuses on troubleshooting rather than the broader themes of delivering functional software or best practices. While it mentions the importance of configuration and resolving issues to achieve a successful build, it lacks depth in discussing quality assurance, customer feedback, or iterative development, which are key aspects of the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -970,12 +1000,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to setting up a build system, which is a part of the release process, but primarily focuses on troubleshooting rather than broader release management strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific error encountered while setting up a build system, which is related to the release process. However, it primarily focuses on troubleshooting and technical details rather than broader release management strategies or practices. While it touches on aspects of build configuration, it lacks a comprehensive discussion on release planning, scheduling, or coordination among stakeholders, which are key themes of release management.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1027,11 +1060,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:41",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses troubleshooting a build issue and mentions seeking help from peers, indicating a collaborative effort, but the primary focus is on technical setup rather than team dynamics or collaboration techniques.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses a technical issue related to the setup of a build system and troubleshooting steps. While there is a brief mention of seeking help from peers, which touches on collaboration, the overall focus is on individual problem-solving rather than team dynamics or collaboration techniques. The depth of discussion on team collaboration is minimal, and the content does not explore key themes such as communication strategies or shared ownership within Agile frameworks.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -1186,11 +1222,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-14T22:20:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T17:02:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the identification and resolution of a specific error encountered while setting up a build system, detailing the troubleshooting steps taken and the eventual solution.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on diagnosing and resolving a specific error encountered while setting up Team Foundation Server's vNext build system. It discusses the steps taken to identify the issue, including the investigation of PowerShell versions and the need to unblock downloaded zip files. The detailed description of the troubleshooting process, including the error message and the resolution steps, aligns well with the core themes of the Troubleshooting category. The content provides practical insights and methodologies for diagnosing a technical issue, thus demonstrating a strong alignment with the category's purpose.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1231,11 +1270,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific error encountered while setting up a build system in a software development context, which is relevant to developers. However, it primarily focuses on troubleshooting rather than broader Agile or DevOps practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific error encountered while setting up a build system in Team Foundation Server, which is relevant to software developers. However, it lacks a broader discussion on Agile or DevOps methodologies, focusing instead on troubleshooting a technical issue. While it mentions the build process, it does not delve into best practices or principles of Agile or DevOps, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Coaching": {
@@ -1312,11 +1354,14 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:59:47",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to the vNext build system of Team Foundation Server, which is part of Azure DevOps, but it primarily focuses on troubleshooting a specific error rather than exploring Azure Repos functionalities or best practices.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses issues related to the vNext build system of Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it primarily focuses on troubleshooting a specific error rather than exploring Azure Repos functionalities, best practices, or integration with CI/CD processes. While there are mentions of TFS and build agents, the discussion lacks depth on Azure Repos itself, making it a secondary focus rather than a primary one.",
     "level": "Tertiary"
   },
   "Forecasting": {

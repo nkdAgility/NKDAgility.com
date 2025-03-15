@@ -25,21 +25,27 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:22:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product development, assumptions, and hypothesis-driven development, which are relevant to entrepreneurship. However, it primarily focuses on the learning outcomes of a specific class rather than the broader principles and practices of entrepreneurship.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses product development and the importance of working with assumptions and hypotheses, which are relevant to entrepreneurial practices. However, it primarily focuses on product management techniques rather than the broader principles of entrepreneurship such as innovation, risk-taking, or value-driven decision-making. While there are elements that touch on decision-making and experimentation, the overall emphasis is more on product development processes than on entrepreneurship as a primary focus.",
     "level": "Tertiary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:22:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses assumptions and hypotheses in product development, which are relevant to creating and managing product backlog items, but it primarily focuses on broader concepts rather than the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions creating product backlog items, which indicates a connection to the Product Backlog category. However, the primary focus is on assumptions and hypotheses in product development rather than on the Product Backlog itself. While there is some alignment with the themes of prioritisation and validation, the depth of discussion on backlog management is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -358,12 +364,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:22:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product development concepts, including assumptions and hypothesis-driven development, which are relevant to software development practices, but it is primarily focused on product management and decision-making rather than software engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses product development and the importance of working with assumptions and hypotheses, which are relevant to software development practices. However, it primarily focuses on product management rather than specific software engineering methodologies or practices. While it touches on aspects like experimentation and validation, it lacks depth in core software development topics such as coding practices, SDLC methodologies, or CI/CD. Therefore, the confidence score reflects a moderate alignment with the Software Development category.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -421,11 +430,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:22:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product development concepts such as assumptions and hypotheses, which are relevant to the Product Owner's role, but it does not focus specifically on the responsibilities or practices of a Product Owner.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses product development and the importance of working with assumptions, which is relevant to the Product Owner's role. However, it lacks direct mentions of the Product Owner and does not delve deeply into specific responsibilities or practices associated with the role. While it touches on prioritisation and decision-making, it does not provide substantial detail on backlog management or stakeholder engagement, which are critical aspects of the Product Owner's responsibilities.",
     "level": "Tertiary"
   },
   "Change Management": {
@@ -448,7 +460,7 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-11T16:10:05",
+    "calculated_at": "2025-03-14T18:21:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -456,7 +468,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the importance of working with assumptions and validating them, which aligns with the principles of empirical process control. However, it primarily focuses on hypothesis-driven strategies rather than explicitly addressing empirical process control within Agile methodologies. While there are elements of transparency and adaptation, the overall emphasis is on assumptions and hypotheses rather than the broader context of empirical process control.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -580,11 +592,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T23:15:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical approaches to working with assumptions and hypotheses in product development, emphasising decision-making, experimentation, and critical thinking, which aligns well with the principles of Pragmatic Thinking.",
+    "calculated_at": "2025-03-13T15:01:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses practical strategies for managing assumptions and hypotheses in product development, which aligns well with pragmatic thinking. It emphasises real-world applications, prioritisation of validation, and experimentation, all of which are key themes in Agile and Scrum contexts. The depth of discussion on how to navigate complexities and make informed decisions further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -598,12 +613,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:22:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of product development, including assumptions and hypothesis-driven development, which are relevant to agile methodologies. However, it does not explicitly focus on agile principles or frameworks, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of assumptions and hypotheses in product development, which aligns with agile principles of iterative progress and adaptability. However, it lacks direct references to agile methodologies like Scrum or Kanban, and does not delve deeply into agile roles or ceremonies, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -616,11 +634,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:21:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of product development, hypothesis testing, and decision-making, which are relevant to Agile methodologies. However, it primarily focuses on specific practices rather than a broader Agile strategy.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses product development and the importance of working with assumptions and hypotheses, which are relevant to Agile methodologies. However, it lacks direct mentions of Agile principles or strategies, and the focus is more on product management techniques rather than a comprehensive Agile strategy. While there are elements of adaptability and learning, the depth of discussion does not fully align with the core themes of Agile Strategy.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
@@ -652,12 +673,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-12T23:15:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:23:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of working with assumptions and hypotheses in product development, which aligns with the principles of sensemaking in complex environments. It focuses on decision-making based on data and experimentation, highlighting the importance of understanding and validating assumptions, which are key aspects of sensemaking.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding and validating assumptions in product development, which aligns with sensemaking principles. It touches on decision-making processes and the need for a culture of learning and adaptability, but it primarily focuses on hypothesis-driven strategies rather than a broader exploration of sensemaking frameworks or models. While it does mention aspects of sensemaking, such as prioritising assumptions and analysing results, the depth of discussion is more centred on practical methodologies rather than the theoretical underpinnings of sensemaking in complex environments.",
+    "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -769,30 +793,39 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:22:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses product development concepts such as assumptions, hypotheses, and experimentation, which are relevant to Scrum practices, but it does not explicitly focus on Scrum roles or processes.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses product development and the importance of validating assumptions and hypotheses, which aligns with iterative development principles. However, it lacks explicit references to Scrum roles, events, or the framework itself, making it more of a general product development discussion rather than a focused Scrum discourse.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:22:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of validating assumptions and hypotheses in product development, which relates to decision-making and continuous improvement. However, it primarily focuses on learning outcomes rather than operational efficiency techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of working with assumptions and hypotheses in product development, which indirectly relates to operational practices. However, it primarily focuses on the theoretical aspects of product management rather than practical techniques for enhancing operational efficiency. While there are mentions of prioritising assumptions and designing experiments, the overall emphasis is on understanding and validating assumptions rather than on specific operational practices or methodologies like Agile, DevOps, or Lean.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T23:15:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of validating assumptions and hypotheses in product development, emphasising the use of data to inform decision-making processes, which aligns closely with the principles of Evidence-Based Management.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-13T16:31:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of validating assumptions and formulating hypotheses, which aligns with evidence-based practices. However, it primarily focuses on product development strategies rather than explicitly addressing Evidence-Based Management principles or metrics. While it touches on data-driven decision-making, it lacks a comprehensive exploration of EBM concepts, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -850,30 +883,39 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-12T23:16:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T14:50:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of validating assumptions and hypotheses in product development, which aligns closely with methodologies for understanding customer needs and defining product features.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of understanding and validating assumptions in product development, which aligns with the core themes of product discovery. It mentions techniques for prioritising assumptions and formulating hypotheses, which are relevant to defining and validating product features. However, while it touches on these topics, the focus is more on the process of hypothesis-driven development rather than directly addressing user needs or customer feedback, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-12T23:16:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:10:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of assumptions, hypotheses, and experimentation in product development, which aligns closely with Lean Startup principles such as validated learning and the Build-Measure-Learn feedback loop.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of working with assumptions and formulating hypotheses, which aligns with Lean Startup principles. It emphasises validation and experimentation, key components of the Build-Measure-Learn feedback loop. However, while it touches on relevant concepts, it lacks direct references to MVPs and validated learning, which are central to the Lean Startup methodology. The depth of discussion is moderate, focusing on assumptions and experimentation but not fully exploring the iterative learning process or customer development.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:22:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses assumptions and hypotheses in product development, which are relevant to Agile Planning principles, but the primary focus is on learning outcomes rather than Agile methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of assumptions and hypotheses in product development, which aligns with Agile principles of adaptability and iterative learning. However, it lacks direct references to Agile Planning methodologies, such as sprints or backlogs, and does not delve deeply into Agile-specific practices. The focus is more on hypothesis-driven strategies rather than Agile planning techniques, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -886,12 +928,15 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-12T23:16:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:21:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of validating assumptions and hypotheses in product development, which aligns closely with the principles of MVP and Lean Startup methodology.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of validating assumptions and formulating hypotheses, which are crucial aspects of MVP development. However, it does not explicitly mention MVP or its core principles, leading to a moderate confidence score. The focus on experimentation and learning aligns with MVP methodologies, but the lack of direct references to MVP limits the overall confidence.",
+    "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -967,11 +1012,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:22:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to assumptions, hypotheses, and experimentation in product development, which align with Agile principles of continuous improvement and customer collaboration. However, it primarily focuses on specific learning outcomes rather than the broader Agile philosophy.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of assumptions and hypotheses in product development, which aligns with Agile principles of adaptability and continuous improvement. However, it primarily focuses on practical strategies rather than the broader Agile philosophy, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -1030,11 +1078,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-12T23:16:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:21:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses learning outcomes related to working with assumptions and hypotheses in product development, emphasising the importance of experimentation, validation, and data analysis, which aligns well with the principles of Continuous Learning.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of understanding and validating assumptions in product development, which aligns with the principles of Continuous Learning. It emphasises experimentation, learning from outcomes, and fostering a culture of adaptability, all of which are key themes in Continuous Learning. However, while it touches on these concepts, the primary focus is more on product development strategies rather than explicitly on Continuous Learning practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1159,12 +1210,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses assumptions, hypotheses, and decision-making in product development, which aligns with complexity thinking principles. However, it primarily focuses on practical aspects of product development rather than a deep exploration of complexity science or its frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:22:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of assumptions and hypotheses in product development, which touches on aspects of complexity thinking, particularly in relation to uncertainty and decision-making. However, it lacks direct references to complexity science principles and frameworks like the Cynefin Framework or non-linear dynamics. The discussion is more focused on practical strategies rather than a deep exploration of complexity theory, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1195,12 +1249,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of validating assumptions and hypotheses in product development, which relates to adapting to market needs. However, it primarily focuses on the learning outcomes of a specific class rather than broader strategies for market adaptability.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:22:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of validating assumptions and formulating hypotheses in product development, which aligns with the principles of adaptability. However, it lacks direct references to Agile, DevOps, or Lean methodologies, and the focus is more on product management rather than market adaptability strategies. The discussion on experimentation and analysis provides some depth but does not fully explore the core themes of market adaptability.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1231,21 +1288,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product development concepts, including assumptions and hypotheses, which are relevant to Agile methodologies. However, it does not focus on specific products or literature, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:21:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding and validating assumptions in product development, which aligns with Agile principles. However, it primarily focuses on a class rather than specific products or literature, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:22:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of product development, assumptions, and hypothesis-driven development, which are relevant to business agility principles. However, it primarily focuses on specific learning outcomes rather than a comprehensive exploration of business agility as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses product development and the importance of validating assumptions and hypotheses, which aligns with the principles of adaptability and innovation in business agility. However, it primarily focuses on product management techniques rather than broader organisational agility practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1258,11 +1321,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:22:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of validating assumptions and hypotheses in product development, which aligns with strategies for maximising customer value and effective decision-making. However, it primarily focuses on the learning outcomes of a course rather than directly addressing value delivery methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of validating assumptions and formulating hypotheses in product development, which aligns with the principles of iterative development and maximising customer value. However, while it touches on aspects of value delivery, such as prioritising assumptions and experimentation, it lacks a direct focus on Agile methodologies or continuous delivery practices, which limits its depth in the context of value delivery.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
@@ -1276,11 +1342,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:21:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of hypothesis-driven development and the importance of validating assumptions, which are relevant to agile practices. However, it primarily focuses on product development techniques rather than broader organisational agility strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of working with assumptions and hypotheses in product development, which aligns with the principles of agility, particularly in fostering adaptability and responsiveness. However, it primarily focuses on product management techniques rather than broader organisational agility strategies. The depth of discussion on experimentation and learning contributes positively, but the lack of direct references to organisational structures or cultural shifts limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1294,11 +1363,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T12:19:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of validating assumptions and hypotheses in product development, which relates to team dynamics and decision-making processes. However, it primarily focuses on the technical aspects of hypothesis-driven development rather than the interplay between human behaviour and structured methodologies.",
+    "calculated_at": "2025-03-14T18:22:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of understanding and validating assumptions in product development, which indirectly relates to team dynamics and decision-making processes. While it does touch on methodologies and the need for collaboration in hypothesis testing, the primary focus remains on the technical aspects of product development rather than the human factors or team interactions. Therefore, while there is a connection to the category, it is not the central theme.",
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {
@@ -1387,12 +1459,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:19:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:22:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses hypothesis-driven strategies in product development, which aligns with Agile principles, but it primarily focuses on assumptions and experimentation rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of assumptions and hypotheses in product development, which aligns with Agile principles of continuous feedback and iteration. However, it lacks direct references to the Agile Product Operating Model and does not explicitly address key topics such as cross-functional teams or value delivery strategies. The focus is more on hypothesis-driven strategies rather than a comprehensive exploration of the Agile Product Operating Model.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1432,7 +1507,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-06T14:48:58",
+    "calculated_at": "2025-03-14T18:21:44",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1440,6 +1515,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses product development and hypothesis-driven strategies, which are relevant to Agile methodologies, including Scrum. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a low direct mention score. The conceptual alignment is moderate as it touches on aspects of iterative learning and validation, which are part of Scrum principles, but lacks depth in discussing Scrum-specific practices. Overall, while there are connections to Scrum, the primary focus is not on Scrum itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

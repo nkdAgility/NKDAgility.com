@@ -214,12 +214,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:18:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses URL rewriting and SEO practices, which are technical topics, but the primary focus is on SEO rather than engineering practices that enhance agility in software development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses URL rewriting and SEO practices, which are technical topics, but it does not focus on engineering methodologies or practices that enhance agility in software development. While it touches on technical aspects, such as the use of IIS rewrite engines and the need for 301 redirects, it lacks a deeper exploration of principles like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -742,7 +745,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:41:04",
+    "calculated_at": "2025-03-15T07:18:26",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -750,7 +753,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses URL rewriting and SEO practices, which are tangentially related to software development but do not focus on engineering excellence or best practices in software craftsmanship. While there are mentions of technical solutions, the primary focus is on SEO rather than engineering processes or quality assurance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1225,7 +1228,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T18:12:58",
+    "calculated_at": "2025-03-15T07:18:26",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1233,7 +1236,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses URL rewriting and SEO, which are relevant to software development but do not focus on the role of software developers within Agile or DevOps frameworks. While there are mentions of technical practices, the primary focus is on SEO and URL management rather than on methodologies that enhance developer productivity or collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

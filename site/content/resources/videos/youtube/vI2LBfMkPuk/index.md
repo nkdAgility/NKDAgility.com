@@ -25,14 +25,16 @@ preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: false
 tags:
-- Pragmatic Thinking
-- People and Process
-- Agile Product Management
-- Software Developers
-- Team Collaboration
-- Scrum Team
-- Scrum Master
+- Agile Project Management
+- Agile Frameworks
 - Software Development
+- Pragmatic Thinking
+- Discovery and Learning
+- Professional Scrum
+- People and Process
+- Scrum Product Development
+- Agile Product Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

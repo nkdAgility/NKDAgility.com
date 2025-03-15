@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:37:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the complexities and challenges of using Team Foundation Server (TFS) for managing work items across multiple teams and projects, touching on aspects of software architecture and design decisions. However, the primary focus is on TFS usage rather than a deep exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for managing work items across multiple teams and projects, which touches on aspects of software development processes. However, it lacks a direct focus on code quality principles or complexity theory. While it mentions issues related to project management and team collaboration, it does not delve deeply into the complexities of code architecture or the theoretical frameworks that inform best practices in coding. The discussion is more about operational challenges rather than the interplay between code quality and complexity, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -187,11 +190,14 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:37:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organisational challenges and solutions related to using TFS across multiple teams and projects, which aligns with themes of collaboration and adaptability in enterprise agility. However, it primarily focuses on technical implementation rather than broader organisational agility principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the implementation of a solution within TFS to facilitate collaboration across multiple teams and projects, which aligns with the principles of enterprise agility. It addresses organisational structures and the need for cross-team collaboration, but it primarily focuses on specific technical solutions rather than broader organisational agility strategies. While it mentions the need for adaptability and efficiency, it lacks a comprehensive exploration of enterprise agility frameworks or cultural aspects, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Business Agility": {
@@ -292,12 +298,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:36:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of solutions within TFS to improve collaboration and efficiency across multiple teams, which aligns with value delivery principles. However, the primary focus is on technical implementation details rather than strategies for delivering customer value.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the implementation of a solution within TFS to improve collaboration and efficiency across multiple teams, which aligns with the principles of iterative development and incremental delivery. However, it primarily focuses on technical implementation details and specific challenges faced by teams rather than explicitly discussing value delivery strategies or methodologies. While there are mentions of requirements that aim to enhance team collaboration and project management, the depth of discussion on value delivery practices is limited.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -322,12 +331,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:37:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interconnectedness of multiple teams and projects within Team Foundation Server, highlighting the need for a holistic approach to manage work items and resources across divisions. However, the primary focus is on specific technical solutions rather than a broader exploration of Systems Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implementation of a solution within Team Foundation Server (TFS) to address organisational challenges related to project management and team collaboration. While it touches on interconnected issues faced by multiple teams and the need for a unified approach, it primarily focuses on specific technical solutions rather than exploring the broader principles of Systems Thinking. The mention of shared resources and the need for a single Team Project indicates some alignment with Systems Thinking concepts, but the depth of discussion is limited to practical implementation rather than a holistic analysis of organisational dynamics.",
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -397,12 +409,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:37:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses specific technical solutions and improvements within Team Foundation Server (TFS) for better project management across teams, highlighting issues and proposing technical enhancements. However, it primarily focuses on the implementation of TFS rather than broader software craftsmanship principles or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the implementation and configuration of Team Foundation Server (TFS) to address specific organisational challenges. While it touches on technical aspects and solutions, such as the use of a single Team Project and Team Field, the focus is more on project management and operational issues rather than on broader principles of software craftsmanship or engineering excellence. The discussion lacks depth in best practices, clean code principles, or methodologies that contribute to high-quality software development, which are essential for a stronger alignment with the 'Technical Mastery' category.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -478,12 +493,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:36:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses organizing teams and work items within TFS, which aligns with Agile Planning principles of collaboration and project organization. However, the primary focus is on TFS functionalities rather than on Agile Planning methodologies and practices.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) for managing work items across multiple teams and projects, which touches on aspects of Agile Planning, such as team collaboration and project organisation. However, it primarily focuses on technical implementation and challenges rather than the core principles and methodologies of Agile Planning. While it mentions concepts like team focus and project planning, it lacks a deeper exploration of Agile principles, iterative planning, or feedback loops, which are central to Agile Planning discussions.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -505,11 +523,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T04:36:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses techniques for optimizing the use of Team Foundation Server (TFS) to enhance cross-team collaboration, streamline workflows, and manage work items efficiently within an organizational context, aligning well with operational practices in Agile environments.",
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed discussion on optimising the use of Team Foundation Server (TFS) for cross-team collaboration, which directly relates to operational practices in Agile and DevOps. It addresses specific challenges faced by teams, such as moving work items between projects and managing team focus, and proposes solutions that enhance operational efficiency. The depth of the discussion is significant, covering various aspects of TFS usage, including the implementation of a single Team Project and the introduction of a Team Field to improve workflow management. Overall, the content aligns well with the key topics of the category, demonstrating a strong focus on practical applications aimed at improving operational practices.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -532,12 +553,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:36:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the implementation of a centralized project management approach using Team Foundation Server (TFS) to solve organizational issues related to multi-team and cross-project work. Although it details specific technical solutions and features, the underlying need to optimize team collaboration and strategic alignment demonstrates a focus on improving strategic outcomes within an Agile framework.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the implementation of a single Team Project in TFS to address cross-team collaboration and project management challenges, which aligns with strategic approaches in Agile environments. It mentions the need for strategic alignment and optimisation of delivery processes, particularly in the context of managing multiple teams and projects. However, while it touches on strategic concepts, the focus is more on technical implementation and specific TFS functionalities rather than a broader strategic framework or principles. Therefore, the confidence score reflects a moderate alignment with the Strategy category.",
+    "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -607,12 +631,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T04:36:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses utilizing Team Foundation Server (TFS) for software development project management, focusing on inter-team coordination, project organization, and software delivery practices, which aligns closely with software development methodologies and processes.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed discussion on using Team Foundation Server (TFS) for managing work items across multiple teams and projects, which directly relates to software development practices. It addresses specific challenges faced in a software development environment, such as project management, team collaboration, and the use of TFS features to enhance workflow. The depth of the discussion is significant, covering various aspects of TFS, including team structures, project planning, and reporting, which are all integral to effective software development methodologies.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -643,12 +670,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:36:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily discusses the intricacies of using Team Foundation Server (TFS) for project tracking and work item management, which is related to source control, but it also heavily focuses on project management issues and organizational structure, making source control a major, but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for work item tracking and project management across multiple teams, which is relevant to modern source control practices. It addresses issues related to version control, project organisation, and collaboration within TFS, aligning well with the core themes of the category. The depth of discussion is substantial, covering specific challenges and proposed solutions, although it leans more towards project management aspects rather than pure version control methodologies.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -670,30 +700,39 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:36:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS), which is closely related to Azure Boards, specifically in the context of Agile project management and team collaboration across multiple projects. It explores issues and solutions relevant to managing work items and team structures within a framework similar to Azure Boards.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is related to Azure Boards but does not explicitly focus on Azure Boards itself. While it touches on Agile project management concepts and work item tracking, the discussion is more about TFS functionalities and challenges rather than the specific features and best practices of Azure Boards. The depth of discussion on Azure Boards is minimal, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:36:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for enhancing collaboration across multiple Agile teams and business lines, addressing challenges and solutions specifically related to project management tools that facilitate teamwork, task management, and communication within an Agile context.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) as a collaboration tool for managing work across multiple teams and projects, which aligns with the category's focus on enhancing communication and coordination within Agile teams. It provides a detailed overview of challenges faced by teams using TFS, such as moving work items between projects and the need for a unified team project structure. The depth of discussion includes specific solutions and requirements that facilitate collaboration, indicating a strong alignment with the key topics of the category. However, while the content is primarily focused on TFS, it does not extensively cover other collaboration tools or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:36:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a solution to improve collaboration and efficiency across multiple teams within an organization using Team Foundation Server (TFS). While it primarily focuses on software tools and practices, it also touches upon themes of organizational structure and process improvements which are relevant to organizational change.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses technical aspects of using Team Foundation Server (TFS) for project management and work item tracking across teams. While it touches on the need for organisational solutions and mentions requirements that could relate to organisational change, it lacks a direct focus on the principles, methodologies, or frameworks of organisational change itself. The discussion is more about operational efficiency and technical implementation rather than the strategic transformation of the organisation to enhance agility and resilience.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -724,11 +763,14 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:36:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses coordination and collaboration among multiple teams using TFS, which is relevant to managing Scrum at scale. It describes practical solutions for organizing work across teams, which aligns with scaling Scrum practices, but is somewhat focused on TFS specifics rather than Scrum itself.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges and solutions related to managing multiple teams within a single Team Project in TFS, which aligns with the coordination and collaboration aspects of scaling Scrum. However, it lacks direct references to Scrum principles, roles, or specific frameworks for scaling Scrum, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -751,11 +793,14 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:36:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses challenges and solutions related to organizing multiple teams within a single framework (TFS) and suggests implementing strategies for a more integrated approach to agile practices across teams, aligning well with the concept of scaling agility in organizations.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges and solutions related to using Team Foundation Server (TFS) for cross-team collaboration, which aligns with the concept of scaling agility. It mentions the need for a single Team Project to facilitate work across multiple teams, which is a key aspect of scaling agile practices. However, the focus is primarily on TFS-specific issues rather than broader agile frameworks or organisational strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -808,11 +853,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:36:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies and solutions for navigating issues within Team Foundation Server (TFS) in a multi-team environment. It provides real-world applications of Agile principles to enhance collaboration, addresses complex cross-team challenges, and presents specific techniques to improve work item tracking and management.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed exploration of practical solutions for managing work item tracking across multiple teams and projects within TFS, demonstrating a strong alignment with pragmatic thinking. It discusses real-world challenges faced by teams, such as context switching and project management complexities, and offers specific strategies to address these issues, including the implementation of a single Team Project and the introduction of a Team Field. The depth of the discussion is significant, as it not only identifies problems but also proposes actionable solutions, reflecting a strong application of experience-based problem-solving techniques in an Agile context.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -826,12 +874,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:37:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses solutions for improving work item tracking and collaboration across multiple teams using Team Foundation Server, which relates to innovative practices in software development and organizational structure. However, it primarily focuses on specific technical implementation rather than a broader discussion on the capacity to innovate.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the implementation of solutions within Team Foundation Server (TFS) to address organisational challenges, which indirectly relates to innovation. However, it lacks a direct focus on the principles of Ability to Innovate, such as Evidence-Based Management or frameworks for measuring innovation capabilities. The discussion is more about operational improvements rather than fostering a culture of innovation or empirical data-driven decision-making.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -844,11 +895,14 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:35:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the implementation challenges and solutions for managing multiple teams within an enterprise using Team Foundation Server, which aligns with the principles of scaling Agile practices across teams.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the implementation of a solution within TFS for coordinating work across multiple teams in a division, which aligns with the principles of scaling Agile practices. It addresses challenges faced by teams working on different projects and suggests a unified approach to project management, which is a key aspect of Scaled Agile methodologies. However, while it touches on collaboration and coordination, it lacks explicit references to established frameworks like SAFe or LeSS, and does not delve deeply into enterprise-level transformation strategies or leadership roles in scaling Agile, which limits its overall depth and alignment with the category.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -889,20 +943,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T11:12:10",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T04:36:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the implementation and issues related to the Team Foundation Server (TFS) in delivering software for a bank, focusing on organizational challenges and solutions for managing work items across multiple teams. While it covers aspects of improving software delivery efficiency, the primary theme is about TFS configuration rather than working software itself.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the implementation of a solution within TFS to facilitate collaboration across multiple teams in delivering software. It touches on issues related to work item tracking, team project management, and the need for a single Team Project to enhance functionality. While it does mention aspects of working software, such as requirements gathering and team collaboration, the focus is more on the technical implementation and challenges rather than on the characteristics or principles of working software as defined in Agile and Scrum. Therefore, while there is some alignment with the category, it is not the primary focus.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:37:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) in the context of Agile methodologies and project tracking, touching upon aspects like work item tracking, team project management, and backlog organization. However, the primary focus leans more towards TFS functionality rather than a broad discussion of Agile Planning Tools as a concept.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) for managing work items across multiple teams and projects, which relates to Agile planning tools. However, it primarily focuses on specific implementation challenges and solutions rather than providing a broad overview or in-depth discussion of Agile planning methodologies or tools. While it touches on backlog management and team collaboration, the depth of discussion is limited, and it does not explore the broader context of Agile planning tools or their benefits extensively.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -979,11 +1039,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:36:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses solutions for organizing work items and projects within Team Foundation Server, touching on aspects of managing software delivery and planning, though it predominantly focuses on project management and does not comprehensively address release management practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) for managing work items across multiple teams and projects, which touches on aspects of release management such as coordination and planning. However, it primarily focuses on the challenges and solutions related to TFS usage rather than the broader strategies and practices of release management. While there are mentions of project planning and team coordination, the depth of discussion does not fully align with the core themes of release management, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -1033,11 +1096,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T11:12:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:36:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses issues and solutions related to collaboration among multiple teams using TFS, focusing on shared ownership and teamwork dynamics within software development. It emphasizes the importance of cross-team collaboration and the challenges faced in a multi-team project environment, aligning well with the themes of team collaboration.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges and solutions related to using Team Foundation Server (TFS) for collaboration across multiple teams and projects. It highlights issues such as moving work items between projects, team focus, and the need for shared resources, which are relevant to team collaboration. However, while it touches on collaboration, the primary focus is on technical implementation and individual project management rather than on enhancing team dynamics or communication strategies. Therefore, while it aligns with the category, it does not delve deeply into the core themes of team collaboration.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -1051,12 +1117,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:36:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses solutions for using Team Foundation Server (TFS) to improve collaboration and efficiency across teams in software development. While it primarily focuses on TFS functionalities and user experiences, it does touch on transformation aspects required for optimizing project management and resource allocation, which relate to enhancing operational efficiency, a key element of digital transformation.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the implementation of Team Foundation Server (TFS) to improve collaboration and efficiency across multiple teams within a division. While it touches on aspects of digital tools and methodologies, such as the use of TFS for project management and work item tracking, it lacks a strong focus on broader digital transformation strategies or the impact of emerging technologies. The discussion is primarily operational and technical, with limited exploration of how these practices contribute to overall business agility or innovation. Therefore, while there is some relevance to digital transformation, it is not the primary focus.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1078,12 +1147,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T11:12:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:36:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration and optimization of Team Foundation Server (TFS) to address organizational challenges and improve work item tracking across multiple teams, which aligns with the topic of System Configuration.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the configuration of Team Foundation Server (TFS) to address specific organisational needs, which aligns with system configuration principles. It mentions best practices for setting up a single Team Project, the use of Team Field for categorisation, and the implications of these configurations on performance and usability. However, while it touches on configuration management and optimisation strategies, the focus is more on project management and team dynamics rather than purely on system configuration, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1150,11 +1222,14 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T11:12:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:36:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses scaling Agile practices within a large organization by addressing challenges faced by multiple teams using Team Foundation Server (TFS), proposing solutions that align with principles of large scale agility.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the implementation of a solution within TFS to facilitate collaboration across multiple teams in a large division, which aligns with the principles of Large Scale Agility. It addresses issues related to cross-team work item tracking and the need for a unified approach to project management, reflecting the need for frameworks that support enterprise-level Agile practices. However, while it touches on relevant themes, the focus remains more on specific tools and processes rather than broader Agile transformation strategies or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Team Motivation": {
@@ -1186,12 +1261,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T11:12:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:36:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses specific issues encountered when using Team Foundation Server (TFS) across multiple teams and projects. It outlines the problems related to work item management, querying, team collaboration, and suggests solutions to mitigate these issues, which aligns with the troubleshooting focus on identifying and resolving technical problems.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses various issues faced by teams using TFS, such as moving work items between projects and querying across team projects, which aligns with troubleshooting. However, while it identifies problems and suggests solutions, the primary focus is on project management and organisational structure rather than systematic problem-solving techniques or methodologies typically associated with troubleshooting.",
+    "level": "Tertiary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1231,11 +1309,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T11:12:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:36:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for managing work and collaboration among multiple software development teams, aligning with Agile and DevOps methodologies. It addresses challenges and solutions related to project management and team dynamics in software delivery.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) in a collaborative environment involving multiple teams, which aligns with the role of software developers in Agile and DevOps contexts. It addresses specific challenges faced by developers when managing work items across projects, which is relevant to Agile practices. However, while it touches on Agile principles and team dynamics, the focus is more on TFS functionality and project management rather than on broader Agile methodologies or developer empowerment. The depth of discussion on Agile practices is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,12 +1330,12 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:50",
+    "calculated_at": "2025-03-15T04:35:55",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses the use of Team Foundation Server (TFS) for project tracking and team collaboration, which is related to Agile practices but primarily focuses on project management aspects rather than core engineering practices such as clean code, TDD, or CI/CD.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1276,7 +1357,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:50:39",
+    "calculated_at": "2025-03-15T04:35:55",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 25.0,
@@ -1284,7 +1365,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses technical implementation details related to Team Foundation Server (TFS) and its use in managing work items across multiple teams and projects. While it touches on some aspects of product management, such as addressing customer requirements and team collaboration, the focus is heavily on the technical challenges and solutions rather than on strategic product management methodologies or frameworks. The discussion lacks depth in core product management themes like customer feedback prioritisation, stakeholder alignment, or metrics for product success.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1306,21 +1387,24 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:37:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues and solutions related to using Team Foundation Server (TFS) for structured project management across multiple teams, which aligns with Agile principles. However, the focus is more on technical practices and tools than on strategic applications of Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the implementation of a solution within TFS to facilitate collaboration across multiple teams, which touches on Agile principles such as teamwork and adaptability. However, it primarily focuses on technical practices and specific functionalities of TFS rather than a strategic discussion on Agile methodologies or their integration into organisational vision and planning. While there are mentions of team dynamics and project management, the depth of strategic alignment with Agile principles is limited.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:08:50",
+    "calculated_at": "2025-03-15T04:35:55",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content mostly discusses Team Foundation Server (TFS) and its organizational challenges with work item tracking, rather than focusing specifically on Azure Repos or its functionalities in source control.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1360,21 +1444,27 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:36:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its role in coordinating work across multiple teams within a large organization, which aligns with the theme of managing workflow and collaboration at scale; however, it does not explicitly focus on Kanban principles or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) for managing work across multiple teams and projects, which aligns with the principles of scaling Kanban. However, it primarily focuses on TFS-specific solutions rather than Kanban principles or practices. While it touches on issues related to team collaboration and work visualisation, it lacks a direct emphasis on Kanban methodology and does not provide in-depth discussions on scaling Kanban practices or metrics. Therefore, while there is some relevance, the content does not fully meet the criteria for a strong alignment with the 'Scaling Kanban' category.",
     "level": "Tertiary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:37:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges and solutions related to work item tracking in TFS, which indirectly relates to improving throughput in a multi-team environment. However, the primary focus is on project setup and management rather than directly measuring or optimising throughput.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges and solutions related to managing work items across multiple teams and projects in TFS, which indirectly relates to throughput by addressing issues that can affect the flow of work. However, it lacks a direct focus on measuring or optimising throughput as defined in Agile and DevOps contexts. The discussion is more about project management and organisational structure rather than specific throughput metrics or strategies.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1426,7 +1516,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:37:28",
+    "calculated_at": "2025-03-15T04:35:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1434,6 +1524,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the use of Team Foundation Server (TFS) for project management, which is relevant to Scrum practices, particularly in terms of team collaboration and project tracking. However, it does not explicitly mention Scrum roles, events, or artifacts, and the focus is more on TFS functionalities rather than Scrum principles. The discussion on team dynamics and project management is present but lacks depth in Scrum-specific terminology and frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

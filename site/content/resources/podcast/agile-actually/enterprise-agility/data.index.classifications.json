@@ -94,7 +94,7 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-06T14:57:19",
+    "calculated_at": "2025-03-14T19:54:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -102,7 +102,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on Agile and DevOps through the hosts' expertise, but it primarily focuses on the importance of language and communication in the Agile context. While there are mentions of Agile coaching and consulting, the discussion lacks a direct focus on strategies or methodologies that enhance market adaptability. The depth of discussion is limited, as it does not provide substantial insights into how these practices contribute to organisational agility in response to market changes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -244,7 +244,7 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-10T17:59:45",
+    "calculated_at": "2025-03-14T19:54:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -252,7 +252,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on Agile concepts and discussions, with only a brief mention of 'leanagileprocurement' which does not delve into Lean principles or methodologies. The core themes of Lean, such as waste reduction and continuous improvement, are not addressed, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -274,7 +274,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-11T09:58:24",
+    "calculated_at": "2025-03-14T19:54:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -282,7 +282,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly touches on the importance of language in the agile context, which relates to business agility principles. However, it lacks a detailed exploration of business agility concepts, strategies, or case studies, making it more of a secondary mention rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -307,7 +307,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T14:26:23",
+    "calculated_at": "2025-03-14T19:54:38",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -315,11 +315,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly touches on Agile methodologies and the importance of language in the Agile context, which relates to product delivery. However, it lacks a detailed discussion on the end-to-end process of delivering software products, focusing instead on the hosts' credentials and their roles in Agile coaching and consulting. The primary focus is not on product delivery itself, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-11T16:15:39",
+    "calculated_at": "2025-03-14T19:54:38",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -327,7 +327,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions agile principles and the importance of language in the agile context, but it lacks a direct focus on enterprise agility as defined. While it touches on coaching and consulting, it does not delve into organisational structures, frameworks, or strategies that support enterprise agility. The discussion is more centred on individual roles and insights rather than the broader implications for organisational performance and culture.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -358,7 +358,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-06T14:57:16",
+    "calculated_at": "2025-03-14T19:54:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -366,7 +366,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions DevOps in the context of Martin Hinshelwood's expertise, but the primary focus is on Agile principles and the importance of language in Agile contexts. There is minimal discussion of DevOps practices, tools, or principles, which are essential for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -433,12 +433,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:54:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content addresses transparency and language in the context of Agile, suggesting a focus on foundational Agile principles, though it primarily discusses the podcast's hosts and their roles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly touches on the importance of language and transparency in the Agile context, which aligns with the Agile Philosophy's emphasis on collaboration and communication. However, it primarily focuses on the hosts' credentials and their roles in Agile coaching rather than delving deeply into the foundational principles or broader implications of Agile as a mindset.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -478,12 +481,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:54:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content relates to agile and Scrum concepts but primarily discusses the importance of language and transparency rather than specific Scrum roles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions Professional Scrum trainers and discusses the importance of transparency in the Agile context, which aligns with Scrum principles. However, it lacks a detailed exploration of Scrum roles, events, or artifacts, and does not provide in-depth discussions on the core themes of Professional Scrum.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -577,12 +583,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:54:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile coaching and consultancy, which relates to organisational change; however, the primary focus appears to be on the importance of language in the agile context rather than on strategies or frameworks for organisational change.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on Agile concepts and the importance of language in the Agile context, but it lacks a direct focus on organisational change strategies or methodologies. While it mentions Agile coaching and consulting, it does not delve into frameworks for implementing change or the role of leadership in driving organisational transformation, which are key aspects of the category.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -631,11 +640,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:36:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of transparency in the Agile context, which is a significant aspect of empirical process control, but it does not delve deeply into the principles or practices of empirical process control itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of transparency in Agile, which aligns with the principles of empirical process control. However, it lacks a detailed exploration of inspection and adaptation, and does not provide specific examples or case studies related to empirical process control.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -784,12 +796,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:15:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses themes relevant to Agile, including the importance of language and communication in an Agile context, but it focuses more on coaching and consulting rather than a comprehensive Agile transformation strategy.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of language and transparency in the Agile context, which aligns with Agile principles. However, it lacks detailed exploration of Agile transformation strategies or methodologies, focusing more on the hosts' credentials and their roles rather than providing in-depth insights into Agile transformation practices.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -829,7 +844,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T17:28:16",
+    "calculated_at": "2025-03-14T19:54:38",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -837,7 +852,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile principles and the importance of language in the Agile context, which is relevant to software developers. However, it primarily focuses on the hosts' roles and their consulting services rather than providing in-depth insights into the practices or methodologies that directly impact software developers. The mention of DevOps and Agile coaching indicates some relevance, but the lack of detailed discussion on best practices or developer-specific strategies limits the overall confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -859,12 +874,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:54:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions transparency, which aligns with the Scrum Values, but it primarily focuses on language and communication in the Agile context rather than directly discussing Scrum Values as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions transparency, which aligns with the Scrum Value of Openness. However, it primarily focuses on the importance of language in the Agile context and does not delve deeply into the Scrum Values or provide a comprehensive discussion on them. The overall emphasis is more on Agile coaching and consulting rather than the core principles of Scrum.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -913,11 +931,14 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:54:40",
+    "ai_confidence": 75.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the importance of transparency and precision in language within the Agile context, directly aligning with the theme of transparency in Agile processes.",
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses the importance of transparency in the context of language and communication within Agile processes, which aligns well with the core themes of the category. The hosts' focus on precision and accuracy in communication highlights the need for clear and transparent interactions. However, while the discussion is relevant, it does not delve deeply into specific techniques or tools for promoting transparency, which slightly limits the depth of the discussion.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -940,11 +961,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:29:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of language in the Agile context and features Agile coaches and trainers, indicating a focus on Agile principles and coaching, but does not primarily explore specific Agile frameworks or their applications.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of language and transparency in the Agile context, which aligns with Agile principles. However, it does not delve deeply into specific Agile frameworks or provide a comparative analysis, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Team Performance": {
@@ -994,12 +1018,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:54:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts and context related to Agile, particularly focusing on language and communication, which relates to Agile principles. However, it does not primarily dive into specific agile methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of language and transparency in the agile context, which aligns with agile principles. However, it lacks detailed exploration of specific agile methodologies or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1075,12 +1102,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:54:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses Agile concepts and the importance of communication within agile practices, which are relevant to software development, but does not focus specifically on software development processes or methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile methodologies, specifically focusing on the importance of language and transparency in the Agile context. It mentions Agile coaching and Scrum training, which are directly related to software development practices. However, the discussion is more about the hosts and their roles rather than a deep dive into Agile methodologies or practices, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1192,12 +1222,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:54:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of transparency and language in the Agile context, which is a significant theme but is not the primary focus. It seems to lean more towards a discussion on roles and practices rather than purely on Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content briefly touches on the importance of transparency and language in the Agile context, which aligns with Agile values of communication and collaboration. However, it lacks a detailed exploration of Agile principles or the Agile Manifesto, making it more of a secondary mention rather than a primary focus.",
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1300,11 +1333,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:54:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of language in the Agile context, which is a relevant theme in pragmatic thinking, but does not primarily focus on practical problem-solving strategies or real-world applications.",
+    "final_score": 56.0,
+    "reasoning": "The content briefly mentions Agile and DevOps, focusing on the importance of language and transparency in these contexts. However, it lacks detailed discussions on practical problem-solving strategies or real-world applications, which are essential for a higher confidence score in the category of Pragmatic Thinking.",
     "level": "Tertiary"
   },
   "Market Share": {
@@ -1318,11 +1354,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T15:05:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:54:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile coaching and the importance of language in the agile context, making coaching a secondary theme.",
+    "final_score": 59.0,
+    "reasoning": "The content briefly mentions agile coaching and the hosts' roles as agile coaches, which indicates a connection to the coaching category. However, the primary focus is on the importance of language and transparency in the agile context, rather than on coaching techniques or practices. The discussion lacks depth regarding coaching methodologies or strategies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scaling Agility": {

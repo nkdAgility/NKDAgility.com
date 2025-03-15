@@ -37,7 +37,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T18:14:10",
+    "calculated_at": "2025-03-14T23:33:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -45,7 +45,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions Scrum and its role in aligning DevOps and software engineering practices, which touches on product management concepts. However, it lacks a detailed exploration of product management methodologies, customer feedback, or strategic alignment, making it more focused on technical implementation rather than the strategic aspects of product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -400,29 +400,38 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:05:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:40:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum in the context of aligning DevOps and software engineering practices, indicating a significant but secondary theme related to the Scrum Master role.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum in the context of aligning DevOps and Software Engineering teams, which is relevant to the role of a Scrum Master. However, it primarily focuses on the alignment aspect rather than the specific responsibilities or practices of a Scrum Master. While there are mentions of Scrum principles, the depth of discussion on Scrum Master responsibilities and techniques is limited.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T22:05:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum, which is a framework that supports Agile Planning, but the primary focus is on aligning DevOps and software engineering practices rather than on Agile Planning principles themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:48:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum as a methodology for aligning DevOps and Software Engineering teams, which relates to Agile Planning principles. However, it primarily focuses on the alignment aspect rather than providing a comprehensive exploration of Agile Planning techniques, strategies, or best practices. The discussion lacks depth in terms of Agile Planning specifics, such as user stories or backlog refinement.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T22:05:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum, which is an Agile framework, and touches on principles such as transparency and feedback loops. However, it primarily focuses on the alignment of DevOps and software engineering practices rather than a deep exploration of Agile values and principles.",
+    "calculated_at": "2025-03-14T15:27:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 41.0,
+    "reasoning": "The content primarily discusses Scrum as a framework for aligning DevOps and Software Engineering teams, which is a specific Agile methodology rather than focusing on the underlying Agile values and principles. While it touches on concepts like transparency and feedback, it does not delve deeply into the core values of the Agile Manifesto or the twelve principles of Agile software development. The discussion is more about the application of Scrum rather than a thorough exploration of Agile values.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -508,20 +517,26 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T22:05:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum, which is a framework for Agile transformation, and touches on the alignment of DevOps and software engineering practices within that context. However, it primarily focuses on the integration of these practices rather than a comprehensive discussion on Agile transformation as a whole.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:33:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content explicitly discusses Scrum, a key framework in Agile transformation, and explores its role in aligning DevOps and Software Engineering teams. It aligns well with Agile principles, emphasising transparency, feedback, and the importance of delivering usable products. However, while it touches on Agile transformation concepts, it lacks a broader discussion on change management strategies or leadership roles, which slightly limits its depth.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T22:05:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the alignment of DevOps and software engineering practices within the context of Scrum, indicating a major but secondary theme related to engineering practices.",
+    "calculated_at": "2025-03-14T23:33:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses the alignment of DevOps and Software Engineering teams through Scrum, which touches on Agile principles. However, it primarily focuses on Scrum as a methodology rather than delving deeply into core engineering practices like clean code, TDD, or CI/CD. While it mentions engineering excellence and practices, the discussion lacks specific details on the fundamental principles of software engineering, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lean Principles": {
@@ -553,12 +568,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T22:05:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:33:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the alignment of Scrum with DevOps and software engineering practices, indicating a major theme around practical techniques, but it does not delve deeply into specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum as a practical methodology for aligning DevOps and Software Engineering teams, which directly relates to the category. It highlights actionable outcomes and the importance of discipline in implementing Scrum, demonstrating a strong conceptual alignment with the core themes of practical techniques and tooling. However, while it provides a good level of detail, it lacks specific mentions of tools or frameworks beyond Scrum, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -616,11 +634,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T22:05:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:33:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the alignment of DevOps and software engineering practices through Scrum, indicating a major theme related to Scrum but primarily focuses on the integration of practices rather than the dynamics of a Scrum Team.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Scrum in the context of aligning DevOps and Software Engineering teams, which touches on the collaboration aspect of Scrum Teams. However, it lacks detailed exploration of specific roles, team dynamics, or practices that are central to the Scrum Team category. The focus is more on the alignment of methodologies rather than the intricacies of Scrum Team interactions.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -688,12 +709,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T22:06:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:33:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the alignment of DevOps and software engineering teams through Scrum, indicating a focus on collaboration and teamwork dynamics, but it primarily centres on Scrum practices rather than team collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the alignment of DevOps and Software Engineering teams through Scrum, which directly relates to team collaboration. It mentions the importance of transparency and feedback, which are key aspects of effective teamwork. However, while it touches on collaboration, it lacks detailed strategies or techniques for improving team dynamics and does not delve deeply into the cultural aspects of collaboration, resulting in a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -724,12 +748,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T22:06:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:33:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of feedback loops and engineering excellence within the context of Scrum, which relates to learning and discovery, but primarily focuses on Scrum roles and practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum and its role in aligning DevOps and Software Engineering teams, focusing on practical outcomes and transparency. While it touches on feedback and discipline, it lacks a deeper exploration of discovery and learning methodologies, making it more about project management than the core themes of the category.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -769,12 +796,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T22:06:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:33:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the alignment of Scrum with DevOps and software engineering practices, which relates to enhancing responsiveness and collaboration. However, it primarily focuses on Scrum roles and events rather than directly addressing broader market adaptability strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the alignment of DevOps and Software Engineering teams through Scrum, which touches on Agile methodologies. However, it lacks a direct focus on market adaptability strategies, such as responding to market shifts or leveraging data for decision-making. While it mentions the importance of transparency and feedback, it does not delve deeply into how these practices enhance an organisation's agility in a dynamic market environment.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -787,21 +817,27 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T22:06:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:33:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses transparency as a fundamental aspect of Scrum, particularly in relation to delivering a usable product at the end of each Sprint. However, the primary focus is on aligning DevOps and software engineering practices rather than transparency itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of transparency within the context of Scrum, particularly in achieving alignment between DevOps and Software Engineering teams. It explicitly mentions transparency as a core tenet of Scrum and highlights its role in delivering tangible results. However, while it touches on the concept, the depth of discussion is somewhat limited, focusing more on alignment and engineering excellence rather than providing extensive techniques or tools for promoting transparency.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T22:06:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:33:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions feedback loops in the context of Scrum, but the primary focus is on aligning DevOps and software engineering practices rather than on customer feedback integration.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Scrum and its role in aligning teams, but it does not explicitly focus on customer feedback loops or the processes of collecting and utilising customer feedback. While there are mentions of transparency and feedback, these concepts are not explored in the context of customer feedback integration into product development, which is the primary focus of the category.",
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -868,30 +904,39 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T22:06:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:33:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the alignment of DevOps and software engineering practices through Scrum, indicating a major theme of strategic alignment within Agile frameworks, but it does not delve deeply into strategic approaches or techniques.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the alignment of DevOps and Software Engineering teams through Scrum, which directly relates to strategic alignment within Agile frameworks. It highlights the importance of Scrum as a methodology for achieving cohesion and transparency, which aligns with the core themes of the Strategy category. However, while it touches on strategic concepts, the depth of discussion is more focused on practical implementation rather than a comprehensive exploration of strategic planning or execution, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T22:06:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the alignment of DevOps and software engineering practices through Scrum, which relates to operational efficiency, but it primarily focuses on Scrum roles and events rather than specific operational practices or techniques.",
+    "calculated_at": "2025-03-14T23:33:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the alignment of DevOps and Software Engineering teams through Scrum, which touches on operational practices. However, it primarily focuses on the theoretical aspects of Scrum and its principles rather than providing concrete techniques or strategies for enhancing operational efficiency. The mention of embedding DevOps practices into workflows hints at operational improvement but lacks detailed exploration of specific methodologies or metrics that would strengthen its alignment with the category.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T22:06:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum in the context of aligning DevOps and software engineering practices, indicating a major theme related to Agile principles, but it primarily focuses on specific Scrum practices rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:33:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses Scrum as a framework for aligning DevOps and Software Engineering teams, which is a specific methodology rather than the broader Agile Philosophy. While it touches on principles like transparency and feedback, it lacks a comprehensive exploration of Agile's foundational values and principles, thus limiting its alignment with the category.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -913,21 +958,27 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T22:06:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering a usable product at the end of each Sprint, which aligns with the principles of frequent releases, but primarily focuses on the alignment of Scrum with DevOps and software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum and its principles, which indirectly relate to frequent releases through the concept of delivering a usable product at the end of each sprint. However, it lacks a direct focus on the practices and strategies specifically associated with frequent releases, such as Continuous Delivery or deployment automation. The discussion is more centred on alignment between DevOps and software engineering rather than the mechanics of frequent releases.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T22:06:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of feedback loops and engineering excellence within the context of Scrum, which aligns with Continuous Learning principles, but it primarily focuses on the alignment of DevOps and software engineering practices rather than on Continuous Learning itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Scrum and its role in aligning DevOps and Software Engineering teams, which touches on principles of collaboration and feedback. However, it lacks a strong focus on continuous learning practices, such as knowledge sharing or growth mindset, which are central to the category. The discussion is more about alignment and methodology rather than fostering a culture of continuous improvement.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -958,12 +1009,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T22:06:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its role in aligning DevOps and software engineering practices, which relates to Agile principles. However, the primary focus is on the integration of engineering practices rather than on product management specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:34:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Scrum and its role in aligning DevOps and Software Engineering teams, which relates to Agile principles. However, it lacks a direct focus on product management aspects such as backlog prioritisation or stakeholder engagement, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -994,11 +1048,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T22:06:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the alignment of DevOps and software engineering practices through Scrum, indicating a relationship between organisational practices and technology. However, it primarily focuses on Scrum and software engineering without deeply exploring the sociotechnical interactions.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the alignment of DevOps and Software Engineering teams through Scrum, which touches on the interplay between organisational structures and technology. However, it primarily focuses on Scrum as a methodology and does not deeply explore the broader sociotechnical implications or the interaction between social and technical systems. The mention of alignment and collaboration hints at sociotechnical themes, but the depth of discussion is limited, focusing more on practical outcomes rather than theoretical frameworks or case studies.",
     "level": "Tertiary"
   },
   "Products and Books": {
@@ -1012,11 +1069,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T22:06:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum's role in fostering transparency and feedback loops, which are key aspects of empirical process control, but it primarily focuses on aligning DevOps and software engineering practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum and its principles, particularly focusing on transparency and the importance of delivering usable products at the end of sprints. However, it lacks a detailed exploration of empirical process control concepts such as inspection and adaptation, and does not provide case studies or tools related to empirical process control. The primary focus is on aligning DevOps and Software Engineering teams rather than a thorough examination of empirical process control itself.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -1030,11 +1090,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T22:06:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:34:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the practical application of Scrum in aligning DevOps and software engineering practices, emphasising real-world problem-solving and collaboration.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the alignment of DevOps and Software Engineering teams through Scrum, which directly relates to practical problem-solving strategies in Agile contexts. It highlights the importance of tangible outcomes and the integration of DevOps practices, demonstrating a clear alignment with pragmatic thinking. However, while it touches on these themes, the depth of discussion is somewhat limited, focusing more on the concept of alignment rather than providing extensive practical strategies or case studies.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -1057,11 +1120,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T22:06:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:34:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of delivering a working, usable product through Scrum, emphasising the role of engineering excellence and DevOps in achieving high-quality software.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of delivering a working product at the end of each sprint, which aligns with the principles of working software. However, it primarily focuses on the alignment of DevOps and Software Engineering teams through Scrum rather than providing in-depth insights into the characteristics or best practices of working software itself. The discussion is somewhat high-level and lacks detailed exploration of metrics or customer feedback techniques.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -1102,11 +1168,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T22:07:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:34:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the alignment of DevOps and software engineering practices through Scrum, focusing on methodologies and practices that enhance software development outcomes.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses Scrum, a key Agile framework, and its role in aligning DevOps and Software Engineering teams, which is central to software development practices. It provides a detailed exploration of how Scrum facilitates transparency and feedback, essential elements in the software development lifecycle. The depth of discussion on engineering excellence and the integration of DevOps practices further solidifies its relevance to the Software Development category.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -1147,30 +1216,39 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T22:07:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the alignment of DevOps and software engineering practices through Scrum, which implies collaboration among diverse skill sets. However, it primarily focuses on Scrum rather than cross-functional teams specifically.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the alignment of DevOps and Software Engineering teams through Scrum, which touches on collaboration but does not explicitly focus on cross-functional teams. While it mentions the importance of alignment and collaboration, it lacks a detailed exploration of cross-functional team characteristics, best practices, or specific challenges faced by such teams. The primary focus is on Scrum methodology rather than the concept of cross-functional teams themselves.",
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T22:07:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:34:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the alignment of DevOps and software engineering practices through Scrum, focusing on the role of software developers in achieving engineering excellence and delivering quality software.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the alignment of DevOps and Software Engineering teams through Scrum, which is a core Agile methodology. It directly addresses the role of software developers in achieving this alignment, highlighting the importance of transparency, feedback, and engineering excellence. The discussion aligns well with the key topics of Agile practices and the integration of DevOps principles. The depth of the discussion is substantial, providing insights into how these methodologies can enhance productivity and collaboration among developers. Overall, the content is highly relevant to the category of Software Developers.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T22:07:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of having a working product at the end of each Sprint, which relates to deployment frequency as part of the feedback loop in Scrum. However, the primary focus is on aligning DevOps and software engineering practices rather than specifically on optimising deployment intervals.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum and its role in achieving alignment between DevOps and Software Engineering teams, but it does not explicitly address deployment frequency or its optimisation. While it touches on the importance of delivering usable products at the end of sprints, which indirectly relates to deployment frequency, the primary focus is on team alignment and Scrum practices rather than on strategies or metrics for increasing deployment frequency.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1219,11 +1297,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T22:07:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:29",
+    "ai_confidence": 52.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of engineering practices with Scrum, highlighting the need for engineering excellence and DevOps, but it primarily focuses on Scrum rather than technical excellence itself.",
+    "final_score": 47.0,
+    "reasoning": "The content discusses the alignment of DevOps and Software Engineering teams through Scrum, which touches on engineering practices. However, it primarily focuses on Scrum methodology rather than delving deeply into specific technical excellence practices like TDD, CI/CD, or modular architecture. While there are mentions of engineering excellence and embedding DevOps practices, the discussion lacks depth in technical methodologies and principles that enhance agility in software development.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -1291,11 +1372,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T22:07:35",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T23:34:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the alignment of DevOps and software engineering practices through Scrum, highlighting the importance of delivering a usable product at the end of each Sprint, which relates to iterative development and customer value delivery. However, it primarily focuses on the integration of practices rather than specific value delivery strategies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the alignment of DevOps and Software Engineering teams through Scrum, which touches on the principles of iterative development and the importance of delivering usable products at the end of sprints. However, while it mentions Scrum's role in achieving alignment and transparency, it lacks detailed exploration of value delivery strategies, measurement techniques, or customer feedback integration, which are crucial for a higher confidence score in this category.",
     "level": "Secondary"
   },
   "System Configuration": {
@@ -1327,12 +1411,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T22:07:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the alignment of Scrum with DevOps and software engineering practices, indicating a significant focus on Scrum principles, but it also includes broader themes related to engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Scrum principles and their application in aligning DevOps and Software Engineering teams, which is relevant to Scrum Product Development. It mentions the importance of delivering a usable product at the end of each sprint and highlights the role of transparency and feedback, aligning well with core themes of the category. However, while it touches on Scrum practices, it lacks detailed exploration of specific Scrum roles, sprint processes, or metrics, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1354,20 +1441,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T22:07:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the alignment of DevOps and software engineering practices through Scrum, which relates to Agile methodologies. However, it primarily focuses on Scrum roles and practices rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:34:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the alignment of DevOps and Software Engineering teams through Scrum, which touches on Agile principles and methodologies. However, it primarily focuses on Scrum practices rather than a broader Agile strategy. While it mentions the importance of alignment and tangible results, it lacks a comprehensive exploration of strategic planning or long-term success in an Agile context.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T22:07:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of having a working product at the end of each Sprint, which relates to the concept of Increment in Scrum, but it primarily focuses on aligning DevOps and software engineering practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of delivering a working product at the end of each sprint, which aligns with the Increment concept. However, it primarily focuses on the alignment of DevOps and Software Engineering teams rather than a detailed exploration of the Increment itself. While it mentions the need for tangible results and the foundational nature of Scrum, it lacks in-depth discussion on best practices, measurement techniques, or the relationship with other Scrum artifacts.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
@@ -1381,11 +1474,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T22:07:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and its role in aligning DevOps and software engineering practices, which relates to organisational agility but is primarily focused on Scrum methodology rather than broader agility strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum as a methodology for aligning DevOps and Software Engineering teams, which touches on organisational agility. However, it primarily focuses on Scrum practices rather than broader organisational strategies or cultural shifts. The mention of alignment and transparency aligns with agile principles, but the depth of discussion is limited to Scrum without exploring the wider implications for organisational agility.",
     "level": "Tertiary"
   },
   "Troubleshooting": {

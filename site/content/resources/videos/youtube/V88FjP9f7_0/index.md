@@ -30,14 +30,14 @@ sitemap:
 tags:
 - Agile Product Management
 - Agile Values and Principles
-- Agile Philosophy
 - Agile Project Management
-- Product Delivery
-- Lean Thinking
+- Agile Philosophy
+- Agile Planning
+- Operational Practices
+- Value Delivery
+- Software Development
 - Agile Frameworks
-- Agile Strategy
-- People and Process
-- Pragmatic Thinking
+- Agile Transformation
 resourceTypes:
 - video
 categories:

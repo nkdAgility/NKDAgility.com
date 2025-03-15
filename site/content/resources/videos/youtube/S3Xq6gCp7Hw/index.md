@@ -28,7 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Scrum Product Development
 - Product Owner
+- Agile Project Management
+- Pragmatic Thinking
+- Scrum Team
+- Professional Scrum
+- Product Discovery
+- Agile Product Management
+- Agile Product Operating Model
+- People and Process
 resourceTypes:
 - video
 categories:

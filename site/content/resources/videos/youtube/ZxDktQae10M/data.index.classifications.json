@@ -109,7 +109,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-07T14:31:08",
+    "calculated_at": "2025-03-15T03:37:17",
     "ai_confidence": 32.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
@@ -117,7 +117,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses the VSTS sync migration tools and their usage for migrating data between TFS and VSTS. While it touches on aspects of installation and configuration, it lacks a focused exploration of system configuration principles and best practices. The discussion is more about the tools and their functionalities rather than a comprehensive guide on system configuration methodologies, which diminishes its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -517,7 +517,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-10T14:37:39",
+    "calculated_at": "2025-03-15T03:37:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -525,7 +525,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses VSTS sync migration tools and their usage for migrating data between TFS and VSTS, which does not directly relate to the Windows operating system. While there are mentions of installation procedures and PowerShell commands, these are not the main focus of the content. The discussion lacks depth in Windows-specific topics such as installation, configuration, or troubleshooting of the Windows OS itself.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1402,7 +1402,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:33:23",
+    "calculated_at": "2025-03-15T03:37:17",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1410,6 +1410,6 @@
     "non_ai_confidence": 50,
     "final_score": 18.0,
     "reasoning": "The content primarily focuses on VSTS sync migration tools and their functionalities, with only a brief mention of migrating from the agile template in TFS to the scrum template. While it touches on some concepts related to Scrum, such as work item types and templates, it lacks a comprehensive discussion of Scrum principles, roles, events, or practices. Therefore, it does not align well with the Scrum category.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

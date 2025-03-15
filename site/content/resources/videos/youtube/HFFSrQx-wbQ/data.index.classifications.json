@@ -19,7 +19,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T15:05:37",
+    "calculated_at": "2025-03-14T21:13:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -27,7 +27,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of adaptability and flexibility within teams, which aligns with leadership principles in fostering an agile environment. However, it lacks explicit discussions on leadership roles or strategies, focusing more on the consequences of rigid processes rather than on leadership practices themselves. The depth of discussion is moderate, but it does not provide comprehensive insights into leadership frameworks or models.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -97,7 +97,7 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-07T13:23:59",
+    "calculated_at": "2025-03-14T21:13:09",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -105,7 +105,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses agility in a general sense, mentioning the importance of adaptability and the dangers of rigid processes. However, it does reference Agile concepts and practices, which detracts from its alignment with the Miscellaneous category. The discussion is somewhat anecdotal and lacks depth in exploring broader themes outside established frameworks, but it does not strictly adhere to the exclusion criteria, as it touches on Agile principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -190,12 +190,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content emphasizes the need for adaptability in agile processes, which is a relevant theme but not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:13:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of flexibility and continuous improvement within Agile practices, which aligns with operational efficiency. It mentions strategies like encouraging experimentation and regular retrospectives, which are relevant to operational practices. However, the focus is more on the philosophical aspects of agility rather than concrete operational techniques, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -274,12 +277,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses themes relevant to Agile Project Management, particularly the need for flexibility and continuous adaptation, but it does not deeply explore agile principles or specific frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:13:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Agile practices, highlighting issues like rigidity and the need for continuous improvement. It mentions strategies such as encouraging experimentation and conducting regular retrospectives, which align with Agile principles. However, it lacks specific references to Agile frameworks like Scrum or Kanban, and does not delve deeply into roles or metrics, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -319,12 +325,15 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:13:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses adaptability and flexibility within teams, which aligns with human-centric and adaptive principles, but it is primarily focused on general agility and practices rather than specifically on BetaCodex principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses agility and the importance of flexibility and innovation within teams, which aligns with some principles of Beta Codex. However, it primarily focuses on the pitfalls of rigidity in agile practices rather than explicitly addressing decentralisation or human-centric organisational design. While it touches on empowering teams and fostering a culture of continuous improvement, it lacks a direct discussion of Beta Codex principles and does not provide in-depth analysis or case studies related to the category.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -400,12 +409,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of adaptability and continuous improvement in the context of agility, which is relevant to resilience and change, but it mainly focuses on agility and specific practices without a strong emphasis on broader organisational resilience strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:13:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of adaptability and continuous improvement within Agile teams, which aligns well with the themes of resilience and change. It explicitly mentions fostering a culture of flexibility and innovation, and provides strategies for overcoming rigidity, which directly relates to organisational resilience. However, while the content is rich in practical advice, it lacks a broader discussion on organisational frameworks or leadership roles in guiding change, which slightly limits its depth in the context of the category.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -616,12 +628,12 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:03",
+    "calculated_at": "2025-03-14T21:13:09",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content mentions Agile and Scrum in a general context, but it does not focus primarily on the role of the Scrum Master or the specific responsibilities and practices associated with it.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -724,12 +736,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adaptability and the willingness to evolve processes and practices, which aligns with themes of change management, but it primarily focuses on the concept of agility rather than change management strategies in depth.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T14:58:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of fostering a culture of continuous improvement and adaptability, which aligns with key themes of change management. It explicitly mentions strategies for embracing change and avoiding rigidity, indicating a strong focus on change management principles. However, while it provides valuable insights, the depth of discussion on specific change management practices and stakeholder engagement is somewhat limited, preventing a higher score.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -874,12 +889,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:11:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for flexibility and adaptability within Agile teams, which relates to self-organisation, but it primarily focuses on the consequences of rigid processes and tools rather than specific practices or principles of self-organisation.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of autonomy and flexibility within Agile teams, highlighting the negative impact of rigidity and over-reliance on tools. It mentions empowering teams and encouraging experimentation, which aligns with self-organisation principles. However, while it touches on relevant themes, it does not delve deeply into specific self-organisation practices or case studies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -892,12 +910,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:13:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of flexibility and continuous adaptation in agile teams, suggesting a link to innovation, but does not primarily focus on the specific measurement or improvement of innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of flexibility and innovation within Agile teams, highlighting the need to adapt tools and processes to foster a culture of continuous improvement. While it does not explicitly mention 'Ability to Innovate' or Evidence-Based Management, it aligns with the core themes of innovation and adaptability. The depth of discussion on strategies for encouraging experimentation and empowering teams contributes positively to the overall confidence score.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -991,11 +1012,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:13:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 24,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses agile concepts, which relate to product delivery, but focuses more on flexibility and innovation rather than specific product delivery methodologies or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile methodologies and the importance of flexibility and continuous improvement, which are relevant to product delivery. However, it primarily focuses on the challenges and cultural aspects of agility rather than the end-to-end process of delivering software products. While it touches on key themes like experimentation and retrospectives, it lacks detailed discussions on planning, testing, deployment, and metrics, which are crucial for a higher confidence score in the Product Delivery category.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -1009,30 +1033,39 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of flexibility and adaptability within Agile practices, which aligns with the Agile Philosophy. However, it also touches on specific tools and processes, making it a secondary theme rather than a primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:33:35",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Agile practices, highlighting the dangers of rigidity and over-reliance on tools. It aligns well with the core themes of Agile Philosophy, such as continuous improvement and the need for a cultural shift towards innovation. The depth of discussion is substantial, providing specific strategies for fostering a culture of agility, though it does not explicitly reference the Agile Manifesto or its principles.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:13:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses agile methodology and its adaptability in teams, which is a major theme in software development practices, although it lacks depth in other key software engineering topics.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses Agile methodologies, focusing on the importance of flexibility and continuous improvement within teams. It directly mentions Agile practices and concepts, which aligns with the Software Development category. However, while it provides valuable insights, the depth of technical discussion on specific methodologies or frameworks is somewhat limited, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:13:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adaptability and emergent practices within agile, which are related to complexity thinking, but it mainly focuses on agile principles rather than complexity science directly.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses agility and the importance of adaptability within teams, which aligns with some principles of complexity thinking, particularly regarding non-linear dynamics and the need for continuous improvement. However, it lacks direct references to complexity science or frameworks like the Cynefin Framework, and the discussion remains somewhat superficial without delving deeply into the complexities of organisational behaviour or emergent dynamics.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1045,12 +1078,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:13:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses adaptability and flexibility in agile practices, which relates to team dynamics and performance, but it primarily focuses on broader concepts of agility rather than specific strategies for team performance.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of flexibility and innovation within Agile teams, directly addressing team dynamics and the need for continuous improvement. It mentions specific strategies like encouraging experimentation and conducting regular retrospectives, which align well with Agile principles. However, while it touches on team morale and autonomy, it lacks a more in-depth exploration of metrics or tools for measuring performance, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1099,16 +1135,19 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the importance of flexibility and adaptability in Agile, which aligns with Agile values and principles. It addresses the significance of allowing processes and practices to evolve, reinforcing Agile's core belief in responding to change.",
+    "calculated_at": "2025-03-14T21:13:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Agile, highlighting the dangers of rigidity and over-reliance on tools. It aligns well with Agile principles such as responding to change and fostering a culture of continuous improvement. The depth of discussion is substantial, providing strategies for embracing change and encouraging team autonomy, which are core to Agile values. However, it does not explicitly reference the Agile Manifesto or its principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T18:04:42",
+    "calculated_at": "2025-03-14T21:13:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1116,7 +1155,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the concept of agility and the need for continuous adaptation, which aligns with the principles of organisational change. However, it primarily focuses on the pitfalls of rigid processes and tools rather than discussing specific strategies or frameworks for organisational change. The mention of 'agility' is relevant but not deeply explored, and the overall discussion lacks the depth and structured approach expected in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
@@ -1141,20 +1180,26 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:13:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous adaptation in agile practices, which is related to market adaptability, but it primarily focuses on a critique of agility rather than providing actionable strategies or methodologies for enhancing market adaptability.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of flexibility and innovation within Agile teams, highlighting the need to adapt tools and processes to avoid stagnation. It aligns well with the principles of Agile methodologies and continuous improvement, which are key to market adaptability. The depth of discussion on fostering a culture of experimentation and regular retrospectives supports the category's focus, although it does not explicitly mention market shifts or competitive pressures. Overall, the content is relevant and provides substantial insights into enhancing adaptability, justifying a relatively high confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the necessity of adaptability and the emergence of processes in agile, which aligns with agile planning principles, but it focuses more broadly on agility rather than specifically on agile planning methodologies.",
+    "calculated_at": "2025-03-14T21:13:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Agile practices, which aligns with Agile Planning principles. However, it primarily focuses on the negative aspects of rigidity and the need for continuous improvement rather than specific Agile Planning methodologies or techniques. While it touches on relevant themes, it lacks detailed discussions on planning processes, user stories, or specific Agile frameworks, which limits its depth in the context of Agile Planning.",
     "level": "Tertiary"
   },
   "Product Backlog": {
@@ -1204,11 +1249,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content mentions agility and hints at Agile frameworks, but primarily discusses the adaptability of processes and tools rather than focusing specifically on Agile frameworks themselves.",
+    "calculated_at": "2025-03-14T21:13:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the concept of agility and the importance of flexibility and continuous improvement, which aligns with Agile principles. However, it lacks direct mentions of specific Agile frameworks and does not provide a detailed exploration of any particular framework. The focus is more on general Agile concepts rather than a comparative analysis or in-depth discussion of frameworks like Scrum or Kanban.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -1240,11 +1288,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the necessity of continuous adaptation in agility, which is a key aspect of empirical process control, but it does not deeply delve into specific practices or case studies related to empirical process control.",
+    "calculated_at": "2025-03-14T21:13:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of adaptability and continuous improvement, which aligns with the principles of empirical process control. However, it does not explicitly mention empirical process control or its key figures, and the focus is more on general agility rather than a deep dive into empirical practices.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -1279,12 +1330,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adaptability in processes and tools within agile teams, which aligns with the themes of organisational culture, but the focus is more on practices and challenges rather than culture itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:19:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of fostering a culture of continuous improvement and flexibility within Agile teams, which aligns well with the category of Organisational Culture. It explicitly mentions the need to empower teams and encourages experimentation, both of which are cultural elements that support Agile practices. The depth of discussion is substantial, providing strategies and insights into how culture impacts team dynamics and innovation. However, while the focus is strong, it does not delve deeply into leadership roles or specific cultural dimensions, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1306,21 +1360,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content addresses Agile concepts, particularly the need for adaptability and flexibility, but it is presented in a less structured manner and serves more as an opinion piece rather than a focused discussion on Agile transformation methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:13:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the challenges of rigidity in Agile practices and emphasises the importance of continuous improvement, experimentation, and team empowerment, which are core themes of Agile transformation. It provides specific strategies for fostering agility and adapting processes, indicating a strong alignment with the category. However, while it touches on Agile principles, it does not delve deeply into specific frameworks or methodologies, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of adaptability and innovation in Agile practices, which is a major theme related to Agile strategy. However, it also contains elements of personal opinion and is not primarily focused on strategic frameworks or implementations.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:13:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Agile teams, which aligns with the core themes of Agile Strategy. It addresses the need for continuous improvement and the dangers of rigidity, which are relevant to strategic planning in Agile contexts. However, while it touches on these concepts, it lacks a comprehensive exploration of Agile methodologies at scale or detailed strategies for implementation, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1351,21 +1411,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:13:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of adaptability and innovation within teams, which are key aspects of organisational agility. It addresses the idea of continuously evolving processes and practices to enhance flexibility, aligning well with the principles of agility.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of flexibility and innovation within Agile teams, addressing the pitfalls of rigidity and the need for continuous improvement. It aligns well with the core themes of organisational agility, such as fostering a culture of adaptability and empowering teams. The depth of discussion is substantial, providing specific strategies for enhancing agility, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:36:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:41:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of flexibility and innovation in agile teams, which relates to business agility as a secondary theme. However, the primary focus seems to revolve around agile practices and methodologies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of flexibility and innovation within teams, which aligns with the principles of business agility. It addresses the need to adapt processes and tools, fostering a culture of continuous improvement, and empowering teams, all of which are key themes in business agility. However, while it touches on these concepts, it does not delve deeply into specific strategies or case studies related to business agility, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",

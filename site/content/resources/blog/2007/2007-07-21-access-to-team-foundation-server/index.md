@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/access-to-team-foundation-server
 - /access-to-team-foundation-server
 - /resources/blog/access-to-team-foundation-server
-tags:
-- Miscellaneous
+tags: []
 categories: []
 
 ---

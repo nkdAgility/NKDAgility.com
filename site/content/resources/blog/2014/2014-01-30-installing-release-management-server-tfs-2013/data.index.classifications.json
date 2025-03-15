@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:40:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of a Release Management Server, which is related to application lifecycle management and developer productivity, but it primarily focuses on installation steps rather than broader platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is a specific tool rather than a broader discussion on platform engineering principles. While it touches on aspects of application lifecycle management and configuration, it lacks a comprehensive exploration of Internal Developer Platforms (IDPs) or the core themes of enhancing developer productivity and automation in the application lifecycle. The discussion is more technical and procedural, which does not align closely with the key topics of platform engineering.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -124,7 +127,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:51:06",
+    "calculated_at": "2025-03-15T04:40:27",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -132,7 +135,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the installation of the Release Management Server for TFS 2013, which is a tool relevant to DevOps practices. However, it primarily focuses on the installation process rather than broader DevOps principles, practices, or cultural shifts. While it touches on aspects of automation and configuration, it lacks depth in discussing the integration of people, processes, and tools, which are core to the DevOps category. Therefore, while there is some alignment, it is not the primary focus of the content.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,12 +220,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:40:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of the Release Management Server for TFS 2013, which relates to engineering practices in software development. However, it primarily focuses on installation steps rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is a technical task. However, it lacks a deeper discussion on engineering practices or methodologies that enhance agility in software development. While it touches on aspects of configuration and installation, it does not delve into broader themes such as CI/CD practices, TDD, or modular architecture, which are central to the category of Technical Excellence. The discussion is more operational than strategic, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -244,11 +250,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:40:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of the Release Management Server, which is relevant to the deployment phase of product delivery, but it primarily focuses on installation steps rather than broader methodologies or practices.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of the Release Management Server for TFS 2013, which is a component of the product delivery process. It discusses practical steps and considerations for setting up the tool, which aligns with the methodologies and practices involved in delivering software products. However, while it touches on aspects of deployment and configuration, it lacks a broader discussion on product delivery methodologies, iterative development, or quality assurance practices, which limits its depth of discussion. Therefore, while it is relevant, it does not fully encompass the category's core themes.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -388,7 +397,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T17:58:35",
+    "calculated_at": "2025-03-15T04:40:27",
     "ai_confidence": 42.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
@@ -396,7 +405,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is a technical task. However, while it provides some insights into the configuration and installation details, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The mention of configuration challenges hints at an understanding of technical debt but does not delve deeply into the principles of technical mastery. Overall, the content is more instructional than analytical, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -409,12 +418,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:40:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of the Release Management Server for TFS, which is related to Continuous Delivery practices but primarily focuses on the installation process rather than the core principles and practices of Continuous Delivery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is a tool related to Continuous Delivery. However, it lacks a thorough discussion of Continuous Delivery principles, practices, or methodologies. While it mentions aspects of configuration and installation, it does not delve into automation, deployment strategies, or the broader context of Continuous Delivery. Therefore, while there are relevant elements, they are not the primary focus, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -499,12 +511,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:40:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides practical steps for installing and configuring a Release Management server within the context of Team Foundation Server, which aligns with operational practices in delivering software efficiently. However, the primary focus is on installation rather than overarching operational strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is more technical and procedural rather than discussing operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While it touches on aspects of configuration and setup, it lacks a broader discussion on process optimisation, continuous improvement, or metrics that would align it more closely with the category of Operational Practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -598,11 +613,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T11:31:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:40:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Release Management Server for Team Foundation Server 2013, which falls under software development practices related to application lifecycle management and deployment.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is a specific tool within the software development lifecycle. It discusses practical steps and considerations for installation and configuration, aligning with software development practices. However, while it touches on aspects of application lifecycle management (ALM), it lacks a broader discussion on methodologies or best practices, which limits its depth and conceptual alignment with the category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -697,12 +715,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:40:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Release Management Server for TFS, which relates to software delivery processes; however, it primarily focuses on installation steps rather than on frequent release practices or strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, with minimal discussion on the principles of frequent releases or continuous delivery. While it mentions the tool's integration with Visual Studio and some configuration aspects, it lacks a detailed exploration of release frequency, automation, or user feedback integration, which are key topics in the Frequent Releases category.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -751,7 +772,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:42:34",
+    "calculated_at": "2025-03-15T04:40:27",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -759,7 +780,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is more of a technical guide than a discussion on engineering excellence. While it touches on aspects of software development tools, it lacks a strong emphasis on best practices, quality assurance, or continuous improvement in engineering processes. The discussion is practical and procedural, with limited depth on the principles of software craftsmanship or metrics for assessing engineering performance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -880,12 +901,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:40:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of Release Management Server, which is related to the delivery of functional software. However, it primarily focuses on the installation process rather than on working software in terms of its functional quality or customer value.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is a technical guide rather than a discussion on working software. While it touches on aspects of software configuration and deployment, it lacks a direct focus on the characteristics of working software, customer value delivery, or best practices for ensuring software quality. The discussion is more about installation steps and technical details, which does not align closely with the core themes of the 'Working Software' category.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1000,12 +1024,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:40:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Release Management in the context of Team Foundation Server (TFS), which is relevant to Azure DevOps practices but is primarily focused on installation and configuration rather than Azure Pipelines specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the installation and configuration of the Release Management Server for Team Foundation Server (TFS) 2013, which is related to Azure DevOps but does not specifically address Azure Pipelines or CI/CD practices. While it mentions Release Management, it lacks a direct focus on the automation of software development processes, build and release pipelines, or the use of YAML for pipeline definitions. The discussion is more about installation and configuration rather than the principles and practices of Azure Pipelines, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1141,12 +1168,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:40:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of the Release Management Server for TFS 2013, which is related to tools used in deployment strategies, but it does not delve into specific methodologies or practices of deployment.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is a specific tool rather than a discussion of deployment strategies. While it touches on aspects of configuration and setup, it lacks a comprehensive exploration of methodologies or practices related to deployment strategies such as Blue-Green Deployments or Canary Releases. The mention of configuration and installation does not align closely with the core themes of deployment strategies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1186,11 +1216,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:40:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of Release Management Server, which may involve some troubleshooting aspects related to setting it up correctly, but the primary focus is on installation rather than explicit troubleshooting techniques or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which includes some troubleshooting aspects related to configuration and potential issues with the installation. While it does mention challenges and considerations during the setup, such as the configuration model and the need for proper permissions, the overall emphasis is more on installation steps rather than a systematic approach to diagnosing and resolving technical issues. Therefore, while there is relevant content, it does not fully align with the core themes of troubleshooting.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1231,12 +1264,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:40:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the installation and configuration details of Release Management Server for Team Foundation Server (TFS), which relates to software development practices. However, it does not extensively discuss Agile or DevOps methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of the Release Management Server for TFS 2013, which is a technical task relevant to software developers. However, it lacks a direct discussion on Agile or DevOps methodologies, which are central to the category. While it touches on aspects of configuration and tools used in software development, it does not delve into best practices, team dynamics, or the broader implications of Agile and DevOps on developer productivity. Therefore, while it is relevant to software developers, it does not fully align with the core themes of the category.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1249,12 +1285,12 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:51",
+    "calculated_at": "2025-03-15T04:40:27",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content focuses primarily on the installation and configuration of the Release Management Server for TFS, which is more aligned with tools and processes rather than core Agile engineering practices. While it touches on some aspects relevant to software development, it does not discuss principles like clean code, TDD, CI/CD, or similar key topics of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",

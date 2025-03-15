@@ -25,14 +25,11 @@ preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
 isShort: true
 tags:
-- Scrum Team
-- Agile Project Management
 - Team Performance
+- Agile Project Management
+- Scrum Team
 - Agile Leadership
-- Technical Leadership
-- People and Process
-- Scrum Master
-- Team Collaboration
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

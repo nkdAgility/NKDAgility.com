@@ -2,7 +2,7 @@
 title: 'Transform Your Agile Training: The Power of Immersive Learning for Lasting Impact'
 description: Transform your Agile learning with immersive techniques that bridge theory and practice. Discover how real-world relevance boosts retention and application!
 date: 2023-06-08T07:00:30Z
-weight: 775
+weight: 810
 ResourceId: qrEqX_5FWM8
 ResourceType: videos
 ResourceImport: true
@@ -24,11 +24,13 @@ preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg
 duration: 354
 isShort: false
 tags:
-- People and Process
 - Discovery and Learning
 - Continuous Learning
 - Pragmatic Thinking
+- People and Process
+- Software Development
 - Agile Project Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

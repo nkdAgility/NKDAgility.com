@@ -25,13 +25,9 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
+- Troubleshooting
 - Software Development
 - System Configuration
-- Troubleshooting
-- Pragmatic Thinking
-- Technical Mastery
-- Azure DevOps
-- Technical Excellence
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-5-5.png

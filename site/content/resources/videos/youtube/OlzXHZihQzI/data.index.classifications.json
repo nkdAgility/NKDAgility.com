@@ -28,7 +28,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T13:50:26",
+    "calculated_at": "2025-03-14T19:43:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -36,11 +36,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content touches on the concept of adapting mental models, which is relevant to leadership in fostering an environment of change and agility. However, it lacks explicit discussions on leadership practices or strategies, making it more of a secondary mention rather than a primary focus. The depth of discussion is limited, primarily focusing on the learning aspect rather than leadership roles or frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-06T13:50:33",
+    "calculated_at": "2025-03-14T19:43:45",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -48,7 +48,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the concept of adapting mental models, which aligns with the idea of emergence and self-organisation in complex systems. However, it lacks explicit references to complexity science or frameworks like the Cynefin Framework. The discussion is more focused on immersive learning and Agile practices without delving deeply into the complexities of organisational behaviour or the non-linear dynamics inherent in complex adaptive systems.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -61,7 +61,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-06T14:56:24",
+    "calculated_at": "2025-03-14T19:43:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -69,11 +69,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses immersive learning in the context of Agile, touching on personal mental model changes and organisational practices. However, it lacks explicit personal anecdotes or reflections, making it more of a general discussion on Agile practices rather than a personal insight.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-07T13:06:29",
+    "calculated_at": "2025-03-14T19:43:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -81,7 +81,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the concept of adapting mental models, which aligns with Systems Thinking principles, but it lacks explicit discussion of interconnectedness or holistic analysis. The focus is more on individual learning and agile practices rather than a comprehensive exploration of Systems Thinking as a primary theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -154,7 +154,7 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-10T17:59:14",
+    "calculated_at": "2025-03-14T19:43:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -162,11 +162,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content touches on the concept of adapting mental models in the context of Agile practices, which aligns with the idea of iterative development and customer value. However, it lacks explicit discussions on value delivery strategies, measurement techniques, or detailed methodologies, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-03-11T09:57:55",
+    "calculated_at": "2025-03-14T19:43:45",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -174,7 +174,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the concept of adapting mental models within an organisational context, which aligns with the sociotechnical systems theme of integrating social aspects (like mindset changes) with technical practices (agile methodologies). However, it lacks explicit discussion of the interplay between technology and organisational structures, and does not delve deeply into the core themes of the category, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -211,7 +211,7 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-03-11T16:15:04",
+    "calculated_at": "2025-03-14T19:43:45",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 35.0,
@@ -219,7 +219,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile practices and immersive learning, which are related to the principles of adaptability and human-centric approaches. However, it primarily focuses on the learning process rather than explicitly addressing BetaCodex principles or decentralised organisational design. While there are mentions of shifting mental models and fostering an adaptive culture, the depth of discussion on BetaCodex itself is limited, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -244,12 +244,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T14:00:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adaptation of mental models and making different choices, which relates to decision-making processes, but it primarily focuses on immersive learning and Agile practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:43:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on immersive learning within Agile practices, discussing how experiential learning can shift mental models. While it touches on decision-making in the context of Agile, it does not explicitly engage with the core principles of Decision Theory, such as heuristics, biases, or probability. The discussion of decision-making is secondary to the main theme of learning methodologies, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -292,12 +295,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T14:00:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:28:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adaptation of mental models and the assimilation of agile practices, which are relevant to business agility, but the primary focus is on immersive learning rather than business agility itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses Agile practices and the importance of immersive learning in fostering adaptability and innovation within teams. It highlights how immersive learning can help shift mental models, which aligns with the principles of business agility. However, while it touches on relevant themes, the primary focus is on immersive learning techniques rather than a comprehensive exploration of business agility as a whole.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -319,20 +325,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:01:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:36:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 24,
+    "ai_depth": 26,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile practices and their integration into organisational processes, making it a major but secondary theme related to product delivery.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile practices and their application in immersive learning, which aligns with product delivery methodologies. However, it primarily focuses on the educational aspect rather than the end-to-end delivery process, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T14:01:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adaptation of mental models and the integration of core agile practices within an organisation, indicating a focus on organisational change and agility, but it does not primarily address broader enterprise agility frameworks or structures.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile practices and their application through immersive learning, which indirectly relates to enterprise agility by emphasising adaptability and mental model shifts. However, it primarily focuses on team-level practices and individual learning experiences rather than broader organisational strategies or frameworks for scaling agility.",
     "level": "Tertiary"
   },
   "Products and Books": {
@@ -355,12 +367,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:01:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:14:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile practices and their integration into organisational learning, but it does not primarily focus on the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile principles and immersive learning, which are relevant to the Agile Product Operating Model. However, it primarily focuses on the educational aspect of Agile rather than the broader organisational framework or product-centric strategies. While it touches on the importance of adapting mental models and practical applications of Agile, it lacks a direct exploration of product teams, value delivery, or cross-functional collaboration, which are key themes of the Agile Product Operating Model.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -373,11 +388,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:01:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T19:43:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the concept of immersive learning and its role in adapting mental models, which aligns closely with the themes of discovery and continuous learning within Agile practices.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses immersive learning as a method to enhance understanding and application of Agile principles, which aligns closely with the core themes of discovery and learning. It highlights the importance of experiential learning, mental model shifts, and the role of reflection in the learning process. The depth of discussion is significant, providing practical tips and real-world examples that illustrate the impact of immersive learning on Agile transformation. Overall, the content is focused on fostering a culture of continuous learning and adaptation, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -436,21 +454,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the adaptation of mental models in relation to Agile practices, indicating a significant connection to the Agile Philosophy, but it primarily focuses on immersive learning rather than directly addressing broader Agile principles.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the Agile philosophy, particularly how immersive learning can help internalise Agile principles and foster a mindset of adaptability and continuous improvement. It directly addresses the importance of mental models in Agile transformation and provides practical insights on how to create an environment conducive to Agile practices. The focus on experiential learning aligns well with the core themes of Agile philosophy, making it a primary focus rather than a secondary mention.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-14T19:43:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "The content discusses changing mental models and adapting to Agile practices, which relates to change management, but it is primarily focused on immersive learning rather than structured change management strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses immersive learning as a method to facilitate Agile transformation, which aligns with change management principles. However, it primarily focuses on the learning process rather than broader change management strategies, making it a secondary topic rather than a primary focus.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -580,20 +604,26 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses how immersive learning aids in adapting mental models within an organisation and the assimilation of agile practices, suggesting a link to organisational change, although the primary focus is on learning and mental models.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile practices and immersive learning, which are related to organisational change, particularly in the context of Agile transformation. However, it primarily focuses on the learning process rather than the broader strategies and frameworks of organisational change. While it touches on mental model shifts and the importance of adapting to Agile principles, it lacks detailed exploration of change management methodologies or leadership roles in driving change, which are critical aspects of the category.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses how immersive learning facilitates adaptability and the evolution of mental models in an Agile context, aligning well with the principles of Continuous Learning.",
+    "calculated_at": "2025-03-14T19:44:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses immersive learning as a method to internalise Agile principles, which directly aligns with the concept of Continuous Learning. It highlights the importance of adapting mental models, engaging in experiential learning, and creating a culture of reflection and experimentation, all of which are key themes in Continuous Learning. The depth of discussion is significant, providing practical tips and real-world examples that reinforce the principles of ongoing education and skill development within Agile environments.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -634,11 +664,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts of adaptation and changing mental models within an Agile context, but it does not primarily focus on empirical process control principles or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile principles and the importance of experiential learning, which aligns with the concept of adaptation and continuous improvement. However, it lacks direct mentions of empirical process control and does not delve deeply into the specific practices or tools associated with it. The focus is more on immersive learning rather than the empirical process itself.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -661,12 +694,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:45:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the adaptation of mental models in relation to Agile practices, suggesting a focus on change and improvement, which are related to Agile leadership principles. However, the main emphasis is on immersive learning rather than direct Agile leadership strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses immersive learning as a method to enhance Agile practices, which indirectly relates to Agile leadership by emphasising the role of leaders in creating an environment conducive to learning and adaptation. However, it lacks direct mentions of leadership roles or strategies, focusing more on learning techniques and student experiences. While it touches on the importance of creating a safe environment and fostering mental model shifts, it does not delve deeply into the leadership aspects of Agile, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -733,11 +769,14 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses adapting mental models and integrating agile practices, which relates to self-organisation but is not the primary focus.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses immersive learning in the context of Agile, which indirectly relates to self-organisation by promoting autonomy and adaptability. However, it lacks direct mentions of self-organisation principles and does not delve deeply into the specific practices or leadership roles that support self-organising teams. The focus is more on learning methodologies rather than the core themes of self-organisation.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -787,21 +826,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses adapting mental models and assimilating core Agile practices into organizational processes, indicating that Agile transformation is a significant theme, but other aspects are also present.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:44:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role of immersive learning in facilitating Agile transformations, focusing on how it helps individuals internalise Agile principles and shift their mental models. It aligns well with key topics such as change management strategies, leadership roles, and the importance of experiential learning in Agile environments. The depth of discussion is significant, providing practical tips and real-world examples that illustrate the transformative impact of immersive learning on Agile practices.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the adoption of agile practices and the changes to mental models in organizational contexts, which aligns with operational improvement; however, it primarily focuses on immersive learning rather than specific operational strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses immersive learning as a method to enhance Agile practices, which aligns with operational efficiency. However, while it touches on practical applications and real-world scenarios, the primary focus is on the learning process rather than specific operational practices or metrics. The depth of discussion on operational efficiency is limited, as it primarily revolves around the educational aspect rather than concrete strategies for process optimisation or continuous improvement.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -823,30 +868,39 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the adaptation of mental models and the assimilation of core Agile practices, indicating a focus on the cultural and strategic aspects of applying Agile methodologies, but it does not primarily focus on strategic decision-making or organizational alignment.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the integration of immersive learning into Agile practices, emphasising the importance of adapting mental models and fostering an Agile mindset. It aligns well with Agile Strategy by focusing on how immersive learning can enhance the understanding and application of Agile principles, thus supporting continuous value delivery and adaptability. The depth of discussion on practical applications and real-world scenarios further strengthens its relevance to the category.",
+    "level": "Secondary"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:43:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning in the context of Agile practices, suggesting a focus on how these practices can influence mental models and decision-making in organizations. However, it does not specifically delve into the role of software developers, making the theme a secondary one.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses Agile practices and the role of immersive learning in helping teams internalise Agile principles, which aligns with the category's focus on software developers. However, it primarily centres on the concept of immersive learning rather than directly addressing software developers' roles or specific practices in Agile and DevOps. While it touches on relevant themes, the depth of discussion on software developers specifically is limited.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the adaptation of mental models and assimilation of core Agile practices but does not focus primarily on specific engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile practices and the importance of immersive learning in adapting Agile principles, but it does not explicitly address core engineering practices such as clean code, TDD, or CI/CD. While it touches on Agile transformation and mental models, it lacks depth in discussing specific engineering methodologies or practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -904,11 +958,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on core agile practices and how immersive learning can influence mental models, which relates to the broader theme of agile methodologies and potentially technical leadership, but it does not explicitly focus on technical leadership principles or strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses immersive learning in the context of Agile practices, which is relevant to technical leadership. However, it primarily focuses on the learning process rather than the principles of technical leadership itself. While it touches on aspects of team dynamics and Agile transformation, it lacks a direct emphasis on mentoring, coaching, or specific leadership strategies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -940,21 +997,27 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses core Agile practices and the concept of adapting mental models within the context of Agile, indicating its relevance to Agile frameworks. However, it primarily focuses on immersive learning and does not delve deeply into specific Agile frameworks or comprehensive analysis.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:44:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile principles and the role of immersive learning in enhancing understanding and application of Agile practices. It mentions Agile transformation and the importance of mental models, which aligns with Agile frameworks. However, it primarily focuses on immersive learning rather than a detailed exploration of specific Agile frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of immersive learning and adapting mental models in the context of agile practices, making it a significant but secondary theme within the broader topic of team performance and collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:43:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses immersive learning as a method to enhance Agile practices, which indirectly relates to team performance by fostering collaboration and adaptability. It mentions the importance of creating a safe environment for experimentation and reflects on real-world scenarios, which aligns with team dynamics and continuous improvement. However, the primary focus is on learning methodologies rather than direct team performance metrics or strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -994,12 +1057,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:43:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive learning in the context of adapting to agile practices, making agile a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Agile principles, particularly through the lens of immersive learning, which is directly relevant to Agile Project Management. It highlights the importance of experiential learning in understanding Agile methodologies, aligns with the core themes of adaptability and iterative progress, and provides detailed insights into how immersive learning can facilitate mental model shifts in Agile contexts. The depth of discussion on practical applications and real-world scenarios further supports its strong alignment with the category.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1048,12 +1114,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:45:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adaptation of mental models in an organisational context and connects to the assimilation of Agile practices, indicating a focus on cultural change as part of learning in Agile environments.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses immersive learning as a method to internalise Agile principles, which indirectly touches on aspects of organisational culture, such as mental model shifts and team dynamics. However, it primarily focuses on learning methodologies rather than explicitly addressing the broader implications of organisational culture on agility and transformation. While there are relevant points about creating a supportive environment for Agile practices, the depth of discussion on cultural elements is limited.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -1066,21 +1135,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of immersive learning on changing mental models and making different choices, which relates to decision making; however, the primary focus is more on learning and adaptability rather than structured decision-making practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:44:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses immersive learning in Agile, touching on decision-making processes indirectly through the lens of experiential learning and mental model shifts. However, it lacks a structured focus on evidence-based methodologies or frameworks for decision-making, which are central to the category. While it mentions decision-making in the context of learning and adapting, it does not provide a detailed exploration of decision-making principles or empirical evidence, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:03",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and their integration into learning, making Agile a secondary theme among broader discussions on immersive learning and mental models.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on Agile practices, a key aspect of software development methodologies. It discusses immersive learning as a technique to enhance understanding and application of Agile principles, which aligns closely with the core themes of the Software Development category. The depth of discussion is significant, providing practical tips and real-world examples that illustrate the transformative impact of immersive learning on Agile teams. Overall, the content is highly relevant to software development, particularly in the context of Agile methodologies.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1129,21 +1204,27 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adaptation of mental models and decision-making in the context of immersive learning and Agile practices, indicating a secondary theme related to sensemaking.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses immersive learning in Agile contexts, which indirectly relates to sensemaking by highlighting how teams adapt their mental models through experience. However, it primarily focuses on learning methodologies rather than explicitly addressing sensemaking principles or frameworks. The discussion on mental models and decision-making is relevant but lacks depth in exploring the complexities of sensemaking in organisational contexts.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses changing mental models and assimilating agile practices, suggesting a focus on Agile principles, but it does not primarily address Agile Planning methodologies or techniques.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles and the importance of experiential learning in understanding and applying Agile methodologies. While it touches on Agile transformation and mental models, it lacks a direct focus on specific Agile planning techniques, tools, or practices. The discussion is more about learning and adaptation rather than the structured planning processes central to Agile Planning.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1192,12 +1273,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the adaptability of mental models in relation to changes within organizations and how it relates to core agile practices, suggesting a secondary but relevant theme of Agile principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:44:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 77.0,
+    "reasoning": "The content discusses Agile principles extensively, particularly focusing on how immersive learning can help individuals internalise these principles. It highlights the importance of adaptability, collaboration, and continuous improvement, which are core Agile values. The depth of discussion on mental models and real-world applications of Agile principles further supports its alignment with the category. However, while it does mention Agile practices, it does not delve deeply into the Agile Manifesto or the twelve principles, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1210,12 +1294,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adaptation of mental models and changes within an organization, which aligns with systems thinking but primarily focuses on immersive learning and agile practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses immersive learning in Agile contexts, which touches on aspects of organisational dynamics and mental model shifts. However, it primarily focuses on individual learning experiences rather than a comprehensive exploration of systems thinking or organisational behaviour as a whole. While there are mentions of organisational challenges and the need for adaptability, the depth of discussion on systems thinking principles and their application in organisational contexts is limited.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1255,11 +1342,14 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of learning and adapting mental models which can relate to mentoring, but it primarily focuses on immersive learning rather than mentoring specifically.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses immersive learning in Agile, which indirectly relates to mentoring by emphasising experiential learning and personal growth. However, it lacks direct references to mentoring roles or techniques, making it a secondary focus rather than a primary discussion on mentoring.",
     "level": "Tertiary"
   },
   "Sprint Review": {
@@ -1300,12 +1390,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses how immersive learning helps students adapt their mental models in the context of Agile practices, which aligns with pragmatic thinking. However, it primarily focuses on the learning aspect rather than practical problem-solving techniques or real-world applications in Agile frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:45:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses immersive learning as a practical approach to internalising Agile principles, which aligns closely with pragmatic thinking. It highlights real-world applications, the importance of adaptability, and the role of experience in decision-making. The depth of discussion on how immersive learning facilitates mental model shifts and practical problem-solving strategies in Agile contexts further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1318,21 +1411,27 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses elements of adaptive learning and changing mental models, which are relevant to coaching practices, but it is not primarily focused on coaching itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses immersive learning in Agile, which indirectly relates to coaching by emphasising experiential learning and mental model shifts. However, it lacks direct references to coaching techniques or the role of a coach, which limits its alignment with the core themes of the Coaching category.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:44:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches upon agile practices and the impact of changing mental models within organisations, indicating an understanding of agility in an organisational context. However, it lacks a clear focus on the specific frameworks, leadership roles, or strategies for scaling agility beyond individual teams.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on immersive learning as a method for teaching Agile principles, which is more aligned with team-level practices rather than scaling agility across an organisation. While it touches on the importance of adapting mental models and creating an Agile mindset, it lacks direct discussions on frameworks for scaling agility, leadership roles, or organisational structures that are essential for the category. The depth of discussion is limited to individual learning experiences rather than broader organisational strategies.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -1390,12 +1489,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T14:40:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions adapting mental models and core agile practices, indicating some relevance to team collaboration, but does not focus significantly on teamwork dynamics or effective collaboration techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:44:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses immersive learning in Agile, which indirectly relates to team collaboration by emphasising experiential learning and mental model shifts. However, it lacks direct focus on team dynamics, communication, or shared ownership, which are core themes of the category. The discussion is more centred on individual learning experiences rather than collective team collaboration.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1426,7 +1528,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:49:44",
+    "calculated_at": "2025-03-14T19:43:45",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -1434,6 +1536,6 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions agile practices and the importance of adapting mental models, which aligns with the principles of Scrum. However, it lacks direct references to specific Scrum roles, events, or artifacts, and does not provide in-depth discussion on Scrum itself, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

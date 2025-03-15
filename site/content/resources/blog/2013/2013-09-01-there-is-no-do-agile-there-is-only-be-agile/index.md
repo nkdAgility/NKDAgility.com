@@ -8,7 +8,7 @@ ResourceImportId: 10058
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2013-09-01
-weight: 450
+weight: 460
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,6 +28,15 @@ aliasesArchive:
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
 tags:
 - People and Process
+- Agile Project Management
+- Organisational Agility
+- Agile Philosophy
+- Agile Transformation
+- Software Development
+- Pragmatic Thinking
+- Agile Values and Principles
+- Agile Strategy
+- Business Agility
 categories:
 - Social Technologies
 - Scrum

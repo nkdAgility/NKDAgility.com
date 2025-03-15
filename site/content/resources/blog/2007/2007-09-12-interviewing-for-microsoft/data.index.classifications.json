@@ -334,7 +334,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T15:18:18",
+    "calculated_at": "2025-03-15T07:38:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -342,7 +342,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily focuses on the author's personal experience during the interview process at Microsoft, detailing the technical aspects of the role and the interview structure. While there are mentions of communication and collaboration with peers and customers, these are not the primary focus. The discussion lacks depth in exploring team dynamics, leadership, or process methodologies, which are central to the 'People and Process' category. Therefore, while there are some relevant elements, they are not sufficiently developed to warrant a higher confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -583,7 +583,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:49:56",
+    "calculated_at": "2025-03-15T07:38:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -591,15 +591,18 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily focuses on a personal experience of interviewing for a software development position at Microsoft. While it mentions software development and the role of an Application Developer Consultant, it lacks a direct discussion on Agile or DevOps methodologies. The alignment with the category is weak as it does not explore best practices, team dynamics, or tools related to Agile and DevOps. The depth of discussion is limited to personal anecdotes and specific interview experiences rather than a broader exploration of the role of software developers within Agile and DevOps contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:38:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily discusses the author's experience interviewing for a software development position at Microsoft, detailing skills and knowledge relevant to software development. However, it is more of a personal narrative rather than a focused discussion on software development methodologies or practices.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses an interview experience for a software development role at Microsoft, mentioning specific technologies like .NET and SQL Server, which are relevant to software development. However, the primary focus is on the personal experience of the interview rather than on software development methodologies or practices. While there are mentions of technical skills and knowledge areas, the depth of discussion on software development processes is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -967,12 +970,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:38:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various aspects of software development, including technical knowledge in .NET and architecture during the interview process, which aligns with the category. However, the primary focus is on the personal experience of the interview rather than a deep dive into technical mastery principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on a personal experience during a job interview process at Microsoft, which includes some technical aspects related to .NET and architecture. However, the main emphasis is on the interview experience rather than a deep exploration of technical mastery principles. While there are mentions of technical knowledge and skills required for the role, the discussion lacks depth in best practices, methodologies, or principles of software craftsmanship, which are central to the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1048,12 +1054,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:38:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Microsoft Application Development Consultants and how they aim to improve customer satisfaction through engagement and technical knowledge, but the primary focus is on the author's job interview experience rather than customer satisfaction concepts.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions customer satisfaction in the context of the job role at Microsoft, highlighting the importance of building trust and improving customer relationships. However, the primary focus of the content is on the author's personal experience during the interview process, which does not delve deeply into customer satisfaction principles or practices. The discussion lacks substantial detail on measuring or enhancing customer satisfaction, making it a secondary theme rather than a primary focus.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -1102,12 +1111,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:38:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content primarily discusses a job interview process at Microsoft, with significant mentions of Windows development, .NET, and related technologies. However, the main focus is on the interview experience rather than detailed discussions about Windows itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses an interview for a position at Microsoft, which involves the Windows operating system and related technologies like .NET and SQL Server. While Windows is mentioned, the primary focus is on the interview experience rather than detailed discussions about Windows installation, configuration, or troubleshooting. The content aligns with the category conceptually but lacks depth in discussing Windows-specific topics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1255,7 +1267,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:19:53",
+    "calculated_at": "2025-03-15T07:38:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1263,7 +1275,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a personal experience during a job interview at Microsoft, detailing the interview process and the skills required for the role. While it mentions the importance of technical knowledge and customer engagement, it lacks a direct discussion on engineering excellence principles, best practices, or continuous improvement in software development. The alignment with the category is minimal, as the content does not delve into coding standards, quality assurance, or CI/CD practices, which are central to the concept of engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

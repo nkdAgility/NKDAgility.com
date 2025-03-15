@@ -24,14 +24,16 @@ preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
 isShort: true
 tags:
-- People and Process
-- Agile Leadership
-- Organisational Culture
 - Team Motivation
+- People and Process
+- Team Collaboration
+- Organisational Culture
 - Team Performance
+- Agile Values and Principles
 - Organisational Agility
-- Business Agility
-- Product Delivery
+- Agile Leadership
+- Agile Project Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

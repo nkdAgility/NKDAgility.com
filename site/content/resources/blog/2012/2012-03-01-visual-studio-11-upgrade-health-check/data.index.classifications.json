@@ -10,12 +10,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:03:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upgrading to Visual Studio 11 and Team Foundation Server, which relates to practical tooling, but the primary focus is on the health check service rather than a detailed exploration of techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the upgrade process for Visual Studio 11 and Team Foundation Server, which directly relates to practical tooling in Agile and DevOps contexts. It mentions specific tools and features, indicating a focus on practical application. However, while it provides a good overview of the upgrade process, it lacks in-depth exploration of methodologies or frameworks that enhance Agile practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -73,12 +76,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:03:41",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upgrading to Visual Studio 11 and Team Foundation Server, which involves installation and configuration aspects, but it primarily focuses on health checks and support rather than detailed installation procedures.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses upgrading to Visual Studio 11 and Team Foundation Server, which relates to installation and configuration. However, it lacks detailed step-by-step instructions or best practices, focusing more on the service offered rather than providing actionable insights. The mention of enabling new features and upgrading servers indicates some alignment with the category, but the overall depth of discussion is limited.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -145,7 +151,7 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T14:57:00",
+    "calculated_at": "2025-03-15T06:03:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -153,7 +159,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions a half-day engagement related to a health check for teams upgrading to Visual Studio 11, which could imply a workshop or presentation. However, it lacks explicit references to formal events, talks, or presentations, and the focus is more on the upgrade process rather than sharing insights or experiences from industry experts. The depth of discussion is moderate, but it does not provide substantial detail on the event aspect, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -166,7 +172,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-11T15:05:17",
+    "calculated_at": "2025-03-15T06:03:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -174,7 +180,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Scrum in the context of a health check but primarily focuses on technical aspects of upgrading to Visual Studio 11 and Team Foundation Server. While there is a nod to team support, the discussion lacks depth on team dynamics, collaboration, or human factors, which are central to the 'People and Process' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -241,7 +247,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T16:55:17",
+    "calculated_at": "2025-03-15T06:03:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -249,7 +255,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions upgrading to Visual Studio 11 and Team Foundation Server, which relates to product delivery in terms of deployment and readiness for production. However, it lacks a detailed discussion on methodologies, practices, or the end-to-end process of delivering software products. The focus is more on a specific service offering rather than a comprehensive exploration of product delivery principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -292,7 +298,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T10:35:33",
+    "calculated_at": "2025-03-15T06:03:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -300,7 +306,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content mentions Visual Studio 11 Team Foundation Server, which is part of the Azure DevOps suite, but it primarily focuses on upgrading and health checks rather than discussing Azure DevOps functionalities or best practices in detail. The discussion is more about the transition process and support rather than the core themes of Azure DevOps, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -349,12 +355,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:03:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the launch of Visual Studio 11 and its associated Team Foundation Server, which aligns with industry updates. However, it primarily focuses on a service offering rather than providing a comprehensive review or analysis.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the launch of Visual Studio 11 and its associated Team Foundation Server Beta, which aligns with industry updates. However, it primarily focuses on a service offering rather than providing a comprehensive review or analysis of the tools. The mention of Scrum Health Check indicates some relevance to Agile practices, but the overall depth of discussion is limited to promotional content rather than critical insights or evaluations.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -565,7 +574,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T18:45:17",
+    "calculated_at": "2025-03-15T06:03:35",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -573,7 +582,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Scrum and health checks related to team performance but lacks a detailed discussion on strategies or methodologies for enhancing team dynamics or collaboration. The focus is more on technical upgrades rather than team performance enhancement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -595,12 +604,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:03:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade to Visual Studio 11 and Team Foundation Server, which relates to software development tools and processes. However, it focuses more on the service offered for the upgrade rather than deep software development principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses upgrading to Visual Studio 11 and Team Foundation Server, which are tools relevant to software development. It mentions Scrum Health Check, indicating a connection to Agile practices. However, the focus is more on the service offered rather than in-depth discussions of software development methodologies or practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -793,7 +805,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-07T15:22:25",
+    "calculated_at": "2025-03-15T06:03:35",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -801,7 +813,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions Scrum and offers a health check service to help teams transition to Visual Studio 11, which aligns with practical problem-solving in Agile contexts. However, it lacks in-depth discussion on pragmatic techniques or real-world applications of Agile principles, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -877,12 +889,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:08",
+    "calculated_at": "2025-03-15T06:03:35",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses Visual Studio and Team Foundation Server but primarily focuses on health checks and upgrades rather than explicitly addressing the delivery of functional, high-quality software.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -967,12 +979,12 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:08",
+    "calculated_at": "2025-03-15T06:03:35",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content briefly mentions upgrading to a new version of Team Foundation Server, which relates to release management, but it primarily focuses on health checks and readiness for an upgrade rather than on planning, controlling, or scheduling software releases.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1021,7 +1033,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T12:57:15",
+    "calculated_at": "2025-03-15T06:03:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1029,7 +1041,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions team support and the concept of helping teams upgrade their tools, which aligns with team collaboration. However, it lacks a detailed discussion on techniques, strategies, or the dynamics of teamwork within Agile or DevOps frameworks. The focus is more on the technical aspects of upgrading software rather than enhancing team collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1069,7 +1081,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T18:06:37",
+    "calculated_at": "2025-03-15T06:03:35",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1077,7 +1089,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses upgrading to Visual Studio 11 and Team Foundation Server, which relates to system configuration. However, it primarily focuses on the health check and support for teams rather than detailed configuration practices or methodologies. The mention of upgrading servers and enabling features indicates some alignment with system configuration, but the depth of technical discussion is limited, focusing more on service offerings than on the configuration processes themselves.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1180,12 +1192,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:03:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses preparing for an upgrade to Visual Studio 11 and ensuring readiness, which includes identifying potential issues related to the upgrade process. However, it primarily promotes a service rather than focusing on troubleshooting methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a health check for upgrading to Visual Studio 11 and mentions potential issues that could arise during the upgrade process. However, it primarily focuses on the promotional aspect of the service rather than providing detailed troubleshooting techniques or methodologies. While there are elements of troubleshooting implied, such as ensuring readiness for the upgrade and avoiding future problems, the content lacks explicit discussions on diagnosing or resolving specific technical issues, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1288,12 +1303,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:03:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions Scrum in the context of a health check, but the primary focus is on upgrading to Visual Studio 11 and its associated software rather than a comprehensive discussion of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content briefly mentions Scrum in the context of a health check service but does not delve into Agile frameworks as a primary focus. The discussion is primarily about upgrading Visual Studio and Team Foundation Server, with only a passing reference to Scrum, which does not align with the core themes of Agile frameworks. The depth of discussion on Agile principles or comparative analysis is minimal.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -1378,7 +1396,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-07T15:22:22",
+    "calculated_at": "2025-03-15T06:03:35",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1386,7 +1404,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content briefly mentions Scrum in the context of a health check service but lacks a detailed discussion on Scrum principles or practices. While it aligns with the category by referencing Scrum, the overall focus is on Visual Studio and its upgrade process, which detracts from the core themes of Social Technologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1417,7 +1435,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:45:46",
+    "calculated_at": "2025-03-15T06:03:35",
     "ai_confidence": 35.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1425,6 +1443,6 @@
     "non_ai_confidence": 30,
     "final_score": 34.0,
     "reasoning": "The content briefly mentions a 'Scrum Health Check' but does not delve into Scrum principles, roles, or practices in detail. While it indicates a connection to Scrum, the primary focus is on Visual Studio 11 and its upgrade process, making Scrum a secondary topic rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

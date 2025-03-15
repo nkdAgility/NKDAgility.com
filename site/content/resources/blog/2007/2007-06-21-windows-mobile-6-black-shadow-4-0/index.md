@@ -26,8 +26,7 @@ aliasesArchive:
 - /windows-mobile-6-black-shadow-(4-0)
 - /blog/windows-mobile-6-black-shadow-(4-0)
 - /resources/blog/windows-mobile-6-black-shadow-4-0
-tags:
-- Windows
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

@@ -295,7 +295,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T15:02:36",
+    "calculated_at": "2025-03-15T05:42:38",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -303,7 +303,7 @@
     "non_ai_confidence": 50,
     "final_score": 28.0,
     "reasoning": "The content briefly mentions personal use of Team Companion and expresses a positive sentiment towards the product, but it primarily focuses on promotional aspects and instructions for obtaining a free licence. There is limited personal reflection or insight related to Agile methodologies, which diminishes its alignment with the Personal category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -355,7 +355,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T11:57:28",
+    "calculated_at": "2025-03-15T05:42:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -363,7 +363,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions a product related to application lifecycle management, specifically Team Companion, which is a tool that aids in requirement management. However, the primary focus of the content is on promoting a free licence for the tool rather than discussing the methodologies, practices, or comprehensive aspects of Application Lifecycle Management. The discussion lacks depth and does not cover key topics such as stages of the application lifecycle, governance, or metrics, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -664,7 +664,7 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-11T10:32:28",
+    "calculated_at": "2025-03-15T05:42:38",
     "ai_confidence": 45.0,
     "ai_mentions": 60.0,
     "ai_alignment": 40.0,
@@ -672,7 +672,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses Team Companion, a collaboration tool, and its features, which aligns with the category. However, it lacks depth in discussing how it integrates with Agile methodologies or best practices for use in Agile environments. The focus is more on promotional aspects rather than a comprehensive analysis of collaboration tools.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1324,7 +1324,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T12:53:09",
+    "calculated_at": "2025-03-15T05:42:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1332,7 +1332,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions Team Companion, a tool that could facilitate team collaboration, but it primarily focuses on promoting a product and its licensing rather than discussing techniques or strategies for improving team dynamics or communication. The alignment with the core themes of team collaboration is minimal, and the depth of discussion is limited to promotional content without substantial insights into team collaboration practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -1354,7 +1354,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-10T18:42:08",
+    "calculated_at": "2025-03-15T05:42:38",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1362,7 +1362,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses a promotional offer for a software tool (Team Companion) rather than focusing on the delivery of functional, high-quality software. While it mentions the tool's integration with TFS and its utility in communication, it lacks a detailed exploration of working software principles, Agile methodologies, or customer feedback mechanisms. The discussion is more about obtaining a licence and the tool's features rather than its role in delivering value or quality in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",

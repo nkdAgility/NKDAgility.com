@@ -28,21 +28,27 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:50:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation and its impact on reducing manual errors and improving feedback loops, which are related to deployment frequency. However, the primary focus is on automation in testing and quality assurance rather than directly on deployment frequency itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses automation in software development, highlighting its importance in reducing human error and improving efficiency. While it touches on aspects that could relate to deployment frequency, such as rapid feedback and the need for efficient processes, it does not explicitly focus on deployment intervals or strategies for increasing deployment frequency. The examples provided illustrate the consequences of human error and the benefits of automation, but they do not directly address the core themes of deployment frequency in Agile or DevOps practices.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:50:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation and its impact on efficiency and error reduction, which relates to throughput. However, the primary focus is on automation rather than a direct exploration of throughput metrics or strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, highlighting its role in reducing human error and improving efficiency. However, it does not explicitly focus on throughput as defined in Agile and DevOps contexts. While it touches on the importance of efficiency and mentions the reduction of testing time, it lacks a direct discussion on measuring throughput or strategies specifically aimed at optimising work completion rates. The examples provided illustrate the impact of automation on workflow but do not delve into throughput metrics or improvement strategies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -55,21 +61,27 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:50:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation in software development, which aligns with Lean principles of efficiency and waste reduction. However, it primarily focuses on automation rather than Lean Product Development specifically, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses automation in software development, which indirectly relates to efficiency and reducing waste, key principles of Lean Product Development. However, it primarily focuses on the role of automation and human error rather than explicitly addressing Lean principles or practices. The discussion lacks depth in Lean-specific strategies or frameworks, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:50:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses automation in testing and the importance of fast feedback loops, which are relevant to TDD principles. However, it primarily focuses on general automation practices rather than specifically on TDD methodology or the Red-Green-Refactor cycle.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses automation in software development and its role in reducing human error, but it does not explicitly mention Test Driven Development (TDD) or its core principles. While it touches on the importance of automated testing, it lacks a direct focus on the TDD cycle, writing tests before code, or the specific benefits of TDD. The discussion is more general about automation rather than specifically about TDD practices.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -142,12 +154,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation as a means to improve efficiency and reduce errors in software development, which relates to the theme of innovation. However, it primarily focuses on the practical aspects of automation rather than a comprehensive exploration of the Ability to Innovate framework or metrics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:50:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses automation in software development, highlighting its importance in reducing human error and improving efficiency. While it touches on themes of innovation, particularly in the context of enhancing processes and workflows, it does not explicitly focus on the measurement or improvement of innovation capabilities as defined in the A2I category. The discussion is more centred on operational efficiency rather than a structured approach to fostering a culture of innovation or using Evidence-Based Management principles.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
@@ -289,12 +304,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:50:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of automation in software development and its impact on quality, which indirectly relates to customer satisfaction by suggesting that improved quality leads to happier customers. However, the primary focus is on automation and testing processes rather than customer satisfaction itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses automation in software development and its role in reducing human error, with only a brief mention of customer satisfaction in the context of delivering high-quality software. While it touches on the importance of meeting customer needs, the focus is not on customer satisfaction as a primary theme, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -319,12 +337,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in software development, focusing on efficiency and reducing errors, which aligns with Lean principles of waste reduction and value maximisation. However, it primarily centres on automation rather than Lean principles themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, focusing on efficiency and error reduction, which aligns with Lean principles of waste reduction. However, it does not explicitly mention Lean concepts or practices, and the discussion primarily revolves around automation rather than a comprehensive exploration of Lean principles.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -385,12 +406,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses automation in software development, touching on the roles of testers and coders, and the importance of feedback loops in the development process. However, it primarily focuses on the general concept of automation rather than specifically on Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:50:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of automation in software development, which aligns with modern engineering practices and the role of developers in enhancing productivity and quality. It mentions specific tools like Azure DevOps and addresses the impact of human error on software delivery, which is relevant to Agile and DevOps contexts. However, while it touches on key themes, it lacks a deeper exploration of Agile methodologies or collaborative practices among developers, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -433,7 +457,7 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-11T17:18:36",
+    "calculated_at": "2025-03-14T16:50:27",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -441,7 +465,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses automation in software development and the importance of reducing human error, but it does not focus on customer feedback loops. While there is a brief mention of feedback in the context of automation, it is not a primary focus. The discussion lacks depth on how customer feedback is integrated into the development process, which is essential for the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -484,21 +508,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of automation in software development and its impact on decision-making processes related to quality assurance and deployment. While the primary focus is on automation, it touches on decision-making aspects such as the consequences of human error and the need for evidence-based practices in testing and deployment strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:50:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of automation in software development and highlights the impact of human error, but it does not explicitly focus on structured decision-making methodologies or evidence-based practices. While it touches on the need for rapid feedback and efficiency, it lacks a detailed exploration of decision-making frameworks or collaborative insights, which are central to the category.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of automation in software development, which is a significant aspect of delivering working software. However, the primary focus is on automation processes rather than directly on the characteristics or delivery of functional software itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:51:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of automation in software development, which indirectly relates to the delivery of high-quality software. While it does mention the need for reliable workflows and reducing human error, it lacks a direct focus on the characteristics of working software as defined in Agile and Scrum frameworks. The examples provided illustrate the impact of human error on software quality but do not delve deeply into best practices or metrics for assessing software effectiveness.",
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -511,12 +541,15 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in software development, which is a significant aspect of Site Reliability Engineering, particularly in relation to improving reliability and reducing manual errors. However, it primarily focuses on general automation practices rather than specific SRE principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, which is relevant to SRE principles, particularly in reducing human error and improving reliability. However, it primarily focuses on general software development practices rather than specific SRE concepts like SLOs, SLIs, or incident response. The mention of automation and its benefits aligns with SRE goals, but the depth of discussion does not delve into SRE-specific practices or case studies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -529,12 +562,15 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of automation in software development and its impact on quality, which indirectly relates to customer satisfaction and retention. However, the primary focus is on automation processes rather than explicit customer retention strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, focusing on reducing human error and improving efficiency. While it touches on the importance of delivering high-quality software that meets customer needs, it does not explicitly address customer retention strategies or methodologies. The primary focus is on automation rather than on maintaining user engagement or minimising churn, which are central to the Customer Retention category.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -556,12 +592,15 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:50:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in software development and its impact on testing and feedback loops, which indirectly relates to experimentation in Agile workflows. However, the primary focus is on automation rather than hypothesis-driven experimentation.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses automation in software development and the reduction of human error, with no explicit mention of experimentation or hypothesis-driven approaches. While it touches on testing and feedback loops, it does not delve into systematic testing of ideas or validating assumptions within Agile workflows, which are central to the 'Experimentation' category.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -574,11 +613,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:50:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation in software development and mentions Azure DevOps, but it primarily focuses on general automation principles and examples rather than specifically on Azure Pipelines or its configuration and management.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses automation in software development and mentions Azure DevOps tools, but it does not focus specifically on Azure Pipelines or its configuration, management, or CI/CD practices. While it touches on the importance of automation and provides examples related to testing and deployment errors, it lacks detailed discussion on pipeline definitions, YAML configurations, or specific deployment strategies within Azure Pipelines.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
@@ -664,12 +706,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in the context of software development, which indirectly relates to improving release processes and feedback loops. However, it primarily focuses on the challenges of manual testing and the benefits of automation rather than frequent releases as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, which indirectly relates to improving release processes. However, it does not explicitly focus on frequent releases or the principles of Continuous Delivery and Deployment. The mention of rapid feedback and reducing manual processes aligns somewhat with the category, but the overall discussion is more about automation and human error rather than the specific practice of frequent releases.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -766,12 +811,15 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of automation in reducing manual processes, which indirectly relates to Cycle Time by highlighting how automation can shorten feedback loops and improve efficiency. However, the primary focus is on automation rather than Cycle Time itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:50:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses automation in software development and its impact on efficiency, which indirectly relates to Cycle Time. However, it does not explicitly mention Cycle Time or provide a focused discussion on its measurement or implications. The emphasis is more on reducing human error and improving processes rather than on Cycle Time as a specific metric.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -814,11 +862,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:50:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in software development, highlighting its role in improving efficiency and reducing errors, which aligns with the theme of digital transformation. However, the primary focus is on automation techniques rather than a broader strategic discussion of digital transformation initiatives.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses automation in software development, which aligns with the broader theme of digital transformation by highlighting the importance of integrating digital tools to enhance efficiency and reduce human error. However, it lacks a direct focus on strategic adoption or comprehensive discussions on organisational change, limiting its depth and overall alignment with the category.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -958,21 +1009,27 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation in the context of software testing and deployment, which relates to release management practices. However, the primary focus is on the benefits of automation rather than a comprehensive discussion on release management strategies or processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:50:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, highlighting its importance in reducing human error and improving efficiency. However, it does not explicitly address release management practices such as version control, release scheduling, or coordination among stakeholders. While it touches on aspects of CI/CD and the need for rapid feedback, these are secondary to the main focus on automation and human error, leading to a low confidence score in the context of release management.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in software development and its impact on efficiency and cost, which relates to value creation and innovation in business. However, the primary focus is on technical processes rather than the broader entrepreneurial principles and practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, focusing on efficiency and reducing human error. While it touches on themes of innovation and improving processes, it does not explicitly address entrepreneurship or the entrepreneurial mindset. The discussion lacks depth in terms of entrepreneurial principles and practices, making it more relevant to operational efficiency rather than entrepreneurship itself.",
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -1024,12 +1081,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:50:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses automation in testing and the importance of feedback loops, which are relevant to Test First Development principles. However, the primary focus is on automation and its benefits rather than explicitly on writing tests before code or the core principles of TDD.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses automation in software development and its role in reducing human error, but it does not explicitly mention Test First Development or the principles of writing tests before code. While it touches on the importance of testing and rapid feedback, it lacks a focused discussion on TDD or the specific practices associated with Test First Development. The alignment with the category is minimal, and the depth of discussion does not provide substantial insights into TDD principles.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -1084,12 +1144,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation and its role in improving efficiency and reducing errors, which indirectly relates to market adaptability by enhancing responsiveness and quality in software development. However, the primary focus is on automation rather than explicitly on market adaptability strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, which indirectly relates to market adaptability by highlighting the importance of efficiency and rapid feedback. However, it lacks a direct focus on Agile, DevOps, or Lean methodologies, which are central to the category. While it mentions the need for quick responses to errors and improving processes, it does not delve deeply into strategies for adapting to market changes or competitive pressures.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1129,12 +1192,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of automation in software development and its impact on efficiency and error reduction, which relates to metrics and feedback loops. However, the primary focus is on automation rather than a detailed exploration of metrics and learning principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses automation in software development and its impact on reducing human error, but it does not explicitly focus on metrics or learning principles. While it touches on feedback loops and efficiency, it lacks a detailed exploration of data-driven decision-making or continuous improvement methodologies that are central to the 'Metrics and Learning' category.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1156,11 +1222,14 @@
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses automation in software development processes, highlighting its importance in reducing human error and improving efficiency. However, it does not explicitly connect these automation practices to Agile methodologies or frameworks, making AI and Automation a significant but secondary theme.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses automation extensively, highlighting its importance in reducing human error and improving software development processes. However, it lacks a direct connection to Agile methodologies and does not explicitly mention AI's role in enhancing Agile practices. While it aligns with the theme of automation, it does not sufficiently address how these concepts integrate within Agile frameworks, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -1186,12 +1255,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the impact of human behaviour on processes, particularly in the context of automation and testing. It highlights how human errors can lead to significant issues and the importance of feedback loops, which aligns with the themes of team dynamics and process improvement. However, the primary focus is on automation rather than the interplay between people and processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:51:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the interplay between human behaviour and automation in software development, highlighting the importance of reducing human error and improving processes. It provides specific examples of human factors affecting testing and deployment, which aligns with the category's focus on team dynamics and the role of human involvement in processes. However, the primary focus is on automation rather than the broader aspects of team collaboration and process methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1216,12 +1288,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses automation in software development and its impact on code quality and efficiency, which aligns with the themes of complexity in coding processes. However, the primary focus is on automation rather than a deep exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:50:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses automation in software development, highlighting its role in reducing human error and improving efficiency. While it touches on aspects of code quality and the importance of reliable workflows, it does not delve deeply into the complexities of software architecture or the principles of code quality as outlined in the category description. The focus is more on automation and human factors rather than the interplay between code quality and complexity, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1303,21 +1378,27 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:50:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in software development, which indirectly relates to business agility by highlighting the importance of efficiency and rapid feedback loops. However, the primary focus is on automation rather than the broader principles and practices of business agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, which indirectly relates to business agility by highlighting the importance of efficiency and error reduction. However, it does not explicitly address the principles of business agility or the broader themes outlined in the category definition. The focus is primarily on automation rather than on fostering a culture of innovation or adaptability within organisations.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation in the context of software development and testing, which relates to the application lifecycle, particularly in the stages of development and deployment. However, it primarily focuses on automation and testing practices rather than a comprehensive discussion on the entire application lifecycle management process.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:50:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses automation in software development, which is relevant to the application lifecycle but does not explicitly focus on the stages of the application lifecycle or the governance aspects of Application Lifecycle Management. While it touches on the importance of reducing human error and improving processes, it lacks a comprehensive exploration of ALM methodologies, tools, or practices.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1330,21 +1411,27 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in the context of software testing and deployment, which relates to product delivery. However, it primarily focuses on the challenges of manual processes and the benefits of automation rather than the broader methodologies and practices of product delivery.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of automation in software development, particularly in relation to reducing human error, which is a critical aspect of product delivery. It highlights the need for efficient processes and rapid feedback, aligning with the core themes of planning, testing, and quality assurance. However, while it touches on these topics, the primary focus is on automation rather than the broader methodologies and practices of product delivery, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T11:58:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:50:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of automation in software development and its impact on efficiency and error reduction, which relates to learning from past mistakes and improving processes. However, the primary focus is on automation rather than explicit methodologies for discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses automation in software development, primarily focusing on reducing human error and improving efficiency. While it touches on the importance of feedback loops and the need for rapid feedback in testing, it does not explicitly explore methodologies for fostering innovation or continuous learning. The primary focus is on the benefits of automation rather than on discovery and learning processes, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1366,11 +1453,14 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T11:58:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:51:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in software development, which is a significant aspect of platform engineering, but it primarily focuses on the challenges of human error and the benefits of automation rather than on internal developer platforms or enhancing developer productivity directly.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses automation in software development, which is a key aspect of platform engineering, particularly in enhancing developer productivity and optimising workflows. However, it does not explicitly mention Internal Developer Platforms (IDPs) or delve deeply into the principles of platform engineering. The focus is more on the benefits of automation rather than the broader context of platform engineering, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -1438,7 +1528,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:39:20",
+    "calculated_at": "2025-03-14T16:50:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1446,6 +1536,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses automation in software development and the challenges of human error, with no direct mention of Scrum principles, roles, or events. While it touches on themes of efficiency and team dynamics, it does not align with the core topics of the Scrum framework or Agile principles. The discussion lacks depth regarding Scrum practices, making it largely irrelevant to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

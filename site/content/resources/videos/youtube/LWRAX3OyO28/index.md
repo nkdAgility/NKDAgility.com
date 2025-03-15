@@ -2,7 +2,7 @@
 title: 'Unlocking the True Power of Continuous Delivery: How Automation Transforms Software Development'
 description: Unlock the true power of continuous delivery! Discover how automation transforms software delivery, mitigates risks, and boosts efficiency in your organisation.
 date: 2024-12-06T06:00:00Z
-weight: 385
+weight: 420
 ResourceId: LWRAX3OyO28
 ResourceType: videos
 ResourceImport: true
@@ -26,6 +26,15 @@ duration: 332
 isShort: false
 tags:
 - Continuous Delivery
+- Software Development
+- Product Delivery
+- Value Delivery
+- Practical Techniques and Tooling
+- Deployment Frequency
+- Frequent Releases
+- Technical Excellence
+- Operational Practices
+- Engineering Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

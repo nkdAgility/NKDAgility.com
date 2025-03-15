@@ -32,13 +32,11 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Organisational Agility
 - Sociotechnical Systems
 - Organisational Culture
 - Organisational Physics
 - Organisational Change
-- Enterprise Agility
-- Agile Leadership
-- Market Adaptability
 resourceTypes:
 - video
 categories:

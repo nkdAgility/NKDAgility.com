@@ -2,7 +2,7 @@
 title: 'Mastering Agile: The Power of "Just Enough and No More" for Optimal Efficiency'
 description: Discover how the mantra "just enough and no more" can transform your agile practices. Learn to optimise processes, enhance productivity, and deliver value effectively.
 date: 2023-12-05T11:00:27Z
-weight: 775
+weight: 720
 ResourceId: b-2TDkEew2k
 ResourceType: videos
 ResourceImport: true
@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
-- Agile Values and Principles
-- Agile Planning
-- Agile Frameworks
 - Agile Philosophy
 - Agile Project Management
-- Agile Transformation
+- Operational Practices
 - Pragmatic Thinking
 - Software Development
-- Agile Product Management
-- Flow Efficiency
+- Agile Values and Principles
+- Agile Planning
+- Software Developers
+- Agile Transformation
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -35,10 +35,10 @@ tags:
 - People and Process
 - Strategy
 - Agile Product Operating Model
-- Agile Strategy
-- Strategic Goals
 - Metrics and Learning
 - Product Strategy
+- Agile Project Management
+- Agile Strategy
 resourceTypes:
 - video
 categories:

@@ -100,7 +100,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T17:06:41",
+    "calculated_at": "2025-03-15T07:37:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -108,7 +108,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses a specific technical problem related to managing Active Directory permissions and provides a code snippet for removing ACLs. While it does touch on practical techniques, such as the use of a threaded application and a GUI for managing permissions, it lacks a broader exploration of Agile or DevOps methodologies, tools, or frameworks. The focus is primarily on a coding issue rather than on the application of Agile or DevOps practices, which diminishes its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -220,12 +220,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a coding problem related to removing ACLs in .NET, which touches on code quality and complexity in the context of directory security management. However, it primarily focuses on a specific coding issue rather than a broader discussion on code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses a specific coding problem related to removing ACLs for inactive Active Directory accounts. While it includes code snippets and some technical details, it does not engage with broader themes of code quality, complexity theory, or best practices in software development. The focus is on a practical coding issue rather than the interplay between code and complexity, which limits its alignment with the category.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -319,12 +322,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:37:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical problem related to managing Active Directory permissions and includes code snippets, but the primary focus is on troubleshooting rather than broader engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific technical problem related to Active Directory and the removal of ACLs using .NET code. While it does touch on coding practices and problem-solving, it lacks a broader discussion on engineering methodologies or practices that enhance agility in software development. The focus is more on a specific implementation issue rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1234,7 +1240,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T15:16:49",
+    "calculated_at": "2025-03-15T07:37:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1242,7 +1248,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses a technical problem related to removing ACLs for dead Active Directory accounts, focusing on a specific coding solution. While it touches on practical problem-solving, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The mention of a practical coding solution indicates some alignment with pragmatic thinking, but the depth and conceptual alignment with the category are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1255,7 +1261,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:17:14",
+    "calculated_at": "2025-03-15T07:37:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1263,7 +1269,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a technical issue related to removing ACLs for dead Active Directory accounts, which does not directly address the principles of software craftsmanship or best practices in software development. While it touches on coding practices and a specific implementation, it lacks a broader discussion on engineering excellence, continuous improvement, or quality assurance. The focus is more on troubleshooting a specific problem rather than promoting high standards in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

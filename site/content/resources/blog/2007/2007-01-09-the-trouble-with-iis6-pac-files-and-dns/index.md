@@ -30,9 +30,7 @@ aliasesArchive:
 - /the-trouble-with-iis6---pac-files-and-dns
 - /blog/the-trouble-with-iis6---pac-files-and-dns
 - /resources/blog/the-trouble-with-iis6-pac-files-and-dns
-tags:
-- Troubleshooting
-- Windows
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

@@ -214,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:46:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific technical issue related to TFS migration and provides potential workarounds, which touches on engineering practices. However, it primarily focuses on a specific problem rather than broader principles of technical excellence.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS (Team Foundation Server) and the error TF14009 encountered during a migration process. While it provides some insights into the problem and potential workarounds, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is more on troubleshooting a specific error rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, while there are technical elements present, they do not align closely with the core themes of the category.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -352,12 +355,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:46:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to source control migration and error handling in TFS, which are relevant to the application lifecycle, particularly in the deployment and maintenance stages. However, it primarily focuses on a specific error and its resolution rather than a broader discussion on application lifecycle management methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error encountered during a migration process in TFS, which is related to version control rather than the broader scope of Application Lifecycle Management. While it touches on aspects of application management, such as migration and error resolution, it lacks a comprehensive discussion on the stages of the application lifecycle, governance, or best practices. The focus is too narrow and technical, making it only tangentially relevant to the category.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -589,11 +595,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:10:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:46:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific error encountered during source code migration in Team Foundation Server, which is relevant to software development practices and version control systems.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on a specific error encountered during a migration process in Team Foundation Server (TFS), which is a tool used in software development for version control. It explicitly mentions the error code TF14009 and discusses the implications of branching and merging in the context of source control, which are key aspects of software development practices. The content aligns well with the core themes of the Software Development category, particularly in relation to version control systems and collaborative development. The depth of the discussion is significant, as it includes potential workarounds and detailed error messages, indicating a thorough exploration of the topic.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -745,7 +754,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:16:49",
+    "calculated_at": "2025-03-15T05:46:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -753,7 +762,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a specific technical issue related to TFS migration and error handling, which does not directly address broader themes of engineering excellence such as software craftsmanship, coding standards, or CI/CD practices. While it touches on problem-solving and technical processes, it lacks a comprehensive exploration of best practices or continuous improvement in engineering processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -895,12 +904,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:46:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses merging in the context of TFS (Team Foundation Server), which relates to the integration aspect of Continuous Integration. However, it focuses heavily on specific error messages and technical challenges rather than broader CI principles or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific error encountered during a migration process in TFS, which relates to version control and merging issues. While it touches on aspects of code integration, it does not explicitly focus on Continuous Integration principles or practices. The discussion lacks depth in CI-related topics such as automated testing, CI tools, or best practices, leading to a low confidence score despite some relevance to code merging.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1123,7 +1135,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T11:58:09",
+    "calculated_at": "2025-03-15T05:46:19",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1131,7 +1143,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS) and its integration tools, which are used in conjunction with Windows environments. However, it does not explicitly focus on Windows operating system topics such as installation, configuration, or troubleshooting of Windows itself. While it touches on aspects of TFS that may run on Windows, the primary focus is on TFS functionality and error handling rather than Windows-specific guidance or management. Therefore, the confidence score reflects a moderate alignment with the Windows category, but it is not a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1180,12 +1192,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:10:33",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-15T05:46:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 86.0,
-    "reasoning": "The content extensively discusses the error TF14009 encountered during a migration process in TFS, providing a detailed analysis of the issue, associated exceptions, and potential workarounds for resolving the problem. It focuses on diagnosing and addressing a technical issue within a software environment, aligning well with key themes of troubleshooting.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific error (TF14009) encountered during a migration process in TFS, detailing the circumstances that lead to the issue and providing potential workarounds. It aligns well with the core themes of troubleshooting by identifying a technical problem, analysing its cause, and suggesting practical solutions. The depth of discussion is substantial, as it includes error messages, potential resolutions, and a workaround, demonstrating a thorough approach to diagnosing and resolving the issue.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1225,12 +1240,12 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:03",
+    "calculated_at": "2025-03-15T05:46:19",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses a specific error related to TFS (Team Foundation Server) and the implications of source control during migrations. While it touches on software development practices, it does not primarily focus on software developers' roles within Agile or DevOps methodologies, but rather on a technical issue with a development tool.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

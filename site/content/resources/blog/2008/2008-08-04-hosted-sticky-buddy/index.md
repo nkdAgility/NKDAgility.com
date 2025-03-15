@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/hosted-sticky-buddy
 - /hosted-sticky-buddy
 - /resources/blog/hosted-sticky-buddy
-tags:
-- Install and Configuration
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

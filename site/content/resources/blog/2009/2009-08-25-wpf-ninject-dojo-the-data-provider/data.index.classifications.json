@@ -40,7 +40,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-11T17:02:31",
+    "calculated_at": "2025-03-15T07:20:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -48,7 +48,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the implementation of a custom data provider using Ninject in a WPF application, which touches on aspects of code quality and dependency injection. However, it lacks a broader discussion on complexity theory or its implications on software architecture and design. While there are mentions of maintainability and modular design through dependency injection, the depth of discussion does not fully explore the interplay between code quality and complexity as outlined in the category definition.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -745,7 +745,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:42:16",
+    "calculated_at": "2025-03-15T07:20:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -753,7 +753,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the implementation of dependency injection using Ninject in a WPF application, which touches on best practices in software development. However, it lacks a broader discussion on engineering excellence principles, such as quality assurance or continuous improvement. The focus is primarily on a specific technical implementation rather than a comprehensive exploration of engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -793,7 +793,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T12:08:13",
+    "calculated_at": "2025-03-15T07:20:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -801,7 +801,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the implementation of a custom DataSourceProvider using Ninject for dependency injection in a WPF application. While it touches on practical problem-solving in a software development context, it lacks a strong focus on Agile, Scrum, or DevOps principles. The discussion is more technical and specific to WPF rather than addressing broader pragmatic thinking strategies or real-world applications in project management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -877,7 +877,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T15:11:50",
+    "calculated_at": "2025-03-15T07:20:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -885,7 +885,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the implementation of a custom data provider using Ninject in a WPF application, which relates to the development of functional software. However, it lacks a direct focus on the broader principles of working software, such as customer feedback, iterative development, or quality assurance practices. The discussion is more technical and specific to a coding solution rather than addressing the delivery of high-quality software that meets user needs.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1225,7 +1225,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:42:32",
+    "calculated_at": "2025-03-15T07:20:48",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1233,7 +1233,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the implementation of dependency injection in a WPF application using Ninject, which is relevant to software development practices. However, it lacks explicit references to Agile or DevOps methodologies, and while it touches on modern engineering practices, it does not delve deeply into the collaborative or iterative aspects that are central to the Software Developers category. The focus is more on technical implementation rather than the broader role of developers within Agile or DevOps frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1246,12 +1246,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:20:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses implementation details of dependency injection in WPF applications using Ninject. While it touches on the concept of clean architecture and maintainable code, it is mainly focused on a specific technical implementation rather than broader engineering practices like clean code principles or TDD.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses dependency injection and the implementation of a custom DataSourceProvider using Ninject, which relates to clean code and automation principles. However, it lacks a broader discussion on Agile methodologies or practices like TDD, CI/CD, or refactoring. The focus is primarily on technical implementation rather than on engineering practices as a whole.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",

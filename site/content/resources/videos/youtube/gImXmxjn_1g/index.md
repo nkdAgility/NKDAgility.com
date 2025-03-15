@@ -29,10 +29,6 @@ duration: 376
 isShort: false
 tags:
 - People and Process
-- Pragmatic Thinking
-- Team Collaboration
-- Agile Strategy
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

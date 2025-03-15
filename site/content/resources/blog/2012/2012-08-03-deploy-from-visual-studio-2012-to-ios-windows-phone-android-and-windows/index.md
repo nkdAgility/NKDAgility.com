@@ -35,8 +35,6 @@ tags:
 - Working Software
 - Application Lifecycle Management
 - Practical Techniques and Tooling
-- Windows
-- Product Delivery
 categories:
 - DevOps
 - Engineering Excellence

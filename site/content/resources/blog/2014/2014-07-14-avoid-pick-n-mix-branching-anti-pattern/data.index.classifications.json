@@ -1,12 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses branching models and their impact on software delivery, which relates to Agile principles, but it primarily focuses on technical aspects rather than product management strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses source control issues and branching models, which are more technical than directly related to Agile Product Management. While it touches on concepts like planning and feature branching that could align with Agile principles, it lacks a strong focus on product management roles, customer feedback integration, or stakeholder engagement, which are central to the category.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -97,21 +100,27 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:26:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses branching models and their impact on software delivery, which relates to market adaptability through improved release strategies. However, it primarily focuses on technical issues rather than broader market adaptability strategies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its implications on software delivery, which indirectly relates to market adaptability by highlighting the need for better planning and responsiveness in software development. It mentions the importance of moving to a Feature branching model to enhance stability and trust with the business, which aligns with the principles of Agile methodologies. However, the primary focus is on technical issues rather than broader market adaptability strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of branching models on software delivery and team dynamics, highlighting the relationship between technical practices and organisational trust. However, it primarily focuses on technical issues rather than a comprehensive exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical issue related to source control and branching strategies, with limited direct mention of sociotechnical systems. While it touches on the impact of poor planning on business trust and software delivery, it lacks a comprehensive exploration of the interplay between social and technical aspects within organisations. The discussion is more focused on technical solutions rather than the organisational context or culture that influences these practices.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -175,21 +184,27 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of branching models on team dynamics and the importance of planning and coordination, which are relevant to the interplay between human behaviour and structured methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its implications on team dynamics, planning, and trust within the business. It highlights the need for better collaboration and communication among teams to improve source control processes. While it primarily focuses on technical aspects, it also touches on the human factors involved in planning and executing software releases, which aligns with the category's themes. However, the technical focus slightly overshadows the human element, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching models and their impact on software delivery, which relates to organisational agility and the need for effective change management practices. However, it primarily focuses on technical practices rather than broader organisational agility principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a technical issue related to source control and branching strategies, which is more focused on team-level practices rather than organisational agility. While it touches on aspects of planning and collaboration, it lacks a broader discussion on enterprise-level agility frameworks, leadership roles, or cultural implications. The depth of discussion on branching models is significant, but it does not connect these practices to the overarching themes of enterprise agility.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -346,11 +361,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching models and their impact on software delivery, which relates to organisational agility in terms of improving responsiveness and reducing risk. However, the primary focus is on technical practices rather than broader organisational strategies or cultural shifts.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its implications on software development practices, which indirectly relates to organisational agility. However, it primarily focuses on technical issues and solutions rather than broader organisational strategies or cultural shifts that enhance agility. While it touches on the need for better planning and feature branching, it lacks a comprehensive exploration of agile methodologies, leadership roles, or continuous improvement strategies that are central to the category of Organisational Agility.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -394,12 +412,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T10:32:03",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T04:26:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the 'pick-n-mix branching anti-pattern', the implications of poor source control practices, and recommends a transition to a Feature branching model. It covers various topics related to software development practices, technical debt management, quality assurance, and engineering solutions, aligning well with the principles of software craftsmanship and engineering excellence.",
-    "level": "Primary"
+    "final_score": 79.0,
+    "reasoning": "The content provides a thorough examination of the pick-n-mix branching anti-pattern, discussing its implications on technical debt, code quality, and release management. It aligns closely with the principles of software craftsmanship by addressing best practices in source control and branching strategies. The depth of discussion is significant, offering detailed insights into the consequences of poor planning and the benefits of adopting a feature branching model. Overall, the content is highly relevant to the category of Technical Mastery.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -412,11 +433,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T10:32:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:26:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses branching strategies, particularly the issues with the pick-n-mix branching anti-pattern and how it relates to code promotion, which is central to Continuous Delivery practices.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the pick-n-mix branching anti-pattern and its implications for software delivery, which directly relates to Continuous Delivery principles. It discusses the importance of maintaining a production-ready state, the role of branching strategies, and the need for effective planning and automation in the deployment process. The depth of discussion is significant, providing detailed insights into the consequences of poor branching practices and suggesting a transition to a Feature branching model, which aligns well with Continuous Delivery methodologies. Overall, the content is highly relevant to the Continuous Delivery category.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -475,12 +499,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses issues related to source control and branching models, highlighting the need for planning in software development, which aligns with Agile Planning principles, although it is not strictly focused on Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses branching models and their implications on software delivery, which indirectly relates to Agile Planning principles. However, it primarily focuses on source control issues and technical debt rather than Agile methodologies or practices. While it touches on planning aspects, it lacks a direct emphasis on Agile principles, making it a secondary discussion rather than a primary focus.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -502,11 +529,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T10:32:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:26:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the pick-n-mix branching anti-pattern, its implications on code quality, and provides practical solutions such as transitioning to a feature branching model. It focuses on improving operational efficiency and reducing risks in software delivery, aligning well with operational practices within Agile and DevOps frameworks.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the pick-n-mix branching anti-pattern and its implications on operational efficiency, particularly in source control management. It provides a detailed analysis of the issues caused by this anti-pattern, such as technical debt, merge chaos, and loss of business trust, which directly relate to operational practices. The author suggests a transition to a Feature branching model, which aligns with best practices for improving delivery speed and quality. The depth of discussion is significant, covering various models and their impacts on operational efficiency, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -529,21 +559,24 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-15T10:32:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:26:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses strategic approaches to source code management and branching models in the context of Agile practices. It focuses on improving processes and reducing risks through well-defined strategies like Feature branching and the implications of poor strategic choices, aligning well with the Strategy category's emphasis on effective planning and execution.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its implications on software delivery, which aligns with strategic planning and execution in Agile environments. It provides a detailed analysis of the issues caused by poor branching strategies and suggests a transition to a Feature branching model, demonstrating a clear understanding of strategic alignment and optimisation of delivery processes. The depth of discussion on the consequences of different branching models and the need for effective planning supports a high confidence score, although it does not explicitly mention Agile or Scrum frameworks frequently enough to achieve a higher score.",
     "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T09:08:48",
+    "calculated_at": "2025-03-15T04:26:16",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
     "final_score": 19.0,
     "reasoning": "The content discusses source control issues and branching models in software development, which indirectly relates to product stability and release management but does not focus on validating product ideas through user feedback or testing.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -652,12 +685,12 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:08:48",
+    "calculated_at": "2025-03-15T04:26:16",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "The content discusses branching models and their impact on software delivery, touching on issues such as code promotion and quality assurance. However, it primarily focuses on technical practices and processes rather than on empirical process control principles like transparency, inspection, or adaptation. It does not strongly emphasize evidence-based decision-making or Agile practices but rather critiques existing branching methods.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -706,21 +739,27 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-15T10:32:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:26:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implications of branching models on release stability and risk, emphasizing the need for better release practices which aligns closely with principles of Frequent Releases, particularly in discussing feature branching and continuous delivery.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its negative impact on release quality, which indirectly relates to the principles of frequent releases. However, it primarily focuses on branching strategies rather than the broader topic of frequent releases. While it mentions the need for better planning and a shift towards feature branching to improve release stability, it lacks a detailed exploration of continuous delivery practices or metrics for measuring release frequency. Therefore, while there is some alignment with the category, it is not the primary focus.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of the pick-n-mix branching anti-pattern on customer satisfaction outcomes, highlighting issues like unhappy customers and erosion of trust with the business. However, the primary focus is on technical details and solutions related to source control management rather than a comprehensive exploration of customer satisfaction principles and practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the implications of poor source control practices on customer trust and satisfaction, highlighting how technical issues can lead to unhappy customers. However, the primary focus is on technical implementation details and branching models rather than a comprehensive exploration of customer satisfaction principles or practices. While customer satisfaction is mentioned, it is not the main focus of the discussion.",
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -799,20 +838,23 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T09:08:48",
+    "calculated_at": "2025-03-15T04:26:16",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "While the content discusses issues related to software development practices and their implications for quality assurance and business trust, it does not focus primarily on strategies for retaining customers or enhancing customer engagement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T10:32:03",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T04:26:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content discusses a specific issue with source control management, namely the pick-n-mix branching anti-pattern, and presents practical problem-solving strategies to transition to a feature branching model within Agile and DevOps frameworks. It emphasizes the importance of planning and real-world applications to enhance stability and trust in software delivery.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed analysis of the pick-n-mix branching anti-pattern, discussing its implications and offering practical solutions within the context of Agile and DevOps. It emphasises real-world applications of branching models, the importance of planning, and the need for adaptability in software development processes. The depth of discussion on transitioning to a Feature branching model and the integration of engineering practices further aligns with the core themes of pragmatic thinking.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -826,12 +868,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses source control issues and branching models, touching on planning and engineering practices that can lead to improvements. However, its primary focus is on addressing a specific technical anti-pattern rather than a broader discussion of innovation capabilities or evidence-based management.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and suggests moving to a Feature branching model, which implies a need for innovation in source control practices. However, it primarily focuses on technical issues and solutions rather than explicitly addressing the broader concepts of innovation capabilities, Evidence-Based Management, or fostering a culture of innovation. The discussion lacks depth in terms of frameworks or metrics for measuring innovation, which diminishes its alignment with the Ability to Innovate category.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -844,12 +889,12 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:08:48",
+    "calculated_at": "2025-03-15T04:26:16",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
     "final_score": 19.0,
     "reasoning": "The content primarily discusses source control issues and branching strategies, focusing on technical practices rather than enterprise-level scaling of Agile methodologies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -889,11 +934,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T10:32:03",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T04:26:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses issues related to source control, branching strategies, and their impacts on software quality and delivery, directly relating to working software principles.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses the implications of the pick-n-mix branching anti-pattern on software quality and delivery. It highlights the importance of effective branching strategies, such as feature branching, to ensure working software and reduce technical debt. The discussion aligns well with the core themes of working software, including the need for functional software that meets user requirements and the importance of iterative development. The depth of the analysis on branching models and their impact on software quality further supports a high confidence score.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -907,11 +955,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T10:32:03",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:26:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses branching models in source control which relates to Continuous Integration practices, particularly in terms of managing code changes and merges. However, it mainly focuses on the pick-n-mix anti-pattern and issues arising from poor branching rather than on broader principles of CI or specific CI practices and tools.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses branching models and their implications on code quality and release processes, which are relevant to Continuous Integration. However, it primarily focuses on the pick-n-mix branching anti-pattern and feature branching without explicitly addressing CI principles or practices. While it touches on aspects of code promotion and testing, it lacks a comprehensive exploration of CI tools, automated testing, or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -961,11 +1012,14 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-15T10:32:03",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:26:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses branching models in software development and their impact on decision-making regarding code management and release processes. While it emphasizes a methodical approach to mitigating risks associated with poor planning, it largely focuses on technical practices rather than structured decision-making methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its implications on decision-making within software development. It highlights the consequences of poor planning and the need for structured approaches, such as feature branching, to improve decision quality. While it does not explicitly mention evidence-based methodologies, it aligns with the core themes of structured decision-making by advocating for better planning and collaboration. The depth of discussion is significant, providing detailed insights into the issues and potential solutions, thus justifying a relatively high confidence score.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -979,11 +1033,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T10:32:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:26:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses release management issues, particularly the impact of poor branching strategies on releases, the need for better planning, and coordination for successful software delivery. It focuses on branching models that directly relate to the management of software releases.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the implications of the pick-n-mix branching anti-pattern on software releases, highlighting issues such as failed releases, technical debt, and the importance of proper planning and coordination in release processes. It provides a detailed analysis of branching models, including feature branching and binary promotion, which are directly relevant to release management. The depth of discussion on how these practices affect the reliability and efficiency of software delivery aligns well with the core themes of the category.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1051,12 +1108,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching models and source control management in software development, which relates to improving operational efficiency and potentially supports digital transformation initiatives, but it primarily focuses on technical practices rather than strategic adoption of digital technologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses source control issues and branching models, which are relevant to software development practices. However, it lacks a direct focus on the strategic adoption of digital technologies for business transformation. While it touches on improving operational efficiency and reducing technical debt, it does not explicitly address broader themes of digital transformation such as organisational culture, customer engagement, or the integration of emerging technologies. The discussion is more technical and operational rather than strategic, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1096,12 +1156,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses branching models in source control and their impact on software delivery, which relates to technical leadership and agile engineering practices but primarily focuses on technical processes rather than broader technical leadership themes.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its implications on software development, which indirectly touches on aspects of technical leadership, such as planning and team dynamics. However, it lacks explicit discussions on mentoring, agile practices, or team collaboration, which are core to the category of Technical Leadership. The focus is more on technical issues rather than leadership strategies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1141,11 +1204,14 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T10:32:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:26:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses branching models and strategies like feature branching and feature flippers, which relate directly to deployment methodologies and risk management in deploying software.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its implications for deployment strategies, particularly in relation to feature branching and the need for better planning in code promotion. While it does touch on relevant concepts like feature toggles and the importance of a structured branching model, the primary focus is on the issues arising from poor branching practices rather than a comprehensive exploration of deployment methodologies. The depth of discussion on deployment strategies is moderate, but it lacks a thorough examination of various deployment techniques, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1186,11 +1252,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T10:32:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:26:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the identification and resolution of issues related to source control and branching models in software development, highlighting the problems caused by the pick-n-mix branching anti-pattern and suggesting solutions, including a transition to a Feature branching model.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on identifying and resolving issues related to source control and branching strategies in software development. It discusses the pick-n-mix branching anti-pattern, its consequences, and provides a clear pathway to troubleshoot and improve the branching model. The depth of discussion includes specific problems, their impacts, and actionable solutions, aligning well with the troubleshooting category. The content is rich in practical insights and methodologies for diagnosing and addressing technical issues, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1231,11 +1300,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T10:32:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:26:50",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 29.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the branching anti-pattern in software development, its implications, and solutions aligned with modern engineering practices like Feature branching, which relate directly to the methodologies of Agile and DevOps.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses the pick-n-mix branching anti-pattern and its implications for software development practices. It directly addresses the role of developers in managing source control and branching strategies, which aligns with Agile and DevOps principles. The depth of discussion includes specific examples of branching models and their impact on code quality and team dynamics, demonstrating a solid understanding of modern engineering practices. However, while the content is relevant, it does not explicitly mention Agile or DevOps methodologies frequently, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,20 +1321,26 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-15T10:32:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:26:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the pick-n-mix branching anti-pattern in the context of software development and proposes solutions using Agile engineering practices. It focuses on improving code management and quality assurance through better branching models.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the pick-n-mix branching anti-pattern and its implications on software development practices, which directly relates to engineering practices. It provides a detailed analysis of the issues caused by this anti-pattern, such as technical debt, merge chaos, and the erosion of business trust, aligning well with the core themes of clean code and continuous integration. The author suggests moving to a feature branching model, which is a specific engineering practice aimed at improving code quality and release stability. The depth of discussion is substantial, covering various aspects of branching models and their impact on Agile practices, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-15T10:32:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:26:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the implications of the pick-n-mix branching anti-pattern and how it contributes to technical debt, including its impact on code quality, team velocity, and business trust.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its consequences, explicitly mentioning 'technical debt' as a result of poor planning and source control issues. It aligns well with the core themes of technical debt, such as the impact on code quality and team velocity. The depth of discussion is substantial, providing detailed insights into the problems caused by this anti-pattern and suggesting a transition to a feature branching model as a remediation strategy. Overall, the content is focused on the management and implications of technical debt, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Sprint Review": {
@@ -1276,7 +1354,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T14:43:46",
+    "calculated_at": "2025-03-15T04:26:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1284,7 +1362,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses technical issues related to source control and branching strategies, which are more aligned with software engineering practices than with product management. While it touches on the implications of these practices for business trust and delivery, it lacks a direct focus on product management methodologies, customer needs, or strategic alignment. The depth of discussion on branching models is significant, but it does not sufficiently connect to the core themes of product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1306,20 +1384,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content addresses branching models and their implications on software delivery, which relates to Agile principles of adaptability and continuous delivery. However, the primary focus is on technical practices rather than a broader Agile strategy context.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its implications on software delivery, which indirectly relates to Agile principles such as adaptability and continuous value delivery. However, it primarily focuses on technical practices and source control issues rather than a strategic alignment with Agile methodologies. While it mentions the need for better planning and a shift to a Feature branching model, the discussion lacks a comprehensive exploration of Agile strategy as defined in the category.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching strategies and models related to source control, which is relevant to Azure Repos. However, it does not specifically mention Azure Repos or its features, making it a major but secondary theme rather than the primary focus.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses branching strategies, specifically the pick-n-mix branching anti-pattern and the feature branching model, which are relevant to source control management. However, it lacks direct references to Azure Repos and does not explore its specific functionalities or integration with CI/CD processes. The discussion is primarily focused on general branching practices rather than Azure Repos itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Forecasting": {
@@ -1351,11 +1435,14 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of poor source control practices, which can lead to a lack of trust between IT and the business. It suggests that accountability is important for successful releases and managing technical debt, making accountability a major but secondary theme in the context of planning and execution.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the consequences of poor planning and the impact on business trust, which relates to accountability in terms of ownership and responsibility. However, it primarily focuses on technical issues and branching models rather than explicitly addressing accountability as a core theme. The mention of trust and the need for a professional approach hints at accountability, but it lacks depth and direct discussion on team dynamics or ownership in Agile contexts.",
     "level": "Tertiary"
   },
   "Scaling Kanban": {
@@ -1369,11 +1456,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:27:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching models and their implications on the software development process, touching upon aspects of throughput like planning and stability, but it primarily focuses on branching strategies rather than directly on throughput measurements or optimizations.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the pick-n-mix branching anti-pattern and its negative impact on code quality and delivery, which relates to throughput by highlighting how poor branching strategies can hinder the flow of work and lead to inefficiencies. It mentions the need for a feature branching model to improve stability and reduce risks, which aligns with the core themes of optimising workflows and enhancing throughput. However, while it touches on these aspects, the primary focus is more on branching strategies rather than a direct exploration of throughput metrics or measurement techniques, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test Driven Development": {
@@ -1396,7 +1486,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T18:33:44",
+    "calculated_at": "2025-03-15T04:26:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1404,7 +1494,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses branching models and source control issues, which are relevant to Agile practices and continuous improvement. However, it primarily focuses on technical aspects of version control rather than the broader themes of collaboration, team dynamics, or specific Agile frameworks like Scrum or Kanban. While it mentions the need for planning and coordination, it lacks a direct discussion of the core principles of Social Technologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1426,7 +1516,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:36:28",
+    "calculated_at": "2025-03-15T04:26:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1434,6 +1524,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses source control issues and branching models, which are not directly related to Scrum principles or practices. While it touches on aspects of project management and team dynamics, it lacks explicit references to Scrum roles, events, or artifacts. The focus is more on technical debt and branching strategies rather than Scrum's iterative and collaborative framework.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

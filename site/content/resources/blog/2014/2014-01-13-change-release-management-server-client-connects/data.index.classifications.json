@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:51:40",
+    "calculated_at": "2025-03-15T04:42:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses changing the Release Management Server, which is related to deployment processes, but it lacks a broader discussion on DevOps principles, practices, or cultural shifts. While it touches on a specific tool and configuration aspect, it does not delve into the integration of people, processes, or the overall efficiency of software delivery, which are core to the DevOps category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -244,7 +244,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T16:46:51",
+    "calculated_at": "2025-03-15T04:42:10",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -252,7 +252,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical aspects of changing the Release Management Server connection for a client application. While it touches on deployment-related tasks, it lacks a broader discussion on methodologies, practices, or strategies that are central to product delivery. The mention of a utility for configuration changes is relevant but does not delve into the comprehensive processes or best practices associated with product delivery, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -358,12 +358,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:42:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses changing the Release Management Server, which is related to application deployment and configuration management, but it primarily focuses on a specific technical task rather than the broader aspects of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses changing the Release Management Server, which is a part of the deployment and maintenance stages of the application lifecycle. However, it lacks a broader discussion on application lifecycle management principles, methodologies, or tools. The focus is primarily on a specific technical task rather than the overall management of the application lifecycle.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -385,12 +388,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:42:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue regarding software configuration for a Release Management Client, which falls under technical practices. However, it primarily focuses on specific operational procedures rather than broader software craftsmanship principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific technical task related to changing the Release Management Server connection. While it provides practical steps and details about the process, it lacks broader discussions on software craftsmanship, best practices, or principles of clean code. The mention of a utility for configuration adjustment hints at a technical tool, but the overall depth and alignment with the core themes of Technical Mastery are limited.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -493,12 +499,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:42:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical steps for changing the Release Management Server connection, which is relevant to operational practices in a software environment, though it focuses more on specific troubleshooting rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a specific technical task related to changing the Release Management Server connection, which is more of a procedural guide than a discussion on operational practices. While it touches on aspects of operational efficiency by suggesting a workaround for server connection issues, it lacks a broader discussion on methodologies like Agile, DevOps, or Lean. The depth of the discussion is moderate, providing practical steps but not exploring the implications for operational efficiency or continuous improvement in a wider context.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -592,12 +601,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:42:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses modifying the configuration for a Release Management Client, which is a specific aspect related to software deployment and configuration management within the software development lifecycle.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical steps for changing the Release Management Server in a client application, which relates to software deployment practices. However, it lacks a broader discussion on methodologies or best practices in software development, focusing instead on a specific technical task. While it mentions tools and configurations relevant to software management, it does not delve into the underlying principles or frameworks of software development, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1228,12 +1240,12 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:51",
+    "calculated_at": "2025-03-15T04:42:10",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content provides technical details on changing configurations in a specific software client but does not discuss the role of software developers in terms of Agile, DevOps, or modern engineering practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

@@ -23,16 +23,14 @@ aliasesArchive:
 preview: https://i.ytimg.com/vi/XCwb2-h8pZg/maxresdefault.jpg
 duration: 254
 isShort: false
-tags:
-- Operational Practices
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
+categories: []
 
 ---
 Welcome to my blog! I’m Martin Hinshelwood, a Visual Studio ALM MVP, Visual Studio ALM Ranger, and a professional Scrum trainer. Today, I want to share my insights on TFS Preview, Microsoft’s cloud-based offering that’s making waves in the world of application lifecycle management. If you’re looking to enhance your project management capabilities, you’ll want to pay attention to what TFS Preview has to offer.

@@ -26,9 +26,7 @@ aliasesArchive:
 - /blog/waffling-on-sharepoint---
 - /waffling-on-sharepoint
 - /resources/blog/waffling-on-sharepoint
-tags:
-- Miscellaneous
-- Pragmatic Thinking
+tags: []
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

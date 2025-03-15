@@ -31,9 +31,9 @@ sitemap:
 tags:
 - Product Owner
 - People and Process
+- Value Delivery
 - Agile Product Management
 - Products and Books
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

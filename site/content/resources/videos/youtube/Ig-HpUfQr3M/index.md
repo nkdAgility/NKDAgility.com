@@ -25,7 +25,16 @@ preview: https://i9.ytimg.com/vi/Ig-HpUfQr3M/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 501
 isShort: false
 tags:
+- Experimentation
+- Discovery and Learning
 - Hypothesis Driven Development
+- Value Delivery
+- Pragmatic Thinking
+- People and Process
+- Product Validation
+- Metrics and Learning
+- Agile Product Management
+- Product Discovery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

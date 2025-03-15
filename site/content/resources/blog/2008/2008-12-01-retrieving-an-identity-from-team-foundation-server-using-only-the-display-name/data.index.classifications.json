@@ -37,11 +37,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:26:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical implementation details related to Team Foundation Server and identity retrieval, which touches on engineering practices. However, it primarily focuses on a specific technical problem rather than broader engineering methodologies or practices that enhance agility in software development.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on a technical implementation related to retrieving identities from Team Foundation Server, which involves coding practices and technical methodologies. However, while it discusses specific technical details and code snippets, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The depth of technical detail is significant, but the overall alignment with the category of 'Technical Excellence' is moderate due to the absence of discussions on principles like TDD, CI/CD, or modular architecture.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -178,12 +181,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:26:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses retrieving identities from Team Foundation Server, which involves code and touches on complexity in handling user and group identities. However, the primary focus is on implementation details rather than a broader discussion on code quality or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on retrieving identities from Team Foundation Server, which involves coding practices and some complexity in handling user and group identities. However, it lacks a deeper exploration of software code quality principles, best practices, or complexity theory. While there are mentions of coding and some complexity in the process, the discussion does not align closely with the core themes of the category, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -307,12 +313,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:26:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Team Foundation Server (TFS) related to managing identities and work items, which are relevant to the application lifecycle, but the primary focus is on technical implementation rather than overarching ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on retrieving identities from Team Foundation Server (TFS) and does not explicitly discuss the stages of the application lifecycle or best practices for application governance. While it touches on aspects related to TFS, which is a tool used in application lifecycle management, the discussion lacks depth in terms of lifecycle management methodologies and practices. The mention of ALM tags at the end is insufficient to elevate the content's relevance to the category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -643,7 +652,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:48:18",
+    "calculated_at": "2025-03-15T07:26:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -651,7 +660,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a technical implementation related to Team Foundation Server and retrieving user identities, which does not directly address the principles of software craftsmanship or best practices in engineering. While it includes some technical details that could contribute to engineering processes, it lacks a broader discussion on engineering excellence, such as quality assurance, coding standards, or continuous improvement practices. Therefore, it only partially aligns with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -673,11 +682,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:26:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on a technical solution for retrieving identities from Team Foundation Server, which is relevant to software development practices. However, it lacks a strong focus on Agile or DevOps methodologies, making it a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on a technical implementation related to Team Foundation Server (TFS) and retrieving user identities, which is relevant to software developers. However, it lacks explicit discussions on Agile methodologies, DevOps principles, or modern engineering practices. While it touches on aspects of software development, it does not delve deeply into the collaborative or productivity-enhancing frameworks that define the Software Developers category.",
     "level": "Tertiary"
   },
   "AI": {
@@ -913,12 +925,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:26:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content involves practical implementations related to Team Foundation Server and discusses aspects that could contribute to effective software functionality. However, the primary focus is more on coding and technical specifics than on the broader topic of working software delivery.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to retrieving identities from Team Foundation Server, which does not directly address the delivery of functional software or customer value. While it touches on aspects of software functionality, it lacks a broader discussion on working software principles, such as iterative development or customer feedback integration.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1066,12 +1081,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:26:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mainly discusses retrieving user and group identities from Team Foundation Server (TFS), which is related to source control systems. While it touches on aspects of TFS functionality, the primary focus is not on modern source control practices but rather on a specific implementation detail.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses retrieving identities from Team Foundation Server (TFS), which is a version control system. However, while it touches on aspects of code management and user identity within TFS, it lacks a comprehensive exploration of modern source control practices such as branching strategies, code review processes, or collaboration workflows. The focus is more on specific implementation details rather than broader best practices in modern source control.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1417,7 +1435,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:56:26",
+    "calculated_at": "2025-03-15T07:26:09",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -1425,6 +1443,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses technical aspects of retrieving identities from Team Foundation Server and does not mention Scrum principles, roles, events, or any related topics. There is no direct mention of Scrum, and the discussion does not align with the core themes of the Scrum framework or Agile principles.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

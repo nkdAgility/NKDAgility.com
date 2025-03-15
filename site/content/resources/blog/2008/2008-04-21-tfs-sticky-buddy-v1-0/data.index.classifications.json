@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the TFS Sticky Buddy application, which relates to managing work items in Team Foundation Server, a tool relevant to Application Lifecycle Management. However, the primary focus is on the application's features rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the TFS Sticky Buddy application, which is related to managing work items in Team Foundation Server (TFS). While it mentions aspects of application lifecycle management, such as editing lifecycle templates and navigating work items, it lacks a comprehensive discussion on the broader methodologies, practices, and tools involved in ALM. The focus is more on the specific application and its functionalities rather than on the overall lifecycle management principles.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -55,12 +58,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:20",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and setup of the TFS Sticky Buddy application, including system requirements and initial configuration steps, but it is primarily focused on the application's features and usage.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content provides some information on installation and configuration aspects, such as system requirements and the need to set up a Team Foundation Server using Team Explorer. However, it lacks detailed step-by-step installation procedures or configuration best practices, which are crucial for a higher confidence score in this category. The discussion is more focused on the application's features and usage rather than a comprehensive guide on installation and configuration.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -292,7 +298,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T10:47:01",
+    "calculated_at": "2025-03-15T07:33:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -300,7 +306,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the TFS Sticky Buddy application, which is related to Team Foundation Server (TFS), a component of Azure DevOps. However, it lacks a direct focus on Azure DevOps as a suite of tools and does not delve into CI/CD practices, agile methodologies, or best practices associated with Azure DevOps. The discussion is more technical and specific to the application rather than the broader functionalities of Azure DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -379,7 +385,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:15:50",
+    "calculated_at": "2025-03-15T07:33:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -387,7 +393,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the TFS Sticky Buddy application, detailing its features and usage rather than discussing system configuration processes or methodologies. While it mentions the need to set up a Team Foundation Server, this is a brief mention and does not delve into the best practices or strategies for system configuration. The overall discussion lacks depth in terms of configuration management or optimisation strategies, leading to a low confidence score in alignment with the System Configuration category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -571,12 +577,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS Sticky Buddy, which is related to Team Foundation Server and work item management, indicative of collaboration within Agile environments, but it lacks a broader focus on collaboration tools overall.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the TFS Sticky Buddy application, which is related to Team Foundation Server (TFS) and work item management. However, it primarily focuses on the technical aspects of the application and its functionalities rather than on collaboration tools as a category. While it mentions navigating work items and selecting queries, it lacks a broader discussion on enhancing communication and coordination within Agile teams, which is central to the category of Collaboration Tools.",
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
@@ -853,7 +862,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T17:05:55",
+    "calculated_at": "2025-03-15T07:33:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -861,7 +870,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the TFS Sticky Buddy application, which is a tool for interacting with Team Foundation Server (TFS). While it mentions TFS and work items, the focus is more on the application features and usage rather than on modern source control practices, methodologies, or strategies. The discussion lacks depth in version control concepts and does not cover key topics such as branching strategies, code review processes, or best practices for commit messages.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -901,12 +910,15 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses TFS Work Items and their display, which is related to Azure Boards but does not focus specifically on Azure Boards functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses TFS (Team Foundation Server) and its work items, which are related to Azure Boards. However, it primarily focuses on a specific application (TFS Sticky Buddy) rather than exploring Azure Boards' functionalities or best practices in managing Agile projects. The mention of work items and navigation through TFS does not sufficiently align with the core themes of Azure Boards, and the depth of discussion is limited to the application's features rather than a comprehensive overview of Azure Boards.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -964,12 +976,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Sticky Buddy application and its features, which relates to software engineering practices, particularly in the context of using TFS and WPF. However, it primarily focuses on application usage and installation rather than deep technical practices, making technical mastery a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the release and functionality of the TFS Sticky Buddy application, with some technical details about its implementation in VB.NET and WPF. However, it lacks a strong emphasis on broader software craftsmanship principles, best practices, or methodologies that contribute to technical mastery. While it does touch on aspects of software development, such as editing templates and system requirements, these are more about usage and setup rather than a deep exploration of technical excellence.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1099,11 +1114,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the TFS Sticky Buddy application related to Team Foundation Server, which operates within the Windows environment and mentions usage with Visual Studio and .NET Framework, but the primary focus is on the application and its features rather than Windows operating system management or installation.",
+    "final_score": 41.0,
+    "reasoning": "The content discusses the TFS Sticky Buddy application, which is built using technologies that run on Windows, such as VB.NET and WPF. However, the primary focus is on the application itself and its functionalities rather than on Windows as an operating system. While there are mentions of system requirements that include .NET Framework and Visual Studio, the discussion does not delve into installation, configuration, or troubleshooting of the Windows OS itself. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Windows category.",
     "level": "Tertiary"
   },
   "Lean Principles": {
@@ -1198,11 +1216,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Sticky Buddy application, which is a working software tool for visualizing and managing TFS Work Items, but focuses more on the application details rather than broader aspects of working software principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily describes the TFS Sticky Buddy application, detailing its features and usage. While it mentions the application as a working software solution, it lacks a thorough discussion on the principles of working software, such as Agile methodologies or customer feedback integration. The focus is more on the technical aspects of the application rather than on delivering functional software that meets user needs.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -1243,7 +1264,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T12:12:43",
+    "calculated_at": "2025-03-15T07:33:12",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1251,7 +1272,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content mentions a 'full release' of the TFS Sticky Buddy application, which aligns with the concept of release management. However, it lacks detailed discussion on release planning, scheduling, or coordination between teams, which are key aspects of the category. The focus is more on the application features and usage rather than the strategies and practices of release management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -1408,7 +1429,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:00:08",
+    "calculated_at": "2025-03-15T07:33:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1416,6 +1437,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a software application related to Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, or events. While it touches on work items and project management, it lacks a direct focus on Scrum methodologies or frameworks, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

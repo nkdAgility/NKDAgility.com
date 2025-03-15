@@ -29,12 +29,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - People and Process
-- Agile Leadership
-- Coaching
-- Organisational Agility
-- Pragmatic Thinking
-- Agile Project Management
+- Agile Transformation
 resourceTypes:
 - video
 categories:

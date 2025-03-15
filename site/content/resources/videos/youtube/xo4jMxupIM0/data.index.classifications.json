@@ -76,7 +76,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:20:27",
+    "calculated_at": "2025-03-14T20:55:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -84,7 +84,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily discusses the role of Scrum Masters and immersive learning experiences, which are more focused on training and implementation rather than the strategic aspects of product management. While it touches on concepts like continuous feedback loops and collaboration, it lacks a direct focus on product management methodologies or frameworks. The discussion is more about personal experiences and training rather than aligning customer needs with business objectives.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -196,12 +196,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Scrum training and collaboration, which relates to improving operational practices through feedback loops and problem-solving in organizations, although it primarily focuses on training rather than direct operational strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:56:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the practical application of Scrum methodologies and the concept of double-loop learning, which aligns with continuous improvement and operational excellence. However, while it touches on operational practices, it primarily focuses on the immersive learning experience and personal development rather than specific techniques or strategies for enhancing operational efficiency in an organisational context.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -316,25 +319,28 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:40:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of learning and collaboration in the context of Scrum Master training, focusing on improving practices and understanding organizational challenges. While it touches upon strategic elements in the application of Scrum, it primarily centers on training experiences rather than strategic alignment or execution.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the concept of double-loop learning and its application within the context of Scrum, which aligns with strategic approaches in Agile. It mentions the importance of implementing new strategies, reflecting on their effectiveness, and collaborating with peers, which are key elements of strategic alignment and continuous improvement. However, while it touches on strategic themes, the primary focus is more on the learning experience and practical application rather than a comprehensive discussion of strategy itself. Therefore, the confidence score reflects a moderate alignment with the Strategy category.",
     "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T23:35:33",
+    "calculated_at": "2025-03-14T20:55:40",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses Scrum and the importance of feedback loops and collaboration, but it is primarily focused on the Scrum Master training experience rather than the core principles of Beta Codex or its foundational theories.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-11T16:19:37",
+    "calculated_at": "2025-03-14T20:55:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -342,15 +348,18 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses double-loop learning and collaboration in the context of Scrum, which indirectly relates to customer feedback loops. However, it lacks explicit focus on customer feedback mechanisms and does not provide detailed strategies for integrating feedback into product development. The mention of continuous feedback loops is vague and not explored in depth, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:56:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses immersive learning experiences for Scrum Masters that emphasize collaboration, feedback loops, and the role of a facilitator in enabling personal and team development, which aligns well with coaching practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the immersive learning experience for Scrum Masters, focusing on double-loop learning, collaboration, and reflection, which aligns with coaching principles. However, while it touches on coaching aspects, it primarily centres on Scrum practices and training rather than a dedicated exploration of coaching techniques or methodologies.",
     "level": "Secondary"
   },
   "Scaling Kanban": {
@@ -436,12 +445,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of collaboration and learning in the context of a Scrum Master training class, which relates to mentoring and professional growth. However, it is primarily focused on immersive learning experiences rather than mentoring itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the immersive learning experience for Scrum Masters, which includes elements of mentoring through collaboration, reflection, and challenging assumptions. It highlights the importance of diverse perspectives and continuous improvement, aligning well with mentoring principles. However, while it touches on mentoring aspects, it primarily focuses on the learning experience rather than providing direct guidance or coaching techniques, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -463,20 +475,26 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:56:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of collaboration among Scrum Masters and how immersive learning facilitates team dynamics. It emphasizes the shared experiences and perspectives, which align well with the themes of teamwork and collaboration in Agile environments.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the importance of collaboration and diverse perspectives within the context of Scrum training. It highlights techniques for improving team communication, the role of shared ownership in learning, and the value of collective problem-solving, which aligns well with the core themes of the Team Collaboration category. The depth of discussion is significant, as it provides practical examples and insights into how collaboration can enhance Scrum practices, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T20:55:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses aspects of double-loop learning, continuous feedback loops, and collaboration among Scrum Masters, which aligns with the learning theme. However, it primarily focuses on training and experiences in Scrum, making metrics and learning a secondary theme rather than the primary focus.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses double-loop learning, which aligns with the iterative learning cycle and continuous improvement principles central to the Metrics and Learning category. It emphasises practical application, reflection, and collaboration, which are key aspects of evidence-based decision-making. However, while it touches on these themes, it does not delve deeply into specific metrics or data analysis techniques, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -490,20 +508,26 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of learning and collaboration in the context of Scrum, which implies the application of evidence-based practices, but it primarily focuses on personal experiences and perspectives rather than directly on evidence-based leadership principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses double-loop learning and the importance of reflection and collaboration in the context of Scrum Master training. However, it lacks explicit references to evidence-based leadership principles or empirical data that inform leadership decisions. While it touches on themes of continuous improvement and collaboration, it does not provide a strong focus on data-driven approaches or metrics that are central to evidence-based leadership.",
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses collaborative learning and double-loop learning in the context of Scrum Master training, touching on the interpretation of organizational challenges and decision-making processes. However, it does not focus primarily on sensemaking or the detailed frameworks and principles involved.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses double-loop learning and the importance of reflection and collaboration in Scrum practices, which aligns with sensemaking principles. However, it primarily focuses on Scrum training and immersive learning experiences rather than explicitly addressing sensemaking in complex environments. The discussion of diverse perspectives and challenging assumptions hints at sensemaking but lacks depth in exploring frameworks or models specific to the category.",
     "level": "Tertiary"
   },
   "Portfolio Management": {
@@ -580,12 +604,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses collaboration, learning, and applying feedback within organisational contexts, which relates to team dynamics and employee engagement. However, the primary focus is on Scrum methodologies rather than the psychological aspects of organisational behaviour.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices and immersive learning experiences rather than directly addressing psychological principles or theories related to organisational behaviour. While it touches on collaboration and reflection, which are relevant to team dynamics, it lacks a thorough exploration of core psychological concepts such as motivation, leadership styles, or organisational culture. The discussion is more about practical application in a Scrum context than about the psychological aspects that influence organisational performance.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -610,12 +637,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content focuses on the immersive learning experience for Scrum Masters, discussing the application of Scrum in organizational contexts, which relates to practical techniques. However, it does not primarily delve into specific tools or methodologies that fit neatly into the defined topics for this category.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:56:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the practical application of Scrum methodologies through immersive training, which aligns with the category's focus on practical techniques. It mentions specific practices like double-loop learning and collaboration, but lacks direct references to specific tools or frameworks beyond Scrum. The depth of discussion on applying these techniques in real-world scenarios is substantial, but it does not fully explore a range of tools or methodologies, which slightly limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -628,21 +658,27 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:56:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on the role of the Scrum Master in facilitating learning and collaboration in Scrum training environments.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master and the immersive training experience designed to enhance their skills. It covers key themes such as collaboration, continuous improvement, and practical application of Scrum principles, which align well with the responsibilities of a Scrum Master. The depth of discussion is significant, providing insights into double-loop learning and the importance of diverse perspectives in Scrum practices. Overall, the content is highly relevant to the Scrum Master category.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum Master training and immersive learning experiences which focus on collaboration, continuous feedback, and addressing organisational challenges, aligning somewhat with the principles of enterprise agility, but it primarily centers on team-level practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and the immersive learning experience related to Scrum practices. While it touches on concepts like collaboration and continuous improvement, which are relevant to enterprise agility, it lacks a direct discussion on organisational structures, frameworks for scaling agility, or broader implications of agility on organisational performance. The emphasis is more on team-level practices rather than the organisational context required for a higher confidence score in enterprise agility.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -691,29 +727,38 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:55:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on collaboration and feedback loops, which are relevant to accountability, but the primary focus is on immersive learning and personal improvement within Scrum roles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses double-loop learning and collaboration, which are related to accountability and reflection, but it does not explicitly address transparency or accountability as primary themes. The focus is more on personal development and immersive learning rather than on fostering an environment of openness and responsibility within Agile teams.",
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to feedback loops and validating assumptions, which align with hypothesis-driven development but primarily focuses on Scrum Master training and learning experiences rather than a clear focus on hypothesis formulation and experimentation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses double-loop learning and the iterative process of trying new ideas, reflecting on them, and collaborating with peers. However, it lacks explicit mentions of hypothesis formulation or empirical testing, which are central to hypothesis-driven development. While there is some alignment with the iterative nature of experimentation, the focus remains primarily on Scrum practices and collaborative learning rather than on hypothesis-driven methodologies.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the Scrum Master experience and immersive learning, but it includes elements related to collaboration, team dynamics, and the relationship between organizational context and Scrum practices, making sociotechnical aspects a significant but secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of double-loop learning and collaboration in the context of Scrum Master training, which touches on the interplay between social and technical aspects. However, it primarily focuses on personal experiences and training methods rather than a comprehensive exploration of sociotechnical systems. While there are mentions of organisational challenges and collaboration, the depth of discussion on the broader implications for organisational structure and culture is limited.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -736,20 +781,26 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:57:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of continuous feedback and collaboration in relation to Scrum, which touches on change management principles within Agile contexts, but primarily focuses on training and development experiences rather than a comprehensive exploration of change management itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses double-loop learning and its application in Scrum, which aligns with the principles of effective change management. However, while it touches on themes of continuous improvement and collaboration, it primarily focuses on Scrum practices rather than broader change management strategies. The depth of discussion on change management concepts is moderate, as it lacks specific strategies for engaging stakeholders or managing resistance, which are key topics in the Change Management category.",
     "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses collaboration and the role of a Scrum Master, which ties into the Scrum values of Openness and Respect. However, it primarily focuses on immersive learning experiences rather than directly addressing Scrum Values themselves.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of collaboration and reflection in the context of Scrum Master training, which aligns with the Scrum Values of Openness and Respect. However, it does not explicitly mention all Scrum Values or delve deeply into each one, focusing more on the training process and double-loop learning rather than the values themselves.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -781,20 +832,26 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning methodologies and collaboration in Scrum Master training, which are related to improving organizational agility and processes. However, it does not explicitly focus on digital technologies or strategic digital transformation efforts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the immersive learning experience for Scrum Masters, focusing on double-loop learning and collaboration. While it touches on themes of improvement and adaptation, it lacks a direct focus on digital transformation or the strategic use of digital technologies. The discussion is more centred on Scrum practices and personal development rather than the broader implications of digital transformation in business contexts.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T20:56:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "Content focuses on Scrum and the role of Scrum Masters in facilitating feedback loops and collaboration, making Agile principles a major theme.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and the immersive learning experience related to Scrum practices. While it discusses concepts like double-loop learning and collaboration, which are relevant to Agile principles, it does not explicitly address Agile Product Management topics such as product backlog prioritisation or stakeholder engagement. The discussion is more centred on Scrum implementation rather than product management strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -871,20 +928,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mainly focuses on the role of a Scrum Master and immersive learning experiences related to Scrum, making it a significant but secondary theme in the context of Scrum product development practices.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the immersive learning experience related to Scrum practices, which aligns with the category. However, it primarily focuses on personal experiences and learning rather than specific Scrum product development processes, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses collaboration and continuous feedback loops, which are important in self-organisation, but the primary focus seems to be on the immersive learning experience rather than explicit principles or techniques of self-organisation.",
+    "calculated_at": "2025-03-13T15:10:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the principles of double-loop learning and collaboration, which are aligned with self-organisation in Agile. It mentions the importance of reflecting on practices and engaging with diverse perspectives, which supports autonomy and accountability. However, while it touches on self-organisation concepts, it primarily focuses on the immersive training experience rather than providing a comprehensive exploration of self-organisation principles.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -898,11 +961,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content touches on continuous feedback and improving practices within organizations, it primarily focuses on the Scrum Master journey and collaborative learning rather than explicitly measuring or enhancing innovation capabilities.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses double-loop learning and its application in Scrum, which touches on continuous improvement and adaptability. However, it lacks a direct focus on the measurement and enhancement of innovation capabilities as defined in the A2I category. While it mentions collaboration and reflection, it does not provide frameworks, metrics, or evidence-based management principles that are central to the A2I theme.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -961,20 +1027,23 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T23:35:33",
+    "calculated_at": "2025-03-14T20:55:40",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses aspects of continuous feedback and learning, which align with Lean principles, but primarily focuses on the Scrum Master experience and immersive training rather than Lean Product Development specifically.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and iteration in the context of improving software development practices, focusing on collaboration and customer feedback, but is primarily centered on enhancing the Scrum Master role and training rather than directly on working software itself.",
+    "calculated_at": "2025-03-14T20:55:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the practical application of Scrum principles and the importance of collaboration and reflection in improving practices, which aligns with the iterative development aspect of working software. However, it lacks direct mentions of working software itself and does not delve deeply into software quality or customer feedback mechanisms, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
@@ -997,11 +1066,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Scrum and collaboration which are relevant to product delivery, but the focus is primarily on immersive training and the experiences of Scrum Masters, making product delivery a secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of Scrum and immersive learning in enhancing the effectiveness of Scrum Masters, which aligns with product delivery methodologies. It mentions iterative processes and collaboration, key aspects of Agile methodologies. However, while it touches on relevant themes, it lacks a direct focus on the end-to-end product delivery process and does not delve deeply into deployment or testing practices, which limits its overall alignment with the category.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -1015,20 +1087,26 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:32:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of collaborative learning and continuous improvement in the context of Scrum training, aligning it with Agile principles. However, the primary focus is on a specific training format rather than the broader Agile philosophy itself.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses double-loop learning and its application in the context of Scrum Master training, which aligns with Agile principles of continuous improvement and collaboration. However, it primarily focuses on specific Scrum practices rather than the broader Agile philosophy, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the role of Scrum Masters, immersive learning experiences, and feedback loops related to software development practices; however, it mainly focuses on training and collaboration rather than core software development methodologies.",
+    "calculated_at": "2025-03-14T20:56:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on Scrum, a key Agile framework within software development, discussing its implementation and the importance of collaborative learning. It explicitly mentions Scrum practices and the immersive training experience, aligning well with the core themes of software development methodologies. The depth of discussion on double-loop learning and its application in real-world scenarios provides substantial insight into the development process, although it could benefit from more technical details on coding practices or CI/CD. Overall, the content is highly relevant to the Software Development category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -1051,21 +1129,27 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:56:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the collaborative learning experiences in a Scrum Master training context, focusing on enhancing team dynamics, continuous improvement, and applying Agile methodologies effectively within teams.",
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the role of immersive learning in enhancing Scrum practices, which directly relates to team performance. It highlights collaboration, reflection, and the importance of diverse perspectives, all of which are key themes in maximising team effectiveness. The depth of discussion on double-loop learning and its application in real-world scenarios further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 60,
-    "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses the collaborative learning experience of Scrum Masters and the importance of continuous feedback, which relates to value delivery. However, it primarily focuses on immersive training rather than explicit strategies for maximizing customer value within Agile frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:56:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the immersive learning experience for Scrum Masters, focusing on double-loop learning and collaboration, which aligns with the principles of iterative development and continuous improvement. However, while it touches on aspects of value delivery, such as collaboration and reflection, it does not explicitly address strategies for maximising customer value or continuous delivery practices, which are central to the category. The depth of discussion on these topics is moderate, leading to a confidence score that reflects a strong but not primary focus on value delivery.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1096,11 +1180,14 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses collaboration in the context of a Scrum Master training, indicating a theme of collaboration and learning from others, but does not primarily focus on specific collaboration tools or platforms.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses collaboration in the context of Scrum Master training and double-loop learning, which indirectly relates to collaboration tools. However, it does not explicitly mention any specific collaboration tools or platforms, nor does it provide a detailed exploration of their features or integration with Agile methodologies. The focus is more on the learning experience and the importance of collaboration among participants rather than on tools that enhance communication and coordination within Agile teams.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
@@ -1138,12 +1225,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning and collaboration in the context of Scrum, which has elements of evidence-based practices, but is primarily focused on training experiences rather than a central discussion on Evidence-Based Management.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses double-loop learning and the immersive training experience for Scrum Masters, which aligns with the principles of continuous improvement and reflection. However, it lacks explicit references to Evidence-Based Management principles, empirical data, or metrics that guide decision-making. The focus is more on personal experiences and collaborative learning rather than on data-driven management practices.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1210,11 +1300,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:55:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the immersive training for Scrum Masters, emphasizing Scrum practices, principles of continuous feedback, and collaborative learning within the context of Scrum, which aligns with the Agile Frameworks category.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, discussing the role of a Scrum Master and the immersive learning experience related to Scrum practices. It explicitly mentions Scrum multiple times and explores concepts like double-loop learning within the context of Scrum. The discussion aligns well with Agile principles, particularly around continuous improvement and collaboration. However, while it provides substantial detail on the Scrum framework, it does not delve deeply into comparative analysis with other Agile frameworks or broader Agile principles, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Frequent Releases": {
@@ -1246,11 +1339,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses aspects of continuous feedback loops, collaboration, and the iterative learning process which aligns with empirical process control principles. However, it primarily focuses on the PSM immersive class experience and may not be entirely centered on empirical process control.",
+    "calculated_at": "2025-03-14T20:55:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses double-loop learning, which aligns with the principles of empirical process control by emphasising reflection and adaptation based on real-world experiences. It highlights the importance of collaboration and diverse perspectives, which are crucial for effective inspection and continuous improvement. However, while it touches on these themes, it does not explicitly focus on empirical process control as a primary topic, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1282,11 +1378,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-14T15:18:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content includes discussions on collaboration, understanding organizational challenges, and the role of Scrum in revealing organizational issues, indicating a secondary theme related to organizational culture.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of double-loop learning and collaboration in the context of Scrum, which indirectly relates to organisational culture. It highlights how diverse perspectives and collaborative learning can influence Scrum practices and organisational dynamics. However, the primary focus is on Scrum methodologies rather than a direct exploration of organisational culture itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Forecasting": {
@@ -1318,11 +1417,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses immersive training for Scrum Masters and the importance of collaboration and learning in Agile settings, but does not directly address broader strategic aspects of Agile implementation or organizational alignment.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the immersive learning experience for Scrum Masters, focusing on double-loop learning and collaboration, which aligns with Agile principles. However, it primarily centres on practical Scrum practices rather than broader Agile strategy discussions, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Working Agreements": {
@@ -1354,12 +1456,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:35:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:56:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to double-loop learning, continuous feedback loops, and the challenges Scrum Masters face in fostering Agile practices within organisations, which are relevant to organisational agility, but it's primarily focused on the training aspect rather than directly exploring broad strategies for agility.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses double-loop learning and its application in Scrum, which aligns with the principles of continuous improvement and adaptability. It highlights the importance of collaboration and diverse perspectives, which are key to fostering organisational agility. However, while it touches on these themes, the primary focus remains on Scrum practices rather than broader organisational strategies, slightly limiting its depth in the context of organisational agility.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",

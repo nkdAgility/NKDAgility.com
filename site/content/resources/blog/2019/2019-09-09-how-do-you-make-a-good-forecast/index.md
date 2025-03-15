@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/blog/how-do-you-make-a-good-forecast
 tags:
+- Agile Project Management
+- Pragmatic Thinking
 - Events and Presentations
+- Throughput
 - People and Process
 - Metrics and Learning
-- Throughput
-- Agile Product Operating Model
-- Agile Project Management
-- Professional Scrum
+- Software Development
+- Forecasting
 - Scrum Product Development
-- Agile Frameworks
-- Agile Planning
+- Agile Product Management
 categories:
 - Scrum
 - Social Technologies

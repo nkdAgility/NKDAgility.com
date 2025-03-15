@@ -29,14 +29,10 @@ aliasesArchive:
 tags:
 - Agile Project Management
 - Software Development
-- Organisational Change
 - Professional Scrum
 - People and Process
 - Scrum Master
-- Agile Frameworks
 - Events and Presentations
-- Agile Transformation
-- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

@@ -292,7 +292,7 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-11T09:52:13",
+    "calculated_at": "2025-03-14T18:07:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -300,7 +300,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on metrics and decision-making, which are relevant to organisational agility, but lacks a direct focus on agile methodologies or cultural shifts. The discussion is more tactical and does not delve deeply into the principles or practices that foster organisational agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -313,7 +313,7 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-03-11T11:15:19",
+    "calculated_at": "2025-03-14T18:07:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -321,7 +321,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the importance of metrics and evidence-based management, which relates to learning from data and making informed decisions. However, it lacks a deeper exploration of methodologies or processes that foster innovation and continuous learning, making it more focused on tactical aspects rather than the broader themes of discovery and learning.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -634,12 +634,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:52:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and evidence-based management as a means to make decisions, which relates to empirical process control, but it does not focus primarily on Agile principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:00:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses evidence-based management, which aligns closely with empirical process control principles, particularly in the context of Agile methodologies. It emphasises the importance of defining outcomes, selecting metrics, and making data-driven decisions, which are core aspects of empirical process control. However, while it touches on Agile practices, it does not delve deeply into specific Agile frameworks or case studies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -652,12 +655,15 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-13T16:31:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses evidence-based management and the importance of metrics for measuring progress, but it does not explicitly focus on hypothesis-driven experimentation, nor does it delve into specific techniques or practices related to experimentation in Agile workflows.",
-    "level": "Quaternary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses evidence-based management and the importance of metrics in decision-making, which aligns with the principles of experimentation. However, it lacks a direct focus on hypothesis-driven approaches and specific experimentation techniques like A/B testing. The discussion is more about metrics and outcomes rather than systematic testing of ideas, which limits its depth in the context of experimentation.",
+    "level": "Tertiary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -697,12 +703,15 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content touches on metrics and decision-making which could relate to trend analysis, it primarily discusses evidence-based management rather than focusing on identifying and analyzing trends within Agile, DevOps, or business agility frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:07:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses evidence-based management and the importance of metrics in decision-making, which aligns with the broader themes of trend analysis. However, it lacks a direct focus on specific trends within Agile, DevOps, or business agility frameworks. While it touches on the analysis of data and metrics, it does not provide a comprehensive examination of emerging trends or shifts in practices, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -763,11 +772,14 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:07:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on metrics for measuring progress towards outcomes, which aligns with product strategy in terms of measuring success, but lacks a strong focus on the broader strategic elements such as vision formulation or market analysis.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of defining outcomes and selecting metrics, which aligns with customer-centric approaches and metrics for measuring product success. However, it primarily focuses on evidence-based management and decision-making processes rather than explicitly addressing product strategy methodologies or frameworks. The depth of discussion on metrics and outcomes is substantial, but the primary focus is not strictly on product strategy.",
     "level": "Tertiary"
   },
   "Scrum Team": {
@@ -799,12 +811,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:07:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics and evidence-based management related to measuring operational progress, which is a significant aspect of operational practices, but it does not primarily focus on enhancing operational efficiency within Agile, DevOps, or Lean frameworks.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses evidence-based management and the importance of metrics in achieving project outcomes, which aligns with operational practices. However, while it touches on relevant concepts, it lacks a deep focus on specific operational techniques or methodologies within Agile, DevOps, or Lean frameworks. The discussion is more about general project management rather than strictly operational efficiency.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -826,12 +841,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management and metrics for measuring outcomes, which relates to Agile principles about adaptability and measuring success. However, the primary focus seems more tactical than strategic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:07:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of defining outcomes and metrics, which aligns with Agile principles of continuous value delivery and adaptability. However, while it touches on evidence-based management in the context of Agile practices, it lacks a direct focus on broader Agile strategy discussions, such as organisational alignment or leadership roles in fostering an Agile culture.",
+    "level": "Secondary"
   },
   "Software Developers": {
     "category": "Software Developers",
@@ -853,12 +871,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly discusses setting outcomes and metrics related to those outcomes, which aligns with measuring strategic objectives, but it primarily focuses on tactical applications rather than long-term strategic goal alignment.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:23:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of defining outcomes and aligning them with broader organisational objectives, which aligns with the concept of strategic goals. It mentions metrics and evidence-based management, indicating a focus on measuring progress towards these goals. However, while it touches on strategic alignment, the primary focus is more on operational metrics and personal experiences rather than a deep exploration of long-term strategic objectives.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -925,12 +946,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:07:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses evidence-based management and the importance of metrics for measuring progress towards outcomes, which relates to innovation practices, but it is primarily focused on project success rather than directly on the ability to innovate.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in defining outcomes and metrics, which aligns with the Ability to Innovate category. However, while it touches on innovation through data-driven decision-making, it lacks a comprehensive exploration of frameworks, metrics specifically for measuring innovation, and strategies for fostering a culture of innovation. The focus is more on project success and metrics rather than directly enhancing innovation capabilities.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -952,12 +976,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics for measuring progress toward outcomes, which can relate to team performance, but it does not directly focus on team dynamics, collaboration, or Agile practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:07:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses metrics and their role in measuring team performance, which aligns with the category's focus on enhancing team dynamics and productivity. It mentions agile practices and the importance of defining outcomes, which are relevant to team performance. However, the primary focus is on evidence-based management rather than directly on team collaboration or dynamics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -997,20 +1024,26 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content mentions metrics and evidence-based management, which are relevant to project management, but does not primarily focus on agile methodologies or principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:07:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses evidence-based management and metrics, which are relevant to Agile Project Management, particularly in the context of iterative development and decision-making. However, it lacks explicit references to Agile principles, frameworks like Scrum or Kanban, and does not delve deeply into the roles of Agile team members. While it touches on agile practices, it does not focus primarily on Agile Project Management, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:07:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and how they relate to measuring progress towards outcomes, which aligns with the themes of hypothesis formulation and validation, although it does not deeply engage with experimentation or hypothesis testing.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses evidence-based management and the importance of defining outcomes and metrics, which aligns with some principles of hypothesis-driven development. However, it lacks explicit mentions of hypothesis formulation, experimentation, and the iterative testing process central to hypothesis-driven development. The focus is more on metrics and decision-making rather than on the empirical testing of hypotheses.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -1069,21 +1102,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses evidence-based management principles and their application to decision-making, focusing on metrics for measuring progress towards outcomes, which aligns well with structured decision-making methodologies.",
+    "calculated_at": "2025-03-14T15:09:27",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses evidence-based management and its role in decision-making, aligning closely with the category's core themes. It provides detailed insights into defining outcomes, choosing metrics, and the iterative process of decision-making based on data analysis. The depth of discussion on metrics and their impact on decision-making further supports a high confidence score.",
     "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:07:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Evidence-Based Management, which relates to software project management and may influence software development practices. However, it does not primarily focus on software engineering methodologies or techniques.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses evidence-based management, which is relevant to software development practices, particularly in Agile methodologies. It touches on defining outcomes and metrics, which are important in project management within software development. However, the focus is more on general project management principles rather than specific software engineering practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1141,11 +1180,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses measuring progress towards outcomes, which is relevant to Agile Planning methodologies, but it does not primarily focus on Agile Planning practices.",
+    "calculated_at": "2025-03-14T14:49:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of defining outcomes and metrics, which aligns with Agile Planning principles. However, it primarily focuses on evidence-based management rather than specific Agile methodologies or practices. While there are mentions of agile practices, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -1186,11 +1228,14 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:07:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management and its application to decision-making, which relates to validating assumptions in product development, but it does not primarily focus on product validation practices or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses evidence-based management and the importance of defining outcomes and metrics, which aligns with the principles of validating product ideas through data and user feedback. However, it lacks a direct focus on user testing, market fit, or customer feedback loops, which are core to the Product Validation category. The discussion is more about general project management and decision-making rather than specific methodologies for validating product concepts with users.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
@@ -1204,11 +1249,14 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:07:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics for measuring progress and decision-making, which are relevant to portfolio management, but it primarily focuses on evidence-based management in a more general context.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of defining outcomes and metrics, which aligns with the strategic alignment and performance measurement aspects of portfolio management. However, it primarily focuses on evidence-based management and project-level metrics rather than explicitly addressing portfolio management practices or frameworks. While it touches on relevant themes, it lacks depth in discussing portfolio-specific methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
@@ -1231,12 +1279,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and evidence-based management in relation to measuring progress and informing decisions, which are relevant to strategic approaches within Agile frameworks, but the primary focus seems to be more on tactical aspects rather than a clear strategic alignment.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:23:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of defining outcomes and selecting metrics, which aligns with strategic planning in Agile environments. It emphasises evidence-based management, a concept relevant to optimising delivery processes and enhancing team performance. The depth of discussion on metrics and their role in decision-making reflects a strong understanding of strategic alignment, although it lacks explicit references to Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -1249,12 +1300,12 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T13:52:11",
+    "calculated_at": "2025-03-14T18:07:13",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "Content discusses metrics and measuring progress towards outcomes, suggesting a connection to forecasting, but does not primarily focus on forecasting methodologies within Agile and Scrum.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -1303,11 +1354,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T13:52:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:07:21",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content focuses on practical, evidence-based management practices to enhance decision-making in project contexts, which aligns with pragmatic approaches in Agile and Scrum frameworks.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses evidence-based management, which is a practical approach to decision-making in project management. It highlights the importance of defining outcomes, selecting appropriate metrics, and iterating based on data analysis, all of which align closely with pragmatic thinking principles. The author shares personal experiences and practical strategies, demonstrating a strong alignment with real-world applications in Agile contexts. The depth of discussion on metrics and decision-making processes further supports a high confidence score.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -1429,7 +1483,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-06T14:47:34",
+    "calculated_at": "2025-03-14T18:07:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1437,6 +1491,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on metrics and decision-making, which can relate to Scrum's emphasis on empirical process control and continuous improvement. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve deeply into Scrum principles. The focus is more on evidence-based management rather than Scrum itself, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

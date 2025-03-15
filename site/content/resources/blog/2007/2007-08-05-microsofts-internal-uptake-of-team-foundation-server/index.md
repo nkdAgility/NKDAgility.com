@@ -28,10 +28,7 @@ aliasesArchive:
 - /resources/blog/microsofts-internal-uptake-of-team-foundation-server
 tags:
 - News and Reviews
-- Products and Books
-categories:
-- DevOps
-- Engineering Excellence
+categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 
 ---

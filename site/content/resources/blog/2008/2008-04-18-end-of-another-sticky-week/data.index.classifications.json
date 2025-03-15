@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features related to TFS (Team Foundation Server) and mentions ALM, indicating a connection to application lifecycle management, but the primary focus is on specific project updates rather than a comprehensive discussion of ALM principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions TFS (Team Foundation Server) and its lifecycle, which relates to Application Lifecycle Management. However, it primarily focuses on specific features and improvements of a project rather than discussing the broader methodologies, practices, or tools involved in managing the entire application lifecycle. The discussion lacks depth and does not cover key topics such as governance, metrics, or risk management, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -55,11 +58,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses features and improvements related to the TFS Sticky Buddy project, including the need to download and build the source code, which indicates a focus on installation and configuration. However, the primary focus appears to be on the project's features rather than detailed installation or configuration instructions.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions the need to download the source code and build it, which relates to installation. However, it lacks detailed step-by-step instructions or configuration best practices, and the primary focus is on project updates rather than installation and configuration processes.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -100,11 +106,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the TFS Sticky Buddy project and its features, which relates to tooling in Agile and DevOps, but it is primarily focused on personal experiences and project updates rather than a comprehensive exploration of practical techniques.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the TFS Sticky Buddy project, which is a tool related to Team Foundation Server (TFS). It mentions specific features and improvements of the tool, such as connecting to external TFS servers and adding skins for different TFS life cycles. However, the discussion lacks depth in terms of methodologies or frameworks that enhance Agile and DevOps practices. While it does touch on practical tooling, it does not provide a comprehensive exploration of techniques or best practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -172,21 +181,27 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses updates and features of the TFS Sticky Buddy project, which relates to tools in the Agile and DevOps space, but it primarily focuses on personal experiences and technical details rather than broader industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a specific project (TFS Sticky Buddy) and its features, which does not align closely with the broader themes of industry news or reviews. While it mentions improvements and upcoming features, it lacks a comprehensive analysis or review of tools and practices in Agile or DevOps. The focus is more on personal project updates rather than industry-wide insights.",
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improvements and features related to a software project, indicating a focus on product delivery, but it is primarily about the specific project rather than broader methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific project and its upcoming features, which relates to product delivery. However, it lacks a detailed exploration of methodologies, practices, or frameworks that are central to the category. The mention of improvements and features is more focused on the product itself rather than the delivery process, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -427,7 +442,7 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-11T17:05:59",
+    "calculated_at": "2025-03-15T07:33:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -435,7 +450,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the TFS Sticky Buddy project and its features, but it lacks a direct focus on core engineering practices such as clean code, TDD, or CI/CD. While it touches on aspects of software development, it does not delve into the principles or methodologies that underpin Agile development, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -574,7 +589,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T15:12:32",
+    "calculated_at": "2025-03-15T07:33:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -582,7 +597,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a specific project related to TFS (Team Foundation Server) and its features, which is relevant to software development. However, it lacks explicit discussions on Agile methodologies, DevOps principles, or modern engineering practices. While it mentions improvements and features that could be of interest to developers, it does not delve into best practices or the broader context of developer roles within Agile or DevOps frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -850,12 +865,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS (Team Foundation Server) project development and features, which relates to source control but is primarily focused on specific project updates rather than best practices or methodologies in modern source control.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific project related to TFS (Team Foundation Server) and mentions features and improvements related to source control. However, it lacks a comprehensive exploration of modern source control practices, methodologies, or strategies. The focus is more on project updates and features rather than best practices or collaboration workflows, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -961,7 +979,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T12:12:45",
+    "calculated_at": "2025-03-15T07:33:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -969,7 +987,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the features and improvements of the TFS Sticky Buddy project, including the ability to connect to external TFS servers and add skins for different TFS life cycles. While it touches on technical aspects, such as building the source code and project enhancements, it lacks a deeper exploration of software craftsmanship principles, best practices, or methodologies that are central to the 'Technical Mastery' category. The focus is more on project updates rather than a comprehensive discussion on technical excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1099,12 +1117,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses a project related to TFS (Team Foundation Server) which operates within the Windows environment, suggesting relevance to Windows, although the primary focus is on the TFS Sticky Buddy project rather than on Windows as an operating system itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions TFS (Team Foundation Server) and discusses a project related to it, which may run on Windows. However, it does not explicitly focus on Windows as an operating system or its features. The discussion is more about a specific application and its functionalities rather than the Windows environment itself. Therefore, while there are some relevant mentions, the overall alignment and depth of discussion regarding Windows are limited.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1198,12 +1219,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:33:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features and improvements of a software project (TFS Sticky Buddy), which aligns with the notion of working software, but the focus is more on the specific project rather than broader themes or principles of working software.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses improvements and features of the TFS Sticky Buddy project, which indicates a focus on delivering functional software. However, it lacks explicit discussions on Agile principles, customer feedback, or best practices for ensuring software quality. The mention of features and improvements suggests some alignment with the concept of working software, but the depth of discussion is limited to specific functionalities without broader context.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1408,7 +1432,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:00:11",
+    "calculated_at": "2025-03-15T07:33:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1416,6 +1440,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a project related to TFS (Team Foundation Server) and its features, with no explicit mention of Scrum principles, roles, events, or practices. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is minimal, focusing instead on technical features rather than Scrum methodologies.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

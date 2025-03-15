@@ -214,12 +214,12 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:54",
+    "calculated_at": "2025-03-15T04:55:31",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server, which is more about operational setup rather than engineering practices or methodologies that enhance agility in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -241,12 +241,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:54",
+    "calculated_at": "2025-03-15T04:55:31",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server, which is more about technical setup and configuration rather than the methodologies and practices involved in delivering software products. While there are elements related to project management tools, the core discussion does not align closely with the principles of product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -382,11 +382,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:55:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration process and configuration of SharePoint with Team Foundation Server, touching on technical practices, but the primary focus is on integration steps rather than broader software craftsmanship principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2013 with Team Foundation Server 2013, detailing installation steps, configuration, and potential pitfalls. It discusses technical challenges and solutions, which aligns with the principles of software craftsmanship and engineering practices. However, while it provides a good level of detail, it lacks broader discussions on best practices, code quality, or methodologies that would elevate it further into the 'Technical Mastery' category.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -490,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of SharePoint with Team Foundation Server (TFS), which involves operational practices related to configuration and support of systems within Agile and DevOps frameworks. While the primary focus is on technical steps rather than direct process optimization, it touches upon practical implementations relevant to operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint with Team Foundation Server, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While there are mentions of configuration and management, the discussion lacks depth in operational strategies or methodologies that streamline processes or improve performance. The content is more about technical setup rather than operational optimisation.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -601,12 +607,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:55:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content mentions Scrum and integrates SharePoint with Team Foundation Server, which can support agile project management practices, but the primary focus is on SharePoint integration rather than agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server, which is more about technical setup than Agile Project Management. While it briefly mentions Scrum in the context of process templates, it lacks a comprehensive discussion on Agile principles, methodologies, or practices. The content does not explore key Agile topics such as iterative development, team collaboration, or backlog management, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -664,12 +673,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:55:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integrating SharePoint with Team Foundation Server, which relates to collaboration tools, but the focus is primarily on configuration and setup rather than on enhancing collaboration or Agile team dynamics.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the integration of SharePoint with Team Foundation Server (TFS), which is relevant to collaboration tools. However, the primary focus is on technical setup and configuration rather than on enhancing communication and coordination within Agile teams. While it touches on aspects of document management and dashboards, it lacks a broader discussion on best practices or the impact of such tools on team dynamics.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -790,12 +802,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:55:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical strategies for integrating SharePoint with Team Foundation Server, focusing on real-world applications and problem-solving approaches related to software lifecycle management, which aligns with pragmatic thinking.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint with Team Foundation Server, providing step-by-step instructions and practical insights. While it touches on the challenges and maintenance issues associated with SharePoint, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The practical problem-solving aspect is present, but the content does not deeply engage with the core themes of Pragmatic Thinking, such as adaptability or evidence-based management practices.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -817,12 +832,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:55:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses integration between SharePoint and Team Foundation Server with a specific focus on utilizing Scrum process templates, which makes it a secondary theme related to Scrum product development.",
-    "level": "Tertiary"
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server, which is more about technical setup than Scrum product development. While there are brief mentions of Scrum-related features, the overall discussion lacks depth in Scrum principles, roles, and practices, making it peripheral to the category.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -1033,12 +1051,12 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:54",
+    "calculated_at": "2025-03-15T04:55:31",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server, which is more about specific technical implementations rather than a broader strategic use of digital technologies for business transformation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1222,7 +1240,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T17:59:59",
+    "calculated_at": "2025-03-15T04:55:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1230,7 +1248,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server, which is a technical topic relevant to software development. However, it lacks a direct discussion on Agile methodologies, DevOps principles, or modern engineering practices. While it touches on aspects of software development, such as configuration and integration, it does not delve into best practices or the role of developers in Agile or DevOps contexts, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1414,7 +1432,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:39:09",
+    "calculated_at": "2025-03-15T04:55:31",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -1422,6 +1440,6 @@
     "non_ai_confidence": 50,
     "final_score": 28.0,
     "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server (TFS) and does not explicitly discuss Scrum principles, roles, or events. While there is a brief mention of the 'Visual Studio Scrum Process Template' and a reference to Scrum dashboards, these are secondary to the main topic of SharePoint integration. The discussion lacks depth in Scrum-related concepts and does not provide substantial insights into Scrum practices or frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

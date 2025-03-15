@@ -43,7 +43,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T11:59:30",
+    "calculated_at": "2025-03-14T21:58:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -51,11 +51,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the importance of product ownership in lean product delivery, which can relate to leadership in fostering organisational agility. However, it lacks explicit discussions on leadership practices, strategies, or frameworks. The focus is more on product ownership rather than leadership itself, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-06T15:10:26",
+    "calculated_at": "2025-03-14T21:58:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -63,7 +63,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions product ownership and lean product delivery, which are related to business agility, but does not explicitly discuss the principles or practices of business agility itself. The focus is more on product ownership rather than the broader themes of agility, innovation, or organisational adaptability.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -76,7 +76,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-07T13:31:53",
+    "calculated_at": "2025-03-14T21:58:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -84,7 +84,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions product ownership, which is a Scrum role, but lacks a detailed exploration of Scrum principles, practices, or the Scrum framework itself. The focus on lean product delivery deviates from core Scrum discussions, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -133,7 +133,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T11:59:33",
+    "calculated_at": "2025-03-14T21:58:50",
     "ai_confidence": 35.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -141,7 +141,7 @@
     "non_ai_confidence": 0,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions lean product delivery and product ownership, which are related to Agile frameworks, but does not provide a detailed exploration or comparison of Agile frameworks themselves. The focus is more on the role of product ownership rather than a comprehensive discussion of Agile principles or frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -163,7 +163,7 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-03-10T14:11:44",
+    "calculated_at": "2025-03-14T21:58:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -171,7 +171,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the current state and future of product ownership, which could imply a trend, but it lacks explicit discussion on trend analysis or its implications for Agile or DevOps practices. The focus is more on product ownership rather than a comprehensive analysis of trends affecting organisational practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -298,7 +298,7 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T11:28:56",
+    "calculated_at": "2025-03-14T21:58:50",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -306,7 +306,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content briefly mentions product ownership, which is a key role in Agile Project Management, but lacks detailed discussion on agile principles or methodologies. While it aligns conceptually with the importance of product ownership in agile contexts, it does not delve into frameworks like Scrum or Kanban, nor does it explore agile values or practices in depth.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -526,12 +526,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T17:48:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean product delivery and the role of product ownership, which are relevant to Lean Principles, but it does not delve deeply into the core concepts or practices of Lean thinking.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:13:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses lean product delivery and its principles, such as value focus and continuous improvement, which are core to Lean thinking. It provides substantial detail on how product ownership aligns with these principles, indicating a strong conceptual alignment. The depth of discussion is significant, covering various aspects of lean practices and their impact on product delivery, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -589,11 +592,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T17:48:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:35:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a workshop related to product ownership, which is a relevant topic within the context of events and presentations, but it primarily focuses on the subject matter rather than the event itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a workshop on product ownership, which aligns with the category of events and presentations. However, it primarily focuses on the concepts of product ownership and lean product delivery rather than detailing the event itself or providing insights from specific presentations. While there is a mention of a workshop, the overall emphasis is more on theoretical discussions and recommendations rather than a structured presentation or event format.",
     "level": "Tertiary"
   },
   "Working Agreements": {
@@ -616,11 +622,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T17:48:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of Product Ownership, which is a significant aspect of Scrum Teams, but the primary focus is on lean product delivery rather than Scrum dynamics.",
+    "calculated_at": "2025-03-13T16:43:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of product ownership, which is a key role within a Scrum Team, but it primarily focuses on product ownership in a lean context rather than the dynamics of a Scrum Team as a whole. While there are mentions of collaboration and team empowerment, the depth of discussion on Scrum-specific practices and team dynamics is limited.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -724,12 +733,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T17:49:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:00:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of product ownership in lean product delivery, which relates to learning and adapting in product development, but it primarily focuses on the role of product ownership rather than the broader themes of discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of product ownership in lean product delivery, highlighting the importance of continuous improvement, adaptability, and fostering a culture of experimentation. It explicitly mentions concepts related to discovery and learning, such as the need for feedback loops and the significance of training for product owners. While the primary focus is on product ownership, the discussions around continuous improvement and experimentation align well with the core themes of the category, providing a substantial depth of discussion on these aspects.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -742,12 +754,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:49:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:21:52",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product ownership and lean product delivery, which are relevant to the Agile Product Operating Model, but it does not delve deeply into the principles or strategies of the model itself.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of product ownership within lean product delivery, which aligns closely with the Agile Product Operating Model. It highlights the importance of aligning product vision with business goals, enhancing collaboration, and adapting to change, all of which are core themes of the Agile framework. The depth of discussion on continuous improvement and value delivery further supports its relevance to the category. However, while it touches on Agile principles, it does not explicitly mention the Agile Product Operating Model, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -832,12 +847,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T17:49:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:58:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses lean product development and the role of product ownership within that context, indicating a strong focus on Lean principles and practices.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content explicitly discusses lean product delivery and its principles, highlighting the importance of product ownership in this context. It aligns well with core themes of Lean Product Development, such as delivering value, continuous improvement, and fostering a culture of experimentation. The depth of discussion is substantial, providing insights and recommendations that reflect a strong understanding of lean methodologies.",
+    "level": "Primary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -868,30 +886,39 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T17:49:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:58:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product ownership in the context of lean product delivery, which relates to strategic approaches within Agile frameworks. However, it primarily focuses on the role of product ownership rather than broader strategic themes.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of product ownership within the context of lean product delivery, which aligns with strategic approaches in Agile environments. It explicitly mentions alignment with business goals, adaptability to change, and continuous improvement, all of which are key themes in the Strategy category. The depth of discussion is substantial, providing insights and recommendations for enhancing product ownership practices, indicating a strong focus on strategic alignment and optimisation of delivery processes.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T17:49:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product ownership in the context of lean product delivery, which is a relevant theme but not the primary focus. It touches on operational practices but does not delve deeply into techniques or strategies for enhancing operational efficiency.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:58:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of product ownership within the context of lean product delivery, which directly relates to operational practices. It highlights key aspects such as alignment with business goals, enhanced collaboration, and continuous improvement, all of which are core themes of operational efficiency. The depth of discussion is substantial, providing insights into how product ownership can drive value and adaptability in organisations. However, while it is focused on operational practices, it does not delve deeply into specific techniques or metrics, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T17:49:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product ownership in lean product delivery, which is a significant aspect of Agile practices, but it does not primarily focus on the broader Agile philosophy or its foundational principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of product ownership and lean product delivery, which are related to Agile principles, particularly in terms of value delivery, collaboration, and adaptability. However, it primarily focuses on specific practices rather than the broader Agile philosophy itself. While it touches on key themes like continuous improvement and customer collaboration, it lacks a direct discussion of the Agile Manifesto or its foundational principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -958,12 +985,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T17:49:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product ownership in lean product delivery, which is a significant aspect of Agile Product Management, but it does not delve deeply into Agile principles or practices.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of product ownership, which is a key aspect of Agile Product Management, particularly in relation to aligning product vision with business goals and fostering collaboration. It also highlights the importance of adaptability and continuous improvement, both of which are central to Agile methodologies. The depth of discussion on lean product delivery further reinforces its relevance to Agile principles, making it a strong fit for the category.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -994,12 +1024,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T17:50:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product ownership in lean product delivery, which relates to organisational structures and the effectiveness of teams, but it does not deeply explore the interplay between social and technical aspects.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of product ownership in lean product delivery, highlighting aspects such as alignment with business goals, enhanced collaboration, and adaptability to change. While it touches on the interplay between social (team dynamics, collaboration) and technical (lean methodologies, product delivery) elements, the primary focus is on product ownership rather than a comprehensive exploration of sociotechnical systems. The discussion is relevant but lacks depth in addressing the broader implications of sociotechnical interactions.",
+    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1030,12 +1063,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T17:50:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product ownership in the context of lean product delivery, which relates to practical problem-solving strategies and real-world applications in Agile environments. However, it does not delve deeply into specific pragmatic techniques or case studies, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of product ownership in lean product delivery, highlighting practical strategies for enhancing collaboration, adaptability, and continuous improvement. While it does not explicitly mention Agile or Scrum, it aligns with pragmatic thinking through its focus on real-world applications and problem-solving techniques. The depth of discussion is moderate, providing insights and recommendations, but it lacks extensive case studies or detailed examples of pragmatic approaches.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1075,12 +1111,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T17:50:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses lean product delivery and the role of product ownership, indicating a significant focus on Lean principles, but it also touches on broader themes of product ownership without delving deeply into Lean methodologies or strategies.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses lean product delivery and its principles, including value focus and continuous improvement, which are core themes of Lean methodologies. It provides substantial detail on how product ownership aligns with Lean practices, enhancing collaboration and adaptability. The depth of discussion is significant, with practical recommendations for organisations to improve their lean practices, indicating a strong alignment with the Lean category.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1093,21 +1132,27 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T17:50:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product ownership and its importance in lean product delivery, which relates to product strategy but is not the primary focus. It touches on the role of product ownership rather than providing a comprehensive exploration of product strategy methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of product ownership in relation to business goals, collaboration, and adaptability, which aligns with the core themes of product strategy. It also touches on lean product delivery, emphasising value and continuous improvement, which are relevant to strategic planning. However, while it provides valuable insights, the focus is more on the operational aspects of product ownership rather than a comprehensive exploration of product strategy methodologies and frameworks.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T17:50:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product ownership in the context of lean product delivery, which is a significant aspect of software development methodologies. However, it primarily focuses on the role of product ownership rather than broader software development practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses product ownership and lean product delivery, which are relevant to software development practices, particularly in Agile methodologies. However, the focus is more on the role of product ownership and business alignment rather than specific software engineering techniques or methodologies. While it touches on collaboration and continuous improvement, it lacks in-depth technical discussions or methodologies directly related to software development processes.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1192,11 +1237,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T17:50:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:59:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of product ownership and its importance in lean product delivery, aligning well with the responsibilities and practices of a Product Owner.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the role of product ownership, highlighting its importance in aligning with business goals, enhancing collaboration, and adapting to change. It provides substantial insights into the responsibilities and practices of a Product Owner, particularly in the context of lean product delivery. The depth of discussion is significant, covering various aspects such as training, feedback loops, and the shift towards lean methodologies, which are all relevant to the Product Owner's role. Overall, the content is highly aligned with the category, making it a strong fit.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -1291,12 +1339,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T17:50:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product ownership in the context of lean product delivery, which is related to value delivery, but it does not primarily focus on strategies or methodologies for ensuring iterative and continuous delivery of value to customers.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:59:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role of product ownership in lean product delivery, highlighting its importance in aligning product vision with business goals, enhancing collaboration, and adapting to change. It directly addresses key aspects of value delivery, such as focusing on customer value, continuous improvement, and empowering teams. The depth of discussion is significant, providing actionable recommendations and insights, which strongly align with the principles of iterative development and customer value maximisation.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1318,29 +1369,38 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T17:50:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product ownership in the context of lean product delivery, which relates to understanding customer needs and defining product features, but it primarily focuses on the role of product ownership rather than the methodologies and practices of product discovery itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses product ownership and lean product delivery, which are related to product discovery but do not focus explicitly on identifying customer needs or defining product features. While there are mentions of collaboration and feedback loops, the primary focus is on the role of product ownership rather than the methodologies of product discovery itself.",
+    "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T17:50:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:24",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses product ownership, which is a key role in Scrum, but it primarily focuses on lean product delivery rather than Scrum practices specifically.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the role of product ownership and lean product delivery, which are relevant to Scrum principles. However, it lacks explicit references to Scrum roles, events, or the iterative nature of Scrum. While it touches on collaboration and customer feedback, it does not delve deeply into Scrum-specific practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T17:50:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of product ownership in lean product delivery, which relates to organisational change but is primarily focused on product management rather than broader change management strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of product ownership and lean product delivery, which are relevant to organisational change, particularly in terms of adaptability and continuous improvement. However, it primarily focuses on product management practices rather than the broader strategies and frameworks of organisational change. While there are mentions of agility and collaboration, the depth of discussion does not fully align with the core themes of organisational change, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Definition of Done": {
@@ -1354,12 +1414,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T17:50:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product ownership in the context of lean product delivery, which is a significant aspect of Agile methodologies. However, it primarily focuses on the role of product ownership rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of product ownership in lean product delivery, which aligns with Agile principles such as adaptability, continuous value delivery, and collaboration. It explicitly mentions the importance of aligning product vision with business goals and fostering a culture of continuous improvement, both of which are key themes in Agile strategy. The depth of discussion is substantial, providing insights and recommendations for enhancing product ownership practices, which further supports its relevance to Agile strategy.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -1372,21 +1435,27 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T17:51:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of product ownership in lean product delivery, which relates to organisational objectives and adaptability, but it primarily focuses on the workshop and current practices rather than explicitly defining long-term strategic goals.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:59:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of product ownership and its alignment with business goals, which relates to strategic objectives. However, it primarily focuses on operational aspects of product delivery and team dynamics rather than explicitly defining long-term strategic goals. While there are mentions of adaptability and continuous improvement, the depth of discussion on strategic frameworks and their impact on organisational culture is limited.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T17:51:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of product ownership in lean product delivery, which relates to organisational agility, but it is primarily focused on product ownership rather than agility as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:59:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of product ownership in lean product delivery, highlighting adaptability to change and continuous improvement, which are key aspects of organisational agility. However, while it touches on agility and collaboration, it does not delve deeply into broader agile methodologies or cultural shifts within the organisation, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1399,12 +1468,15 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T17:51:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean product development and product ownership, which are relevant to Lean Startup principles, but it does not primarily focus on the core concepts such as MVP, Build-Measure-Learn feedback loop, or validated learning.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses lean product delivery and the role of product ownership, which aligns with Lean Startup principles. However, it lacks explicit references to the Minimum Viable Product (MVP) and the Build-Measure-Learn feedback loop, which are central to the Lean Startup methodology. While it touches on continuous improvement and customer feedback, the depth of discussion on these key Lean Startup concepts is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1426,7 +1498,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:17:45",
+    "calculated_at": "2025-03-14T21:58:50",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1434,6 +1506,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions product ownership, which is a role within the Scrum framework, but it primarily focuses on lean product delivery rather than Scrum principles or practices. The discussion lacks depth regarding Scrum events, artifacts, or the empirical process control that defines Scrum, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

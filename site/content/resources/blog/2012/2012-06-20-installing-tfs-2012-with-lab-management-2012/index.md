@@ -25,6 +25,12 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - System Configuration
+- Windows
+- Practical Techniques and Tooling
+- Software Development
+- Troubleshooting
+- Azure DevOps
+- Internal Developer Platform
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-42-42.png

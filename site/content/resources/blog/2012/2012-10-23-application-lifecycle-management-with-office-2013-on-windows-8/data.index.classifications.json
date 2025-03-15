@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:13:57",
+    "calculated_at": "2025-03-15T05:34:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses application lifecycle management (ALM) and mentions tools like PowerPoint and Excel in this context. However, it does not explicitly address DevOps principles, practices, or cultural shifts. The focus is primarily on Office 2013 features rather than on the integration of development and operations, automation, or continuous delivery, which are core to DevOps.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -244,7 +244,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T15:02:07",
+    "calculated_at": "2025-03-15T05:34:13",
     "ai_confidence": 42.0,
     "ai_mentions": 12,
     "ai_alignment": 25,
@@ -252,7 +252,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses aspects of Application Lifecycle Management (ALM) and mentions tools like PowerPoint and Excel as part of the ALM process. However, it primarily focuses on the features and user experience of Office 2013 rather than the methodologies and practices of product delivery. While there are mentions of ALM, the depth of discussion on product delivery principles is limited, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -349,12 +349,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:34:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the features and improvements of Office 2013, which is relevant to technology updates, but it lacks a broader context of industry news or reviews that would elevate it to a primary focus on the category.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on reviewing Office 2013 and its features, particularly in relation to Application Lifecycle Management (ALM). While it does provide insights into the software's usability and improvements, it lacks a broader discussion on industry news or trends relevant to Agile or DevOps. The review aspect is present, but it does not sufficiently align with the core themes of the category, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -388,12 +391,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:34:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Office 2013 as part of Application Lifecycle Management (ALM) tools, touching on aspects of software craftsmanship and engineering practices, but it primarily focuses on the features of Office 2013 rather than deep technical principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Office 2013 and its features, touching on aspects of Application Lifecycle Management (ALM) but lacks a strong focus on software craftsmanship or engineering practices. While it mentions tools like PowerPoint and Excel in the context of ALM, it does not delve into best practices, principles of clean code, or methodologies that contribute to high-quality software development. The discussion is more about user experience and features rather than technical mastery.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -496,12 +502,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:34:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Office 2013 tools in the context of Application Lifecycle Management (ALM), which relates to operational practices, but it is not the primary focus of the content.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the application lifecycle management (ALM) tools within Office 2013, which touches on operational practices. However, it primarily focuses on the features and user experience of the software rather than providing in-depth strategies or techniques for enhancing operational efficiency. While there are mentions of tools like PowerPoint and Excel as ALM tools, the discussion lacks a strong emphasis on process optimisation or continuous improvement strategies that are central to the category of Operational Practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -595,12 +604,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:34:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Application Lifecycle Management (ALM) and how Office 2013 tools can be integrated into software development practices, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of Office 2013 applications in Application Lifecycle Management (ALM), which is relevant to software development practices. It mentions specific tools like PowerPoint and Excel as ALM tools, indicating a connection to software development methodologies. However, the focus is more on the features of Office 2013 rather than in-depth software development practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -793,7 +805,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T11:57:00",
+    "calculated_at": "2025-03-15T05:34:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -801,7 +813,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the practical applications of Office 2013 tools in the context of Application Lifecycle Management (ALM), which aligns with pragmatic thinking. However, it lacks a strong focus on Agile, Scrum, or DevOps frameworks, and the discussion is more about features and personal experiences rather than structured problem-solving strategies or case studies. The content does mention ALM tools and their utility, but it does not delve deeply into the complexities or uncertainties typically associated with project management in Agile environments.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -877,12 +889,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:34:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the functionality and improvements of Office 2013, highlighting its role in Application Lifecycle Management (ALM) and how it can be used as a tool for software development processes, but it primarily focuses on the software itself rather than the delivery of working software.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Office 2013 and its features, touching on aspects of application lifecycle management (ALM) but lacks a primary focus on working software as defined in the category. While it mentions tools that can aid in software development, it does not delve into the delivery of functional software or customer feedback mechanisms, which are core themes of the 'Working Software' category.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -967,7 +982,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T18:03:49",
+    "calculated_at": "2025-03-15T05:34:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -975,7 +990,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Application Lifecycle Management (ALM) and mentions tools like PowerPoint and Excel as part of the ALM process. However, it lacks a direct focus on release management strategies, scheduling, or risk management. While it touches on aspects of software delivery, it does not provide in-depth discussion on release processes, making it only tangentially related to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1069,7 +1084,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T16:52:09",
+    "calculated_at": "2025-03-15T05:34:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 15,
@@ -1077,7 +1092,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the installation experience of Office 2013, which touches on aspects of system configuration, such as uninstalling previous versions and the ease of installation. However, the primary focus is on the features and benefits of Office 2013 as an application lifecycle management (ALM) tool rather than on the technicalities of system configuration. While there are mentions of installation and some related processes, the depth of discussion on configuration management and optimisation strategies is minimal, leading to a low confidence score in alignment with the System Configuration category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",

@@ -199,7 +199,7 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-03-10T14:07:00",
+    "calculated_at": "2025-03-14T20:43:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -207,7 +207,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on product backlog management, which is a component of Agile methodologies, but does not explicitly discuss organisational agility or its broader implications. While it aligns conceptually with Agile principles, it lacks depth and direct mentions of organisational agility strategies or cultural shifts necessary for adaptability.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -241,7 +241,7 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-10T18:02:35",
+    "calculated_at": "2025-03-14T20:43:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -249,7 +249,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the concept of minimising backlog items to maximise value, which aligns with Lean principles. However, it primarily focuses on Agile practices and does not delve deeply into Lean methodologies or tools, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -271,7 +271,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-11T10:01:08",
+    "calculated_at": "2025-03-14T20:43:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -279,11 +279,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on product backlog management, which is a component of Agile practices, but does not explicitly discuss business agility principles or strategies. The focus is more on backlog management rather than the broader themes of adaptability and innovation in a business context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T11:24:16",
+    "calculated_at": "2025-03-14T20:43:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -291,7 +291,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on product backlog management, which is a practical aspect of Agile, but lacks specific mentions of tools or methodologies. The discussion is more focused on the concept rather than providing detailed techniques or tooling insights, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -376,12 +376,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T15:02:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:09:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses minimising the product backlog to maximise value, which relates to flow efficiency, but it is primarily focused on backlog management rather than flow efficiency as a central theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses key aspects of product backlog management, including limiting work in progress (WIP) and using visual management tools like Kanban boards, which are directly related to flow efficiency. It also highlights the importance of prioritisation and regular refinement sessions, which contribute to optimising throughput. However, while flow efficiency is a significant theme, the primary focus is on backlog management rather than flow efficiency itself, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -451,12 +454,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:31:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content addresses product backlog management, which relates to the theme of value delivery in Agile, but it primarily focuses on specific practices rather than the broader principles and mindset of Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on product backlog management within the context of Agile and Scrum, which are specific frameworks rather than the broader Agile philosophy. While it touches on key Agile concepts such as prioritisation, collaboration, and feedback loops, it does not deeply explore the foundational principles of Agile or the mindset that underpins it. The discussion is more about practical strategies than the philosophical underpinnings of Agile, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -496,12 +502,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on product backlog management, which is part of the Scrum framework, but does not primarily discuss Scrum roles, principles, or practices in depth.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on product backlog management, which is a key aspect of the Scrum framework. It discusses prioritisation, refinement sessions, and stakeholder engagement, all of which align with Scrum principles. However, the discussion lacks explicit references to Scrum roles and events, which diminishes its depth in relation to the Professional Scrum category.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -559,12 +568,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions minimizing the amount of items in the product backlog to maximize value, which aligns with Lean principles of value creation and minimizing waste; however, the primary focus is on Agile practices rather than Lean Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on product backlog management within Agile and Scrum frameworks, with some indirect references to Lean principles such as minimising clutter and maximising value. However, it lacks a direct discussion of Lean Thinking concepts like waste identification or continuous improvement, which are central to the category. The depth of discussion on Lean principles is minimal, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -577,12 +589,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product backlog management, which is a key part of Agile and relates to the delivery of working software, but it focuses more on backlog strategies than on working software itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:43:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses product backlog management, which is a crucial aspect of Agile and Scrum methodologies that directly impacts the delivery of working software. It highlights the importance of prioritisation, limiting work in progress, and incorporating feedback, all of which are essential for ensuring that the software developed meets customer needs and business objectives. However, while it touches on these themes, the focus is more on backlog management strategies rather than on the delivery of functional software itself, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -703,11 +718,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:43:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses on product backlog management, which is a key responsibility of the Product Owner, and discusses strategies to maximize value from the backlog.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on product backlog management, a key responsibility of the Product Owner. It discusses prioritisation strategies, stakeholder engagement, and the importance of regular refinement sessions, all of which are central to the Product Owner's role. The depth of discussion is substantial, providing practical recommendations and personal experiences that enhance the understanding of effective backlog management. Overall, the content aligns closely with the core themes of the Product Owner category.",
     "level": "Secondary"
   },
   "Trend Analysis": {
@@ -721,20 +739,26 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product backlog management, which is related to backlog refinement, but the focus is more on general management rather than specific refinement practices or techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:43:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses backlog management and refinement, highlighting its importance in Agile practices. It covers key aspects such as prioritisation, regular refinement sessions, and stakeholder engagement, which are central to backlog refinement. The depth of discussion is substantial, providing practical recommendations and personal experiences that enhance understanding of the topic.",
+    "level": "Secondary"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses minimizing the product backlog to maximize value, which aligns with Lean principles, but it primarily focuses on backlog management in an Agile context, making Lean a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on product backlog management within an Agile context, which is related to Lean principles such as minimising waste and maximising value. However, it does not explicitly discuss Lean Product Development concepts or techniques for eliminating waste in the product lifecycle. While it touches on prioritisation and feedback loops, which are relevant to Lean, the overall emphasis is more on Agile practices rather than a dedicated exploration of Lean methodologies.",
     "level": "Tertiary"
   },
   "Self Organisation": {
@@ -757,12 +781,15 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product backlog management, which relates to product strategy, but focuses primarily on Agile practices rather than overarching product strategy principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on product backlog management within an Agile context, which is more about implementation and team dynamics than overarching product strategy. While it touches on prioritisation and stakeholder engagement, which are relevant to product strategy, the discussion lacks a clear vision or roadmap for product development. The emphasis is on practical management techniques rather than strategic planning or market analysis.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -784,21 +811,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product backlog management, which is related to Agile practices, but it does not primarily focus on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on product backlog management, a crucial aspect of Agile practices, particularly within Scrum. It discusses key strategies such as prioritisation, limiting work in progress, and regular refinement sessions, which are all aligned with Agile principles. The depth of discussion is substantial, providing personal experiences and practical recommendations that enhance understanding of Agile transformation. However, while it is closely related to Agile practices, it does not explicitly address broader themes of Agile transformation, such as leadership roles or organisational change management, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses strategies for managing a product backlog, which relates to process optimization and operational practices in Agile, but it is not the primary focus of the discussion.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:43:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on product backlog management within Agile, discussing techniques such as prioritisation, limiting work in progress, and regular refinement sessions, which are all operational practices aimed at enhancing efficiency. The depth of discussion is substantial, providing practical recommendations and personal experiences that align well with the category's core themes.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -820,21 +853,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of product backlog management, which is relevant to Agile practices, but does not focus primarily on the strategic alignment and broader Agile strategies as defined in the category.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on product backlog management, which is a tactical aspect of Agile rather than a strategic discussion. While it touches on Agile principles such as prioritisation and feedback loops, it lacks a broader discussion on organisational vision alignment or strategic planning. The depth of discussion is moderate, providing practical recommendations but not delving into how these practices integrate into a larger Agile strategy.",
+    "level": "Secondary"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses product backlog management in an Agile context, which is relevant to software developers but is a secondary theme compared to broader Agile practices.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on product backlog management within the Agile framework, which is directly relevant to software developers. It discusses best practices such as prioritisation, limiting work in progress, and regular refinement sessions, all of which are crucial for developers working in Agile teams. The depth of discussion is significant, providing personal experiences and practical recommendations that enhance understanding of the role of developers in Agile practices. Overall, the content aligns well with the category, making it a strong fit.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -937,12 +976,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product backlog management which is a key aspect of Scrum, one of the Agile frameworks. However, it does not delve deeply into Agile frameworks overall and focuses more on management strategies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on product backlog management within the context of Agile and Scrum, which are key Agile frameworks. It discusses principles such as prioritisation, limiting work in progress, and regular refinement sessions, all of which align closely with Agile methodologies. The depth of discussion is substantial, providing practical recommendations and personal experiences that enhance understanding of Agile practices. However, while it is heavily centred on Agile concepts, it does not explore a wide range of Agile frameworks or provide comparative analysis, which slightly limits its alignment with the broader category of Agile Frameworks.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -991,12 +1033,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses product backlog management, a key aspect of Agile Project Management, highlighting strategies to optimize value from the backlog, which aligns well with Agile principles.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T20:43:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content focuses extensively on product backlog management, a key aspect of Agile Project Management. It discusses prioritisation, limiting work in progress, and regular refinement sessions, all of which are core practices in Agile methodologies. The depth of discussion is significant, providing personal experiences and practical recommendations that align well with Agile principles. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1009,11 +1054,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for managing the product backlog, which is a key aspect of Agile planning and directly relates to Agile Planning Tools.",
+    "calculated_at": "2025-03-14T20:43:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content focuses extensively on product backlog management, a key aspect of Agile planning tools. It discusses prioritisation, refinement sessions, and the use of visual management tools, which are all directly related to Agile methodologies. The depth of discussion is significant, providing practical recommendations and personal experiences that enhance the understanding of backlog management within Agile frameworks.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -1027,12 +1075,15 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product backlog management, which relates to prioritizing product features, but it does not focus primarily on product discovery methodologies or user needs assessment.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on product backlog management within an Agile framework, which is more aligned with project management practices than with the core themes of product discovery. While it touches on prioritisation and stakeholder engagement, which are relevant to understanding customer needs, the overall emphasis is on managing tasks rather than exploring methodologies for identifying customer needs or defining product features. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1072,12 +1123,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product backlog management, which is a significant aspect of Agile methodology, making the Software Development category a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on product backlog management within the Agile framework, which is a key aspect of software development methodologies. It discusses specific strategies, such as prioritisation and limiting work in progress, that align closely with best practices in Agile development. The depth of discussion is substantial, providing practical recommendations and personal experiences that enhance understanding of the topic. Overall, the content is highly relevant to software development, particularly in the context of Agile practices.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1090,30 +1144,39 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:43:33",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on strategies for managing and refining the product backlog, emphasizing its importance in maximizing value, which aligns closely with the definition and purpose of the Product Backlog in Agile.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses product backlog management, including prioritisation, refinement sessions, and stakeholder engagement, which are all key aspects of the Product Backlog category. It provides detailed insights and personal experiences that align closely with the core themes of backlog management in Agile. The depth of discussion is significant, covering practical recommendations and strategies, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content focuses on product backlog management, which is a significant element of Scrum product development, although it is not the sole focus of the discussion.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses product backlog management, a core aspect of Scrum Product Development. It highlights the importance of prioritisation, regular refinement sessions, and stakeholder engagement, all of which are crucial for effective Scrum practices. The depth of discussion is significant, providing practical recommendations and personal experiences that reinforce the alignment with Scrum principles.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses minimizing items in the product backlog to maximize value, which aligns with lean principles, but the focus is more on Agile practices rather than Lean specifically.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses product backlog management within an Agile context, focusing on minimising clutter and maximising value, which aligns with Lean principles. However, it primarily centres on Agile practices rather than Lean methodologies specifically. While it mentions concepts like prioritisation and limiting work in progress, which are relevant to Lean, the overall discussion is more about Agile processes and does not delve deeply into Lean tools or principles.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -1135,11 +1198,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:17:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses product backlog management, which is directly related to Agile Planning principles and practices, emphasizing value maximization through effective backlog handling.",
+    "final_score": 79.0,
+    "reasoning": "The content focuses extensively on product backlog management, which is a critical aspect of Agile Planning. It discusses prioritisation, limiting work in progress, regular refinement sessions, and the importance of feedback loops, all of which align closely with Agile principles. The depth of discussion is substantial, providing practical recommendations and personal experiences that enhance understanding of Agile Planning practices.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -1225,12 +1291,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:39:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses strategies for managing the product backlog, which is relevant to Agile practices, but it primarily focuses on backlog management rather than broader strategic alignment or execution.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on product backlog management within Agile, discussing key strategies such as prioritisation, limiting work in progress, and regular refinement sessions. These topics align closely with the core themes of strategic alignment and optimisation of delivery processes in Agile environments. The depth of discussion is substantial, providing practical recommendations and personal experiences that enhance the understanding of strategic approaches in backlog management. Overall, the content is well-aligned with the Strategy category, though it does not explicitly address broader strategic concepts or leadership roles.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -1297,12 +1366,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T15:27:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:43:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content relates to Agile practices by discussing product backlog management strategies, which aligns with practical problem-solving within the Agile framework, but it does not deeply explore pragmatic approaches or techniques.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a thorough exploration of product backlog management within Agile and Scrum frameworks, discussing practical strategies such as prioritisation, limiting work in progress, and regular refinement sessions. These elements align closely with the core themes of pragmatic thinking, emphasising real-world applications and experience-based problem-solving. The depth of discussion is significant, with personal experiences and actionable recommendations that enhance the practical focus of the content.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",

@@ -32,14 +32,14 @@ sitemap:
 tags:
 - People and Process
 - Agile Product Management
+- Agile Project Management
+- Customer Feedback Loops
+- Agile Values and Principles
+- Agile Philosophy
+- Agile Transformation
+- Agile Planning
 - Agile Leadership
 - Organisational Agility
-- Product Delivery
-- Business Agility
-- Value Delivery
-- Discovery and Learning
-- Market Adaptability
-- Agile Product Operating Model
 resourceTypes:
 - video
 categories:

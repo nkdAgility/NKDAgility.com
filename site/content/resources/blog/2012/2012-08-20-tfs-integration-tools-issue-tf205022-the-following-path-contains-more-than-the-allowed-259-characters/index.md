@@ -33,9 +33,6 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Install and Configuration
-- System Configuration
-- Windows
-- Pragmatic Thinking
 categories: []
 preview: metro-problem-icon-4-4.png
 

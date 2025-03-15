@@ -24,14 +24,12 @@ preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
 duration: 142
 isShort: false
 tags:
-- Events and Presentations
-- People and Process
+- Discovery and Learning
 - Continuous Learning
 - Coaching
-- Agile Leadership
-- Discovery and Learning
-- Agile Frameworks
-- Team Collaboration
+- People and Process
+- Organisational Culture
+- Team Motivation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

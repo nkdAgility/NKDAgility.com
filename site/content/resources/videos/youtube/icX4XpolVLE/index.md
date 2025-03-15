@@ -26,7 +26,16 @@ preview: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg
 duration: 2018
 isShort: false
 tags:
+- Application Lifecycle Management
+- Software Developers
+- Discovery and Learning
 - Software Development
+- Product Delivery
+- Value Delivery
+- People and Process
+- Pragmatic Thinking
+- Operational Practices
+- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6

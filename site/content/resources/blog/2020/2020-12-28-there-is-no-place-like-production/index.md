@@ -24,16 +24,16 @@ aliasesArchive:
 - /there-is-no-place-like-production
 - /resources/blog/there-is-no-place-like-production
 tags:
-- Value Delivery
-- Increment
-- Agile Product Management
-- Product Delivery
 - Product Validation
-- Release Management
-- Ability to Innovate
-- Agile Product Operating Model
-- Lean Product Development
+- Increment
+- Value Delivery
+- Working Software
+- Pragmatic Thinking
+- Agile Product Management
 - Product Discovery
+- Agile Product Operating Model
+- Product Delivery
+- Agile Philosophy
 categories:
 - Product Management
 - Social Technologies

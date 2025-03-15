@@ -10,7 +10,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-07T14:04:13",
+    "calculated_at": "2025-03-15T00:23:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the concept of competence and respect in the workplace, which can relate to team dynamics and collaboration. However, it does not explicitly mention any of the frameworks or methodologies associated with Social Technologies, such as Scrum, Kanban, Lean, or Agile practices. The discussion lacks depth in terms of specific practices or principles that would align it more closely with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -88,21 +88,24 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:23:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses agile environments and references 'agile' and 'scrum' but primarily focuses on the concept of hierarchies of competence versus control.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses concepts related to collaboration and respect in the workplace, which are relevant to Agile principles. However, it does not explicitly mention Agile frameworks or provide a detailed exploration of them. The focus is more on hierarchies of competence rather than Agile methodologies, leading to a low confidence score in the context of Agile Frameworks.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T08:37:36",
+    "calculated_at": "2025-03-15T00:23:39",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses Agile and Scrum concepts but lacks a focused discussion on Scrum product development, roles, or methodologies essential for categorization.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -295,20 +298,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile methodologies and Scrum, which are relevant to software development practices, but is primarily focused on management and organizational structures rather than software engineering itself.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content discusses hierarchies of competence and collaboration in the workplace, which are relevant to team dynamics in software development. However, it lacks direct references to software engineering practices, methodologies, or technical discussions, making it only tangentially related to the Software Development category.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses concepts related to coaching in an Agile environment, particularly the empowerment of individuals and teams, but primarily focuses on hierarchies of competence rather than coaching techniques or practices.",
+    "calculated_at": "2025-03-15T00:23:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of respect, expertise, and collaboration in the workplace, which aligns with coaching principles. However, it does not explicitly mention coaching or provide detailed techniques or frameworks related to coaching practices. The focus is more on hierarchies of competence rather than the coaching process itself.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -322,16 +331,19 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:23:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses hierarchies of competence and their connection to empowering teams in Agile environments, which is related to Agile Strategy but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses hierarchies of competence and their impact on workplace dynamics, focusing on respect, collaboration, and expertise. While these themes can relate to Agile principles, such as collaboration and continuous learning, the content does not explicitly mention Agile methodologies or strategies. The discussion is more about workplace culture than strategic alignment with Agile principles, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-11T10:14:54",
+    "calculated_at": "2025-03-15T00:23:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -339,7 +351,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content touches on the concept of respect and expertise within a team context, which can relate to team dynamics and collaboration. However, it lacks explicit references to Agile methodologies, practices, or specific strategies for enhancing team performance. The discussion is more focused on hierarchies of competence rather than on actionable techniques or metrics relevant to Agile teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -388,12 +400,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:23:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses hierarchies of competence and empowerment in an Agile context, but it is primarily focused on individual roles and control rather than the broader principles and practices of change management.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of respect and expertise in workplace hierarchies, which indirectly relates to change management by promoting a culture of collaboration and continuous learning. However, it lacks direct references to change management principles, strategies, or practices, and does not explicitly address how these concepts facilitate effective transitions within organisations.",
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -424,11 +439,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses hierarchies of competence versus control, which relates to organisational structure and dynamics, but primarily focuses on agile practices rather than a comprehensive systems thinking approach.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses hierarchies of competence, focusing on respect and expertise within organisational contexts. While it does not explicitly mention systems thinking, it aligns with the core themes of organisational dynamics, such as collaboration, respect, and the interplay of individual capabilities. The depth of discussion is moderate, providing examples and insights into how these principles can transform workplaces, but it lacks a direct exploration of systems thinking principles or feedback loops.",
     "level": "Tertiary"
   },
   "Release Management": {
@@ -460,7 +478,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-07T14:04:15",
+    "calculated_at": "2025-03-15T00:23:39",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -468,7 +486,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content briefly touches on the concept of competence and respect in the workplace, which could relate to team dynamics in software development. However, it lacks explicit references to Agile, DevOps, or specific software development practices. The discussion is more general and does not delve into the methodologies or tools relevant to the Software Developers category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -490,12 +508,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses hierarchies of competence in relation to leadership and empowering individuals rather than control, which links to organisational culture, but it primarily focuses on management structures and Agile consultancy without deep exploration of cultural impacts.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:23:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of hierarchies of competence, which aligns closely with organisational culture by emphasising respect, collaboration, and continuous learning. It explicitly mentions how these cultural elements can enhance team dynamics and foster a supportive work environment. The depth of discussion is significant, providing examples and key points that illustrate the impact of such a culture on workplace effectiveness. However, while it is focused on cultural aspects, it does not directly address Agile or DevOps methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -535,12 +556,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily focuses on hierarchies of competence in management and empowering teams, it touches on the positive impact on customer experience and high-performing teams within Agile environments, which relates to value delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:23:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of respect, expertise, and collaboration in the workplace, which can indirectly relate to value delivery through enhanced teamwork and individual contributions. However, it lacks direct references to Agile, Scrum, or DevOps methodologies, and does not focus on iterative development or customer value measurement, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -592,7 +616,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T12:14:30",
+    "calculated_at": "2025-03-15T00:23:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -600,7 +624,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content touches on the concept of hierarchies of competence and respect in the workplace, which can relate to organisational change in terms of leadership and decision-making. However, it lacks explicit discussion of change management strategies, frameworks, or methodologies. The focus is more on interpersonal dynamics rather than structured organisational change processes, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -643,11 +667,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses hierarchies of competence versus control, it touches on themes relevant to agile environments and the importance of empowering teams, which aligns with principles of business agility.",
+    "calculated_at": "2025-03-15T00:24:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of respect, expertise, and collaboration in the workplace, which aligns with the principles of business agility. However, it does not explicitly mention business agility or its key topics, and the depth of discussion is limited to general observations rather than specific strategies or frameworks related to business agility.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -754,7 +781,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T18:17:28",
+    "calculated_at": "2025-03-15T00:23:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -762,16 +789,19 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content touches on the concept of respect and expertise within a team context, which can relate to team dynamics. However, it lacks explicit discussions on collaboration techniques, shared ownership, or specific Agile methodologies. The focus is more on individual competence rather than collective team performance, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses hierarchies of competence and management styles, it does mention Agile and Scrum, which are relevant to market adaptability, making it a major theme but secondary to the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of collaboration and expertise in the workplace, which can indirectly relate to market adaptability. However, it lacks explicit references to Agile, DevOps, or Lean methodologies, and does not focus on strategies for responding to market shifts or competitive pressures. The discussion is more about workplace dynamics than market adaptability, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -811,12 +841,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses hierarchies of competence and their relationship to empowering teams, which relates to fostering a culture of agility. However, the focus is more on individual and team perspectives rather than the broader organizational implications, making enterprise agility a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:23:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of respect, collaboration, and expertise in workplace hierarchies, which aligns with the principles of fostering a culture of agility. However, it primarily focuses on individual and team dynamics rather than broader organisational agility practices. The mention of collaboration and continuous learning hints at agility but lacks explicit references to enterprise-level frameworks or structures.",
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -829,12 +862,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions agile principles and roles related to Scrum, but the primary focus is on hierarchies of competence versus control, making agile a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses collaboration and respect for expertise, which are relevant to Agile principles, but it does not explicitly mention Agile methodologies or frameworks. The focus is more on general workplace dynamics rather than specific Agile practices.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -874,12 +910,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses hierarchies of competence and the empowerment of individuals, which relates to team dynamics and motivation, but it is not primarily focused on team motivation as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:24:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of respect, collaboration, and expertise in team dynamics, which aligns with the core themes of team motivation. It highlights how a competence-based hierarchy fosters an environment of empowerment and continuous learning, directly contributing to team engagement. However, while it touches on these motivational aspects, it does not delve deeply into specific strategies or practices for enhancing team motivation, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -955,7 +994,7 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T14:42:25",
+    "calculated_at": "2025-03-15T00:23:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -963,7 +1002,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses collaboration and respect for expertise, which are relevant to team dynamics, but it does not explicitly mention Scrum roles or practices. The focus is more on general workplace hierarchies rather than specific Scrum methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -994,12 +1033,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of hierarchies of competence in relation to Agile environments, indicating a focus on leadership and team dynamics, but it does not delve deeply into strategic alignment or planning.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of respect and expertise in workplace hierarchies, which indirectly relates to team dynamics and collaboration. However, it lacks direct references to Agile, Scrum, or DevOps strategies, and does not delve into strategic planning or execution within those frameworks. The focus is more on general workplace culture rather than specific strategic approaches.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -1012,21 +1054,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:51:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the shift from hierarchies of control to hierarchies of competence, which relates to Agile principles of empowering teams and individuals. While it touches on Agile concepts, the focus is more on management structures rather than a deep exploration of Agile philosophy itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of respect, collaboration, and expertise in the workplace, which aligns with Agile principles of valuing individuals and interactions. However, it does not explicitly mention Agile or its foundational philosophy, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:23:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to agile and scrum, which are important for product delivery, but the primary focus is on hierarchies of competence rather than specific practices or methodologies of product delivery.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content discusses hierarchies of competence and collaboration in the workplace, but it does not explicitly address product delivery methodologies or practices. While it touches on themes of respect and expertise that could indirectly relate to team dynamics in product delivery, it lacks a direct focus on the end-to-end process of delivering software products, making it only tangentially relevant.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1039,21 +1087,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses hierarchies of competence versus control, it ties into agile principles and mentions agile consulting and training, indicating that agility is a major secondary theme.",
+    "calculated_at": "2025-03-15T00:24:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of respect, expertise, and collaboration in the workplace, which aligns with the principles of organisational agility. However, it does not explicitly mention agility or agile methodologies, leading to a lower direct mention score. The depth of discussion on how these principles can foster a more adaptable and responsive environment contributes positively to the overall alignment with the category.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:23:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the preference for hierarchies of competence over hierarchies of control and mentions Agile and Scrum training and consulting, indicating that Agile transformation is a significant theme, though not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses concepts related to collaboration, respect, and expertise, which are important in Agile environments. However, it does not explicitly mention Agile principles, frameworks, or transformation strategies. The focus is more on hierarchies of competence rather than Agile transformation specifically, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1066,12 +1120,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:24:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses hierarchies of competence, which can relate to organizational adaptability and empowerment in change contexts, but it primarily focuses on management styles and agile methodologies rather than explicit resilience strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of respect, expertise, and collaboration in the workplace, which can contribute to organisational resilience and adaptability. However, it does not explicitly mention resilience or change management practices, nor does it delve deeply into strategies for fostering a culture of adaptability. The focus is more on hierarchies of competence rather than on the broader themes of resilience and change.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1231,12 +1288,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses decision-making in the context of hierarchies of competence, it primarily focuses on management styles rather than structured, evidence-based methodologies central to decision-making practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:24:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of respect and expertise in decision-making contexts, particularly in collaborative environments. However, it lacks explicit references to structured decision-making methodologies or empirical evidence, which are crucial for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1285,12 +1345,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the concept of 'hierarchies of competence,' which aligns with Agile principles of empowerment and collaboration, but it primarily focuses on traditional management structures and specific roles without a deep dive into Agile values.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:24:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of respect, collaboration, and expertise in the workplace, which aligns with Agile principles. However, it does not explicitly mention Agile values or principles, nor does it reference the Agile Manifesto. The focus on hierarchies of competence and collaboration suggests a conceptual alignment with Agile, but the depth of discussion is more about workplace dynamics than Agile methodologies specifically.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1303,12 +1366,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T08:37:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:23:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses management structures, specifically hierarchies of competence versus control, which relates to the organisational aspect in sociotechnical systems. However, it primarily focuses on the management philosophy and agile methodology, making the category a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of hierarchies of competence, focusing on respect, expertise, and collaboration within teams. While it does not explicitly mention sociotechnical systems, it aligns with the category's themes of organisational culture and team dynamics. The depth of discussion is moderate, providing insights into how these principles can enhance workplace effectiveness, but it lacks a direct exploration of the interplay between social and technical systems.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1420,7 +1486,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:24:38",
+    "calculated_at": "2025-03-15T00:23:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1428,6 +1494,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content briefly touches on the concept of competence and respect in the workplace, which could relate to team dynamics in Scrum. However, it does not explicitly mention Scrum principles, roles, events, or artifacts, nor does it provide any substantial discussion on Scrum practices or frameworks. The focus is more on general workplace dynamics rather than specific Scrum methodologies.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

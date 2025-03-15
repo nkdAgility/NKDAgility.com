@@ -32,13 +32,13 @@ tags:
 - Evidence Based Leadership
 - Evidence Based Management
 - Decision Making
-- Ability to Innovate
-- Agile Project Management
-- Agile Frameworks
-- Agile Strategy
-- Strategic Goals
 - Agile Leadership
+- Agile Project Management
 - Events and Presentations
+- Metrics and Learning
+- People and Process
+- Strategic Goals
+- Value Delivery
 categories:
 - Leadership
 - Social Technologies

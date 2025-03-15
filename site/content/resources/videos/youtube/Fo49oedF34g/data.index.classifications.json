@@ -232,7 +232,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T12:03:26",
+    "calculated_at": "2025-03-14T22:40:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -240,7 +240,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses agile leadership and its impact on team performance, which is relevant to product delivery. However, it primarily focuses on agile consultancy and training rather than the end-to-end process of delivering software products. While there are mentions of agile methodologies, the depth of discussion on specific product delivery practices is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -667,7 +667,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T11:31:43",
+    "calculated_at": "2025-03-14T22:40:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -675,7 +675,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions the importance of collaborative and high-performing teams within Agile and Scrum environments, which aligns with the category's focus. However, it lacks detailed discussion on specific techniques or strategies for improving team collaboration, making it a secondary focus rather than a primary one.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -886,7 +886,7 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-11T14:36:13",
+    "calculated_at": "2025-03-14T22:40:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -894,7 +894,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions agile coaching and consulting, indicating a connection to the coaching category. However, it lacks detailed discussion on coaching techniques, the role of a coach, or specific strategies for fostering team collaboration and growth. The focus is more on promoting services rather than exploring the nuances of coaching in Agile contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1015,7 +1015,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T16:25:35",
+    "calculated_at": "2025-03-14T22:40:53",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1023,7 +1023,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile and Scrum, indicating a focus on these frameworks, but lacks detailed discussion on practical problem-solving strategies or real-world applications. The emphasis is more on promoting services rather than exploring pragmatic thinking in depth.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1327,12 +1327,12 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T19:39:02",
+    "calculated_at": "2025-03-14T22:40:53",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily focuses on Agile and Scrum training and coaching, which are related to project management rather than the broader topic of organisational change.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1372,12 +1372,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T19:39:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:40:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile leadership and the benefits of agile methodologies, but it primarily focuses on services offered by an agile consultancy rather than a deep exploration of organisational agility principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions agile leadership and the benefits of agile methodologies, but it primarily focuses on promoting agile consultancy services without delving deeply into the principles or practices of organisational agility. While there is some alignment with the category's themes, the lack of detailed discussion and direct exploration of organisational agility concepts limits the overall confidence score.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",

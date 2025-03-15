@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 isShort: false
 tags:
+- Agile Project Management
+- Complexity Thinking
 - Transparency
-- Agile Planning
+- Pragmatic Thinking
+- Software Development
+- Empirical Process Control
+- Agile Transformation
 - Agile Product Management
 - Scrum Product Development
-- Agile Frameworks
-- Agile Project Management
-- Agile Transformation
-- Complexity Thinking
-- Professional Scrum
-- Transparency and Accountability
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

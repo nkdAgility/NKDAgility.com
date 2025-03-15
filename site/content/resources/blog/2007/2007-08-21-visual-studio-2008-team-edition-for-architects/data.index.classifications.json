@@ -1,7 +1,7 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-10T19:02:20",
+    "calculated_at": "2025-03-15T07:39:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions ALM in the context of Visual Studio 2008 but does not provide substantial discussion on the application lifecycle stages, governance, or tools. The focus is more on a specific feature of the software rather than a comprehensive exploration of Application Lifecycle Management principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -580,7 +580,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T15:16:28",
+    "calculated_at": "2025-03-15T07:39:35",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -588,7 +588,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions Visual Studio 2008 and its limitations regarding the Application diagram and Windows Communication Foundation, which are relevant to software development tools. However, the discussion lacks depth and does not explore methodologies, best practices, or detailed software engineering concepts, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1396,7 +1396,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:18:08",
+    "calculated_at": "2025-03-15T07:39:35",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1404,6 +1404,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It focuses on Visual Studio 2008 and its features, which are unrelated to Scrum. There is no discussion of Agile principles, team dynamics, or continuous improvement, leading to a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

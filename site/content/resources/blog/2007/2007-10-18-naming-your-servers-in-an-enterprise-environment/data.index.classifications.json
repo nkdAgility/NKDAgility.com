@@ -280,7 +280,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T15:17:54",
+    "calculated_at": "2025-03-15T07:38:31",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -288,7 +288,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses server naming conventions in an enterprise environment, which is a technical topic rather than a personal reflection or experience related to Agile, Scrum, or DevOps. While the author shares personal experiences from their time at Merrill Lynch, the focus remains on technical details and naming strategies rather than personal insights or challenges faced in Agile practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -310,7 +310,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:19:02",
+    "calculated_at": "2025-03-15T07:38:31",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -318,7 +318,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses server naming conventions in an enterprise environment, which is tangentially related to DevOps practices, particularly in terms of managing infrastructure. However, it lacks explicit mentions of DevOps principles, automation, or cultural shifts. The discussion is primarily focused on naming strategies rather than the integration of development and operations or continuous delivery practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -586,7 +586,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T17:07:33",
+    "calculated_at": "2025-03-15T07:38:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -594,11 +594,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses server naming conventions in an enterprise environment, which touches on aspects of software deployment and management. However, it lacks a direct focus on software development methodologies or practices. While it provides some insight into the challenges of managing server names in a large-scale environment, it does not delve into coding practices, SDLC methodologies, or other core themes of software development. The discussion is more about operational management rather than software engineering processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-03-11T12:14:43",
+    "calculated_at": "2025-03-15T07:38:31",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -606,7 +606,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses server naming conventions in an enterprise environment, which is tangentially related to SRE principles, particularly in terms of system organisation and identification. However, it lacks direct mentions of SRE concepts such as reliability, scalability, or performance optimisation. The discussion is more focused on naming strategies rather than the broader implications of reliability engineering, thus resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,7 +1099,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T10:49:32",
+    "calculated_at": "2025-03-15T07:38:31",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1107,7 +1107,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses server naming conventions in an enterprise environment, with a brief mention of a Microsoft operating system. However, it primarily focuses on naming strategies rather than installation, configuration, or troubleshooting of Windows itself. The alignment with Windows is weak, as the content does not delve into specific Windows features or management practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",

@@ -31,16 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Business Agility
-- Value Delivery
 - Customer Feedback Loops
-- Discovery and Learning
-- Product Delivery
-- Product Owner
+- Scrum Product Development
+- Customer Satisfaction
+- Organisational Agility
 - Product Validation
-- Practical Techniques and Tooling
-- Agile Philosophy
-- Agile Planning
+- Software Developers
+- Software Development
+- Product Delivery
+- Discovery and Learning
+- Operational Practices
 resourceTypes:
 - video
 categories:

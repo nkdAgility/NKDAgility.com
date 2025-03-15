@@ -40,7 +40,7 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-06T15:02:05",
+    "calculated_at": "2025-03-14T20:40:52",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -48,7 +48,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the importance of taking time in the Agile process and involving people in decision-making, which aligns with some principles of complexity thinking, such as emergence and self-organisation. However, it does not explicitly reference complexity science or frameworks like the Cynefin Framework, nor does it delve deeply into the non-linear dynamics or uncertainty aspects of complexity theory. The focus is more on Agile practices rather than a comprehensive exploration of complexity thinking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -94,7 +94,7 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-10T14:06:54",
+    "calculated_at": "2025-03-14T20:40:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -102,11 +102,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the importance of involving people in decision-making, which aligns with the principles of transparency and accountability. However, it primarily focuses on the concept of 'chastity' in Agile, which is not directly related to transparency or accountability. The discussion lacks depth and specific techniques for enhancing accountability or transparency within teams, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-10T18:02:30",
+    "calculated_at": "2025-03-14T20:40:52",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -114,7 +114,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of taking time to implement Agile practices and the need for inclusivity in decision-making, which aligns with the principles of Agile methodologies. However, it lacks direct mentions of market adaptability strategies and does not delve deeply into how these practices specifically enhance responsiveness to market changes. The focus is more on the internal dynamics of Agile rather than its application to market adaptability.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -205,29 +205,38 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T15:00:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:09:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of taking time and involving people in decision-making as part of the agile transformation process, which aligns with themes of organisational change and adaptability. However, it primarily focuses on agile principles rather than resilience strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of taking time to implement agile practices thoughtfully, which aligns with the principles of organisational resilience and change. It touches on cultural change, stakeholder engagement, and the need for a deliberate approach to transformation, which are relevant to the category. However, the primary focus is on agile practices rather than a comprehensive exploration of resilience and change methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T15:00:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:31:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of involving people in decision-making and the democratization of the workplace, which aligns with human-centric approaches and decentralisation principles of BetaCodex, but it primarily focuses on the concept of 'chastity' in agility rather than BetaCodex itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses themes related to inclusivity and engagement in decision-making, which align with BetaCodex principles. However, it does not explicitly mention BetaCodex or its foundational theories. The depth of discussion on organisational culture and the importance of a thoughtful approach to agility contributes positively, but the overall focus remains more on agile practices rather than a direct exploration of BetaCodex.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T15:00:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of taking time and involving the organisation in decision-making to achieve true agility, aligning with the principles of organisational agility.",
+    "calculated_at": "2025-03-13T16:39:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the importance of taking time to implement agile practices thoughtfully, which aligns with the principles of organisational agility. It addresses cultural shifts, stakeholder engagement, and the need for inclusivity in decision-making, all of which are key themes in the category. The depth of discussion is significant, providing insights into how to effectively change organisational culture and the implications of agile beyond mere processes. Overall, the content is a strong fit for the category, with a high confidence score.",
     "level": "Secondary"
   },
   "AI and Automation in Agility": {
@@ -241,12 +250,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T15:00:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:40:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes within an Agile context, particularly the importance of involving people in the decision-making process and the implications of organisational changes. However, the primary focus is on Agile principles rather than a deep exploration of decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses decision-making in the context of Agile practices, particularly focusing on inclusivity and stakeholder engagement. However, it does not delve deeply into the principles of Decision Theory itself, such as heuristics, biases, or probability. The mention of decision-making processes is present but secondary to the overall theme of Agile implementation, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -289,21 +301,27 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T15:01:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:17:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of taking time and involving people in the decision-making process to achieve true transformation in agile practices, which aligns with the principles of business agility.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of taking time to implement agile practices thoughtfully, which aligns with the principles of business agility. It touches on cultural change, stakeholder engagement, and inclusivity, which are relevant to fostering a culture of innovation and adaptability. However, the focus is more on agile practices rather than a comprehensive exploration of business agility as a whole, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T15:01:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:40:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of taking time in the Agile process and mentions tools like open space agile, but it primarily focuses on the philosophical aspects of Agile rather than practical techniques and tooling.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of taking time to implement Agile practices and mentions tools like Open Space Agility, which aligns with the category. However, the primary focus is on cultural aspects and philosophical discussions rather than practical techniques and tooling, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -316,30 +334,39 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T15:01:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:40:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of agility and organisational change, which are relevant to product delivery, but it primarily focuses on the philosophical and cultural implications rather than specific methodologies or practices directly related to delivering software products.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile methodologies and the importance of thoughtful implementation, which aligns with product delivery principles. However, it lacks direct mentions of product delivery processes and does not delve deeply into specific practices or metrics related to delivery, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T15:01:13",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T20:40:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of taking time to involve the entire organisation in the decision-making process, which aligns with fostering a culture of agility and collaboration. However, it primarily focuses on the concept of 'chastity' in agility rather than broader enterprise agility frameworks or structures.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of taking time to implement agile practices thoughtfully, which aligns with the broader themes of organisational change and culture. However, it primarily focuses on individual agile practices and virtues rather than providing a comprehensive view of enterprise agility. The mention of tools and stakeholder engagement hints at organisational implications, but the overall depth and direct references to enterprise-level agility frameworks or strategies are limited.",
     "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T15:01:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:41:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools related to Agile practices, specifically mentioning 'open space agile', which aligns with the category. However, the primary focus is on the concept of chastity in Agile and organisational change, making the category a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and the importance of thoughtful implementation, but it lacks direct references to specific products or books. While it mentions tools like Open Space Agility, the focus is more on concepts and practices rather than a detailed analysis or review of products or literature. The discussion is relevant to Agile methodologies but does not meet the criteria for a primary focus on products or books.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -352,12 +379,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T15:01:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:41:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of agility and organisational change, but it primarily focuses on the virtues of agility and the importance of inclusivity in decision-making rather than the Agile Product Operating Model specifically.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agile principles and the importance of thoughtful implementation, which aligns with the Agile Product Operating Model. However, it lacks direct references to product-centric development, value delivery, or specific Agile methodologies, making it more of a general discussion on agility rather than a focused exploration of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -370,12 +400,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T15:01:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:41:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of taking time to involve people in decision-making and the implications of agile practices, which relates to learning and adapting within an organisation. However, the primary focus is on agile principles rather than a clear exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of taking time to understand agile practices, which aligns with the concept of continuous learning. However, it primarily focuses on the implementation of agile rather than exploring broader methodologies for discovery and learning. While there are mentions of stakeholder engagement and inclusivity, the depth of discussion on learning processes is limited.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -406,7 +439,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T11:52:31",
+    "calculated_at": "2025-03-14T20:40:52",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -414,7 +447,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of taking time in the Agile context, which indirectly relates to product management by emphasising stakeholder involvement and decision-making processes. However, it lacks direct references to product management methodologies or frameworks, and the focus is more on Agile principles rather than specific product management strategies. The depth of discussion is moderate, but it does not provide substantial insights into product management as a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -454,20 +487,26 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:41:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of taking time to engage with organizational changes in the context of Agile, emphasizing values such as inclusivity and the need for thoughtful decision-making. It aligns with Agile principles about collaboration and customer involvement, making Agile Philosophy a primary topic.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of taking time to understand and implement Agile practices, which aligns with the Agile Philosophy's emphasis on adaptability and cultural shifts. It mentions key concepts like stakeholder engagement and the democratisation of the workplace, which are relevant to Agile values. However, while it touches on these themes, the depth of discussion on the Agile Manifesto and its principles is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:41:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of taking time for meaningful organizational change and involvement of stakeholders, which aligns well with change management principles within Agile contexts.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of taking time to implement agile practices thoughtfully, which aligns with change management principles. It mentions stakeholder engagement and cultural change, both of which are key topics in change management. However, while it touches on these themes, it does not delve deeply into specific strategies or best practices for managing change, which slightly limits its depth. Overall, the content is relevant but not exhaustive in its exploration of change management.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -490,11 +529,14 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T20:41:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses engaging people in the decision-making process and aligning individual goals with team goals, which are important aspects of team motivation. However, it also delves into broader agile principles and does not solely focus on team dynamics.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of engaging team members and fostering a shared vision, which aligns with team motivation principles. However, it primarily focuses on the concept of 'chastity' in agile and the implications of implementing agile practices rather than directly addressing team motivation strategies. The depth of discussion on team dynamics is moderate, but the primary focus remains on the broader context of agility.",
     "level": "Secondary"
   },
   "Professional Scrum": {
@@ -598,11 +640,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses transforming organisational practices through agile methodologies, emphasizing the importance of inclusivity and thoughtful decision-making in the context of organizational change. While it centers on agility and includes tools that support change, the primary focus remains on engagement and the ethos of agile rather than strictly defined change management frameworks.",
+    "calculated_at": "2025-03-14T20:41:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of taking time to implement agile practices thoughtfully, which aligns with the principles of organisational change. It touches on cultural shifts, stakeholder engagement, and the need for a deliberate approach to change, which are relevant to the category. However, it lacks explicit frameworks or methodologies for organisational change and does not delve deeply into the processes involved, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Continuous Learning": {
@@ -634,11 +679,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:41:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agility in organizations and involves decision-making and inclusivity, which are related to digital transformation. However, it primarily focuses on agile principles rather than directly addressing digital technologies or their strategic application for business transformation.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses agile practices and the importance of thoughtful implementation, which aligns with the broader themes of digital transformation. However, it lacks direct mentions of digital technologies and does not delve deeply into specific strategies or case studies related to digital transformation. The focus is more on agile methodologies and cultural change rather than the strategic adoption of digital tools.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -679,11 +727,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:42:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of leadership in fostering inclusivity and taking time to engage with team members in the context of Agile transformation, emphasizing the importance of aligning organizational and individual goals.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of taking time to implement Agile practices thoughtfully, which aligns with the concept of fostering a culture of continuous improvement and empowerment. It mentions the need for inclusivity and engagement with stakeholders, which are key aspects of Agile leadership. However, it lacks direct references to leadership roles or specific strategies for leaders, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -742,21 +793,27 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:42:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of involving more people in decision-making and democratizing the workplace, which aligns with self-organisation principles. However, it primarily focuses on the virtue of 'chastity' in agility and doesn't center exclusively on self-organisation.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of involving team members in decision-making and fostering a culture of inclusivity, which aligns with self-organisation principles. However, it primarily focuses on the concept of 'chastity' in agile, which is not a direct discussion of self-organisation. The depth of discussion on self-organisation is moderate, as it touches on relevant tools and practices but does not delve deeply into the principles or case studies of self-organisation.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:41:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of inclusivity and organizational change which relates to enterprise-level Agile transformation, but it primarily focuses on personal and team-level attitudes rather than large-scale frameworks or strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of taking time to implement Agile practices and the cultural shifts required for inclusivity, which aligns with some aspects of large-scale agility. However, it lacks direct mentions of frameworks or strategies specifically aimed at scaling Agile across an organisation. The focus is more on individual and team-level practices rather than enterprise-level transformation, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -787,21 +844,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:41:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the need for thoughtful and inclusive approaches to Agile transformation, focusing on cultural shifts and stakeholder involvement in decision-making processes.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of taking time in Agile transformations, emphasising cultural change, stakeholder engagement, and inclusivity, which are core themes of Agile transformation. It mentions specific Agile practices and tools, indicating a strong alignment with the category. However, while it provides valuable insights, it lacks detailed exploration of specific frameworks or methodologies, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile practices and the importance of inclusivity and decision-making, which are relevant to operational practices, but the focus is more on philosophical and cultural implications rather than practical techniques or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:41:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of taking time to implement agile practices thoughtfully, which aligns with operational efficiency. However, it primarily focuses on cultural aspects and stakeholder engagement rather than specific operational techniques or metrics. The depth of discussion on the implications of agile practices is notable, but it lacks direct mentions of operational practices or methodologies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -823,11 +886,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:41:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses themes of organizational change, decision-making involvement, and the importance of taking time to implement Agile strategies thoughtfully. It emphasizes inclusivity and alignment of goals, which are key aspects of Agile strategy.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of taking time to implement Agile practices thoughtfully, which aligns with the core themes of Agile Strategy, particularly in terms of organisational culture and stakeholder engagement. However, while it touches on relevant concepts, it lacks a comprehensive exploration of Agile methodologies and strategic planning, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Software Developers": {
@@ -850,12 +916,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:41:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of involving the whole organization in the decision-making process and aligning individual goals with organizational goals, which relates to strategic objectives. However, the primary focus is more on agile practices and virtues rather than clearly articulating long-term strategic goals.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of taking time to implement agile practices and the need for inclusivity in decision-making, which indirectly relates to strategic goals. However, it lacks explicit discussions on long-term objectives or frameworks for measuring strategic objectives, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -877,12 +946,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:41:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions tools that facilitate decision-making and inclusivity within organizations, which aligns with the theme of collaboration in Agile, but it primarily focuses on broader concepts of agility rather than specific collaboration tools.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions tools that facilitate inclusivity in decision-making, which aligns with the category. However, it primarily focuses on the philosophical aspects of agility and organisational culture rather than providing a detailed discussion on specific collaboration tools or their features. The mention of tools is not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -904,12 +976,12 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T15:27:17",
+    "calculated_at": "2025-03-14T20:40:52",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content touches on aspects of involvement in decision-making and inclusivity in the context of agile practices, but primarily discusses broader concepts like organizational change and engagement which are not central to technical leadership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -940,12 +1012,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:41:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses concepts related to Agile principles and transformation, with elements of Agile frameworks mentioned, but primarily focuses on broad ideas of involvement and time rather than specific frameworks.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of agility and its implications within organisations, touching on themes such as stakeholder engagement and the importance of a thoughtful approach to implementing agile practices. However, it lacks direct references to specific Agile frameworks like Scrum or Kanban, which diminishes its alignment with the category. The depth of discussion is moderate, focusing on the cultural aspects of agility rather than a detailed exploration of Agile frameworks themselves.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -985,21 +1060,27 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:41:41",
+    "ai_confidence": 47.0,
+    "ai_mentions": 12,
+    "ai_alignment": 18,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of involving people in decision-making and aligning organizational goals with individual goals, which relates to employee engagement, but the primary focus is on agile practices rather than employee engagement strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses aspects of employee engagement, particularly in relation to inclusivity and stakeholder engagement. However, it primarily focuses on agile practices and tools rather than deeply exploring the psychological and social aspects of employee engagement. While there are relevant mentions of commitment and ownership, the overall emphasis is on agile methodologies rather than a comprehensive exploration of employee engagement strategies.",
     "level": "Tertiary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:41:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts related to agility and organizational change within the agile context but does not delve deeply into specific agile methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of taking time to implement agile practices thoughtfully, which aligns with the principles of Agile Project Management. It touches on stakeholder engagement and the need for inclusivity in decision-making, both of which are relevant to agile methodologies. However, the focus on 'chastity' as a virtue and the metaphorical language detracts from a direct discussion of agile frameworks and practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1048,11 +1129,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
+    "calculated_at": "2025-03-14T20:41:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of taking time to involve people in decision-making within the organisation, which is a cultural aspect of adopting Agile methodologies. It emphasizes inclusivity, stakeholder engagement, and cultural transformation necessary for successful Agile implementation.",
+    "reasoning": "The content discusses the importance of organisational culture in the context of Agile practices, particularly focusing on inclusivity and stakeholder engagement. It highlights the need for a thoughtful approach to cultural change, which aligns well with the core themes of the category. The depth of discussion is substantial, as it explores the implications of Agile beyond mere processes, emphasising the cultural aspects that facilitate transformation. However, while the content is rich in cultural context, it does not delve deeply into specific strategies for fostering a culture of continuous improvement or provide case studies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Azure Boards": {
@@ -1066,20 +1150,26 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:42:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of including people in the decision-making process and emphasizes thoughtful, inclusive approaches within organizations, which aligns with collaborative decision-making principles. However, it primarily focuses on the concept of 'chastity' in agility rather than structured decision-making methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of inclusivity in decision-making and the need for careful planning when implementing agile practices. However, it lacks a structured, evidence-based approach to decision-making and does not delve deeply into methodologies or frameworks that would align it more closely with the category. The focus is more on cultural change and personal insights rather than empirical evidence or structured decision-making processes.",
     "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:41:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies, particularly the importance of taking time and involving the organization in decision-making, which aligns with Agile principles but is presented in a broader context rather than focusing strictly on software development practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile methodologies, particularly the importance of thoughtful implementation and stakeholder engagement, which aligns with core themes of software development. However, it focuses more on cultural aspects and personal insights rather than technical practices or detailed methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -1129,21 +1219,27 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:42:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on themes of decision-making processes and involving team members in organizational change, suggesting a focus on how to interpret and navigate complex situations within an agile framework. However, it primarily emphasizes the virtues of agility rather than providing a deep discussion on sensemaking itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of taking time to understand the implications of agile practices, which aligns with the principles of sensemaking. However, it primarily focuses on agile implementation and tools rather than explicitly exploring sensemaking frameworks or decision-making processes in complex environments. The discussion on stakeholder engagement and inclusivity hints at sensemaking but lacks depth and direct references to sensemaking concepts.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T15:27:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:42:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of taking time and involving people in the decision-making process within the agile context, highlighting some principles of Agile Planning. However, it primarily focuses on broader implications of agility and organizational change rather than specific Agile Planning methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of taking time to implement Agile practices thoughtfully, which aligns with Agile Planning principles. It touches on stakeholder engagement and the need for careful planning, but lacks direct references to specific Agile planning techniques or frameworks. The depth of discussion is moderate, focusing on cultural change and inclusivity rather than detailed Agile planning methodologies.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1192,11 +1288,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T15:27:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:42:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the importance of taking time and involving people in decision-making, which aligns with Agile principles of collaboration, inclusivity, and flexibility in organizational change. It emphasizes the need for thoughtful application of Agile values, making it a primary theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of taking time to understand and implement Agile practices, which aligns with the Agile principle of responding to change and fostering a culture of inclusivity. However, it primarily focuses on the concept of 'chastity' as a virtue rather than directly addressing Agile values or principles. While it touches on relevant themes like stakeholder engagement and workplace democratisation, the depth of discussion on core Agile values is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -1228,11 +1327,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T15:27:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:42:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile transformation and the importance of involving people in decision-making, which relates to strategic considerations in Agile. However, it primarily focuses on the virtues of agility and organizational change rather than a strategic framework or delivery optimization.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of taking time to implement Agile practices thoughtfully, which aligns with strategic planning and execution. It touches on key topics such as stakeholder engagement and the democratisation of the workplace, which are relevant to strategic alignment and enhancing team performance. However, it lacks direct mentions of Agile strategy frameworks and does not delve deeply into metrics or continuous improvement practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "AI": {
@@ -1318,11 +1420,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T15:27:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:42:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of involving people in decision-making and suggests finding a coach or consultant for guidance, indicating that coaching is a significant theme, but the primary focus is on the virtue of chastity in Agile, not on coaching itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of taking time in the agile transformation process and mentions seeking assistance from coaches or trainers, which aligns with the coaching theme. However, the primary focus is on the concept of chastity in agility and the implications of agile practices rather than on coaching techniques or methodologies. The depth of discussion on coaching is minimal, primarily serving as a suggestion rather than a central theme.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -1426,7 +1531,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:53:02",
+    "calculated_at": "2025-03-14T20:40:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1434,6 +1539,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on agile principles and the importance of inclusivity in decision-making, which are relevant to Scrum. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum-specific practices or frameworks. The focus is more on general agile concepts rather than Scrum itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

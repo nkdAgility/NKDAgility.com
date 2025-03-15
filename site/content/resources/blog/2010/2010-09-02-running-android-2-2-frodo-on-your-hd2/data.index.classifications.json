@@ -292,7 +292,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T15:09:11",
+    "calculated_at": "2025-03-15T06:50:39",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -300,7 +300,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on technical aspects of running Android on a specific device, with minimal personal reflection or insights related to Agile, Scrum, or DevOps. While there are some personal experiences shared, they do not align with the core themes of the Personal category, which requires deeper reflections on Agile methodologies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -376,7 +376,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T18:50:07",
+    "calculated_at": "2025-03-15T06:50:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -384,7 +384,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the practical steps to run Android on an HD2 device, which includes some technical details about installation and configuration. However, it lacks a broader discussion on software craftsmanship, best practices, or principles of clean code. While it does touch on technical aspects, it does not delve into methodologies or practices that contribute to high-quality software development, thus limiting its alignment with the 'Technical Mastery' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -685,7 +685,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T12:05:03",
+    "calculated_at": "2025-03-15T06:50:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -693,7 +693,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses the process of running Android on an HD2 device, with some mentions of updates to the Android version. However, it lacks a focus on the principles of frequent releases, continuous delivery, or the broader implications of release frequency in software development. The discussion is more about personal experience and technical steps rather than a structured analysis of release practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -1057,7 +1057,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-10T13:03:34",
+    "calculated_at": "2025-03-15T06:50:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1065,7 +1065,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the process of running Android on an HD2 device, which involves configuring the system to boot Android from Windows Mobile. It mentions specific updates and tools like HSPL and SetCPU, which are relevant to system configuration. However, the discussion is more focused on personal experiences and general usage rather than in-depth technical methodologies or best practices for system configuration. Therefore, while there are relevant elements, the primary focus is not strictly on system configuration principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1114,7 +1114,7 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-03-11T10:39:46",
+    "calculated_at": "2025-03-15T06:50:39",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -1122,7 +1122,7 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content primarily discusses running Android on a Windows Mobile device, which is a peripheral topic rather than a direct focus on the Windows operating system itself. While Windows is mentioned in the context of booting Android and some configuration steps, the main emphasis is on Android and its functionalities. The depth of discussion regarding Windows is minimal, primarily serving as a platform for running Android rather than exploring Windows-specific features or issues.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",

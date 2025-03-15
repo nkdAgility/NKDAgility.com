@@ -73,16 +73,19 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:40:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the importance of building projects around motivated individuals and providing them with the environment and support they need, which relates to employee engagement. However, the primary focus is on Agile software development principles rather than employee engagement strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the importance of motivated individuals and the need for a supportive environment, which aligns with employee engagement principles. However, the primary focus is on Agile software development processes and methodologies, with limited depth on employee engagement strategies or practices.",
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T13:33:20",
+    "calculated_at": "2025-03-14T17:39:12",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -90,7 +93,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the Agile Manifesto, which is more focused on Agile methodologies rather than the strategic aspects of product management. While it mentions customer satisfaction and collaboration, it lacks depth in discussing how these principles align with product management frameworks or decision-making processes. The content does not explicitly address the role of product management or provide detailed insights into balancing stakeholder interests or assessing technical feasibility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -235,12 +238,15 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses customer satisfaction and the importance of delivering value to customers, which aligns with customer retention themes, but it primarily focuses on Agile principles rather than specific retention strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions customer satisfaction and collaboration, which are relevant to customer retention. However, it primarily focuses on Agile principles and methodologies without delving into specific strategies for retaining customers or enhancing user engagement. The discussion lacks depth in terms of actionable insights or metrics related to customer retention.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -253,12 +259,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles that can inform strategic approaches, but it primarily focuses on the Agile Manifesto rather than a clear strategic framework or execution.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which focus on values and practices rather than strategic approaches within Agile, Scrum, or DevOps frameworks. While it mentions concepts like customer collaboration and responding to change, it lacks a direct focus on strategic alignment, optimisation of delivery processes, or leadership roles in strategy formulation. The discussion is more about Agile values than strategic execution, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -292,21 +301,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles of Agile that include aspects of team collaboration, such as the importance of individuals and interactions, and the need for business people and developers to work together daily. However, the primary focus is on the Agile Manifesto and its principles rather than solely on team collaboration.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses key Agile principles that emphasise collaboration, such as the importance of individuals and interactions, and the necessity for business people and developers to work together daily. It aligns well with the themes of team dynamics and communication, which are central to the category of Team Collaboration. However, while it touches on these aspects, it does not delve deeply into specific techniques or strategies for enhancing collaboration, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses customer satisfaction as a priority in Agile principles, but it primarily focuses on Agile methodologies and values rather than customer satisfaction strategies or metrics.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses customer satisfaction as a priority in Agile development, particularly through the principle of early and continuous delivery of valuable software. However, while it mentions customer collaboration and satisfaction, it does not delve deeply into specific techniques for measuring or enhancing customer satisfaction, nor does it provide extensive detail on strategies or case studies related to customer experience. The focus is more on Agile principles rather than a comprehensive exploration of customer satisfaction as a standalone topic.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -328,12 +343,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles, which include aspects of engineering practices such as continuous attention to technical excellence and good design. However, it primarily focuses on the Agile Manifesto rather than specific engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto, which focuses on values and principles of Agile development rather than specific engineering practices like clean code, TDD, or CI/CD. While it mentions the importance of technical excellence and good design, it lacks detailed discussions on methodologies or practices that directly align with the core themes of Engineering Practices. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -427,12 +445,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles, including the importance of responding to change, which is a significant aspect of change management. However, it primarily focuses on the Agile Manifesto and its principles rather than a comprehensive discussion on change management strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which focus on software development practices rather than explicitly addressing change management strategies. While it mentions the importance of responding to change, it does not delve into the broader themes of effective change management, stakeholder engagement, or leadership roles in transformation. The discussion lacks depth in exploring how these principles can be applied to facilitate meaningful and sustainable change within organisations.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -445,12 +466,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:40:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles that align with empirical process control, particularly in relation to responding to change and continuous improvement, but it is primarily focused on the Agile Manifesto rather than a detailed exploration of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile principles that align with empirical process control, particularly the emphasis on responding to change and continuous delivery. However, it does not explicitly mention empirical process control or provide in-depth discussion on inspection and adaptation techniques, which limits its overall confidence score.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -532,12 +556,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:40:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the delivery of valuable software and the importance of working software, which aligns with the Increment concept, but it primarily focuses on the Agile Manifesto and its principles rather than specifically on Increments in Scrum.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Agile Manifesto, which emphasises the importance of delivering working software frequently and satisfying customer needs. It aligns well with the Increment category by highlighting the value of early and continuous delivery of valuable software, which is a core principle of Agile and Scrum. However, it does not delve deeply into specific practices or metrics related to measuring the value of increments or the relationship between increments and other Scrum artifacts, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -559,12 +586,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses early and continuous delivery of valuable software, which relates to Lead Time, but it primarily focuses on Agile principles and values rather than specifically measuring or optimising Lead Time.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and values, including early and continuous delivery of valuable software, which indirectly relates to Lead Time. However, it does not explicitly define or focus on Lead Time as a metric, nor does it provide techniques for measuring or optimising it. The discussion is more about Agile methodologies rather than the specific measurement of time from initiation to delivery.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -577,21 +607,27 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and values, which are relevant to pragmatic thinking, but it primarily focuses on the Agile Manifesto rather than practical problem-solving strategies or real-world applications.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto, which outlines values and principles for Agile software development. While it mentions key Agile concepts such as customer collaboration and responding to change, it lacks a strong focus on practical problem-solving strategies or real-world applications of these principles. The discussion is more theoretical and foundational rather than providing in-depth pragmatic approaches or case studies that demonstrate successful applications in complex environments.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:22:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering working software frequently, which aligns with the theme of deployment frequency, but it primarily focuses on broader Agile principles rather than specifically optimising deployment intervals.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the Agile Manifesto, which includes a principle about delivering working software frequently. However, it does not delve into specific strategies for optimising deployment frequency or the relationship between deployment frequency and feedback loops. The mention of frequent delivery aligns with the category, but the overall focus is broader and more philosophical, lacking depth in practical application or metrics related to deployment frequency.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -616,21 +652,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which are foundational to Agile methodologies. However, it does not explicitly address strategic alignment or implementation at an organisational level, making Agile principles a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which are foundational to Agile methodologies. However, it lacks a direct focus on strategic alignment, implementation at scale, or leadership roles in fostering an Agile culture. While it mentions customer satisfaction and adaptability, it does not delve deeply into how these principles integrate into broader organisational strategies or decision-making processes.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:40:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses early and continuous delivery of valuable software, which aligns with Continuous Delivery principles, but primarily focuses on Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which focus on agile methodologies rather than Continuous Delivery specifically. While it mentions 'early and continuous delivery of valuable software,' this is a brief mention and does not delve into the practices or principles of Continuous Delivery as defined by Jez Humble and Dave Farley. The content lacks detailed discussion on automation, deployment strategies, or risk management, which are crucial for a higher confidence score in the Continuous Delivery category.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -661,20 +703,26 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of building projects around motivated individuals and highlights the need for an environment that supports team dynamics, making team motivation a significant theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the Agile Manifesto, which includes principles that indirectly relate to team motivation, such as building projects around motivated individuals and fostering collaboration. However, it lacks a focused discussion on specific strategies or practices for enhancing team engagement and dynamics, which limits its depth and direct relevance to the category.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles that support team dynamics and effectiveness, particularly in the context of Agile methodologies, but it primarily focuses on the Agile Manifesto rather than specific team performance strategies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile principles that indirectly relate to team performance, such as the importance of individuals and interactions, collaboration, and self-organizing teams. However, it lacks a direct focus on specific strategies or methodologies for enhancing team dynamics and productivity, which are central to the 'Team Performance' category.",
     "level": "Tertiary"
   },
   "AI": {
@@ -781,12 +829,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles that relate to operational efficiency and delivery, but it primarily focuses on the values and principles of Agile rather than specific operational practices or techniques.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto, which focuses on values and principles rather than specific operational practices or techniques aimed at enhancing efficiency. While it mentions concepts like continuous delivery and collaboration, it lacks detailed discussions on process optimisation, metrics, or practical applications that would align more closely with the category of Operational Practices.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -844,21 +895,27 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:40:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles of agile development and team dynamics, which are relevant to technical leadership, but it does not focus specifically on the role of technical leaders or their strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which are foundational to agile methodologies. However, it lacks a direct focus on technical leadership aspects such as mentoring, team dynamics, or specific leadership strategies. While it touches on collaboration and self-organising teams, it does not delve into the nuances of guiding development teams or implementing agile best practices in a leadership context.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses customer collaboration and the importance of satisfying customer needs, which are relevant to product discovery, but it primarily focuses on Agile principles and methodologies rather than specific product discovery techniques.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles that emphasise customer collaboration and responding to change, which are relevant to product discovery. However, it lacks a direct focus on methodologies for identifying customer needs or defining product features, making it more about Agile practices than product discovery specifically.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -937,12 +994,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles of Agile software development, which includes aspects of technical excellence and good design, but primarily focuses on Agile methodologies rather than software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto, which focuses on principles of software development rather than technical mastery. While it mentions 'continuous attention to technical excellence and good design,' the overall emphasis is on Agile methodologies and team dynamics rather than specific technical practices or software craftsmanship. The direct mentions of technical excellence are limited, and the depth of discussion on technical mastery is not substantial.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -973,11 +1033,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T13:50:42",
-    "ai_confidence": 100,
+    "calculated_at": "2025-03-13T14:59:56",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 91.0,
-    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which are foundational to the Agile Philosophy, focusing on value delivery, customer collaboration, and adaptability.",
+    "final_score": 84.0,
+    "reasoning": "The content explicitly discusses the Agile Manifesto and its core values and principles, which are foundational to Agile Philosophy. It directly mentions key aspects such as customer collaboration, responding to change, and the importance of individuals and interactions, aligning closely with the core themes of the category. The depth of discussion is significant, as it outlines multiple principles that guide Agile practices, demonstrating a thorough understanding of the Agile mindset.",
     "level": "Primary"
   },
   "Modern Source Control": {
@@ -1036,12 +1099,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:40:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles that include reflection and adaptation, which are related to Continuous Learning, but the primary focus is on the Agile Manifesto rather than explicitly on Continuous Learning practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile principles that promote collaboration and adaptability, which are key aspects of Continuous Learning. However, it does not explicitly focus on the growth mindset or detailed techniques for knowledge sharing, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1072,12 +1138,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses principles of Agile that include responding to change and fostering adaptability, which are relevant to resilience and change, but the primary focus is on Agile software development practices.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile principles that promote adaptability and responsiveness to change, which aligns with the themes of resilience and change. However, it primarily focuses on software development practices rather than organisational resilience or change management strategies. The mention of 'responding to change' is relevant but not a primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1099,12 +1168,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles of Agile that relate to delivery speed and customer satisfaction, which are relevant to flow efficiency, but it primarily focuses on the Agile Manifesto rather than specifically on optimising throughput or eliminating bottlenecks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which focus on values and interactions rather than directly addressing flow efficiency or the optimisation of work throughput. While there are mentions of delivering working software and responding to change, these concepts are more aligned with Agile philosophy than with specific flow efficiency techniques or metrics. The depth of discussion on flow efficiency is minimal, as it lacks detailed exploration of bottlenecks, WIP limits, or visual management tools.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1129,21 +1201,27 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:19",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and values, which are foundational to Agile Product Management, but it does not specifically address product management practices or the role of the Product Owner.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which are foundational to Agile methodologies. However, it does not specifically address Agile Product Management practices, such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. While it aligns with Agile principles, the focus is more on software development rather than product management, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles that include aspects of continuous learning and adaptation, but it primarily focuses on Agile methodologies rather than explicitly exploring discovery and learning processes.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles that promote continuous delivery and adaptation, which aligns with the themes of discovery and learning. However, it primarily focuses on Agile methodologies rather than explicitly exploring the processes of innovation and learning. The mention of reflecting on team effectiveness hints at learning but lacks depth in discussing specific methodologies or techniques for fostering a culture of innovation.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1156,11 +1234,14 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:40:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles, which include aspects of self-organisation and emergence, but primarily focuses on Agile methodologies rather than complexity science as a central theme.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on Agile principles and practices, which are related to complexity thinking through concepts like self-organisation and adaptability. However, it does not explicitly discuss complexity science or frameworks like Cynefin, nor does it delve deeply into the non-linear dynamics or emergent behaviours characteristic of complex adaptive systems. While there are mentions of self-organising teams and responding to change, the overall discussion remains more aligned with Agile methodologies than with a comprehensive exploration of complexity thinking.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -1192,12 +1273,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles that promote responsiveness to change, which is a key aspect of market adaptability, but it does not focus specifically on strategies or practices for enhancing an organisation's ability to respond to market shifts.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile principles that promote responsiveness to change, which is a key aspect of market adaptability. However, it lacks specific strategies or methodologies directly related to market shifts and competitive pressures. The focus is more on Agile values and principles rather than detailed practices that enhance market adaptability.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1237,11 +1321,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:30:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles of the Agile Manifesto, which relate to adaptability and customer collaboration, but primarily focuses on Agile methodologies rather than broader business agility concepts.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the Agile Manifesto and its principles, which are related to agile methodologies rather than directly addressing business agility as a broader concept. While it mentions responding to change and customer collaboration, it lacks a comprehensive discussion on organisational adaptability, leadership roles, or specific strategies for fostering a culture of innovation. The depth of discussion is limited to principles of Agile, which do not fully encompass the wider themes of business agility.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -1267,12 +1354,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of continuous attention to technical excellence and good design, which aligns with the category, but the primary focus is on Agile principles rather than specific engineering practices.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses Agile principles and values, which are more focused on the philosophy of Agile rather than specific engineering practices that enhance technical excellence. While it briefly mentions 'continuous attention to technical excellence and good design enhances agility,' this is not the main focus of the content. The majority of the content revolves around Agile methodologies and team dynamics, which do not directly align with the core themes of Technical Excellence. Therefore, the confidence score reflects a moderate alignment with the category, but not a strong focus on technical practices.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1309,12 +1399,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:39:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles that highlight the importance of collaboration and communication within teams, which aligns with sociotechnical systems. However, it primarily focuses on Agile methodologies rather than a comprehensive exploration of the interplay between social and technical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile principles and values, which emphasise individuals, interactions, and team collaboration. While it touches on aspects of team dynamics and communication, it lacks a direct discussion on the interplay between technology and organisational structures, which is central to sociotechnical systems. The depth of discussion on Agile practices is significant, but it does not fully explore the broader sociotechnical context, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1372,12 +1465,15 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T12:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:40:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles of Agile development that align with human-centric approaches and decentralisation, but it primarily focuses on Agile methodologies rather than BetaCodex specifically.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile principles, which share some similarities with BetaCodex, particularly in terms of valuing individuals and interactions, and promoting self-organising teams. However, it primarily focuses on Agile methodologies rather than the broader principles of decentralised and adaptive organisational design that define BetaCodex. The mention of self-organising teams aligns with BetaCodex, but the overall discussion lacks depth in exploring the specific principles and practices of BetaCodex, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -1390,12 +1486,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:40:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and values, which are foundational to the Agile Product Operating Model, but it does not specifically focus on product-centric development or the operational model itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the Agile Manifesto and its principles, which are foundational to Agile methodologies. However, it does not specifically address the Agile Product Operating Model or its key topics such as product-centric development, value delivery, or cross-functional teams. While there are mentions of customer collaboration and responding to change, these are more aligned with general Agile principles rather than the specific framework of the Agile Product Operating Model. The depth of discussion is moderate, focusing on principles rather than practical application within a product context.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

@@ -37,11 +37,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to MSBuild and unit testing, which touches on aspects of code quality and reliability, but it is primarily focused on troubleshooting rather than broader engineering practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific error related to MSBuild and unit testing, which touches on technical aspects of software development. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility, such as TDD or CI/CD. The focus is primarily on troubleshooting a specific issue rather than exploring principles of technical excellence in depth.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -148,12 +151,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific error related to MSBuild and provides a solution that involves removing a file to resolve the issue, which is relevant to installation and configuration troubleshooting.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses a specific error encountered during the build process in MSBuild, which is related to the installation and configuration of a Unit Test project. It provides a detailed error message and a potential solution by removing a specific file, which aligns with troubleshooting common installation and configuration issues. However, while it touches on installation aspects, it lacks broader context or step-by-step installation procedures, which slightly limits its depth and overall alignment with the category.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -301,12 +307,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific error related to MSBuild and unit testing, which are components of the application lifecycle, but the primary focus is on troubleshooting rather than a comprehensive discussion of application lifecycle management practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error related to MSBuild and unit testing, which is a technical issue rather than a comprehensive discussion on Application Lifecycle Management. While it briefly mentions ALM in the tags, the main focus is on troubleshooting a build error, lacking depth in lifecycle management practices, methodologies, or tools. Therefore, it does not align well with the core themes of the category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -436,7 +445,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T15:11:40",
+    "calculated_at": "2025-03-15T07:30:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -444,7 +453,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily discusses a specific error encountered in MSBuild related to unit testing and the use of Accessors. While it touches on a technical issue relevant to software development, it lacks a broader discussion on best practices, principles, or methodologies that contribute to technical mastery. The focus is more on troubleshooting a specific problem rather than exploring the underlying principles of software craftsmanship or engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -637,7 +646,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:14:30",
+    "calculated_at": "2025-03-15T07:30:46",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -645,7 +654,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a specific error related to MSBuild and unit testing, which is a technical issue rather than a broader discussion on engineering excellence. While it touches on aspects of software craftsmanship through the mention of unit tests, it lacks a comprehensive exploration of best practices, continuous improvement, or quality assurance principles that define the category of Engineering Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -844,12 +853,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:31:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a problem related to MSBuild and unit testing, which is relevant to software engineering practices, particularly in relation to test automation. However, the primary focus is on troubleshooting a specific error rather than outlining broader engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error related to MSBuild and unit testing, which is tangentially related to engineering practices. While it mentions unit tests, it does not delve into broader engineering principles such as clean code, TDD, or CI/CD. The focus is more on troubleshooting a specific issue rather than discussing methodologies or practices that enhance software engineering quality.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -916,12 +928,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an error related to unit testing in the context of MSBuild, indicating it is a major but secondary theme rather than primarily focusing on test automation principles or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses an error related to MSBuild in the context of a Unit Test project, which is relevant to test automation. However, it primarily focuses on a specific error and its resolution rather than exploring broader principles, frameworks, or best practices of test automation. The mention of Unit Tests indicates some alignment with the category, but the depth of discussion is limited to troubleshooting rather than a comprehensive exploration of test automation concepts.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -961,7 +976,7 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-03-11T17:05:24",
+    "calculated_at": "2025-03-15T07:30:46",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -969,7 +984,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses a specific error related to MSBuild in the context of a Unit Test project, which indicates a focus on automated testing. However, it primarily addresses a technical issue rather than exploring broader principles or methodologies of automated testing. The mention of Unit Tests aligns with the category, but the depth of discussion is limited to troubleshooting rather than best practices or frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1336,7 +1351,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T15:15:21",
+    "calculated_at": "2025-03-15T07:30:46",
     "ai_confidence": 42.0,
     "ai_mentions": 10,
     "ai_alignment": 30,
@@ -1344,7 +1359,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses a specific error related to MSBuild and the configuration of a Unit Test project, which touches on system configuration issues. However, it primarily focuses on a specific error message and troubleshooting steps rather than broader system configuration practices or methodologies. While it does mention the concept of an Accessor and its role in the build process, the overall discussion lacks depth in terms of best practices or strategies for system optimisation and configuration management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

@@ -35,8 +35,8 @@ tags:
 - Software Developers
 - Pragmatic Thinking
 - Personal
-- Products and Books
-- Discovery and Learning
+- Operational Practices
+- Technical Mastery
 resourceTypes:
 - video
 categories:

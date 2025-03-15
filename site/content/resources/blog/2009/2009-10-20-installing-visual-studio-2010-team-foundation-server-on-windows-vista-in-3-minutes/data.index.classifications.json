@@ -286,7 +286,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T12:07:57",
+    "calculated_at": "2025-03-15T07:20:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -294,7 +294,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the installation of Team Foundation Server (TFS) 2010, which is a component of Azure DevOps. However, it lacks a broader discussion on Azure DevOps functionalities, methodologies, or best practices. The focus is on installation steps rather than the integration or use of Azure DevOps in a CI/CD context, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -352,7 +352,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T18:13:20",
+    "calculated_at": "2025-03-15T07:20:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -360,7 +360,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation process of Team Foundation Server (TFS) 2010, which is a tool that can be part of Application Lifecycle Management. However, it lacks a comprehensive discussion on the broader aspects of ALM, such as lifecycle stages, governance, or best practices. While it mentions TFS and includes tags related to ALM, the content does not delve into the methodologies or practices that define Application Lifecycle Management, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -382,7 +382,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T17:02:18",
+    "calculated_at": "2025-03-15T07:20:43",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -390,7 +390,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Foundation Server, which is a technical task but lacks a broader discussion on software craftsmanship, architecture, or engineering practices. While it provides some details about the installation and configuration, it does not delve into best practices, principles of clean code, or methodologies that contribute to high-quality software development. Therefore, it only partially aligns with the category of Technical Mastery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -592,12 +592,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:20:48",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation process of Visual Studio 2010 Team Foundation Server, which relates to software development practices. However, it primarily focuses on installation rather than broader software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Foundation Server (TFS), which is a tool used in software development. While it mentions TFS and its configuration, the discussion lacks depth regarding software development methodologies or practices. The content does not explore broader concepts such as SDLC, coding best practices, or CI/CD, which are central to the Software Development category. Therefore, while it is relevant, it does not fully align with the core themes of the category.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -628,7 +631,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T15:11:40",
+    "calculated_at": "2025-03-15T07:20:43",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -636,7 +639,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation process of Team Foundation Server (TFS) 2010, which is a version control system. However, it lacks a detailed discussion on best practices, methodologies, or strategies related to modern source control. While TFS is mentioned, the content does not delve into topics such as branching strategies, code review processes, or collaboration workflows, which are essential for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1177,12 +1180,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:20:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mainly discusses the installation process of Visual Studio 2010 Team Foundation Server on Windows Vista, which implies a setup procedure but does not focus on diagnosing or resolving technical issues during or after installation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Foundation Server, with minimal emphasis on troubleshooting or resolving issues. While it mentions the need for configuration post-installation, it lacks detailed discussions on diagnosing or solving problems related to the installation or configuration processes. Therefore, it does not align well with the core themes of troubleshooting.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1222,7 +1228,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T10:42:21",
+    "calculated_at": "2025-03-15T07:20:43",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1230,7 +1236,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Team Foundation Server (TFS) and does not explicitly discuss the role of software developers within Agile or DevOps frameworks. While it mentions TFS, which is a tool relevant to developers, it lacks a discussion on best practices, methodologies, or the impact of Agile and DevOps on developer productivity. The content is more technical and procedural rather than thematic, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

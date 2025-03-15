@@ -27,9 +27,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Learning
-- Discovery and Learning
+tags: []
 resourceTypes:
 - video
 categories: []

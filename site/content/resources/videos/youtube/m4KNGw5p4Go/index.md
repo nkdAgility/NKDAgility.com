@@ -30,15 +30,15 @@ sitemap:
   priority: 0.6
 tags:
 - Discovery and Learning
-- Lean Product Development
-- Experimentation
 - Product Discovery
 - Pragmatic Thinking
+- Agile Project Management
 - Product Validation
-- People and Process
+- Lean Product Development
+- Agile Philosophy
+- Product Delivery
+- Experimentation
 - Continuous Learning
-- Ability to Innovate
-- Agile Product Management
 resourceTypes:
 - video
 categories:

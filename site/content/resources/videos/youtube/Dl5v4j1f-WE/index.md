@@ -35,11 +35,8 @@ tags:
 - People and Process
 - Personal
 - Scrum Values
+- Agile Project Management
 - Transparency and Accountability
-- Transparency
-- Agile Leadership
-- Agile Product Management
-- Agile Values and Principles
 resourceTypes:
 - video
 categories:

@@ -379,12 +379,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical procedure for customizing colors in Team Foundation Server, which involves editing configuration files and using specific software tools. However, the focus is more on specific implementation details rather than on broader software engineering principles or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server, which is more about configuration than software craftsmanship or engineering practices. While it does touch on technical aspects like exporting and importing process configurations, it lacks a broader discussion on best practices, code quality, or architectural principles. The technical details provided are limited to a specific task without delving into the underlying methodologies or principles that would align with the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -451,7 +454,7 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-11T16:49:05",
+    "calculated_at": "2025-03-15T05:05:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -459,7 +462,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions 'Product Backlog Items' in the context of customising colours in Team Foundation Server, but it does not focus on the Product Backlog's definition, purpose, or management strategies. The discussion is primarily technical and centred around configuration rather than backlog management, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -874,20 +877,23 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:55",
+    "calculated_at": "2025-03-15T05:05:35",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content primarily discusses customization of visual aspects within Team Foundation Server tools rather than the delivery of functional software or meeting user needs.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses customizing the Agile Planning Tools in Team Foundation Server, which is related to how tools are configured for Agile methodologies. However, it mainly focuses on the technical aspect of color customization rather than broader Agile planning topics.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses customisation of colours in Team Foundation Server 2013 Agile Planning Tools, which is a specific tool related to Agile planning. However, the focus is primarily on the technical aspects of configuration rather than broader discussions on Agile methodologies, backlog management, or team collaboration. While it does mention Agile Planning Tools, the depth of discussion is limited to configuration details without exploring the wider implications or benefits of such tools in Agile practices.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -1222,7 +1228,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T14:58:55",
+    "calculated_at": "2025-03-15T05:05:35",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1230,7 +1236,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on customising colours in Team Foundation Server (TFS) Agile Planning Tools, which is a technical task related to software development. However, it lacks direct discussions on Agile methodologies, DevOps principles, or broader software development practices. While it touches on a specific tool used in Agile environments, it does not explore the role of software developers or the impact of Agile practices on productivity or collaboration, leading to a low confidence score in alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

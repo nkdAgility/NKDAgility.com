@@ -30,14 +30,8 @@ aliasesArchive:
 - /resources/blog/visual-studio-2010-overview-microsoft-test-manager
 tags:
 - Practical Techniques and Tooling
-- Application Lifecycle Management
-- Software Development
-- Test Automation
-- Events and Presentations
-- Technical Excellence
 preview: metro-visual-studio-2010-128-link-1-1.png
-categories:
-- Engineering Excellence
+categories: []
 
 ---
 Microsoft Test Manager (MTM), AKA Test Professional, is a new testing system that team can use to create manual and Automation test quickly. The real advantage and strength of MTM is the integration with TFS and Visual Studio 2010 and how it can leverage the ALM tools and practices. In the demo, we show:

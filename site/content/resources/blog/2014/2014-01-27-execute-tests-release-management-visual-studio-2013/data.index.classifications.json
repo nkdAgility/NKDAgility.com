@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:41:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of automated release management and testing, which are relevant to platform engineering, but the primary focus is on specific tools and processes rather than a comprehensive discussion on platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses automated release management and testing processes, which are relevant to platform engineering. However, it primarily focuses on specific tools and processes (e.g., Visual Studio 2013, Lab Management, Release Management) without a broader discussion on the principles of platform engineering or internal developer platforms. While there are mentions of standardisation and automation, the depth of discussion is more about practical implementation rather than the overarching themes of platform engineering.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -40,12 +43,12 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:08:51",
+    "calculated_at": "2025-03-15T04:40:59",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses the use of Release Management and Lab Management in Visual Studio 2013, focusing on deployment processes and automated testing rather than the principles of code quality or complexity theory.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -277,21 +280,24 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:41:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Release Management for Visual Studio 2013, which is a software product relevant to DevOps practices. However, it primarily focuses on technical implementation rather than providing a review or analysis of the product itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the technical aspects of using Release Management for Visual Studio 2013, focusing on deployment and testing processes. While it mentions tools and provides insights into their usage, it lacks a direct review or analysis of products or literature related to Agile or DevOps methodologies. The discussion is more technical and procedural rather than evaluative or comparative, which diminishes its alignment with the 'Products and Books' category.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:51",
+    "calculated_at": "2025-03-15T04:40:59",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses technical implementation details related to Release Management and automated testing, without a clear focus on value delivery strategies or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -325,12 +331,15 @@
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:41:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of release management and automated testing, which are relevant to standardising and integrating software development practices, but it primarily focuses on specific tools and processes rather than the broader principles of the One Engineering System.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the use of Release Management and Lab Management in Visual Studio 2013, focusing on automated testing and deployment processes. While it touches on aspects of standardisation and integration, it does not explicitly mention the One Engineering System (1ES) framework or its principles. The discussion is more centred on specific tools and their configurations rather than the broader themes of 1ES, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -391,11 +400,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T11:31:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:41:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Release Management and Lab Management in Visual Studio 2013, detailing techniques for improving deployment processes and automated testing, which aligns well with technical mastery in software engineering practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical aspects of executing tests with Release Management in Visual Studio 2013, discussing methodologies and practices related to automated testing and deployment. It provides detailed insights into the configuration and execution of automated tests, which aligns well with the principles of software craftsmanship and engineering excellence. However, while it covers specific technical practices, it lacks broader discussions on clean code principles or architectural best practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -409,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:31:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:41:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses automated testing and deployment processes within the context of Release Management in Visual Studio 2013, which is a key aspect of Continuous Delivery. It emphasizes the roles of automation and the configuration of deployment pipelines, aligning closely with Continuous Delivery principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automated release management and testing processes, which are integral to Continuous Delivery. It provides specific details about using Release Management in Visual Studio 2013, including deployment strategies and the configuration of automated tests. However, while it aligns well with the principles of Continuous Delivery, it lacks a broader discussion on the overarching methodologies and principles of CD as outlined by experts like Jez Humble and Dave Farley. The focus is primarily on practical implementation rather than a comprehensive exploration of Continuous Delivery concepts.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -565,12 +580,15 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T11:31:46",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T04:41:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily focuses on executing automated tests within the context of Release Management for Visual Studio 2013, including specific tools, configurations, and practices relevant to automated testing workflows.",
-    "level": "Primary"
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the execution of automated tests within the context of Release Management for Visual Studio 2013. It discusses specific tools and processes related to automated testing, such as Microsoft Test Manager and the configuration of automated tests in a release pipeline. The content provides detailed instructions and insights into the setup and execution of automated tests, aligning well with the principles and practices of automated testing. However, while it covers relevant topics, it does not delve deeply into broader methodologies or best practices, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -808,11 +826,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T11:31:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:41:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical implementation strategies for automated testing and release management using Visual Studio 2013, focusing on real-world applications and problem-solving techniques within a software development context.",
+    "final_score": 65.0,
+    "reasoning": "The content provides a detailed, practical guide on executing tests with Release Management in Visual Studio 2013, showcasing real-world applications of DevOps principles. It discusses specific challenges faced during deployment and offers pragmatic solutions, aligning well with the core themes of adaptability and practical problem-solving in complex environments. The depth of discussion is significant, as it covers various aspects of the process, including configuration and troubleshooting, which are essential for effective project management in Agile contexts.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -871,11 +892,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T11:31:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:41:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of Release Management in Visual Studio 2013 for executing automated tests, encompassing aspects of test automation principles and practices. It addresses configurations, tools, and strategies relevant to test automation within a deployment pipeline context.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on automating tests within the context of Release Management for Visual Studio 2013, discussing specific tools and processes related to test automation. It provides detailed insights into the setup and execution of automated tests, aligning well with the principles and practices of test automation. The discussion includes references to Microsoft Test Manager and the integration of automated tests into deployment workflows, which are key aspects of test automation. While it does touch on some broader topics related to deployment and release management, the core focus remains on automating testing processes, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -889,11 +913,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T11:31:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:41:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses aspects of automated testing and release management, which are related to delivering high-quality, functional software, although it also focuses on deployment processes rather than solely on working software itself.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the practical implementation of automated testing and release management in Visual Studio 2013, which aligns with the delivery of functional software. It provides insights into the deployment process and the integration of testing within the release pipeline, reflecting the importance of working software. However, while it touches on relevant practices, the discussion lacks depth in terms of broader Agile principles and customer feedback mechanisms, which are crucial for a higher confidence score in the 'Working Software' category.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -907,12 +934,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:41:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated deployment and testing processes which are related to Continuous Integration principles, but the primary focus is on release management tools rather than CI itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses automated testing and release management, which are related to Continuous Integration practices. However, it primarily focuses on the specifics of using Release Management in Visual Studio 2013 rather than the broader principles of CI. While it touches on aspects like automated tests and deployment processes, it lacks a comprehensive exploration of CI principles, best practices, or tools beyond the context of the specific software mentioned.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -979,12 +1009,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T11:31:47",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T04:41:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content is primarily focused on the practices and strategies involved in executing tests within the context of release management for Visual Studio 2013, discussing deployment processes, configuration, and integration with testing tools.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses various aspects of Release Management, particularly in the context of Visual Studio 2013 and Lab Management. It details the process of executing tests within a release pipeline, highlights the importance of configuration and environment setup, and addresses specific challenges and solutions related to automated deployment and testing. The depth of discussion is significant, covering practical steps and considerations, which aligns well with the core themes of Release Management. Overall, the content is highly relevant and focused on the category.",
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1006,20 +1039,26 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-15T11:31:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:41:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses release management, automated testing, and deployment processes which are relevant to Azure Pipelines, indicating a significant focus on pipeline management and operations, though it also heavily references older tools and broader release processes rather than specifically Azure Pipelines.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the use of Release Management in conjunction with automated testing and deployment processes, which aligns closely with Azure Pipelines' focus on CI/CD practices. It provides detailed insights into configuring and managing release templates, executing automated tests, and integrating with Microsoft Test Manager, all of which are relevant to Azure Pipelines. However, it does not explicitly mention Azure Pipelines itself, which slightly lowers the confidence score. The depth of discussion is substantial, covering specific configurations and troubleshooting, indicating a strong understanding of the topic.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:41:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses release management and the process of deploying software using automated tests, which relates to deployment practices but does not focus primarily on deployment frequency itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses automated release management and testing processes, which are relevant to deployment frequency. It mentions tools and practices that can enhance deployment processes, indicating a focus on optimising deployment intervals. However, while it touches on deployment practices, it lacks a comprehensive exploration of deployment frequency as a primary theme, thus resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Change Management": {
@@ -1051,12 +1090,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:41:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of automated release management and testing processes within a development environment, which aligns with the theme of digital transformation by leveraging digital tools for improved operational efficiency. However, it does not clearly focus on broader strategic themes or changes in cultural practices related to digital transformation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of Release Management and Lab Management tools in the context of automated testing and deployment processes. While it touches on aspects of digital tools and methodologies, it lacks a strategic focus on how these technologies enhance business agility or foster innovation. The discussion is primarily technical and operational, with limited exploration of broader digital transformation themes such as change management, organisational culture, or metrics for success.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1078,11 +1120,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T11:31:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:41:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the processes and methodologies involved in configuring environments for deployment and automated testing within Lab Management and Release Management, which aligns closely with system configuration practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the configuration and execution of automated tests within the context of Release Management for Visual Studio 2013. It provides detailed insights into setting up environments, managing components, and troubleshooting issues related to deployment and testing. The focus on configuration management tools and techniques, as well as the specific steps for optimising the deployment process, aligns well with the core themes of system configuration. However, while the content is rich in detail, it does not cover broader system optimisation strategies or security considerations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1123,29 +1168,38 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:41:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses executing automated tests in the context of Release Management, which is related to testing practices, but the main focus is on deployment and release management rather than explicitly on Test First Development principles or processes.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses automated testing and release management in Visual Studio 2013, but it does not explicitly focus on Test First Development principles or practices. While it mentions executing tests and the use of Microsoft Test Manager, it lacks a clear emphasis on writing tests before code, which is central to Test First Development. The discussion is more about deployment processes and tools rather than the foundational concepts of TDD or the benefits of embedding quality from the outset.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T04:42:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses Release Management and Visual Studio in the context of deployment and testing on a Windows environment, which suggests relevance to Windows, but it primarily focuses on tooling and processes that may not exclusively pertain to the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the use of Release Management for Visual Studio 2013, which is closely tied to the Windows operating system environment. It includes specific references to tools and processes that are integral to Windows, such as Microsoft Test Manager and Lab Management. The discussion is detailed, covering installation, configuration, and troubleshooting aspects relevant to Windows users. However, while it focuses on Windows-related tools, it does not delve deeply into broader Windows OS functionalities or general user management, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T11:31:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:41:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses concepts related to release management and automated deployments using Visual Studio 2013, which are relevant to deployment strategies. However, the focus is on specific tools and processes rather than broader deployment methodologies. It touches upon deployment practices but is somewhat tool-specific, thus making it a major but secondary theme.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses automated release management and testing processes, which are relevant to deployment strategies. It mentions tools like Release Management and Lab Management, and touches on aspects of deployment configuration and execution. However, it lacks a comprehensive exploration of specific deployment methodologies such as Blue-Green Deployments or Canary Releases, which are central to the category. The focus is more on practical implementation rather than strategic methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1186,21 +1240,27 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T11:31:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:41:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on troubleshooting issues related to executing tests and deployment using Release Management in Visual Studio 2013. It discusses specific bugs, configuration challenges, and techniques required to successfully execute automated tests, aligning well with the key topics in the Troubleshooting category.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to automated release and testing processes in Visual Studio 2013. It discusses specific bugs, such as the PowerShell script issue and the need for Shadow Accounts, which directly relate to identifying and resolving technical problems. The depth of discussion includes detailed steps for configuring components and environments, which aligns well with the troubleshooting category. However, while troubleshooting is a significant aspect, the content also includes broader discussions about deployment processes, which slightly detracts from its primary focus on troubleshooting.",
     "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:41:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated tests and deployment scenarios, which are relevant to experimentation in validating product quality, but does not focus primarily on hypothesis-driven approaches or broader experimentation discussions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses automated testing and release management processes, which are related to experimentation in terms of testing ideas and validating processes. However, it lacks a clear focus on hypothesis-driven methodologies and does not delve deeply into the systematic testing of ideas or the analysis of results. The primary emphasis is on technical implementation rather than the broader implications of experimentation within Agile workflows.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -1231,11 +1291,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T11:31:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:41:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses automated release management and testing using Visual Studio 2013, which is pertinent to software development practices, DevOps tooling, and the integration of continuous testing in the release pipeline.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the use of Release Management and automated testing within Visual Studio 2013, which directly relates to the role of software developers in the context of Agile and DevOps practices. It provides specific details on deployment processes, configuration of environments, and the integration of testing tools, aligning well with the core themes of the category. However, while it covers relevant topics, the discussion lacks broader context on Agile methodologies and team dynamics, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,11 +1312,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-15T11:31:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:41:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses executing tests within the context of Release Management and mentions automation and the integration of testing into the deployment process, which aligns with engineering practices. However, the primary focus seems to be more on the specific tooling and configuration rather than clear engineering principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses automated testing and release management, which are relevant to CI/CD practices. However, while it touches on automation and testing, it lacks a comprehensive exploration of clean code, TDD, or refactoring principles. The focus is more on specific tools and processes rather than the broader engineering practices that underpin Agile development.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -1375,12 +1441,15 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 45,
+    "calculated_at": "2025-03-15T04:41:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 42.0,
-    "reasoning": "While the content touches on the execution of automated tests within release management and mentions testing in the context of deployment, it primarily focuses on the processes and configurations related to Release Management rather than the principles of Test Driven Development (TDD). TDD as a method involves writing tests before the code, which is not the emphasis of this content.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses automated testing and release management in Visual Studio 2013, but it does not explicitly focus on Test Driven Development (TDD) principles or the TDD cycle. While there are mentions of executing tests and some aspects of automated testing, the primary focus is on deployment processes rather than on writing tests before code or the Red-Green-Refactor cycle. The discussion lacks depth in TDD-specific practices and does not address the core themes of TDD, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

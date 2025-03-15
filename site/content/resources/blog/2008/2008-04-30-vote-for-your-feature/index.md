@@ -22,10 +22,8 @@ aliasesArchive:
 - /blog/vote-for-your-feature
 - /vote-for-your-feature
 - /resources/blog/vote-for-your-feature
-tags:
-- Customer Feedback Loops
-categories:
-- Product Management
+tags: []
+categories: []
 preview: nakedalm-logo-128-link-1-1.png
 
 ---

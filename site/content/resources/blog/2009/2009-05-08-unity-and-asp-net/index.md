@@ -24,9 +24,6 @@ aliasesArchive:
 - /resources/blog/unity-and-asp-net
 tags:
 - Software Development
-- Technical Mastery
-- Practical Techniques and Tooling
-- Technical Excellence
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-1-1.png

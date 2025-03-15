@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses source control and its importance in software development, touching on aspects of code quality and practices that can influence complexity. However, the primary focus is on source control systems and DevOps rather than a deep exploration of code quality and complexity theory.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses source control and its importance in software development, touching on aspects of code quality and practices like automated release pipelines. However, the primary focus is on DevOps and source control systems rather than a deep exploration of code complexity or the theoretical aspects of complexity theory. While there are mentions of best practices and quality, the discussion lacks a thorough examination of the interplay between code quality and complexity, which is central to the category.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -67,12 +70,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses practices that align with Lean principles, such as minimising waste and improving processes, particularly in the context of software development and DevOps. However, the primary focus is on source control and DevOps practices rather than Lean methodologies specifically.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on modern source control systems and DevOps practices, with only a brief mention of Lean practices in the context of minimising waste and improving processes. While it discusses automation and continuous delivery, which are relevant to Lean, the overall emphasis is on software development methodologies rather than Lean principles specifically. The depth of discussion on Lean concepts is limited, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -106,21 +112,24 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of source control systems and DevOps practices within organisational contexts, highlighting the importance of team dynamics and communication in software delivery. However, the primary focus remains on technical tools and practices rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of source control and DevOps practices, touching on the relationship between technology and organisational processes. However, it primarily focuses on technical tools and practices without a deep exploration of the sociotechnical interactions or the impact of organisational culture on technology adoption. While there are mentions of team dynamics and the need for collaboration, these are not the primary focus, leading to a lower confidence score in alignment with the Sociotechnical Systems category.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:08:41",
+    "calculated_at": "2025-03-15T03:38:31",
     "ai_confidence": 30,
     "non_ai_confidence": 30,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses modern source control systems and DevOps practices, with some mention of quality and organisational assets, but does not focus on resilience or change management as a central theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -181,12 +190,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses modern source control systems and DevOps practices, which are relevant to enterprise agility, but the primary focus is on technical practices rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses modern source control systems and DevOps practices, which are relevant to enterprise agility but primarily focuses on team-level practices and tools rather than broader organisational agility. While it touches on the importance of collaboration and continuous delivery, it lacks a comprehensive exploration of organisational structures, leadership roles, or metrics that define enterprise agility.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -340,20 +352,23 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:41",
+    "calculated_at": "2025-03-15T03:38:31",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses modern source control systems and DevOps practices, with only peripheral references to Agile principles and Scrum, making it not central to the Agile Product Operating Model.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses practices related to modern software development and DevOps, which are relevant to organisational agility, but the primary focus is on source control systems and tools rather than on agility principles or cultural shifts.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses modern source control systems and DevOps practices, which are related to organisational agility but do not explicitly focus on the core themes of agility such as leadership, cultural shifts, or continuous improvement. While it mentions the importance of adapting practices and getting user feedback, the primary focus is on technical practices rather than organisational strategies or frameworks that enhance agility.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -388,12 +403,15 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:36",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of meeting a Definition of Done at least every 30 days, making it a significant but secondary theme within a broader discussion on source control and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions the Definition of Done in the context of software delivery and quality, indicating its importance in the development process. However, the primary focus of the content is on source control systems and DevOps practices, with only a few sentences dedicated to the Definition of Done. While it aligns conceptually with the idea of maintaining quality and accountability, the depth of discussion on the Definition of Done itself is limited, making it a secondary topic rather than a primary focus.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -418,11 +436,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T19:00:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T17:00:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of source control, automated release pipelines, and practices that support Continuous Delivery, making it a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Continuous Delivery principles, particularly the importance of automated release pipelines and source control, which are crucial for CD practices. However, it also heavily focuses on DevOps and Scrum methodologies, which, while related, detracts from a primary focus on Continuous Delivery itself. The depth of discussion on CD practices is present but not exhaustive, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -508,21 +529,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T19:00:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:38:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of source control, automated release pipelines, and various practices that enhance operational efficiency in software development, aligning well with the principles of Agile and DevOps.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of source control and automated release pipelines, which are critical components of operational practices in DevOps. It provides detailed recommendations for optimising software delivery processes, emphasising the need for continuous delivery, automation, and effective workflow management. The author shares practical insights and guidelines that align closely with the core themes of operational efficiency, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of becoming a professional Scrum team and mentions Scrum practices, but the primary focus is on source control and DevOps rather than Scrum team dynamics.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions the importance of becoming a professional Scrum team and references Scrum practices, but the primary focus is on source control and DevOps rather than the dynamics and collaboration within a Scrum Team. While there are some relevant points, they are not explored in depth, and the overall discussion is more aligned with general software development practices than specifically with Scrum Team dynamics.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -571,11 +598,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-14T19:00:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:38:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the importance of automated testing within the context of modern software development practices, including the necessity of an automated release pipeline and the recommendation to automate tests. It also touches on the role of automated testing in ensuring quality and efficiency in the delivery process, making it a primary theme.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of automated testing within the context of modern software development practices, particularly in relation to automated release pipelines and the necessity of automating tests. However, while it touches on these topics, the primary focus is on source control and DevOps practices rather than a deep exploration of automated testing principles and methodologies. Therefore, while there is a significant mention of automated testing, it is not the central theme of the content.",
     "level": "Secondary"
   },
   "Team Performance": {
@@ -607,12 +637,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T19:00:44",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T03:38:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses modern source control systems, DevOps practices, and methodologies for software development, including the importance of automated release pipelines and continuous delivery, which are central to software engineering practices.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses modern source control systems and their integration with DevOps practices, which are central to software development methodologies. It provides detailed insights into the importance of source control, automated release pipelines, and best practices for software teams, aligning well with the core themes of the Software Development category. The depth of discussion is significant, covering various aspects of the software development lifecycle, including CI/CD, quality assurance, and team collaboration, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -643,21 +676,27 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-14T19:00:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:38:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses modern source control systems, their importance, and best practices for using them effectively in software development, while also integrating DevOps practices.",
+    "final_score": 77.0,
+    "reasoning": "The content extensively discusses modern source control systems, emphasising their importance in the software development lifecycle and integration with DevOps practices. It provides detailed recommendations on best practices, such as using Git, implementing automated release pipelines, and the necessity of source control for all code. The author also critiques outdated practices and highlights the need for modern methodologies, which aligns well with the core themes of the category. However, while the content is rich in detail, it occasionally veers into broader discussions about software development practices, which slightly detracts from its primary focus on source control.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile practices and the importance of feedback and adaptation in software development, which aligns with empirical process control principles. However, the primary focus is on source control and DevOps practices rather than a deep exploration of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses modern source control systems and DevOps practices, which are tangentially related to empirical process control through the mention of continuous delivery and feedback loops. However, it lacks a focused discussion on the principles of empirical process control, such as transparency, inspection, and adaptation, which are central to the category. The content primarily revolves around source control and DevOps rather than the core themes of empirical process control.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -706,11 +745,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-14T19:01:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:38:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of automated release pipelines, continuous delivery, and practices that support frequent releases, making it a primary topic.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of automated release pipelines and continuous delivery, which are key aspects of frequent releases. It mentions the need for regular deployments and user feedback integration, aligning with the principles of Continuous Delivery. However, while these topics are present, they are not the primary focus of the content, which leans more towards source control and general software development practices. The depth of discussion on frequent releases is moderate, but not exhaustive.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -808,11 +850,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T19:01:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:38:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies in the context of modern source control systems and DevOps practices, emphasising real-world applications and the importance of adaptability in software development.",
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses practical strategies for implementing source control and DevOps practices, emphasising the importance of adaptability and real-world applications in software development. It provides detailed recommendations and guidelines that align closely with the core themes of pragmatic thinking, particularly in Agile and DevOps contexts. The author shares personal experiences and insights, demonstrating a strong understanding of the complexities involved in modern software development, which enhances the depth of the discussion.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -835,21 +880,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum principles and practices, particularly in relation to software development and the use of tools like VSTS, but it primarily focuses on source control and DevOps rather than Scrum product development specifically.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Scrum principles and practices, particularly in relation to software development and the importance of source control and automated release pipelines. However, while it touches on Scrum roles and practices, the primary focus is on source control and DevOps rather than Scrum product development specifically. The depth of discussion on Scrum is moderate, but it lacks a comprehensive exploration of Scrum methodologies and customer feedback integration, which are crucial for a higher confidence score.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling practices in the context of software development and mentions the use of VSTS for managing multiple teams, which aligns with the principles of Scaled Agile. However, the primary focus is on source control and DevOps rather than explicitly on scaling Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on source control systems and DevOps practices, with only brief mentions of Agile concepts. While it discusses the importance of collaboration and tools that can support Agile practices, it does not delve into scaling Agile methodologies or enterprise-level strategies, which are central to the Scaled Agile category.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -871,12 +922,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of automating tests and creating automated release pipelines, which are significant aspects of test automation, but the primary focus is on source control and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of automation in the context of software delivery and mentions the need for automated testing and release pipelines. However, the primary focus is on source control and DevOps practices rather than a dedicated exploration of test automation principles, frameworks, or best practices. While it touches on relevant topics, it does not provide in-depth coverage of test automation itself.",
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -889,11 +943,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-14T19:01:27",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:38:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses practices and tools that support the delivery of functional software, including source control, automated release pipelines, and the importance of quality in software development. However, it primarily focuses on source control systems and DevOps practices rather than directly addressing the characteristics or delivery of working software.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of source control and automated release pipelines, which are essential for delivering working software. It aligns with the category by emphasising practices that ensure software quality and functionality, such as continuous delivery and gathering user feedback. However, while it touches on these topics, the primary focus is on source control systems and DevOps practices rather than directly on the characteristics of working software itself.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -979,11 +1036,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-14T19:01:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:38:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of source control, automated release pipelines, and practices that support effective software delivery, which are central to release management.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses various aspects of source control and DevOps practices, which are relevant to release management. It mentions the importance of automated release pipelines and the need for continuous delivery, aligning with key topics in release management. However, the primary focus is on source control systems and general software development practices rather than a dedicated exploration of release management strategies, which limits the depth of discussion on the category.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1006,20 +1066,26 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automated release pipelines and mentions Visual Studio Team Services (VSTS), which is related to Azure DevOps, but the primary focus is on source control and general DevOps practices rather than specifically on Azure Pipelines.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of automated release pipelines and mentions Visual Studio Team Services (VSTS), which is closely related to Azure DevOps and Azure Pipelines. However, the primary focus is on source control and general DevOps practices rather than specifically on Azure Pipelines. While there are relevant points about automation and CI/CD practices, the depth of discussion on Azure Pipelines specifically is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-14T19:01:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:38:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of automated release pipelines, regular deployment cadences, and practices that enhance deployment frequency within a DevOps context.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of automated release pipelines and the need for regular deployments, which aligns with the core themes of deployment frequency. It mentions practices that support frequent releases, such as using source control, feature flags, and automated testing. However, while it touches on these topics, the primary focus is more on source control systems and general software development practices rather than solely on optimising deployment intervals.",
     "level": "Secondary"
   },
   "Change Management": {
@@ -1051,11 +1117,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses modern source control systems and DevOps practices, which are relevant to digital transformation, but the primary focus is on technical practices rather than strategic adoption of digital technologies for business transformation.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses modern source control systems and DevOps practices, which are integral to digital transformation. It highlights the importance of integrating digital tools to enhance software development processes and operational efficiency. However, while it touches on relevant themes, it primarily focuses on technical practices rather than broader strategic discussions or case studies related to digital transformation initiatives.",
     "level": "Tertiary"
   },
   "MVP": {
@@ -1096,11 +1165,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of source control and DevOps practices, which are relevant to technical leadership, but the primary focus is on tools and practices rather than on guiding teams or leadership strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of source control and DevOps practices, which are relevant to technical leadership. However, it primarily focuses on tools and practices rather than the broader aspects of guiding teams or fostering collaboration. While there are mentions of agile methodologies and the need for a professional Scrum team, the depth of discussion on mentoring, team dynamics, and servant leadership is limited.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -1123,11 +1195,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T19:02:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:38:57",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content discusses the importance of creating tests first and mentions Test Driven Development (TDD) as a practice, making it a primary topic within the broader context of modern software development and DevOps.",
+    "final_score": 70.0,
+    "reasoning": "The content briefly mentions test-first practices and advocates for creating tests before coding, which aligns with the principles of Test First Development. However, the primary focus of the content is on source control and DevOps practices, with only a moderate depth of discussion on TDD and related concepts. While it does touch on the importance of quality and automation in testing, the overall emphasis is not on Test First Development as the main topic.",
     "level": "Secondary"
   },
   "Windows": {
@@ -1204,12 +1279,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum in the context of software development practices and tools, but it primarily focuses on source control and DevOps rather than the specific role and responsibilities of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Scrum and the importance of becoming a professional Scrum team, but the primary focus is on source control systems and DevOps practices. While there are references to Scrum, they are not detailed or central to the discussion, which primarily revolves around technical implementation and tools rather than the specific role and responsibilities of a Scrum Master.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1231,11 +1309,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-14T19:02:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:39:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of software developers in the context of modern source control systems and DevOps practices, emphasising best practices, tools, and methodologies that enhance software delivery.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of software developers in the context of modern source control systems and DevOps practices. It directly mentions the importance of source control, automated release pipelines, and the integration of tools that support Agile methodologies. The author provides detailed recommendations and best practices that align closely with the core themes of the category, such as continuous delivery, collaboration, and the significance of developer autonomy. The depth of discussion is substantial, covering various aspects of software development and the tools that facilitate effective practices, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,11 +1330,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-14T19:02:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:39:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses modern software development practices, including source control, automated release pipelines, and test-first methodologies, which are central to Agile engineering practices.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses modern source control systems and their integration with DevOps practices, which aligns closely with the principles of Engineering Practices. It highlights the importance of source control, automated release pipelines, and test-first development, all of which are key topics in the category. The depth of discussion is significant, providing detailed guidelines and practices that enhance software engineering quality. However, while it touches on Agile methodologies, the primary focus is on source control and DevOps rather than solely on Agile engineering practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -1276,7 +1360,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T14:37:46",
+    "calculated_at": "2025-03-15T03:38:31",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1284,7 +1368,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on source control systems and DevOps practices, with a strong emphasis on technical implementation details rather than strategic product management. While there are brief mentions of team collaboration and the importance of user feedback, these are not explored in the context of product management methodologies or frameworks. The discussion lacks depth in strategic alignment with customer needs and business objectives, which are core themes of product management.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1306,12 +1390,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and methodologies, particularly in the context of software development and DevOps, but it primarily focuses on technical practices and tools rather than a strategic alignment of Agile principles with organisational vision.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses modern source control systems and DevOps practices, which are relevant to Agile methodologies. However, it primarily focuses on technical practices and tools rather than strategic alignment or the broader implications of Agile strategy. While there are mentions of continuous delivery and the importance of collaboration, the discussion lacks depth in terms of strategic planning and leadership roles in fostering an Agile culture.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1369,21 +1456,27 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of automated release pipelines and monitoring lead time and cycle time, which are relevant to throughput. However, the primary focus is on source control systems and general DevOps practices, making throughput a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of source control and automated release pipelines, which are relevant to throughput in terms of optimising workflows and improving delivery timelines. However, it lacks a focused discussion on measuring throughput or specific strategies for its improvement, making it a secondary topic rather than a primary focus.",
     "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:39:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses test-first practices and mentions Test Driven Development (TDD) as part of a broader discussion on modern software development practices, but TDD is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content briefly mentions Test Driven Development (TDD) as part of a broader discussion on modern software development practices, particularly in relation to source control and DevOps. While TDD is highlighted as a recommended practice, it is not the primary focus of the content, which centres more on source control systems and DevOps methodologies. The discussion on TDD lacks depth and does not explore its principles or practices in detail, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",

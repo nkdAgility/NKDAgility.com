@@ -29,14 +29,13 @@ aliasesArchive:
 tags:
 - Azure DevOps
 - Practical Techniques and Tooling
+- Release Management
 - Products and Books
 - Software Development
-- Release Management
 - Application Lifecycle Management
 - Business Agility
 - Enterprise Agility
-- Digital Transformation
-- Frequent Releases
+- Organisational Agility
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-6-6.png

@@ -82,34 +82,43 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on the Scrum value of openness, exploring its importance and practical implications within the Scrum framework.",
+    "calculated_at": "2025-03-15T00:30:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the Scrum value of openness, which is a core principle of the Scrum framework. It explores the importance of transparency and trust within Scrum teams, aligning well with the category's focus on Scrum values. However, while it provides a thoughtful exploration of these concepts, it lacks detailed discussions on other Scrum roles, events, or artifacts, which slightly limits its depth. Overall, the content is primarily focused on a key aspect of Scrum, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:30:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Scrum, one of the Agile frameworks, and emphasizes key values within it, making it central to the discussion.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on the concept of openness within the Scrum framework, discussing its importance in fostering trust and transparency. It directly mentions Scrum multiple times and elaborates on how openness is integral to its values. The discussion aligns well with the core themes of Agile frameworks, particularly in relation to team dynamics and communication. The depth of the discussion is significant, providing detailed insights into how openness can be implemented and its impact on team cohesion. Overall, the content is highly relevant to the category of Agile Frameworks.",
     "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:30:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily focuses on Scrum values, specifically openness, and its impact on team dynamics, which is a major theme within the Scrum framework. However, it does not directly address product development processes or the Scrum methodologies in detail.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of openness and transparency within the Scrum framework, which aligns with Scrum principles. It mentions key aspects such as clear communication and accessibility of information, which are relevant to product development. However, while it touches on these themes, it lacks detailed exploration of specific Scrum practices like sprint planning or backlog management, which affects the depth of discussion.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-11T11:38:17",
+    "calculated_at": "2025-03-15T00:29:50",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -117,7 +126,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the importance of openness and transparency within Scrum, which is relevant to Agile practices. However, it does not explicitly mention any specific events, presentations, or structured learning experiences. The discussion is more theoretical and personal rather than focused on a formal event or presentation context, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -229,11 +238,14 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:43:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses openness, trust, and transparency in Scrum, which are important aspects of self-organisation, but does not primarily focus on self-organisation itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses openness and transparency as vital components of Scrum, which are essential for fostering trust and collaboration within self-organising teams. While it does not explicitly mention self-organisation, the principles of trust and communication align closely with the category's themes. The depth of discussion on how openness contributes to team dynamics and performance supports the category, but it lacks direct references to self-organisation practices or techniques.",
     "level": "Tertiary"
   },
   "Market Share": {
@@ -301,47 +313,62 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:29:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of openness within the Scrum framework, which is a key aspect of Agile methodologies in software development.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the concept of openness within the Scrum framework, which is a key Agile methodology in software development. It directly mentions Scrum and its values, aligning with the category's focus on Agile practices. However, while it touches on important aspects of team dynamics and communication, it lacks detailed exploration of specific software development methodologies or technical practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "Content discusses the importance of trust and openness in Scrum, which aligns with coaching principles, but primarily focuses on Scrum values rather than coaching techniques or practices.",
+    "calculated_at": "2025-03-15T00:30:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of openness and transparency in Scrum, which indirectly relates to coaching by fostering trust and communication within teams. However, it does not explicitly mention coaching techniques or the role of a coach, leading to a moderate confidence score. The depth of discussion on emotional openness and team dynamics contributes positively, but the lack of direct references to coaching practices limits the overall alignment.",
     "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:30:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum values, particularly focusing on openness, which relates to Agile principles and team dynamics, but it primarily emphasizes team dynamics rather than specific Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the concept of openness within Scrum, which is a key aspect of Agile methodologies. However, it does not explicitly address Agile Planning principles or techniques, focusing instead on trust and transparency. While it touches on communication and team dynamics, it lacks depth in discussing planning strategies, user stories, or iterative processes, which are central to Agile Planning.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:30:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of openness in Scrum, which relates to Agile principles and team dynamics, but it primarily focuses on Scrum practices rather than Agile strategy itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the concept of openness within the Scrum framework, which is a specific Agile methodology. While it touches on themes of trust and transparency that are relevant to Agile principles, it lacks a broader strategic context regarding organisational vision, implementation at scale, or adaptability in business environments. The focus is more on the technical practices and values of Scrum rather than on strategic planning or decision-making processes that align with Agile Strategy.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:30:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of openness and trust within teams in the context of Scrum, which directly relates to enhancing team dynamics and performance.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of openness and transparency in Scrum, which directly relates to team dynamics and trust-building. It aligns well with the core themes of enhancing collaboration and communication within agile teams. The depth of discussion is significant, covering various aspects of openness, including clear communication and emotional transparency, which are crucial for team performance. Overall, the content is highly relevant to the category of Team Performance.",
     "level": "Secondary"
   },
   "Lean": {
@@ -493,12 +520,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of openness as a value within Scrum, which indirectly relates to cultural aspects of teamwork and collaboration, but primarily focuses on Scrum roles and practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:30:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of openness and transparency within Scrum, which are key cultural elements that influence team dynamics and collaboration. It explicitly mentions trust and emotional openness, aligning well with the themes of organisational culture. The depth of discussion is significant, as it explores various aspects of openness and its impact on team interactions, but it remains focused on Scrum practices rather than broader organisational culture strategies.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -541,12 +571,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of openness in Scrum, which relates to trust and transparency, influencing team dynamics and potentially impacting value delivery. However, it primarily focuses on Scrum values rather than direct strategies for value delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:30:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of openness and transparency within Scrum, which indirectly relates to value delivery by fostering trust and effective communication. However, it lacks direct references to value delivery strategies or methodologies, focusing more on team dynamics and emotional aspects rather than concrete practices that enhance customer satisfaction or business agility.",
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -625,11 +658,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:30:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of openness and trust in Scrum teams, focusing on team dynamics, collaboration, and the human elements essential for effective processes.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of openness and transparency within Scrum, which directly relates to team dynamics and collaboration. It explores how these principles foster trust and effective communication, aligning well with the core themes of the category. The depth of discussion is significant, covering various aspects of openness, including clear communication and emotional transparency, which are crucial for enhancing team performance and process improvement.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -736,12 +772,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:30:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of openness and transparency in Scrum, which aligns with the principles of empirical process control, but it primarily focuses on Scrum values rather than empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of openness and transparency in Scrum, which aligns with the principles of empirical process control. It highlights how transparency fosters trust and facilitates effective communication, key aspects of empirical process control. However, while it touches on these themes, it does not delve deeply into inspection and adaptation or provide specific techniques or case studies related to empirical process control, which limits its depth. Overall, the content is relevant but not exhaustive in its exploration of the category.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -829,11 +868,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Scrum values, particularly openness, and its impact on team dynamics and project management, which aligns with Agile Project Management principles.",
+    "calculated_at": "2025-03-15T00:30:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the concept of openness within the Scrum framework, which is a key aspect of Agile Project Management. It aligns well with the core themes of transparency, trust, and communication in agile methodologies. The depth of discussion is substantial, covering various dimensions of openness and its impact on team dynamics, which are crucial for effective project management in an agile context.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -874,11 +916,14 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T00:30:26",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the importance of openness in fostering trust and enhancing team dynamics, which aligns well with team motivation themes.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of openness and transparency in fostering trust within Scrum teams, which directly aligns with the themes of team motivation. It explores how clear communication and emotional openness contribute to a healthy team dynamic, thus enhancing engagement and collaboration. The depth of discussion on these aspects is substantial, providing insights into how these practices can lead to a more cohesive team environment.",
     "level": "Secondary"
   },
   "Personal": {
@@ -910,20 +955,26 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:30:17",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on the Scrum value of Openness, discussing its significance, the relationship with trust, and its impact on team dynamics. The title and content indicate a deep exploration of this specific Scrum value.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content primarily focuses on the Scrum value of openness, discussing its significance in fostering trust and transparency within teams. It provides a detailed exploration of what openness entails, including clear communication, accessibility of information, and emotional openness. The depth of discussion is substantial, as it not only defines openness but also illustrates its impact on team dynamics and collaboration. The content aligns closely with the core themes of Scrum values, particularly in how openness contributes to a healthy team environment.",
+    "level": "Primary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of openness in Scrum, which is a component of Agile product management, but focuses more on team dynamics and transparency rather than specific product management practices.",
+    "calculated_at": "2025-03-15T00:29:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of openness and transparency within Scrum, which is a key Agile framework. It directly mentions Scrum principles and values, particularly focusing on trust and communication, which are essential for effective product management. However, while it aligns well with Agile principles, it does not delve deeply into specific product management techniques or strategies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -1012,21 +1063,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:30:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the value of openness within the context of Scrum, which relates to some principles of Agile philosophy, but it primarily focuses on Scrum practices rather than the broader Agile philosophy.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily discusses the concept of openness within the Scrum framework, which is a specific Agile methodology. While it touches on themes of trust and transparency that align with Agile principles, it does not delve deeply into the broader Agile Philosophy or its foundational values. The focus remains on Scrum practices rather than the overarching mindset of Agile, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:30:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum, which is a framework related to Agile methodologies, a key topic in product delivery. However, the primary focus is on the value of openness within Scrum rather than the overall process of product delivery.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of openness and transparency within Scrum, which is a framework used in Agile methodologies. While it touches on aspects of team dynamics and communication that are relevant to product delivery, it does not explicitly address the end-to-end process of delivering software products or the methodologies and practices involved in product delivery. The focus is more on team culture and values rather than the practicalities of product delivery itself.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1039,21 +1096,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:30:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses openness in Scrum, which relates to team dynamics and collaboration, but primarily focuses on Scrum values rather than broader organisational agility principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the concept of openness within the Scrum framework, which is a component of Agile methodologies. While it touches on themes of trust and transparency that can contribute to organisational agility, it does not explicitly address broader organisational agility strategies or practices. The discussion is more focused on Scrum-specific values rather than the overarching principles of organisational agility, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:52:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Scrum value of openness and its impact on team dynamics, which is relevant to Agile practices, but primarily focuses on Scrum rather than broader Agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the concept of openness within the Scrum framework, which is a key aspect of Agile practices. While it does not explicitly mention Agile transformation as a whole, it aligns with Agile principles by emphasising trust, transparency, and communication. However, it lacks a broader discussion on methodologies, change management, or organisational agility, which limits its depth in the context of Agile transformation.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1075,11 +1138,14 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:29:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on the role of openness, transparency, and trust within Scrum teams, clearly aligning with key topics under the category of Transparency and Accountability.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of openness and transparency within Scrum, directly addressing the principles of transparency and accountability. It explores how openness fosters trust, emphasises clear communication, and highlights the need for emotional transparency, all of which align closely with the core themes of the category. The depth of discussion is significant, providing detailed insights into how these principles can be implemented in Agile environments, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -1285,12 +1351,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-15T00:30:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the value of openness, which is an important part of Agile values, specifically within the Scrum framework. However, the focus is primarily on Scrum and does not fully elaborate on broader Agile values or principles outside of this context.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of openness as a core value within Scrum, which aligns with Agile principles of transparency and trust. While it focuses on Scrum specifically, it does touch upon broader Agile values such as communication and team dynamics. However, the primary focus on Scrum limits its alignment with the category of Agile Values and Principles, as it does not delve deeply into the Agile Manifesto or its twelve principles.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1303,11 +1372,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:30:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team dynamics and the role of openness in Scrum, which relates to the interaction between social aspects (trust, transparency) and the technical framework (Scrum) but does not deeply engage with broader sociotechnical system principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses openness and transparency within Scrum, which touches on team dynamics and communication, key aspects of sociotechnical systems. However, it primarily focuses on Scrum principles without a broader exploration of how these elements interact with organisational structures or the overall sociotechnical context. The discussion lacks depth in connecting these ideas to organisational culture or project outcomes, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -1321,12 +1393,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T00:30:19",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of openness as a Scrum value, linking it directly to transparency and trust within teams.",
-    "level": "Secondary"
+    "final_score": 88.0,
+    "reasoning": "The content explicitly discusses transparency as a fundamental principle of Scrum, highlighting its importance in fostering trust and effective communication. It provides detailed insights into how openness contributes to transparency, including aspects like clear communication, accessibility of information, and emotional openness. The depth of discussion is significant, covering various dimensions of transparency and its impact on team dynamics, which aligns closely with the core themes of the category.",
+    "level": "Primary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1393,12 +1468,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Scrum values, particularly openness, which relates to team dynamics and collaboration. While it focuses on emotional and interpersonal elements, it touches on improving team effectiveness and indirectly suggests operational efficiency, but it is not primarily about operational practices or methods.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:30:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the concept of openness within Scrum, focusing on trust and transparency. While it touches on communication and team dynamics, it lacks direct references to operational efficiency, process optimisation, or specific methodologies that enhance delivery within Agile frameworks. The discussion is more about the values and principles of Scrum rather than practical applications or strategies for improving operational practices.",
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

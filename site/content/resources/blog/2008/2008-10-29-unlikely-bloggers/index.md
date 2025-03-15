@@ -26,8 +26,7 @@ aliasesArchive:
 - /unlikely-bloggers…
 - /blog/unlikely-bloggers…
 - /resources/blog/unlikely-bloggers
-tags:
-- Miscellaneous
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

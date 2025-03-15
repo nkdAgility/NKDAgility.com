@@ -5,7 +5,7 @@ ResourceId: Knb7n17SqYe
 ResourceImport: true
 ResourceType: newsletters
 date: 2024-01-04
-weight: 770
+weight: 715
 preview: naked-agility-technically-agile-1280×720-January2024.jpg
 author: MrHinsh
 resourceTypes: newsletter
@@ -22,16 +22,13 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- Agile Frameworks
-- Continuous Learning
 - Professional Scrum
 - Agile Project Management
 - Products and Books
-- Practical Techniques and Tooling
 - Software Development
+- Agile Frameworks
+- Practical Techniques and Tooling
 - Events and Presentations
-- Agile Product Management
-- People and Process
 
 ---
 As we enter the promising year of 2024, it's time to turn our aspirations into actions and truly master our craft. At NKDAgility, we're committed to fueling your journey toward excellence with our immersive learning scrum training courses. It's not just about learning; it's about transforming and leading in an agile world.

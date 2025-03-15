@@ -142,12 +142,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:29:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a custom control for Visual Studio Team System, which relates to internal developer platforms and enhancing developer productivity through custom tools. However, it primarily focuses on implementation details rather than broader platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the creation of a custom WPF control for Visual Studio Team System, which is related to work item tracking. While it touches on aspects of internal development processes, it lacks a direct focus on platform engineering principles such as enhancing developer productivity or optimising the application lifecycle. The mention of 'IWorkItemControl' indicates some alignment with internal developer platforms, but the overall discussion is more about implementation details rather than broader platform engineering concepts.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -181,12 +184,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:29:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily discusses the implementation of a custom WPF control for work item tracking in Visual Studio, which involves coding practices and design decisions. However, it does not deeply explore the complexities of software development processes or the relationship between code quality and complexity theory.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the implementation of a WPF control for work item tracking in Visual Studio, which involves coding practices and technical details. However, it lacks a deeper exploration of the complexities associated with software development processes, such as code quality principles or the impact of complexity on architecture. While there are mentions of coding practices, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -358,12 +364,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:29:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a custom control for work item tracking in Visual Studio, which relates to the delivery of software products. However, it primarily focuses on implementation details rather than broader product delivery methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a WPF control for work item tracking in Visual Studio Team System. While it touches on aspects of software development, such as creating controls and integrating them into a system, it lacks a direct discussion on methodologies, practices, or strategies related to product delivery. The mention of work item controls hints at a connection to product delivery, but it does not delve into the broader themes of planning, testing, or deployment that are central to the category.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -649,7 +658,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:51:15",
+    "calculated_at": "2025-03-15T07:28:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -657,7 +666,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical implementation of a WPF control for work item tracking in Visual Studio Team System. While it does touch on aspects of software craftsmanship, such as creating reusable components and adhering to interface contracts, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement processes. The depth of discussion is limited to specific coding examples without addressing the overarching themes of quality assurance, CI/CD practices, or team collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -709,12 +718,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T12:36:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:28:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the creation of a custom WPF control for use within the Visual Studio environment related to Team Foundation Server (TFS), which operates on Windows. It covers implementation details directly tied to Windows Forms and Visual Studio, indicating a strong focus on the Windows operating system environment.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF control for use within the Visual Studio Team System, which is directly related to the Windows operating system environment. It discusses the implementation of Windows Forms and WPF, both of which are integral to Windows application development. The content provides detailed code examples and explanations, demonstrating a strong alignment with the key topics of installation, configuration, and customisation within the Windows ecosystem. The depth of discussion is significant, covering various aspects of control creation and integration with Windows-based applications, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -736,12 +748,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T12:36:09",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T07:28:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "Content primarily discusses the creation of a WPF control for use within Visual Studio Team System, detailing techniques, code examples, and integration with work item tracking, all of which are closely related to software development practices.",
-    "level": "Primary"
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on creating a custom WPF control for work item tracking within Visual Studio Team System, which directly relates to software development practices. It includes specific code examples, implementation details, and references to relevant software development concepts such as user controls and interfaces. The primary focus is on software engineering techniques and methodologies, particularly in the context of custom control development, which aligns well with the key topics of the Software Development category.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -853,12 +868,12 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:18",
+    "calculated_at": "2025-03-15T07:28:53",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content provides technical details on creating a WPF control related to work item tracking within Visual Studio Team System, but does not focus on Agile engineering practices or methodologies like clean code, TDD, CI/CD, or similar. It primarily describes implementation without discussing engineering principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -889,11 +904,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-16T12:36:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:29:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses creating a custom WPF control for Azure Boards' work item tracking, which involves implementing the IWorkItemControl interface and relates directly to managing work items in Azure Boards.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF control for work item tracking within the context of Azure DevOps, which is related to Azure Boards. However, it lacks a comprehensive discussion on the broader functionalities and best practices of Azure Boards as outlined in the category description. While it mentions work item controls and their implementation, it does not delve into topics such as Agile project management, sprint planning, or team collaboration, which are key themes of the Azure Boards category.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -991,12 +1009,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:29:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily describes the creation of a custom control for work item tracking within Visual Studio Team System, which involves technical implementation details. While it includes aspects of usability and customization, it does not primarily focus on enhancing operational efficiency or applying methodologies from Agile, DevOps, or Lean frameworks, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a WPF control for work item tracking in Visual Studio Team System. While it touches on aspects of custom control creation that could relate to operational practices, it lacks a direct discussion on methodologies or strategies aimed at enhancing operational efficiency within Agile, DevOps, or Lean frameworks. The content does not provide substantial detail on process optimisation, continuous improvement, or metrics for operational efficiency, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1072,12 +1093,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:29:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses creating a custom control for work item tracking in Visual Studio Team System, which relates to work item management and customization rather than modern source control practices. However, it touches on version control concepts through references to team foundation systems, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the creation of a custom WPF control for work item tracking within Visual Studio Team System. While it mentions work item controls and their integration with the Team Foundation Server (TFS), it does not focus on modern source control practices, methodologies, or strategies. The discussion lacks depth in version control concepts and does not address key topics such as branching strategies, code review processes, or collaboration workflows, which are essential for the 'Modern Source Control' category.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1345,12 +1369,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:29:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation and configuration of a custom work item control for Visual Studio Team System, which involves aspects of system configuration, such as setting up user controls, integrating WPF with Windows Forms, and modifying XML definitions for custom controls. However, the primary focus leans more towards software development and implementation rather than extensive detail on system configuration methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating a custom WPF control for work item tracking in Visual Studio Team System, which is more aligned with software development practices rather than system configuration. While it touches on aspects of integration and setup, it lacks a comprehensive discussion on configuration management, optimisation strategies, or troubleshooting common configuration issues. The technical details provided do not sufficiently address the core themes of system configuration, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1417,7 +1444,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:57:56",
+    "calculated_at": "2025-03-15T07:28:53",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -1425,6 +1452,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on creating a custom WPF control for work item tracking in Visual Studio Team System, which is related to software development but does not discuss Scrum principles, roles, events, or artifacts. There are no direct mentions of Scrum or its practices, and the content lacks depth in discussing any Scrum-related topics.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

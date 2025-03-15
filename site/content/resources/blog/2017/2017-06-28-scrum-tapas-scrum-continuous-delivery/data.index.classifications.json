@@ -13,12 +13,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Scrum and Continuous Delivery, which are practical methodologies relevant to Agile and DevOps practices, but it does not delve deeply into specific tools or techniques.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions Scrum and Continuous Delivery, indicating a connection to Agile practices and tooling. However, it lacks detailed exploration of specific tools or methodologies, and the discussion is more about the relationship between Scrum and Continuous Delivery rather than practical techniques or tooling. The depth of discussion is limited, focusing primarily on a video series without providing substantial insights into implementation or best practices.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -121,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:32:59",
+    "calculated_at": "2025-03-15T03:44:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -129,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Continuous Delivery in relation to Scrum, indicating a connection to DevOps principles. However, the primary focus is on Scrum, with limited exploration of DevOps practices, tools, or cultural shifts. The discussion lacks depth and does not provide substantial insights into DevOps as a category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -277,21 +280,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T17:00:59",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its relationship with Continuous Delivery, which is relevant to Agile methodologies. However, it primarily focuses on a video series rather than providing a detailed review or analysis of a specific product or book.",
+    "final_score": 42.0,
+    "reasoning": "The content mentions 'Scrum Tapas' as a series of videos related to Scrum, which aligns with the category of discussing products that facilitate Agile practices. However, the focus is more on the integration of Scrum and Continuous Delivery rather than a detailed review or analysis of a specific product or book. The depth of discussion is moderate, providing some insights but lacking comprehensive analysis or recommendations.",
     "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Scrum and Continuous Delivery, which are relevant to value delivery practices, but it does not delve deeply into strategies or methodologies for ensuring iterative and continuous delivery of value.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions the relationship between Scrum and Continuous Delivery, which aligns with the category's focus on value delivery. However, it lacks detailed discussion on methodologies, strategies, or practices that enhance customer satisfaction or business agility. The mention of Scrum Tapas suggests a focus on Scrum but does not delve into value delivery principles or techniques, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -340,20 +349,26 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum, which is a framework that supports agile methodologies, but the primary focus is on the relationship between Scrum and Continuous Delivery rather than broader organisational agility principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions Scrum and Continuous Delivery, which are related to Agile methodologies, but does not delve into the broader themes of organisational agility such as leadership, cultural shifts, or strategies for adaptability. The focus is more on the mechanics of Scrum rather than its application in enhancing organisational agility.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Scrum and Continuous Delivery, which is relevant to Agile practices, and mentions an upcoming event, making it a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the relationship between Scrum and Continuous Delivery, which is relevant to Agile methodologies. It mentions a specific event (Agile In Africa 2017) and references a video series (Scrum Tapas), indicating some level of industry news. However, the focus is more on personal insights and experiences rather than a comprehensive review or analysis of tools or trends. The depth of discussion is limited, primarily providing a brief overview without extensive detail or critical evaluation.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -403,12 +418,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship between Scrum and Continuous Delivery, indicating that Continuous Delivery is a significant theme, but the primary focus is on Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions the relationship between Scrum and Continuous Delivery, indicating that they can complement each other. However, it lacks a detailed exploration of Continuous Delivery principles, practices, or methodologies. The focus is primarily on Scrum, with only a passing reference to Continuous Delivery, which does not provide sufficient depth or alignment with the core themes of the category.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -538,12 +556,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum, which is a framework for Agile transformation, but it primarily focuses on the relationship between Scrum and Continuous Delivery rather than a comprehensive exploration of Agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and Continuous Delivery, which is relevant to Agile practices. However, it lacks a comprehensive exploration of Agile transformation strategies, methodologies, or change management. While Scrum is mentioned, the focus is more on its application rather than on broader Agile transformation principles or frameworks. The depth of discussion is limited to a specific aspect of Scrum without addressing the wider context of Agile transformation.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -625,12 +646,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Scrum and Continuous Delivery, indicating a major theme related to Scrum, but it does not delve deeply into Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions Scrum in the context of Continuous Delivery, indicating a relationship between the two. However, it lacks a detailed exploration of Scrum principles, roles, or practices, which are essential for a higher confidence score. The focus is more on the integration of Scrum with another methodology rather than an in-depth discussion of Scrum itself.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -796,7 +820,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T11:46:53",
+    "calculated_at": "2025-03-15T03:44:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -804,7 +828,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the relationship between Scrum and Continuous Delivery, indicating a practical application of Agile principles. However, it lacks in-depth discussion on problem-solving strategies or real-world applications, which are crucial for a higher confidence score in the category of Pragmatic Thinking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -826,12 +850,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Scrum and Continuous Delivery, indicating a major theme related to Scrum practices, but it does not focus primarily on Scrum product development.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions Scrum and its relationship with Continuous Delivery, but it lacks a detailed discussion on Scrum principles, roles, or product development processes. While it aligns conceptually with the idea of Scrum, it does not delve into the core themes of Scrum Product Development, such as sprint planning or customer feedback integration.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -880,12 +907,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:44:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between Scrum and Continuous Delivery, which are relevant to the delivery of functional software, but does not primarily focus on working software itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the relationship between Scrum and Continuous Delivery, which is relevant to working software, but lacks detailed discussion on the characteristics, best practices, or metrics associated with delivering functional software. The focus is more on promoting a video series and an event rather than providing in-depth insights into working software.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",

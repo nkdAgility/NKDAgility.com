@@ -31,9 +31,6 @@ tags:
 - Product Owner
 - Agile Product Management
 - Value Delivery
-- Agile Philosophy
-- Pragmatic Thinking
-- Professional Scrum
 resourceTypes:
 - video
 categories:

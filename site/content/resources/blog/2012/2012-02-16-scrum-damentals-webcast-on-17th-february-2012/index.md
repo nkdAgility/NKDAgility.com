@@ -8,7 +8,7 @@ ResourceImportId: 4389
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-02-16
-weight: 775
+weight: 720
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,11 +27,6 @@ tags:
 - Agile Frameworks
 - Agile Project Management
 - Software Development
-- People and Process
-- Professional Scrum
-- Agile Transformation
-- Software Developers
-- Pragmatic Thinking
 categories:
 - Scrum
 - Social Technologies

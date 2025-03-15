@@ -33,15 +33,15 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Team
+- Agile Project Management
+- People and Process
+- Software Development
+- Team Performance
 - Agile Leadership
-- Technical Leadership
-- Agile Values and Principles
+- Coaching
 - Agile Frameworks
 - Agile Product Management
-- Agile Project Management
 - Agile Transformation
-- Business Agility
-- Organisational Agility
 resourceTypes:
 - video
 categories:

@@ -29,12 +29,8 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Agile Project Management
 - Software Development
-- Pragmatic Thinking
-- Personal
-- Organisational Change
-- Agile Transformation
-- Software Developers
 resourceTypes:
 - video
 categories:

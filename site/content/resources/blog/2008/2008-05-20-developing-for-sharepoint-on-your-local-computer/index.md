@@ -24,8 +24,6 @@ aliasesArchive:
 - /resources/blog/developing-for-sharepoint-on-your-local-computer
 tags:
 - Install and Configuration
-- Software Development
-- Practical Techniques and Tooling
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

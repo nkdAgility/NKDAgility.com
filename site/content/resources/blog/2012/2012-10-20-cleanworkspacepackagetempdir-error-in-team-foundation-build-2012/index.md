@@ -29,7 +29,13 @@ aliasesArchive:
 - /blog/team-foundation-build-2012-issue---the-target-cleanworkspacepackagetempdir-does-not-exist
 - /resources/blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
 tags:
+- Software Development
 - Troubleshooting
+- Install and Configuration
+- Practical Techniques and Tooling
+- System Configuration
+- Technical Mastery
+- Azure DevOps
 categories:
 - Engineering Excellence
 preview: metro-problem-icon-6-6.png

@@ -10,11 +10,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:27:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses defining and visualizing workflows in Kanban, which relates to strategic alignment and optimisation of delivery processes, but it primarily focuses on practical implementation rather than strategic development.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses the importance of defining and visualising workflows within a Kanban framework, which aligns with strategic approaches in Agile environments. It touches on key aspects such as clarity, alignment, and efficiency, which are essential for strategic optimisation. However, while it provides practical insights, it lacks a deeper exploration of strategic alignment with organisational goals or the broader implications of these practices in a strategic context, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -85,12 +88,15 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:27:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses core practices of Kanban, particularly defining and visualizing workflows, which are relevant to Kanban principles. However, it does not explicitly address scaling Kanban in large organisations or the specific challenges and strategies associated with it.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on defining and visualising workflow within a Kanban context, which is relevant to Kanban principles. However, it lacks explicit discussions on scaling Kanban across multiple teams or departments, which is a key aspect of the category. While it touches on important Kanban practices, it does not delve into strategies for managing dependencies or integrating Kanban at scale, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -130,12 +136,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:27:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses defining and visualizing workflows within a team, which relates to organisational dynamics and systems thinking. However, it primarily focuses on Kanban practices rather than a broader application of systems thinking in organisational contexts.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses workflow definition and visualisation within a Kanban framework, which touches on organisational dynamics and systems thinking. However, it primarily focuses on practical implementation rather than a deep exploration of systems thinking principles or the interplay of organisational structure and culture. While it mentions the importance of clarity and alignment among team members, it lacks a comprehensive analysis of feedback loops, emergent behaviours, or complexity in organisational change, which are central to the category of Organisational Physics.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -175,11 +184,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:13:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses defining and visualizing workflows, which relates to optimising work processes and controlling work in progress, but it primarily focuses on Kanban practices rather than throughput as a central theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of defining and visualising workflows, which is related to throughput as it touches on efficiency and managing work in progress (WIP). However, it lacks explicit discussions on measuring throughput or its direct impact on team performance and delivery timelines, which are crucial aspects of the category.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -196,12 +208,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:27:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses defining and visualizing workflow, which aligns with Lean principles of optimising processes and maximising value. However, it primarily focuses on Kanban practices rather than Lean principles as a central theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Kanban practices, which align with Lean principles, particularly in terms of workflow visualisation and efficiency. However, it lacks direct mentions of Lean terminology and concepts such as waste reduction or continuous improvement. The focus is more on Kanban implementation rather than a comprehensive exploration of Lean principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -223,21 +238,27 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:28:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses defining and visualizing workflows in a Kanban context, which relates to team collaboration and effectiveness. However, it primarily focuses on Kanban practices rather than directly addressing broader team performance strategies or Agile principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of defining and visualising workflows, which directly relates to team collaboration and efficiency. It mentions clarity, alignment, and efficiency as key benefits, aligning well with the core themes of team performance. However, while it touches on team dynamics, it lacks depth in discussing specific Agile practices or methodologies, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:27:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses defining and visualizing workflows, which relates to team agreement and collaboration, but primarily focuses on Kanban practices rather than self-organisation principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses defining and visualising workflows, which can contribute to self-organisation by fostering clarity and alignment among team members. However, it primarily focuses on Kanban practices rather than explicitly addressing self-organisation principles or techniques. The mention of a 'stable system' and collective understanding hints at self-organisation but lacks depth in exploring the core themes of autonomy and team empowerment.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -322,12 +343,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses defining and visualizing workflows in Kanban, which relates to empirical process control principles, but it primarily focuses on Kanban practices rather than a direct discussion of empirical process control itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:27:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on defining and visualising workflows within a Kanban framework, which is related to empirical process control but does not explicitly discuss its principles or practices. While it touches on aspects of transparency and efficiency, it lacks a direct emphasis on decision-making based on observed evidence or the core themes of inspection and adaptation central to empirical process control.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -394,12 +418,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:27:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses defining and visualizing workflows in Kanban, which involves interpreting how work is done and making decisions about workflow management. However, it primarily focuses on Kanban practices rather than a broader sensemaking framework.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses defining and visualising workflows, which contributes to a shared understanding among team members, a key aspect of sensemaking. However, it primarily focuses on Kanban practices rather than exploring the broader principles of sensemaking in complex environments. While there are mentions of clarity, alignment, and efficiency, the depth of discussion does not fully engage with the core themes of sensemaking, such as frameworks or leadership roles. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -439,11 +466,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:28:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses defining and visualizing workflows, which is relevant to Agile Planning, particularly in the context of Kanban. However, it primarily focuses on Kanban practices rather than broader Agile Planning principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on defining and visualising workflows within the context of Kanban, which is a key Agile methodology. While it discusses aspects of team alignment and efficiency, it does not explicitly address Agile Planning principles or practices such as user stories, backlogs, or iterative planning. The discussion is relevant but lacks depth in Agile Planning specifics, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Management": {
@@ -493,12 +523,15 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of defining a workflow and establishing agreed-upon rules within a team, which aligns with the principles of working agreements. However, the primary focus is on Kanban practices rather than explicitly on working agreements themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:27:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on defining and visualising workflows within a Kanban framework, which is not directly related to working agreements. While it touches on the importance of clarity and alignment among team members, it lacks explicit discussions on working agreements, their creation, or their role in fostering collaboration. The depth of discussion on working agreements is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -601,12 +634,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:28:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses defining and visualizing workflows, which aligns with Lean principles of efficiency and value delivery, but primarily focuses on Kanban practices rather than Lean Product Development as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on Kanban practices, which are related to workflow management and efficiency. While it touches on concepts like clarity, alignment, and efficiency, it does not explicitly discuss Lean Product Development principles or the elimination of waste. The discussion lacks depth in Lean-specific strategies and does not integrate customer feedback or continuous improvement, which are crucial for Lean methodologies.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -655,12 +691,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes related to selecting work items in a Kanban system, but it primarily focuses on defining and visualizing workflows rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:27:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of defining and visualising workflows, which indirectly relates to decision-making processes within teams. However, it primarily focuses on Kanban practices rather than structured, evidence-based methodologies for decision-making. While it touches on aspects like clarity and alignment, it lacks a deep exploration of empirical evidence or frameworks for evaluating options, which are central to the Decision Making category.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -727,11 +766,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:27:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban practices, which are part of Agile methodologies, but it primarily focuses on defining and visualizing workflows rather than broader Agile transformation strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on Kanban, which is a framework within Agile methodologies. It discusses defining and visualising workflows, which aligns with Agile principles of clarity and efficiency. However, it lacks a broader discussion on Agile transformation strategies, leadership roles, or change management, which are crucial for a comprehensive understanding of Agile transformation. Therefore, while it is relevant, it does not fully meet the criteria for a primary focus on Agile transformation.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -898,12 +940,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:27:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban practices and workflow visualisation, which are important aspects of Agile methodologies. However, it primarily focuses on technical practices rather than strategic context or broader Agile strategy discussions.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on Kanban practices, discussing workflow definition and visualisation, which are tactical aspects rather than strategic discussions. While it touches on alignment and efficiency, it lacks a broader exploration of Agile strategy, such as organisational vision or leadership roles in fostering an Agile culture.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -1051,12 +1096,15 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of defining and visualizing workflows in Kanban, which indirectly relates to transparency and accountability by emphasising the need for team agreement and clarity in processes. However, it primarily focuses on Kanban practices rather than explicitly addressing transparency and accountability as central themes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T14:53:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of defining and visualising workflows, which indirectly relates to transparency and accountability by fostering a shared understanding among team members. However, while it touches on these themes, the primary focus is on Kanban practices rather than a deep exploration of transparency and accountability principles. The mention of a 'stable system' and collective agreement on processes hints at accountability, but the overall discussion lacks depth in these areas.",
+    "level": "Secondary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -1138,12 +1186,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:27:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes related to selecting work items in a Kanban system, which aligns with decision theory principles, but the primary focus is on Kanban practices rather than decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on defining and visualising workflows within a Kanban framework, which is more about process management than decision-making in uncertain environments. While it touches on aspects of decision-making, such as selecting tasks and establishing rules, these discussions are secondary to the main topic of workflow efficiency. The content lacks a deep exploration of decision theory principles, heuristics, or the impact of uncertainty on choices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1174,12 +1225,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:27:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses defining and visualizing workflows in Kanban, which relates to maximizing value delivery through agreed-upon processes. However, the primary focus is on workflow definition rather than broader value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of defining and visualising workflows in Kanban, which aligns with the principles of iterative development and maximising customer value. However, it primarily focuses on procedural aspects and does not explicitly mention value delivery strategies or methodologies within Agile or DevOps frameworks. The depth of discussion on how these practices enhance customer satisfaction is moderate, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -1192,21 +1246,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:28:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban practices which relate to workflow visualisation and team agreement, aligning with agile principles, but it primarily focuses on specific practices rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Kanban practices, which are related to organisational agility, particularly in terms of defining workflows and enhancing team efficiency. However, it primarily focuses on procedural aspects rather than broader organisational agility strategies, such as leadership roles or cultural shifts. While it mentions the importance of clarity and alignment, it lacks a deeper exploration of how these practices contribute to overall organisational adaptability.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:27:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban practices, which are closely related to Lean methodologies, particularly in terms of workflow visualisation and maximising value. However, the primary focus is on Kanban rather than Lean principles directly.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Kanban, which is a Lean tool, and emphasises defining and visualising workflows to enhance efficiency and reduce waste. It aligns well with Lean principles by focusing on clarity, alignment, and the importance of a stable system. However, while it touches on Lean concepts, it does not delve deeply into broader Lean methodologies or principles, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1228,12 +1288,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:27:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses defining and visualizing workflows in Kanban, which touches on aspects of Systems Thinking, such as understanding interdependencies and the importance of a stable system. However, the primary focus is on Kanban practices rather than a comprehensive exploration of Systems Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses workflow definition and visualisation, which are important for team alignment and efficiency. However, it primarily focuses on Kanban practices rather than exploring the interconnectedness of systems or the principles of Systems Thinking. While there are elements of holistic analysis, such as the importance of a stable system and collective understanding, the discussion lacks depth in terms of Systems Thinking methodologies and frameworks.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1276,12 +1339,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T13:14:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:27:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of defining and visualizing workflows in a team context, touching on team dynamics and decision-making processes, which are relevant to sociotechnical systems. However, the primary focus is on Kanban practices rather than a comprehensive exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses workflow definition and visualisation, which touches on team dynamics and communication, but lacks a direct focus on the interplay between social and technical systems. While it highlights the importance of clarity and alignment within teams, it does not delve deeply into organisational culture or structure, nor does it provide a comprehensive exploration of sociotechnical interactions.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",

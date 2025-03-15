@@ -26,10 +26,6 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Azure DevOps
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
-- Application Lifecycle Management
 categories:
 - Engineering Excellence
 - DevOps

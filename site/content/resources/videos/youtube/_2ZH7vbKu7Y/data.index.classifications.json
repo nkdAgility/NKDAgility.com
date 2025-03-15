@@ -70,25 +70,31 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of training and fostering a learning environment within teams, which aligns with evidence-based practices in leadership. However, it primarily focuses on personal experiences and anecdotes rather than empirical evidence or structured data-driven approaches.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:17:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and continuous learning as essential for team success, which aligns with the principles of fostering a culture of evidence-based decision-making. However, it primarily focuses on personal experiences and general leadership advice without explicitly referencing empirical evidence or data-driven approaches. The discussion lacks depth in terms of specific evidence-based practices or metrics, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-12T13:04:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:11:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of training, learning, and creating an environment that encourages employee growth and development, which aligns with employee engagement principles. However, it also heavily focuses on technical aspects and personal experiences in the tech industry, making employee engagement a secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of training and continuous learning as a means to enhance employee engagement and motivation. It highlights how training can demonstrate organizational commitment, rebuild confidence in dejected teams, and foster a rewarding environment. While it does touch on employee engagement concepts, the primary focus is on training and development rather than directly addressing broader employee engagement strategies. The depth of discussion on engagement-related themes is moderate, with practical examples provided, but it does not fully explore all aspects of employee engagement as outlined in the category definition.",
     "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:24:20",
+    "calculated_at": "2025-03-14T21:16:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -96,15 +102,18 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses training and team dynamics, which are relevant to product management but lacks a direct focus on strategic alignment, methodologies, or frameworks specific to product management. While it touches on Agile and Scrum, it does not delve deeply into their application within product management contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-12T13:04:32",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of leaders in fostering a learning environment, empowering teams, and encouraging continuous improvement, which aligns closely with Agile Leadership principles.",
+    "calculated_at": "2025-03-13T15:33:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of training and continuous learning in the context of leadership, which aligns with Agile Leadership principles. It emphasises the role of leaders in fostering a culture of growth, adaptability, and psychological safety, particularly in rebuilding team morale and encouraging innovation. However, while it touches on Agile concepts, it does not explicitly mention Agile methodologies or frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -127,12 +136,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:17:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of training and continuous learning within organisations, which can relate to digital transformation by fostering a culture of innovation and adaptability. However, the primary focus is on training and team dynamics rather than a strategic discussion on digital technologies or their direct impact on business transformation.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of training and continuous learning in organisations, which indirectly relates to digital transformation by emphasising the need for adaptability and growth in response to technological evolution. However, it lacks a direct focus on digital technologies or specific strategies for digital transformation initiatives, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -172,20 +184,26 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of continuous learning and improvement within teams, which aligns with Lean principles. However, it primarily focuses on training and individual development rather than explicitly addressing Lean Product Development practices or waste reduction.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:17:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of continuous learning and training within teams, which aligns with the Lean principle of fostering a culture of continuous improvement. However, it lacks direct references to Lean Product Development concepts, such as waste reduction or customer feedback loops. The focus is more on general team development rather than specific Lean methodologies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-12T13:04:46",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of fostering a culture of learning and continuous improvement within teams and organisations, highlighting the role of leadership in shaping this culture. It addresses how organisational culture impacts employee engagement and the willingness to learn, which aligns closely with the key topics of the category.",
+    "calculated_at": "2025-03-13T16:41:50",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the importance of training and continuous learning as integral components of organisational culture. It highlights how leadership can influence team dynamics and morale, which aligns well with the category's focus on cultural elements that support Agile and DevOps practices. The depth of discussion on rebuilding a dejected team and fostering a rewarding learning environment further strengthens its relevance to organisational culture. However, while the content is rich in cultural insights, it does not delve deeply into specific cultural dimensions or case studies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -262,21 +280,27 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T13:05:02",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of fostering a culture of learning and innovation within teams, which aligns with the Ability to Innovate category. However, it primarily focuses on training and individual experiences rather than structured frameworks or metrics for measuring innovation capabilities.",
+    "calculated_at": "2025-03-14T14:58:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of training and continuous learning as a means to foster innovation and adaptability within teams. While it does not explicitly mention 'Ability to Innovate' as a category, it aligns with the core themes of fostering a culture of innovation and continuous improvement. The depth of discussion on creating a learning culture and adapting to technological changes supports the idea of enhancing innovation capabilities, but it lacks a direct focus on Evidence-Based Management principles and specific frameworks for measuring innovation.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:17:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of training and learning within teams, mentioning Scrum and Agile principles, but primarily focuses on broader themes of organisational culture and individual growth rather than a detailed exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of training and continuous learning within teams, which is relevant to Agile principles of adaptability and team dynamics. However, it does not explicitly focus on Agile frameworks or provide a detailed exploration of them. The mention of Agile, Scrum, or DevOps at the end is brief and does not contribute significantly to the overall discussion, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -289,11 +313,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-12T13:05:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:19:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of training and fostering a culture of learning within teams, which aligns with enhancing team dynamics and collaboration in Agile environments.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of training and continuous learning within teams, which aligns with the themes of fostering a culture of trust and psychological safety. However, while it touches on team dynamics and rebuilding morale, it lacks a direct focus on specific team collaboration techniques or Agile methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -343,12 +370,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses training and learning within software development teams, touching on Agile and Scrum methodologies, but primarily focuses on leadership and team dynamics rather than specific software development practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:17:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and continuous learning in a team context, which is relevant to software development but lacks a direct focus on specific software engineering practices or methodologies. While it touches on concepts like adapting to technological evolution and fostering a learning culture, it does not delve into core software development topics such as SDLC methodologies, coding best practices, or CI/CD. The mention of Agile, Scrum, and DevOps at the end suggests some alignment, but these are not explored in depth, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -418,21 +448,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-12T13:05:29",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of fostering a culture of learning and adaptability within teams, which aligns closely with change management principles in Agile environments. It addresses strategies for engaging team members in continuous improvement and the role of leadership in facilitating organisational transformation.",
+    "calculated_at": "2025-03-14T21:16:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of training and continuous learning as a means to foster a positive organisational culture, which aligns with change management principles. However, it primarily focuses on training and personal experiences rather than explicitly addressing change management strategies or practices. While it touches on rebuilding teams and adapting to change, it lacks a comprehensive exploration of change management frameworks or methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-12T13:05:31",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:16:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of encouraging learning and professional growth within teams, which aligns with mentoring principles. However, it primarily focuses on training and organisational culture rather than direct mentoring techniques or relationships.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of training and continuous learning, which aligns with mentoring principles. It provides strategies for rebuilding team morale and fostering a learning culture, reflecting mentoring techniques. However, it lacks direct references to mentoring roles or emotional intelligence, which slightly lowers the confidence score.",
+    "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -472,12 +508,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of training and learning for software developers, touching on modern engineering practices and Agile methodologies. However, it primarily focuses on leadership and organisational culture rather than the specific role of software developers within Agile and DevOps contexts.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:17:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of training and continuous learning within teams, which is relevant to software developers. However, it lacks direct references to Agile or DevOps methodologies, and the focus is more on general team dynamics and leadership rather than specific practices or tools used by software developers in these frameworks.",
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -562,11 +601,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T13:05:59",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical strategies for improving team capabilities and fostering a learning environment within Agile and Scrum contexts, emphasising real-world applications and problem-solving techniques.",
+    "calculated_at": "2025-03-14T21:16:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of training and continuous learning in teams, which aligns with pragmatic thinking by emphasising practical problem-solving and adaptability in complex environments. However, while it touches on Agile principles, it lacks direct references to Agile, Scrum, or DevOps frameworks, and the depth of discussion on these topics is limited. The focus is more on general training and team dynamics rather than specific pragmatic strategies within Agile contexts.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -598,12 +640,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:17:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of training and fostering a learning environment within teams, which aligns with Agile principles of adaptability and continuous improvement. However, it primarily focuses on training and individual growth rather than a comprehensive Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of training and continuous learning within teams, which aligns with Agile principles of adaptability and fostering a learning culture. However, it lacks direct mentions of Agile methodologies or strategic planning, focusing more on personal experiences and general team dynamics. The discussion is relevant but does not delve deeply into Agile strategy specifically.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -643,20 +688,26 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-12T13:06:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:16:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for enhancing team engagement, learning, and empowerment, which are central to team motivation. It addresses the importance of creating an environment that encourages learning and autonomy, as well as the need for leadership to foster a culture of trust and support within teams.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses various aspects of team motivation, particularly through training and continuous learning. It highlights the importance of fostering a supportive environment, rebuilding confidence, and celebrating small wins, which are all key elements of team motivation. The depth of discussion on creating a rewarding learning culture and addressing systemic issues that affect team morale further strengthens its alignment with the category. However, while the focus is strong, some sections could be interpreted as more general advice rather than strictly motivational strategies.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-12T13:06:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:16:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for improving team capabilities through training, fostering a learning environment, and encouraging team members to engage with new technologies, which aligns closely with enhancing team performance and collaboration.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of training and continuous learning as a means to enhance team performance and morale. It addresses strategies for rebuilding a dejected team, fostering a rewarding learning environment, and fixing systemic issues that hinder team growth. While it does not explicitly mention Agile or Scrum principles, the focus on team dynamics, learning culture, and leadership support aligns well with the core themes of team performance. The depth of discussion is substantial, providing practical examples and actionable steps, which further supports the classification.",
     "level": "Secondary"
   },
   "AI": {
@@ -733,11 +784,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-12T13:06:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of training and fostering a culture of learning within an organisation, which aligns with the principles of organisational change. It addresses the need for leaders to encourage team members to learn and adapt, reflecting on the impact of organisational culture on employee engagement and capability development.",
+    "calculated_at": "2025-03-14T21:16:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of training and continuous learning as a means to address team deficiencies and foster a culture of growth, which aligns with the principles of organisational change. However, it primarily focuses on training and personal experiences rather than specific frameworks or methodologies for organisational change. While it touches on aspects of leadership and adapting to change, it lacks detailed exploration of structured change management processes, which limits its depth in this category.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -760,11 +814,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of training and continuous learning within teams, which relates to operational efficiency and improvement. However, it primarily focuses on individual experiences and personal growth rather than specific operational practices or methodologies.",
+    "calculated_at": "2025-03-14T21:17:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 24,
+    "ai_depth": 26,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of training and continuous learning as operational practices that can enhance team performance and organisational growth. It aligns with the category by addressing techniques for improving operational efficiency through training, fostering a learning culture, and adapting to technological changes. However, while it touches on relevant themes, it lacks a direct focus on specific methodologies like Agile, DevOps, or Lean, which slightly reduces its overall confidence score.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
@@ -796,12 +853,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:17:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of training and fostering a learning environment within teams, which aligns with the responsibilities of a Scrum Master in coaching and mentoring. However, it primarily focuses on general leadership and team dynamics rather than specific Scrum Master practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses training and continuous learning, which are relevant to team development but does not specifically address the role of a Scrum Master or Scrum practices. While it touches on leadership and team dynamics, it lacks direct references to Scrum ceremonies, impediment removal, or the specific responsibilities of a Scrum Master.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -823,12 +883,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T13:07:01",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of a leader in fostering a learning environment within a team, which aligns with principles of technical leadership, mentoring, and encouraging continuous improvement. It addresses strategies for motivating team members to learn and adapt, which is central to effective technical leadership in agile contexts.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T21:17:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of training and continuous learning in a team, which aligns with the principles of technical leadership. It touches on mentoring, fostering a culture of learning, and adapting to technological changes, all of which are relevant to guiding development teams. However, the personal anecdotes and examples dilute the focus on technical leadership, making it a secondary rather than a primary focus.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -859,12 +922,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:17:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of creating an environment where team members feel encouraged to learn and take ownership of their development, which aligns with the theme of accountability. However, it primarily focuses on training and individual growth rather than accountability as a central topic.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and continuous learning as essential for team success, which indirectly relates to accountability by emphasising the importance of ownership and improvement. However, it lacks a direct focus on accountability as a primary theme, and the discussion does not explicitly differentiate between accountability and blame or delve deeply into team dynamics in the context of Agile methodologies.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -886,11 +952,14 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-12T13:07:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of creating an environment where team members feel safe to learn, express themselves, and try new things without fear of negative consequences. It highlights the need for leaders to foster a culture that encourages learning and innovation, which aligns closely with the principles of psychological safety.",
+    "calculated_at": "2025-03-14T21:17:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of creating a supportive environment for learning and growth, which aligns with the concept of psychological safety. It mentions the need for team members to feel safe to fail and learn from their experiences, which is a core aspect of psychological safety. However, while it touches on these themes, the primary focus is on training and continuous learning rather than explicitly on psychological safety itself. The depth of discussion on psychological safety is moderate, as it is integrated into broader topics of team development and culture.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -904,21 +973,27 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of training and creating an environment that encourages learning within teams, which aligns with the dynamics of a Scrum Team. However, it primarily focuses on general team development and leadership rather than specific Scrum roles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:17:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses training and continuous learning, which are relevant to team dynamics and performance. However, it lacks direct references to Scrum roles, collaboration techniques, or specific Scrum practices, making it more general in nature. While it touches on themes of team morale and growth, it does not explicitly focus on the Scrum framework or its specific methodologies.",
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:17:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of training and continuous learning in software development, touching on modern engineering practices and the need for teams to adapt to new technologies. However, the primary focus is on team dynamics and leadership rather than specific technical practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of training and continuous learning within teams, which touches on aspects of technical mastery, such as fostering a culture of learning and adapting to new technologies. However, it primarily focuses on team dynamics and leadership strategies rather than specific technical practices or methodologies. The discussion lacks depth in technical principles and best practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -949,12 +1024,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T13:07:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:17:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of continuous learning, adaptability, and creating an environment that encourages growth and innovation, which aligns with Agile principles. It also touches on the role of leadership in fostering a culture that supports Agile values, making it a primary theme.",
-    "level": "Secondary"
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of continuous learning and fostering a culture of growth, which aligns with Agile principles of adaptability and team empowerment. However, it lacks direct references to Agile methodologies or the Agile Manifesto, making it more of a general discussion on training and team dynamics rather than a focused exploration of Agile Philosophy.",
+    "level": "Tertiary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1003,20 +1081,26 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:17:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of training and fostering a learning environment within teams, which aligns with the broader theme of organisational capability and adaptability. However, it primarily focuses on operational tactics and individual team dynamics rather than explicitly defining or articulating long-term strategic goals.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of training and continuous learning within teams, which indirectly relates to organisational growth and adaptability. However, it primarily focuses on operational tactics and personal experiences rather than explicitly defining or articulating long-term strategic goals. The connection to strategic goals is present but not a primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-12T13:07:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:17:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of training, fostering a growth mindset, and creating an environment that encourages continuous learning and adaptability within teams. It highlights techniques for knowledge sharing and the necessity of learning from both successes and failures, aligning well with the principles of Continuous Learning.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of continuous learning, training, and fostering a growth mindset within teams. It highlights techniques for knowledge sharing, the significance of feedback loops, and the need for a culture that embraces experimentation and innovation. The depth of discussion is substantial, providing personal examples and actionable steps for leaders to create a supportive learning environment. Overall, the content aligns closely with the principles of Continuous Learning, making it a primary focus.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1042,12 +1126,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:17:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous learning and improvement within teams, which aligns with Lean principles. However, the primary focus is on training and Agile methodologies, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and continuous learning, which are relevant to Lean principles of continuous improvement and employee engagement. However, it lacks direct references to Lean methodologies, tools, or waste reduction strategies, making Lean a secondary theme rather than a primary focus.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1099,21 +1186,27 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of training and continuous learning within teams, which relates to enhancing product delivery capabilities. However, it primarily focuses on personal experiences and general team dynamics rather than specific methodologies or practices directly tied to the end-to-end product delivery process.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:18:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and continuous learning, which are important for team development but does not focus on the methodologies or practices of product delivery. While it touches on concepts like feedback loops and adapting to change, it lacks a direct emphasis on product delivery processes such as Agile methodologies, testing, or deployment strategies.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of training and fostering a learning environment within teams, which aligns with Agile principles. However, it primarily focuses on general team dynamics and personal experiences rather than specific Agile product management practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:17:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses training and continuous learning within teams, which is relevant to Agile principles but does not explicitly focus on Agile Product Management. While it touches on themes of team development and adapting to change, it lacks direct references to Agile methodologies, the role of the Product Owner, or specific practices related to product backlog prioritisation and stakeholder engagement.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1129,12 +1222,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of creating an environment that encourages learning and adaptability within teams, which aligns with Systems Thinking principles. However, it primarily focuses on training and individual experiences rather than a comprehensive exploration of Systems Thinking concepts.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:17:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of training and continuous learning within teams, which touches on aspects of Systems Thinking, such as the interconnectedness of team dynamics and the need for a supportive organisational culture. However, it primarily focuses on training and individual development rather than a holistic analysis of systems or the application of Systems Thinking principles. The mention of fixing the system rather than the people hints at a systems perspective, but the overall discussion lacks depth in exploring systemic interdependencies and feedback loops.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1156,12 +1252,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training and learning as a means to improve team capabilities, which aligns with the theme of practical techniques. However, it primarily focuses on the challenges of team motivation and learning rather than specific tools or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:17:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the importance of training and continuous learning within teams, which is relevant to improving team performance. However, it lacks direct references to specific Agile or DevOps tools and methodologies, making it more of a general discussion on training rather than a focused exploration of practical techniques and tooling. While it touches on concepts that could relate to Agile and DevOps, such as fostering a learning culture and adapting to technological changes, it does not provide detailed insights into specific tools or frameworks that enhance these practices.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1183,12 +1282,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:17:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses training and personal experiences related to learning and organisational culture, which are relevant to the broader context of business agility but do not directly reference specific Agile, Scrum, DevOps, or Lean principles. However, there are mentions of Scrum and modern engineering practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of training and continuous learning in a general organisational context without directly referencing Agile, Scrum, DevOps, or Lean methodologies. While it touches on themes relevant to business agility, such as fostering a learning culture and adapting to change, it does not provide actionable insights tied to specific frameworks or practices. The personal anecdotes and reflections contribute to a broader understanding of the topic but lack a direct connection to established theories, justifying a moderate confidence score in the Miscellaneous category.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -1240,12 +1342,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:01:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:17:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of training and fostering a learning environment within teams, which aligns with the principles of value delivery by enhancing team capabilities and ultimately delivering value to customers. However, the primary focus is on personal experiences and opinions rather than structured methodologies or strategies directly related to value delivery.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of training and continuous learning, which can contribute to value delivery by enhancing team skills and adaptability. However, it primarily focuses on personal experiences and general advice rather than specific strategies or methodologies directly related to Agile, Scrum, or DevOps frameworks. While there are mentions of fostering a learning culture and adapting to technological changes, the discussion lacks depth in terms of established value delivery practices and does not explicitly address iterative development or customer value measurement.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",

@@ -52,7 +52,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-07T13:41:39",
+    "calculated_at": "2025-03-14T22:43:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -60,7 +60,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Scrum and Lean, which are related to agile methodologies, but it does not explicitly discuss business agility principles or practices. The focus is more on personal experiences with Scrum and Lean rather than on fostering a culture of innovation or organisational responsiveness. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the category of Business Agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -73,7 +73,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-10T12:03:55",
+    "calculated_at": "2025-03-14T22:43:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -81,7 +81,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions Scrum and its role in enhancing teamwork but primarily focuses on the author's personal experience with Lean, which is not a core aspect of Professional Scrum. While there is some alignment with Scrum principles, the depth of discussion is limited and does not provide a thorough exploration of Scrum roles, events, or artifacts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -355,7 +355,7 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-11T17:38:37",
+    "calculated_at": "2025-03-14T22:43:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -363,7 +363,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on personal reflections regarding Scrum and Lean methodologies, which are more aligned with team-level practices rather than enterprise-level agility. While it mentions the importance of collaboration and efficiency, it lacks a broader organisational context and does not discuss frameworks, structures, or leadership roles that support enterprise agility. The depth of discussion on Lean and Scrum is notable, but it does not extend to the implications for organisational performance or culture.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -394,39 +394,51 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:52:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:16:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the author's experience with Scrum and its relationship with Lean, indicating a significant but secondary theme related to the Scrum Master role.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the author's personal journey with Scrum and the integration of Lean principles, which is relevant to the Scrum framework. However, it primarily focuses on the author's experience rather than the specific role and responsibilities of a Scrum Master. While there are mentions of Scrum, the depth of discussion on Scrum Master practices, coaching, or team dynamics is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T19:52:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum, which is a key framework within Agile Planning, but it primarily focuses on the author's personal experience and insights rather than on Agile Planning methodologies or practices.",
+    "calculated_at": "2025-03-13T15:38:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the relationship between Scrum and Lean, which are both relevant to Agile methodologies. However, it primarily focuses on personal reflections and experiences rather than providing a structured discussion on Agile Planning principles, techniques, or best practices. The mention of Scrum does align with Agile concepts, but the depth of discussion on Agile Planning itself is limited.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T19:52:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Scrum and Lean, touching on collaboration and effectiveness, which are relevant to Agile values, but the primary focus is on Scrum rather than the core Agile principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:43:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and Lean, which are specific frameworks rather than focusing on the underlying Agile values and principles. While it touches on collaboration and efficiency, it does not explicitly mention the Agile Manifesto or its core values, nor does it delve deeply into Agile principles. The discussion is more about personal experience with frameworks rather than a thorough exploration of Agile values.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T19:52:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between Scrum and Lean, indicating an understanding of how Lean principles can enhance Scrum practices, which is relevant to flow efficiency. However, it does not primarily focus on flow efficiency itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the relationship between Scrum and Lean, highlighting the importance of Lean principles in enhancing efficiency. However, it primarily focuses on personal reflections and experiences rather than providing detailed insights into flow efficiency concepts, metrics, or techniques for optimising throughput. While Lean is mentioned, the discussion lacks depth in terms of specific flow efficiency strategies or metrics.",
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -457,12 +469,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T19:52:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between Scrum and Lean, hinting at cultural dynamics in teamwork, but primarily focuses on personal experiences rather than a comprehensive exploration of organisational culture.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and Lean methodologies, focusing on their operational aspects rather than explicitly addressing organisational culture. While it touches on collaboration and efficiency, which are cultural elements, it lacks a direct exploration of how these methodologies influence or are influenced by organisational culture. The discussion is more about personal experiences and insights rather than a thorough examination of cultural dynamics within Agile environments.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -502,12 +517,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T19:52:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Lean, which are related to Agile methodologies, but the primary focus is on personal experiences rather than a comprehensive discussion on Agile transformation strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:43:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the author's personal experience with Scrum and Lean, highlighting their relationship and the benefits of integrating these methodologies. While it does touch on Agile principles, the focus is more on the author's journey rather than a comprehensive discussion of Agile transformation strategies or frameworks. The mention of Lean, which is not strictly an Agile methodology, slightly detracts from the alignment with the category. However, the depth of discussion regarding the integration of Scrum and Lean provides a reasonable level of insight into Agile practices.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -520,12 +538,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T19:52:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:43:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Lean in the context of a Scrum journey, indicating that Lean is a significant theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the 'lean' philosophy as a significant aspect of the author's Scrum journey, indicating a strong connection to Lean Principles. It highlights the transformative power of Lean and its relationship with Scrum, which aligns well with the core themes of Lean thinking, such as efficiency and value maximisation. However, while it mentions Lean and its benefits, the primary focus remains on the author's personal experience with Scrum, which slightly diminishes the overall emphasis on Lean principles alone.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -574,11 +595,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T19:52:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:44:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily reflects personal experiences and insights related to the author's journey with Scrum and Lean, making it a clear fit for the Personal category.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the author's personal reflections and experiences regarding their Scrum journey and the integration of Lean principles. It explicitly discusses the author's wish to have discovered Lean sooner, which aligns well with the Personal category's emphasis on individual insights and anecdotes. The depth of discussion is substantial, as the author shares specific experiences and the impact of these methodologies on their professional journey. However, there are elements of technical discussion regarding Scrum and Lean that slightly detract from the personal focus, preventing a perfect score.",
     "level": "Secondary"
   },
   "Events and Presentations": {
@@ -610,12 +634,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T19:53:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the dynamics of working together in Scrum, but primarily focuses on the relationship between Scrum and Lean, making Scrum a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the author's personal journey with Scrum and the integration of Lean principles, which is somewhat relevant to Scrum but primarily focuses on Lean rather than the dynamics of a Scrum Team. While it mentions collaboration and efficiency, it lacks detailed exploration of Scrum roles, team dynamics, or specific practices within a Scrum Team context.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -682,12 +709,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T19:53:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the dynamics of working together effectively in Scrum and mentions Lean, indicating a focus on collaboration, but it primarily reflects on personal experiences rather than providing techniques or strategies for team collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:44:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the relationship between Scrum and Lean, highlighting how Scrum facilitates collaboration and efficiency. However, it primarily focuses on personal reflections and insights rather than specific techniques or strategies for team collaboration. While it touches on the importance of collaboration, it lacks detailed exploration of team dynamics or shared ownership, which are central to the category.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -718,12 +748,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T19:53:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Lean principles with Scrum, highlighting the importance of understanding methodologies that foster innovation and effectiveness in teamwork. However, the primary focus is on Scrum and Lean rather than on broader discovery and learning processes.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the author's personal journey with Scrum and the importance of integrating Lean principles, which aligns with the themes of discovery and learning. It reflects on the learning process and the value of insights gained over time. However, the primary focus is on Scrum and Lean methodologies rather than a broader exploration of discovery and learning processes, which limits the depth of discussion in this specific category.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -763,11 +796,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T19:53:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Lean principles in relation to Scrum, indicating a connection to methodologies that can enhance market adaptability, but it primarily focuses on personal experiences rather than strategies or practices directly related to market responsiveness.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the relationship between Scrum and Lean methodologies, highlighting how Lean principles can enhance efficiency and collaboration. While it does touch on concepts relevant to market adaptability, such as the importance of data-driven insights and the potential for improved operational success, it lacks a direct focus on broader market adaptability strategies. The discussion is more personal and reflective rather than providing detailed strategies or case studies on how these methodologies can be applied to respond to market shifts.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
@@ -808,12 +844,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T19:53:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Scrum and Lean, highlighting the importance of understanding data and performance in the context of teamwork. However, it primarily focuses on personal experiences rather than a detailed exploration of metrics and learning principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the author's personal journey with Scrum and Lean methodologies, focusing on the importance of integrating Lean principles for better outcomes. While it touches on the role of data and insights in enhancing success, it lacks a direct focus on metrics, performance data analysis, or structured feedback mechanisms. The discussion is more anecdotal and philosophical rather than evidence-based, which diminishes its alignment with the core themes of the 'Metrics and Learning' category.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -826,12 +865,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T19:53:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:17",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Lean in the context of a Scrum journey, indicating that Lean principles are a significant theme, but the primary focus remains on Scrum.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the 'lean' philosophy in relation to Scrum, indicating an understanding of Lean principles. However, it primarily focuses on the integration of Lean with Scrum rather than on Lean Product Development itself. While there are mentions of Lean's benefits, the depth of discussion on Lean principles and their application in product development is limited, making it a secondary focus rather than a primary one.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -862,29 +904,38 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T19:54:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Lean principles with Scrum, indicating a major theme of strategic alignment and optimisation within Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the integration of Lean principles with Scrum, which aligns with strategic approaches in Agile environments. It highlights the importance of understanding Lean to enhance Scrum practices, indicating a focus on strategic alignment and optimisation of delivery processes. However, while it touches on these themes, the discussion lacks depth in terms of specific strategic techniques or metrics, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T19:54:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between Scrum and Lean methodologies, indicating an understanding of operational practices, but it does not primarily focus on techniques or strategies for enhancing operational efficiency.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the integration of Lean principles with Scrum, highlighting the importance of operational efficiency and collaboration. While it does mention Lean as a crucial element for enhancing the Scrum journey, the focus is more on personal reflection rather than detailed operational practices or strategies. The depth of discussion on how Lean can improve operational efficiency is moderate, but it lacks specific techniques or metrics that would strengthen its alignment with the category.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T19:54:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between Scrum and Lean, highlighting the importance of understanding these methodologies in the context of collaboration and effectiveness, which aligns with Agile principles. However, the primary focus is on Scrum rather than the broader Agile philosophy.",
+    "calculated_at": "2025-03-14T22:44:26",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 48.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and Lean, which are specific frameworks rather than the broader Agile Philosophy. While it touches on collaboration and efficiency, it lacks a direct focus on the foundational principles of Agile as a mindset. The discussion is more about personal experiences with Scrum and Lean rather than a deep exploration of Agile values and principles.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -898,12 +949,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T19:54:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding Lean in relation to Scrum, which touches on the dynamics of teamwork and collaboration, but it is not primarily focused on coaching practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the author's personal journey with Scrum and Lean, highlighting the importance of collaboration and efficiency. However, it primarily focuses on the methodologies rather than the coaching aspect. While there are elements of guidance and encouragement for others to explore these methodologies, the content lacks a direct emphasis on coaching techniques or the role of a coach, which diminishes its alignment with the Coaching category.",
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -916,11 +970,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T19:54:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Lean and Scrum, highlighting the importance of understanding both methodologies for improved team dynamics, which aligns with the principles of Continuous Learning.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the author's personal journey with Scrum and Lean, highlighting the importance of integrating these methodologies for success. While it touches on the idea of learning from experience, it primarily focuses on the author's reflections rather than providing a structured discussion on Continuous Learning principles. The mention of 'lean' and its transformative power aligns somewhat with the category, but the depth of discussion on Continuous Learning practices is limited.",
     "level": "Tertiary"
   },
   "Azure Boards": {
@@ -952,12 +1009,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T19:54:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Lean methodologies, indicating a connection to Agile principles, but it primarily focuses on personal experiences rather than specific Agile product management practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:44:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the relationship between Scrum and Lean, which are both relevant to Agile methodologies. However, it primarily focuses on personal reflections rather than providing in-depth insights into Agile Product Management practices. While it mentions Scrum, it lacks detailed discussions on key topics such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement, which are central to the category.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -988,11 +1048,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T19:54:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between Scrum and Lean methodologies, highlighting their impact on team dynamics and effectiveness, which aligns with sociotechnical systems. However, the focus is primarily on personal experiences rather than a comprehensive exploration of sociotechnical principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the relationship between Scrum and Lean, highlighting how Scrum acts as a social technology that enhances collaboration and efficiency. While it touches on the interplay between social and technical aspects, the primary focus is on personal experiences with Scrum and Lean rather than a broader exploration of sociotechnical systems. The discussion is somewhat detailed but lacks a comprehensive examination of organisational structures or team dynamics, which are key themes in the Sociotechnical Systems category.",
     "level": "Tertiary"
   },
   "Products and Books": {
@@ -1006,12 +1069,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T19:54:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between Scrum and Lean, which are both relevant to empirical process control, but the primary focus is on personal experiences rather than a detailed exploration of empirical process control principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:44:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the relationship between Scrum and Lean, which touches on empirical process control principles. However, it primarily focuses on personal reflections and the benefits of integrating Lean with Scrum rather than explicitly addressing empirical process control concepts such as transparency, inspection, and adaptation. The discussion lacks depth in exploring these core themes, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1024,12 +1090,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T19:54:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Lean principles with Scrum, highlighting practical experiences and insights gained over time, which aligns with pragmatic thinking in Agile contexts.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the integration of Lean principles with Scrum, highlighting practical applications and personal experiences. It mentions the importance of collaboration and efficiency, which aligns with pragmatic thinking. However, while it touches on these themes, the depth of discussion on specific problem-solving strategies or techniques is limited, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1069,12 +1138,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T19:54:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:44",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Lean in the context of a Scrum journey, indicating that Lean is a significant theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the 'lean' philosophy and its relationship with Scrum, indicating a clear understanding of Lean principles. However, the primary focus remains on Scrum, with Lean being a secondary theme. While there are direct mentions of Lean and its benefits, the depth of discussion primarily revolves around Scrum practices, which slightly diminishes the overall alignment with the Lean category.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1096,12 +1168,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T19:54:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum, which is a key Agile framework in software development, but it primarily focuses on personal experiences rather than methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the integration of Scrum and Lean methodologies, which are both key components of software development practices. It explicitly mentions Scrum, a framework within Agile methodologies, and discusses its relationship with Lean principles, highlighting their combined impact on efficiency and collaboration in software projects. However, while the content is relevant, it lacks detailed exploration of specific software development practices or techniques, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1150,12 +1225,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T19:54:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:48",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum, which is related to Agile methodologies, but it primarily focuses on personal experiences rather than best practices or the role of software developers in Agile contexts.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the author's personal experience with Scrum and Lean methodologies, which are relevant to software development practices. However, it primarily focuses on personal reflections rather than providing detailed insights into the role of software developers within Agile or DevOps frameworks. While it mentions Scrum and Lean, it lacks depth in discussing best practices, tools, or the impact on team dynamics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1249,12 +1327,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T19:55:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the dynamics of working together effectively in Scrum, which relates to team collaboration and motivation, but it primarily focuses on the integration of Lean principles rather than team motivation strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the integration of Scrum and Lean methodologies, which indirectly touches on team dynamics and collaboration. However, it primarily focuses on personal reflections and insights rather than explicitly addressing team motivation strategies or practices. The mention of collaboration hints at team engagement, but the overall depth and direct focus on team motivation are limited.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1285,11 +1366,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T19:55:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between Scrum and Lean, highlighting the importance of understanding Lean principles in the context of improving Scrum practices, which aligns with value delivery concepts.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the integration of Lean principles with Scrum, highlighting how this combination can enhance value delivery through improved collaboration and efficiency. While it does not explicitly focus on iterative development or customer value measurement, it aligns well with the core themes of value delivery by emphasising the importance of understanding operations and fostering a successful journey. The depth of discussion on the relationship between Scrum and Lean provides a solid foundation for value delivery practices, though it lacks specific techniques or metrics for measuring customer value.",
     "level": "Tertiary"
   },
   "System Configuration": {
@@ -1321,21 +1405,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T19:55:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:44:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its relationship with Lean, indicating a major theme related to Scrum practices, but it does not focus primarily on Scrum product development.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the author's personal experience with Scrum and the integration of Lean principles, which is relevant to Scrum practices. However, it lacks direct mentions of key Scrum roles, events, or detailed product development processes, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T19:55:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:45:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Lean and Scrum methodologies, which are related to organisational change, but the primary focus is on personal experiences with these frameworks rather than on broader organisational change strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and Lean methodologies, focusing on personal experiences rather than organisational change strategies or frameworks. While it touches on concepts of efficiency and collaboration, it lacks explicit discussions on organisational change principles, leadership roles, or resistance to change, which are central to the category.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1348,11 +1438,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T19:55:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Lean principles with Scrum, highlighting the importance of understanding methodologies for effective collaboration, which aligns with Agile strategy themes. However, it primarily focuses on personal experiences rather than broader strategic discussions.",
+    "calculated_at": "2025-03-14T22:45:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the integration of Lean principles with Scrum, highlighting the importance of understanding both methodologies for a successful Agile journey. While it does not explicitly focus on broader Agile strategy concepts such as organisational vision or leadership roles, it does touch on the adaptability and continuous value delivery aspects. The depth of discussion is moderate, providing personal insights and encouraging exploration of Agile methodologies, but lacks comprehensive strategic planning elements.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -1375,11 +1468,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T19:55:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:45:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Lean methodologies, which are related to organisational agility, but the primary focus is on personal experiences rather than a comprehensive exploration of agility principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and Lean methodologies, which are components of Agile practices. However, it lacks a broader discussion on organisational agility as a whole. While it touches on the importance of collaboration and efficiency, it does not delve deeply into the cultural and structural shifts necessary for true organisational agility. The focus is more on personal experience and insights rather than on strategies or frameworks that enhance organisational adaptability.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -1393,12 +1489,15 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T19:55:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:45:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Lean principles in relation to Scrum, indicating a connection to Lean methodologies, but the primary focus is on Scrum rather than Lean Startup concepts.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the 'lean' philosophy in relation to Scrum, highlighting its importance and potential benefits. However, it does not explicitly focus on Lean Startup principles such as MVP, the Build-Measure-Learn loop, or validated learning. While there is some conceptual alignment with Lean principles, the depth of discussion is more about the integration of Lean with Scrum rather than a focused exploration of Lean Startup methodologies. Therefore, the confidence score reflects a moderate relevance to the Lean Startup category.",
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

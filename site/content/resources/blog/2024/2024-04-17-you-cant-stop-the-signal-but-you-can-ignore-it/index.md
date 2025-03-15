@@ -8,7 +8,7 @@ ResourceImportId: 51389
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2024-04-17
-weight: 375
+weight: 390
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -36,8 +36,13 @@ tags:
 - Agile Frameworks
 - Agile Philosophy
 - People and Process
+- Agile Values and Principles
+- Transparency
+- Agile Project Management
 - Agile Transformation
 - Organisational Culture
+- Organisational Agility
+- Software Development
 
 ---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!

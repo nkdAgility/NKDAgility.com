@@ -130,12 +130,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in maximising value and engaging users, which relates to digital transformation principles. However, the primary focus is on Scrum roles and tactical goals rather than a comprehensive discussion on digital transformation strategies or technologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of the Sprint Goal and Product Owner in the context of Scrum, focusing on tactical and strategic goals. While it touches on aspects of business agility and user engagement, it lacks a direct focus on the broader themes of digital transformation, such as the integration of digital technologies or change management practices. The discussion is more centred on Scrum methodology rather than the strategic adoption of digital tools for business transformation.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -178,12 +181,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of the Product Owner in maximising value and engaging with users, which aligns with Lean principles. However, the primary focus is on Scrum roles and events, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Product Owner in maximising value and engaging with users, which aligns with Lean principles of customer feedback and value delivery. However, the primary focus is on Scrum roles and tactical goals rather than a comprehensive exploration of Lean Product Development principles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -196,11 +202,14 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in understanding customer needs and engaging with users to elicit feedback, which aligns with the theme of customer feedback loops, but it primarily focuses on Scrum roles and goals.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of the Product Owner in maximising value and engaging with users to elicit feedback, which aligns with the concept of customer feedback loops. However, it primarily focuses on the tactical aspects of setting Sprint Goals and does not delve deeply into the mechanisms of collecting and integrating customer feedback into the product development process.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -274,20 +283,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in maximising value and anticipating customer needs, which relates to innovation. However, the primary focus is on Scrum roles and tactical goals rather than a comprehensive exploration of the Ability to Innovate.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of the Product Owner in maximising value and anticipating customer needs, which aligns with the concept of innovation. However, it primarily focuses on tactical goals within Scrum rather than a broader discussion on the Ability to Innovate as defined in the category. The mention of hypotheses and metrics indicates some alignment with Evidence-Based Management, but the overall depth and focus on innovation practices are limited.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-11T21:01:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:57:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the role of the Sprint Goal within the Scrum framework, detailing its importance in achieving strategic objectives and the responsibilities of the Product Owner, which aligns closely with Agile principles.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the concept of the Sprint Goal within the Scrum framework, which is a key Agile framework. It explicitly mentions Scrum roles and principles, such as the Product Owner's responsibilities and the importance of tactical goals in relation to strategic objectives. The discussion aligns well with Agile principles, particularly in terms of value delivery and responsiveness to user needs. The depth of the discussion is significant, providing insights into how the Sprint Goal functions within the broader context of Agile practices. Overall, the content is focused on Agile frameworks, particularly Scrum, and offers a detailed exploration of its application.",
     "level": "Secondary"
   },
   "Scaling Agility": {
@@ -310,11 +325,14 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in understanding customer needs and engaging users, which aligns with customer satisfaction principles, but it primarily focuses on Scrum roles and tactical goals.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of the Product Owner in maximising value and engaging with users, which aligns with customer satisfaction principles. However, it primarily focuses on Scrum roles and tactical goals rather than directly addressing customer satisfaction metrics or methodologies.",
     "level": "Tertiary"
   },
   "Lean Thinking": {
@@ -355,11 +373,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-11T21:01:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:35:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum roles and the importance of Sprint Goals within the Agile framework, which are central to software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the role of the Sprint Goal within the Scrum framework, which is a key aspect of Agile methodologies in software development. It provides a detailed explanation of how the Sprint Goal serves as a tactical objective that aligns with broader strategic goals, emphasising the importance of the Product Owner's role in maximising value. The references to Scrum practices, Lean Canvas, and the need for user engagement further solidify its relevance to software development processes. Overall, the content is highly aligned with the core themes of the Software Development category, demonstrating a strong focus on Agile practices and methodologies.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -418,11 +439,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-11T21:01:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:35:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 4,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of the Product Owner in relation to Sprint Goals and product value maximisation, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner multiple times, focusing on their responsibilities in relation to the Sprint Goal and Product Goal. It aligns well with key topics such as stakeholder engagement, prioritisation strategies, and the importance of understanding customer needs. The depth of discussion is significant, providing insights into how a Product Owner should approach their role and the importance of hypothesis-driven development. Overall, the content is highly relevant to the Product Owner category.",
     "level": "Secondary"
   },
   "Change Management": {
@@ -445,20 +469,26 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-11T21:01:48",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:35:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the role of the Sprint Goal in relation to the Product Goal and emphasises the importance of hypotheses and metrics in decision-making, which aligns with empirical process control principles. However, the primary focus is on the roles and responsibilities of the Product Owner rather than a comprehensive discussion on empirical process control itself.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of the Sprint Goal in relation to the Product Goal, emphasising the importance of hypothesis-driven development and the need for metrics to validate assumptions. It aligns well with the principles of empirical process control by highlighting the need for transparency, inspection, and adaptation in the context of Agile methodologies. However, while it touches on these themes, the focus is more on the tactical aspects of Scrum rather than a comprehensive exploration of empirical process control principles.",
     "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-11T21:01:49",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:35:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the role of the Product Owner in maximising value and engaging with users, which aligns with product validation principles. However, the primary focus is on Scrum roles and goals rather than direct methodologies for validating product ideas through user engagement.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of the Product Owner in maximising value and engaging users, which aligns with the core themes of product validation. It mentions the importance of hypotheses and user engagement, which are critical for validating product ideas. However, the focus is more on Scrum roles and processes rather than direct methodologies for product validation, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure Boards": {
@@ -481,12 +511,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner and their collaboration with developers in the context of Agile methodologies, particularly focusing on the Sprint Goal and its tactical implications. While it is primarily about the Product Owner's responsibilities, it does highlight the importance of developers in achieving the Sprint Goal, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of the Sprint Goal within the Scrum framework, highlighting the importance of collaboration between the Product Owner and Developers. While it touches on Agile principles and the responsibilities of developers in achieving tactical goals, the focus is more on the Product Owner's role and strategic planning rather than on software developers' practices or methodologies. Therefore, while there is some relevant content, it does not fully align with the primary focus of the category.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -571,11 +604,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T21:02:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:35:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of the Sprint Goal within the Scrum framework, emphasising tactical decision-making and the role of the Product Owner in navigating immediate business challenges. It aligns well with pragmatic problem-solving strategies in Agile contexts.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of the Sprint Goal within the Scrum framework, emphasising its practical application as a tactical goal that aligns with strategic objectives. It highlights the importance of the Product Owner's role in maximising value and making decisions based on user engagement and immediate business needs. The discussion includes practical strategies, such as using Lean principles and hypothesis-driven development, which align well with the core themes of Pragmatic Thinking. However, while the content is rich in practical insights, it could benefit from more detailed case studies or examples to enhance its depth further.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -589,11 +625,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-11T21:02:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:35:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the Sprint Goal within the Scrum framework, emphasising the responsibilities of the Product Owner and the iterative nature of agile project management.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of the Sprint Goal within the Scrum framework, highlighting its importance in achieving the Product Goal and the responsibilities of the Product Owner. It aligns well with agile principles, focusing on iterative development, stakeholder engagement, and the need for continuous feedback. The depth of discussion on tactical goals and the strategic direction of projects further supports its strong alignment with Agile Project Management.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -607,11 +646,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-11T21:02:16",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T02:35:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the alignment of Sprint Goals with strategic objectives and the role of the Product Owner in maximising value delivery, which are key aspects of Agile Strategy. However, it primarily focuses on tactical elements of Scrum rather than broader strategic themes.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the relationship between Sprint Goals and Product Goals, highlighting how tactical actions contribute to strategic objectives. It emphasises the role of the Product Owner in aligning immediate tactical goals with broader strategic aims, which aligns well with Agile Strategy principles. The depth of discussion on the importance of hypothesis-driven development and user engagement further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Continuous Delivery": {
@@ -661,11 +703,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in maximising value and engaging with users, which relates to team dynamics and performance. However, it primarily focuses on the Sprint Goal and tactical aspects rather than broader team performance strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of the Product Owner in maximising value and engaging with users, which aligns with team performance and collaboration. It mentions the importance of the Sprint Goal and its tactical nature, which relates to Agile practices. However, while it touches on team dynamics, it lacks a deeper exploration of team collaboration techniques or conflict resolution strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "AI": {
@@ -760,11 +805,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-11T21:02:40",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T02:36:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the role of the Sprint Goal within the Scrum framework, the responsibilities of the Product Owner, and the importance of aligning product development with customer needs and feedback.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role of the Sprint Goal within the Scrum framework, highlighting its importance in achieving the Product Goal. It elaborates on the responsibilities of the Product Owner and the iterative nature of Scrum, which aligns well with the core themes of Scrum Product Development. The discussion is detailed, providing insights into tactical and strategic goals, customer engagement, and the necessity of feedback, all of which are central to effective product development in a Scrum context.",
     "level": "Secondary"
   },
   "Operational Practices": {
@@ -814,12 +862,15 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in anticipating customer needs and building features accordingly, which relates to forecasting in terms of predicting future requirements. However, the primary focus is on the Sprint Goal and tactical planning rather than explicit forecasting methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of the Sprint Goal and Product Owner in maximising value and anticipating customer needs, which relates to forecasting in terms of predicting future requirements. However, it primarily focuses on tactical goals and the responsibilities of the Product Owner rather than specific forecasting methodologies or empirical data usage. While there are mentions of anticipating features and engaging users, the depth of discussion on forecasting techniques and practices is limited.",
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -832,48 +883,63 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-11T21:02:53",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:36:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the role of the Product Owner in identifying customer needs and building features that address immediate business problems, which aligns with product discovery practices. However, the primary focus is on Scrum roles and tactical goals rather than a comprehensive exploration of product discovery methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of the Product Owner in maximising value and understanding customer needs, which aligns with the core themes of Product Discovery. However, the primary focus is on Scrum roles and tactical goals rather than methodologies for identifying customer needs or validating product ideas. While there are mentions of user engagement and hypothesis-driven development, the depth of discussion on specific product discovery techniques is limited.",
     "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in maximising value and engaging with users, which aligns with Lean principles. However, the primary focus is on Scrum roles and tactical goals rather than a direct application of Lean Startup methodology.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of the Product Owner and the importance of hypotheses in product development, which aligns with Lean Startup principles. However, it primarily focuses on Scrum methodology rather than Lean Startup concepts like MVP or the Build-Measure-Learn loop. The mention of Lean Canvas suggests some alignment, but the overall focus is more on tactical goals within Scrum than on Lean Startup practices.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-11T21:02:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:36:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the role of the Sprint Goal within Agile Planning, focusing on how it serves as a tactical step towards achieving the Product Goal. It elaborates on the responsibilities of the Product Owner in maximising value and aligning tactical outcomes with strategic objectives, which are central themes in Agile Planning.",
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the role of the Sprint Goal within the context of Agile Planning, particularly in relation to the Product Goal and the responsibilities of the Product Owner. It aligns well with Agile principles by emphasising iterative planning, value maximisation, and the importance of user engagement. The depth of discussion is significant, covering tactical and strategic goals, and suggesting tools like the Lean Canvas to enhance planning practices. Overall, it strongly reflects the core themes of Agile Planning.",
     "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-11T21:02:58",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:36:08",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the role of the Product Owner and their accountability in maximising value and making tactical decisions towards achieving the Sprint Goal. While accountability is a significant theme, the primary focus is on the tactical aspects of the Sprint Goal and the Product Owner's responsibilities rather than a broader discussion on accountability within Agile teams.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of the Product Owner in maximising value and accountability within the context of Sprint Goals. However, while it touches on accountability, it primarily focuses on tactical goals and the responsibilities of the Product Owner without deeply exploring the broader themes of accountability in Agile teams or strategies for fostering a culture of accountability.",
     "level": "Secondary"
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in identifying immediate business needs and validating assumptions through hypotheses, which aligns with MVP principles. However, the primary focus is on Scrum roles and goals rather than MVP development specifically.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of the Product Owner and the importance of hypotheses in product development, which aligns with MVP principles. However, it primarily focuses on Sprint Goals and tactical planning rather than explicitly addressing MVP concepts or strategies for validating market assumptions.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -904,11 +970,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-11T21:03:05",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:36:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner within the Scrum framework, focusing on responsibilities related to the Sprint Goal and Product Goal, which are central to Scrum Team dynamics.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the roles of the Product Owner and the importance of the Sprint Goal in relation to team dynamics and value delivery. It highlights the responsibilities of the Product Owner in collaboration with Developers, which aligns with Scrum Team dynamics. However, it primarily focuses on the Product Goal and Sprint Goal rather than broader team collaboration or dynamics, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Technical Mastery": {
@@ -1003,11 +1072,14 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Sprint Goals and Intermediate Strategic Goals, indicating a connection to long-term objectives. However, the primary focus is on tactical aspects of Scrum rather than a comprehensive discussion on strategic goals.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the relationship between Sprint Goals and Strategic Goals, particularly how tactical goals contribute to achieving intermediate strategic objectives. It mentions the importance of the Product Goal as a strategic direction and the role of the Product Owner in aligning tactical outcomes with strategic objectives. However, the primary focus remains on tactical aspects rather than a comprehensive exploration of strategic goals, which limits the depth of discussion.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
@@ -1021,12 +1093,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in making tactical decisions related to Sprint Goals and the importance of hypotheses in decision-making, which aligns with decision theory principles. However, the primary focus is on Scrum roles and processes rather than a comprehensive exploration of decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum roles and tactical goals without a direct focus on decision-making processes or the principles of Decision Theory. While it touches on aspects like hypotheses and user engagement, it lacks a thorough exploration of heuristics, biases, or decision-making frameworks that are central to Decision Theory.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1039,11 +1114,14 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:33",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the Lean UX Canvas and its application in identifying business objectives and user behaviour, which aligns with Lean principles. However, the primary focus is on Scrum roles and goals, making Lean a secondary theme.",
+    "final_score": 46.0,
+    "reasoning": "The content briefly mentions Lean concepts, particularly in relation to the Lean UX Canvas, but the primary focus is on Scrum and Agile methodologies. While there is some alignment with Lean principles, such as maximising value and engaging users, the discussion does not delve deeply into Lean strategies or methodologies, making it a secondary rather than primary focus.",
     "level": "Tertiary"
   },
   "Resilience and Change": {
@@ -1117,12 +1195,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 8,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Sprint Goal in relation to the Product Goal and emphasises the importance of hypothesis-driven development and user engagement, which are relevant to discovery and learning. However, the primary focus is on Scrum roles and tactical goals rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of the Sprint Goal in Scrum and how it relates to the Product Goal, which touches on aspects of learning and adaptation in product development. However, the primary focus is on Scrum roles and tactical goals rather than a broader exploration of discovery and learning methodologies. While there are mentions of user engagement and hypothesis-driven development, the depth of discussion on continuous learning and innovation is limited.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1153,12 +1234,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Sprint Goal within the Scrum framework and mentions practical tools like the Lean Canvas and Lean UX Canvas, which are relevant to Agile practices. However, the primary focus is on Scrum roles and goals rather than a broader exploration of tooling or methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of the Sprint Goal within the Scrum framework, which is a practical technique in Agile. It mentions the use of tools like the Lean Canvas to aid in defining goals, aligning with the category's focus on practical techniques and tooling. However, the primary focus is on the philosophy and roles within Scrum rather than a detailed exploration of specific tools or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1207,12 +1291,15 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner and methodologies related to Agile practices, referencing the Scrum Guide and Lean UX Canvas, which are relevant to the category but are not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the roles and responsibilities of a Product Owner in relation to Agile methodologies, specifically referencing the Scrum Guide and the Lean UX Canvas. While it does mention tools and frameworks relevant to Agile practices, it lacks a direct focus on specific products or books, which diminishes its alignment with the category. The discussion is somewhat detailed but primarily revolves around concepts rather than specific literature or product reviews.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1285,12 +1372,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:36:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner and the importance of aligning tactical goals with strategic objectives, which touches on the interplay between social roles and technical practices in software delivery. However, the primary focus is on Scrum roles and processes rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner and the tactical aspects of Scrum, focusing on goals and user engagement. While it touches on organisational roles and responsibilities, it lacks a comprehensive exploration of the interplay between social and technical systems, which is central to the Sociotechnical Systems category. The discussion is more about Scrum practices than the broader sociotechnical context.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1366,11 +1456,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-13T21:52:04",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:36:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the role of the Product Owner in maximising value delivery and aligns with principles of product-centric development, but it primarily focuses on Scrum roles and tactical goals rather than the broader Agile Product Operating Model.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of the Sprint Goal and Product Goal within the Agile framework, emphasising the importance of value delivery and the Product Owner's responsibilities. It aligns well with the principles of product-centric development and continuous feedback, but it primarily focuses on Scrum practices rather than a broader discussion of the Agile Product Operating Model. The depth of discussion is substantial, but it lacks a comprehensive exploration of the model as a whole.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1384,7 +1477,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-07T14:21:43",
+    "calculated_at": "2025-03-15T02:35:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1392,7 +1485,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the roles and responsibilities of the Product Owner within the Scrum framework, focusing on tactical goals and value delivery. While it touches on aspects of leadership, such as accountability and decision-making, it does not delve deeply into broader leadership strategies or frameworks. The emphasis is more on tactical implementation rather than on fostering an environment of organisational agility or inspiring teams, which are key themes in the Leadership category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

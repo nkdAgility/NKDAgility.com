@@ -23,6 +23,7 @@ categories:
 - Social Technologies
 tags:
 - Events and Presentations
+- Lean Product Development
 
 ---
 Join us for an enlightening 18-minute journey with two of the industry's leading experts, Dr. Joanna Płaskonka and Martin Hinshelwood, as they unravel the intricacies of Product Ownership and Lean Product Development.

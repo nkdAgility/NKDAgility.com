@@ -2,7 +2,7 @@
 title: What is the most common Aha moment people have in a scrum course?
 description: Discover the common Aha moments in scrum courses that transform understanding and application of agile principles for effective teamwork and innovation.
 date: 2023-03-03T07:15:03Z
-weight: 775
+weight: 810
 ResourceId: klBiNFvxuy0
 ResourceType: videos
 ResourceImport: true
@@ -29,6 +29,13 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Project Management
+- People and Process
+- Professional Scrum
+- Agile Frameworks
+- Agile Transformation
+- Scrum Product Development
+- Discovery and Learning
+- Scrum Master
 resourceTypes:
 - video
 categories:

@@ -28,8 +28,16 @@ aliasesArchive:
 - /blog/evidence-based-management--gathering-the-metrics
 - /resources/blog/evidence-based-management-gathering-metrics
 tags:
+- Metrics and Learning
 - Evidence Based Management
+- Ability to Innovate
 - Agile Product Management
+- Agile Project Management
+- Software Development
+- Value Delivery
+- Operational Practices
+- Evidence Based Leadership
+- Decision Making
 categories:
 - Product Management
 - Scrum

@@ -28,16 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Business Agility
-- Organisational Agility
-- Value Delivery
-- Market Adaptability
-- Agile Project Management
 - Empirical Process Control
 - People and Process
-- Agile Values and Principles
-- Change Management
-- Continuous Learning
+- Business Agility
+- Agile Philosophy
+- Organisational Agility
+- Value Delivery
+- Pragmatic Thinking
+- Agile Strategy
+- Software Development
+- Market Adaptability
 resourceTypes:
 - video
 categories:

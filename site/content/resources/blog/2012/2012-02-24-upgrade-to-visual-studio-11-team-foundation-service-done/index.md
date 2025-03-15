@@ -29,14 +29,8 @@ aliasesArchive:
 - /blog/upgrade-to-visual-studio-11-team-foundation-service---done
 - /resources/blog/upgrade-to-visual-studio-11-team-foundation-service-done
 tags:
-- Digital Transformation
 - Practical Techniques and Tooling
 - Install and Configuration
-- Software Development
-- Modern Source Control
-- Application Lifecycle Management
-- Azure DevOps
-- Pragmatic Thinking
 categories:
 - DevOps
 

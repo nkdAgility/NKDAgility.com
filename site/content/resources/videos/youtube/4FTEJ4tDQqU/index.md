@@ -24,15 +24,15 @@ preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
 duration: 326
 isShort: false
 tags:
+- Software Development
 - Personal
 - Software Developers
-- Agile Project Management
-- People and Process
-- Software Development
-- Agile Philosophy
 - Agile Transformation
-- Organisational Agility
+- Agile Project Management
 - Pragmatic Thinking
+- People and Process
+- Agile Philosophy
+- Organisational Agility
 - Organisational Culture
 sitemap:
   filename: sitemap.xml

@@ -26,13 +26,9 @@ tags:
 - Software Development
 - Practical Techniques and Tooling
 - Code and Complexity
+- Automated Testing
+- Test Automation
 - Engineering Practices
-- Technical Excellence
-- Technical Mastery
-- Modern Source Control
-- Operational Practices
-- Pragmatic Thinking
-- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

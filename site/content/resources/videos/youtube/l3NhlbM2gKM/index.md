@@ -31,16 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Empirical Process Control
+- Agile Planning
 - Agile Product Management
-- Software Development
-- Software Developers
-- People and Process
-- Agile Project Management
-- Pragmatic Thinking
-- Estimation
-- Backlog Refinement
-- Scrum Team
-- Agile Frameworks
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

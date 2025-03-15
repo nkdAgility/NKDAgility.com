@@ -37,21 +37,27 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Scrum framework and its role in decision-making, but it primarily focuses on the responsibilities of leadership teams rather than an in-depth exploration of Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Scrum in the context of leadership decision-making but primarily critiques its role rather than exploring its principles, roles, or practices in depth. While it mentions the Scrum framework and its potential benefits, the focus is more on the limitations of Scrum in decision-making rather than a thorough examination of Scrum concepts. This results in a moderate confidence score, as it does touch on relevant topics but lacks comprehensive exploration.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum in leadership decision-making and organisational dynamics, making it a major but secondary theme. However, the primary focus is on Scrum and Agile frameworks rather than a comprehensive exploration of systems thinking or organisational behaviour.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of leadership in identifying valuable work. While it touches on organisational dynamics and the need for feedback loops, it primarily focuses on Scrum as a framework rather than a systems thinking approach. The discussion lacks depth in exploring the interplay of organisational structure, culture, and processes, which are key themes of Organisational Physics.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -64,11 +70,14 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of Scrum in leadership decision-making and the importance of empirical evidence in guiding those decisions, making it a major but secondary theme.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses the role of Scrum in leadership decision-making and highlights the importance of empirical evidence in guiding those decisions. It mentions the need for leaders to understand their business and leverage feedback loops, which aligns with evidence-based practices. However, the primary focus is on Scrum as a framework rather than a deep exploration of evidence-based leadership principles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -94,12 +103,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:40:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of leadership teams in decision-making within the context of Scrum, highlighting the importance of leadership in leveraging Agile frameworks. However, the primary focus is on Scrum and its limitations rather than on Agile leadership practices themselves.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of leadership in decision-making within the context of Scrum, highlighting the importance of leaders in identifying valuable work. While it does mention leadership teams, the primary focus is on the limitations of Scrum as a framework rather than on Agile leadership practices. The discussion aligns with some core themes of Agile leadership, such as the need for a strong strategic vision and the importance of feedback loops, but lacks depth in exploring how leaders can cultivate a culture of trust and collaboration. Overall, it provides a moderate level of insight into Agile leadership, but does not fully embrace the category's core focus.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -130,16 +142,19 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and feedback loops, which are relevant to delivering working software, but the primary focus is on leadership responsibilities rather than the characteristics or delivery of functional software.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of leadership in identifying valuable work. While it touches on aspects of working software, such as feedback loops and customer insights, it primarily focuses on the limitations of Scrum rather than delivering functional software. The discussion lacks depth in terms of best practices for ensuring software quality and functionality, which is crucial for the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-10T12:21:35",
+    "calculated_at": "2025-03-15T01:38:56",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -147,7 +162,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the role of leadership in decision-making but primarily critiques Scrum's ability to assist in that process. While it touches on the importance of understanding market demand and strategic direction, it lacks a structured, evidence-based approach to decision-making, which is central to the category. The discussion is more focused on the limitations of Scrum rather than providing insights into decision-making methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -178,12 +193,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:38:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of leadership in decision-making within the context of Scrum and Agile frameworks, indicating a secondary theme related to organisational culture. However, the primary focus is on Scrum as a framework rather than a deep exploration of cultural aspects.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the limitations of Scrum in decision-making for leadership teams, which indirectly touches on aspects of organisational culture, such as leadership responsibility and team dynamics. However, it lacks a direct focus on cultural elements that facilitate or hinder Agile practices. The discussion is more centred on the framework itself rather than the cultural implications of its adoption, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -226,12 +244,15 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of leadership in decision-making and the importance of having a strategic vision, which aligns with product strategy. However, it primarily focuses on Scrum and Agile frameworks rather than a comprehensive exploration of product strategy methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the limitations of Scrum in decision-making for product strategy, which is a secondary aspect rather than a direct exploration of product strategy itself. While it touches on the importance of understanding market demands and customer needs, it does not delve into methodologies or frameworks for developing a product vision or roadmap. The focus is more on Agile practices rather than strategic planning, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -253,11 +274,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of leadership in decision-making within the context of Scrum and Agile frameworks, highlighting the importance of strategic vision and execution. However, it primarily focuses on the limitations of Scrum in making decisions rather than a comprehensive discussion on strategy itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of Scrum in aiding leadership teams to make strategic decisions, highlighting the importance of leadership in identifying valuable work. It aligns with the Strategy category by addressing how Agile frameworks can support strategic vision and execution. However, it primarily critiques Scrum's limitations rather than providing a comprehensive strategic framework, which affects the depth of discussion. Overall, while it touches on strategic themes, it does not delve deeply into the development or refinement of strategic approaches, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
@@ -292,11 +316,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum in facilitating teamwork and collaboration within leadership teams, but it primarily focuses on decision-making and the responsibilities of leadership rather than on team dynamics or collaboration techniques.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of leadership teams in identifying valuable work. While it touches on collaboration within teams, the primary focus is on the limitations of Scrum rather than enhancing team dynamics or collaboration techniques. The mention of creating collaborative product development teams is relevant but not deeply explored, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -385,12 +412,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:40:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum as an Agile framework and touches on the importance of leadership in decision-making, which relates to Agile principles. However, the primary focus is on Scrum rather than the underlying Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the Scrum framework and its limitations in decision-making, which detracts from a focus on Agile values and principles. While it touches on the importance of leadership understanding and customer feedback, it does not delve deeply into the core Agile values or principles, such as collaboration or responding to change. The discussion is more about the framework itself rather than the underlying Agile philosophy.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -439,11 +469,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:40:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of feedback loops and empirical evidence, which are central to empirical process control. However, the primary focus is on leadership responsibilities and the limitations of Scrum, making empirical process control a major but secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of empirical evidence in guiding leadership teams. It mentions the need for feedback loops and the responsibility of leaders to make informed decisions based on market demands, which aligns with the principles of empirical process control. However, the primary focus is on the limitations of Scrum rather than a deep exploration of empirical process control itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Validation": {
@@ -646,12 +679,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:38:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses how leadership teams can use Scrum to inform decision-making and highlights the importance of understanding business dynamics, which aligns with sensemaking principles. However, the primary focus is on Scrum and Agile frameworks rather than a deep exploration of sensemaking itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses how Scrum can aid leadership teams in decision-making processes, particularly in identifying valuable work. However, it primarily critiques Scrum's limitations rather than exploring sensemaking principles or frameworks in depth. While it touches on the need for leaders to interpret market demands and make informed decisions, the focus remains on Scrum as a tool rather than a comprehensive discussion on sensemaking in complex environments.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -664,12 +700,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of leadership in identifying valuable work, which relates to team performance. However, the primary focus is on the limitations of Scrum rather than on strategies or practices for enhancing team dynamics or collaboration.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of Scrum in leadership decision-making and highlights the importance of leadership in identifying valuable work. While it touches on team dynamics and the potential for Scrum to foster collaboration, the primary focus is on leadership responsibilities rather than team performance itself. The discussion lacks depth in exploring specific strategies or practices aimed at enhancing team collaboration and effectiveness, which are central to the 'Team Performance' category.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -718,12 +757,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum as an Agile framework and its role in decision-making for leadership teams, making Agile principles a significant theme, but it primarily focuses on the limitations of Scrum rather than a comprehensive discussion on Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Scrum framework in detail, highlighting its role in decision-making and leadership responsibilities within an Agile context. It aligns well with Agile principles by emphasising the importance of leadership in identifying valuable work and leveraging Agile frameworks for feedback and improvement. However, it primarily focuses on Scrum rather than a broader discussion of Agile transformation strategies, which slightly limits its depth in the category.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -745,12 +787,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum and Agile frameworks in decision-making and leadership, which relates to organisational change, but it primarily focuses on the limitations of these frameworks rather than on strategies or methodologies for organisational transformation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum and its role in decision-making within leadership teams, which touches on aspects of organisational change. However, it primarily focuses on the limitations of Scrum rather than providing a comprehensive discussion on organisational change strategies or methodologies. While it mentions the need for leadership to understand market demands and make decisions, it lacks depth in exploring frameworks for implementing change or overcoming resistance, which are key topics in the organisational change category.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -763,30 +808,39 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and product development, but it primarily focuses on leadership responsibilities rather than Scrum practices themselves.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses Scrum in the context of leadership decision-making and its role in providing insights rather than directly addressing Scrum product development practices. While it mentions the Scrum framework and its potential benefits, it does not delve into specific Scrum roles, sprint processes, or product backlog management, which are crucial for the category. The focus is more on leadership responsibilities and strategic vision rather than the iterative development and enhancement of products within a Scrum environment.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and operational efficiency, but it primarily focuses on the limitations of Scrum rather than providing clear operational practices or strategies for improvement.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and operational efficiency, highlighting how it can help identify problems and improve processes. While it critiques Scrum's limitations, it also emphasises the importance of using Scrum to create feedback loops and improve time-to-market, which aligns with operational practices. However, the focus is more on the theoretical aspects of Scrum rather than practical techniques or strategies for operational efficiency, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of empirical evidence in guiding leadership teams, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of empirical evidence in guiding leadership teams. However, it primarily focuses on the limitations of Scrum rather than providing a comprehensive exploration of Evidence-Based Management principles. While it touches on the need for data-driven decision-making, it lacks detailed discussions on metrics, KPIs, or case studies that would strengthen its alignment with the EBM category.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -835,12 +889,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:40:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of leadership in decision-making within the context of Scrum and agile frameworks, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of leadership in decision-making within the context of Scrum and agile frameworks. It highlights the importance of leadership teams understanding their business and leveraging Scrum for feedback, which aligns with the principles of technical leadership. However, the primary focus is on the limitations of Scrum rather than on strategies for mentoring or fostering team dynamics, which slightly reduces the confidence score.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -862,11 +919,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:40:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of leadership in identifying valuable work, which aligns with Agile Planning principles. However, it primarily focuses on the limitations of Scrum rather than providing a comprehensive discussion on Agile Planning methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of leadership in identifying valuable work, which aligns with Agile Planning principles. It mentions frameworks like Scrum and Kanban, and touches on feedback loops and strategic vision, but it also critiques the frameworks' limitations, which may detract from a purely Agile Planning focus.",
     "level": "Tertiary"
   },
   "Accountability": {
@@ -916,7 +976,7 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T16:35:54",
+    "calculated_at": "2025-03-15T01:38:56",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -924,7 +984,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Scrum in relation to leadership teams and decision-making, but it does not focus on the dynamics, roles, or collaboration within a Scrum Team. While it mentions Scrum's role in providing insights and feedback, it lacks a detailed exploration of team interactions or practices specific to Scrum Teams. The primary focus is on leadership responsibilities rather than the Scrum Team itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -964,11 +1024,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:55:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum within the context of leadership decision-making and value delivery, which aligns with Agile principles. However, it primarily focuses on Scrum as a framework rather than the broader Agile philosophy.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses the Scrum framework and its limitations in decision-making for leadership teams, which is a specific Agile framework rather than the broader Agile Philosophy. While it touches on concepts like feedback loops and the importance of understanding customer needs, it does not delve deeply into the foundational principles of Agile or the mindset it promotes. The focus remains on the practical application of Scrum rather than the underlying Agile values and principles.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -1018,12 +1081,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:38:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of leadership in decision-making and the importance of having a strong strategic vision, which aligns with the theme of strategic goals. However, the primary focus is on the limitations of the Scrum framework rather than a detailed exploration of strategic goals themselves.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of leadership teams in identifying valuable work. While it touches on strategic vision and the need for leaders to understand market demands, it primarily focuses on operational aspects of Scrum rather than articulating long-term strategic goals. The discussion lacks depth in exploring frameworks for setting or measuring strategic objectives, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1036,21 +1102,27 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making in the context of Scrum and Agile frameworks, highlighting the importance of leadership teams making informed choices. However, the primary focus is on Scrum's role rather than a deep exploration of decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses decision-making in the context of Scrum and Agile frameworks, highlighting the importance of leadership in making informed choices. However, while it touches on decision-making processes, it primarily focuses on the limitations of Scrum in facilitating those decisions rather than exploring decision theory concepts in depth. The discussion lacks a thorough examination of heuristics, biases, or decision-making frameworks, which are central to decision theory.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum in leadership decision-making and highlights the importance of strategic vision in agile practices, making enterprise agility a significant theme, though it primarily focuses on Scrum rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Scrum as an agile framework and its limitations in decision-making for leadership teams. While it touches on aspects of agility, such as feedback loops and collaboration, it lacks a broader organisational context and does not delve into enterprise-level agility practices or frameworks. The focus remains on team-level practices rather than the organisational implications of agility, which diminishes its alignment with the category of Enterprise Agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1108,30 +1180,39 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and product development, which aligns with product delivery practices, but it primarily focuses on the limitations of Scrum rather than the methodologies and practices of product delivery itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of Scrum within the context of product delivery, particularly how it aids leadership teams in decision-making and prioritising valuable work. While it does not explicitly focus on the end-to-end process of delivering software products, it aligns with key themes such as agile methodologies, iterative development, and the importance of feedback loops. However, the depth of discussion is somewhat limited as it primarily critiques Scrum's capabilities rather than providing comprehensive insights into product delivery practices.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and product development, highlighting the importance of leadership in identifying valuable work, which aligns with Agile Product Management principles. However, it primarily focuses on the limitations of Scrum rather than providing a comprehensive discussion on Agile Product Management itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making for leadership teams, highlighting the importance of understanding customer needs and market demands, which aligns with Agile Product Management principles. It provides insights into how Scrum can facilitate feedback loops and improve product development outcomes, demonstrating a good depth of discussion. However, it also emphasises that Scrum does not directly dictate what work to focus on, which slightly detracts from its alignment with the category's core themes.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses how Scrum can facilitate feedback loops and decision-making processes, which are relevant to discovery and learning, but the primary focus is on Scrum's limitations in guiding leadership teams rather than on methodologies for fostering innovation or continuous learning.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of feedback loops, which aligns with the themes of discovery and learning. However, the primary focus is on the limitations of Scrum rather than on fostering a culture of innovation or continuous learning. While it mentions the need for leaders to understand their business and leverage Scrum for feedback, it does not delve deeply into methodologies or processes that enhance learning within teams.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1162,11 +1243,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Scrum framework and its role in decision-making for leadership teams, which aligns with practical techniques in Agile. However, the primary focus is on the limitations of Scrum rather than on specific tools or methodologies for enhancing Agile practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the Scrum framework and its role in decision-making for leadership teams, which aligns with the category's focus on practical techniques. However, it primarily critiques Scrum's effectiveness rather than providing a detailed exploration of tools or methodologies. While it mentions how Scrum can facilitate feedback and improve team performance, the overall emphasis is on the limitations of Scrum rather than practical application, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
@@ -1180,11 +1264,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and feedback loops, which are relevant to market adaptability, but the primary focus is on the limitations of Scrum rather than strategies for enhancing market responsiveness.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Scrum as an Agile framework in decision-making and highlights the importance of leadership in identifying valuable work. While it does mention Agile methodologies and the need for rapid feedback loops, it primarily focuses on the limitations of Scrum rather than providing strategies for market adaptability. The discussion aligns with the category's themes but lacks depth in exploring how these frameworks can enhance responsiveness to market changes.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -1225,12 +1312,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:40:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and leadership within an agile context, which relates to business agility, but primarily focuses on Scrum as a framework rather than broader principles of business agility.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and leadership, which relates to business agility. However, it primarily focuses on Scrum as a framework rather than directly addressing broader business agility principles. While it touches on aspects like rapid feedback and strategic vision, the depth of discussion on business agility itself is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1243,7 +1333,7 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-03-06T15:59:17",
+    "calculated_at": "2025-03-15T01:38:56",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1251,7 +1341,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the role of leadership in determining valuable work, which aligns with the concept of aligning product development with customer needs. However, it primarily critiques Scrum's ability to assist in value delivery rather than discussing strategies or methodologies for enhancing value delivery itself. The depth of discussion is limited, focusing more on the responsibilities of leaders rather than on value delivery practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1264,12 +1354,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:40:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and leadership, highlighting the importance of understanding market demands and leveraging agile frameworks for organisational agility. However, it primarily focuses on Scrum rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of Scrum as an agile framework and its limitations in decision-making, which aligns with the principles of organisational agility. It highlights the importance of leadership in identifying valuable work and leveraging agile methodologies for feedback and improvement. However, while it touches on agility, the primary focus is on Scrum rather than broader organisational agility strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1294,12 +1387,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of leadership teams in identifying valuable work, which touches on the interplay between organisational structures and technology. However, the primary focus is on Scrum as a framework rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Scrum and its role in decision-making within leadership teams, touching on the interplay between organisational structures and technology. However, it primarily focuses on the limitations of Scrum rather than exploring the broader sociotechnical interactions. While it mentions the importance of leadership understanding and strategic vision, it lacks a comprehensive exploration of how these elements collectively influence software delivery and team effectiveness.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1312,11 +1408,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T16:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:39:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum in providing feedback and empirical evidence for decision-making, which aligns with the themes of metrics and learning. However, the primary focus is on the limitations of Scrum in decision-making rather than on metrics and learning itself.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Scrum in decision-making and highlights the importance of feedback loops and empirical evidence, which aligns with the core themes of the Metrics and Learning category. However, it primarily focuses on the limitations of Scrum rather than providing a detailed exploration of metrics or learning methodologies. The discussion on feedback and insights is relevant but lacks depth in terms of specific metrics or continuous improvement frameworks.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -1426,7 +1525,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:27:56",
+    "calculated_at": "2025-03-15T01:38:56",
     "ai_confidence": 32.0,
     "ai_mentions": 10,
     "ai_alignment": 15,
@@ -1434,6 +1533,6 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content discusses Scrum in the context of leadership teams and their role in decision-making, but it primarily critiques Scrum's ability to help leaders choose valuable work. While Scrum is mentioned, the focus is more on the limitations of Scrum rather than its principles or practices. The discussion lacks depth regarding Scrum's framework, roles, or events, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

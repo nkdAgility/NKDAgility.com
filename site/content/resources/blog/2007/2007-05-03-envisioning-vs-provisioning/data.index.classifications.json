@@ -28,12 +28,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:48:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development, highlighting their interplay and the need for both to deliver effective solutions, which aligns with sociotechnical principles. However, it primarily focuses on individual roles rather than broader organisational dynamics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development, which touches on team dynamics and the interplay between different types of developers. However, it lacks a broader exploration of how these roles interact within organisational structures or how they influence software delivery and team effectiveness. The discussion is primarily focused on individual capabilities rather than the sociotechnical system as a whole.",
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -73,11 +76,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:48:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development, which does not directly reference Agile, Scrum, DevOps, or Lean principles, but it does touch on general themes relevant to business agility.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it touches on general concepts related to software development, it lacks a clear connection to established frameworks or actionable insights, making it suitable for the Miscellaneous category. However, the discussion is somewhat detailed, providing a nuanced view of the two roles, which contributes to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Resilience and Change": {
@@ -217,12 +223,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:48:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development, touching on aspects of code quality and the complexities of delivering solutions. However, it primarily focuses on the distinction between these roles rather than a deep exploration of code quality or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses two types of developers, envisioners and provisioners, but does not explicitly address the principles of code quality or the complexities of software development processes. While it touches on the roles in software development, it lacks a direct focus on the interplay between code quality and complexity, which is central to the category. The discussion is more about roles rather than the complexities and best practices in coding or architecture.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -280,7 +289,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T15:20:58",
+    "calculated_at": "2025-03-15T07:48:02",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 20,
@@ -288,7 +297,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the roles of Envisioners and Provisioners in software development, which could relate to personal experiences in Agile contexts. However, it lacks explicit personal anecdotes or reflections, making it more of a general discussion rather than a personal insight. The mention of 'What do you think and which are you?' suggests a personal reflection prompt, but it does not delve into individual experiences or challenges faced in Agile transformations.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -340,12 +349,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:48:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development, touching on aspects of learning and adaptation to new technologies, but it primarily focuses on the distinction between these roles rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development, highlighting their different approaches to innovation and problem-solving. While it touches on aspects of learning and adaptation, such as the Envisioners' ability to quickly adopt new technologies, the primary focus is on categorising developers rather than exploring methodologies for fostering continuous learning or innovation. The discussion lacks depth in terms of specific techniques or frameworks that support discovery and learning, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -385,7 +397,7 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-11T17:10:16",
+    "calculated_at": "2025-03-15T07:48:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -393,7 +405,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development, highlighting the importance of creativity and practical delivery. However, it lacks a direct focus on the measurement and improvement of innovation capabilities, as well as Evidence-Based Management principles. While it touches on innovation through the distinction between creative and practical roles, it does not provide sufficient depth or alignment with the core themes of the Ability to Innovate category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -961,7 +973,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T12:17:59",
+    "calculated_at": "2025-03-15T07:48:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -969,7 +981,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development, touching on aspects of technical skills and delivery. However, it lacks a direct focus on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The discussion is more about categorising developers rather than delving into technical mastery principles, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1198,12 +1210,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:48:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development, emphasizing the importance of delivering working solutions while also acknowledging the abstract conceptualization by envisioners. It touches on working software themes but is primarily focused on the roles involved rather than specifically delivering functional software.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development, highlighting the importance of delivering working solutions. However, it lacks explicit discussions on best practices, customer feedback, or metrics for assessing software quality, which are key aspects of the 'Working Software' category. The focus is more on the roles rather than the delivery of functional software itself.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1408,7 +1423,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:21:52",
+    "calculated_at": "2025-03-15T07:48:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1416,6 +1431,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses the roles of Envisioners and Provisioners in software development but does not explicitly mention Scrum or its principles, roles, events, or artifacts. While it touches on aspects of team dynamics and project delivery, it lacks a direct connection to the Scrum framework or its core themes, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

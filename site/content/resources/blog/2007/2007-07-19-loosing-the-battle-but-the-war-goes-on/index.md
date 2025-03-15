@@ -30,8 +30,7 @@ aliasesArchive:
 - /loosing-the-battle--but-the-war-goes-on
 - /blog/loosing-the-battle--but-the-war-goes-on
 - /resources/blog/loosing-the-battle-but-the-war-goes-on
-tags:
-- People and Process
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

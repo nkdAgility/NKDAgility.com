@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/creating-a-sharepoint-solution
 - /creating-a-sharepoint-solution
 - /resources/blog/creating-a-sharepoint-solution
-tags:
-- Software Development
+tags: []
 categories: []
 preview: metro-sharepoint-128-link-1-1.png
 

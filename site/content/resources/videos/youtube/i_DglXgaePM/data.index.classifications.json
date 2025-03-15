@@ -82,7 +82,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-07T14:28:19",
+    "calculated_at": "2025-03-15T03:14:37",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -90,7 +90,7 @@
     "non_ai_confidence": 20,
     "final_score": 16.0,
     "reasoning": "The content primarily consists of a transcription of a live event, which lacks a coherent focus on Agile frameworks. While there are some mentions of Agile concepts and frameworks like Scrum and Kanban, the discussion is largely informal and fragmented, making it difficult to extract structured insights or analyses relevant to the category. The content does not provide a clear overview, comparative analysis, or case studies that would typically align with the Agile Frameworks category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -295,7 +295,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-10T18:27:36",
+    "calculated_at": "2025-03-15T03:14:37",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -303,7 +303,7 @@
     "non_ai_confidence": 20,
     "final_score": 16.0,
     "reasoning": "The content primarily consists of a disjointed conversation with minimal focus on software development practices. While there are brief mentions of Agile and Scrum, the overall discussion lacks depth and structured insights into software development methodologies, making it difficult to classify as a focused discussion on the topic.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -325,7 +325,7 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-10T14:35:53",
+    "calculated_at": "2025-03-15T03:14:37",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 15.0,
@@ -333,7 +333,7 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily consists of a disjointed conversation with minimal focus on Agile Strategy. While there are brief mentions of Agile concepts, the overall discussion lacks coherence and depth in relation to strategic planning, execution, or adaptability within Agile methodologies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -391,7 +391,7 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-11T11:45:29",
+    "calculated_at": "2025-03-15T03:14:37",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -399,16 +399,19 @@
     "non_ai_confidence": 20,
     "final_score": 13.0,
     "reasoning": "The content primarily focuses on Agile practices, Scrum, and technical processes rather than on Change Management strategies or principles. While there are brief mentions of Agile transformation and the importance of adapting processes, the overall discussion lacks depth in exploring how to manage change effectively within organisations. The content does not provide insights into stakeholder engagement, leadership roles in transformation, or measuring the impact of change initiatives, which are key aspects of Change Management.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges organizations face in changing their business practices and references scaling and agile principles, indicating a secondary theme related to digital transformation initiatives.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:15:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses agility and engineering excellence, which are relevant to digital transformation, but it primarily focuses on Agile methodologies and practices rather than the strategic adoption of digital technologies. While it touches on the importance of culture and metrics, it lacks a direct emphasis on how these elements contribute to broader digital transformation initiatives.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -430,11 +433,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:15:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organizational change and the challenges of scaling agile methodologies, which relates to the dynamics within organizations. However, without a strong focus on systems thinking or a holistic view of organizational behavior, it remains a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Agile and DevOps, touching on organisational culture and the importance of collaboration and continuous improvement, which aligns with some principles of systems thinking. However, it primarily focuses on engineering practices and individual roles rather than a comprehensive exploration of organisational dynamics or systems thinking. The depth of discussion on organisational physics concepts is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Release Management": {
@@ -493,12 +499,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses the challenges of organizational change and the need to embrace new values and principles for successful transformation, aligning it with themes of organizational culture, albeit it does not delve deeply into specific cultural elements or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:14:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of fostering an Agile mindset and a culture of transparency, collaboration, and continuous improvement, which aligns well with the themes of organisational culture. It highlights the role of culture in enabling agility and addresses challenges related to product ownership and the superficial adoption of Agile practices. However, the primary focus is on engineering excellence and processes, which detracts from a deeper exploration of cultural aspects. Overall, while the content is relevant, it does not fully centre on organisational culture, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -529,12 +538,15 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:14:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions scaling Agile and discusses organizations successfully scaling, but it is more focused on general observations regarding organizational change rather than detailing specific frameworks or strategies for large scale agility.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of an Agile mindset and engineering excellence, which are relevant to agility but primarily focus on individual and team-level practices rather than large-scale Agile frameworks or enterprise-level strategies. While it touches on cultural shifts and metrics, it lacks a direct focus on scaling Agile across an organisation, which is essential for this category.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -592,21 +604,27 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:15:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges organisations face in changing their business practices and touches on scaling and agile principles, making organisational change a significant theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of agility and the Agile mindset, which are relevant to organisational change. It touches on the need for a cultural shift and the challenges organisations face in adopting Agile practices. However, it primarily focuses on engineering excellence and technical aspects rather than providing a comprehensive exploration of organisational change frameworks or methodologies. The discussion on metrics and continuous improvement aligns with change management principles but lacks depth in specific organisational change strategies.",
+    "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses scaling agile practices but focuses more on the challenges and commonalities between organizations rather than specific frameworks or enterprise-level strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:14:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and practices, but it primarily focuses on individual Agile practices and the importance of engineering excellence rather than on scaling Agile across multiple teams or at an enterprise level. While there are mentions of challenges and the need for collaboration, the content lacks a direct focus on frameworks for scaling Agile or enterprise-level transformation strategies, which are key topics in the Scaled Agile category.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -640,12 +658,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges organizations face in adapting their business practices in the context of agile methodologies, and mentions the successful scaling of agile principles, indicating a focus on business agility principles even if it is not the primary subject.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:14:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of agility in business, emphasising the need for a cultural shift and effective processes. It highlights the role of engineering excellence and the Agile mindset, which are crucial for business agility. The mention of metrics and the need for continuous improvement aligns well with the principles of business agility. However, while the content is rich in relevant themes, it does not delve deeply into specific strategies or case studies, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -760,12 +781,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:15:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the challenges organizations face in adapting to change and delivers insights on successful scaling in a competitive environment, indicating a secondary theme of market adaptability.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of agility and engineering excellence in responding to rapid changes in the business landscape, which aligns well with the principles of market adaptability. It highlights the need for a cultural shift towards agility, the role of effective product ownership, and the significance of metrics in measuring progress, all of which are relevant to enhancing an organisation's responsiveness to market shifts. However, while the content touches on these themes, it does not delve deeply into specific strategies or methodologies that directly enhance market adaptability, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -805,12 +829,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses scaling agility and the commonalities among organisations that successfully embrace agile principles, although it does not deeply delve into specific frameworks or organisational strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:14:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of agility in a business context, highlighting the need for a cultural shift and continuous improvement, which aligns well with the principles of Enterprise Agility. It mentions the Agile mindset, the role of metrics, and the necessity of adapting practices to fit organisational needs, indicating a strong conceptual alignment. However, while it touches on broader themes, the focus remains somewhat on team-level practices and engineering excellence, which slightly detracts from a purely organisational perspective.",
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -859,11 +886,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:14:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling agile practices and the challenges organizations face, which relates to news about contemporary practices in Agile. However, it does not provide specific updates or reviews, making it a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile and DevOps concepts and personal experiences, but it lacks explicit news updates or reviews of specific tools or methodologies. While it touches on relevant themes, it primarily focuses on personal insights and reflections rather than providing industry news or evaluations.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -886,12 +916,15 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:14:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and principles of scaling agility within organizations, which aligns with the topic of scaling Scrum, although it does not focus specifically on Scrum frameworks or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile principles and practices but does not specifically address Scaling Scrum or frameworks for scaling. While it touches on the importance of an Agile mindset and engineering excellence, it lacks direct references to Scrum roles, events, or the challenges of scaling Scrum across multiple teams. The focus is more on general Agile practices rather than the specific context of scaling Scrum in large organisations.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -985,12 +1018,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:15:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the challenges organizations face with scaling agile and implies some strategic considerations behind overcoming these challenges. However, it primarily discusses the concept of scaling without delving deeply into specific strategic frameworks or methods, making strategy a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses various aspects of Agile and DevOps, focusing on the importance of engineering excellence, the Agile mindset, and the role of metrics in transformation. While it does not explicitly label these discussions as 'strategy', it aligns well with strategic themes such as continuous improvement, value delivery, and adapting to change. The depth of discussion is substantial, providing insights into challenges and recommendations for enhancing Agile practices, which supports a higher confidence score.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -1024,30 +1060,39 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:15:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges organizations face in scaling agile practices and hints at successful strategies for scaling, but it primarily emphasizes the difficulties and commonalities, making scaling agility a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses agility and the importance of an agile mindset, but it primarily focuses on individual and team-level practices rather than organisational scaling. While it touches on the need for a culture of collaboration and continuous improvement, it lacks specific frameworks or strategies for scaling agility across multiple teams or the organisation as a whole. The mention of metrics and the role of product ownership hints at broader implications, but these are not explored in the context of scaling agility, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for organizations to change their business practices and highlights the commonalities among those successfully adapting to agile principles, although it is not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:15:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of an Agile mindset, the need for cultural shifts, and the role of metrics in measuring progress towards agility. It highlights the balance between engineering excellence and effective processes, which aligns with the core themes of organisational agility. The depth of discussion is substantial, covering various aspects of agility, including the challenges organisations face and the importance of continuous improvement. However, while it touches on key topics, it does not delve deeply into specific frameworks or case studies, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for organizations to fundamentally change their business practices to improve software delivery, which aligns with Agile transformation principles, but the focus on successful scaling and joining events may indicate a broader theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:59:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Agile mindset and its importance in transforming organisations, highlighting the need for cultural shifts and effective product ownership. It also touches on metrics for measuring progress in Agile transformations. However, while it mentions Agile principles and practices, the focus on engineering excellence and specific case studies detracts from a deeper exploration of Agile transformation strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1060,12 +1105,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:15:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content touches on the need for organizations to change their business practices and discusses how successful scaling is achieved, which aligns with themes of adaptability and transformation. However, the primary focus appears to be more on scaling agile rather than a comprehensive exploration of resilience practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of agility and adaptability in the context of organisational change, highlighting the need for a culture of continuous improvement and the role of leadership in guiding this transformation. It provides a case study that illustrates the consequences of failing to adapt, which aligns well with the themes of resilience. However, while it touches on these topics, the primary focus remains on engineering practices and Agile methodologies, which slightly detracts from a deeper exploration of resilience and change as a standalone theme.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1204,12 +1252,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:14:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges organizations face in scaling agile practices and hints at the importance of practical approaches to navigate these challenges, making it a significant secondary theme.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses practical problem-solving strategies within Agile and DevOps contexts, particularly through real-world examples like the Knight Capital Group incident. It emphasises the importance of engineering excellence and the Agile mindset, aligning well with the core themes of pragmatic thinking. The depth of discussion is significant, covering various aspects such as product ownership, metrics, and the need for continuous improvement, which are all crucial for navigating complexity in project management.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1276,12 +1327,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:15:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the need for organizations to focus on Agile values and principles, particularly in the context of scaling Agile practices. However, it does not extensively cover the foundational Agile methodologies or the Agile Manifesto.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the Agile mindset and the importance of collaboration, transparency, and continuous improvement, which are core Agile principles. It also touches on the significance of understanding Agile beyond mere processes. However, it primarily focuses on engineering excellence and practical challenges rather than deeply exploring Agile values and principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1294,11 +1348,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:14:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges organizations face in changing their business practices to improve software delivery, which implies a consideration of the interplay between social aspects (organizational change, culture) and technical aspects (software delivery). However, it does not delve deeply into sociotechnical systems or their specific frameworks, making the category a major but secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the interplay between engineering excellence and effective processes, which aligns with sociotechnical systems. It touches on organisational culture, the importance of collaboration, and the role of product ownership, indicating a recognition of social aspects in technology adoption. However, while these themes are present, the primary focus remains on technical practices and Agile methodologies rather than a comprehensive exploration of sociotechnical interactions.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -1411,7 +1468,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:32:35",
+    "calculated_at": "2025-03-15T03:14:37",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -1419,6 +1476,6 @@
     "non_ai_confidence": 50,
     "final_score": 28.0,
     "reasoning": "The content discusses various aspects of project management and agile methodologies, including Scrum principles, but lacks a focused and coherent discussion specifically on Scrum. While there are mentions of Scrum roles and frameworks, the overall content is more of a general discussion on agile practices and challenges rather than a dedicated exploration of Scrum itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

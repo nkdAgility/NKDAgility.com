@@ -26,9 +26,7 @@ aliasesArchive:
 - /internet-explorer-8-release-candidate-1-(rc1)
 - /blog/internet-explorer-8-release-candidate-1-(rc1)
 - /resources/blog/internet-explorer-8-release-candidate-1-rc1
-tags:
-- Windows
-- News and Reviews
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

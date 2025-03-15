@@ -292,7 +292,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T14:57:28",
+    "calculated_at": "2025-03-15T04:47:01",
     "ai_confidence": 12.0,
     "ai_mentions": 2,
     "ai_alignment": 5,
@@ -300,7 +300,7 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on a technical review of a laptop, discussing its performance and personal usage experiences. While there are brief mentions of personal experiences, such as the author's reflections on battery life and usage scenarios, these do not delve deeply into the themes of Agile, Scrum, or DevOps. The content lacks substantial personal insights or anecdotes related to the specified methodologies, leading to a low confidence score in the 'Personal' category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -586,7 +586,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T16:47:25",
+    "calculated_at": "2025-03-15T04:47:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -594,7 +594,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on a personal review of a laptop and its performance with Windows 8.1 and Visual Studio. While it mentions development tools like Visual Studio, the discussion is more about hardware performance and personal experiences rather than software development methodologies or practices. The alignment with the core themes of software development is minimal, and the depth of discussion on relevant topics is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1057,7 +1057,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:26:38",
+    "calculated_at": "2025-03-15T04:47:01",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1065,7 +1065,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on personal experiences with a specific laptop model and its performance, rather than discussing system configuration in detail. While there are mentions of driver issues and performance, these are more anecdotal and do not delve into best practices or methodologies for system configuration. The discussion lacks depth in terms of configuration management or optimisation strategies, which are key aspects of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1201,7 +1201,7 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-11T11:52:17",
+    "calculated_at": "2025-03-15T04:47:01",
     "ai_confidence": 12.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
@@ -1209,7 +1209,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content briefly mentions a disclosure of material connection, which aligns with the concept of transparency in terms of openness about sponsorship. However, the primary focus of the content is on the review of a laptop, with minimal discussion on transparency in Agile processes or team dynamics. The mention of disclosure is not elaborated upon, and the overall content does not delve into the key topics associated with transparency in Agile methodologies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1222,7 +1222,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-10T18:36:08",
+    "calculated_at": "2025-03-15T04:47:01",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 15.0,
@@ -1230,7 +1230,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily focuses on a personal review of a laptop and its performance, with only brief mentions of software development tools like Visual Studio. It lacks a direct discussion on Agile or DevOps methodologies, and does not explore the role of software developers in those contexts. The content does not provide substantial detail on best practices or collaborative strategies relevant to software development.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",

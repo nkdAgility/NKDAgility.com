@@ -31,12 +31,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Transformation
+- Agile Philosophy
 - Organisational Agility
-- People and Process
-- Organisational Change
-- Agile Strategy
-- Pragmatic Thinking
-- Agile Product Management
+- Organisational Culture
 resourceTypes:
 - video
 categories:

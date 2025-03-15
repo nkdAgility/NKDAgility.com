@@ -1,12 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Agile methodologies, particularly in relation to requirements, tasks, and testing within the context of Team Foundation Server, but it primarily focuses on compliance and traceability rather than Agile product management principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and Visual Studio for Application Lifecycle Management (ALM), focusing on traceability and compliance rather than Agile product management principles. While it touches on aspects like requirements and tasks, it lacks a direct focus on Agile methodologies, the role of the Product Owner, or techniques for prioritising product backlogs. The depth of discussion on related topics is present, but it does not align closely with the core themes of Agile Product Management.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -31,21 +34,24 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:09:15",
+    "calculated_at": "2025-03-15T06:42:02",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "The content discusses the traceability and compliance aspects of Team Foundation Server (TFS) and Visual Studio 2010, but it primarily focuses on application lifecycle management rather than the principles and practices of Evidence-Based Management. While there are elements of data tracking and reporting, the core theme is not centred on EBM.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the traceability and relationships between various components of software development within Team Foundation Server, touching on aspects of code quality and complexity management, but primarily focuses on compliance and project management rather than the interplay of code quality and complexity.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the features and functionalities of Team Foundation Server (TFS) and Visual Studio 2010 in relation to Application Lifecycle Management (ALM) and compliance. While it touches on aspects of code traceability and the relationships between various artifacts in software development, it lacks a focused discussion on the principles of code quality, complexity theory, or best practices in coding and architecture. The mention of tasks, changesets, and requirements is more about process management than the complexities of code itself, leading to a low confidence score in the 'Code and Complexity' category.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -85,12 +91,15 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:43:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses traceability and audit features of Team Foundation Server, which relate to accountability in tracking changes and requirements. However, it primarily focuses on technical aspects of the software rather than a broader discussion on transparency and accountability principles within Agile teams.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the traceability features of Team Foundation Server (TFS) and how they facilitate compliance and auditing, which aligns with the principles of transparency and accountability. It mentions the importance of tracking changes, requirements, and tasks, which supports accountability within teams. However, the focus is more on the technical capabilities of TFS rather than a broader discussion on transparency and accountability principles in Agile teams. The depth of discussion on these principles is moderate, but it lacks explicit emphasis on team dynamics and communication.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -103,12 +112,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the roles of team members and the relationships between various artifacts in the context of using Team Foundation Server, indicating a connection between social and technical systems. However, the primary focus is on the technical aspects of the software tools rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and Visual Studio 2010 in the context of Application Lifecycle Management (ALM), focusing on traceability and compliance. While it touches on the roles of different team members and the relationships between various artifacts, it primarily centres on technical tools and their functionalities without a strong emphasis on the sociotechnical interplay. The mention of team roles indicates some alignment with sociotechnical systems, but the overall focus remains on technical aspects, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -181,12 +193,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:43:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and Visual Studio for Application Lifecycle Management (ALM), which includes aspects of traceability and compliance that can support agile practices at an organisational level. However, the primary focus is on tool usage rather than broader enterprise agility principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the features and functionalities of Team Foundation Server (TFS) and Visual Studio 2010 in relation to Application Lifecycle Management (ALM) and compliance. While it touches on aspects of traceability and roles within teams, it lacks a broader organisational context and does not explicitly address enterprise-level agility principles such as scaling frameworks, organisational structures, or cultural aspects of agility. The focus remains on tool usage rather than on fostering a culture of adaptability or collaboration across the organisation.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -217,12 +232,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:43:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and Visual Studio 2010 in relation to Application Lifecycle Management (ALM), focusing on traceability, compliance, and the relationships between various artifacts in software development. While it touches on aspects of technical practices, it primarily centres around compliance and project management rather than core engineering methodologies or practices that enhance technical excellence.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content extensively discusses the technical capabilities of Team Foundation Server (TFS) and Visual Studio 2010 in relation to Application Lifecycle Management (ALM), focusing on traceability, compliance, and the relationships between various artifacts such as requirements, tasks, changesets, and test cases. It aligns well with the principles of technical excellence by highlighting how these tools facilitate high-quality engineering practices and support agile methodologies. However, while it touches on relevant technical practices, it lacks a deeper exploration of methodologies like TDD or CI/CD, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -274,21 +292,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the features and functionalities of Visual Studio 2010 and Team Foundation Server, which are tools relevant to Agile and DevOps practices. However, it primarily focuses on the technical aspects and usage rather than providing reviews or analyses typical of the 'Products and Books' category.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the features and functionalities of Visual Studio 2010 and Team Foundation Server (TFS) as tools for Application Lifecycle Management (ALM). While it provides insights into how these tools can aid compliance and Agile practices, it lacks direct reviews or analyses of literature related to Agile methodologies or DevOps principles. The discussion is more focused on the practical applications of the software rather than a critical evaluation or recommendation of resources, which diminishes its alignment with the 'Products and Books' category.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the traceability and management of requirements, tasks, and changes within Team Foundation Server, which relates to delivering value through effective management of work items and compliance. However, the primary focus is on technical implementation details rather than on strategies for iterative and continuous delivery of value.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the traceability and relationships between various artifacts in Team Foundation Server (TFS) and Visual Studio, which indirectly relates to value delivery by emphasising the importance of requirements and their management. However, it primarily focuses on technical implementation details and compliance rather than explicitly addressing strategies for iterative value delivery or customer satisfaction. The depth of discussion on how these practices enhance value delivery is moderate, but the primary focus remains on technical aspects rather than value management principles.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -388,12 +412,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the use of Visual Studio 2010 and Team Foundation Server as tools for Application Lifecycle Management (ALM), discussing traceability, task management, and requirements tracking, but it does not delve deeply into software craftsmanship, design principles, or best practices in software engineering.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the technical aspects of using Visual Studio 2010 and Team Foundation Server (TFS) for Application Lifecycle Management (ALM), focusing on traceability, compliance, and the relationships between various artifacts in software development. It aligns well with the principles of software craftsmanship, particularly in terms of code quality, testing, and the integration of development practices. However, while it provides substantial detail on TFS functionalities, it lacks a broader discussion on best practices or methodologies that contribute to software engineering excellence, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -406,12 +433,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:43:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses elements related to traceability, builds, and the role of TFS in managing changes, which are relevant to Continuous Delivery practices, but it is primarily focused on Application Lifecycle Management and compliance rather than Continuous Delivery as a central topic.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses aspects of Application Lifecycle Management (ALM) and traceability in Team Foundation Server (TFS), which are relevant to Continuous Delivery. However, it primarily focuses on compliance and audit requirements rather than the core principles and practices of Continuous Delivery. While it touches on builds and the relationship between work items and changesets, it lacks a comprehensive exploration of Continuous Delivery methodologies, automation in deployment, and risk management strategies. Therefore, the confidence score reflects a moderate relevance to the Continuous Delivery category.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -469,12 +499,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:43:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and practices in the context of using Team Foundation Server and Visual Studio for Application Lifecycle Management, focusing on requirements, tasks, and traceability, which aligns with Agile Planning methodologies. However, it primarily centers on the tools and compliance aspects rather than broader Agile planning strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and Visual Studio for Application Lifecycle Management (ALM), which includes aspects of Agile Planning such as managing requirements, tasks, and test cases. However, the primary focus is on compliance and traceability rather than on Agile Planning methodologies or practices. While it touches on Agile principles, it does not delve deeply into iterative planning, feedback loops, or team dynamics, which are core to Agile Planning. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -508,12 +541,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:43:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses roles and responsibilities within a team context, specifically mentioning Business Analysts, Programmers, Testers, and Build Masters, which relates to team dynamics in Scrum. However, it mainly focuses on the functionalities of Visual Studio and TFS rather than Scrum principles specifically.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses roles within a team, such as Business Analysts, Programmers, and Testers, which aligns with the Scrum Team's focus on roles and responsibilities. However, it primarily centres on the functionalities of Team Foundation Server and Application Lifecycle Management rather than the dynamics and collaboration specific to a Scrum Team. The depth of discussion on Scrum principles is limited, focusing more on tools and processes than on team interactions or Scrum practices.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -526,12 +562,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:43:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of compliance within the context of Team Foundation Server (TFS) and its relation to tasks, requirements, and builds, which are integral to Agile and DevOps methodologies. However, it primarily focuses on features and functionalities rather than a clear strategic framework or approach.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the functionalities and features of Team Foundation Server (TFS) and Visual Studio 2010 in relation to compliance and traceability, rather than focusing on strategic approaches within Agile, Scrum, or DevOps frameworks. While it touches on aspects of Agile practices, such as the roles of team members and the importance of requirements, it lacks a comprehensive discussion on strategic alignment, value-driven approaches, or techniques for optimising delivery processes. The depth of discussion is more technical and operational than strategic, leading to a low confidence score in the Strategy category.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -562,39 +601,48 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:43:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Test Cases and their association with automated tests within Team Foundation Server, indicating that automated testing is a major but secondary theme. However, the primary focus is on traceability and compliance in the context of the Application Lifecycle Management (ALM), which makes it less centered on automated testing alone.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions Test Cases and their association with automated tests, but the primary focus is on the traceability and compliance aspects of Team Foundation Server (TFS) rather than on automated testing principles or methodologies. The discussion lacks depth in exploring automated testing practices, tools, or frameworks, which are crucial for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses how Visual Studio 2010 and Team Foundation Server (TFS) can impact team roles and collaboration, particularly in the context of Application Lifecycle Management and compliance. While it touches on aspects of team interactions and responsibilities, it primarily focuses on tool functionalities rather than detailed strategies for enhancing team performance and dynamics.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and Visual Studio for Application Lifecycle Management (ALM), focusing on traceability and compliance rather than directly addressing team performance or collaboration strategies. While it mentions roles within a team, it lacks a detailed exploration of team dynamics, communication, or methodologies aimed at enhancing team effectiveness. The primary focus is on tools and processes rather than the performance of the team itself.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T09:09:15",
+    "calculated_at": "2025-03-15T06:42:02",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content primarily discusses the ALM capabilities of Visual Studio and TFS, focusing on traceability, requirements, and task management, with minimal reference to the concept of Increment in Agile.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of Acceptance Criteria in TFS as part of tracking Requirements and Test Cases, which relates to ATDD principles, but is primarily focused on compliance and the functionalities of TFS rather than ATDD itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses various aspects of Team Foundation Server (TFS) and its role in Application Lifecycle Management (ALM), including requirements, tasks, and test cases. While it touches on the importance of requirements and testing, it does not focus specifically on Acceptance Test Driven Development (ATDD) principles or the collaborative nature of defining acceptance criteria. The mention of test cases and acceptance criteria is too brief and lacks depth, making ATDD a secondary theme rather than a primary focus.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -637,21 +685,24 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T00:44:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:42:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the features and functionalities of Team Foundation Server (TFS), particularly emphasizing source control aspects such as changesets, branching, tasks, and integration with builds. It centers around how these elements contribute to effective source control in compliance-heavy environments, making it a primary topic within modern source control practices.",
+    "final_score": 71.0,
+    "reasoning": "The content extensively discusses Team Foundation Server (TFS) and its features related to source control, including changesets, tasks, and builds, which are integral to modern source control practices. It provides detailed insights into how TFS facilitates version control, traceability, and compliance, aligning well with the core themes of the category. However, while it covers many aspects of source control, it also delves into broader application lifecycle management topics, which slightly detracts from its primary focus on modern source control.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:09:15",
+    "calculated_at": "2025-03-15T06:42:02",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
     "final_score": 19.0,
     "reasoning": "While the content discusses tools and techniques for traceability in software development and the role of various artifacts in the process, it does not explicitly focus on empirical process control principles such as transparency, inspection, and adaptation. The main emphasis is on the compliance and tracking capabilities of Team Foundation Server rather than on decision-making based on observed evidence.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -664,20 +715,26 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-16T00:44:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:42:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content extensively discusses work item types such as Tasks, Requirements, and Bugs, as well as concepts related to traceability and relationships between these items in a project management context, which are central features of Azure Boards in Agile project management.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its features related to Application Lifecycle Management (ALM), including work item tracking, requirements, tasks, and bugs. While it touches on concepts relevant to Azure Boards, such as work item types and their relationships, it primarily focuses on TFS as a whole rather than specifically on Azure Boards. The discussion lacks depth in Azure Boards functionalities and best practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:43:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily focuses on the features and functionalities of Team Foundation Server (TFS) as an Application Lifecycle Management platform, it includes relevant aspects of collaboration within Agile teams, such as traceability, management of tasks, requirements, and roles within a team. However, its focus is more on compliance and management rather than strictly enhancing collaboration.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its features related to Application Lifecycle Management (ALM), which includes aspects of collaboration and task management. However, the primary focus is on compliance and traceability rather than on enhancing communication and coordination within Agile teams. While there are mentions of team roles and task management, the depth of discussion on collaboration tools and their integration with Agile methodologies is limited.",
     "level": "Tertiary"
   },
   "Organisational Change": {
@@ -700,12 +757,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:43:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses traceability, releases, and how changesets relate to versions, but it focuses more on compliance and project management aspects rather than specifically on the principles of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the traceability and management of software development processes using Team Foundation Server (TFS) and Visual Studio, which indirectly relates to release management. However, it primarily focuses on compliance and audit requirements rather than the principles of frequent releases, continuous delivery, or deployment. While there are mentions of builds and tracking changes, the overall emphasis is not on frequent releases as a primary topic.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -832,12 +892,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses Application Lifecycle Management and touches on roles such as Business Analysts, Programmers, and Testers, it does not primarily focus on Scrum principles, practices, or iterative product development. The discussion of requirements, tasks, and traceability in TFS aligns loosely with themes in Scrum but lacks a strong emphasis on the Scrum framework and its specific elements such as sprints, backlog management, and customer feedback integration.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses various aspects of Application Lifecycle Management (ALM) using Team Foundation Server (TFS) and Visual Studio, touching on roles, requirements, tasks, and builds. However, it lacks a direct focus on Scrum principles and practices, such as sprint planning or iterative development. While it mentions roles and artifacts relevant to Scrum, the overall emphasis is more on compliance and traceability rather than on Scrum product development methodologies.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -868,12 +931,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses how test cases can be linked to automated tests within the context of Team Foundation Server, indicating a focus on test automation practices. However, the primary focus on compliance and overall ALM practices limits the depth of discussion on test automation specifically.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the use of Test Cases in relation to requirements and their association with automated tests, which is relevant to test automation. However, the primary focus is on the overall Application Lifecycle Management (ALM) capabilities of Visual Studio and Team Foundation Server, rather than a dedicated exploration of test automation principles, frameworks, or best practices. The discussion lacks depth in terms of specific test automation tools or methodologies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -886,11 +952,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T00:44:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:42:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the usage of Visual Studio 2010 and Team Foundation Server in managing the development lifecycle, emphasizing traceability, requirements, tasks, changesets, testing, and compliance, all of which align with the principles of delivering working software that meets user requirements and ensures quality.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the functionalities of Visual Studio 2010 and Team Foundation Server (TFS) in the context of Application Lifecycle Management (ALM), focusing on traceability, requirements management, and the relationship between various artifacts in software development. While it touches on aspects of working software, such as requirements and testing, the primary focus is on tools and processes rather than the delivery of functional software itself. The discussion lacks depth in terms of best practices for ensuring software quality and does not provide concrete examples of successful delivery of working software.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -979,11 +1048,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T00:44:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:42:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses how TFS and Visual Studio manage artifacts related to releases, including requirements, tasks, changesets, builds, and how they integrate into release management practices.",
+    "final_score": 72.0,
+    "reasoning": "The content extensively discusses the role of Team Foundation Server (TFS) in managing software releases, including traceability, requirements, tasks, changesets, builds, and test cases, all of which are crucial for effective release management. It highlights how these elements contribute to compliance and audit requirements, aligning well with the core themes of release management. However, while it covers many aspects of release management, it does not delve deeply into specific strategies or practices for release planning and scheduling, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1006,11 +1078,14 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:43:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses builds within Team Foundation Server, which relates to Azure Pipelines but mainly focuses on the ALM aspects of TFS rather than the specific configuration and management of Azure Pipelines themselves. It is a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its role in Application Lifecycle Management (ALM), including aspects of build management and traceability. However, it does not focus specifically on Azure Pipelines or CI/CD practices within the Azure ecosystem. While there are mentions of builds and their relationship to work items, the primary focus is on TFS and its features rather than Azure Pipelines specifically. Therefore, the confidence score reflects a moderate alignment with the category, but it does not meet the criteria for a primary focus on Azure Pipelines.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
@@ -1051,11 +1126,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses how Visual Studio 2010 and Team Foundation Server (TFS) can enable compliance and provide traceability, which are aspects of digital transformation regarding the use of digital tools to improve processes and operational efficiency. However, it primarily focuses on application lifecycle management without deeply engaging in broader digital transformation strategies or cultural impacts.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of Visual Studio 2010 and Team Foundation Server (TFS) for Application Lifecycle Management (ALM) and compliance, which touches on aspects of digital transformation, particularly in terms of enhancing operational efficiency and compliance through digital tools. However, it lacks a strong focus on broader strategic adoption of digital technologies or case studies of digital transformation initiatives. The discussion is more technical and operational rather than strategic, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "MVP": {
@@ -1123,21 +1201,24 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:09:15",
+    "calculated_at": "2025-03-15T06:42:02",
     "ai_confidence": 30,
     "non_ai_confidence": 30,
     "final_score": 30.0,
     "reasoning": "While the content discusses some aspects of testing, such as Test Cases and their association with Requirements and Bugs, the primary focus is on the traceability and compliance aspects of Team Foundation Server without a central theme of Test First Development or Test-Driven Development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Visual Studio 2010 and Team Foundation Server, organizations tools that are often used in conjunction with the Windows operating system, but the primary focus is on Application Lifecycle Management (ALM) rather than specific Windows functionalities or issues.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and Visual Studio 2010, which are tools that can be used within the Windows environment. However, it does not focus on the Windows operating system itself, such as installation, configuration, or troubleshooting. While there are mentions of Windows in the context of TFS, the discussion is more about application lifecycle management rather than Windows-specific topics. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1231,11 +1312,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-16T00:44:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:42:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content discusses the role of software developers in the context of Team Foundation Server and application lifecycle management, focusing on how tasks and changesets are related to requirements and the overall development process, which aligns with Agile and DevOps practices.",
+    "final_score": 67.0,
+    "reasoning": "The content extensively discusses the role of software developers in the context of Agile and DevOps practices, particularly through the lens of using Team Foundation Server (TFS) and Visual Studio for Application Lifecycle Management (ALM). It covers how developers interact with tasks, requirements, changesets, and builds, which are all crucial aspects of the software development process. The mention of specific roles such as programmers, testers, and business analysts indicates a clear focus on the developer's role within a collaborative environment. However, while the content is rich in detail, it primarily centres around TFS features rather than broader Agile or DevOps methodologies, which slightly limits its conceptual alignment with the category's core themes.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1294,29 +1378,35 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:09:15",
+    "calculated_at": "2025-03-15T06:42:02",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its features related to Application Lifecycle Management (ALM) with a focus on compliance and traceability, rather than specific Agile frameworks or their implementations.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and Visual Studio 2010 in the context of Agile methodologies, specifically focusing on compliance and traceability, which are important for Agile strategy. However, the primary focus is on technical practices and tools rather than a strategic discussion on Agile principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the technical aspects of using Team Foundation Server (TFS) and Visual Studio for Application Lifecycle Management (ALM), focusing on traceability and compliance rather than strategic alignment with Agile principles. While it touches on Agile concepts like requirements and tasks, it lacks a comprehensive discussion on Agile strategy, such as leadership roles, adaptability, or customer-centric approaches. The depth of discussion is significant in terms of technical details, but it does not sufficiently address the strategic context required for a higher confidence score in Agile Strategy.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:42:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses features and best practices of Team Foundation Server (TFS), it touches on aspects of source control like changesets and task management related to version control, making Azure Repos a significant theme but not the primary focus.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its Application Lifecycle Management (ALM) capabilities, which includes aspects of source control and traceability. However, it does not focus specifically on Azure Repos or its functionalities, best practices, or integration within modern software development. While there are mentions of source control and changesets, the discussion is more about TFS as a whole rather than Azure Repos specifically, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Forecasting": {
@@ -1423,7 +1513,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:49:19",
+    "calculated_at": "2025-03-15T06:42:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1431,6 +1521,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses various aspects of Application Lifecycle Management (ALM) using Team Foundation Server (TFS) and Visual Studio, touching on concepts like requirements, tasks, and testing. However, it does not explicitly mention Scrum roles, events, or principles, which are central to the Scrum framework. While there is some alignment with Agile principles, the focus is primarily on TFS functionalities rather than Scrum practices, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

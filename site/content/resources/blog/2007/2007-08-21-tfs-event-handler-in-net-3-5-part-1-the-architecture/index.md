@@ -29,11 +29,6 @@ aliasesArchive:
 tags:
 - Software Development
 - System Configuration
-- Technical Mastery
-- Practical Techniques and Tooling
-- Application Lifecycle Management
-- Technical Excellence
-- Code and Complexity
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Engineering Excellence

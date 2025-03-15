@@ -26,13 +26,11 @@ duration: 39
 isShort: true
 tags:
 - Team Collaboration
+- Practical Techniques and Tooling
+- Remote Working
 - Scrum Master
-- Collaboration Tools
-- Agile Planning Tools
-- People and Process
-- Agile Planning
-- Agile Project Management
-- Team Performance
+- Scrum Team
+- Products and Books
 sitemap:
   filename: sitemap.xml
   priority: 0.6

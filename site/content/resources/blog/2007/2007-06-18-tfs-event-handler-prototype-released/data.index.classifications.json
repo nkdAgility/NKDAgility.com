@@ -103,7 +103,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T17:09:20",
+    "calculated_at": "2025-03-15T07:45:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -111,7 +111,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content mentions the release of a prototype tool (TFS Event Handler) but lacks detailed discussion on practical techniques or methodologies related to Agile or DevOps. While it hints at configuration and extension, it does not provide substantial insights into how these practices enhance team performance or collaboration, nor does it explore specific frameworks or best practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -178,12 +178,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:45:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of a prototype application, which aligns with industry updates, but lacks a broader context or analysis related to Agile or DevOps.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the release of a prototype application, which is more of an announcement than a comprehensive review or news analysis. While it does mention the release of a tool, it lacks detailed discussion on its implications for Agile or DevOps practices, and there is no evaluation of its impact or relevance to the industry. The content does not provide insights or commentary on broader trends or practices, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -376,7 +379,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T12:16:59",
+    "calculated_at": "2025-03-15T07:45:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -384,7 +387,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the release of a prototype application and hints at configuration, but it lacks detailed discussion on system configuration practices or methodologies. The focus is more on the release announcement rather than an in-depth exploration of system configuration principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -586,11 +589,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:45:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the release of a software application (TFS Event Handler) and mentions code and documentation, which indicates a focus on software development but lacks in-depth methodological context.",
+    "final_score": 56.0,
+    "reasoning": "The content mentions the release of a prototype application related to TFS Event Handler, which indicates a focus on software development. However, it lacks detailed discussion on methodologies, best practices, or frameworks that guide the development lifecycle. The mention of documentation suggests an awareness of software practices, but the overall depth and alignment with core themes of software development are limited.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -865,7 +871,7 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-11T10:52:02",
+    "calculated_at": "2025-03-15T07:45:31",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -873,7 +879,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content mentions a specific release of a prototype application, which aligns with the concept of frequent releases. However, it lacks a broader discussion on continuous delivery principles, automation techniques, or strategies for incremental improvements. The focus is primarily on the announcement of a single release rather than a comprehensive exploration of frequent release practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -958,7 +964,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T15:19:20",
+    "calculated_at": "2025-03-15T07:45:31",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -966,7 +972,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the release of a prototype application and mentions documentation, but it lacks a detailed discussion on software craftsmanship, best practices, or technical principles. While it hints at configuration and extension, it does not delve into the methodologies or practices that contribute to high-quality software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1243,7 +1249,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-10T13:23:27",
+    "calculated_at": "2025-03-15T07:45:31",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1251,7 +1257,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content mentions the release of a prototype application, which aligns with the concept of release management. However, it lacks detailed discussion on planning, scheduling, or controlling the release process. The focus is primarily on the announcement of the release rather than the strategies or practices involved in release management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",

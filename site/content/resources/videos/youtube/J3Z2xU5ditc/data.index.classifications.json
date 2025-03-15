@@ -52,16 +52,19 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:20:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of planning within the Scrum framework, which is relevant to the principles of business agility. However, the primary focus is on Scrum's planning aspects rather than broader business agility concepts.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on Scrum and the importance of planning within that framework, which is a specific methodology rather than a broader discussion on business agility. While it touches on themes of adaptability and strategic planning, it does not delve deeply into the principles of business agility or its implementation across an organisation. The discussion is more about effective planning in Agile contexts rather than the overarching concept of business agility.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-06T15:06:38",
+    "calculated_at": "2025-03-14T21:19:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -69,15 +72,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Agile and Scrum practices, focusing on planning and coordination within teams. While it touches on themes of uncertainty and the need for adaptive planning, it does not explicitly reference complexity science or frameworks like the Cynefin Framework. The discussion lacks depth in exploring non-linear dynamics or emergent behaviours typical of complex adaptive systems, which are central to the category of Complexity Thinking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:20:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content discusses Scrum principles, particularly the importance of planning within the Scrum framework, as well as roles and communication strategies in large-scale Scrum implementations.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Scrum principles, particularly the importance of planning within the Scrum framework. It explicitly mentions key Scrum events like Sprint Planning, Daily Scrum, and Sprint Review, which aligns with the category's focus. However, while it provides a good overview of planning in Scrum, it lacks a deeper exploration of Scrum roles and values, which slightly lowers the depth score. Overall, the content is relevant but does not fully encompass all aspects of Professional Scrum.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -91,12 +97,12 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:36:15",
+    "calculated_at": "2025-03-14T21:19:40",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses planning within Scrum and Agile contexts but does not focus on evidence-based management principles, empirical data use, or relevant metrics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -127,11 +133,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:20:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum, its planning activities, and misinterpretations related to Agile practices, making it a strong alignment with Agile frameworks.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on Scrum, an Agile framework, discussing its planning aspects in detail. It directly addresses common misconceptions about planning in Agile, specifically within the context of Scrum, which aligns well with the category's core themes. The depth of discussion is significant, covering various Scrum events related to planning and providing insights into effective planning strategies. Overall, the content is highly relevant to Agile frameworks, particularly Scrum, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -163,12 +172,15 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:19:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "While the content primarily discusses Scrum and the importance of planning in Agile, it also touches on themes of collaboration and coordination across multiple teams in a larger organization. It references the need for strategic planning and alignment across many teams, indicating a secondary theme of scaling Agile practices, but does not delve deeply into specific Scaled Agile frameworks or methodologies.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the importance of planning within that framework. While it touches on the need for coordination in large teams, it does not explicitly discuss scaling Agile methodologies or frameworks like SAFe or LeSS. The discussion is more centred on individual Agile practices rather than the enterprise-level strategies required for Scaled Agile, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -208,12 +220,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning in Scrum, which relates to team dynamics and collaboration, but the focus is mainly on planning strategies rather than directly addressing team performance or effectiveness explicitly.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:11:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of planning within Scrum, which is a key aspect of team performance. It mentions specific Scrum events like Sprint Planning and Daily Scrum, which directly relate to team dynamics and collaboration. However, the primary focus is on planning rather than on broader team performance strategies or methodologies. While it touches on communication and alignment in large teams, it lacks depth in exploring team cohesion, conflict resolution, or leadership roles, which are crucial for a higher confidence score in the 'Team Performance' category.",
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -235,11 +250,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:20:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of planning within the Scrum framework, a key aspect of product delivery, including coordination across teams and long-term planning, which aligns closely with methodologies for delivering software products.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of planning within the Scrum framework, which is a key aspect of Agile methodologies relevant to product delivery. It covers various planning events in Scrum, emphasising their role in ensuring effective product delivery. The discussion aligns well with the core themes of product delivery, particularly in terms of planning and collaboration across teams. The depth of the discussion is substantial, providing insights into how planning impacts Agile success and the coordination required in larger teams, thus contributing significantly to the understanding of delivering software products effectively.",
     "level": "Secondary"
   },
   "AI": {
@@ -262,11 +280,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the importance of effective planning within the Scrum framework, focusing on team dynamics, communication, and the interplay of various teams in large organizations. There is a strong emphasis on how human behaviors and collaboration impact the planning process in Agile and Scrum environments.",
+    "calculated_at": "2025-03-13T16:42:05",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the importance of planning within Scrum, highlighting team dynamics and collaboration, which are core aspects of the 'People and Process' category. It addresses how effective planning influences team performance and communication, particularly in large teams, aligning well with the category's focus on human behaviour and structured methodologies. The depth of discussion on planning strategies and the role of communication in achieving team goals further supports a high confidence score.",
     "level": "Secondary"
   },
   "Test Driven Development": {
@@ -337,12 +358,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-14T21:19:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 58.0,
-    "reasoning": "While the content primarily discusses Scrum and planning at the team level, it touches on the need for collaboration and strategic planning across multiple teams and products, which aligns with aspects of enterprise agility. However, the focus is more on Scrum practices than on broader enterprise-level agility concepts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices and planning at the team level, which does not align with the broader organisational context required for Enterprise Agility. While it touches on the importance of planning in large teams, it lacks a comprehensive discussion on organisational structures, leadership roles, or strategies for fostering a culture of agility across the enterprise.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -355,30 +379,39 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:21:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning in Scrum and its implications for technical leadership and team dynamics, but it primarily focuses on project management concepts rather than on the broader themes of technical leadership.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of planning within the Scrum framework, which is a key aspect of agile methodologies. It mentions specific Scrum events and their roles in planning, aligning with the principles of technical leadership in fostering effective team dynamics and collaboration. However, while it touches on relevant topics, it lacks a deeper exploration of technical leadership strategies, mentoring, or conflict resolution, which limits its overall depth in the context of technical leadership.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:19:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of planning within Scrum and Agile methodologies, including specific aspects of sprint planning, backlog management, and long-term thematic planning, which aligns well with Agile Planning Tools.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the importance of planning within the Scrum framework, detailing specific planning events such as Sprint Planning and Refinement. It aligns well with the core themes of Agile Planning Tools by emphasising effective planning strategies and the necessity of collaboration in large teams. The depth of discussion is substantial, covering various aspects of planning and its implications for Agile success, although it does not mention specific Agile planning tools like Jira or Trello.",
     "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:20:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Scrum events, planning, and collaboration within teams but does not focus primarily on the Scrum Master's role.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses Scrum events and the importance of planning within the Scrum framework, which aligns with the responsibilities of a Scrum Master. However, it lacks a direct focus on the Scrum Master role itself, such as coaching or facilitating team dynamics. The discussion is primarily centred on planning rather than the broader responsibilities of a Scrum Master, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -394,12 +427,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:20:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses planning within Scrum, which touches on Agile principles indirectly, but the primary focus is on Scrum as a framework and its planning aspects rather than the core Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily focuses on Scrum and its planning aspects, which are specific practices rather than the underlying Agile values and principles. While it touches on the importance of planning in an Agile context, it does not deeply engage with the core values of the Agile Manifesto or the principles of Agile software development. The discussion is more about the mechanics of Scrum rather than a philosophical exploration of Agile values.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -421,12 +457,15 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:19:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning and strategic foresight in Agile and Scrum, touching on aspects of delivery timelines and team coordination, but it is more focused on the myths of planning rather than specific forecasting methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses planning within Scrum, which is related to forecasting but does not explicitly focus on forecasting methodologies or practices. While it mentions the importance of planning and coordination, it lacks a direct emphasis on empirical data, risk management, or specific forecasting techniques. The discussion is more about the necessity of planning rather than how to forecast effectively within Agile frameworks.",
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -448,30 +487,36 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the need for planning and coordination across many teams, particularly in the context of a large organization like Microsoft. It touches on strategic themes and organizational collaboration that align with large-scale Agile practices, but focuses primarily on Scrum practices and planning rather than enterprise-level scaling frameworks or transformation strategies.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T21:20:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses planning within the context of Scrum, which is primarily a team-level Agile practice. While it touches on the importance of planning in large teams and mentions coordination across multiple teams, the focus remains on Scrum events and individual team dynamics rather than large-scale Agile frameworks or enterprise-level strategies. The depth of discussion on planning in large teams adds some relevance, but it does not fully align with the core themes of Large Scale Agility.",
+    "level": "Tertiary"
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-17T23:36:15",
+    "calculated_at": "2025-03-14T21:19:40",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "While the content discusses the importance of planning in Scrum, it lacks a clear focus on estimation techniques or practices. The primary theme revolves around planning processes and myths rather than estimation itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:21:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses planning in Agile and mentions backlog refinement, but it focuses more broadly on principles of planning and communication in Scrum rather than solely on backlog refinement practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of refinement as a crucial type of planning within Scrum, which aligns with the category. However, it primarily focuses on the broader theme of planning in Agile rather than delving deeply into backlog refinement techniques or practices. The mention of refinement is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -550,11 +595,14 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:34:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the content discusses planning in the context of Scrum and Agile, the primary focus is on the need for effective planning across multiple teams and long-term strategies rather than explicitly addressing the Product Backlog itself.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses planning within the Scrum framework, including refinement, which is related to backlog management. However, it primarily focuses on the importance of planning in general rather than specifically addressing the Product Backlog's role, techniques for refinement, or the responsibilities of the Product Owner. While there are relevant mentions, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -607,12 +655,15 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses planning within large teams and the need for coordination and communication among multiple teams to achieve organizational goals, which aligns with scaling agility practices.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T21:20:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the importance of planning within teams, which aligns more with team-level agility rather than scaling agility across an organisation. While it briefly touches on the need for coordination in large teams, it lacks a comprehensive discussion on frameworks, leadership roles, or organisational structures that are essential for scaling agility.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -670,12 +721,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses collaboration among multiple teams and the need for effective communication in planning, which are important for team collaboration, but it primarily focuses on the planning aspect within Scrum rather than deeply exploring team dynamics or strategies for improving collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:20:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of planning within Scrum, which indirectly relates to team collaboration through the emphasis on communication and alignment among team members. However, the primary focus is on planning rather than direct collaboration techniques or team dynamics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -700,12 +754,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:19:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "While the content predominantly discusses Agile and Scrum practices, it mentions working on Windows and some product planning aspects related to Windows, making it a secondary theme within an otherwise non-Windows context.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, with only a brief mention of Windows in the context of planning strategies for large teams. While it touches on the importance of planning in relation to a product like Windows, the focus remains on Agile principles rather than specific Windows-related topics such as installation, configuration, or troubleshooting. Therefore, the content does not align closely with the Windows category.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -727,12 +784,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 75,
-    "non_ai_confidence": 40,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the planning aspects of Scrum and emphasizes the importance of aligning teams around product goals, with some reference to product organization and coordination. However, it mainly focuses on Scrum practices rather than the broader Agile Product Operating Model framework.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T21:20:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content primarily discusses Scrum and the importance of planning within Agile frameworks, which is relevant to the Agile Product Operating Model. However, it focuses more on Scrum practices rather than the broader principles of a product-centric approach or the Agile Product Operating Model itself. While it touches on themes like alignment and planning in large teams, it lacks a comprehensive exploration of the Agile Product Operating Model's core themes, such as continuous feedback, cross-functional teams, and value delivery metrics.",
+    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -754,16 +814,19 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:20:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile planning and how it is essential for adapting to changes and coordinating across teams, making it relevant to market adaptability as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the importance of planning within the Scrum framework, which is a component of Agile methodologies. While it touches on aspects of responsiveness and strategic alignment, it does not explicitly focus on market adaptability or the broader implications of Agile practices in responding to market shifts. The discussion lacks depth in terms of how these planning strategies directly enhance an organisation's ability to adapt to market changes, which is a key aspect of the category.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-03-11T10:03:47",
+    "calculated_at": "2025-03-14T21:19:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -771,7 +834,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on planning and coordination within teams. While it touches on aspects of organisational dynamics, such as the need for communication and strategic planning across multiple teams, it lacks a direct focus on systems thinking principles or the broader implications of organisational structure and culture. The discussion is more centred on individual team processes rather than a holistic view of organisational behaviour, which is essential for a stronger alignment with the category of Organisational Physics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -793,21 +856,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:20:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning and coordination in Scrum and Agile methodologies, which are related to decision-making processes within teams and organizations. However, it primarily focuses on the aspects of planning rather than structured, evidence-based decision-making methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of planning within the Scrum framework, which indirectly relates to decision-making processes. It highlights how effective planning can lead to better decisions and the need for collaboration in large teams. However, it primarily focuses on planning rather than structured decision-making methodologies, which limits its alignment with the core themes of the category.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:20:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses planning within Agile and Scrum contexts, which includes elements of metrics and performance assessment, but it primarily focuses on planning practices rather than metrics or learning specifically.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the importance of planning within the Scrum framework, discussing various planning events and strategies. While it touches on the need for effective planning, it lacks a direct emphasis on metrics, data analysis, or feedback mechanisms that are central to the 'Metrics and Learning' category. The discussion is more about planning processes rather than how metrics can drive continuous improvement or evidence-based decision-making.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -820,12 +889,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:20:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile planning and touches on waste reduction; however, the primary focus is on Scrum frameworks and planning, not Lean Product Development.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile planning, which are not directly aligned with Lean Product Development principles. While it touches on the importance of effective planning and efficiency, it lacks a strong emphasis on waste reduction, customer feedback, and continuous improvement that are central to Lean. The discussion is more about Agile methodologies rather than Lean principles, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -856,21 +928,27 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the importance of planning within Scrum, emphasizing strategic coordination, long-term visioning, and planning methodologies in Agile environments. It covers the connection between planning and strategic alignment in large projects, indicating a focus on strategic concepts relevant to Agile.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T21:20:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses the importance of planning within the Scrum framework, which is a core aspect of Agile strategy. It addresses strategic alignment through planning events like Sprint Planning and Refinement, and it highlights the need for effective planning in large teams to maintain direction and achieve organisational goals. The depth of discussion is significant, covering various planning aspects and their implications for team performance and strategic outcomes. Overall, the content aligns well with the Strategy category, focusing on strategic approaches within Agile.",
+    "level": "Primary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:20:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning within the Scrum framework, touching upon operational efficiency and the need for effective planning in coordination among multiple teams. However, the primary focus seems to be on misconceptions about planning rather than concrete operational practices or techniques.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of planning within the Scrum framework, which is a key operational practice in Agile methodologies. It directly mentions various planning events in Scrum, such as Sprint Planning and Daily Scrum, indicating a focus on operational practices. However, while it aligns with the category's themes, the depth of discussion primarily revolves around planning rather than broader operational efficiency techniques or metrics. Therefore, while it is relevant, it does not fully encompass the wider scope of operational practices.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -931,12 +1009,12 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T23:36:15",
+    "calculated_at": "2025-03-14T21:19:40",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses planning within the Scrum framework, focusing on Agile principles and team-level practices rather than explicitly addressing portfolio management concepts or strategic alignment of projects to business goals.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -949,16 +1027,19 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:20:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Agile methodologies, specifically focusing on the importance of planning within Scrum and how it relates to product management principles, including coordination across teams and aligning product goals with strategic themes.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses Scrum and its planning processes, which are central to Agile Product Management. It aligns well with the category by addressing the role of planning in Agile, particularly in Scrum, and highlights the importance of stakeholder engagement and collaboration. The depth of discussion is significant, covering various planning events and strategies for large teams, which enhances its relevance to Agile principles.",
     "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-11T17:33:43",
+    "calculated_at": "2025-03-14T21:19:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -966,7 +1047,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing the importance of planning within these frameworks. While it touches on themes of coordination and strategic planning, it does not explicitly address Systems Thinking principles or techniques. The discussion lacks depth in exploring interconnectedness or holistic analysis, which are core to Systems Thinking. Therefore, the confidence score reflects a low alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -991,12 +1072,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses planning and collaboration in a Scrum context, emphasizing communication and team dynamics, which are relevant to sociotechnical systems, but the primary focus is on Scrum practices rather than a broader exploration of sociotechnical theory.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:19:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses Scrum and planning within Agile methodologies, focusing on the technical aspects of Scrum events and processes. While it touches on the importance of communication and collaboration in large teams, it lacks a comprehensive exploration of the interplay between social and technical systems. The discussion is more centred on technical practices rather than the broader sociotechnical context, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1009,12 +1093,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:19:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum practices, emphasizing planning, adaptation based on feedback, and the importance of communication within teams. However, the primary focus is on planning rather than empirical process control, which is a secondary theme in the context of Agile principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses planning within Scrum, which is a component of Agile methodologies, but it primarily focuses on the necessity of planning rather than the principles of empirical process control such as transparency, inspection, and adaptation. While it touches on aspects of Agile, it does not delve deeply into empirical process control or provide substantial evidence-based discussions, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1027,11 +1114,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T21:21:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the importance of planning within Scrum, addressing practical problem-solving strategies and real-world applications of Agile principles. It emphasizes adaptability and critical thinking in navigating project complexities, which aligns well with the category of Pragmatic Thinking.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the importance of planning within the Scrum framework, directly addressing misconceptions about Agile. It aligns well with the core themes of pragmatic thinking by providing practical problem-solving strategies and real-world applications of Scrum principles. The depth of discussion is significant, as it covers various planning events and their roles in ensuring effective Agile practices, particularly in complex environments like large teams. Overall, the content demonstrates a strong understanding of how to navigate challenges in Agile contexts.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -1054,11 +1144,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile planning and Scrum processes, which are relevant to delivering functional software, but it primarily focuses on planning rather than directly addressing the characteristics or best practices of working software.",
+    "calculated_at": "2025-03-14T15:19:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the importance of planning within the Scrum framework, which is indirectly related to the delivery of working software. While it touches on aspects of Agile and Scrum that can lead to effective software delivery, it does not explicitly focus on the characteristics or quality of working software itself. The discussion is more about planning processes rather than the software's functionality or user requirements.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -1090,20 +1183,26 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 60,
-    "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "The content discusses aspects of planning and long-term vision in a Scrum context, touching on product goals and themes, but primarily focuses on Agile planning methods rather than a holistic product strategy.",
+    "calculated_at": "2025-03-14T21:20:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses planning within the context of Scrum, which is primarily focused on Agile methodologies rather than product strategy itself. While it touches on aspects like vision and roadmaps, the emphasis is on Scrum events and planning processes rather than a comprehensive exploration of product strategy. The discussion lacks depth in strategic frameworks and market analysis, which are crucial for a full alignment with the category.",
     "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:36:15",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum and Agile practices, emphasizing the importance of planning within the framework, aligning closely with software development methodologies.",
+    "calculated_at": "2025-03-14T21:21:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses Scrum, a key Agile framework, and its planning processes, which are central to software development methodologies. It provides detailed insights into various Scrum events related to planning, demonstrating a strong alignment with the core themes of the Software Development category. The depth of discussion is substantial, covering both the importance of planning in Agile and the nuances of effective planning strategies, particularly in large teams. Overall, the content is highly relevant and focused on software development practices.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -1153,11 +1252,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:36:16",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Agile and Scrum practices which are directly relevant to the role of software developers, including planning, team collaboration, and communication within software development contexts.",
+    "calculated_at": "2025-03-14T21:21:17",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses Scrum, a framework within Agile, focusing on the importance of planning in Agile methodologies. It aligns well with the core themes of the category by addressing best practices in Agile development, the role of planning, and the dynamics of large teams. The depth of discussion is significant, providing detailed insights into various Scrum events and their relevance to effective planning. Overall, the content is highly relevant to software developers working within Agile frameworks.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -1189,12 +1291,12 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T23:36:16",
+    "calculated_at": "2025-03-14T21:19:40",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses Agile and Scrum practices primarily focused on planning and coordination across teams rather than the specific responsibilities and practices of a Product Owner.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1333,12 +1435,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T23:36:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and planning within a Scrum framework, which is related to organisational change practices. However, the primary focus is on Scrum roles and practices rather than a broader organisational change strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:21:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile planning practices, which are more aligned with software development methodologies rather than organisational change. While it touches on the importance of planning and coordination in large teams, it lacks a direct discussion on organisational change frameworks, leadership roles, or overcoming resistance to change. The mention of themes and strategic planning hints at broader organisational considerations, but these are secondary to the main focus on Scrum practices.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",

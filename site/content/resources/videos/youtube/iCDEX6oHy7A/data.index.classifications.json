@@ -301,12 +301,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum, which is a key Agile framework related to software development, but the main focus is on professionalism and conflicting priorities rather than specific software engineering practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:59:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 27.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content primarily discusses the importance of cultivating an agile mindset within development teams, which aligns closely with software development practices, particularly Agile methodologies. It mentions specific practices like Test-Driven Development (TDD), code reviews, and pair programming, indicating a strong connection to software engineering. However, the focus on cultural aspects and leadership strategies, while relevant, detracts slightly from a purely technical discussion, leading to a high but not perfect confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -856,7 +859,7 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-11T16:40:14",
+    "calculated_at": "2025-03-15T03:12:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -864,7 +867,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses the challenges of cultivating an agile mindset within development teams, which aligns with the themes of Agile methodologies. However, it primarily focuses on personal experiences and opinions rather than providing industry news or reviews. While it touches on relevant concepts, it lacks direct references to recent developments or specific tools, resulting in a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",

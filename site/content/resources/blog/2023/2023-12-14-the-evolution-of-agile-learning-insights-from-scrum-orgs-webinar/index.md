@@ -8,7 +8,7 @@ ResourceImportId: 50979
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-12-14
-weight: 770
+weight: 850
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -33,11 +33,6 @@ tags:
 - Events and Presentations
 - People and Process
 - Pragmatic Thinking
-- Coaching
-- Agile Transformation
-- Products and Books
-- Agile Frameworks
-- Change Management
 categories:
 - Social Technologies
 - Scrum

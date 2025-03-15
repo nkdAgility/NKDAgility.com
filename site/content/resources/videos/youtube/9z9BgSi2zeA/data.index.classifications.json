@@ -67,7 +67,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:20:07",
+    "calculated_at": "2025-03-14T20:54:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -75,7 +75,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the role of an agile coach in engaging both technical teams and management, which touches on the importance of aligning product management with business objectives. However, it lacks a direct focus on product management methodologies or frameworks, and the discussion is more about hiring practices than strategic product management itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -307,12 +307,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an Agile coach in aligning technical and leadership engagement, which relates to strategic alignment in Agile environments. However, it primarily focuses on the qualifications and skills of a coach rather than on strategic approaches or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:32:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of an Agile coach in bridging the gap between technical teams and leadership, which aligns with strategic alignment and the importance of effective communication in Agile environments. It provides detailed insights into the traits to look for in an Agile coach, emphasising the need for both technical understanding and business acumen, which are crucial for driving strategic outcomes. The depth of discussion on how Agile practices can impact business strategy and customer satisfaction further supports its relevance to the Strategy category.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -334,12 +337,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:55:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an agile coach and their engagement with both technical staff and leadership, which relates to the coaching theme, but it primarily focuses on the qualifications and understanding needed for hiring a coach rather than the coaching process itself.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of an Agile coach, emphasising the importance of engaging both technical teams and leadership, which aligns with coaching principles. However, the focus is more on hiring criteria and technical understanding rather than on coaching techniques or fostering growth, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
@@ -397,12 +403,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an agile coach in facilitating engagement between technical teams and leadership, which supports a culture of adaptability and continuous improvement. However, it is primarily focused on hiring criteria rather than broader strategies or frameworks for resilience and change.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:54:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of an Agile coach in facilitating change within an organisation, particularly in bridging the gap between technical teams and leadership. It highlights the importance of understanding both technical and business contexts, which aligns with the principles of organisational resilience and adaptability. However, while it touches on change management and the need for cultural shifts, the primary focus remains on the traits of an Agile coach rather than a comprehensive exploration of resilience strategies or frameworks.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -550,12 +559,15 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an agile coach in engaging both technical teams and leadership, which relates to fostering an agile culture and scaling agility. However, the primary focus appears to be on the hiring criteria rather than broader strategies for scaling agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:54:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of an Agile coach in bridging the gap between technical teams and leadership, which is crucial for fostering an agile culture across the organisation. It highlights the importance of engaging both groups to drive organisational change and aligns well with the core themes of scaling agility. However, while it touches on broader organisational impacts, the focus remains on the individual role of the coach rather than comprehensive strategies for scaling agility across multiple teams or frameworks.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -697,11 +709,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T20:55:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the engagement between technical personnel and management within an organization, highlighting the interplay between social (leadership engagement) and technical (deep technical understanding) aspects in the context of hiring an agile coach. However, it mainly focuses on the qualities of the coach rather than a broad exploration of sociotechnical systems.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the role of an Agile coach in bridging the gap between technical teams and leadership, which aligns with the sociotechnical systems theme of integrating social and technical aspects within organisations. It highlights the importance of communication and understanding between these groups, reflecting on how this impacts organisational culture and effectiveness. However, while it touches on these themes, the primary focus remains on the traits of an Agile coach rather than a comprehensive exploration of sociotechnical systems as a whole.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -724,12 +739,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an agile coach in engaging both technical staff and leadership, which is relevant to change management. However, it primarily focuses on the hiring criteria rather than deep discussions on change management strategies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T14:57:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of an Agile coach in facilitating organisational change, particularly in bridging the gap between technical teams and leadership. It highlights the importance of engaging both groups to drive transformation, which aligns with change management principles. However, the focus is more on the hiring process and traits of an Agile coach rather than a comprehensive exploration of change management strategies or practices. Therefore, while there is a relevant connection, it does not fully meet the depth and primary focus criteria for the category.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -772,12 +790,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:55:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses hiring an agile coach, which is relevant to achieving agility in organizations, a key aspect of digital transformation. However, it primarily focuses on the qualifications and engagement strategies rather than digital technologies or broader transformation initiatives.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of an Agile coach in facilitating organisational change and improving business outcomes through Agile practices, which aligns with the themes of digital transformation. However, while it touches on aspects of digital transformation, such as engaging leadership and technical teams, it primarily focuses on the hiring process and traits of an Agile coach rather than providing a comprehensive discussion on digital transformation strategies or case studies. The depth of discussion on digital transformation is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -802,11 +823,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:54:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily focuses on hiring an agile coach and their technical and leadership engagement, it suggests an understanding of organisational dynamics in relation to agility and the need for a nuanced approach based on the organisational context. This indicates a secondary theme related to organisational behaviour, but it's not clear that systems thinking is the primary focus.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the role of an Agile coach in bridging the gap between technical teams and leadership, which aligns with the principles of systems thinking and organisational dynamics. It highlights the importance of understanding both technical and business contexts, which reflects the interplay between organisational structure and culture. However, the focus is primarily on the traits of an Agile coach rather than a comprehensive exploration of organisational physics concepts, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Throughput": {
@@ -883,12 +907,15 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of an agile coach engaging with both technical and leadership roles, indicating an awareness of the need for alignment between teams and management, which is relevant to scaling Agile in larger contexts. However, the focus is primarily on the qualities of an agile coach rather than on large scale agility principles or frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:54:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of an Agile coach in bridging the gap between technical teams and leadership, which is relevant to large-scale Agile initiatives. However, it primarily focuses on the qualities and skills of an Agile coach rather than on frameworks or strategies for scaling Agile across an organisation. While it touches on the importance of aligning Agile practices with business outcomes, it lacks in-depth exploration of large-scale Agile frameworks or transformation strategies.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -1009,21 +1036,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:09:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the role of an agile coach, which suggests an understanding of Agile concepts and the importance of aligning with organizational values, but it focuses more on practical hiring criteria rather than the broader principles of Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of an Agile coach in bridging technical teams and leadership, which touches on Agile principles like collaboration and adaptability. However, it primarily focuses on practical aspects of hiring and the specific skills needed rather than delving deeply into the foundational Agile philosophy or its broader implications.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an agile coach, which is relevant to Agile methodologies in software development, but mainly focuses on hiring criteria and business understanding, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:55:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the role of an Agile coach in software development, discussing their importance in bridging technical teams and leadership. It aligns well with key topics in software development, such as Agile methodologies and the importance of communication in the development lifecycle. The depth of discussion is significant, providing practical advice and examples related to hiring an Agile coach, which is crucial for effective software development practices.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1045,7 +1078,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T14:07:41",
+    "calculated_at": "2025-03-14T20:54:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1053,7 +1086,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the role of an agile coach in engaging both technical staff and leadership, which touches on team dynamics and the importance of understanding business context. However, it lacks direct mentions of team performance strategies, metrics, or specific agile practices, making it a secondary focus rather than a primary discussion on team performance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1141,12 +1174,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an agile coach in facilitating agility within organizations, highlighting the importance of understanding the business context to enhance responsiveness, which aligns with market adaptability. However, it primarily focuses on hiring an agile coach rather than broader strategies or methodologies related to market adaptability.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:54:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of an Agile coach in bridging the gap between technical teams and leadership, which is crucial for enhancing market adaptability. It highlights the importance of understanding both technical and business contexts, aligning Agile practices with business outcomes, and fostering communication across different levels of the organisation. While it does not delve deeply into specific Agile methodologies or case studies, it provides practical insights on how an Agile coach can facilitate organisational change and responsiveness to market demands, thus aligning well with the principles of market adaptability.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -1204,12 +1240,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:55:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the qualifications of an Agile coach, which relates to Agile practices, but it is primarily focused on hiring criteria rather than exploring Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of an Agile coach in facilitating Agile practices, which aligns with the category of Agile Frameworks. However, it primarily focuses on the qualities and skills needed in a coach rather than a deep exploration of specific Agile frameworks themselves. While it mentions Agile principles and the importance of understanding frameworks like Scrum, the discussion lacks a comprehensive analysis of the frameworks or their comparative effectiveness. Therefore, while there is a relevant connection to Agile frameworks, the content does not delve deeply into the frameworks themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1279,12 +1318,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engaging both technical staff and leadership in the context of an agile coach, which relates to the influence of organisational culture on agility and transformation, but it primarily focuses on roles and understanding rather than a broad discussion of organisational culture itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:18:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of an Agile coach in bridging the gap between technical teams and leadership, which is crucial for shaping organisational culture. It highlights the importance of cultural fit and the coach's ability to influence both technical and business aspects, aligning with the core themes of organisational culture. However, the primary focus is on the hiring process and traits of an Agile coach rather than a deep exploration of organisational culture itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1306,12 +1348,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:54:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role and requirements of an agile coach, which is closely related to Agile transformation. However, it primarily focuses on the hiring aspect rather than broader Agile transformation strategies and methodologies.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the role of an Agile coach in facilitating Agile transformation within organisations. It discusses the importance of engaging both technical teams and leadership, which aligns closely with the principles of Agile transformation. The depth of discussion includes specific traits to look for in an Agile coach, emphasising their ability to bridge gaps and drive cultural shifts, which are key aspects of successful Agile transformations. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -1354,21 +1399,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of hiring an agile coach who can engage with both technical staff and leadership, which is related to fostering agility within an organization. However, the content is primarily focused on the hiring process and qualifications rather than broader strategies of organisational agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:54:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on the role of an Agile coach in facilitating organisational agility by bridging the gap between technical teams and leadership. It discusses the importance of technical and business understanding, effective communication, and cultural fit, all of which are crucial for enhancing organisational adaptability. The depth of discussion is substantial, providing practical advice and examples, which aligns well with the core themes of organisational agility. However, while it covers many relevant aspects, it does not delve deeply into specific Agile methodologies or frameworks, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:35:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an agile coach in enhancing organizational agility by bridging the gap between technical teams and leadership, making it a significant theme but not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:40:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the role of an Agile coach in facilitating business agility by bridging the gap between technical teams and leadership. It discusses the importance of understanding both technical and business contexts, which aligns well with the principles of business agility. The depth of discussion is significant, providing detailed insights into what to look for in an Agile coach, including their ability to communicate effectively across different levels of the organisation and connect Agile practices to business outcomes. Overall, the content is highly relevant to the category, with a strong emphasis on fostering a culture of agility and innovation.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1426,7 +1477,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:53:42",
+    "calculated_at": "2025-03-14T20:54:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1434,6 +1485,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the role of an agile coach, which is relevant to Scrum, but does not explicitly discuss Scrum principles, roles, events, or artifacts. The focus is more on the general qualities of an agile coach rather than specific Scrum practices or frameworks. Therefore, while there is some alignment with the category, it lacks depth and direct mentions of Scrum.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

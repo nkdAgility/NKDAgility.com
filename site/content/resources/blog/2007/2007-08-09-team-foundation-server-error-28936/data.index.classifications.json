@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an error encountered during the deployment of Team Foundation Server, which is related to change management within the application lifecycle. However, the primary focus is on troubleshooting a specific error rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a specific error encountered during the deployment of Team Foundation Server, which is related to change management. However, it primarily focuses on troubleshooting a technical issue rather than providing a comprehensive discussion on the application lifecycle stages or best practices in Application Lifecycle Management. While there are mentions of deployment and change management, the depth of discussion is limited to a specific error resolution, lacking broader insights into ALM methodologies or tools.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -295,12 +298,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, but primarily focuses on a specific error and troubleshooting steps rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses an error related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, the focus is primarily on troubleshooting a specific installation issue rather than on broader Azure DevOps functionalities or best practices. While TFS is mentioned, the discussion lacks depth in terms of CI/CD practices or integration with other Azure DevOps tools, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -313,7 +319,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T13:21:08",
+    "calculated_at": "2025-03-15T07:40:49",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -321,7 +327,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific error encountered while deploying Team Foundation Server, which is related to DevOps practices. However, it primarily focuses on troubleshooting a technical issue rather than broader DevOps principles or practices. While there are mentions of deployment and configuration, the discussion lacks depth in terms of DevOps culture, automation, or metrics, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -961,12 +967,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific technical error related to Team Foundation Server and the troubleshooting steps involved, which touch upon software installation and configuration practices, though it primarily focuses on a problem rather than broader concepts of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error encountered during the deployment of Team Foundation Server, which is more focused on troubleshooting than on broader principles of software craftsmanship or engineering practices. While it does touch on technical aspects such as IIS configuration and ASP.NET, it lacks a comprehensive discussion on best practices, methodologies, or principles that define technical mastery. The depth of the discussion is moderate, providing some insights into the problem-solving process, but it does not delve into the overarching themes of software quality or engineering excellence.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1147,12 +1156,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:13:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:40:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses an error encountered during the deployment of Team Foundation Server, making deployment a significant theme but not the main focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses an error encountered during the deployment of Team Foundation Server, which is related to deployment issues. However, it primarily focuses on troubleshooting a specific error rather than discussing broader deployment strategies or methodologies. While there are mentions of deployment and configuration, the content lacks a comprehensive exploration of deployment strategies such as Blue-Green Deployments or Canary Releases, which are central to the category. Therefore, the confidence score reflects a low alignment with the core themes of Deployment Strategies.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",

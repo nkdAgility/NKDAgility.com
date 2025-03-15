@@ -29,13 +29,9 @@ sitemap:
   priority: 0.6
 tags:
 - Scrum Master
-- Software Development
 - People and Process
 - Agile Project Management
-- Professional Scrum
-- Agile Frameworks
-- Scrum Team
-- Team Performance
+- Continuous Learning
 resourceTypes:
 - video
 categories:

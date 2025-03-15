@@ -24,8 +24,6 @@ aliasesArchive:
 - /resources/blog/outsync-with-proxy-servers
 tags:
 - Install and Configuration
-- System Configuration
-- Troubleshooting
 categories: []
 preview: nakedalm-logo-128-link-2-1.png
 

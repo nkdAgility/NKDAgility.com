@@ -29,11 +29,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Coaching
+- Software Development
+- Personal
+- Agile Transformation
+- Mentoring
 - Agile Leadership
 - People and Process
-- Agile Product Management
-- Pragmatic Thinking
-- Agile Project Management
+- Agile Philosophy
 resourceTypes:
 - video
 categories:

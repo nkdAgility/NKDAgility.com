@@ -2,7 +2,7 @@
 title: 'Mastering Remote Work: Key Insights for Agile Teams to Thrive in a Digital World'
 description: Discover how to enhance remote work, integrate UX in Agile, and boost team dynamics. Join Martin Hinshelwood for insights that drive collaboration and value!
 date: 2020-04-10T18:30:42Z
-weight: 440
+weight: 390
 ResourceId: A8URbBCljnQ
 ResourceType: videos
 ResourceImport: true
@@ -26,14 +26,14 @@ isShort: false
 tags:
 - People and Process
 - Team Collaboration
-- Pragmatic Thinking
-- Scrum Product Development
-- Agile Product Management
-- Events and Presentations
-- Product Delivery
 - Remote Working
+- Pragmatic Thinking
+- Agile Product Management
+- Product Delivery
 - Scrum Team
-- Software Development
+- Agile Project Management
+- Agile Transformation
+- Backlog Refinement
 sitemap:
   filename: sitemap.xml
   priority: 0.6

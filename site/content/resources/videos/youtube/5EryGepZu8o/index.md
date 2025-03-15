@@ -2,7 +2,7 @@
 title: If you could teach just one thing about Scrum, what would it be?
 description: "Unlock Scrum's true potential! Discover how empiricism and complexity empower teams and drive success in this insightful video. #Scrum #Agile"
 date: 2023-02-27T07:00:01Z
-weight: 775
+weight: 700
 ResourceId: 5EryGepZu8o
 ResourceType: videos
 ResourceImport: true
@@ -28,6 +28,15 @@ sitemap:
   priority: 0.6
 tags:
 - Empirical Process Control
+- Professional Scrum
+- Scrum Product Development
+- Agile Product Management
+- People and Process
+- Agile Transformation
+- Agile Philosophy
+- Agile Planning
+- Sensemaking
+- Software Development
 resourceTypes:
 - video
 layout: video

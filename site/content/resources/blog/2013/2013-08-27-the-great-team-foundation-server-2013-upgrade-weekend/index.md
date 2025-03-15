@@ -25,9 +25,6 @@ aliasesArchive:
 tags:
 - Install and Configuration
 - Events and Presentations
-- Products and Books
-- News and Reviews
-- System Configuration
 categories: []
 
 ---

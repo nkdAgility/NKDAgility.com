@@ -2,7 +2,7 @@
 title: How will the immersive learning experience help coach people on the job?
 description: 'Discover how immersive learning transforms #scrum training into practical on-the-job coaching, enhancing skills and boosting team performance.'
 date: 2023-08-08T07:00:22Z
-weight: 775
+weight: 810
 ResourceId: pU57BrP94-8
 ResourceType: videos
 ResourceImport: true
@@ -31,11 +31,8 @@ tags:
 - Continuous Learning
 - People and Process
 - Pragmatic Thinking
-- Coaching
-- Team Collaboration
-- Metrics and Learning
-- Mentoring
-- Empirical Process Control
+- Agile Project Management
+- Organisational Agility
 resourceTypes:
 - video
 categories:

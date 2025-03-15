@@ -26,7 +26,6 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - Install and Configuration
-- Modern Source Control
 categories: []
 
 ---

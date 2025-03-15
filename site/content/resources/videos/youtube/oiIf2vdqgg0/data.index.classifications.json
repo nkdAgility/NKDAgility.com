@@ -229,7 +229,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-07T13:57:06",
+    "calculated_at": "2025-03-14T23:56:20",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -237,7 +237,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly discusses the concept of a product vision, which is related to the planning phase of product delivery. However, it lacks explicit mentions of methodologies, practices, or detailed discussions on the end-to-end process of delivering software products. The focus is more on the conceptual understanding of a product vision rather than practical application in product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -277,7 +277,7 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-03-10T12:11:20",
+    "calculated_at": "2025-03-14T23:56:20",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -285,7 +285,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the concept of a product vision, which is relevant to Agile Project Management, particularly in the context of defining long-term goals. However, it lacks explicit references to agile methodologies, frameworks, or practices. The discussion is somewhat aligned with agile principles, but it does not delve deeply into the core themes of Agile Project Management, such as roles, ceremonies, or iterative processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -379,7 +379,7 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-10T14:20:08",
+    "calculated_at": "2025-03-14T23:56:20",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -387,7 +387,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly discusses the concept of a product vision, which is related to Agile Planning as it touches on the direction and outcomes of a product cycle. However, it lacks explicit references to Agile methodologies or practices, and does not delve into specific Agile planning techniques or frameworks. The discussion is somewhat aligned with the core themes of Agile Planning, but it does not provide sufficient depth or detail to warrant a higher confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -1012,7 +1012,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-11T14:40:48",
+    "calculated_at": "2025-03-14T23:56:20",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1020,7 +1020,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the concept of a product vision, which is relevant to Agile and Scrum frameworks. However, it primarily focuses on the theoretical aspects of product vision without delving into practical problem-solving strategies or real-world applications. While it touches on the importance of direction and long-term goals, it lacks detailed discussions on navigating complexity or applying pragmatic techniques in project management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1282,12 +1282,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:20:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:56:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a product vision, which relates to the direction and outcomes of product development, but it does not primarily focus on value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of a product vision, which is related to aligning product development with customer needs and guiding teams towards delivering value. However, it lacks specific strategies or methodologies for value delivery and does not delve into iterative development or customer feedback mechanisms, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1309,20 +1312,26 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T23:20:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:56:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a product vision, which is related to understanding the desired outcomes and direction for a product. However, it does not delve into methodologies or practices for identifying customer needs or defining product features, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the concept of a product vision, which is related to product discovery as it outlines the direction and desired outcomes of a product. However, it lacks explicit discussions on methodologies for identifying customer needs or validating ideas, which are core themes of product discovery. The depth of discussion is moderate, focusing on the importance of a product vision but not delving into user research or feature prioritisation.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:20:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the concept of product vision, which is relevant to Scrum but does not primarily focus on Scrum practices or frameworks.",
+    "calculated_at": "2025-03-14T15:28:20",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the concept of a product vision, which is relevant to Scrum product development as it aligns with the overarching goals of guiding a team's efforts. However, it lacks explicit references to Scrum roles, events, or practices, and does not delve into the iterative processes or customer feedback mechanisms that are central to Scrum. The focus is more on the concept of vision rather than the practical application within a Scrum framework.",
     "level": "Tertiary"
   },
   "Organisational Change": {
@@ -1345,12 +1354,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:20:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of product vision, which is related to strategic planning in Agile contexts, but it does not delve deeply into Agile methodologies or their implementation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:56:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of a product vision, which is a crucial element in Agile strategy as it aligns the team's efforts towards a long-term goal. However, while it touches on the importance of direction and overarching goals, it lacks a broader discussion on Agile methodologies, implementation strategies, or adaptability in business environments. The focus is primarily on the product vision itself rather than a comprehensive Agile strategy.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -1363,12 +1375,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T23:20:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a product vision, which relates to long-term objectives and desired outcomes, but it primarily focuses on the definition rather than strategic goals in a broader context.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:56:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of a product vision, which is closely related to strategic goals as it outlines a long-term direction for a product. However, while it touches on the importance of looking beyond immediate goals and aligning team efforts, it lacks a detailed exploration of frameworks or techniques for setting and measuring strategic objectives. The focus is more on the product vision itself rather than a broader discussion of strategic goals in the context of business agility.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1417,7 +1432,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:23:22",
+    "calculated_at": "2025-03-14T23:56:20",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1425,6 +1440,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the concept of a product vision, which is relevant to Scrum but does not explicitly mention Scrum roles, events, or principles. While it aligns conceptually with the idea of setting a direction for a product, it lacks depth and specific references to Scrum practices, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

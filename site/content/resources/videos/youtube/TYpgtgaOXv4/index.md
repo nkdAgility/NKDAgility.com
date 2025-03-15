@@ -29,16 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Backlog Refinement
 - Scrum Product Development
 - Agile Planning
 - Agile Planning Tools
+- Pragmatic Thinking
+- Transparency and Accountability
+- People and Process
+- Software Developers
+- Operational Practices
 - Agile Product Management
-- Agile Project Management
-- Product Backlog
-- Product Owner
-- Product Delivery
-- Transparency
-- Software Development
 resourceTypes:
 - video
 categories:

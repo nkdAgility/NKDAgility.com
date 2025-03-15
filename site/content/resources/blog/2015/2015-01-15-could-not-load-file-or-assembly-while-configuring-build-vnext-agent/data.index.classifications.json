@@ -22,7 +22,7 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-11T17:55:37",
+    "calculated_at": "2025-03-15T04:06:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -30,7 +30,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific issue related to the Build vNext Agent, which is part of the broader context of platform engineering. However, it primarily focuses on a technical error and troubleshooting steps rather than the principles or broader themes of platform engineering. While it mentions the Build vNext Agent, it does not delve into the design, construction, or optimisation of internal platforms, nor does it discuss enhancing developer productivity or automation in the application lifecycle in a meaningful way.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -220,11 +220,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:06:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to the Build vNext Agent and provides a solution involving .NET strong naming, which is relevant to engineering practices. However, the primary focus is on troubleshooting rather than broader technical excellence principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical issue related to the Build vNext Agent and Visual Studio 2015 Preview, which touches on aspects of software development and deployment. However, it primarily focuses on a troubleshooting scenario rather than broader engineering practices or methodologies that enhance agility. While there are mentions of technical concepts, the depth of discussion is limited to a specific error and its resolution, lacking a comprehensive exploration of technical excellence principles such as TDD, CI/CD, or modular architecture.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -349,12 +352,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:06:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific issue related to the vNext build agent and mentions the release of TFS 2015, which aligns with updates in technology. However, the primary focus is on troubleshooting rather than a broader industry news or review context.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a technical issue related to the Build vNext Agent and Visual Studio 2015 Preview, which is more of a troubleshooting guide than a news or review piece. While it mentions the release of TFS 2015, the focus is on a specific error encountered during setup rather than providing broader industry news or reviews. The depth of discussion is limited to a specific problem and its workaround, lacking comprehensive insights or evaluations that would typically characterise content in the 'News and Reviews' category.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -385,11 +391,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:06:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to the Build vNext Agent and provides a solution, which touches on software craftsmanship and engineering practices, but it is primarily focused on a specific error rather than broader principles of technical mastery.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical issue related to the Build vNext Agent and Visual Studio 2015 Preview, which aligns with the principles of software craftsmanship and engineering practices. It provides a detailed account of a problem encountered, including error messages and a potential solution involving strong naming in .NET. However, while it touches on technical aspects, it lacks broader discussions on best practices, code quality, or architectural principles, which limits its depth in the context of Technical Mastery.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -793,11 +802,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:06:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a practical problem encountered while configuring a Build vNext Agent, including a workaround for a specific error, which aligns with pragmatic problem-solving in a real-world context.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a practical issue encountered while configuring the Build vNext Agent, providing a real-world problem and a solution. It highlights the importance of adaptability in a complex environment, specifically within the context of using Visual Studio and TFS. However, while it does touch on practical problem-solving, it lacks a broader discussion on Agile or Scrum principles, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -874,12 +886,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:06:48",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to configuring a build agent, which is relevant to the delivery of functional software, but it primarily focuses on a specific error rather than broader themes of working software.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a specific error encountered while configuring a build agent, which relates to the operational aspect of software. However, it primarily focuses on troubleshooting a technical issue rather than delivering functional software or aligning with user requirements. While there are mentions of software quality and functionality, the depth of discussion is limited to a specific problem without broader context on working software principles.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -892,11 +907,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:06:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to configuring the Build vNext Agent, which is part of a CI system, but primarily focuses on a specific error rather than broader CI principles or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific issue related to the Build vNext Agent, which is a tool associated with Continuous Integration. However, it primarily focuses on a technical error rather than exploring broader CI principles, practices, or best practices. While it mentions the Build vNext Agent, it lacks a comprehensive discussion on CI concepts, tools, or strategies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Market Share": {
@@ -964,12 +982,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:06:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to the Build vNext Agent and its configuration, which is relevant to release management practices, but it primarily focuses on a specific error rather than broader release management strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses an error encountered while configuring the Build vNext Agent, which is related to a specific version of Visual Studio and its compatibility with the build system. While it touches on aspects of release management, such as version control and potential issues during the release process, it lacks a comprehensive discussion on broader release management strategies or practices. The focus is more on troubleshooting a specific technical issue rather than on the overall management of software releases.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1228,11 +1249,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T17:02:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to the Build vNext Agent and Visual Studio, which is relevant to software developers, but it does not primarily focus on Agile or DevOps methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific technical issue related to the Build vNext Agent and Visual Studio 2015, which is relevant to software developers. However, it lacks a broader discussion on Agile or DevOps methodologies, focusing instead on a particular error and its resolution. While it mentions tools used by developers, it does not explore best practices or collaborative aspects of software development, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Coaching": {

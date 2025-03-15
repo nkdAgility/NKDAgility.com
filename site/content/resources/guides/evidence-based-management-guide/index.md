@@ -35,13 +35,14 @@ card:
 categories:
 - Product Management
 tags:
+- Ability to Innovate
+- Strategic Goals
 - Evidence Based Management
 - Value Delivery
-- Ability to Innovate
 - Decision Making
 - Evidence Based Leadership
-- Experimentation
 - Metrics and Learning
+- Experimentation
 - Agile Product Management
 - People and Process
 

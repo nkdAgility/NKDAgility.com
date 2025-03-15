@@ -91,7 +91,7 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-07T13:31:59",
+    "calculated_at": "2025-03-14T21:59:35",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -99,7 +99,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses lean product development and decision-making, which aligns with some principles of Evidence-Based Management, particularly in terms of making informed decisions and minimising waste. However, it lacks explicit references to EBM principles, empirical data, or detailed discussions on metrics and KPIs, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -163,7 +163,7 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-03-10T18:07:41",
+    "calculated_at": "2025-03-14T21:59:35",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -171,7 +171,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses lean product development and its growing importance, which hints at a trend in decision-making and value creation. However, it lacks explicit references to Agile, DevOps, or business agility frameworks, and does not provide in-depth analysis or case studies related to trend analysis. The focus is more on the workshop and personal insights rather than a structured examination of trends.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -301,7 +301,7 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-03-11T16:23:05",
+    "calculated_at": "2025-03-14T21:59:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -309,7 +309,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses lean product development, which is related to agile principles but does not explicitly focus on Agile Project Management. While it touches on decision-making and value creation, it lacks direct references to agile methodologies like Scrum or Kanban, and does not delve into core agile themes such as iterative development or team collaboration.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -361,12 +361,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T17:52:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses lean product development and its implications for decision-making and value creation, which are relevant to enterprise agility, but the primary focus is on product ownership rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses lean product development, which is related to agile principles, but it primarily focuses on decision-making and value creation at the product level rather than addressing enterprise-wide agility. While it touches on themes of minimising waste and improving processes, it lacks a direct emphasis on organisational structures, leadership roles, or broader cultural implications of agility, which are central to the category of Enterprise Agility.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -496,11 +499,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T17:52:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean product development and decision-making, which are related to innovation practices, but the primary focus is on product ownership and management rather than directly measuring or enhancing the ability to innovate.",
+    "calculated_at": "2025-03-13T15:35:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses lean product development, which aligns with the principles of innovation and decision-making. It mentions improving decision-making and value creation, which are relevant to the Ability to Innovate category. However, it lacks a direct focus on Evidence-Based Management and does not delve deeply into frameworks or metrics for measuring innovation capabilities, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
@@ -523,11 +529,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T17:52:41",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses lean product development, focusing on minimising waste and maximising value, which aligns closely with Lean Principles.",
+    "calculated_at": "2025-03-13T16:43:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses lean product development, highlighting its importance in decision-making and value creation. It aligns well with core Lean principles, particularly in terms of minimising waste and maximising value. The depth of discussion includes practical applications and future trends, indicating a thorough exploration of the topic. However, while it is focused on Lean principles, it does not delve deeply into specific Lean tools or techniques, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -586,11 +595,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T17:52:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:00:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a workshop on lean product development and product ownership, which aligns with the category of events and presentations.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses an upcoming workshop on lean product development, which aligns with the category of events and presentations. However, while it mentions the workshop and its structure, the primary focus is on the concepts of lean product development rather than the event itself. The discussion provides some detail about the workshop's content but lacks extensive elaboration on the event's significance or broader context within the Agile and DevOps communities.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -703,11 +715,14 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T17:53:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:21:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses lean product development, which is related to MVP principles, but it primarily focuses on decision-making and value creation rather than specifically on MVP concepts.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses lean product development, which is related to MVP principles, but it does not explicitly mention MVP or focus on its specific strategies and metrics. The emphasis is more on decision-making and value creation rather than the iterative process of developing a Minimum Viable Product.",
     "level": "Tertiary"
   },
   "Windows": {
@@ -721,11 +736,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T17:53:12",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:59:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses lean product development and its role in decision-making and value creation, which aligns with the themes of experimentation and learning from feedback. However, the primary focus is on product ownership and management rather than a broader exploration of discovery and learning methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses lean product development, which aligns with the principles of discovery and learning by emphasising informed decision-making, minimising risks, and creating value. It highlights the importance of understanding customer needs and market demands, which are crucial for fostering innovation. The workshop aspect suggests a focus on sharing knowledge and learning from experiences, further supporting the category. However, while the content touches on these themes, it primarily centres on lean methodologies rather than a broader exploration of discovery and learning processes.",
     "level": "Secondary"
   },
   "Self Organisation": {
@@ -739,12 +757,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:53:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean product development and its importance in decision-making and value creation, which aligns with the principles of the Agile Product Operating Model, but it primarily focuses on lean practices rather than a comprehensive discussion of the Agile Product Operating Model itself.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses lean product development, which aligns with the principles of the Agile Product Operating Model, particularly in terms of value creation and decision-making. However, it primarily focuses on lean methodologies rather than explicitly addressing the Agile Product Operating Model itself. The depth of discussion on related concepts is moderate, but it lacks direct references to Agile principles and practices, which affects the overall confidence score.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -766,12 +787,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T17:53:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses lean product development and its importance in decision-making and value creation, which relates to market adaptability, but it is primarily focused on product ownership and management rather than directly addressing strategies for enhancing market responsiveness.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:59:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses lean product development, which aligns with the principles of Lean methodologies that enhance market adaptability. It mentions improving decision-making, minimising risks, and creating value, all of which are crucial for responding to market demands. However, while it touches on relevant themes, it does not explicitly focus on Agile or DevOps practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -802,21 +826,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T17:53:30",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:59:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses lean product development and its impact on decision-making processes, particularly in the context of product ownership and making informed choices about what to build. However, it also includes elements of personal opinion and anecdotal evidence, which slightly detracts from its alignment with structured decision-making principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses decision-making processes in the context of lean product development, highlighting the importance of informed choices and minimising risks. However, while it touches on relevant themes, it lacks a structured, evidence-based approach and does not delve deeply into methodologies or frameworks that are central to the category of Decision Making.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T17:53:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean product development and decision-making, which are related to metrics and learning, but the primary focus is on product ownership and value creation rather than metrics specifically.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses lean product development and its impact on decision-making and value creation, which aligns with the principles of continuous improvement and evidence-based decision-making. However, it lacks direct mentions of metrics or specific techniques for collecting and analysing performance data, which are crucial for a higher confidence score in the 'Metrics and Learning' category. The discussion is more focused on the philosophy and mindset of lean product development rather than on metrics or learning processes.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -829,12 +859,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T17:53:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:59:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses Lean Product Development, focusing on decision-making, minimising waste, and creating value, which aligns closely with the key topics of the category.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content explicitly discusses lean product development, highlighting its importance in decision-making and value creation. It aligns well with core themes such as minimising waste, maximising value, and the role of customer needs. The depth of discussion includes practical applications and future trends, indicating a thorough exploration of the topic.",
+    "level": "Primary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -856,38 +889,50 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T17:53:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes and the importance of understanding what to build in the context of lean product development, which aligns with sensemaking principles. However, it primarily focuses on lean practices rather than a comprehensive exploration of sensemaking itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses lean product development and its impact on decision-making, which aligns with the principles of sensemaking. However, it primarily focuses on the methodology and practical applications rather than deeply exploring the complexities of sensemaking itself. While there are mentions of informed decision-making and understanding context, the discussion lacks a thorough examination of frameworks or models specific to sensemaking, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T17:53:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses lean product development and its implications for decision-making and value creation, which are relevant to strategic approaches in Agile environments. However, it primarily focuses on product ownership rather than a broader strategic framework.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses lean product development, which aligns with strategic approaches in Agile environments. It mentions decision-making, value creation, and minimising risks, all of which are relevant to strategic alignment and optimisation of delivery processes. However, while it touches on strategic concepts, it does not delve deeply into Agile or Scrum frameworks specifically, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T17:53:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:59:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses lean product development and its impact on decision-making and value creation, which aligns with operational efficiency and reducing waste. However, it primarily focuses on product ownership rather than specific operational practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses lean product development extensively, focusing on improving decision-making processes, minimising risks, and creating value, which aligns well with operational efficiency. It provides a detailed exploration of how lean principles can be applied in organisational contexts, indicating a strong alignment with the core themes of operational practices. The depth of discussion is significant, with practical implications and a workshop planned to further explore these concepts, enhancing the overall confidence score.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T17:53:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:59:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses lean product development and its implications for decision-making and value creation, which are relevant to Agile principles, but it primarily focuses on specific practices rather than the broader Agile philosophy.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses lean product development, which aligns with Agile principles such as value creation and customer focus. However, it primarily centres on lean methodologies rather than the broader Agile philosophy, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -919,12 +964,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T17:53:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses lean product development and its importance in decision-making, which relates to continuous improvement and learning within teams, but it primarily focuses on product ownership rather than continuous learning principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses lean product development and its impact on decision-making and value creation, which aligns with the principles of Continuous Learning. However, it primarily focuses on methodologies and practices rather than explicitly addressing growth mindset or knowledge sharing. The mention of a workshop indicates some level of engagement with learning, but the overall depth and direct focus on Continuous Learning principles are limited.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -937,12 +985,15 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T17:53:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 8,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making and value creation in the context of lean product development, which relates to prioritisation and value optimisation, but it primarily focuses on product ownership rather than portfolio management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses lean product development and decision-making processes, which are relevant to portfolio management. However, it primarily focuses on product ownership and development rather than the broader aspects of managing a portfolio of projects. While there are mentions of value creation and minimising risks, these concepts are not deeply tied to the strategic alignment and prioritisation frameworks central to portfolio management. The depth of discussion is moderate, lacking specific methodologies or practices related to portfolio management.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -955,12 +1006,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T17:54:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean product development and its relevance to product ownership, which aligns with Agile principles, but it primarily focuses on lean methodologies rather than Agile product management specifically.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses lean product development, which is related to Agile principles, particularly in the context of product ownership and decision-making. However, it does not explicitly mention Agile methodologies or the role of the Product Owner, which are key aspects of Agile Product Management. The discussion aligns with the core themes of maximising value and customer needs but lacks depth in Agile-specific practices.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -973,12 +1027,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T17:54:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean product development and its importance in minimising waste and enhancing value creation, which aligns with Value Stream Management principles, but it primarily focuses on product ownership and decision-making.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses lean product development, which aligns with some principles of Value Stream Management, such as minimising waste and creating value. However, it primarily focuses on decision-making and product ownership rather than explicitly addressing value stream mapping or performance metrics. The depth of discussion on value creation and minimising waste is relevant but does not fully encompass the broader scope of Value Stream Management.",
+    "level": "Secondary"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -991,21 +1048,27 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T17:54:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses lean product development and its impact on decision-making and value creation within organisations, indicating a connection to sociotechnical systems, but it primarily focuses on product management practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses lean product development, which touches on decision-making and value creation within organisations. However, it primarily focuses on methodologies and practices without explicitly addressing the interplay between social and technical systems. While there are mentions of organisational context and strategic decisions, the depth of discussion on sociotechnical interactions is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T17:54:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean product development and its implications for product ownership, which aligns with the themes of Agile methodologies and tools, but it is primarily focused on a workshop rather than specific products or literature.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:00:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses lean product development, which is relevant to product management and decision-making processes. It mentions the importance of aligning products with customer needs and market demands, which aligns with the core themes of the category. However, it lacks specific references to books or tools, and while it provides a decent overview of the topic, it does not delve deeply into specific methodologies or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1027,11 +1090,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T17:54:16",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:00:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses lean product development and its practical implications for decision-making and value creation, which aligns with pragmatic thinking in Agile contexts. However, it does not focus primarily on Agile or Scrum frameworks, making it a secondary theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses lean product development, which aligns closely with pragmatic thinking by emphasising practical decision-making, minimising risks, and creating value. It provides specific strategies and real-world applications, particularly in the context of product ownership, which are key themes of the category. The depth of discussion is substantial, covering various aspects of lean principles and their application in a practical setting, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -1054,11 +1120,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T17:54:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses lean product development and its impact on decision-making and value creation, which are relevant to the delivery of functional software, but it primarily focuses on broader concepts rather than specifically on working software.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses lean product development, which is related to decision-making and value creation in software development. However, it does not explicitly focus on working software or its characteristics within Agile or Scrum frameworks. While it touches on customer needs and minimising waste, it lacks depth in discussing the delivery of functional software and does not provide specific examples or metrics related to working software.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -1072,12 +1141,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T17:54:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:00:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses lean product development, its importance in decision-making, and value creation, aligning closely with Lean principles.",
-    "level": "Secondary"
+    "final_score": 83.0,
+    "reasoning": "The content explicitly discusses lean product development, highlighting its principles and importance in decision-making and value creation. It aligns well with Lean concepts such as minimising waste and maximising value, and it provides a detailed exploration of the topic, including future trends and real-world applications. The focus on workshops and discussions further emphasises the commitment to Lean methodologies.",
+    "level": "Primary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1090,30 +1162,39 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T17:54:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean product development and its implications for decision-making and value creation, which are relevant to product strategy. However, it primarily focuses on product ownership and workshop discussions, making product strategy a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses lean product development, which is closely related to product strategy, particularly in terms of decision-making and aligning products with customer needs. However, while it touches on strategic aspects, it primarily focuses on methodologies rather than a comprehensive product strategy framework. The depth of discussion on lean principles is significant, but it lacks a broader exploration of competitive analysis or market positioning, which are key elements of product strategy.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T17:54:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean product development and its implications for decision-making and value creation, which are relevant to software development practices, but the primary focus is on product ownership rather than software engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses lean product development, which is closely related to software development methodologies and practices. It highlights decision-making processes, risk minimisation, and value creation, all of which are relevant to software engineering. However, the focus is more on product management rather than specific software development practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T17:54:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses lean product development and decision-making, which are related to evidence-based practices, but the primary focus is on product ownership rather than leadership decisions based on empirical evidence.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses lean product development and its impact on decision-making, which aligns with the principles of evidence-based leadership. However, it primarily focuses on methodologies and practices rather than explicitly addressing evidence-based leadership principles or providing empirical evidence to support claims. The discussion lacks depth in terms of metrics, KPIs, or case studies that would strengthen its alignment with the category.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1126,20 +1207,26 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T17:54:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making in the context of lean product development, focusing on improving choices and minimising risks, which aligns with key themes of decision theory. However, it primarily centres on lean practices rather than decision theory itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses decision-making processes in the context of lean product development, highlighting the importance of informed choices and risk minimisation. It aligns well with key themes of Decision Theory, such as improving decision quality and understanding uncertainty. However, while it touches on these concepts, the primary focus remains on lean methodologies rather than a deep exploration of decision theory itself.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T17:54:32",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:00:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses lean product development, decision-making, and value creation, which are relevant to entrepreneurship. However, it primarily focuses on product management practices rather than the broader entrepreneurial principles and strategies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses lean product development, which is closely related to entrepreneurship as it emphasises innovation, risk management, and value creation. The explicit mentions of decision-making, minimising risks, and aligning products with customer needs directly relate to entrepreneurial principles. The depth of discussion on how lean methodologies can transform decision-making and create value further supports its relevance to entrepreneurship. However, while the content is focused on product development, it does not delve deeply into broader entrepreneurial strategies or the entrepreneurial mindset, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -1189,20 +1276,26 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T17:54:41",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:00:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses lean product development in the context of product ownership, highlighting its importance in decision-making and value creation. While it primarily focuses on lean practices, the connection to product ownership is significant, making it a major theme.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses lean product development in the context of product ownership, highlighting the importance of decision-making, value creation, and aligning products with customer needs. While it does not delve deeply into specific responsibilities of a Product Owner, it aligns well with the core themes of the category, such as stakeholder engagement and understanding customer needs. The workshop mentioned indicates a focus on the Product Owner's role, contributing to a higher confidence score.",
     "level": "Secondary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T17:54:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean product development and its relevance to decision-making and value creation, which aligns with industry trends. However, it primarily focuses on a workshop and personal insights rather than providing a comprehensive review or news update.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses lean product development and its implications for decision-making and value creation, which aligns with industry trends. However, it primarily focuses on a workshop announcement rather than providing a review or news update, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -1261,21 +1354,27 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T17:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses hypothesis-driven practices in lean product development, which relates to experimentation, but the primary focus is on decision-making and value creation rather than systematic testing or validation of assumptions.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses lean product development and its emphasis on informed decision-making and hypothesis-driven practices, which aligns with the core themes of experimentation. However, it lacks explicit discussions on systematic testing or specific experimentation techniques, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T17:54:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:00:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean product development and its importance in making informed decisions about product features, which relates to validating product ideas, but it primarily focuses on broader themes of decision-making and value creation rather than specific methodologies for product validation.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses lean product development, which is closely related to product validation methodologies. It mentions improving decision-making and aligning products with customer needs, which aligns with the core themes of product validation. However, the focus is more on the overall philosophy of lean development rather than specific validation techniques or user testing, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1288,11 +1387,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T17:54:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:00:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses lean product development and its impact on decision-making and value creation, aligning closely with the principles of iterative development and maximising customer value.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses lean product development, which is closely tied to value delivery principles. It highlights the importance of aligning product development with customer needs, minimising risks, and creating value, all of which are core themes of the Value Delivery category. The depth of discussion is substantial, covering decision-making processes and future trends, indicating a strong focus on delivering value effectively.",
     "level": "Secondary"
   },
   "System Configuration": {
@@ -1315,11 +1417,14 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T17:55:03",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T22:00:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses lean product development and its importance in making informed decisions about product features, which aligns with product discovery methodologies. However, it primarily focuses on the workshop format and discussions rather than detailed methodologies or practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses lean product development, which is closely related to product discovery methodologies. It mentions the importance of aligning products with customer needs and market demands, which is a core theme of product discovery. However, the focus is more on decision-making processes and lean principles rather than specific product discovery techniques or user research methods. The depth of discussion on product discovery concepts is moderate, as it touches on relevant ideas but lacks detailed exploration of user research or validation frameworks.",
     "level": "Secondary"
   },
   "Scrum Product Development": {
@@ -1423,7 +1528,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:17:47",
+    "calculated_at": "2025-03-14T21:59:35",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1431,6 +1536,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses lean product development rather than Scrum principles or practices. While it touches on product ownership, which is a role in Scrum, it does not delve into Scrum events, artifacts, or the framework itself. The focus is on lean methodologies, which are not aligned with the core themes of Scrum, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

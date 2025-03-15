@@ -1,7 +1,7 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-03-11T18:07:22",
+    "calculated_at": "2025-03-15T06:11:25",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions planning a release and sprint, which are relevant to Agile practices, but it primarily focuses on the use of TFS in a development context without a strong emphasis on Agile product management principles. The discussion lacks depth in terms of Agile methodologies and does not address key topics such as the role of the Product Owner or stakeholder engagement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:58:25",
+    "calculated_at": "2025-03-15T06:11:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the roles of Developers, Testers, and Program Managers within the context of using TFS (Team Foundation Server) for project management. While it touches on aspects of planning and building units of work, which are relevant to DevOps, it lacks a direct discussion of DevOps principles, practices, or tools. The mention of planning sprints and releases aligns somewhat with DevOps concepts, but the overall focus is more on traditional project management and ALM (Application Lifecycle Management) rather than the integration of development and operations teams or continuous delivery practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -175,11 +175,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses roles such as Developer, Tester, and Program Manager within the context of using TFS, indicating a focus on team dynamics and collaboration, but it primarily revolves around the technical aspects of Visual Studio and TFS.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the roles of Developers, Testers, and Program Managers within the context of using TFS, which touches on team dynamics and collaboration. However, it primarily focuses on the technical aspects of using TFS rather than deeply exploring the human factors or processes involved. While there are mentions of planning and sprints, the depth of discussion on how these roles interact and influence productivity is limited.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {
@@ -220,12 +223,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of project management and development processes using TFS, which relates to technical practices, but it primarily focuses on roles and activities rather than deep technical methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions roles such as Developer and Tester, and discusses planning and verification processes, which are relevant to technical practices. However, it primarily focuses on the use of TFS and does not delve deeply into engineering methodologies or principles that enhance technical excellence. The discussion lacks substantial detail on core themes like TDD, CI/CD, or modular architecture, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -277,30 +283,39 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of TFS (Team Foundation Server) in the context of Agile practices, which is a significant theme, but it primarily focuses on a specific session rather than a broader analysis or review of products or literature.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the use of Visual Studio 2010 and TFS in the context of Agile practices, specifically mentioning roles like Developer and Tester. However, it primarily focuses on a specific session rather than providing a comprehensive review or analysis of a product or book. The depth of discussion is limited to practical applications without extensive insights or recommendations, which affects the overall alignment with the category.",
     "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses planning a release and sprint, which are related to delivering value, but the primary focus is on the roles and processes within Visual Studio ALM rather than on value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly mentions planning a release and sprint, which are related to value delivery, but lacks a detailed discussion on how these activities enhance customer satisfaction or align with customer needs. The focus is more on the roles and tools used in the development process rather than on strategies for delivering value.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which is part of the Azure DevOps suite, and touches on project management and development processes relevant to Azure DevOps, but it primarily focuses on Visual Studio ALM and does not delve deeply into Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses TFS (Team Foundation Server), which is a predecessor to Azure DevOps, and touches on project management and development processes. However, it does not explicitly mention Azure DevOps or its specific functionalities. The focus is more on Visual Studio ALM and general project management practices rather than the Azure DevOps suite itself, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -331,12 +346,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses planning sprints and building units of business value, which are relevant to Agile practices, but the primary focus is on the use of TFS in various roles rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the use of TFS in a project context, detailing roles and tasks rather than discussing the Agile Product Operating Model. While it mentions planning sprints and building units of business value, these elements are presented in a traditional project management context rather than as part of a holistic Agile approach. The discussion lacks depth on Agile principles and does not explore the broader themes of value delivery or cross-functional teams, which are central to the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -388,12 +406,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses software development practices and tools like TFS in the context of roles such as Developer and Tester, which aligns with aspects of technical mastery. However, the focus on project management and planning rather than strict software craftsmanship principles limits the classification.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the roles of developers, testers, and program managers within the context of using TFS, which is more aligned with project management and team dynamics rather than the core principles of software craftsmanship. While there are mentions of planning and building units of work, these are not deeply explored in terms of best practices or methodologies that contribute to technical mastery. The depth of discussion is moderate, but it lacks a strong focus on technical excellence or software engineering practices.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -460,12 +481,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions 'Product Backlog in TFS 2010' and discusses topics related to planning and sprints, but it is primarily focused on the roles of developers and project management rather than on the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions the Product Backlog in the context of TFS 2010, but it primarily focuses on the roles of developers, testers, and program managers without delving into the specifics of backlog management or prioritisation techniques. While there is some alignment with the category through the mention of sprint planning and building business value, the overall discussion lacks depth and does not cover key topics such as backlog refinement or the responsibilities of the Product Owner.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -499,16 +523,19 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses project roles and activities related to TFS which suggest a level of operational practices in a software development context, but it primarily focuses on the overview of TFS usage rather than in-depth techniques for operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content provides a general overview of roles and activities within a project using TFS, which touches on operational practices like planning and verifying work. However, it lacks a focused discussion on specific techniques or strategies for enhancing operational efficiency, making it more of a descriptive account rather than a deep exploration of operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T15:06:04",
+    "calculated_at": "2025-03-15T06:11:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -516,7 +543,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions planning a sprint and building a unit of business value, which are relevant to Scrum practices. However, it primarily focuses on the use of TFS in various roles without delving deeply into Scrum team dynamics, roles, or collaboration techniques. The discussion lacks substantial detail on the core themes of a Scrum Team, such as team collaboration, communication strategies, or continuous improvement practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -529,12 +556,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions planning a release, planning a sprint, and building business value which align with Agile strategy concepts, but it primarily focuses on roles and the workflow within TFS rather than a comprehensive discussion of strategic approaches.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a brief overview of roles and activities within a project using TFS, touching on planning and execution aspects relevant to Agile methodologies. However, it lacks a focused discussion on strategic alignment or the development of strategic approaches, which are central to the Strategy category. The mention of planning a release and sprint indicates some alignment with Agile practices, but the overall depth and explicit discussion of strategy are limited.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -547,12 +577,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning a sprint and includes elements related to Agile practices, but it primarily focuses on Visual Studio 2010 and its role in project management rather than a comprehensive discussion of Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the use of TFS (Team Foundation Server) in a project context, detailing roles such as Developer, Tester, and Program Manager. While it mentions planning a sprint and building units of work, it lacks a comprehensive discussion on Agile principles, methodologies, or transformation strategies. The references to Agile practices are minimal and do not delve into the broader themes of Agile transformation, such as cultural shifts or leadership roles.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -574,21 +607,27 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning a sprint and various roles in the context of Visual Studio ALM, which can relate to team performance but is primarily focused on the use of the tool rather than strategies or methodologies to improve team effectiveness and collaboration.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on aspects of team roles and activities within a project context, such as planning a release and sprint, which are relevant to team performance. However, it lacks a focused discussion on strategies, methodologies, or practices aimed at maximising team effectiveness and collaboration. The depth of discussion is limited, primarily providing an overview rather than an in-depth analysis of team dynamics or performance metrics.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions building a shippable unit of work and discusses planning a sprint and managing a Product Backlog, which are related to the concept of Increment, though the primary focus is on roles and tools rather than the Increment itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions planning a release and building a shippable unit of work, which are related to the concept of Increment in Agile. However, the primary focus is on the roles and processes within TFS rather than a detailed discussion of Increments. The alignment with the core themes is limited, and the depth of discussion does not provide substantial insights into the Increment concept itself.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -613,12 +652,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions planning a sprint and includes aspects of managing a product backlog in the context of Visual Studio, indicating a major but secondary theme related to Agile Project Management.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content mentions planning a release and sprint, which are relevant to Agile Project Management, but it primarily focuses on the use of TFS and Visual Studio rather than discussing agile principles or methodologies in depth. The discussion lacks a thorough exploration of agile frameworks or roles, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -631,21 +673,24 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses sprint planning and includes references to a Product Backlog, which are relevant to Scrum, but the main focus is on TFS and its application in a development context rather than an in-depth examination of Scrum principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions planning a sprint and includes references to the Product Backlog and Sprint Planning within the context of TFS, which are relevant to Scrum. However, the primary focus is on Visual Studio ALM and the roles of Developer, Tester, and Program Manager, rather than an in-depth exploration of Scrum principles or practices. The discussion lacks substantial detail on Scrum roles, events, or values, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:09",
+    "calculated_at": "2025-03-15T06:11:25",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily focuses on project roles and planning in a project management context, specifically using TFS, rather than providing direct discussions on version control practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -667,21 +712,27 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server) and includes references to sprint planning and backlog management, which are relevant to Azure Boards, although it is primarily focused on a broader overview of Visual Studio and TFS usage.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses TFS (Team Foundation Server) and Visual Studio ALM, which are related to Azure Boards but do not focus specifically on Azure Boards itself. While there are mentions of planning sprints and managing backlogs, the discussion lacks depth on Azure Boards' specific functionalities and best practices. The content is more about the overall development process rather than a focused exploration of Azure Boards.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of TFS in a collaborative context among Developers, Testers, and Program Managers, which relates to collaboration tools. However, it mainly focuses on processes and roles rather than tools themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of TFS (Team Foundation Server) in the context of Agile roles, which relates to collaboration tools. However, it primarily focuses on the roles and tasks of developers, testers, and program managers rather than providing a comprehensive overview of collaboration tools themselves. While there are mentions of planning and task management, the discussion lacks depth on specific tools and their features, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -703,12 +754,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning releases and mentions elements of Agile and sprint planning, which may imply a context relevant to frequent releases, but it primarily focuses on roles and activities in project management without deep exploration of continuous delivery principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions planning a release and includes some elements related to Agile practices, such as sprint planning and building shippable units of work. However, it lacks a focused discussion on frequent releases, continuous delivery, or the principles of DevOps. The primary emphasis is on the roles within a project rather than the release process itself, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -757,7 +811,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:24:57",
+    "calculated_at": "2025-03-15T06:11:25",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -765,7 +819,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content provides a general overview of roles in a software development context, specifically focusing on the use of TFS (Team Foundation Server) for planning and executing tasks. While it touches on aspects of software development, such as planning sprints and verifying bug fixes, it lacks a direct focus on engineering excellence principles like coding standards, quality assurance, or continuous improvement. The discussion is more about project management and operational tasks rather than promoting high standards in software craftsmanship.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -805,11 +859,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical aspects of project management within the context of Visual Studio TFS, emphasizing roles and activities like sprint planning and bug verification, which are aligned with pragmatic approaches in Agile but is not solely focused on those principles.",
+    "final_score": 56.0,
+    "reasoning": "The content provides a practical overview of roles within a project using TFS, which aligns with the category's focus on real-world applications in Agile contexts. However, it lacks in-depth discussion on problem-solving strategies or critical thinking techniques, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -832,11 +889,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses sprint planning and product backlog management, which are relevant to Scrum, but the primary focus is on Visual Studio and TFS rather than Scrum principles.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions planning a sprint and includes references to the Product Backlog and sprint planning within the context of TFS, which aligns with Scrum practices. However, the overall focus is more on the use of Visual Studio and TFS rather than a deep exploration of Scrum principles or product development methodologies. The discussion lacks substantial detail on Scrum roles, iterative development, or customer feedback, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scaled Agile": {
@@ -886,20 +946,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses roles and processes in software development using TFS, which are relevant to working software delivery, but is not solely focused on working software as a primary topic.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the roles of Developers, Testers, and Program Managers in the context of using TFS, which relates to the delivery of working software. It mentions planning releases and sprints, which are key aspects of Agile methodologies. However, the discussion lacks depth in terms of best practices for ensuring software quality and functionality, and it does not provide specific metrics or case studies. Overall, while it touches on relevant topics, it does not fully align with the core themes of working software.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses planning sprints and releases using TFS, which relates to Agile planning but is centered around Visual Studio ALM rather than exclusively Agile Planning Tools.",
+    "final_score": 57.0,
+    "reasoning": "The content mentions planning a release and sprint, which are relevant to Agile Planning Tools. However, the primary focus is on the use of TFS in various roles rather than a detailed exploration of Agile planning methodologies or tools. The discussion lacks depth in terms of specific Agile planning strategies or tools beyond TFS, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -976,11 +1042,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses goals like planning a release and building a shippable unit of work, indicating that release management is a major theme, but not the primary focus.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions planning a release and includes some relevant activities like sprint planning and building a shippable unit of work. However, it primarily focuses on the roles of developers, testers, and program managers within the context of TFS, without delving deeply into the strategies and practices of release management. The discussion lacks comprehensive detail on key topics such as version control, risk management, or CI/CD practices, which are essential for a strong alignment with the category.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -1030,12 +1099,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses the roles of Developers, Testers, and Program Managers in the context of TFS and showcases project planning and sprint activities, it predominantly focuses on specific roles and tasks rather than the broader theme of team collaboration.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content provides a general overview of roles within a project using TFS, which touches on aspects of team collaboration. However, it lacks explicit discussions on techniques for improving communication or fostering trust within teams. While it mentions planning and roles, it does not delve deeply into the dynamics of teamwork or shared ownership, which are central to the category of Team Collaboration.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1249,12 +1321,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:12:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of development and testing roles within the context of Agile practices, but the primary focus is on using TFS for project management rather than deeply exploring the specific engineering practices themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the roles and activities of developers, testers, and program managers within the context of using TFS (Team Foundation Server) for project management. While it mentions planning sprints and releases, which are relevant to Agile practices, it does not delve into the core engineering practices such as clean code, TDD, or CI/CD. The discussion is more about the workflow and tools rather than the principles of software engineering, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1294,21 +1369,27 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning sprints and product backlogs, which are concepts related to Agile frameworks, particularly Scrum. However, it mainly focuses on using TFS in a project context rather than exploring Agile frameworks in depth.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions planning a sprint and building a unit of business value, which are concepts related to Agile frameworks. However, it primarily focuses on the use of TFS (Team Foundation Server) in a project context without a deep exploration of Agile principles or frameworks. The discussion lacks a comprehensive analysis of Agile methodologies, making it more of a practical overview rather than a focused discussion on Agile frameworks.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:11:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning a release and sprint, and involves Agile concepts like building a unit of business value and product backlog in a specific context, but lacks a broader strategic discussion on Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the practical use of TFS in a development context, detailing roles and tasks rather than discussing Agile strategy. While it mentions planning sprints and building units of business value, these are more technical practices than strategic discussions. The depth of discussion is moderate, but it lacks a clear alignment with the core themes of Agile strategy, such as organisational vision or leadership roles in fostering an Agile culture.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1366,12 +1447,12 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:09:09",
+    "calculated_at": "2025-03-15T06:11:25",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses roles and processes in TFS and Agile project management without a focus on throughput measurement or optimization.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",

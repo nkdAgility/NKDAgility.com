@@ -29,11 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Values and Principles
+- Agile Project Management
+- Agile Transformation
+- Software Development
+- Agile Philosophy
+- Agile Frameworks
+- Lean Principles
 - People and Process
-- Agile Leadership
-- Coaching
-- Technical Leadership
-- Pragmatic Thinking
+- Discovery and Learning
+- Value Delivery
 resourceTypes:
 - video
 categories:

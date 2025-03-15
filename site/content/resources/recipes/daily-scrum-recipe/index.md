@@ -33,7 +33,7 @@ references:
 - title: Avoid the Bug as Task anti-pattern in Azure DevOps
   url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
 date: 2024-09-17
-weight: 630
+weight: 555
 card:
   button:
     content: Learn More
@@ -44,10 +44,15 @@ categories:
 - Social Technologies
 tags:
 - Daily Scrum
-- Scrum Product Development
-- Professional Scrum
 - Software Development
 - Agile Project Management
+- Scrum Product Development
+- Scrum Team
+- People and Process
+- Software Developers
+- Professional Scrum
+- Team Performance
+- Transparency
 
 ---
 The Daily Scrum is an essential event in the Scrum framework. It offers the

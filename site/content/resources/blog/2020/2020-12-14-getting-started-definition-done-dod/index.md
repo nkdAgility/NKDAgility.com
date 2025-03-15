@@ -29,11 +29,15 @@ aliasesArchive:
 - /resources/blog/getting-started-definition-done-dod
 tags:
 - Increment
-- Working Software
 - Definition of Done
-- Agile Project Management
 - Scrum Product Development
+- Working Software
 - Software Development
+- Agile Project Management
+- Scrum Team
+- Team Performance
+- Software Developers
+- Professional Scrum
 categories:
 - Scrum
 - Social Technologies

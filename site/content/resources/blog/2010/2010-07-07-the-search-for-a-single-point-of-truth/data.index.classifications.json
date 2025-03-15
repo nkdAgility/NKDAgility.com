@@ -76,7 +76,7 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-10T18:50:17",
+    "calculated_at": "2025-03-15T06:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -84,7 +84,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses various applications and services for syncing contacts, which touches on installation and configuration aspects. However, it lacks explicit step-by-step installation procedures or detailed configuration best practices. The focus is more on personal experiences and opinions regarding the effectiveness of these services rather than providing clear, actionable instructions. Therefore, while there is some relevance, it does not meet the primary focus required for a higher confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -298,7 +298,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T15:09:20",
+    "calculated_at": "2025-03-15T06:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 20,
@@ -306,7 +306,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the author's personal experiences and frustrations with contact syncing services, which aligns with the Personal category. However, it lacks a deeper reflection on Agile, Scrum, or DevOps methodologies, making it more of a technical discussion about syncing rather than a personal insight into Agile practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -346,7 +346,7 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-11T12:05:11",
+    "calculated_at": "2025-03-15T06:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -354,7 +354,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses personal experiences and opinions regarding contact syncing services, which does not align closely with industry news or reviews. While it mentions specific tools and provides some evaluations, the focus is more on personal anecdotes rather than broader industry insights or trends relevant to Agile, DevOps, or technology updates.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -592,7 +592,7 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T18:10:50",
+    "calculated_at": "2025-03-15T06:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -600,7 +600,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content discusses various contact syncing services and personal experiences with them, which is tangentially related to software development. However, it lacks a primary focus on software engineering practices, methodologies, or frameworks. While it mentions tools and services that could be used in a software context, the discussion is more about personal use and opinions rather than structured software development processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1066,7 +1066,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:39:55",
+    "calculated_at": "2025-03-15T06:52:14",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1074,7 +1074,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses various applications and services for syncing contacts across multiple platforms, which touches on aspects of system configuration. However, it primarily focuses on personal experiences and opinions rather than providing in-depth technical methodologies or best practices for system configuration. While there are mentions of syncing and configuration, the overall depth and focus on practical configuration strategies are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1180,11 +1180,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:52:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses various apps and services for syncing contacts, including issues faced with each service. It involves diagnosing problems with contact sync and offers some solutions, which aligns it with the troubleshooting category, though it is not the primary focus.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses various issues related to syncing contacts across multiple platforms, which aligns with troubleshooting themes. It mentions specific problems encountered with different applications and services, such as failures to sync or issues with duplicates. However, while it provides some insights into resolving these issues, the overall focus is more on personal experiences and opinions rather than systematic troubleshooting methodologies or detailed case studies.",
     "level": "Tertiary"
   },
   "Experimentation": {

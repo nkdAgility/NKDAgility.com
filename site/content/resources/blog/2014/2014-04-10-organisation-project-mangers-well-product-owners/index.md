@@ -29,14 +29,13 @@ aliasesArchive:
 tags:
 - People and Process
 - Agile Project Management
-- Product Owner
 - Agile Product Management
-- Agile Philosophy
+- Product Owner
 - Agile Strategy
-- Agile Transformation
-- Team Collaboration
-- Organisational Culture
 - Organisational Agility
+- Software Development
+- Agile Transformation
+- Organisational Change
 categories:
 - Product Management
 - Social Technologies

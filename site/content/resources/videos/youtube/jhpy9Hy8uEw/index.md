@@ -32,11 +32,8 @@ sitemap:
 tags:
 - Personal
 - People and Process
-- Agile Frameworks
-- Agile Project Management
-- Software Developers
-- Continuous Learning
-- Agile Product Management
+- Agile Transformation
+- Software Development
 resourceTypes:
 - video
 categories:

@@ -26,14 +26,14 @@ preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 isShort: false
 tags:
-- Scrum Master
+- Professional Scrum
 - People and Process
-- Scrum Team
 - Agile Project Management
+- Scrum Master
 - Software Development
-- Team Performance
-- Agile Leadership
-- Team Collaboration
+- Continuous Learning
+- Scrum Team
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -1,7 +1,7 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-07T13:37:10",
+    "calculated_at": "2025-03-14T22:18:51",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -9,7 +9,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the role of the product owner, which is a key aspect of the Scrum framework, but does not delve into the principles or practices of Scrum or Agile methodologies in detail. The focus is more on the importance of product management rather than on the collaborative and adaptive frameworks that define Social Technologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -70,7 +70,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-07T13:37:12",
+    "calculated_at": "2025-03-14T22:18:51",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -78,7 +78,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions the role of the Product Owner, which is a key aspect of the Scrum framework. However, it lacks a comprehensive discussion of Scrum principles, roles, and practices. The focus on product management is relevant but does not delve deeply into Scrum-specific practices or the theoretical foundations outlined in the Scrum Guide.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -127,7 +127,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T12:01:29",
+    "calculated_at": "2025-03-14T22:18:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -135,7 +135,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions the role of the product owner, which is a key aspect of Agile frameworks like Scrum. However, it lacks a comprehensive discussion on Agile principles, frameworks, or their comparative analysis. The focus is primarily on product management rather than a thorough exploration of Agile frameworks, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -211,7 +211,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T14:13:10",
+    "calculated_at": "2025-03-14T22:18:51",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -219,7 +219,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the role of product management within agile teams, which is relevant to team performance. However, it lacks detailed discussion on team dynamics, collaboration, or specific agile practices, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -610,11 +610,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T18:38:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the Product Owner, which is a significant aspect of Scrum Teams, but the primary focus is on product management rather than the dynamics of the Scrum Team itself.",
+    "calculated_at": "2025-03-13T15:14:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner, which is a key role within a Scrum Team. However, it does not delve deeply into the dynamics of the Scrum Team as a whole or discuss other roles like the Scrum Master or Development Team. While it touches on collaboration and communication, it lacks comprehensive exploration of team dynamics, conflict resolution, or continuous improvement practices, which are essential aspects of a high-performing Scrum Team. Therefore, while there is some relevant content, it does not fully align with the broader themes of the category.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -736,12 +739,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:39:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:36:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses product ownership and management within Agile teams, indicating a significant focus on product-centric development, but it does not fully explore the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the role of product ownership within Agile teams, which is a crucial aspect of the Agile Product Operating Model. It discusses the importance of effective product management, stakeholder engagement, and prioritisation, all of which align closely with the principles of product-centric development. The depth of discussion is significant, providing insights into the transformation that effective product management can bring to teams. However, while it touches on Agile principles, it does not explicitly discuss the broader Agile Product Operating Model framework, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -880,12 +886,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T18:40:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:44:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product ownership within Agile teams, which relates to Agile principles, but primarily focuses on product management rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of product ownership within Agile teams, highlighting its importance for effective product management. While it touches on Agile principles such as collaboration and continuous improvement, the primary focus is on the practical aspects of product ownership rather than the broader Agile philosophy. The discussion includes elements of stakeholder engagement and prioritisation, which align with Agile values, but it lacks a comprehensive exploration of the Agile Manifesto or its foundational principles.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -952,12 +961,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T18:40:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:01:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily focuses on the role of the Product Owner in Agile frameworks, indicating a strong alignment with Agile Product Management principles.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the role of the Product Owner, emphasising the importance of effective product management within Agile frameworks. It covers key topics such as stakeholder engagement, prioritisation of backlogs, and the necessity of a clear product vision, all of which align closely with Agile Product Management principles. The depth of discussion is significant, providing insights and takeaways for aspiring Product Owners, which further supports a high confidence score.",
+    "level": "Primary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -997,11 +1009,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T18:40:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of product ownership in Agile teams, which aligns with the category's focus on literature and discussions relevant to Agile methodologies.",
+    "calculated_at": "2025-03-14T15:23:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the role of product ownership within Agile teams, discussing its importance and providing insights into effective product management. While it does not explicitly mention specific books or products, it aligns well with the core themes of the category by emphasising the significance of product management in Agile practices. The depth of discussion is substantial, offering practical takeaways for aspiring product owners, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -1024,12 +1039,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T18:40:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:18:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product management within Agile teams, which is a significant aspect of pragmatic thinking, but it does not delve deeply into practical problem-solving strategies or real-world applications.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of effective product management within Agile frameworks, highlighting practical strategies such as prioritisation, stakeholder engagement, and continuous learning. It aligns well with the core themes of pragmatic thinking by providing real-world applications and insights from personal experience. The depth of discussion is substantial, offering actionable takeaways for aspiring product owners, which reinforces its relevance to the category.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1051,12 +1069,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T18:40:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product ownership, which is a significant aspect of Agile and Scrum frameworks, but it primarily focuses on product management rather than directly addressing the delivery of functional software.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:18:57",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of product management and the importance of a product owner in Agile teams, which indirectly relates to working software. However, it primarily focuses on product management principles rather than directly addressing the characteristics or delivery of working software. While it touches on stakeholder engagement and prioritisation, it lacks detailed exploration of software quality, functionality, or iterative development, which are core themes of the 'Working Software' category.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1096,12 +1117,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T18:40:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:18:59",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product ownership within Agile teams, which is a significant aspect of software development methodologies, but it primarily focuses on product management rather than software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of product ownership within agile teams, which is a relevant aspect of software development. However, it primarily focuses on product management rather than software engineering practices or methodologies. While it touches on agile practices, the depth of discussion on software development techniques is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1186,11 +1210,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T18:40:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T22:19:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner and highlights the importance of effective product management, indicating a strong focus on the responsibilities and skills associated with the Product Owner role.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner, highlighting responsibilities such as providing vision, stakeholder engagement, and backlog prioritisation. It aligns well with the core themes of the category, offering insights into effective product management and the importance of the Product Owner in Agile practices. The depth of discussion is substantial, providing practical takeaways and personal reflections that enhance understanding of the role.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -1285,12 +1312,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T18:41:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:19:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product ownership, which is a significant aspect of value delivery in Agile teams, but it primarily focuses on the role of product management rather than broader value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of product management and the role of the product owner in Agile teams, which aligns with the principles of value delivery. It highlights stakeholder engagement, prioritisation, and the impact of effective product management on team performance. However, while it touches on relevant themes, it lacks detailed methodologies or strategies specifically aimed at maximising customer value or continuous delivery practices, which limits its depth in the context of value delivery.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1312,21 +1342,27 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T18:41:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:19:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product ownership and management, which are related to product discovery, but the primary focus appears to be on the role of the product owner rather than directly on methodologies for identifying customer needs or defining product features.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of a product owner and the importance of effective product management, which aligns with the themes of understanding customer needs and prioritising product features. However, it primarily focuses on the responsibilities of product ownership rather than specific methodologies or practices for product discovery. While there are mentions of stakeholder engagement and prioritisation, the depth of discussion on user research techniques or validation frameworks is limited.",
+    "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T18:41:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:19:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner, which is a significant aspect of Scrum, but it does not delve deeply into Scrum practices or product development methodologies.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of the Product Owner extensively, highlighting its importance in Scrum practices. It covers key aspects such as vision, stakeholder engagement, and backlog prioritisation, which are central to Scrum product development. However, while it aligns well with Scrum principles, it lacks detailed discussions on specific Scrum events or metrics, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1348,12 +1384,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T18:41:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:19:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product ownership within Agile teams, which is a significant aspect of Agile strategy, but it primarily focuses on product management rather than broader strategic alignment or implementation.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of product ownership within Agile teams, highlighting its importance in providing vision, stakeholder engagement, and prioritisation. While it touches on Agile principles, the primary focus is on product management rather than a broader Agile strategy. The discussion lacks depth in strategic planning and adaptability, which are key aspects of the Agile Strategy category.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -1375,12 +1414,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T18:41:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:19:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product ownership within Agile teams, which is a significant aspect of organisational agility, but it primarily focuses on product management rather than broader agility strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of product management and the importance of a product owner in agile teams, which aligns with the principles of organisational agility. It highlights the need for effective stakeholder engagement, prioritisation, and continuous learning, all of which are key themes in fostering agility. However, while it touches on these aspects, the primary focus is on product ownership rather than broader organisational agility strategies, which slightly limits its depth in that specific category.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",

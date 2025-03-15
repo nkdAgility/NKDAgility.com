@@ -29,16 +29,8 @@ aliasesArchive:
 - /blog/a-change-for-the-better--4---homecoming
 - /resources/blog/a-change-for-the-better-4
 tags:
-- Coaching
 - Mentoring
 - Application Lifecycle Management
-- Agile Frameworks
-- Agile Leadership
-- Agile Strategy
-- Operational Practices
-- Agile Planning
-- Agile Project Management
-- Agile Transformation
 categories:
 - Social Technologies
 - Scrum

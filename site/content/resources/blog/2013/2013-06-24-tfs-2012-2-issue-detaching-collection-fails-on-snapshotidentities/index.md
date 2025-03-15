@@ -28,6 +28,9 @@ aliasesArchive:
 - /resources/blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
 tags:
 - Troubleshooting
+- System Configuration
+- Software Development
+- Install and Configuration
 categories: []
 preview: puzzle-issue-problem-128-link-2-2.png
 

@@ -32,9 +32,10 @@ tags:
 - Continuous Learning
 - Discovery and Learning
 - Product Owner
+- Metrics and Learning
 - Products and Books
+- Practical Techniques and Tooling
 - Agile Product Management
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

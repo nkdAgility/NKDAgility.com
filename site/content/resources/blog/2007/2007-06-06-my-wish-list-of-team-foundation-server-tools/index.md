@@ -24,8 +24,6 @@ aliasesArchive:
 - /resources/blog/my-wish-list-of-team-foundation-server-tools
 tags:
 - Practical Techniques and Tooling
-- Products and Books
-- Software Development
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

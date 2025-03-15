@@ -32,10 +32,7 @@ tags:
 - Windows
 - Azure DevOps
 - Practical Techniques and Tooling
-- Software Development
-- System Configuration
-categories:
-- DevOps
+categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
 ---

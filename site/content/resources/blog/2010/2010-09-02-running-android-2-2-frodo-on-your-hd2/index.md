@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/running-android-2-2-frodo-on-your-hd2
 tags:
 - Install and Configuration
-- Troubleshooting
 categories: []
 preview: metro-android-1-1.png
 

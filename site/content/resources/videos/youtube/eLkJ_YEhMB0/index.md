@@ -2,7 +2,7 @@
 title: Overcoming the Ghost of Agile Certifications
 description: "Transform your Agile Scrum meetings from routine to value-driven! Discover strategies to boost productivity and avoid the ghosts of Agile past. \U0001F31F"
 date: 2024-01-02T07:00:20Z
-weight: 775
+weight: 810
 ResourceId: eLkJ_YEhMB0
 ResourceType: videos
 ResourceImport: true
@@ -31,14 +31,12 @@ sitemap:
 tags:
 - Software Development
 - People and Process
-- Scrum Team
-- Agile Philosophy
-- Agile Transformation
-- Scrum Master
-- Scrum Product Development
-- Team Performance
+- Personal
+- Continuous Learning
 - Agile Product Management
 - Value Delivery
+- Agile Frameworks
+- Professional Scrum
 resourceTypes:
 - video
 categories:

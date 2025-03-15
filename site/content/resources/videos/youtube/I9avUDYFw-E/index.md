@@ -34,8 +34,7 @@ tags:
 - Continuous Learning
 - Employee Engagement
 - Organisational Culture
-- Organisational Psychology
-- Organisational Agility
+- Team Motivation
 resourceTypes:
 - video
 categories:

@@ -8,7 +8,7 @@ ResourceImportId: 46
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-28
-weight: 775
+weight: 810
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -23,16 +23,8 @@ aliasesArchive:
 - /even-scrum-should-have-detailed-task-descriptions
 - /resources/blog/even-scrum-should-have-detailed-task-descriptions
 tags:
-- Professional Scrum
 - Software Development
 - People and Process
-- Agile Frameworks
-- Agile Project Management
-- Scrum Product Development
-- Software Developers
-- Pragmatic Thinking
-- Transparency
-- Definition of Ready
 categories:
 - Social Technologies
 - Scrum

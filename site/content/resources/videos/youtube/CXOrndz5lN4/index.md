@@ -27,12 +27,8 @@ duration: 40
 isShort: true
 tags:
 - Technical Leadership
-- Organisational Agility
-- People and Process
-- Ability to Innovate
-- Agile Leadership
-- Organisational Culture
-- Technical Mastery
+- Discovery and Learning
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6

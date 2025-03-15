@@ -27,12 +27,6 @@ tags:
 - People and Process
 - Scrum Master
 - Agile Leadership
-- Scrum Team
-- Agile Project Management
-- Products and Books
-- Professional Scrum
-- Team Motivation
-- Technical Leadership
 categories:
 - Leadership
 preview: image-2-2.png

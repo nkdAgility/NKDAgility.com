@@ -26,8 +26,7 @@ aliasesArchive:
 - /outlook-2007-users-angry--well-maybe-not-users-
 - /blog/outlook-2007-users-angry--well-maybe-not-users-
 - /resources/blog/outlook-2007-users-angry-well-maybe-not-users
-tags:
-- Miscellaneous
+tags: []
 preview: metro-office-128-link-1-1.png
 categories: []
 

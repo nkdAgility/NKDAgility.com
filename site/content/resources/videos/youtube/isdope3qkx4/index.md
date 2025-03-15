@@ -27,10 +27,6 @@ isShort: false
 tags:
 - Software Development
 - Agile Project Management
-- People and Process
-- Events and Presentations
-- News and Reviews
-- Software Developers
 sitemap:
   filename: sitemap.xml
   priority: 0.6

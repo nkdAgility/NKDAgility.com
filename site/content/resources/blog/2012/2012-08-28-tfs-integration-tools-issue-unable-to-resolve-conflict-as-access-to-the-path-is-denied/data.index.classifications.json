@@ -289,12 +289,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:45:33",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS Integration Tools, which are part of the Azure DevOps suite, but primarily focuses on a specific issue related to permissions rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses TFS Integration Tools, which is part of the Azure DevOps suite, but it primarily focuses on a specific issue related to permissions and conflict resolution rather than providing a broader overview or best practices associated with Azure DevOps. While it does mention TFS, the discussion lacks depth in terms of Azure DevOps functionalities and does not cover key topics such as CI/CD pipelines or agile project management practices.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -379,7 +382,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-10T14:53:37",
+    "calculated_at": "2025-03-15T05:45:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -387,7 +390,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily addresses a specific technical issue related to TFS Integration Tools and permissions management, which is somewhat relevant to software craftsmanship. However, it lacks a broader discussion on best practices, principles, or methodologies that contribute to high-quality software development. The focus is more on troubleshooting a specific problem rather than exploring the underlying technical mastery concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -490,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:45:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses resolving permissions issues related to TFS Integration Tools, which ties into operational practices, but the main focus is on troubleshooting specific technical issues rather than a broad operational efficiency strategy.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS Integration Tools and permissions management, which can be tangentially related to operational practices in terms of resolving conflicts and ensuring proper access rights. However, it lacks a broader discussion on operational efficiency, process optimisation, or methodologies like Agile or DevOps. The focus is primarily on a technical solution rather than on enhancing operational practices in a strategic manner.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1123,12 +1129,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:45:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to permissions in a specific configuration file, which suggests a secondary theme concerning Windows folder permissions. However, the primary focus is on TFS Integration Tools, which makes Windows a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses a specific issue related to permissions in the context of TFS Integration Tools, which operates within the Windows environment. While it does not explicitly mention Windows frequently, the problem and solution revolve around file permissions and configurations that are relevant to Windows users. The depth of discussion is moderate, focusing on a specific troubleshooting scenario, but it lacks broader coverage of Windows-related topics.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1306,12 +1315,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:45:35",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server) integration tools, which are related to Azure Repos but primarily focuses on issues with conflict resolution and permissions, making Azure Repos a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) Integration Tools, which is related to Azure Repos but does not explicitly mention Azure Repos itself. The focus is on resolving conflicts and permissions within TFS, which is a broader topic that includes Azure Repos but does not align directly with the specific functionalities and best practices of Azure Repos. The depth of discussion is moderate, providing a solution to a specific problem, but lacks comprehensive coverage of Azure Repos features.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",

@@ -46,12 +46,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of a strategy (Caman) to optimise systems within organisations, touching on systems thinking principles and the importance of defining workflows. However, it primarily focuses on the specifics of the Caman strategy rather than a broader discussion of organisational dynamics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Kanban as a strategy for improving workflows, which aligns with systems thinking principles. However, it primarily focuses on the mechanics of Kanban rather than the broader organisational dynamics or systems thinking concepts. The mention of continuous improvement and workflow optimisation hints at organisational behaviour but lacks depth in exploring the interplay of organisational structure, culture, and processes.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -64,12 +67,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of metrics and analysis in optimising workflows, which aligns with evidence-based practices. However, it primarily focuses on the Kanban strategy rather than leadership decision-making.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:41:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow management strategy rather than discussing evidence-based leadership principles. While it mentions data-driven decisions and metrics, it does not explicitly connect these concepts to leadership practices or decision-making processes. The discussion lacks depth in terms of evidence-based leadership frameworks and does not provide case studies or strategies for fostering a culture of evidence-based decision-making.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -136,12 +142,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of a Caman strategy to optimise workflows, which involves making decisions based on metrics and data analysis. However, the primary focus is on explaining the Caman strategy rather than structured decision-making principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Kanban as a strategy for improving workflows and making data-driven decisions, which aligns with the principles of structured decision-making. However, it primarily focuses on the mechanics and application of Kanban rather than explicitly discussing decision-making methodologies or frameworks. The mention of data collection and monitoring suggests some alignment with decision-making, but the overall depth and focus on the topic are limited.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -163,11 +172,14 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the optimisation of workflows and continuous improvement, which are key principles of Lean Product Development. However, it primarily focuses on the Kanban strategy rather than Lean principles directly.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Kanban as a strategy for continuous improvement, which aligns with Lean principles. However, it primarily focuses on Kanban itself rather than explicitly addressing Lean Product Development concepts. While it touches on waste reduction and process optimisation, it lacks depth in Lean-specific discussions and does not mention customer feedback or integration with Agile methodologies.",
     "level": "Tertiary"
   },
   "Organisational Culture": {
@@ -256,12 +268,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Caman strategy and its application to optimise systems, which relates to continuous improvement and innovation. However, it primarily focuses on the mechanics of Caman rather than a broader discussion on the Ability to Innovate as a central theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Kanban as a strategy for continuous improvement and mentions data-driven decision-making, which aligns with the core themes of the Ability to Innovate category. However, it does not explicitly focus on innovation capabilities or Evidence-Based Management principles, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -364,11 +379,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:14:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the optimisation of workflows and the importance of monitoring processes, which are related to throughput. However, it primarily focuses on the Kanban strategy rather than throughput as a central theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Kanban as a strategy for improving workflows, which aligns with the concept of throughput. It mentions monitoring and optimising processes, collecting data, and making informed changes, all of which are relevant to measuring and enhancing throughput. However, while it touches on these themes, the primary focus is on Kanban as a methodology rather than a deep exploration of throughput itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
@@ -436,12 +454,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Caman strategy, which involves monitoring and adapting workflows based on observed data, aligning with the principles of empirical process control. However, the primary focus is on Kanban rather than a direct discussion of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Kanban, which is related to empirical process control, but it primarily focuses on the mechanics and benefits of Kanban rather than explicitly addressing empirical process control principles. While it mentions monitoring and adapting workflows based on data, it lacks a deep exploration of transparency, inspection, and adaptation as core themes of empirical process control.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -583,12 +604,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban as a strategy for optimising workflows, which aligns with agile principles. However, it primarily focuses on the concept of Kanban rather than broader agile project management practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:41:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on Kanban, a key framework within Agile Project Management. It discusses its principles, mechanics, and applications, aligning well with agile methodologies. However, while it touches on agile concepts, it lacks detailed exploration of broader agile principles and roles, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -601,12 +625,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Caman strategy, which relates to optimising workflows and systems, a concept that aligns with Agile principles. However, it primarily focuses on the mechanics of Caman rather than a broader Agile strategy context.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:41:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Kanban as a strategy for continuous improvement, which aligns with Agile principles. However, it primarily focuses on the mechanics and application of Kanban rather than its strategic integration within an organisational vision or broader Agile strategy. While it touches on concepts like adaptability and continuous improvement, it lacks a comprehensive exploration of Agile strategy as a whole.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -712,11 +739,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban as a strategy for optimising workflows, which is relevant to Agile practices. However, it primarily focuses on the mechanics of Kanban rather than a broader Agile transformation context.",
+    "calculated_at": "2025-03-14T19:41:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on Kanban as a methodology for workflow improvement, which is a component of Agile practices. However, it does not explicitly discuss Agile transformation strategies or the broader implications of adopting Agile principles within an organisation. While it touches on continuous improvement and visual management, which are relevant to Agile, the lack of direct references to Agile transformation limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -778,12 +808,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of metrics and analysis in optimising workflows, which aligns with some principles of Evidence-Based Management. However, the primary focus is on Kanban rather than EBM itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:41:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses Kanban as a strategy for continuous improvement and mentions the use of metrics and data-driven decisions, which aligns with some principles of Evidence-Based Management. However, it does not explicitly focus on EBM or its core themes, and the discussion lacks depth in relation to EBM practices and principles.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1063,12 +1096,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Caman strategy, which involves monitoring and optimising workflows, suggesting a focus on continuous improvement and adaptability. However, it primarily centres on the technical aspects of workflow management rather than explicitly addressing organisational resilience or change management principles.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses Kanban as a strategy for continuous improvement, which aligns with the themes of adaptability and process optimisation. However, it lacks a direct focus on organisational resilience or change management practices. The discussion is primarily centred on the mechanics of Kanban rather than its application in fostering resilience or guiding organisations through change.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1111,12 +1147,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Caman strategy, which relates to optimising workflows and processes, a key aspect of product delivery. However, it primarily focuses on the concept of Caman rather than the broader methodologies and practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Kanban as a strategy for workflow improvement, which indirectly relates to product delivery. However, it lacks direct mentions of product delivery methodologies, such as Agile or deployment strategies. While it touches on concepts like continuous improvement and visual management, it does not delve deeply into the end-to-end process of delivering software products, which is the primary focus of the Product Delivery category.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1129,30 +1168,39 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Caman strategy and its application to optimise workflows, which involves elements of continuous improvement and learning from data. However, the primary focus is on the mechanics of Caman rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Kanban as a strategy for continuous improvement, which aligns with the core themes of discovery and learning. It emphasises the importance of understanding and optimising workflows, monitoring processes, and making data-driven decisions, all of which are crucial for fostering innovation and learning within teams. However, while it touches on these themes, the primary focus remains on the mechanics of Kanban rather than a broader exploration of discovery and learning methodologies.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Caman strategy, which involves understanding and optimising existing systems, and touches on concepts like workflow, monitoring, and continuous improvement. However, it primarily focuses on Kanban rather than a broader exploration of Systems Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow management strategy, with limited direct mention of Systems Thinking principles. While it discusses continuous improvement and optimization of processes, it does not delve into the interconnectedness of components within a system or the holistic analysis that Systems Thinking emphasises. The discussion lacks depth in exploring feedback loops, interdependencies, or cultural strategies related to Systems Thinking.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Caman strategy, which involves understanding and optimising systems, and touches on concepts of workflow and continuous improvement. However, it primarily focuses on practical applications rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Kanban as a workflow management strategy, discussing its mechanics and applications without explicitly addressing complexity science or its principles. While it touches on concepts like continuous improvement and adaptation, it does not delve into the non-linear dynamics or emergent behaviours characteristic of complexity thinking. Therefore, the alignment with the category is minimal.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1186,12 +1234,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Caman strategy, which involves monitoring and optimising workflows, suggesting a focus on continuous improvement and adaptability. However, it primarily centres on the Caman methodology rather than explicitly addressing broader market adaptability strategies or principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Kanban as a strategy for continuous improvement and workflow optimisation, which aligns with the principles of adaptability. However, it lacks a direct focus on market responsiveness or competitive pressures, and while it mentions data-driven decisions, it does not delve deeply into how these practices enhance market adaptability specifically.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1213,12 +1264,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses workflow management and visualisation techniques that can be applied in systems like Azure DevOps, but it primarily focuses on the Kanban strategy rather than Azure DevOps itself.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Kanban as a workflow strategy and does not specifically mention Azure DevOps or its functionalities. While it briefly references 'DevOps' in a general context, it lacks a focus on Azure DevOps services, CI/CD pipelines, or any related best practices, resulting in a very low confidence score.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1252,11 +1306,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Caman strategy, which relates to optimising workflows and systems, a key aspect of value delivery. However, it primarily focuses on the mechanics of Caman rather than directly addressing value delivery principles or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Kanban as a strategy for continuous improvement and workflow optimisation, which aligns with the principles of iterative development and incremental delivery. However, it lacks direct mentions of value delivery practices and does not delve deeply into customer value measurement or alignment with customer needs, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
@@ -1270,11 +1327,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:41:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Caman strategy, which focuses on optimising workflows and continuous improvement, aligning with themes of organisational agility. However, it primarily centres on the mechanics of Caman rather than broader organisational agility principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Kanban as a strategy for continuous improvement, which aligns with the principles of organisational agility. It highlights the importance of monitoring, adapting workflows, and making data-driven decisions, which are key aspects of agility. However, it does not explicitly mention organisational agility or its broader implications, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1288,12 +1348,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the Caman strategy and its application to systems, which includes elements of team dynamics and workflow management. However, the primary focus is on the strategy itself rather than the human factors or processes involved in team collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:41:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Kanban as a strategy for continuous improvement, emphasising the importance of understanding and optimising workflows, which aligns with the core themes of the 'People and Process' category. It highlights the role of team dynamics in defining workflows and visualising work, which are crucial for effective collaboration. However, while it touches on human factors, the primary focus remains on the mechanics of Kanban rather than deeply exploring the interplay between people and processes, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1336,12 +1399,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T13:16:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of Caman (Kanban) and its application in optimising workflows, which aligns with the principles of Value Stream Management. However, it primarily focuses on Kanban as a strategy rather than explicitly addressing Value Stream Management as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:41:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Kanban as a strategy for workflow improvement rather than focusing on Value Stream Management. While it touches on concepts like continuous improvement and efficiency, it does not explicitly mention value streams or their management. The discussion lacks depth in relation to the specific principles and techniques of Value Stream Management, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",

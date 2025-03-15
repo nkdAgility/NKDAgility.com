@@ -40,12 +40,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:28:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a TFS process template migration script, which involves coding practices and considerations related to software development processes. However, the primary focus is on the migration steps rather than a deep exploration of code quality or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses a TFS process template migration script, which is more focused on practical implementation rather than the theoretical aspects of code quality and complexity. While it does touch on some elements of complexity in terms of customisation and migration steps, it lacks a deeper exploration of the principles of software code quality, best practices, or complexity theory. The discussion is largely procedural and does not engage with the broader themes of maintainability or scalability in software development.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -124,7 +127,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T12:40:46",
+    "calculated_at": "2025-03-15T04:28:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -132,7 +135,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses a TFS process template migration, which is related to software development practices but primarily focuses on project management and template customisation rather than core DevOps principles. While it touches on automation and tools, it lacks a comprehensive exploration of DevOps practices such as CI/CD, collaboration between teams, or cultural shifts necessary for DevOps implementation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -247,11 +250,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the migration of TFS process templates, which relates to the planning and implementation aspects of product delivery, but it primarily focuses on technical details rather than broader product delivery methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the migration of TFS process templates, which relates to product delivery in terms of adapting and improving software processes. It mentions steps that align with planning and customisation, but lacks a broader discussion on methodologies like Agile or CI/CD practices. While it provides practical steps, the focus is more on technical implementation rather than overarching product delivery strategies.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -388,11 +394,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T10:42:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:28:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical process of migrating TFS process templates, including detailed methodologies, technical practices, and scripting techniques relevant to software engineering excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating TFS process templates, detailing specific steps and scripts involved in the process. While it does touch on best practices and considerations for customisation, the discussion lacks a broader exploration of software craftsmanship principles or methodologies that would typically fall under the 'Technical Mastery' category. The technical details are present, but the depth of discussion on overarching principles of software engineering excellence is limited.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -469,12 +478,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses process template migration between different Agile frameworks (specifically mentioning Scrum) and touches on aspects of adapting templates and workflows that relate to Agile Planning principles. However, the primary focus is on technical migration rather than deeper agile planning concepts or methodologies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the migration of TFS process templates, which includes references to Agile methodologies like Scrum. However, the primary focus is on technical implementation details rather than Agile Planning principles. While it touches on aspects like work item types and configurations relevant to Agile, it lacks a comprehensive exploration of Agile Planning strategies, techniques, or best practices. Therefore, it only partially aligns with the category.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -508,12 +520,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses migrating to a Visual Studio Scrum template and provides detailed steps for updating work item definitions related to Scrum roles, indicating a significant secondary theme related to Scrum.",
-    "level": "Tertiary"
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses a technical process related to TFS process template migration, with only brief mentions of Scrum templates. It lacks a focus on Scrum Team dynamics, roles, or collaboration, which are essential for the category.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -526,12 +541,12 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:08:49",
+    "calculated_at": "2025-03-15T04:28:41",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses a technical process related to TFS process template migration rather than focusing on strategic alignment or development of Agile strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -544,12 +559,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the migration to a Scrum template, which falls under Agile methodologies, but is primarily focused on technical aspects of TFS process template migration rather than a comprehensive Agile transformation strategy.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the migration of TFS process templates, specifically from a mixed Agile/CMMI template to a Scrum template. While it touches on Agile concepts, such as the Scrum framework, the primary focus is on technical implementation details rather than a broader discussion of Agile transformation principles, methodologies, or cultural shifts. The mention of Agile is limited and does not explore the deeper aspects of Agile transformation, such as leadership roles or change management strategies.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -610,11 +628,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "Content discusses migration to a Scrum template in TFS and includes references to Agile methodologies in relation to process templates, indicating a secondary focus on Agile principles.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses the migration of TFS process templates, specifically mentioning the Scrum template and its components. However, while it touches on Agile concepts, the primary focus is on technical implementation rather than a comprehensive exploration of Agile Project Management principles or methodologies. The depth of discussion on Agile practices is limited, and the content does not delve into broader Agile themes such as team collaboration or iterative development.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
@@ -628,21 +649,27 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the migration from a non-Scrum process template to a Scrum template within TFS, indicating some focus on Scrum practices, but it primarily revolves around technical aspects of process template migration and lacks a deep exploration of Scrum principles.",
-    "level": "Tertiary"
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on TFS process template migration, which is a specific technical task related to Agile methodologies but does not delve into the core principles, roles, or practices of Professional Scrum. While it briefly mentions the Scrum template, the discussion lacks depth and does not explore Scrum roles, events, or values in a meaningful way.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses migrating TFS process templates, which includes aspects related to version control systems and project management, but primarily revolves around process templates and management rather than core source control practices.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a TFS process template migration, which is related to version control practices, but it primarily focuses on process templates and project management rather than core version control methodologies. While it touches on aspects of source control, such as work item types and configurations, it lacks a comprehensive exploration of modern source control principles, branching strategies, or collaboration workflows. Therefore, it aligns with the category but does not delve deeply into its core themes.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -664,11 +691,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:28:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses TFS process template migration, which relates to Azure Boards, but it focuses more on the migration process rather than on Azure Boards functionality and best practices in Agile project management.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses TFS process template migration, which is related to Azure Boards but does not focus on its core functionalities or best practices. While it mentions work item types and customisation, it lacks a comprehensive exploration of Azure Boards' role in Agile project management, making it a secondary rather than primary focus.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
@@ -754,7 +784,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T14:47:24",
+    "calculated_at": "2025-03-15T04:28:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -762,7 +792,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a technical process related to TFS process template migration, which touches on aspects of software development practices. However, it primarily focuses on specific implementation steps rather than broader principles of engineering excellence, such as coding standards or quality assurance. While there are mentions of best practices in customisation and data migration, the overall depth and direct engagement with the core themes of engineering excellence are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -832,12 +862,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:28:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses migrating to a Visual Studio Scrum template and mentions various Scrum-related terminology such as 'Product Backlog Item' and 'Impediment'. However, the primary focus is on the technical aspects of TFS process template migration rather than Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the migration of TFS process templates, specifically mentioning the Scrum template. However, it primarily focuses on technical aspects of the migration process rather than Scrum principles or product development practices. While there are mentions of Scrum, the overall discussion lacks depth in Scrum methodologies and does not engage with key topics such as sprint planning, customer feedback, or iterative development.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -886,21 +919,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the migration of TFS process templates, which is related to software delivery processes, but it primarily focuses on the scripting and technical aspects of migration rather than the broader themes of working software delivery, quality, and customer feedback.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the migration of TFS process templates, which is related to the delivery of functional software. It provides practical steps and considerations for ensuring that the software aligns with user requirements and business objectives. However, while it touches on aspects of working software, such as customisation and data migration, it lacks a comprehensive exploration of best practices for ensuring software quality and functionality, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "While the content primarily focuses on TFS process template migration, it discusses Agile templates and work item types which relate to Agile Planning Tools, but it is not the central theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses TFS process template migration, which is tangentially related to Agile Planning Tools, particularly in the context of Scrum templates. However, it lacks a direct focus on Agile planning methodologies, tools, or techniques. The discussion is more about technical implementation rather than the strategic planning aspects of Agile frameworks.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -976,12 +1015,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:28:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the process of migrating TFS process templates and involves steps that relate to managing software releases, although it predominantly focuses on TFS customization and operations rather than core release management principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the migration of TFS process templates, which relates to release management in terms of version control and process configuration. However, it lacks a comprehensive focus on broader release management strategies, such as risk management or CI/CD practices. The discussion is primarily technical and procedural, with limited exploration of the overarching themes of release management.",
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1132,21 +1174,27 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily focuses on TFS (Team Foundation Server) and scripting aspects related to process template migration, which is a specific tool in the Windows ecosystem, it discusses various commands and configurations that are directly tied to a Windows operating environment. However, the primary focus isn't solely on Windows OS concepts like installation or troubleshooting, making Windows a significant but secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses a TFS (Team Foundation Server) process template migration script, which is closely related to the Windows environment as TFS is a Microsoft product that operates within Windows. There are multiple direct mentions of Windows-specific tools and configurations, such as 'witadmin.exe' and 'Visual Studio 2013', indicating a focus on Windows-related software. However, the content does not delve deeply into broader Windows operating system topics like installation, configuration, or troubleshooting, which slightly lowers the confidence score. Overall, while the content is relevant to Windows, it is more focused on a specific application rather than the operating system itself.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:19",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration of TFS process templates which indirectly relates to deployment strategies. However, it primarily focuses on customization and migration steps rather than concrete deployment methodologies such as blue-green deployments or canary releases.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the migration of TFS process templates, which is more aligned with project management and configuration management rather than deployment strategies. While it briefly touches on aspects of deployment through the mention of scripts and configurations, it lacks a focused discussion on methodologies like Blue-Green Deployments or Canary Releases, which are central to the category of Deployment Strategies.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1186,11 +1234,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T10:42:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:28:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the steps and considerations for migrating a TFS process template, which includes identifying potential issues and solutions related to the migration process. It provides technical details that are relevant to troubleshooting in a software context.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a TFS process template migration, which involves identifying and resolving potential issues during the migration process. It provides a step-by-step guide that includes warnings about backups and potential pitfalls, indicating a focus on troubleshooting. However, while it touches on troubleshooting aspects, the primary focus is on the migration process itself rather than a systematic approach to diagnosing and resolving issues, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1231,11 +1282,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T10:42:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:28:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily focuses on a technical process related to TFS process template migration, which is relevant to software developers engaged in Agile methodologies. However, it does not deeply explore Agile or DevOps principles, making it a secondary theme.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating TFS process templates, which is relevant to software developers working within Agile frameworks. It discusses specific steps and scripts that developers can use to implement changes in their development processes, aligning well with Agile and DevOps practices. However, while it provides detailed instructions, it lacks broader discussions on team dynamics, collaboration, or the impact of Agile methodologies on productivity, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,12 +1303,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:29:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading TFS process templates which relates to aspects of software engineering practices, but primarily focuses on a specific technical implementation rather than core engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating TFS process templates, which is more aligned with project management and tooling rather than core engineering practices like clean code, TDD, or CI/CD. While it does touch on automation and some principles of Agile, the discussion lacks depth in the fundamental engineering practices that enhance collaboration and code quality.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1294,21 +1351,24 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T10:42:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:28:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses migrating a TFS process template to a Scrum template, which is an Agile framework. It suggests using the Scrum template and mentions Agile concepts such as User Stories and Product Backlog Items, thus making Agile frameworks a significant theme, though not the primary focus.",
-    "level": "Secondary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the migration of TFS process templates, specifically mentioning the Scrum template. However, the primary focus is on technical implementation details rather than a comprehensive exploration of Agile frameworks. While it touches on Agile concepts, it lacks depth in discussing principles, comparative analysis, or case studies related to Agile frameworks.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:49",
+    "calculated_at": "2025-03-15T04:28:41",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily focuses on TFS process template migration and technical aspects related to upgrading software, which does not align closely with Agile strategy discussions.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",

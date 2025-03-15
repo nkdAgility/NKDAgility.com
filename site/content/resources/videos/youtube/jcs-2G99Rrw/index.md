@@ -26,14 +26,14 @@ isShort: false
 tags:
 - Azure DevOps
 - Practical Techniques and Tooling
+- Products and Books
 - Software Developers
 - Software Development
+- Agile Project Management
 - Product Delivery
-- One Engineering System (1ES)
+- Operational Practices
 - Pragmatic Thinking
-- Azure Boards
-- Troubleshooting
-- Agile Product Management
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

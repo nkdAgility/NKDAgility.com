@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/free-online-training-from-microsoft
 - /free-online-training-from-microsoft
 - /resources/blog/free-online-training-from-microsoft
-tags:
-- Events and Presentations
+tags: []
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

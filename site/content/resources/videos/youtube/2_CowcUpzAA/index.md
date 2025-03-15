@@ -29,6 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - Product Owner
+- Agile Product Management
+- Agile Project Management
+- Scrum Product Development
+- People and Process
+- Pragmatic Thinking
+- Accountability
+- Software Development
+- Agile Product Operating Model
+- Continuous Learning
 resourceTypes:
 - video
 layout: video

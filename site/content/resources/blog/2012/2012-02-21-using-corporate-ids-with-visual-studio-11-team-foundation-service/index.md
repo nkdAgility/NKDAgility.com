@@ -28,8 +28,6 @@ aliasesArchive:
 - /resources/blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
 tags:
 - Install and Configuration
-- System Configuration
-- Practical Techniques and Tooling
 categories: []
 preview: nakedalm-experts-visual-studio-alm-3-3.png
 

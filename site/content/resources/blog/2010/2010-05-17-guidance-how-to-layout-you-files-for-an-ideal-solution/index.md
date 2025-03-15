@@ -8,7 +8,7 @@ ResourceImportId: 42
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-05-17
-weight: 475
+weight: 555
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,14 +29,8 @@ aliasesArchive:
 tags:
 - Software Development
 - Modern Source Control
-- Release Management
-- Pragmatic Thinking
-- Technical Mastery
 - Practical Techniques and Tooling
-- Software Developers
-- Application Lifecycle Management
-- Product Delivery
-- Engineering Practices
+- Release Management
 categories:
 - Scrum
 - Social Technologies

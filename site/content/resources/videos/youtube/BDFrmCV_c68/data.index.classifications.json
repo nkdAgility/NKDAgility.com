@@ -34,21 +34,27 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and the importance of measuring value, which relates to backlog management, but it primarily focuses on the concept of pride in Agile rather than the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of pride in Agile practices but does not explicitly mention the Product Backlog or its management. While it touches on themes relevant to Agile, such as data-driven decisions and value-driven development, it lacks a direct focus on backlog management, prioritisation techniques, or the role of the Product Owner. The discussion is more about general Agile principles rather than the specifics of the Product Backlog.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner and the importance of measuring outcomes, which are relevant to Scrum principles, but the primary focus is on the concept of pride in Agile rather than a comprehensive exploration of Scrum.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile principles and the concept of pride within Agile practices, but it does not explicitly mention Scrum or its specific roles, events, or artifacts. While there are some relevant themes, such as the importance of data-driven decisions and learning from failures, the focus is more on general Agile practices rather than a deep exploration of Scrum principles. Therefore, the confidence score reflects a low alignment with the Professional Scrum category.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -139,11 +145,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of measuring outcomes and value in software development, which relates to working software, but it primarily focuses on the concept of pride in Agile practices rather than directly addressing working software itself.",
+    "calculated_at": "2025-03-14T21:41:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of data-driven decisions and aligning development with customer value, which are key aspects of delivering working software. However, it primarily focuses on the pitfalls of pride rather than directly addressing the characteristics or practices of working software itself. While it touches on relevant themes, the depth of discussion is more about the mindset and cultural aspects rather than the technical delivery of functional software.",
     "level": "Tertiary"
   },
   "Decision Making": {
@@ -259,30 +268,39 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:34:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of pride in Agile practices and the importance of measuring outcomes, which relates to strategic decision-making. However, it primarily focuses on the pitfalls of pride rather than a comprehensive strategic approach.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the implications of pride within Agile practices, touching on themes such as data-driven decision-making, value-driven development, and the importance of humility. While it does not explicitly focus on strategic alignment or the development of strategic approaches, it aligns with the core themes of optimising delivery processes and continuous improvement. The depth of discussion is moderate, providing insights and examples, but it lacks a comprehensive exploration of strategic frameworks like Agile, Scrum, or DevOps.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of measuring outcomes and analysing data to avoid assumptions in Agile practices, which relates to the Ability to Innovate. However, the primary focus is on the pitfalls of pride in Agile rather than a comprehensive exploration of innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and the need to validate work through empirical evidence, which aligns with the core themes of the Ability to Innovate category. It mentions concepts like hypothesis-driven development and the dangers of blind pride, which indirectly relate to fostering a culture of innovation. However, the primary focus is on the pitfalls of pride in Agile rather than a comprehensive exploration of innovation capabilities, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:43:00",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and the implications of pride in the context of Agile practices, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of pride within Agile practices, highlighting its potential pitfalls and the importance of data-driven decision-making. While it does not explicitly mention specific Agile frameworks like Scrum or Kanban, it aligns well with Agile principles such as continuous improvement and the need for humility. The depth of discussion is moderate, providing insights and examples, but it lacks a comprehensive exploration of various Agile frameworks, which affects the overall confidence score.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -349,12 +367,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Agile principles and the implications of pride in software development, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:41:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses Agile practices, specifically focusing on the concept of pride and its implications within Agile teams. It directly mentions Agile methodologies and provides insights into maintaining a balance between confidence and overconfidence, which aligns well with the core themes of software development. The depth of discussion includes practical advice on hypothesis-driven development, avoiding assumptions, and the importance of data-driven decisions, which are all relevant to software engineering practices. However, while the content is rich in Agile-related insights, it does not delve deeply into broader software development methodologies or practices, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -385,12 +406,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of pride in the context of Agile, highlighting the importance of measuring outcomes and delivering value, which aligns with Agile principles. However, it primarily focuses on the pitfalls of pride rather than a comprehensive exploration of Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of pride within Agile practices, highlighting the importance of humility, data-driven decisions, and learning from failures, which aligns with Agile principles. However, it primarily focuses on the pitfalls of pride rather than a comprehensive exploration of Agile values and principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -442,21 +466,27 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of measuring outcomes and making data-driven decisions, which aligns with empirical process control principles. However, it primarily focuses on the concept of pride in Agile rather than being a central discussion on empirical process control.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and avoiding assumptions, which aligns well with the principles of empirical process control. It highlights the need for validation through metrics and continuous learning, reflecting core themes of transparency and adaptation. However, while it touches on these concepts, it does not delve deeply into empirical process control as a primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of validating assumptions about product value and the need for data analysis to ensure that products meet market needs, which aligns with the theme of product validation. However, it primarily focuses on the concept of pride in Agile practices rather than being solely about product validation.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of validating work through data and analysis, which aligns with the core themes of product validation. It mentions hypothesis-driven development and avoiding assumptions, both of which are relevant to validating product ideas. However, the primary focus is on the concept of pride in Agile practices rather than a direct exploration of product validation methodologies. The depth of discussion on validation is moderate, providing some insights but lacking comprehensive coverage of user testing or customer feedback loops.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -592,12 +622,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of pride in the context of Agile principles, particularly focusing on the importance of measuring outcomes and avoiding assumptions in project management. While it touches on Agile themes, it is more of a secondary theme rather than a primary focus on Agile Project Management.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the implications of pride within Agile practices, highlighting the importance of data-driven decisions, learning from failures, and maintaining a balance between personal satisfaction and customer value. It aligns well with Agile principles, particularly in terms of continuous learning and iterative improvement. However, while it touches on relevant Agile concepts, it does not delve deeply into specific frameworks or roles, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -610,12 +643,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of pride in Agile practices, particularly in relation to measuring outcomes and delivering value, which aligns with Agile principles. However, it primarily focuses on the pitfalls of pride rather than a comprehensive Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the concept of pride within Agile practices, highlighting the importance of data-driven decisions and learning from failures, which aligns with Agile principles. However, it primarily focuses on the pitfalls of pride rather than a comprehensive Agile strategy, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -646,12 +682,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of analysing data and understanding the value of work in Agile contexts, which relates to sensemaking. However, the primary focus is on the pitfalls of pride in Agile practices rather than a comprehensive exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and learning from failures, which aligns with sensemaking principles. However, it primarily focuses on the pitfalls of pride in Agile rather than exploring sensemaking as a primary theme. While it touches on relevant concepts, the overall discussion is more about Agile practices than the broader context of sensemaking.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -718,12 +757,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of pride in Agile practices, particularly in relation to product ownership and the importance of measuring outcomes. While it touches on Agile principles, it primarily focuses on the pitfalls of pride rather than a comprehensive discussion on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the concept of pride within Agile practices, highlighting its impact on decision-making and team dynamics. It aligns with Agile principles by emphasising data-driven decisions, learning from failures, and maintaining a balance between personal satisfaction and customer value. However, while it touches on relevant Agile themes, it does not delve deeply into specific frameworks or methodologies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -763,30 +805,39 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and the importance of measuring outcomes, which are relevant to Scrum principles, but it primarily focuses on the concept of pride in Agile rather than Scrum product development specifically.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and the importance of data-driven decision-making, which are relevant to Scrum practices. However, it does not explicitly mention Scrum roles, events, or the iterative development process, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of measuring outcomes and avoiding assumptions in Agile practices, which relates to operational efficiency. However, it primarily focuses on the concept of pride rather than providing clear operational strategies or techniques.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the implications of pride in Agile practices, focusing on data-driven decision-making and continuous improvement, which are key aspects of operational efficiency. It mentions techniques like hypothesis-driven development and the importance of real metrics, aligning well with operational practices. However, the primary focus is on the concept of pride rather than directly on operational practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of measuring outcomes and using data to inform decisions, which aligns with the principles of Evidence-Based Management. However, the primary focus is on the concept of pride in Agile practices rather than a comprehensive exploration of EBM.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:41:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making in Agile practices, which aligns with the principles of Evidence-Based Management. It mentions the need to validate work with data, avoid assumptions, and focus on meaningful metrics, all of which are core themes of EBM. However, the primary focus is on the concept of pride in Agile rather than a comprehensive exploration of EBM itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -844,30 +895,39 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of measuring outcomes and validating assumptions in product development, which aligns with product discovery principles. However, the primary focus is on the concept of pride in Agile practices rather than a thorough exploration of product discovery methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of validating work through data and understanding customer needs, which aligns with product discovery principles. However, it primarily focuses on the pitfalls of pride in Agile practices rather than directly exploring methodologies for product discovery. The discussion on avoiding assumptions and focusing on real customer value contributes to the alignment, but the overall depth and direct mentions of product discovery concepts are limited.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of measuring outcomes and validating assumptions, which aligns with Lean Startup principles, but it primarily focuses on Agile practices and the concept of pride in product development.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile practices and the importance of data-driven decision-making, which aligns with Lean Startup principles. However, it primarily focuses on the concept of pride in Agile rather than the Lean Startup methodology itself. While there are mentions of hypothesis-driven development and learning from failures, these are not explored in the context of Lean Startup's iterative cycles or MVPs, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of pride in Agile practices, particularly in relation to measuring outcomes and value delivery, which are relevant to Agile Planning. However, it primarily focuses on the pitfalls of pride rather than providing a comprehensive discussion on Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the implications of pride within Agile practices, touching on themes such as data-driven decision-making and learning from failures, which are relevant to Agile Planning. However, it does not explicitly focus on Agile Planning methodologies or practices, making it more of a cautionary discussion rather than a direct exploration of Agile Planning principles.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -961,12 +1021,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:12:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of pride in the context of Agile practices, highlighting the importance of measuring outcomes and delivering value, which aligns with Agile principles. However, it primarily focuses on specific examples and personal experiences rather than a broader discussion of Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the concept of pride within Agile practices, highlighting its impact on decision-making and team dynamics. It aligns well with Agile principles such as continuous improvement, value delivery, and the importance of humility. The depth of discussion is significant, providing examples and actionable insights, although it primarily focuses on a specific aspect rather than the broader Agile philosophy.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1033,12 +1096,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes related to pride and assumptions in Agile, particularly in the context of measuring outcomes and avoiding the sunk cost fallacy, which aligns with decision theory principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:40:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses decision-making in the context of Agile practices, particularly emphasising the importance of data-driven decisions and avoiding assumptions. While it touches on relevant themes such as the sunk cost fallacy and the need for validation in decision-making, it primarily focuses on the pitfalls of pride rather than a comprehensive exploration of decision theory itself. The discussion is relevant but not exhaustive, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1105,12 +1171,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of pride in Agile practices, particularly in relation to product ownership and the importance of measuring outcomes, which aligns with product delivery themes. However, it primarily focuses on the concept of pride rather than a comprehensive discussion on product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile practices and the importance of data-driven decision-making, which aligns with product delivery principles. However, it primarily focuses on the concept of pride rather than the broader methodologies and practices of product delivery, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1126,12 +1195,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of measuring outcomes and learning from assumptions in Agile development, which aligns with the theme of continuous learning. However, the primary focus is on the pitfalls of pride in Agile practices rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:40:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of learning from failures and the need for data-driven decisions, which aligns well with the core themes of the 'Discovery and Learning' category. It explicitly mentions continuous learning and the significance of feedback, contributing to a strong alignment. However, the primary focus is on the pitfalls of pride in Agile rather than a broader exploration of discovery and learning methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1180,11 +1252,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of measuring outcomes and analysing data in Agile practices, which relates to adapting to market demands. However, the primary focus is on the concept of pride in Agile rather than directly addressing market adaptability strategies.",
+    "calculated_at": "2025-03-14T21:41:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and learning from failures, which are relevant to market adaptability. However, it primarily focuses on the pitfalls of pride in Agile practices rather than directly addressing strategies for enhancing market responsiveness. While it touches on concepts like hypothesis-driven development and the need for continuous learning, these are secondary to the main theme of pride. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -1264,12 +1339,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the pitfalls of pride in Agile practices, emphasising the importance of data analysis and customer value, which aligns with themes of organisational agility. However, it primarily focuses on individual behaviours and assumptions rather than broader organisational strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of humility, data-driven decisions, and learning from failures, which are key aspects of organisational agility. It mentions Agile practices and the need for teams to validate their work's impact, aligning well with the category's themes. However, the focus is more on the pitfalls of pride rather than a comprehensive exploration of organisational agility strategies, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1285,12 +1363,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T16:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the human factors of pride and assumptions in Agile practices, particularly in relation to product ownership and team dynamics, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the impact of pride on Agile practices, focusing on team dynamics, decision-making, and the importance of humility and data-driven approaches. It aligns well with the category by addressing human behaviour in Agile environments and the need for effective communication and feedback. The depth of discussion is substantial, providing specific strategies and examples, although it could further explore leadership roles and broader team dynamics.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1372,11 +1453,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of measuring outcomes and value delivery in Agile product development, which aligns with the Agile Product Operating Model. However, it primarily focuses on the concept of pride and assumptions in product development rather than a comprehensive discussion of the Agile Product Operating Model itself.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the implications of pride in Agile practices, touching on themes such as data-driven decision-making and value-driven development, which align with the Agile Product Operating Model. However, it primarily focuses on the pitfalls of pride rather than providing a comprehensive exploration of the Agile Product Operating Model itself. The discussion is relevant but lacks depth in terms of the broader principles and strategies of the Agile Product Operating Model.",
     "level": "Tertiary"
   },
   "Beta Codex": {

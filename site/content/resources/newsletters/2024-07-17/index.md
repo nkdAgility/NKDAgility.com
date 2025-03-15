@@ -5,7 +5,7 @@ ResourceId: w5rxdL8YHNa
 ResourceImport: true
 ResourceType: newsletters
 date: 2024-07-17
-weight: 770
+weight: 850
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -23,6 +23,15 @@ categories:
 - Scrum
 tags:
 - Discovery and Learning
+- Product Discovery
+- Product Validation
+- Events and Presentations
+- Agile Product Management
+- Products and Books
+- Product Delivery
+- Value Delivery
+- Agile Product Operating Model
+- Scrum Product Development
 
 ---
 **Dear Innovators and Product Enthusiasts,**

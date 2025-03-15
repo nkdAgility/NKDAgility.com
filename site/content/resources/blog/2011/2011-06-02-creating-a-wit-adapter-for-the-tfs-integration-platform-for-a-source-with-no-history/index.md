@@ -25,14 +25,12 @@ aliasesArchive:
 tags:
 - Software Development
 - Troubleshooting
-- Practical Techniques and Tooling
-- Technical Mastery
 - System Configuration
-- Install and Configuration
+- Practical Techniques and Tooling
 - Pragmatic Thinking
+- Technical Mastery
+- Install and Configuration
 - Working Software
-- Technical Excellence
-- Code and Complexity
 preview: metro-visual-studio-2005-128-link-4-4.png
 categories:
 - Engineering Excellence

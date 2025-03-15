@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- Ability to Innovate
+- Working Software
+- Software Development
+- Product Delivery
+- Evidence Based Leadership
+- Agile Strategy
+- Flow Efficiency
+- Operational Practices
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

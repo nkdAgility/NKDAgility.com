@@ -34,9 +34,8 @@ sitemap:
 tags:
 - Agile Project Management
 - Agile Transformation
+- Software Development
 - People and Process
-- Coaching
-- Agile Leadership
 resourceTypes:
 - video
 categories:

@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/using-visual-studio-2008
 - /using-visual-studio-2008
 - /resources/blog/using-visual-studio-2008
-tags:
-- Windows
-- Software Development
+tags: []
 categories: []
 preview: metro-visual-studio-2005-128-link-8-1.png
 

@@ -118,7 +118,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T15:14:55",
+    "calculated_at": "2025-03-15T07:30:16",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -126,7 +126,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content provides practical instructions on updating Visual Studio 2008 SP1, including the use of specific tools like the Service Pack Preparation Tool. However, while it mentions practical techniques, it lacks a broader discussion on Agile or DevOps methodologies, limiting its alignment with the category's core themes. The depth of discussion is moderate, focusing primarily on installation processes rather than a comprehensive exploration of tooling in Agile or DevOps contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -367,7 +367,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T10:46:07",
+    "calculated_at": "2025-03-15T07:30:16",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -375,7 +375,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the installation process of Visual Studio 2008 SP1 and mentions the Service Pack Preparation Tool, which relates to software release processes. However, it lacks a comprehensive discussion on broader release management strategies, such as planning, scheduling, or risk management. The focus is primarily on installation steps rather than the overall release management framework.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -442,7 +442,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T12:11:35",
+    "calculated_at": "2025-03-15T07:30:16",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -450,7 +450,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2008 SP1 and related tools, which does not delve into broader principles of software craftsmanship or engineering practices. While it mentions technical tools, it lacks a discussion on best practices, code quality, or methodologies that contribute to technical mastery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -727,11 +727,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:30:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation process for Visual Studio 2008 SP1, which is related to software development tools and practices, though it does not delve deeply into software development methodologies or best practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the installation process of Visual Studio 2008 SP1 and related tools, which is relevant to software development. However, it lacks a broader discussion on methodologies, best practices, or frameworks that guide the development lifecycle. The focus is primarily on installation rather than software engineering practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {

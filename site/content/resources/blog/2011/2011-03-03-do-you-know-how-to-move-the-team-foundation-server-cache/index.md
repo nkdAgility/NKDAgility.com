@@ -27,8 +27,6 @@ tags:
 - Windows
 - System Configuration
 - Practical Techniques and Tooling
-- Troubleshooting
-- Software Development
 categories: []
 
 ---

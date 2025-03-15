@@ -29,14 +29,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Throughput
+- Flow Efficiency
+- Value Delivery
+- Metrics and Learning
+- Agile Philosophy
 - People and Process
 - Agile Product Management
-- Software Development
-- Estimation
-- Agile Project Management
-- Software Developers
-- Pragmatic Thinking
-- Product Delivery
+- Agile Transformation
 resourceTypes:
 - video
 categories:

@@ -289,7 +289,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-11T18:01:31",
+    "calculated_at": "2025-03-15T05:09:40",
     "ai_confidence": 25.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -297,7 +297,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses issues related to restoring TFS backups and SQL Server editions, which are tangentially related to Azure DevOps. While TFS (Team Foundation Server) is part of the Azure DevOps suite, the focus is more on SQL Server management rather than Azure DevOps functionalities or best practices. There are mentions of TFS, but the discussion lacks depth in Azure DevOps-specific practices, methodologies, or tools.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -493,12 +493,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T05:09:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses practical steps and techniques related to SQL database management, specifically for restoring TFS backups and dealing with enterprise features, which aligns with operational practices but does not focus on Agile, DevOps, or Lean methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical issues related to restoring TFS backups and SQL Server editions, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While it touches on the need to manage database features for successful operations, it lacks a broader focus on process optimisation or continuous improvement strategies. The depth of discussion is more technical than operational, leading to a low confidence score in the context of the specified category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -748,7 +751,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T15:04:34",
+    "calculated_at": "2025-03-15T05:09:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -756,7 +759,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses technical issues related to restoring TFS backups and SQL Server editions, which does not directly address the principles of software craftsmanship or best practices in coding standards. While it touches on aspects of technical debt and the implications of using enterprise features, it lacks a broader discussion on engineering excellence or continuous improvement in software development practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",

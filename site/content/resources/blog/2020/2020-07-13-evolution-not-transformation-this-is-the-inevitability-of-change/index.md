@@ -8,7 +8,7 @@ ResourceImportId: 44511
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-07-13
-weight: 490
+weight: 500
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,6 +28,15 @@ aliasesArchive:
 - /resources/blog/evolution-not-transformation-this-is-the-inevitability-of-change
 tags:
 - People and Process
+- Business Agility
+- Change Management
+- Resilience and Change
+- Continuous Learning
+- Discovery and Learning
+- Agile Leadership
+- Agile Philosophy
+- Enterprise Agility
+- Market Adaptability
 categories:
 - Leadership
 preview: image-15-5-4.png

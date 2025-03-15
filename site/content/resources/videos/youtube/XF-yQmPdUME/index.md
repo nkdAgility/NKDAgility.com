@@ -31,6 +31,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Product Management
+- People and Process
+- Agile Project Management
+- Scrum Product Development
+- Product Owner
+- Product Delivery
+- Value Delivery
+- Professional Scrum
+- Agile Frameworks
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

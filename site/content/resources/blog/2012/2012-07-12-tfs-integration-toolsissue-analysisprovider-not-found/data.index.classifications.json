@@ -214,11 +214,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:53:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to TFS Integration Tools and provides a workaround that involves changing application settings and recompiling, which touches on engineering practices but is primarily focused on troubleshooting rather than broader technical excellence principles.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to TFS Integration Tools and .NET Framework compatibility. While it discusses a technical problem and provides a workaround, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is on troubleshooting rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -871,7 +874,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T18:05:38",
+    "calculated_at": "2025-03-15T05:53:44",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -879,7 +882,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses a technical issue related to TFS Integration Tools and a specific error encountered during software development. While it touches on aspects of software functionality and troubleshooting, it lacks a broader discussion on working software principles, customer value, or iterative development. The focus is more on resolving a specific problem rather than delivering high-quality, functional software that meets user needs.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",

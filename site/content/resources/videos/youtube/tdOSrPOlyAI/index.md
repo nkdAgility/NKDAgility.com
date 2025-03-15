@@ -30,11 +30,7 @@ tags:
 - Technical Excellence
 - Technical Leadership
 - Engineering Practices
-- Technical Debt
-- Pragmatic Thinking
-- People and Process
-- Value Delivery
-- Software Developers
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6

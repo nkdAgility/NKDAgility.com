@@ -10,12 +10,15 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of trying new things and experimenting within the context of systemic change in organisations, which aligns with the theme of experimentation in Agile workflows, but it is not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:29:16",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the concept of experimentation in the context of fostering a culture of change and innovation within organisations. While it does not explicitly focus on hypothesis-driven experimentation or Agile methodologies, it touches on the importance of trying new ideas and embracing change, which aligns with the broader themes of experimentation. However, the discussion lacks specific techniques or structured approaches to experimentation, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -85,7 +88,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:47:35",
+    "calculated_at": "2025-03-14T23:28:05",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -93,7 +96,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content touches on systemic change and lean principles, which are relevant to product management, but it primarily focuses on consulting outcomes rather than the strategic aspects of product management. The discussion lacks depth in product management methodologies and frameworks, making it a secondary mention rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -127,12 +130,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systemic change within organisations and the need for adapting to achieve business benefits, which aligns with themes of digital transformation. However, it primarily focuses on consulting engagement and change management rather than specific digital technologies or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:28:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses systemic change and transformation within organisations, which aligns with the themes of digital transformation. However, it lacks explicit mentions of digital technologies and their strategic adoption, focusing more on general change management and consulting outcomes. The depth of discussion on digital transformation is limited, primarily touching on cultural aspects and the challenges of change without delving into specific digital tools or methodologies.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -145,12 +151,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:29:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of systemic change within organisations and the challenges of achieving it, which relates to decision-making processes. However, it primarily focuses on consulting outcomes rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of systemic change and transformation within organisations, which relates to decision-making processes. However, it lacks explicit references to structured methodologies or evidence-based practices. The discussion is more philosophical and anecdotal rather than grounded in empirical evidence or frameworks for decision-making.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -172,21 +181,27 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean principles and systemic change, which are relevant to Lean Product Development, but it primarily focuses on consulting outcomes rather than product development specifically.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions the 'lean principle' and discusses systemic change, which aligns with Lean Product Development concepts. However, it lacks a detailed exploration of Lean principles, techniques for waste elimination, or customer feedback integration, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for systemic change within organisations and the challenges of getting people on board with change, which relates to organisational culture. However, it primarily focuses on consulting outcomes rather than a deep exploration of cultural elements.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:28:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of systemic change and transformation within organisations, which aligns with the themes of organisational culture. It highlights the challenges of fostering a culture of experimentation and evolution, indicating a focus on cultural elements that support change. However, while it touches on these aspects, it does not delve deeply into specific cultural dimensions or strategies for fostering such a culture, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -253,29 +268,38 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systemic change and its importance in achieving business benefits, which aligns with strategic thinking in Agile environments. However, it does not focus primarily on Agile, Scrum, or DevOps strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of systemic change and the application of lean principles, which are relevant to strategic discussions within Agile contexts. However, it lacks direct mentions of Agile, Scrum, or DevOps frameworks and does not delve deeply into specific strategic techniques or metrics. The focus is more on general transformation and consulting outcomes rather than a structured approach to strategy within Agile environments.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of systemic change and experimentation within organisations, which relates to innovation, but it primarily focuses on consulting outcomes rather than directly measuring or enhancing the ability to innovate.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of systemic change and the importance of fostering a culture of experimentation, which aligns with the Ability to Innovate category. However, it lacks explicit references to Evidence-Based Management and specific frameworks or metrics for measuring innovation capabilities. The discussion is somewhat broad and does not delve deeply into the measurement or improvement of innovation practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses lean principles and systemic change, which are relevant to Agile frameworks, but the primary focus is on consulting outcomes rather than a detailed exploration of Agile frameworks themselves.",
+    "calculated_at": "2025-03-14T23:28:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions the lean principle and references Agile and Scrum courses, indicating a connection to Agile frameworks. However, the primary focus is on consulting engagements and systemic change rather than a detailed exploration of Agile frameworks themselves. The discussion lacks depth in terms of Agile principles and does not provide a comparative analysis or case studies related to Agile frameworks.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -346,12 +370,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systemic change in organisations and mentions agile, scrum, and devops, indicating a secondary theme related to software development practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses consulting engagements and systemic change, which are tangentially related to software development through the mention of Agile and Scrum. However, the primary focus is on consulting and organisational change rather than specific software development practices or methodologies.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -382,12 +409,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses systemic change and the importance of adapting to achieve business benefits, which aligns with Agile principles, but it primarily focuses on consulting outcomes rather than Agile values specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:29:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content touches on themes of systemic change and transformation, which can relate to Agile principles of adaptability and continuous improvement. However, it primarily focuses on consulting engagements and lean principles rather than explicitly discussing Agile values or principles. The mention of Agile and Scrum courses at the end indicates a slight connection, but the overall discussion does not delve deeply into Agile's core values or principles.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -586,11 +616,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systemic change and the importance of adapting to new ideas, which aligns with agile principles, but it is not primarily focused on Agile Project Management.",
+    "calculated_at": "2025-03-14T23:29:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions Agile and Scrum courses, indicating some relevance to Agile Project Management. However, the primary focus is on consulting engagements and systemic change rather than on agile methodologies or principles. The discussion lacks depth in agile concepts and does not explore key topics such as Scrum roles, iterative development, or project backlogs, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -604,11 +637,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systemic change and the importance of adapting organisational behaviours, which aligns with Agile principles, but it primarily focuses on consulting outcomes rather than a comprehensive Agile strategy.",
+    "calculated_at": "2025-03-14T23:28:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses systemic change and transformation, which aligns with Agile principles of adaptability and continuous improvement. However, it lacks direct mentions of Agile methodologies and does not delve deeply into strategic planning or execution within an Agile context. The focus is more on general change management rather than a specific Agile strategy.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
@@ -640,11 +676,14 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:29:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for systemic change within organisations and the challenges of achieving it, which relates to sensemaking in understanding complex environments. However, the primary focus is on consulting outcomes rather than a deep exploration of sensemaking principles or frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of systemic change within consulting engagements, which aligns with the principles of sensemaking by addressing how organisations can interpret and adapt to complex situations. However, while it touches on the importance of transformation and experimentation, it lacks a detailed exploration of frameworks or models that aid in understanding complexity, which limits its depth. The focus on Agile and Scrum courses, while relevant, diverts from a primary sensemaking discussion.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -703,21 +742,27 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:29:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of lean principles in the context of achieving systemic change within organisations, but it also touches on broader themes such as Agile and Scrum, making Lean a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions 'lean principle' and discusses the idea of systemic change, which aligns with Lean thinking. However, it lacks detailed exploration of core Lean concepts such as waste reduction, continuous improvement, or specific Lean tools. The focus is more on consulting and transformation rather than a thorough examination of Lean principles.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systemic change and the need for organisational change, which aligns with Agile transformation principles, but it is not primarily focused on Agile methodologies or frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:28:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses systemic change and transformation, which aligns with Agile principles, but it primarily focuses on consulting engagements rather than Agile transformation specifically. While it mentions Agile and Scrum courses, the overall discussion lacks depth in Agile methodologies and frameworks, making it a secondary focus rather than a primary one.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -769,12 +814,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systemic change and its impact on operational efficiency, touching on Lean principles, but it primarily focuses on the broader concept of consulting outcomes rather than specific operational practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:28:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the lean principle and systemic change, which are relevant to operational practices. However, it lacks specific techniques or strategies for enhancing operational efficiency and does not delve deeply into practical applications within Agile, DevOps, or Lean frameworks.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -850,12 +898,15 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses lean principles and the importance of systemic change in organisations, which aligns with Lean Startup concepts, but it primarily focuses on consulting outcomes rather than the Lean Startup methodology itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions 'lean principle' and discusses systemic change, which aligns with some Lean Startup concepts. However, it lacks a focused discussion on MVPs, the Build-Measure-Learn loop, or validated learning. The depth of discussion is moderate but does not provide specific Lean Startup methodologies or case studies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -958,11 +1009,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systemic change and the importance of adapting organisational behaviours, which aligns with Agile principles, but it primarily focuses on consulting outcomes rather than the Agile philosophy itself.",
+    "calculated_at": "2025-03-13T16:48:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses systemic change and transformation, which aligns with Agile principles of adaptability and continuous improvement. However, it primarily focuses on consulting outcomes rather than explicitly addressing Agile philosophy or its foundational principles. The mention of Agile and Scrum courses at the end indicates a connection but does not delve deeply into the Agile mindset itself.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -1012,21 +1066,27 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:40:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of systemic change within organisations to achieve business benefits, which aligns with the theme of strategic goals. However, it primarily focuses on consulting outcomes rather than explicitly defining long-term strategic objectives.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of systemic change and its potential benefits for organisations, which aligns with the idea of long-term objectives and business agility. However, it lacks explicit mentions of strategic goals and does not delve deeply into frameworks or techniques for setting and measuring these goals. The focus is more on the transformation process rather than on strategic goal-setting itself.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:52",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of systemic change and experimentation within organisations, which aligns with the principles of Continuous Learning, but it primarily focuses on consulting outcomes rather than a dedicated exploration of Continuous Learning practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of systemic change and cultivating a culture of experimentation, which aligns with Continuous Learning principles. However, it primarily focuses on consulting outcomes rather than explicitly addressing Continuous Learning practices or techniques. The mention of Agile and Scrum courses hints at knowledge sharing but lacks depth in exploring the core themes of Continuous Learning.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1039,30 +1099,39 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systemic change within organisations and the need for adaptability to achieve business benefits, which aligns with themes of enterprise agility, but it primarily focuses on consulting outcomes rather than a comprehensive exploration of enterprise agility.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses systemic change and transformation within organisations, which aligns with the principles of Enterprise Agility. It touches on fostering a culture of experimentation and evolution, which is relevant to agility. However, it lacks explicit mentions of frameworks or metrics related to enterprise agility, and the discussion is somewhat general, focusing more on the concept of change rather than specific agile practices or structures.",
     "level": "Tertiary"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:16",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Lean principles in the context of achieving systemic change within organisations, making Lean a major but secondary theme alongside broader consulting outcomes.",
-    "level": "Tertiary"
+    "final_score": 64.0,
+    "reasoning": "The content briefly mentions the 'lean principle' and discusses systemic change, which aligns with Lean's focus on transformation and value creation. However, the primary focus is on consulting and Agile methodologies, with limited depth on Lean-specific tools or techniques. The discussion lacks detailed exploration of Lean principles, making it a secondary theme rather than a primary focus.",
+    "level": "Secondary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the need for systemic change within organisations and the challenges associated with achieving that change, which aligns with themes of organisational resilience and adaptability. However, it primarily focuses on consulting outcomes rather than a comprehensive exploration of resilience strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses systemic change and the challenges associated with fostering transformation within organisations, which aligns with the themes of resilience and adaptability. However, while it touches on these concepts, it does not delve deeply into specific strategies or frameworks for organisational resilience, nor does it provide extensive detail on change management practices. The focus on Agile and Scrum courses suggests a practical approach but lacks a comprehensive exploration of the human and cultural aspects of change.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1084,12 +1153,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses lean principles and the importance of systemic change to improve business benefits, which relates to flow efficiency, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly references lean principles and systemic change, which are related to flow efficiency, but it does not explicitly discuss flow efficiency concepts or techniques for optimising throughput. The focus is more on the broader implications of consulting engagements rather than on specific flow efficiency metrics or practices.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1120,12 +1192,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of systemic change and experimentation within organisations, which aligns with the themes of discovery and learning, but it primarily focuses on consulting outcomes rather than a deep exploration of learning processes.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of systemic change and cultivating a culture of experimentation, which aligns well with the themes of discovery and learning. It explicitly mentions the lean principle and the challenges of fostering transformation, indicating a focus on innovation and continuous learning. However, while it touches on these concepts, the primary focus is on consulting outcomes rather than a deep exploration of discovery methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1141,11 +1216,14 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:29:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systemic change within organisations and the challenges of achieving it, which aligns with themes of complexity thinking. However, it primarily focuses on consulting outcomes rather than deeply exploring complexity science principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses systemic change and transformation within organisations, which aligns with complexity thinking principles. However, it lacks direct references to complexity science or frameworks like the Cynefin Framework. The discussion is somewhat superficial and does not delve deeply into the non-linear dynamics or emergent behaviours characteristic of complex adaptive systems.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -1177,21 +1255,27 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses systemic change within organisations and the need for adaptability to achieve business benefits, which aligns with the principles of Lean methodologies. However, it does not primarily focus on market adaptability or specific Agile and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the lean principle and its role in fostering systemic change, which aligns with the concept of market adaptability. It touches on the importance of responding to market demands and cultivating a culture of experimentation, which are relevant to the category. However, the primary focus is more on consulting outcomes rather than a detailed exploration of Agile, DevOps, or Lean methodologies specifically aimed at enhancing market adaptability.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the outcomes of consulting engagements and systemic change, which are relevant to business agility but also references lean principles, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses consulting engagements and systemic change, which are relevant to business agility but heavily references the lean principle and includes a call to action for Agile and Scrum courses. While it touches on broader themes, the explicit mention of Agile and Scrum frameworks detracts from its classification as purely miscellaneous.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -1222,12 +1306,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses systemic change within organisations and the need for adaptability to achieve business benefits, which aligns with the principles of business agility. However, it also touches on broader themes of change management and consulting without a strong focus on business agility specifically.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses systemic change and the importance of fostering a culture of experimentation, which aligns with the principles of business agility. However, it primarily focuses on consulting engagements and does not delve deeply into specific strategies or frameworks related to business agility. The mention of Agile and Scrum courses at the end suggests a connection to business agility but does not constitute a primary focus on the category.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1240,11 +1327,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systemic change and business benefits in the context of consulting engagements, which aligns with value delivery principles, but it is not the primary focus.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of systemic change and its value in consulting engagements, which aligns with the principles of value delivery. It mentions lean principles and the importance of transformation, indicating a focus on delivering value through organisational change. However, the discussion lacks specific methodologies or frameworks related to Agile, Scrum, or DevOps, and does not delve deeply into techniques for measuring or maximising customer value, which limits the depth of the discussion.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
@@ -1270,11 +1360,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:28:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal reflections on the challenges of achieving systemic change in consulting engagements, which aligns with the Personal category, but it primarily focuses on the concept of systemic change rather than personal experiences or anecdotes.",
+    "final_score": 56.0,
+    "reasoning": "The content reflects personal insights and experiences related to consulting engagements and systemic change, aligning with the Personal category. It discusses challenges faced in fostering transformation and the importance of a culture of experimentation, which are personal reflections. However, it also includes technical discussions about lean principles and Agile methodologies, which detracts from its primary focus on personal experiences.",
     "level": "Tertiary"
   },
   "People and Process": {
@@ -1330,12 +1423,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:29:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systemic change and business benefits, which are related to Value Stream Management principles, but it primarily focuses on consulting engagement and change management rather than directly addressing value stream optimisation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content touches on concepts related to systemic change and lean principles, which are relevant to Value Stream Management. However, it primarily focuses on consulting engagements and does not explicitly discuss value streams, waste elimination, or metrics related to value stream performance. The discussion lacks depth in the specific principles of Value Stream Management, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1426,7 +1522,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:21:57",
+    "calculated_at": "2025-03-14T23:28:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1434,6 +1530,6 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions 'agile' and 'scrum' at the end, but the primary focus is on systemic change in consulting engagements rather than Scrum principles or practices. While there is a conceptual alignment with the idea of change and improvement, it lacks depth in discussing Scrum-specific roles, events, or artifacts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

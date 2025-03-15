@@ -36,10 +36,6 @@ tags:
 - Agile Project Management
 - Value Delivery
 - Product Delivery
-- Agile Product Management
-- Agile Leadership
-- Agile Frameworks
-- Technical Leadership
 categories:
 - Leadership
 - Social Technologies

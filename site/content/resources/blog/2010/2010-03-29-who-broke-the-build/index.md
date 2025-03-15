@@ -8,7 +8,7 @@ ResourceImportId: 59
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-03-29
-weight: 405
+weight: 440
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -29,14 +29,11 @@ aliasesArchive:
 tags:
 - Software Development
 - Windows
-- Modern Source Control
-- Software Developers
-- System Configuration
-- Accountability
-- Azure Pipelines
-- Continuous Delivery
 - Continuous Integration
-- Engineering Practices
+- Troubleshooting
+- Practical Techniques and Tooling
+- Software Developers
+- Modern Source Control
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - Engineering Excellence

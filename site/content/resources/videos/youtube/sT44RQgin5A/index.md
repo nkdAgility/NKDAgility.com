@@ -29,12 +29,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
-- Value Delivery
-- Ability to Innovate
-- Decision Making
-- Evidence Based Leadership
 - Evidence Based Management
+- Metrics and Learning
+- Evidence Based Leadership
+- Value Delivery
+- People and Process
+- Agile Product Management
+- Organisational Agility
+- Product Delivery
+- Agile Project Management
+- Decision Making
 resourceTypes:
 - video
 categories:

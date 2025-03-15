@@ -31,7 +31,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- People and Process
+- Professional Scrum
+- Team Collaboration
+- Agile Frameworks
 - Agile Project Management
+- Agile Transformation
+- Software Development
+- Team Performance
+- Pragmatic Thinking
+- Agile Product Management
 resourceTypes:
 - video
 categories:

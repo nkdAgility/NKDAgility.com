@@ -25,9 +25,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Value Delivery
 - Software Development
-- Product Delivery
+- Value Delivery
 resourceTypes:
 - video
 layout: video

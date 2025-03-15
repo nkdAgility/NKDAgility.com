@@ -28,6 +28,8 @@ aliasesArchive:
 - /resources/blog/installing-the-net-framework-3-5-beta-2-on-vista
 tags:
 - Windows
+- Install and Configuration
+- Troubleshooting
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

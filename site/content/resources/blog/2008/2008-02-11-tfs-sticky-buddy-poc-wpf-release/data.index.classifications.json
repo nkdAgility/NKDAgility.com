@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:34:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a proof of concept release related to Team Foundation Server, which is a tool used in application lifecycle management, but it primarily focuses on the release details rather than the broader aspects of ALM.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the release of a specific software application (TFS Sticky Buddy) and its usage, with minimal discussion on the broader aspects of Application Lifecycle Management. While it mentions ALM in the tags, the main text does not delve into the stages of the application lifecycle, governance, or best practices associated with ALM. The content lacks depth in discussing methodologies or tools that support ALM, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -103,7 +106,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T17:06:08",
+    "calculated_at": "2025-03-15T07:34:23",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -111,7 +114,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content provides a brief overview of a proof of concept for a tool related to Team Foundation Server (TFS) but lacks a detailed exploration of practical techniques or methodologies. While it mentions the tool and its usage, it does not delve into how it enhances Agile or DevOps practices, nor does it discuss best practices or case studies. The focus is primarily on the release and basic usage instructions, which does not align strongly with the category's core themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -958,7 +961,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T12:13:01",
+    "calculated_at": "2025-03-15T07:34:23",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -966,7 +969,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the release of a proof of concept application, providing basic information about its functionality and system requirements. While it mentions technical aspects such as WPF and .NET Framework, it lacks a detailed discussion on software craftsmanship, best practices, or methodologies that contribute to technical mastery. The content does not delve into principles of clean code, testing, or architectural considerations, which are essential for the category of Technical Mastery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1096,12 +1099,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:34:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content primarily discusses a WPF application related to Team Foundation Server, which operates on the Windows environment. However, the specifics of Windows installation, configuration, or troubleshooting are not the central focus.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a proof of concept application built using Windows Presentation Foundation (WPF), which directly relates to the Windows operating system. It mentions system requirements that include .NET Framework and Visual Studio, both of which are relevant to Windows development. However, the focus is primarily on the application itself rather than broader Windows topics such as installation, configuration, or troubleshooting, which limits the depth of discussion. Overall, while the content is relevant to Windows, it does not comprehensively cover the key themes outlined in the category.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1195,7 +1201,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T15:16:06",
+    "calculated_at": "2025-03-15T07:34:23",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1203,7 +1209,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the release of a proof of concept for a software application, which indicates a focus on working software. However, it lacks detailed discussions on quality assurance, user feedback, or iterative development practices that are crucial to the category. The mention of layout issues suggests an awareness of software quality, but the overall depth and alignment with the core themes of working software are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1408,7 +1414,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:00:40",
+    "calculated_at": "2025-03-15T07:34:23",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -1416,6 +1422,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses a proof of concept release for a software application related to Team Foundation Server (TFS) and does not mention Scrum principles, roles, events, or any related topics. While TFS can be used in Scrum environments, the content does not explicitly address Scrum or its frameworks, making it largely irrelevant to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

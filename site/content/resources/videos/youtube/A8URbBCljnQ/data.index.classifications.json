@@ -61,7 +61,7 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-03-07T14:27:37",
+    "calculated_at": "2025-03-15T03:11:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -69,16 +69,19 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses remote working and the challenges of distributed teams, which are relevant to asynchronous development. However, it primarily focuses on Scrum practices and synchronous interactions, with only brief mentions of asynchronous principles. The depth of discussion on asynchronous collaboration tools and methodologies is limited, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:11:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses various aspects related to the Product Owner's responsibilities, particularly in the context of Agile and Scrum methodologies, focusing on backlog management, UX integration, and team collaboration. However, it also delves into broader Agile principles and remote working strategies, making the discussion somewhat diversified.",
-    "level": "Secondary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses Agile practices and team dynamics but does not specifically focus on the Product Owner role or its responsibilities. While there are mentions of value delivery and integrating UX, these are not directly tied to the Product Owner's specific duties, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -106,43 +109,55 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:11:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile principles, particularly within the context of remote work and Scrum. It elaborates on Scrum values, team dynamics, and challenges faced by Agile teams while working remotely, showcasing practical applications of Agile frameworks.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Agile principles, particularly Scrum, and their application in remote work settings. It highlights key aspects such as communication, value delivery, and team dynamics, which align with Agile frameworks. However, while it touches on these topics, the focus is more on practical insights rather than a deep exploration of Agile frameworks themselves, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content extensively discusses Scrum principles, including roles, the importance of UX, product backlog management, and integration of user feedback into the development process, which are central to Scrum Product Development.",
+    "calculated_at": "2025-03-15T03:11:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum principles, particularly in the context of remote work and team dynamics, which aligns with the category. However, it lacks a focused discussion on specific Scrum roles, sprint processes, or product backlog management, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the speaker's experiences and insights related to remote working in Agile teams, including mentions of past presentations and workshops. It has a strong focus on sharing knowledge and enhancing community learning, aligning well with event-related content, particularly discussions about integrating Agile practices and UX in work processes and retrospective insights from previous presentations.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-15T03:11:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and remote work but does not explicitly reference any specific events, presentations, or discussions that align with the category. While it touches on relevant themes such as teamwork and communication in Agile, it lacks a direct focus on events or structured learning experiences, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:11:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly touches on aspects of UX and iterative testing, but the primary focus is more on remote working and team dynamics rather than explicitly validating product ideas through user engagement.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content touches on aspects of user feedback and integrating UX into Agile practices, which are relevant to product validation. However, the primary focus is on remote work and team dynamics rather than directly validating product ideas through user engagement. The discussion lacks depth in methodologies specifically aimed at validating product concepts, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-03-10T14:35:35",
+    "calculated_at": "2025-03-15T03:11:16",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -150,7 +165,7 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content touches on team dynamics and the importance of collaboration in remote work settings, which aligns with accountability principles. However, it lacks a focused discussion on accountability as a primary theme, and while it mentions team responsibility, it does not delve deeply into strategies for fostering a culture of accountability or the distinction between accountability and blame.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -172,39 +187,51 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:11:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses UX in product development and emphasizes the importance of understanding customer needs, which is relevant to customer satisfaction, but the primary focus is on remote working and Agile practices without a strong emphasis on customer satisfaction metrics or strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses team dynamics, communication, and UX integration, which are indirectly related to customer satisfaction but do not explicitly focus on measuring or enhancing customer happiness. While there are mentions of user experience and feedback loops, the primary focus is on Agile practices and team collaboration rather than customer satisfaction as defined in the category.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:11:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects related to Scrum and Agile methodologies, including team dynamics, remote work, and UX integration, which are associated with the software development process. However, it lacks a focused discussion on the entire lifecycle of applications or explicit reference to ALM methodologies, tools, or best practices, making ALM a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and remote work dynamics, with a focus on team collaboration and UX integration. While it touches on aspects of software development, it does not explicitly address the full application lifecycle or the management practices associated with it. The discussion lacks depth in terms of lifecycle stages, governance, or tools specific to Application Lifecycle Management, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:11:26",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses remote working practices, focusing on challenges and strategies to enhance collaboration within Agile teams in a remote setting.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses remote working, focusing on communication, tool adaptation, and team dynamics within an Agile context. It provides practical insights and strategies relevant to remote Agile teams, aligning well with the category's core themes. The depth of discussion is substantial, covering various aspects of remote work and Agile practices, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 60,
-    "non_ai_confidence": 20,
-    "final_score": 56.0,
-    "reasoning": "The content discusses Agile methodologies and includes references to Lean UX concepts, emphasizing the importance of continuous improvement, efficiency, and collaboration within teams. However, the primary focus is on Agile practices, rather than strictly on Lean Principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:11:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and team dynamics but does not explicitly mention Lean Principles or focus on waste reduction and value maximisation. While there are references to value delivery and process improvement, these concepts are framed within an Agile context rather than Lean. The discussion lacks depth in Lean-specific tools or methodologies, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -217,12 +244,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:11:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies and remote work, incorporating elements of feedback loops and team dynamics which can relate to evidence-based practices, but the focus is primarily on operational challenges in remote work rather than explicitly on evidence-based leadership principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and team dynamics but lacks a strong focus on evidence-based leadership principles. While it mentions feedback loops and metrics, it does not delve into empirical evidence or data-driven decision-making as a primary theme. The discussion is more centred on personal experiences and insights rather than a structured approach to evidence-based leadership.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -235,12 +265,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of collaboration tools like Microsoft Teams in the context of remote work and Agile teams, indicating that collaboration tools are important in this setup. However, the focus is more on remote work challenges and Agile principles rather than a deep analysis of specific collaboration tools.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:11:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of communication and adapting tools for remote work, which aligns with the themes of collaboration tools. However, while it mentions specific tools like Microsoft Teams, it does not provide an in-depth analysis of various collaboration tools or their features. The focus is more on general insights about team dynamics and remote work rather than a detailed exploration of collaboration tools themselves.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -265,12 +298,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-15T03:11:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 60.0,
-    "reasoning": "The content discusses processes and principles related to software delivery, including references to DevOps pipelines and deployment concerns. However, it is primarily focused on Agile practices and team dynamics rather than on Continuous Delivery as a central theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices and remote work dynamics, with only a brief mention of concepts like 'zero build time' and 'feedback loops' that could relate to Continuous Delivery. However, it lacks a focused discussion on the principles and practices of Continuous Delivery itself, making it more of a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -286,12 +322,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 60,
-    "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "The content discusses the importance of engineering excellence, continuous integration, and the role of UX in Agile development, making these topics a significant but secondary theme within a broader focus on remote work and collaboration in Agile teams.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:11:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 40.0,
+    "reasoning": "The content discusses Agile practices and team dynamics, which are relevant to engineering practices, but it primarily focuses on remote work and team collaboration rather than the core principles of clean code, TDD, or CI/CD. While there are mentions of value delivery and team accountability, the depth of discussion on specific engineering practices is limited.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -322,20 +361,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Agile methodologies, Scrum practices, and DevOps principles, which are all central to software development discussions.",
+    "calculated_at": "2025-03-15T03:11:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile practices, Scrum roles, and the integration of UX in software development, which aligns well with the Software Development category. However, while it touches on relevant topics, the focus on remote work and team dynamics somewhat dilutes the primary emphasis on software engineering methodologies. The depth of discussion on specific software development practices is moderate, leading to a strong but not overwhelming confidence score.",
     "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:11:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses elements of team dynamics, remote collaboration, and challenges within Scrum and Agile frameworks, which can relate to coaching. However, it primarily focuses on practical challenges and technological solutions in a remote working context, making coaching a secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses team dynamics and the importance of communication and collaboration, which are relevant to coaching. However, it primarily focuses on remote work and Agile practices without delving deeply into coaching techniques or the role of a coach. The mention of creating a safe environment and observing team interactions aligns with coaching principles, but the overall emphasis is more on operational insights rather than coaching as a primary focus.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -352,39 +397,48 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T12:23:15",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:11:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Agile principles and practices in the context of remote work, team dynamics, and continuous value delivery, key elements of an Agile strategy. However, the primary focus is on practical aspects and tools rather than a strategic overview.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile principles, particularly in the context of remote work and team dynamics, which aligns with the Agile Strategy category. It mentions the importance of value delivery and adapting tools, which are relevant to strategic planning. However, the focus is more on practical applications and team interactions rather than a comprehensive strategic framework, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:12:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses strategies for remote teamwork, emphasizing communication, team dynamics, collaboration, and workflows within Agile frameworks. It addresses the challenges and methodologies relevant to enhancing team performance, especially in a remote working context.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses various aspects of team dynamics, communication, and collaboration within Agile teams, particularly in the context of remote work. It highlights the importance of maintaining communication, adapting tools, and fostering a safe environment for team interactions, which aligns well with the core themes of the 'Team Performance' category. The depth of discussion on team dynamics and the use of gamification to enhance collaboration further supports this classification. However, while the content is relevant, it also touches on broader topics like UX integration, which slightly dilutes the primary focus on team performance.",
     "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Lean UX and how UX integrates with Scrum teams, which are relevant to Lean principles. However, the focus is primarily on Agile and Scrum methodologies with some mentions of Lean, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:11:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions concepts related to value delivery and process improvement, which are aligned with Lean principles. However, the primary focus is on Agile practices, remote work, and team dynamics, with only a superficial connection to Lean methodologies. The discussion lacks depth in Lean-specific tools or techniques, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-18T12:23:16",
+    "calculated_at": "2025-03-15T03:11:16",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content mainly discusses remote work practices, team dynamics, and UX aspects in Agile environments rather than explicitly focusing on long-term strategic goals or their alignment with Agile principles.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -415,21 +469,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content largely focuses on remote work, team dynamics, and UX integration in Agile environments, there are multiple references to adapting processes and the importance of team collaboration amid change, which resonates with change management themes. However, the primary focus is not on change management strategies or practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:12:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile practices and team dynamics in the context of remote work, but it does not explicitly focus on change management principles or strategies. While it touches on adaptability and communication, it lacks a thorough exploration of how to manage change effectively within organisations, which is central to the Change Management category.",
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T03:12:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "The content discusses remote work, Scrum, DevOps, and UX integration, which are relevant to digital transformation but is primarily focused on agile methodologies and team dynamics rather than the broader strategic application of digital technologies for business transformation.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses aspects of remote work and Agile practices, which are relevant to digital transformation, but it does not explicitly focus on the strategic adoption of digital technologies for business transformation. While there are mentions of adapting tools and enhancing team dynamics, the primary focus is on team collaboration and Agile methodologies rather than a comprehensive exploration of digital transformation strategies or case studies.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -460,21 +520,27 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes discussions on DevOps pipeline, reducing build times, and feedback processes which are related to release management, but the primary focus is on remote work and teamwork within an Agile context.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses remote work and Agile practices, with a focus on team dynamics and UX integration. While it touches on concepts like feedback loops and value delivery, which are relevant to release management, it lacks a direct focus on release processes, version control, or scheduling. The discussion is more about team collaboration and Agile methodologies rather than the specific strategies and practices of release management.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 75,
-    "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content discusses Azure DevOps in the context of DevOps practices, CI/CD, and the evolution of Azure DevOps processes in an organization. However, the primary theme revolves around Agile methodologies rather than Azure DevOps itself.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-15T03:12:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices and remote work dynamics without a specific focus on Azure DevOps. While it touches on tools like Microsoft Teams, it does not delve into Azure DevOps services or methodologies. The discussion lacks direct references to Azure DevOps functionalities, which diminishes its relevance to the category.",
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -505,20 +571,23 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T12:23:16",
+    "calculated_at": "2025-03-15T03:11:16",
     "ai_confidence": 40,
     "non_ai_confidence": 20,
     "final_score": 38.0,
     "reasoning": "The content primarily discusses remote work and Agile practices, with some references to complexities in product development but lacks a strong focus on the principles of code quality, complexity theory, or software architecture.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses themes of teamwork, communication, and collaboration within Agile teams, touching on the importance of values such as focus, transparency, and trust, which are reflective of organisational culture. However, the primary focus is more on remote working practices and technical aspects rather than explicitly on the culture itself.",
+    "calculated_at": "2025-03-15T03:12:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses team dynamics and collaboration, which are relevant to organisational culture, particularly in the context of Agile practices. However, the primary focus is on remote work and technical aspects of Agile methodologies rather than a deep exploration of cultural elements. While there are mentions of communication and team interactions, the content does not extensively cover how these aspects influence organisational culture or agility, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -541,57 +610,75 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses several aspects related to Scrum, including the role of the Scrum Master in remote working, team communication, refining the product backlog, and integrating UX into Scrum processes. While it covers broader Agile themes, the Scrum Master role is a significant focus, suggesting a secondary but important theme of the content.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-15T03:11:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile practices and team dynamics, which are relevant to the role of a Scrum Master, but it does not explicitly focus on the responsibilities or techniques specific to Scrum Masters. While it touches on communication, team collaboration, and integrating UX into Agile, these topics are more general and do not delve deeply into the Scrum Master role or its specific practices.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various aspects of Agile practices in a mostly team-level context, such as remote working and Scrum roles. However, it briefly touches upon enterprise-level improvements and transformation in Agile processes, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses team-level Agile practices, such as remote work dynamics, team communication, and UX integration within Scrum teams. While it touches on collaboration and value delivery, it lacks a focus on scaling Agile methodologies across an organisation or addressing enterprise-level strategies. The discussion is more about individual team experiences rather than large-scale Agile frameworks or transformations.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:12:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 68.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses Agile practices, team collaboration, and UX integration, which are relevant to value delivery, but it also covers extensive details about remote work and personal experiences that detract from a central focus on value delivery.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of value delivery in the context of remote work and Agile practices, explicitly mentioning the need to keep delivering value despite challenges. It aligns well with key topics such as the role of team dynamics and feedback loops in enhancing value delivery. However, while it touches on these themes, the depth of discussion on specific methodologies or strategies for maximising customer value is somewhat limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses themes relevant to technical leadership, such as remote work dynamics in Agile environments, the importance of team collaboration, the necessity of continuous improvement, and integrating UX within Agile processes. However, it mainly revolves around practical experiences and anecdotes rather than a focused analysis of technical leadership principles, making it a secondary theme.",
+    "calculated_at": "2025-03-15T03:12:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses aspects of team dynamics and collaboration in an agile context, which aligns with technical leadership principles. However, it primarily focuses on remote work and UX integration rather than providing in-depth insights into technical leadership strategies or practices. The mention of Scrum and team dynamics is relevant but not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes a discussion about committing changes to repositories and the concept of a DevOps pipeline, which are related to source control practices but is primarily focused on Agile methodologies and team collaboration.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses remote work and Agile practices, with only a brief mention of software development concepts like 'zero build time' and 'feedback loops'. While it touches on teamwork and collaboration, it does not delve into specific version control practices, methodologies, or tools, which are central to the 'Modern Source Control' category. The focus remains on team dynamics and UX integration rather than on source control strategies or best practices.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making processes related to remote work and Agile practices, highlighting the importance of collaboration, team dynamics, and adaptability. It provides some insights into decision-making strategies but primarily focuses on Scrum roles, development processes, and team interactions, making decision theory a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:12:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Agile practices, remote work, and team dynamics without a direct focus on decision-making processes or the principles of Decision Theory. While there are elements that touch on decision-making, such as the importance of communication and feedback loops, these are not explored in depth or framed within the context of uncertainty or decision-making frameworks. The overall emphasis is on practical Agile methodologies rather than the theoretical aspects of decision-making.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -604,12 +691,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various aspects of engineering practices and methodologies, touching on topics such as the DevOps pipeline and the importance of feedback in software delivery. However, the primary focus is on remote work and team dynamics rather than a deep exploration of technical excellence.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T03:12:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content touches on Agile practices and team dynamics, but it primarily focuses on remote work and communication rather than specific engineering methodologies or technical excellence. While there are mentions of concepts like value delivery and integrating UX into Agile, these are not deeply explored in the context of technical practices. The discussion lacks a strong emphasis on core technical excellence topics such as TDD, CI/CD, or modular architecture.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -622,12 +712,15 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T12:23:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:12:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices in a remote working context, touching on team interactions and some aspects of scaling Agile principles like team collaboration and Agile practices in larger organizations. However, it primarily focuses on individual Scrum practices, making the discussion about Scaled Agile a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses Agile practices in the context of remote work and team dynamics, with a focus on Scrum. While it touches on collaboration and value delivery, it lacks explicit references to scaling Agile across multiple teams or enterprise-level strategies. The discussion is more centred on individual team practices rather than the broader frameworks or challenges associated with Scaled Agile methodologies.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -901,12 +994,12 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T12:23:18",
+    "calculated_at": "2025-03-15T03:11:16",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
     "final_score": 19.0,
     "reasoning": "The content discusses agile principles and remote work challenges but does not primarily focus on Scaling Scrum practices, frameworks, or coordination among multiple teams within large organizations.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -1036,12 +1129,12 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T12:23:18",
+    "calculated_at": "2025-03-15T03:11:16",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content focuses primarily on team-level agile practices, remote work logistics, and individual team dynamics, with only brief mentions of broader agile principles. There is limited discussion on scaling agility across multiple teams or organizational levels.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1252,12 +1345,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T12:23:19",
+    "calculated_at": "2025-03-15T03:11:16",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses teamwork and collaboration within the context of remote work and Scrum, but it does not primarily address the principles and norms of working agreements specifically. It mentions related concepts, but the focus is more broad and includes discussions on project management, UX, and Agile methodologies without a clear emphasis on working agreements.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",

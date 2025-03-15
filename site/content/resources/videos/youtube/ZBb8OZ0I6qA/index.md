@@ -2,7 +2,7 @@
 title: 'Rethinking Backlog Management: Why a Flat Structure Boosts Agility and Value Delivery'
 description: Rethink your backlog management! Discover why a flat structure boosts agility and value delivery in your Scrum and Kanban practices.
 date: 2024-03-26T10:56:26Z
-weight: 770
+weight: 670
 ResourceId: ZBb8OZ0I6qA
 ResourceType: videos
 ResourceImport: true
@@ -26,6 +26,15 @@ duration: 1156
 isShort: false
 tags:
 - Agile Product Management
+- Value Delivery
+- Agile Project Management
+- Agile Planning
+- Operational Practices
+- Pragmatic Thinking
+- Product Backlog
+- Software Development
+- Practical Techniques and Tooling
+- Azure DevOps
 sitemap:
   filename: sitemap.xml
   priority: 0.6

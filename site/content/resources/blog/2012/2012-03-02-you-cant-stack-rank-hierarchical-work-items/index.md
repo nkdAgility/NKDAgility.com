@@ -8,7 +8,7 @@ ResourceImportId: 4773
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2012-03-02
-weight: 495
+weight: 575
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,7 @@ aliasesArchive:
 - /blog/you-can't-stack-rank-hierarchical-work-items-
 - /resources/blog/you-cant-stack-rank-hierarchical-work-items
 tags:
-- Product Backlog
 - Software Development
-- Agile Frameworks
-- Agile Project Management
-- Azure Boards
-- Azure DevOps
-- Pragmatic Thinking
-- Scrum Product Development
-- Practical Techniques and Tooling
-- Software Developers
 categories:
 - Social Technologies
 - Scrum

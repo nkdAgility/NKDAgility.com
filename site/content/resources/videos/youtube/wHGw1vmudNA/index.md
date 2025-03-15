@@ -32,9 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Leadership
+- Agile Philosophy
+- Organisational Agility
+- Agile Values and Principles
+- Agile Transformation
+- Agile Project Management
+- Agile Strategy
 - Technical Leadership
+- Team Motivation
 - People and Process
-- Organisational Culture
 resourceTypes:
 - video
 categories:

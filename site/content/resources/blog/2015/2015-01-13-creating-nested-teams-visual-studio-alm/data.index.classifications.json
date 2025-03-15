@@ -1,12 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses team structures and configurations within Agile frameworks, particularly in relation to managing product backlogs and team hierarchies, but it primarily focuses on technical implementation rather than broader Agile product management principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses creating nested teams within Visual Studio ALM, which touches on team structures relevant to Agile methodologies. However, it lacks a direct focus on Agile Product Management principles such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. While it mentions team configurations and management, it does not delve into how these practices maximise product value or align with customer needs, which are core themes of Agile Product Management.",
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -106,12 +109,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the organisational structure of teams within a company and how it relates to software delivery processes, which aligns with sociotechnical systems. However, the primary focus is on technical configurations in Visual Studio ALM rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring nested teams within Visual Studio ALM and TFS, with limited discussion on the sociotechnical interplay. While it mentions organisational structures and team configurations, it lacks a deeper exploration of how these configurations impact team dynamics, communication, or organisational culture. The discussion is more about technical implementation than the broader sociotechnical implications.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -169,21 +175,27 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses team structures and configurations within Visual Studio ALM, which touches on team dynamics and collaboration, but primarily focuses on technical implementation rather than the human factors or processes involved.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring nested teams in Visual Studio ALM, with limited discussion on team dynamics or human factors. While it mentions team structures and roles, it lacks a deeper exploration of how these configurations impact collaboration, communication, or leadership within teams. The emphasis is on the technical setup rather than the interplay between people and processes.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating nested teams and managing team structures within an organisation, which relates to organisational agility. However, it primarily focuses on technical implementation rather than broader enterprise agility principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating nested teams within Visual Studio ALM, which is more aligned with team-level practices rather than organisational agility. While it briefly touches on organisational structures and team configurations, it lacks a broader discussion on enterprise agility principles such as culture, leadership, or organisational-wide strategies. Therefore, it does not meet the criteria for a strong alignment with the category.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -217,12 +229,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the configuration of nested teams in Visual Studio ALM, which relates to engineering practices and methodologies. However, it primarily focuses on team structure and management rather than core technical excellence principles like TDD, CI/CD, or modular architecture.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the technical aspects of creating nested teams in Visual Studio ALM, which relates to engineering practices. However, it lacks a strong focus on broader principles of technical excellence such as TDD, CI/CD, or modular architecture. While it provides detailed instructions and configurations, it does not deeply engage with the core themes of technical excellence, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -244,12 +259,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team structures and configurations within Visual Studio ALM, which relates to product delivery practices, but it primarily focuses on technical implementation rather than broader methodologies or strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses creating nested teams within Visual Studio ALM, which touches on team structure and project management. However, it lacks a direct focus on broader product delivery methodologies, such as Agile practices or deployment strategies. While it mentions aspects of team organisation relevant to product delivery, it does not delve deeply into the end-to-end process of delivering software products or the integration of planning, development, testing, and deployment phases.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -328,21 +346,27 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses team structures and configurations within an Agile context, but primarily focuses on technical implementation rather than the broader principles and strategies of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the technical aspects of configuring nested teams within Visual Studio ALM and TFS, focusing on team structures and project management tools rather than the Agile Product Operating Model itself. While it touches on team dynamics and project organisation, it lacks a direct discussion on Agile principles, value delivery, or product-centric development, which are core to the Agile Product Operating Model. The content is more aligned with traditional project management practices and does not provide substantial insights into Agile methodologies or their application in product development.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating nested teams and managing team structures within an organisation, which relates to organisational agility. However, it primarily focuses on technical implementation rather than broader strategies or cultural shifts associated with agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses creating nested teams within Visual Studio ALM, which touches on organisational structure and team management. However, it lacks a direct focus on the principles of agility, leadership roles, or cultural shifts necessary for organisational agility. While it mentions flexibility in managing work, it does not delve into broader strategies or frameworks that enhance organisational adaptability.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -385,12 +409,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical aspects of creating nested teams in Visual Studio ALM, touching on software configuration and management practices, but primarily focuses on project management and team structure rather than core software craftsmanship principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring nested teams in Visual Studio ALM, which aligns with software craftsmanship and engineering practices. However, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to high-quality software development. While it provides detailed instructions and insights into team configuration, it does not delve deeply into the underlying principles of software architecture or quality improvement techniques.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -448,12 +475,15 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses team structures and configurations in the context of managing multiple products and initiatives, which relates to portfolio management. However, it primarily focuses on operational aspects of team management rather than strategic alignment or prioritisation frameworks.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses creating nested teams within Visual Studio ALM, which touches on team structures and project management. However, it primarily focuses on operational aspects of team management rather than strategic alignment, prioritisation, or value optimisation, which are core to portfolio management. While there are mentions of portfolio-level kanban boards and managing work at a higher level, the overall emphasis is on team configuration and management rather than on the broader strategic objectives of portfolio management.",
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -466,12 +496,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the configuration of teams and project structures within Visual Studio ALM, which relates to Agile methodologies, but it primarily focuses on technical implementation rather than core Agile Planning principles.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses creating nested teams within Visual Studio ALM, which touches on team structures and configurations relevant to Agile methodologies. However, it primarily focuses on technical implementation rather than the principles and practices of Agile Planning itself. While there are mentions of team dynamics and project management, the depth of discussion on Agile Planning concepts such as iterative planning, user stories, or feedback loops is minimal.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -493,11 +526,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of nested teams and the configuration of team projects in Visual Studio ALM, which relates to workflow management and process optimisation in an Agile context. However, it primarily focuses on specific implementation details rather than broader operational practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses creating nested teams in Visual Studio ALM, which relates to workflow management and team structure within Agile frameworks. It provides practical steps for configuring teams and area paths, which aligns with operational practices. However, the focus is more on specific implementation details rather than broader operational efficiency strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scrum Team": {
@@ -538,12 +574,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the configuration of teams and project management within Visual Studio ALM, touching on concepts related to Agile practices such as Kanban and team structures, but it primarily focuses on technical implementation rather than a comprehensive discussion on Agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses creating nested teams within Visual Studio ALM, which touches on team structures relevant to Agile practices. However, it lacks explicit references to Agile principles, methodologies, or transformation strategies. While it mentions Kanban in a broader context, it does not delve into Agile transformation as a primary focus, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -604,12 +643,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the configuration of teams and project management within Visual Studio ALM, touching on concepts relevant to Agile methodologies, such as team structures and backlogs, but it primarily focuses on technical implementation rather than core agile principles.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the creation of nested teams within Visual Studio ALM, which relates to agile project management practices, particularly in the context of team organisation and backlog management. However, it lacks explicit references to agile principles or frameworks like Scrum or Kanban, and the discussion is more focused on technical implementation rather than broader agile methodologies. While it touches on concepts relevant to agile, such as team structure and flexibility, it does not delve deeply into the core themes of agile project management.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -670,12 +712,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the configuration of teams within Visual Studio ALM, which relates to collaboration in Agile environments, but it primarily focuses on technical setup rather than broader collaboration tool features or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses creating nested teams in Visual Studio ALM, which is related to team organisation and management within a collaborative environment. However, it lacks a direct focus on specific collaboration tools or their features that enhance communication and coordination. While it touches on aspects of team dynamics and structure, it does not provide a comprehensive overview or best practices for using collaboration tools in Agile environments, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -715,12 +760,15 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of nested teams and managing multiple teams within an organisation, which aligns with the coordination and collaboration aspect of scaling Scrum, but it does not primarily focus on Scrum principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses creating nested teams within a project management tool, which touches on team structure and organisation. However, it lacks explicit references to Scrum principles, frameworks for scaling Scrum, or detailed discussions on maintaining Scrum roles and events at scale. The focus is more on technical implementation rather than the broader themes of scaling Scrum in large organisations.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -742,12 +790,15 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating nested teams and managing team structures within an organisation, which relates to scaling agile practices. However, it primarily focuses on team-level configurations and does not extensively cover broader organisational strategies or frameworks for scaling agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on creating nested teams within Visual Studio ALM, which is more about team-level configurations rather than scaling agile practices across an organisation. While it touches on organisational structures and team hierarchies, it lacks a comprehensive discussion on frameworks for scaling agility, leadership roles, or cross-functional collaboration. The depth of discussion on nested teams is significant, but it does not align closely with the core themes of scaling agility as defined in the category.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -835,12 +886,15 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:07:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of nested teams and their management within a project structure, which relates to coordination among multiple teams. However, it primarily focuses on specific configurations in Visual Studio ALM rather than broader scaled Agile frameworks or methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses creating nested teams within Visual Studio ALM, which touches on team structures and configurations relevant to Agile practices. However, it lacks a direct focus on scaling Agile methodologies across multiple teams or enterprise-level strategies. While it mentions team hierarchy and collaboration, it does not delve into frameworks like SAFe or LeSS, nor does it address broader enterprise-level Agile transformation or challenges in scaling Agile. Therefore, the content is only tangentially related to the Scaled Agile category.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -880,21 +934,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the configuration of teams in Visual Studio ALM, which relates to the management of software development processes. However, it primarily focuses on team structures rather than the delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the technical aspects of creating nested teams in Visual Studio ALM, which is more focused on configuration and setup rather than the delivery of functional software that meets user needs. While it touches on team structures and project management, it lacks a direct emphasis on working software characteristics, quality assurance, or customer feedback mechanisms.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the configuration of teams and area paths in TFS, which relates to Agile planning, but it primarily focuses on the technical setup rather than broader Agile planning methodologies or tools.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses creating nested teams in Visual Studio ALM, which touches on team structure and configuration within Agile frameworks. However, it lacks a direct focus on Agile Planning Tools as defined in the category. While it mentions aspects of team management and configuration that could relate to Agile planning, it does not delve into specific tools or methodologies that enhance planning and execution in Agile. The discussion is more about team hierarchy and setup rather than the planning tools themselves, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1024,12 +1084,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of nested teams and their management within a project, which relates to team structure and collaboration. However, it primarily focuses on technical implementation rather than broader themes of team dynamics or communication.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses creating nested teams within Visual Studio ALM, which touches on team structures and configurations. However, it primarily focuses on technical implementation rather than enhancing team dynamics, communication, or collaboration. While there are mentions of team roles and structures, the depth of discussion on collaboration techniques or cultural aspects is limited, leading to a low confidence score in the context of Team Collaboration.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1144,12 +1207,15 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating nested teams and managing team structures within an organisation, which relates to scaling Agile practices. However, it primarily focuses on technical implementation rather than broader Agile transformation strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses creating nested teams within an organisation and touches on team structures and configurations in Visual Studio ALM. While it mentions organisational goals and team hierarchies, it primarily focuses on team-level practices and configurations rather than large-scale Agile frameworks or enterprise-level strategies. The discussion lacks explicit references to scaling Agile methodologies or frameworks like SAFe or LeSS, which are central to the category of Large Scale Agility.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -1291,12 +1357,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the configuration of teams within Visual Studio ALM, which relates to Agile practices and team structures, but it primarily focuses on technical implementation rather than a comprehensive exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the creation of nested teams within Visual Studio ALM, touching on concepts related to team structures and project management. However, it primarily focuses on technical implementation details rather than exploring Agile frameworks in depth. While it mentions Kanban in the context of team management, it lacks a comprehensive discussion of Agile principles, values, or a comparative analysis of different Agile frameworks. Therefore, it does not align closely with the core themes of the Agile Frameworks category.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -1354,12 +1423,15 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T09:08:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:08:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of nested teams and managing work in a structured way, which aligns with Kanban principles, but it primarily focuses on Visual Studio ALM and TFS configurations rather than explicitly scaling Kanban practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses creating nested teams and managing work within a hierarchical structure, which aligns with some principles of Kanban, such as visualising work and managing dependencies. However, it primarily focuses on the technical aspects of configuring teams in Visual Studio ALM rather than explicitly addressing the scaling of Kanban practices or providing in-depth discussions on Kanban principles in large organisations. The mention of Kanban is minimal and does not serve as a primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1420,7 +1492,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:35:07",
+    "calculated_at": "2025-03-15T04:07:46",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1428,6 +1500,6 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses creating nested teams within Visual Studio ALM and TFS, focusing on team structures and configurations rather than Scrum principles or practices. While it touches on team dynamics and project management, it lacks explicit references to Scrum roles, events, or artifacts, leading to a low confidence score in alignment with the Scrum category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

@@ -2,7 +2,7 @@
 title: Unlocking the Power of Immersive Learning in Agile
 description: 'Discover 5 reasons why immersive learning transforms Scrum training for students! Join us for insights that inspire and elevate your Agile journey. #Scrum #Agile'
 date: 2024-02-03T07:00:12Z
-weight: 775
+weight: 720
 ResourceId: OlzXHZihQzI
 ResourceType: videos
 ResourceImport: true
@@ -30,11 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
-- Discovery and Learning
 - Continuous Learning
-- Resilience and Change
-- People and Process
+- Agile Transformation
+- Discovery and Learning
+- Agile Project Management
+- Agile Philosophy
+- Pragmatic Thinking
+- Organisational Agility
+- Software Development
+- Agile Values and Principles
+- Agile Frameworks
 resourceTypes:
 - video
 categories:

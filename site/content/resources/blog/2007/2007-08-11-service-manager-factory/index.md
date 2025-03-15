@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/service-manager-factory
 - /service-manager-factory
 - /resources/blog/service-manager-factory
-tags:
-- Install and Configuration
+tags: []
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

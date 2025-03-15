@@ -17,7 +17,7 @@ recommendedContent:
 - metrics-reports
 - metrics-reports.html
 date: 2024-09-17
-weight: 425
+weight: 370
 creator: Martin Hinshelwood
 card:
   button:
@@ -30,15 +30,15 @@ categories:
 - DevOps
 tags:
 - Metrics and Learning
+- Operational Practices
 - Transparency
 - Flow Efficiency
 - Product Delivery
 - Value Delivery
 - Team Performance
+- Evidence Based Management
 - Evidence Based Leadership
 - Throughput
-- Agile Product Operating Model
-- Cycle Time
 
 ---
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.

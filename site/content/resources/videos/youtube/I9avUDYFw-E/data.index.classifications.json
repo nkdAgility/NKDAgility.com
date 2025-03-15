@@ -55,11 +55,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T12:04:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:23:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence, learning, and creating supportive environments, which aligns with coaching principles, but it primarily focuses on competence and hiring practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of competence and continuous learning, which aligns with coaching principles. It mentions creating mentorship programs and fostering environments for growth, but it lacks direct references to coaching techniques or the role of a coach. The depth of discussion on creating supportive environments and encouraging self-care contributes positively, but the overall focus is more on competence than on coaching itself.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
@@ -151,12 +154,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T12:04:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:23:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and creating an environment that encourages learning and growth, which aligns with self-organisation principles. However, it primarily focuses on competence rather than self-organisation as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence and creating environments that foster learning and growth, which are related to self-organisation. However, it primarily focuses on competence rather than explicitly addressing self-organisation principles or practices. The mention of self-care and continuous learning aligns somewhat with self-organisation, but the overall emphasis is on competence and well-being rather than on team autonomy and ownership.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -169,12 +175,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:04:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and a culture of learning, which aligns with Lean principles of continuous improvement and delivering value. However, it does not explicitly focus on Lean Product Development practices or techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:23:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of competence and continuous learning in organisations, which aligns with some Lean principles like fostering a culture of continuous improvement. However, it does not explicitly mention Lean Product Development or its specific techniques, nor does it focus on waste reduction or customer feedback in product iterations, which are core to the category.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -262,7 +271,7 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-03-11T00:18:19",
+    "calculated_at": "2025-03-14T17:23:32",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -270,7 +279,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the importance of competence and creating a supportive environment for learning and growth, which are indirectly related to innovation. However, it lacks explicit references to innovation frameworks, Evidence-Based Management, or specific strategies for fostering a culture of innovation. The focus is more on general competence rather than on the measurement and improvement of innovation capabilities.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -355,7 +364,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T13:30:02",
+    "calculated_at": "2025-03-14T17:23:32",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -363,7 +372,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of competence and creating a supportive environment for learning and growth, which indirectly relates to engineering excellence. However, it lacks direct mentions of software craftsmanship, coding standards, or specific engineering practices. The focus is more on personal and organisational development rather than technical excellence in software development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -385,7 +394,7 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-11T11:13:28",
+    "calculated_at": "2025-03-14T17:23:32",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -393,7 +402,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the importance of competence and creating a supportive environment for learning, which aligns with Agile principles of self-organising teams and continuous improvement. However, it does not explicitly mention Agile values or principles, nor does it delve deeply into the Agile Manifesto or its core themes, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -424,21 +433,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T12:04:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:23:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and creating a supportive environment for learning and growth, which aligns with fostering a culture of adaptability and resilience. However, it does not explicitly focus on change management strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of competence and continuous learning in organisations, which aligns with the broader themes of change management, particularly in fostering a culture of adaptability and resilience. However, it lacks direct mentions of change management principles and does not delve deeply into strategies for managing change or engaging stakeholders, which are critical aspects of the category.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T12:04:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:21:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and creating a supportive environment for learning, which aligns with mentoring principles, but it primarily focuses on competence rather than direct mentoring practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of competence and continuous learning within organizations, which aligns with mentoring principles. It briefly mentions creating a mentorship program, indicating some focus on mentoring. However, the primary emphasis is on competence and organizational success rather than the mentoring process itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -652,16 +667,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T12:04:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and creating a supportive environment for individuals, which relates to team motivation, but it primarily focuses on individual competence rather than team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:07:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of competence in fostering a positive work environment, which aligns with team motivation principles. It highlights strategies for creating a culture of continuous learning, supporting experimentation, and prioritising well-being, all of which are crucial for enhancing team engagement and performance. However, while it touches on team dynamics, the primary focus is on competence rather than directly on team motivation, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-10T17:51:00",
+    "calculated_at": "2025-03-14T17:23:32",
     "ai_confidence": 42.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -669,7 +687,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of competence and creating a supportive environment for individuals, which indirectly relates to team performance. However, it lacks explicit references to Agile methodologies, team dynamics, or specific practices that enhance collaboration and productivity within agile teams. The focus is more on individual competence rather than team performance as a collective unit.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
@@ -736,7 +754,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-10T11:37:22",
+    "calculated_at": "2025-03-14T17:23:32",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -744,7 +762,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of competence and creating a supportive environment for learning and growth within organisations. While it touches on themes relevant to organisational change, such as fostering a culture of learning and the impact of employee happiness on product quality, it lacks explicit references to structured change methodologies or frameworks. The focus is more on individual competence rather than broader organisational strategies, which diminishes its alignment with the core themes of organisational change.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -829,7 +847,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T13:07:58",
+    "calculated_at": "2025-03-14T17:23:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -837,7 +855,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of competence and creating a supportive environment for learning, which aligns with the principles of fostering a culture of continuous improvement. However, it lacks direct mentions of technical leadership, agile methodologies, or specific strategies for mentoring and coaching development teams, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -895,7 +913,7 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-03-11T09:49:55",
+    "calculated_at": "2025-03-14T17:23:32",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
@@ -903,7 +921,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the importance of competence and creating a supportive environment for learning and growth, which indirectly relates to psychological safety. However, it does not explicitly mention psychological safety or delve deeply into its specific themes, such as open communication or risk-taking. The focus is more on competence and happiness rather than the core aspects of psychological safety.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -961,12 +979,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T12:04:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:23:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and creating a supportive environment for learning, which aligns with Agile principles of valuing individuals and fostering collaboration. However, it does not explicitly address Agile philosophy or its foundational principles, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence and continuous learning in organisations, which aligns with Agile principles of continuous improvement and adaptability. However, it does not explicitly mention Agile philosophy or its core tenets, focusing instead on competence as a standalone concept. The discussion lacks depth in relation to Agile values and does not reference the Agile Manifesto or its principles.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1072,11 +1093,14 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:04:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:47:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of competence and a culture of learning, which are relevant to fostering adaptability and resilience within organisations, but it primarily focuses on individual competence rather than organisational resilience or change management.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of competence and continuous learning in organisations, which indirectly relates to resilience and adaptability. However, it lacks direct mentions of resilience frameworks or change management practices. The focus is primarily on competence rather than on strategies for organisational resilience or change, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Install and Configuration": {
@@ -1237,12 +1261,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:04:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:23:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and a culture of learning, which are relevant to fostering business agility, but it primarily focuses on individual and organisational competence rather than directly addressing business agility principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of competence and continuous learning in organisations, which aligns with the principles of business agility. However, it does not explicitly mention business agility or its key topics, focusing instead on competence and employee well-being. While there are elements that support adaptability and innovation, the primary focus is not on business agility itself.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1285,12 +1312,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T12:04:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:23:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 7,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections on the importance of competence and happiness in building great products, but it primarily focuses on organisational practices rather than individual experiences or anecdotes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence in organizations and touches on personal insights about employee happiness and engagement. However, it lacks direct personal anecdotes or reflections that would strengthen its alignment with the 'Personal' category. While it mentions the need for continuous learning and self-care, these points are presented more as general advice rather than personal experiences or insights. The focus remains on organizational strategies rather than individual reflections, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1306,11 +1336,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:04:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:23:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and organisational culture, which are relevant to sociotechnical systems, but it primarily focuses on individual competence rather than the broader interplay between social and technical systems.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of competence within organisations and how it relates to employee engagement and productivity, which aligns with sociotechnical systems. However, it primarily focuses on individual and team competence rather than explicitly addressing the interplay between social and technical systems. While it touches on organisational culture and employee well-being, it lacks a deeper exploration of how these elements collectively influence software delivery and team effectiveness.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -1372,12 +1405,15 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T12:04:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:23:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of competence and creating a supportive environment for learning and growth, which aligns with human-centric approaches and fostering adaptive organisational cultures, but it does not primarily focus on BetaCodex principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of competence and continuous learning in organisations, which aligns with some principles of Beta Codex, such as fostering adaptive cultures and human-centric approaches. However, it does not explicitly mention Beta Codex or decentralisation, and the focus remains primarily on competence rather than the broader themes of organisational design and agility central to Beta Codex.",
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -1438,7 +1474,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:41:11",
+    "calculated_at": "2025-03-14T17:23:32",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1446,6 +1482,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content discusses the importance of competence and creating a supportive environment for individuals, which indirectly relates to team dynamics and self-organisation in Scrum. However, it does not explicitly mention Scrum principles, roles, events, or artifacts, nor does it delve into the Scrum framework or Agile principles. The focus is more on general organisational culture rather than specific Scrum practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

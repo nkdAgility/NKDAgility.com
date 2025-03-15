@@ -24,10 +24,8 @@ preview: https://i.ytimg.com/vi/XMLdLH6f4N8/maxresdefault.jpg
 duration: 197
 isShort: false
 tags:
+- Organisational Culture
 - Organisational Agility
-- People and Process
-- Agile Frameworks
-- Scrum Team
 sitemap:
   filename: sitemap.xml
   priority: 0.6

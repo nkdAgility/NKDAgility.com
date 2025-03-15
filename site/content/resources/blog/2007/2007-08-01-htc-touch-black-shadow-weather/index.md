@@ -29,9 +29,7 @@ aliasesArchive:
 - /blog/htc-touch---black-shadow-weather
 - /resources/blog/htc-touch-black-shadow-weather
 categories: []
-tags:
-- Troubleshooting
-- Install and Configuration
+tags: []
 
 ---
 black-shadow-weather

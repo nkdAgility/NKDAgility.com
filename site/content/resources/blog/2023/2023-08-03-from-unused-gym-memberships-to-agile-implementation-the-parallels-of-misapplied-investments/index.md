@@ -8,7 +8,7 @@ ResourceImportId: 49507
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2023-08-03
-weight: 470
+weight: 415
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,15 +25,12 @@ aliasesArchive:
 - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 tags:
 - Software Development
-- People and Process
-- Agile Transformation
-- Agile Values and Principles
 - Agile Philosophy
+- People and Process
+- Agile Values and Principles
+- Agile Transformation
 - Agile Project Management
 - Software Developers
-- Organisational Agility
-- Pragmatic Thinking
-- Agile Product Management
 categories:
 - Social Technologies
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg

@@ -31,11 +31,6 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Technical Mastery
-- Continuous Integration
-- Modern Source Control
-- Pragmatic Thinking
-- Technical Excellence
 categories:
 - DevOps
 preview: naked-alm-jenkins-logo-9-9.png

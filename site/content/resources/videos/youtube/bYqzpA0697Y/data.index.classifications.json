@@ -1,7 +1,7 @@
 {
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-08T12:36:41",
+    "calculated_at": "2025-03-14T16:19:34",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -9,11 +9,11 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content briefly mentions scaling and collaboration, which are relevant to Scrum principles, but it primarily focuses on broader themes of product development and organisational growth without delving into specific Scrum roles, events, or practices. The discussion lacks depth in Scrum-specific content, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-03-08T12:36:53",
+    "calculated_at": "2025-03-14T16:19:34",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -21,7 +21,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and mentions frameworks like LeSS and Nexus, which are not related to Kanban. There are no direct mentions of Kanban principles, visualisation of work, or WIP limits. The focus is on general Agile practices rather than the specific methodologies and practices of Kanban.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -97,7 +97,7 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-03-08T12:39:12",
+    "calculated_at": "2025-03-14T16:20:36",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -105,11 +105,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and organisational challenges but does not explicitly mention remote working or Agile practices in a remote context. While it touches on collaboration and team structure, it lacks a direct focus on remote working strategies, tools, or practices specific to Agile teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-03-08T12:39:15",
+    "calculated_at": "2025-03-14T16:20:36",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -117,11 +117,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and mentions challenges like slow feedback loops, but it does not explicitly address deployment frequency or its optimisation. While it touches on related themes such as collaboration and continuous learning, it lacks a focused discussion on strategies or metrics specifically related to deployment frequency.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-03-08T12:39:18",
+    "calculated_at": "2025-03-14T16:22:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -129,11 +129,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and the importance of systems and frameworks, but it lacks a direct focus on structured decision-making methodologies. While it mentions the importance of data and collaboration, it does not delve into evidence-based practices or specific decision-making frameworks, which are central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-08T12:39:24",
+    "calculated_at": "2025-03-14T16:22:55",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -141,11 +141,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and mentions DevOps in a general context, but it does not specifically address Azure DevOps or its functionalities. The focus is more on agile methodologies and frameworks like LeSS and Nexus, which are not exclusive to Azure DevOps. Therefore, while there are some relevant themes, the lack of direct mention and specific alignment with Azure DevOps services results in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-08T12:39:28",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -153,7 +153,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and mentions concepts like collaboration and continuous learning, which are relevant to release management. However, it primarily focuses on general scaling challenges and frameworks like LeSS and Nexus without delving into specific release management practices, such as version control, release scheduling, or risk management. The discussion lacks explicit references to release processes, making it a secondary topic rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -169,7 +169,7 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-03-08T12:39:32",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -177,7 +177,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and the importance of systems and leadership in achieving growth. While it mentions the significance of data, it does not explicitly address hypothesis formulation, experimentation, or validated learning, which are central to hypothesis-driven development. The focus is more on general Agile practices and frameworks rather than on empirical testing or data-driven decision-making.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -193,7 +193,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-08T12:39:37",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
@@ -201,7 +201,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges, which are more technical and strategic in nature rather than personal reflections or experiences. While it mentions concepts related to Agile and DevOps, it lacks personal anecdotes or insights that would align it with the 'Personal' category. The focus is on frameworks and organisational strategies rather than individual experiences or subjective interpretations.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
@@ -217,7 +217,7 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-03-08T12:39:42",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on concepts related to systems and scaling but lacks a direct focus on Systems Thinking principles. While it mentions the importance of building systems and addressing challenges like alignment and technical debt, it does not delve into the foundational principles or techniques of Systems Thinking. The discussion is more centred on agile methodologies and scaling practices rather than a holistic analysis of interconnected components within a system.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -241,7 +241,7 @@
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
-    "calculated_at": "2025-03-08T12:39:49",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -249,11 +249,11 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content discusses scaling product development and addresses challenges like alignment and technical debt, but it does not explicitly mention AI or automation. While it touches on Agile frameworks and practices, the focus is more on general scaling strategies rather than the integration of AI and automation within Agile methodologies. Therefore, the confidence score reflects a low direct mention of the category, moderate conceptual alignment, and a reasonable depth of discussion on related topics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-08T12:41:07",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -261,7 +261,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the importance of data in decision-making and scaling, but it lacks a direct focus on Evidence-Based Management principles. While it discusses challenges in scaling and the need for strong leadership and systems, it does not delve into empirical evidence or specific EBM practices. The discussion is more about general agile practices and scaling rather than a thorough exploration of EBM concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -277,7 +277,7 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-08T12:41:13",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -285,11 +285,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges rather than focusing on the Product Backlog or its management. While it touches on related themes like clarity and priorities, it does not explicitly mention the Product Backlog or delve into its purpose, techniques for refinement, or the role of the Product Owner.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-08T12:41:16",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -297,11 +297,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling product development and the importance of collaboration and continuous learning, which are relevant to Agile and DevOps. However, it does not explicitly mention any events, presentations, or discussions related to these topics, leading to a low score in direct mentions. The conceptual alignment is moderate as it touches on themes relevant to Agile methodologies, but lacks depth in discussing specific events or structured learning experiences.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-03-08T12:41:19",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -309,11 +309,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and addresses challenges like alignment and technical debt, which are not directly related to Value Stream Mapping. While there are mentions of efficiency and growth, the core themes of VSM, such as visualising workflows and identifying value-added activities, are not present. The discussion lacks depth on VSM principles or techniques, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-03-08T12:41:22",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -321,11 +321,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and the importance of systems and frameworks like LeSS or Nexus, which are relevant to Agile practices. However, it lacks a direct focus on trend analysis, as it does not explicitly identify or analyse emerging trends or shifts in Agile or DevOps. The discussion is more about operational challenges and solutions rather than a detailed examination of trends impacting organisational practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-08T12:41:25",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -333,11 +333,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling product development and the importance of clarity and collaboration, which are related to transparency. However, it does not explicitly address accountability or provide detailed discussions on transparency practices within Agile teams. The focus is more on growth strategies and overcoming challenges rather than fostering an environment of openness and responsibility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-08T12:41:27",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -345,7 +345,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling product development and the importance of frameworks like LeSS and Nexus, which are relevant to Agile and DevOps. However, it lacks explicit news or review elements, focusing more on a promotional approach to services rather than providing insights or evaluations on industry trends or tools. The discussion is somewhat aligned with the category but does not delve deeply into specific news or reviews.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -361,7 +361,7 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-03-08T12:41:34",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -369,11 +369,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and addresses challenges like alignment and technical debt, which are relevant to portfolio management. However, it primarily focuses on team-level practices and frameworks like LeSS and Nexus, rather than on the strategic alignment of projects or investment prioritisation. The discussion lacks depth in portfolio management methodologies and does not provide specific metrics or frameworks related to portfolio performance, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-03-08T12:41:36",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -381,11 +381,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the importance of fostering a scalable culture and mentions collaboration and continuous learning, which are relevant to organisational culture. However, it primarily focuses on technical aspects of scaling product development and frameworks like LeSS or Nexus, rather than deeply exploring cultural elements or their impact on Agile methodologies. The discussion lacks explicit references to leadership's role or detailed strategies for cultural transformation, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-08T12:41:39",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -393,11 +393,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and the importance of systems and leadership but does not explicitly mention empirical process control or its core principles. While it touches on themes of collaboration and continuous learning, it lacks a direct focus on transparency, inspection, and adaptation, which are central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-03-08T12:41:42",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -405,11 +405,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without directly addressing the Definition of Ready or its criteria. While it mentions clarity and collaboration, these concepts are not specifically tied to the DoR, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
-    "calculated_at": "2025-03-08T12:41:44",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -417,7 +417,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and improving team collaboration, which are relevant to Agile and DevOps practices. However, it does not explicitly mention Artificial Intelligence or its applications within these methodologies. The focus is more on general practices and frameworks rather than on AI's role in enhancing these processes, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -433,7 +433,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-08T12:41:50",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -441,7 +441,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling product development and mentions concepts like DevOps and continuous learning, which are related to technical excellence. However, it primarily focuses on organisational growth and leadership rather than specific engineering practices or methodologies. The discussion lacks depth in technical topics such as TDD, CI/CD, or modular architecture, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -457,7 +457,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-08T12:41:55",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -465,11 +465,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and mentions frameworks like LeSS and Nexus, which are related to Agile methodologies. However, it does not explicitly address the stages of the application lifecycle or the core principles of Application Lifecycle Management. The focus is more on organisational growth and team dynamics rather than the management of software applications throughout their lifecycle.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-08T12:41:58",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -477,11 +477,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses scaling product development and the importance of systems and leadership in achieving growth, which indirectly relates to the delivery of working software. However, it lacks explicit mentions of working software characteristics, Agile principles, or detailed practices for ensuring software quality and functionality. The focus is more on organisational growth and efficiency rather than on the software itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-03-08T12:42:00",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -489,11 +489,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without any explicit mention of psychological safety. While it touches on collaboration and leadership, it does not delve into the core themes of psychological safety, such as open communication or risk-taking. The discussion lacks depth regarding the importance of a supportive culture, making it largely irrelevant to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-03-08T12:42:02",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -501,11 +501,11 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content discusses scaling product development and addresses challenges like slow feedback loops and bottlenecks, which are tangentially related to Cycle Time. However, it does not explicitly mention Cycle Time or provide a focused discussion on its measurement or implications within Agile or DevOps practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-03-08T12:42:07",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -513,7 +513,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and improving team efficiency, which indirectly relates to customer retention by suggesting that better systems can lead to improved product quality. However, it lacks direct mentions of customer retention strategies, user engagement, or feedback mechanisms. The focus is more on operational efficiency and scaling rather than on retaining customers or enhancing their experience.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
@@ -529,7 +529,7 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-03-08T12:42:12",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -537,11 +537,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without addressing working agreements or their role in team collaboration. While it mentions collaboration and systems for growth, it lacks direct references to working agreements, their creation, or their impact on team dynamics.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-08T12:42:14",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -549,11 +549,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses scaling product development and the importance of leadership and systems for growth, which aligns with organisational change principles. However, it primarily focuses on technical aspects and frameworks like LeSS and Nexus, which are more related to Agile practices than to broader organisational change strategies. The discussion lacks depth in change management methodologies and does not explicitly address the core themes of organisational change, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-03-08T12:42:17",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -561,11 +561,11 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content discusses scaling product development and mentions concepts like time to market and bottlenecks, which are tangentially related to Lead Time. However, it does not explicitly define or focus on Lead Time as a metric, nor does it provide in-depth discussion or techniques for measuring or optimising it. The primary focus is on scaling and organisational challenges rather than the specific measurement and implications of Lead Time.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-03-08T12:42:20",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -573,7 +573,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content does not explicitly mention the Daily Scrum or its specific practices. While it discusses themes related to team alignment and collaboration, it lacks a direct focus on the Daily Scrum event, its structure, or its role within the Scrum framework. The discussion is more about scaling and organisational growth rather than the specifics of the Daily Scrum.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -589,7 +589,7 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-03-08T12:42:25",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -597,11 +597,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without any direct mention of Sprint Reviews or their specific processes. While it touches on themes of collaboration and efficiency, it does not align with the core topics of Sprint Reviews, such as stakeholder engagement or feedback mechanisms. The discussion lacks depth regarding the Sprint Review event itself.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-03-08T12:42:28",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -609,11 +609,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges, with no direct mention of Test Driven Development (TDD) principles or practices. While it touches on themes of collaboration and continuous learning, these are not specific to TDD. The lack of focus on the TDD cycle, unit testing, or related tools indicates a minimal alignment with the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-03-08T12:42:30",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -621,11 +621,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses scaling product development and the importance of strong leadership, which aligns with Agile Leadership principles. However, it primarily focuses on technical practices and frameworks rather than explicitly addressing leadership roles or strategies in an Agile context. The mention of leadership is present but not the primary focus, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-03-08T12:42:32",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -633,11 +633,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and the challenges associated with it, focusing on leadership and team structure rather than asynchronous development principles. There are no direct mentions of asynchronous collaboration or tools that facilitate it, and the discussion lacks depth in exploring the core themes of asynchronous development.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-03-08T12:42:34",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -645,11 +645,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and the importance of systems and leadership in achieving growth, which aligns with entrepreneurial principles. However, it primarily focuses on operational aspects and frameworks rather than the broader entrepreneurial mindset or innovation strategies. The direct mentions of entrepreneurship are limited, and while there is some conceptual alignment, the depth of discussion does not fully engage with the core themes of entrepreneurship.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-08T12:42:37",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -657,7 +657,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and mentions collaboration as a key aspect, but it does not specifically focus on collaboration tools or provide detailed insights into their features or best practices. The primary emphasis is on organisational growth and leadership rather than on specific tools that enhance team communication and coordination.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -673,7 +673,7 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-08T12:42:41",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -681,11 +681,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses scaling product development and the importance of collaboration and continuous learning, which aligns with Agile principles. However, it primarily focuses on specific frameworks and practices rather than the broader Agile philosophy, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-08T12:42:46",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -693,11 +693,11 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content briefly mentions the importance of data in relation to scaling product development, which aligns with the category's focus on metrics. However, it lacks a detailed discussion on specific metrics, feedback mechanisms, or evidence-based decision-making. The emphasis is more on general principles of scaling and collaboration rather than a focused exploration of metrics and learning.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-03-08T12:42:48",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -705,11 +705,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges, with no explicit mention of mentoring or coaching. While it touches on leadership and continuous learning, these concepts are not explored in the context of mentoring or guidance, which is the focus of the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-03-08T12:42:50",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -717,11 +717,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without directly addressing forecasting methods or practices within Agile and Scrum. While it mentions the importance of data, it does not focus on empirical data for predicting delivery timelines or managing risks, which are core themes of the forecasting category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-03-08T12:42:53",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -729,11 +729,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges, with a focus on frameworks like LeSS and Nexus. It does not explicitly mention Continuous Integration or its principles, practices, or tools. The discussion is more aligned with project management and organisational growth rather than the specific practices of CI.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-03-08T12:42:56",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -741,11 +741,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and mentions frameworks like LeSS and Nexus, which are related to Agile methodologies. However, it does not explicitly focus on Agile Planning Tools or their functionalities. The discussion is more about general scaling challenges and leadership rather than specific tools or techniques for Agile planning, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-03-08T12:42:58",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -753,11 +753,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling product development and the importance of collaboration, but it does not explicitly mention cross-functional teams or delve into their characteristics, benefits, or management. The focus is more on general scaling strategies and frameworks rather than the specific dynamics of cross-functional teams within Agile methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-03-08T12:43:02",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -765,11 +765,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges, with no direct mention of backlog refinement or its associated practices. While it touches on themes of clarity and collaboration, it lacks specific alignment with backlog refinement techniques or discussions, resulting in a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-03-08T12:43:06",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -777,11 +777,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without any explicit mention of the Definition of Done or its criteria. While it touches on themes of collaboration and efficiency, it does not delve into the specific principles or practices related to the Definition of Done, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-08T12:43:13",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -789,7 +789,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling product development and organisational challenges but does not specifically address the role of a Scrum Master or their responsibilities. While it mentions collaboration and leadership, it lacks direct references to Scrum practices or the Scrum Master's role in facilitating teams and ceremonies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -805,7 +805,7 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-08T12:43:18",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -813,11 +813,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the importance of data in decision-making and scaling, but it primarily focuses on practical approaches to scaling product development rather than explicitly discussing evidence-based leadership principles. While there are elements that touch on leadership and organisational growth, the discussion lacks depth in terms of empirical evidence and specific evidence-based practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-03-08T12:43:20",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -825,7 +825,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling product development and the importance of systems and leadership in achieving growth, which touches on aspects of product strategy. However, it primarily focuses on team dynamics, frameworks, and operational challenges rather than explicitly addressing product vision, roadmapping, or customer-centric strategies. The discussion lacks depth in the core themes of product strategy, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -841,7 +841,7 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-03-08T12:43:25",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -849,11 +849,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges, with no explicit mention of automated testing or its principles. While it touches on concepts like DevOps and collaboration, these are not directly related to automated testing methodologies or practices. The discussion lacks depth and detail on any automated testing topics, leading to a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-08T12:43:27",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -861,11 +861,11 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges rather than focusing on product discovery methodologies or understanding customer needs. While it mentions collaboration and continuous learning, these concepts are not directly tied to the core themes of product discovery, such as user research or feature prioritisation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-03-08T12:43:30",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -873,11 +873,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and agile methodologies, with a focus on collaboration and team structures. It does not explicitly mention Site Reliability Engineering principles, nor does it delve into topics such as monitoring, incident response, or SLOs, which are central to SRE. The discussion is more aligned with general software development and agile practices rather than the specific focus of SRE.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-08T12:43:33",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -885,11 +885,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses scaling product development and focuses on Agile methodologies, particularly Scrum, without a direct reference to Lean principles. While it mentions concepts like reducing friction and eliminating bottlenecks, which are relevant to Lean, the overall emphasis is on Agile frameworks and practices rather than Lean methodologies. The discussion lacks depth in Lean-specific tools or principles, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-08T12:43:36",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -897,11 +897,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses scaling product development and mentions frameworks like LeSS and Nexus, which are relevant to Agile methodologies. However, it primarily focuses on the services offered by Naked Agility rather than providing a review or analysis of specific products or literature. The discussion lacks depth in terms of specific books or tools, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-03-08T12:43:38",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -909,11 +909,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and organisational growth, which touches on aspects of digital transformation, such as fostering a scalable culture and reducing inefficiencies. However, it lacks direct mentions of digital technologies or specific strategies for digital transformation. The focus is more on agile methodologies and team dynamics rather than the strategic adoption of digital tools for business transformation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-03-08T12:43:40",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -921,11 +921,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without directly addressing the Scrum Values. While it mentions collaboration and systems for growth, it lacks explicit references to the core Scrum Values such as commitment, courage, focus, openness, and respect. The discussion is more focused on frameworks and practices rather than the foundational principles of Scrum.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-08T12:43:43",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -933,11 +933,11 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions scaling frameworks like LeSS and Nexus, which are related to Scrum, but does not delve into the core principles, roles, or events of Scrum. The focus is more on general scaling strategies and organisational growth rather than a detailed exploration of Scrum practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-03-08T12:43:46",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -945,11 +945,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses scaling product development and the importance of systems and leadership in achieving growth, which aligns with the concept of strategic goals. However, it lacks explicit mentions of long-term objectives or agile principles, focusing more on operational tactics and immediate challenges rather than strategic alignment.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-03-08T12:43:49",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -957,11 +957,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without any explicit mention of estimation techniques or practices. While it touches on collaboration and systems for growth, it does not align with the core themes of estimation in Agile or Scrum, nor does it provide any depth on the topic. The focus is on broader organisational strategies rather than the specifics of estimation.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-03-08T12:43:54",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -969,11 +969,11 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content discusses scaling product development and mentions continuous learning, which aligns with Lean principles. However, it primarily focuses on frameworks like LeSS and Nexus, which are more aligned with Agile methodologies rather than Lean Product Development specifically. The discussion lacks depth in Lean-specific techniques and does not explicitly mention waste reduction or customer feedback, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-08T12:43:57",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -981,11 +981,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without any direct mention of Azure Boards or its functionalities. While it touches on Agile principles and frameworks, it does not delve into the specific tools or practices related to Azure Boards, making it largely irrelevant to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-08T12:44:00",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -993,11 +993,11 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses scaling product development and technical methodologies related to Scrum and Agile practices. While it touches on leadership and collaboration, these aspects are not explored in the context of psychological principles or theories relevant to organisational psychology. The focus is more on operational efficiency and frameworks rather than the psychological factors influencing motivation, engagement, or team dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-08T12:44:03",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1005,11 +1005,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and addresses challenges like technical debt and collaboration, which are relevant to engineering practices. However, it primarily focuses on organisational growth and leadership rather than specific engineering methodologies or practices such as clean code, TDD, or CI/CD. The mention of DevOps and continuous learning aligns somewhat with the category, but the overall depth and direct focus on engineering practices are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-08T12:44:05",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1017,11 +1017,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and the challenges associated with it, which touches on some aspects of complexity, such as alignment and systems thinking. However, it lacks direct references to complexity science principles, frameworks like Cynefin, or detailed discussions on non-linear dynamics and emergent behaviours. The focus is more on practical solutions and frameworks rather than a deep exploration of complexity thinking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-03-08T12:44:09",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1029,11 +1029,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without any explicit mention of Acceptance Test Driven Development (ATDD) or its principles. While it touches on collaboration and systems for growth, it does not delve into acceptance criteria, collaborative development, or techniques for writing acceptance tests, which are core to ATDD. Therefore, the confidence score reflects a very low alignment with the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-03-08T12:44:12",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1041,11 +1041,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges, focusing on frameworks like LeSS and Nexus, which are not directly related to Lean Startup principles. There are no explicit mentions of MVPs, the Build-Measure-Learn loop, or validated learning, which are core to the Lean Startup methodology. The discussion lacks depth in terms of Lean principles and does not emphasise iterative learning or customer development.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-03-08T12:44:16",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1053,11 +1053,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational growth without directly addressing the concept of a Minimum Viable Product (MVP). While it touches on themes of efficiency and collaboration, it lacks explicit references to MVP strategies, user feedback, or Lean Startup principles, which are central to the MVP category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-03-08T12:44:19",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1065,11 +1065,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and the importance of collaboration and continuous learning, which are related to self-organisation. However, it primarily focuses on leadership and structured approaches rather than the principles of self-organisation itself. There are no direct mentions of self-organisation, and the depth of discussion does not delve into techniques or case studies that would support the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-03-08T12:44:21",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1077,11 +1077,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and mentions concepts like DevOps and continuous learning, which are relevant to frequent releases. However, it does not explicitly address the principles of frequent releases, such as continuous delivery or deployment, nor does it provide detailed strategies or metrics related to release frequency. The focus is more on scaling and overcoming challenges rather than on the release process itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-03-08T12:44:24",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1089,7 +1089,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and addresses challenges related to alignment and technical debt, which are not directly tied to Continuous Delivery principles. While it mentions DevOps and continuous learning, these concepts are not explored in the context of Continuous Delivery practices or methodologies. The focus is more on organisational growth and efficiency rather than the specific practices of Continuous Delivery.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1141,7 +1141,7 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-08T12:44:36",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1149,7 +1149,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational growth rather than focusing on troubleshooting specific technical issues. While it mentions challenges like alignment and technical debt, it does not provide explicit techniques or methodologies for diagnosing or resolving these issues, which are central to the troubleshooting category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1165,7 +1165,7 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-08T12:44:44",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1173,7 +1173,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and organisational growth but does not explicitly mention coaching or its principles. While it touches on collaboration and continuous learning, it lacks a focus on the coaching process, techniques, or the role of a coach. The discussion is more about leadership and systems rather than the supportive and facilitative nature of coaching.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -1189,7 +1189,7 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-03-08T12:44:50",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1197,11 +1197,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and improving organisational efficiency, which does not directly address market share strategies or methodologies. While there are mentions of growth and innovation, these are framed within the context of internal processes rather than market presence or competitive advantage. The focus is on operational challenges rather than market positioning or customer engagement, leading to a very low confidence score for alignment with the 'Market Share' category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-08T12:44:52",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1209,7 +1209,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on themes relevant to team dynamics and collaboration but lacks explicit discussion of Scrum roles or practices. It focuses more on scaling and general Agile principles rather than the specific dynamics of a Scrum Team.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1225,7 +1225,7 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-03-08T12:44:58",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1233,7 +1233,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and improving team efficiency, but it does not explicitly mention customer satisfaction or related metrics. While it touches on themes of collaboration and continuous learning, which can indirectly relate to customer satisfaction, the primary focus is on operational challenges and solutions rather than on enhancing customer experience or measuring customer happiness.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1249,7 +1249,7 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-03-08T12:45:04",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1257,11 +1257,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without any explicit mention of Test First Development or its principles. While it touches on collaboration and continuous learning, it does not delve into the specifics of writing tests before code or the benefits of TDD, which are central to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-03-08T12:45:07",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1269,11 +1269,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and agile methodologies, with no direct mention of Azure Pipelines or related CI/CD practices. While it touches on DevOps and continuous learning, it lacks specific references to Azure Pipelines, its configuration, or any technical details relevant to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-03-08T12:45:10",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1281,11 +1281,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without any direct mention of Behaviour Driven Development principles, practices, or tools. While it touches on collaboration and systems for growth, it does not align with the core themes of BDD, such as user stories, acceptance criteria, or the specific role of BDD in enhancing software quality. The focus is more on general project management and scaling methodologies rather than BDD itself.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-03-08T12:45:13",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 2,
     "ai_alignment": 5,
@@ -1293,11 +1293,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and mentions frameworks like LeSS and Nexus, which are directly related to Agile methodologies. While it touches on broader themes of growth and collaboration, the explicit references to Agile frameworks and practices indicate a strong alignment with established theories, thus reducing its fit for the Miscellaneous category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-03-08T12:45:15",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1305,7 +1305,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and the importance of systems and leadership in fostering a culture of collaboration and continuous learning. However, it primarily focuses on operational aspects and frameworks like LeSS and Nexus, which are more aligned with project management than with the core principles of change management. The discussion lacks explicit references to change management strategies, stakeholder engagement, or the role of leadership in guiding transformation, which are critical for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1333,7 +1333,7 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-03-08T12:45:24",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1341,11 +1341,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses scaling product development and Agile methodologies, with a focus on collaboration and continuous learning. While it mentions DevOps, it does not explicitly address Platform Engineering or Internal Developer Platforms. The discussion lacks depth in the specific principles and practices of Platform Engineering, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-03-08T12:45:26",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1353,7 +1353,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses scaling product development and the importance of systems that enable teams to grow, which touches on aspects of organisational resilience. However, it primarily focuses on technical implementations and frameworks like LeSS and Nexus without delving deeply into the human and cultural aspects of change or resilience. The mention of leadership and collaboration hints at adaptability, but the overall discussion lacks a strong emphasis on change management practices or detailed strategies for fostering resilience.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1369,7 +1369,7 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-03-08T12:45:32",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1377,11 +1377,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling product development and the importance of leadership and clear priorities, which are relevant to the Product Owner's role. However, it lacks direct mentions of the Product Owner and does not delve into specific responsibilities or practices associated with the role. The focus is more on general scaling strategies and team dynamics rather than the specific functions of a Product Owner in Agile or Scrum.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-08T12:45:35",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1389,11 +1389,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and agile methodologies, specifically Scrum, without any direct mention of version control systems or related practices. While it touches on collaboration and DevOps, these concepts are not explored in the context of source control, leading to a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-03-08T12:45:39",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1401,11 +1401,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and mentions challenges like slow feedback loops and bottlenecks, which are related to throughput. However, it does not explicitly focus on throughput as a primary topic, nor does it provide detailed techniques or metrics for measuring or optimising throughput. The discussion is more about general scaling and collaboration rather than a deep dive into throughput itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-08T12:45:41",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1413,11 +1413,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and addresses challenges like alignment and technical debt, which are relevant to Lean principles. However, it primarily focuses on Agile frameworks and does not explicitly mention Lean Thinking concepts or tools. The discussion lacks depth in Lean-specific strategies and does not provide a thorough exploration of Lean principles, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-03-08T12:45:43",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1425,11 +1425,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and addresses challenges like alignment and technical debt, which are relevant to Lean principles. However, it primarily focuses on Agile methodologies and does not explicitly mention Lean concepts or tools. The discussion lacks depth in Lean-specific practices, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-03-08T12:45:46",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1437,7 +1437,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational growth, with a focus on collaboration and leadership rather than on test automation principles, frameworks, or practices. There are no direct mentions of test automation or related tools, and the discussion lacks depth in the context of automated testing.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -1453,7 +1453,7 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-03-08T12:45:52",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1461,11 +1461,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges without any explicit mention of experimentation or hypothesis-driven approaches. While it touches on themes of continuous learning and collaboration, it lacks a focus on systematic testing of ideas or validating assumptions, which are central to the category of Experimentation.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-03-08T12:45:55",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1473,7 +1473,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and the importance of systems and leadership in achieving growth, which touches on aspects of sensemaking. However, it primarily focuses on practical implementations and frameworks like LeSS and Nexus, rather than explicitly exploring the principles of sensemaking or decision-making processes in complex environments. The discussion lacks depth in terms of sensemaking techniques or case studies, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1489,7 +1489,7 @@
   },
   "AI": {
     "category": "AI",
-    "calculated_at": "2025-03-08T12:46:02",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1497,11 +1497,11 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily discusses scaling product development and Agile methodologies without any explicit mention of AI or its integration within Agile or DevOps practices. While it touches on collaboration and continuous learning, these themes do not directly relate to AI applications, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-08T12:46:04",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1509,7 +1509,7 @@
     "non_ai_confidence": 10,
     "final_score": 24.0,
     "reasoning": "The content discusses scaling product development and organisational growth but does not explicitly mention product validation methodologies or practices. While it touches on related themes like collaboration and continuous learning, it lacks a direct focus on user testing, market fit, or customer feedback loops, which are essential for the Product Validation category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -1549,7 +1549,7 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-03-08T12:46:14",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1557,11 +1557,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses scaling product development and mentions frameworks like LeSS and Nexus, which are related to Agile methodologies. However, it lacks a direct focus on Agile Planning principles, such as iterative planning, user stories, or specific Agile practices. The discussion is more about scaling and organisational challenges rather than the core aspects of Agile Planning.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-03-08T12:46:18",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1569,11 +1569,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses scaling product development and mentions frameworks like LeSS and Nexus, which are specific Agile frameworks rather than focusing on Agile values and principles. While there are references to collaboration and continuous learning, these concepts are not explored in depth or tied back to the core Agile values or principles. The discussion lacks a clear emphasis on the foundational beliefs of Agile methodologies, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-03-08T12:46:21",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1581,11 +1581,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational efficiency without directly addressing revenue per employee or its implications. While it touches on themes of productivity and efficiency, it does not provide specific insights or metrics related to revenue per employee, nor does it explore strategies for improving this metric.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-03-08T12:46:24",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1593,11 +1593,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling and collaboration in Agile environments but does not explicitly address transparency or its importance. While it mentions clarity and reducing friction, these concepts are not directly tied to transparency in the context of Agile processes. The focus is more on scaling and leadership rather than on fostering openness and visibility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-08T12:46:26",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1605,7 +1605,7 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and agile methodologies, with a focus on team dynamics and leadership rather than the technical aspects of system configuration. While it mentions building systems, it does not delve into specific configuration practices or methodologies relevant to system setup and optimisation.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
@@ -1621,7 +1621,7 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-03-08T12:46:32",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1629,7 +1629,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on themes of scaling and collaboration, which are relevant to organisational agility, but it primarily focuses on Scrum training and traditional scaling practices rather than the principles of BetaCodex. There are no direct mentions of decentralisation or human-centric approaches, and the discussion lacks depth in relation to the core tenets of BetaCodex.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -1645,7 +1645,7 @@
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-03-08T12:46:38",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1653,11 +1653,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling product development and mentions frameworks like LeSS and Nexus, which are not part of the One Engineering System (1ES). While it touches on themes of collaboration and reducing friction, it lacks a direct focus on the principles and components of 1ES, and does not provide detailed insights into its implementation or impact. Therefore, the content is only tangentially related to the 1ES category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-03-08T12:46:45",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1665,11 +1665,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges rather than specific deployment strategies. While it mentions concepts like DevOps and continuous learning, it does not delve into methodologies for deploying software or managing risks associated with deployments. The focus is on broader development practices and team dynamics, which do not align with the core themes of deployment strategies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-08T12:46:51",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1677,11 +1677,11 @@
     "non_ai_confidence": 10,
     "final_score": 12.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges rather than providing actionable instructions or insights on installation and configuration of tools or software. While it mentions concepts related to Agile and DevOps, it does not focus on the technical aspects required for the Install and Configuration category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-03-08T12:46:54",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -1689,11 +1689,11 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content discusses scaling and collaboration in Agile environments but does not explicitly mention accountability or ownership. While it touches on team dynamics and challenges, it lacks a focused discussion on accountability as a principle, making it only tangentially related to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-03-08T12:46:57",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1701,11 +1701,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and Agile methodologies, with a focus on collaboration and systems rather than decision-making processes in uncertain environments. There are no explicit mentions of decision theory concepts, heuristics, or frameworks related to decision-making. The discussion lacks depth in exploring how decisions are made or improved in uncertain contexts.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-03-08T12:47:02",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1713,7 +1713,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and addresses challenges like alignment and technical debt, which are tangentially related to Value Stream Management. However, it primarily focuses on Scrum and scaling frameworks rather than the core principles of Value Stream Management. The mention of eliminating bottlenecks and understanding value hints at some alignment, but the overall depth and focus on specific Value Stream Management techniques are lacking.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1729,7 +1729,7 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-03-08T12:47:07",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1737,11 +1737,11 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling in a general sense but primarily focuses on Scrum and related frameworks like LeSS and Nexus, which are not aligned with Kanban principles. While it touches on challenges in scaling and the need for collaboration, it lacks direct references to Kanban practices or principles, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-03-08T12:47:10",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1749,7 +1749,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and the importance of collaboration and systems for growth, but it does not explicitly mention the concept of Increment or its significance in Agile or Scrum. While there are references to challenges in scaling and the need for clarity and efficiency, these do not directly align with the core themes of delivering potentially shippable product increments or measuring their value. The discussion is more focused on general project management and scaling practices rather than the specific delivery of software increments.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1765,7 +1765,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-08T12:47:15",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1773,7 +1773,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses scaling product development and organisational challenges rather than focusing on the interplay between code quality and complexity. While it mentions technical debt and some aspects of system design, these are not explored in depth or directly tied to coding practices. The discussion is more aligned with project management and organisational frameworks than with the principles of software code quality or complexity theory.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1801,7 +1801,7 @@
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
-    "calculated_at": "2025-03-08T12:47:25",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1809,11 +1809,11 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and Agile methodologies, particularly focusing on Scrum frameworks like LeSS and Nexus. It does not explicitly mention Internal Developer Platforms or their key components, benefits, or best practices. The discussion is more aligned with general Agile practices and team dynamics rather than the specific context of IDPs.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-03-08T12:47:27",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1821,7 +1821,7 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses scaling product development and technical frameworks like LeSS and Nexus, which are not directly related to employee engagement. While there are mentions of collaboration and leadership, these are not explored in the context of enhancing motivation or commitment among team members. The focus is on technical processes rather than the psychological and social aspects of work that contribute to employee satisfaction.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1837,7 +1837,7 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-03-08T12:47:35",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1845,11 +1845,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses scaling product development and the importance of collaboration and leadership, which are relevant to team motivation. However, it lacks direct mentions of team dynamics or specific motivational strategies, focusing more on technical and structural aspects of scaling rather than the psychological and social elements that drive team engagement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-08T12:47:38",
+    "calculated_at": "2025-03-14T16:24:30",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1857,6 +1857,6 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses scaling product development and mentions slow feedback loops, but it does not explicitly focus on customer feedback integration or the mechanisms of feedback loops. The alignment with the core themes is weak, as it primarily addresses broader challenges in scaling and team dynamics without delving into specific customer feedback practices or strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

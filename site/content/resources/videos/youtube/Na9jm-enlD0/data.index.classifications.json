@@ -40,39 +40,51 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner and touches on Scrum principles, but it primarily focuses on consensus in decision-making rather than a comprehensive exploration of Scrum practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:05:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses consensus in product development, which is relevant to the role of a Product Owner in Scrum. However, it lacks direct references to Scrum principles, roles, or events, and does not delve into the Scrum framework or its artifacts. The focus is more on general decision-making and consensus rather than the specific practices of Professional Scrum.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:05:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the dynamics of decision-making and consensus within product development, touching on themes of leadership, collaboration, and organisational behaviour. However, it primarily focuses on the role of the product owner and entrepreneurial mindset rather than a comprehensive application of systems thinking principles.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the dynamics of consensus in product development, which relates to organisational behaviour and decision-making processes. It touches on systems thinking principles, such as the balance between collective agreement and swift decision-making, and the role of leadership in fostering consensus. However, while it aligns with some core themes of Organisational Physics, it primarily focuses on consensus rather than a broader systems perspective, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of consensus and decision-making in product development, touching on aspects of collaboration and trust-building, which are relevant to coaching. However, the primary focus is on product ownership and decision-making rather than coaching practices specifically.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses consensus in product development, touching on aspects of collaboration and decision-making, which are relevant to coaching. However, it primarily focuses on the dynamics of consensus rather than the coaching process itself. While it mentions building trust and facilitating discussions, these are not explored in the context of coaching techniques or frameworks, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making processes in product development and the importance of consensus, which relates to leadership. However, it primarily focuses on personal experiences and opinions rather than empirical evidence or data-driven approaches.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:04:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses consensus in product development, touching on decision-making and collaboration, but lacks a strong focus on empirical evidence or data-driven leadership practices. While it mentions the importance of trust and decision-making, it does not provide substantial insights into evidence-based leadership principles or techniques for gathering and analysing data.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -136,12 +148,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:07",
+    "calculated_at": "2025-03-14T22:04:08",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses the role of consensus in product development and decision-making, which is tangentially related to working software but primarily focuses on the dynamics of leadership and collaboration rather than the delivery of functional software.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -157,12 +169,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of consensus in decision-making within product development, touching on aspects of self-organisation, particularly in relation to the role of the product owner and the need for team support. However, the primary focus is on consensus rather than self-organisation itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:05:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses consensus in product development, which touches on collaboration and decision-making but does not explicitly focus on self-organisation principles. While it mentions aspects of teamwork and trust, it primarily revolves around consensus rather than the broader themes of self-organisation in Agile methodologies.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -175,20 +190,23 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T16:42:07",
+    "calculated_at": "2025-03-14T22:04:08",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses decision-making and consensus in product development, but it primarily focuses on the role of the product owner and the dynamics of leadership rather than Lean principles or waste reduction.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of consensus in decision-making within product development, touching on leadership, trust, and collaboration, which are relevant to organisational culture. However, the primary focus is on decision-making processes rather than a comprehensive exploration of organisational culture itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the dynamics of consensus in product development, touching on themes of collaboration and leadership, which are relevant to organisational culture. However, it primarily focuses on decision-making processes rather than a comprehensive exploration of organisational culture itself. While it mentions trust and collaboration, it lacks a deeper analysis of how these elements influence agility and transformation within teams, which is central to the category.",
     "level": "Tertiary"
   },
   "Customer Feedback Loops": {
@@ -229,11 +247,14 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:05:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of consensus in product development and decision-making, which relates to product strategy. However, it primarily focuses on team dynamics and decision-making processes rather than a clear product strategy framework or roadmap.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of consensus in product development, which is relevant to product strategy. However, it primarily focuses on the dynamics of consensus rather than providing a clear vision or roadmap for product development. While it touches on decision-making and the importance of trust, it lacks in-depth exploration of strategic planning, market analysis, or customer-centric approaches that are central to product strategy.",
     "level": "Tertiary"
   },
   "Customer Retention": {
@@ -265,21 +286,27 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making in product development and the importance of consensus, which relates to innovation practices. However, it primarily focuses on consensus and leadership rather than directly measuring or enhancing the ability to innovate.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses consensus in product development, which is tangentially related to innovation but does not focus on the measurement or improvement of innovation capabilities. While it touches on decision-making and collaboration, it lacks a direct emphasis on Evidence-Based Management or frameworks for measuring the Ability to Innovate.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of consensus in product development, referencing the product owner role in Scrum and the importance of decision-making in Agile environments. However, the primary focus is on consensus rather than a detailed exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of consensus in product development, which is relevant to Agile principles of collaboration and decision-making. However, it does not explicitly mention Agile frameworks or provide a detailed exploration of them. The focus is more on consensus as a concept rather than on Agile methodologies like Scrum or Kanban, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -349,12 +376,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of consensus in product development, touching on aspects of Agile and Scrum methodologies, which are relevant to software development practices. However, the primary focus is on decision-making and leadership rather than specific software engineering techniques or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:05:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses consensus in product development, which is tangentially related to software development practices. However, it lacks direct references to software engineering methodologies, coding practices, or technical frameworks. The focus is more on decision-making and collaboration rather than specific software development processes, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -385,12 +415,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:05:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of consensus in product development, which relates to Agile principles of collaboration and decision-making. However, it primarily focuses on the role of the product owner and entrepreneurial mindset rather than explicitly addressing Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the concept of consensus in product development, which aligns with Agile principles of collaboration and decision-making. However, it does not explicitly mention Agile values or principles, nor does it delve deeply into the Agile Manifesto or its core themes. The focus is more on consensus as a concept rather than its relationship to Agile methodologies.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -424,12 +457,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of consensus in decision-making and the role of leadership in guiding teams, which are relevant to change management. However, the primary focus is on product development and decision-making processes rather than on change management strategies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:04:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses consensus in product development, which touches on aspects of decision-making and collaboration but does not explicitly address change management principles or practices. While it mentions leadership and collaboration, it lacks a direct focus on strategies for managing change within organisations, making it only tangentially related to the Change Management category.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -442,21 +478,27 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making in product development, touching on consensus and the role of the product owner, which relates to empirical process control principles. However, it primarily focuses on consensus and leadership rather than empirical process control itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:05:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses consensus in product development, which is tangentially related to decision-making and collaboration, but it does not explicitly address empirical process control principles such as transparency, inspection, and adaptation. While it touches on decision-making and the importance of trust, it lacks a direct focus on empirical evidence and Agile methodologies, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:05:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of consensus in product development, which relates to validating product ideas through team collaboration and decision-making. However, it primarily focuses on the dynamics of consensus rather than specific methodologies or practices for product validation.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of consensus in product development, which is tangentially related to product validation. However, it primarily focuses on decision-making dynamics rather than directly addressing methodologies for validating product ideas through user engagement or feedback. While there are elements that touch on collaboration and decision-making, the lack of explicit user testing, market fit assessment, or customer feedback loops diminishes its alignment with the core themes of product validation.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -589,12 +631,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T04:20:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:14:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of consensus in product development, particularly from the perspective of a Product Owner, which aligns with Agile principles. It touches on decision-making, collaboration, and the importance of trust within teams, all of which are central to Agile Project Management.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of consensus in product development, which is relevant to Agile Project Management, particularly in the context of collaboration and decision-making. However, it lacks direct references to agile methodologies, frameworks, or specific agile roles such as the Product Owner or Scrum Master. The discussion is more focused on the general idea of consensus rather than the specific principles and practices of Agile Project Management, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -607,11 +652,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of consensus in product development, which relates to Agile principles, particularly in the context of decision-making and leadership within Agile teams. However, it primarily focuses on the nuances of consensus rather than a comprehensive Agile strategy, making it a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the dynamics of consensus in product development, which is relevant to Agile methodologies, particularly in terms of collaboration and decision-making. However, it does not explicitly mention Agile principles or strategies, focusing more on consensus as a concept rather than its integration into Agile practices. The depth of discussion on consensus and its implications for product development is substantial, but the lack of direct references to Agile strategies limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
@@ -643,12 +691,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-12T04:20:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:35:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the complexities of decision-making in product development, particularly the balance between consensus and individual decision-making. It explores how product owners navigate uncertainty and complexity, which aligns closely with the principles of sensemaking in organisational contexts.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the dynamics of consensus in product development, which relates to sensemaking as it involves interpreting complex situations and making informed decisions. It explores the balance between collective agreement and quick decision-making, highlighting the role of leadership and collaboration in fostering a culture of consensus. However, while it touches on sensemaking principles, the focus is more on consensus rather than a broader exploration of sensemaking frameworks or models, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -661,11 +712,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of consensus in product development and decision-making, which relates to team dynamics and collaboration. However, it primarily focuses on the role of the product owner and entrepreneurial mindset rather than specific strategies or practices for enhancing team performance.",
+    "calculated_at": "2025-03-14T22:04:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the dynamics of consensus in product development, which relates to team collaboration and decision-making. It mentions the importance of building trust and facilitating consensus, which aligns with enhancing team dynamics. However, the focus is more on consensus as a concept rather than specific agile practices or methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "AI": {
@@ -733,21 +787,24 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of consensus in decision-making, which relates to the Scrum values of Openness and Respect. However, the primary focus is on the broader topic of product development and decision-making processes rather than directly addressing Scrum values as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:04:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses consensus in the context of product development, which indirectly relates to Scrum Values such as Openness and Respect. However, it does not explicitly mention the Scrum Values or provide a detailed exploration of them. The focus is more on consensus as a concept rather than the specific values that underpin the Scrum framework.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:07",
+    "calculated_at": "2025-03-14T22:04:08",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses decision-making and consensus in product development, which touches on aspects of organisational dynamics but primarily focuses on product ownership and Scrum roles rather than organisational change strategies or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -760,12 +817,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T04:20:30",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T16:44:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the role of the Product Owner within the Scrum framework, the importance of consensus in decision-making, and the dynamics of product development. While it touches on Scrum principles, it also diverges into broader entrepreneurial concepts, making Scrum a major but secondary theme.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses the concept of consensus in product development, which is relevant to Scrum principles, particularly in the context of decision-making by Product Owners. However, it lacks direct references to Scrum roles, events, or specific practices, making it more of a general discussion on product development rather than a focused exploration of Scrum methodologies.",
+    "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -805,12 +865,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of consensus in decision-making within product development, touching on the responsibilities of the Product Owner and the Scrum Master in facilitating collaboration and trust among team members.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:04:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses consensus in product development, which is relevant to team dynamics and decision-making but does not specifically address the role of a Scrum Master or Scrum practices. While it touches on collaboration and facilitation, it lacks direct references to Scrum ceremonies or the responsibilities of a Scrum Master.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -832,39 +895,51 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of consensus in product development and decision-making, which relates to technical leadership principles, particularly in agile environments. However, the primary focus is on consensus and decision-making rather than on technical leadership itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:05:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses consensus in product development, touching on leadership and collaboration, but it lacks a direct focus on technical leadership principles or agile methodologies. While it mentions decision-making and team dynamics, it does not delve into specific technical leadership strategies or practices, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:05:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of consensus in product development and decision-making, which relates to understanding customer needs and team dynamics. However, it primarily focuses on the role of consensus and leadership rather than specific methodologies or practices directly tied to product discovery.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of consensus in product development, which is tangentially related to product discovery. However, it primarily focuses on decision-making dynamics rather than directly exploring methodologies for identifying customer needs or defining product features. While it touches on collaboration and decision-making processes, it lacks in-depth exploration of user research, customer feedback, or feature prioritisation, which are core themes of product discovery.",
     "level": "Tertiary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making in product development and the entrepreneurial mindset, which aligns with Lean Startup principles. However, it primarily focuses on consensus and leadership rather than the core Lean Startup concepts like MVPs or the Build-Measure-Learn loop.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content discusses consensus in product development but does not explicitly mention Lean Startup principles, MVPs, or the Build-Measure-Learn feedback loop. While it touches on decision-making and collaboration, it lacks a focus on iterative learning and validated learning central to Lean Startup methodology.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:05:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of consensus in product development, which relates to Agile principles, particularly in the context of the product owner's role. However, it primarily focuses on decision-making and leadership rather than specific Agile planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses consensus in product development, which is tangentially related to Agile Planning principles, particularly in terms of collaboration and decision-making. However, it lacks direct references to Agile methodologies, iterative planning, or specific Agile practices like sprints or backlogs. The focus is more on consensus as a concept rather than on Agile Planning itself, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -913,12 +988,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of the Product Owner and touches on decision-making and consensus within a team context, which are relevant to Scrum Team dynamics. However, it primarily focuses on broader themes of entrepreneurship and decision-making rather than specific Scrum practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T22:04:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses consensus in decision-making, which is relevant to Scrum teams, particularly in the context of the Product Owner's role. However, it lacks a direct focus on Scrum roles, team dynamics, and specific Scrum practices, making it more of a general discussion on consensus rather than a deep dive into Scrum team collaboration.",
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -1042,12 +1120,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making and consensus in product development, which relates to agility in a broader organisational context. However, it primarily focuses on the role of the product owner and team dynamics rather than enterprise-level agility frameworks or structures.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses consensus in product development, which touches on collaboration and decision-making but lacks a broader organisational context. While it mentions leadership and the importance of trust, it does not explicitly address enterprise agility frameworks or organisational structures that support agility. The focus remains primarily on team-level dynamics rather than the enterprise-wide implications of agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1105,12 +1186,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of consensus in product development, touching on decision-making processes relevant to product owners and the importance of collaboration, which are key aspects of product delivery. However, it primarily focuses on the philosophical and strategic implications of consensus rather than specific methodologies or practices directly related to the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of consensus in product development, which is relevant to product delivery. It touches on decision-making, collaboration, and the importance of building trust, all of which are integral to delivering software products effectively. However, while it aligns with the category's themes, it does not delve deeply into methodologies or practices specific to product delivery, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1126,11 +1210,14 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of consensus in product development and decision-making, touching on themes of experimentation, risk-taking, and learning from both successes and failures. However, the primary focus is on consensus and decision-making rather than explicitly on discovery and learning methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the dynamics of consensus in product development, touching on aspects of decision-making, collaboration, and the importance of trust, which are relevant to learning and discovery. However, it primarily focuses on consensus rather than explicitly exploring methodologies for innovation or continuous learning, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
@@ -1192,12 +1279,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of consensus in product development, touching on decision-making and entrepreneurial mindsets, but it also references Scrum principles and practices, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the concept of consensus in product development, which is relevant to Agile methodologies but does not explicitly reference Agile, Scrum, DevOps, or Lean frameworks. While it touches on themes of collaboration and decision-making, it lacks a direct connection to established practices, making it more of a general exploration rather than a focused discussion on recognised methodologies.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -1231,12 +1321,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of consensus in product development and decision-making, which relates to the adaptability and responsiveness aspects of business agility. However, it primarily focuses on the dynamics of consensus and decision-making rather than broader principles or strategies of business agility.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of consensus in product development, which is tangentially related to business agility. While it touches on decision-making in dynamic markets and the importance of leadership and collaboration, it does not explicitly address the core principles of business agility or provide in-depth strategies for fostering agility within organisations. The focus is more on consensus as a decision-making tool rather than on broader agile practices or frameworks.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1249,12 +1342,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of consensus in product development, which relates to value delivery, but it primarily focuses on decision-making processes and the role of the product owner rather than specific value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the concept of consensus in product development, which is tangentially related to value delivery. While it touches on decision-making and collaboration, it lacks a direct focus on iterative development, customer value measurement, or Agile methodologies. The discussion is more about the dynamics of consensus rather than strategies for delivering value to customers.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1267,11 +1363,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:05:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of consensus in product development and decision-making, which relates to organisational agility. However, it primarily focuses on the nuances of consensus rather than broader agile practices or frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of consensus in product development, which touches on aspects of decision-making and collaboration. However, it lacks a direct focus on organisational agility principles, such as agile methodologies or cultural shifts. While it mentions leadership and collaboration, it does not delve deeply into how these elements enhance organisational adaptability or responsiveness, which are core themes of the category.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1297,11 +1396,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of consensus in product development, touching on team dynamics, decision-making processes, and the role of leadership in fostering trust and collaboration. However, it primarily focuses on the concept of consensus rather than a broader exploration of sociotechnical systems as a whole.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the dynamics of consensus in product development, touching on aspects of team collaboration and decision-making, which are relevant to sociotechnical systems. However, it primarily focuses on consensus as a concept rather than explicitly addressing the interplay between social and technical systems. While it mentions the importance of trust and collaboration, it lacks a deeper exploration of how these elements integrate with organisational structures or technology adoption, which is central to the sociotechnical systems category.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -1342,11 +1444,14 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T16:42:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:04:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses consensus in decision-making and its implications for product development, touching on leadership and team dynamics. However, it primarily focuses on product management and Agile methodologies, making the psychological aspects a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses consensus in the context of product development, touching on themes of collaboration, decision-making, and trust, which are relevant to organisational psychology. However, it primarily focuses on practical aspects of consensus rather than deeply exploring psychological theories or principles. While there are mentions of leadership and team dynamics, the depth of psychological analysis is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Leadership": {

@@ -27,7 +27,10 @@ aliasesArchive:
 - /blog/bug-in-the-visual-studio-git-integration-that-results-in-a-merge-conflict
 - /resources/blog/bug-visual-studio-git-integration-results-merge-conflict
 tags:
+- Modern Source Control
+- Software Development
 - Troubleshooting
+- Practical Techniques and Tooling
 categories:
 - Engineering Excellence
 - DevOps

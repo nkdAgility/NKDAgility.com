@@ -33,10 +33,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Pragmatic Thinking
-- Agile Transformation
-- Agile Project Management
-- People and Process
+- Continuous Learning
+- Discovery and Learning
 resourceTypes:
 - video
 categories:

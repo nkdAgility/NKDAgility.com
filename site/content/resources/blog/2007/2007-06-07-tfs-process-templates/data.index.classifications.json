@@ -1,11 +1,14 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:46:11",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses process templates in Team Foundation Server, which relates to application lifecycle management, but it primarily focuses on the challenges of configuring these templates rather than the broader aspects of ALM.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the use of process templates in Team Foundation Server (TFS), which is relevant to Application Lifecycle Management (ALM) as it pertains to the configuration and management of software development processes. However, while it mentions ALM in the tags, the primary focus is on TFS features rather than a comprehensive discussion of the application lifecycle stages or best practices. The alignment with core themes is moderate, and the depth of discussion on ALM practices is somewhat limited, focusing more on the challenges of configuring templates rather than broader lifecycle management strategies.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -295,7 +298,7 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-03-10T19:04:58",
+    "calculated_at": "2025-03-15T07:46:09",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -303,7 +306,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, but it primarily focuses on process templates without delving into broader Azure DevOps functionalities or best practices. While TFS is relevant, the discussion lacks depth in terms of CI/CD, integration, or agile project management practices specific to Azure DevOps, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1234,7 +1237,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T15:19:43",
+    "calculated_at": "2025-03-15T07:46:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1242,7 +1245,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the practical aspects of configuring process templates in Team Foundation Server, which aligns with pragmatic problem-solving in Agile contexts. However, it lacks direct mentions of Agile, Scrum, or DevOps principles and does not provide in-depth strategies or case studies, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1255,7 +1258,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:23:59",
+    "calculated_at": "2025-03-15T07:46:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -1263,7 +1266,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the use of Team Foundation Server and its process templates, which touches on aspects of software development practices. However, it lacks a direct focus on engineering excellence principles, such as coding standards or quality assurance. The discussion is more about the challenges of configuring process templates rather than promoting high standards in software craftsmanship or continuous improvement. Therefore, while there are some relevant elements, they are not sufficiently developed or central to the content.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1303,12 +1306,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:46:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the configuration of process templates in Team Foundation Server, which relates to operational practices, but it is more focused on personal experience and advice rather than on established techniques or broad strategies for enhancing operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the configuration of process templates in Team Foundation Server, which relates to operational practices. However, it lacks explicit strategies for enhancing operational efficiency and does not delve deeply into methodologies like Agile or DevOps. The focus is more on personal experience and challenges rather than on systematic techniques or best practices for operational improvement.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1411,7 +1417,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T12:20:52",
+    "calculated_at": "2025-03-15T07:46:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1419,6 +1425,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses Team Foundation Server and its process templates, with no direct mention of Scrum principles, roles, or events. While it touches on project management concepts, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum practices, resulting in a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

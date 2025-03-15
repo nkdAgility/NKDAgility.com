@@ -22,9 +22,7 @@ aliasesArchive:
 - /blog/windows-cardspace-gets-firefox-support
 - /windows-cardspace-gets-firefox-support
 - /resources/blog/windows-cardspace-gets-firefox-support
-tags:
-- News and Reviews
-- Windows
+tags: []
 preview: metro-binary-vb-128-link-1-1.png
 categories: []
 

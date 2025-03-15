@@ -26,16 +26,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Software Developers
 - Software Development
-- Working Software
-- Pragmatic Thinking
-- Product Delivery
-- People and Process
-- Agile Frameworks
-- Value Delivery
-- Transparency and Accountability
+- Software Developers
+- Agile Project Management
+- Agile Transformation
 resourceTypes:
 - video
 categories:

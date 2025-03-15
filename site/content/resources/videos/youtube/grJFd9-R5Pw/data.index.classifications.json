@@ -58,12 +58,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the application of Scrum and the challenges faced in traditional organisations, which includes elements of coaching and facilitating growth. However, the primary focus is on Scrum training rather than coaching practices specifically.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the APS course and its practical applications in Scrum, which indirectly relates to coaching by highlighting the importance of understanding team dynamics and improving collaboration. However, it primarily focuses on the application of Scrum rather than the coaching process itself. While there are mentions of facilitating growth and addressing dysfunctions, the depth of discussion on coaching techniques and the role of a coach is limited.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -124,38 +127,50 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum within traditional organisations and highlights the challenges of integrating agile methodologies, which relates to the broader theme of digital transformation. However, the primary focus is on Scrum training rather than a strategic discussion on digital technologies for business transformation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the application of Scrum within organisations, discussing how to navigate traditional management practices and enhance problem-solving capabilities. While it touches on themes of agility and organisational constraints, it lacks a direct focus on the strategic adoption of digital technologies for business transformation, which is central to the Digital Transformation category. The discussion is more about Scrum methodology than the broader implications of digital transformation.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum and its effectiveness in solving complex problems, which relates to the delivery of functional software. However, the primary focus is on the training and understanding of Scrum rather than directly on working software itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the application of Scrum in a training context, focusing on how to effectively implement Scrum practices. While it touches on the importance of delivering value and solving complex problems, it lacks a direct focus on the characteristics of working software itself. The discussion is more about the process and training rather than the delivery of functional software that meets customer needs, which is central to the 'Working Software' category.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:04:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses how the APS course helps individuals improve their decision-making capabilities within the context of applying Scrum effectively. While the primary focus is on Scrum training, there are significant mentions of decision-making processes, particularly in relation to problem-solving and organisational constraints.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses how the APS course helps individuals apply Scrum effectively, which indirectly relates to decision-making by highlighting the importance of structured methodologies in navigating complexity and solving problems. It mentions the impact of traditional management practices on decision-making and how Scrum can improve problem-solving capabilities. However, the primary focus is on Scrum training rather than a direct exploration of decision-making frameworks or evidence-based practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum and the challenges faced in traditional organisations, highlighting the importance of self-organisation within teams. However, it primarily focuses on the APS course and its practical aspects rather than deeply exploring self-organisation as a central theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the APS course's role in applying Scrum effectively, which indirectly touches on self-organisation principles. It highlights the challenges of traditional management practices and the need for teams to navigate complexity, aligning with self-organisation themes. However, the focus is more on Scrum application rather than explicitly on self-organisation principles, which slightly lowers the depth of discussion.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -178,12 +193,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 8,
+    "ai_alignment": 30,
+    "ai_depth": 40,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of applying Scrum within traditional organisational constraints and highlights the impact of leadership and organisational policies on team dynamics and effectiveness. However, the primary focus remains on Scrum practices rather than a deep exploration of organisational culture itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the application of Scrum and the challenges faced in traditional organisations, which indirectly touches on aspects of organisational culture, such as how management practices and policies can hinder agility. However, the discussion is largely centred on Scrum practices rather than a direct exploration of organisational culture itself. While there are mentions of leadership and the impact of traditional mindsets, the content lacks a comprehensive examination of cultural dimensions or strategies for fostering a culture of continuous improvement, which are key topics in the category. Therefore, while there is some relevance, it does not fully align with the primary focus of organisational culture.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -280,12 +298,15 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:04:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum in a traditional organisational context and highlights challenges faced in scaling agile practices. However, the primary focus remains on team-level Scrum practices rather than broader organisational scaling strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the APS course and its application of Scrum, which is a team-level agile practice. While it touches on challenges faced in traditional organisations and the need for effective problem-solving, it does not delve into broader strategies for scaling agility across multiple teams or the organisation as a whole. The discussion lacks explicit references to frameworks for scaling agility or the role of leadership in fostering an agile culture, which are key topics for this category.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -301,12 +322,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum and its impact on problem-solving and team dynamics, which indirectly relates to customer satisfaction through improved team performance and value delivery. However, customer satisfaction is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the APS course and its practical applications of Scrum, with limited direct discussion on customer satisfaction. While it touches on the importance of aligning with customer and organisational objectives, it lacks a thorough exploration of customer satisfaction principles, measurement techniques, or strategies for enhancing customer engagement. The depth of discussion is more about Scrum practices than customer experience, leading to a low confidence score in the context of customer satisfaction.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -421,12 +445,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum in traditional organisations and highlights the challenges of implementing Agile principles, which relates to change management. However, the primary focus is on Scrum training rather than broader change management strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the APS course and its practical application of Scrum, which is more aligned with Scrum training than Change Management. While it touches on challenges faced in traditional organisations and the need for adaptability, it lacks a direct discussion on Change Management principles, strategies, or leadership roles. The depth of discussion on Change Management concepts is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -475,11 +502,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T06:56:32",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:47:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the application of Scrum, which is a framework within Agile methodologies, and how it impacts teams and their productivity. While it focuses on Scrum training and its practical implications, it does relate to the role of software developers in Agile contexts, making it a major but secondary theme.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the application of Scrum within the context of Agile methodologies, which is highly relevant to software developers. It explicitly mentions how the APS course helps individuals understand and apply Scrum effectively, which aligns with the role of developers in Agile environments. The depth of discussion includes practical encounters with Scrum, challenges faced in traditional organisations, and the importance of problem-solving capabilities, all of which are crucial for developers working in Agile teams. However, while the content is focused on Scrum, it does not delve deeply into specific software development practices or tools, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -565,11 +595,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T06:56:47",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-13T16:56:30",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses practical applications of Scrum within the APS course, focusing on real-world problem-solving strategies, navigating complexity, and adapting to traditional organisational constraints. It emphasises hands-on learning and the importance of experience in applying Scrum effectively, aligning closely with the principles of Pragmatic Thinking.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses practical applications of Scrum within the APS course, highlighting real-world problem-solving strategies and the importance of adaptability in complex environments. It provides detailed examples of simulations that reveal dysfunctions in traditional practices and illustrates how to navigate these challenges effectively. The focus on teaching participants to apply Scrum despite organisational constraints aligns well with the core themes of Pragmatic Thinking.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -583,11 +616,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T06:56:50",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-14T15:34:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "Content primarily discusses the application of Scrum within the context of Agile Project Management, including practical encounters, challenges, and the importance of agile principles and practices.",
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the application of Scrum within the context of Agile Project Management, detailing how the APS course helps individuals understand and implement Scrum effectively. It covers key aspects such as practical encounters with Scrum, challenges in traditional organisations, and the importance of agile principles. The depth of discussion is significant, providing insights into simulations and the impact of organisational constraints on agile practices. Overall, the content aligns closely with the core themes of Agile Project Management, justifying a high confidence score.",
     "level": "Primary"
   },
   "Continuous Integration": {
@@ -601,12 +637,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum within the context of organisational challenges and the need for effective problem-solving, which aligns with Agile principles. However, it primarily focuses on the practical aspects of Scrum training rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the application of Scrum within the context of an Agile training course, which aligns with Agile principles. It discusses how the APS course helps individuals understand and implement Scrum effectively, addressing challenges in traditional organisations and the importance of adapting to constraints. However, while it touches on strategic aspects, such as leadership awareness and organisational policies, it lacks a broader discussion on Agile strategy as a whole, which limits its depth in that specific area.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -637,29 +676,38 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-12T06:56:59",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:02:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses how the APS course helps individuals navigate complexity and solve complex problems using Scrum, which aligns with sensemaking principles. However, the primary focus is on Scrum training rather than a broader exploration of sensemaking in organisational contexts.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses how the APS course helps individuals apply Scrum effectively, particularly in navigating complexity and solving complex problems. It mentions the challenges of traditional organisational structures and how Scrum can highlight dysfunctions, which aligns with sensemaking principles. However, the primary focus is on Scrum training rather than a broader exploration of sensemaking as a concept, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum and its impact on team dynamics, highlighting challenges and the importance of collaboration, but it primarily focuses on the practical aspects of Scrum training rather than directly addressing team motivation strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the practical application of Scrum and the challenges faced in traditional organisations, with limited direct discussion on team motivation strategies. While it touches on the importance of collaboration and the impact of leadership decisions on team dynamics, it lacks a thorough exploration of techniques for fostering engagement, trust, or psychological safety within teams. The emphasis is more on Scrum processes rather than the motivational aspects that drive team performance.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-12T06:57:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:02:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses how the APS course helps individuals and teams apply Scrum effectively, focusing on enhancing collaboration, problem-solving capabilities, and addressing dysfunctions within teams. It aligns well with the key topics of team dynamics and the role of leadership in supporting high-performing teams.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily focuses on how the APS course helps individuals and teams apply Scrum effectively, which directly relates to enhancing team performance and collaboration. It discusses practical encounters with Scrum, the visibility of dysfunctions in traditional setups, and the importance of aligning team priorities with organisational objectives. The depth of discussion includes specific simulations and challenges faced by teams, which aligns well with the category's focus on team dynamics and continuous improvement. Overall, the content is rich in relevant details and examples, making it a strong fit for the 'Team Performance' category.",
     "level": "Secondary"
   },
   "AI": {
@@ -709,11 +757,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T06:57:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:02:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the application of Scrum within the context of Agile transformation, focusing on practical encounters, challenges in traditional organisations, and the importance of Agile principles and values.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the APS course and its practical application of Scrum, which is a key framework in Agile transformation. It discusses the challenges of applying Scrum in traditional organisations, highlighting the need for cultural shifts and effective problem-solving capabilities, which aligns well with the core themes of Agile transformation. The depth of discussion is significant, covering various aspects of Scrum application and the impact on organisational agility, though it could benefit from more explicit references to broader Agile transformation strategies beyond Scrum.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -727,11 +778,14 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum and its challenges, touching on the importance of core values and principles in decision-making and problem-solving, but it primarily focuses on the APS course and its practical aspects rather than directly addressing Scrum Values as a central theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the application of Scrum in a practical context, highlighting the importance of understanding Scrum values and principles. While it does not explicitly mention all Scrum values, it touches on concepts like collaboration, problem-solving, and the impact of traditional management on Scrum practices, which align with the core themes of the category. The depth of discussion is significant, as it explores how the APS course helps individuals navigate challenges and apply Scrum effectively, indicating a strong understanding of the values involved.",
     "level": "Tertiary"
   },
   "Organisational Change": {
@@ -754,20 +808,26 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T06:57:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:02:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the application of Scrum principles and practices through the APS course, focusing on effective Scrum implementation, roles, and challenges in product development.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the application of Scrum principles through the APS course, highlighting practical encounters with Scrum, the roles of participants, and the challenges faced in traditional organisations. It aligns well with key topics such as Scrum roles, iterative development, and the importance of customer feedback. The depth of discussion is significant, providing insights into how Scrum can be effectively applied and the impact of organisational constraints on Scrum practices.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T06:57:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T02:02:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the application of Scrum in practical settings, focusing on how to effectively implement Scrum practices to improve operational efficiency and problem-solving capabilities within organisations. While it does touch on operational challenges and dysfunctions, the main emphasis is on the practical application of Scrum rather than broader operational practices.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the application of Scrum within the APS course, discussing practical encounters and challenges faced in traditional organisations. While it does touch on operational practices, such as problem-solving capabilities and the impact of traditional management on Scrum effectiveness, it lacks a direct focus on broader operational efficiency techniques or metrics. The discussion is more centred on Scrum methodology rather than a comprehensive exploration of operational practices in Agile, DevOps, or Lean frameworks.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
@@ -790,20 +850,26 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum principles in various organisational contexts, including challenges faced in traditional environments. However, it primarily focuses on individual and team-level training rather than explicitly addressing the scaling of Scrum across multiple teams or organisational structures.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the APS course and its effectiveness in teaching Scrum principles, rather than explicitly discussing scaling Scrum in large organisations. While it touches on challenges faced in traditional organisations and the application of Scrum, it lacks a direct exploration of frameworks for scaling, coordination among multiple teams, or organisational-level practices. The discussion is more about individual and team-level understanding of Scrum rather than its application at scale.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T06:57:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:02:55",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the application of Scrum principles and practices, which are central to the role of a Scrum Master, including coaching, problem-solving, and navigating challenges within Scrum teams.",
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses the application of Scrum principles and practices, particularly in the context of training individuals to become effective Scrum practitioners. It highlights the role of Scrum in addressing dysfunctions within teams and organisations, which aligns closely with the responsibilities of a Scrum Master. The depth of discussion regarding practical encounters with Scrum, the challenges faced in traditional organisations, and the emphasis on coaching and mentoring further supports its relevance to the Scrum Master category. While it does not explicitly mention the Scrum Master role, the focus on facilitating Scrum processes and improving team dynamics indicates a strong alignment with the core themes of the category.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -826,12 +892,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:04:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum and the challenges faced in traditional organisations, which relates to technical leadership in guiding teams through agile practices. However, the primary focus is on the APS course and its practical applications rather than on broader technical leadership principles.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the APS course and its practical applications of Scrum, which is a framework within agile methodologies. While it discusses aspects of team dynamics and the challenges of applying Scrum in traditional organisations, it lacks a direct focus on the broader principles of technical leadership, such as mentoring, coaching, or servant leadership. The discussion is more about the course's structure and outcomes rather than the role of a technical leader in guiding teams. Therefore, while there are relevant elements, they do not constitute a primary focus on technical leadership.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -853,11 +922,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T06:57:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:02:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the application of Scrum, which is a key framework within Agile Planning. It focuses on practical encounters with Scrum, the challenges of applying Scrum in traditional organisations, and the importance of aligning with Agile principles, making it a central theme of the discussion.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the application of Scrum, which is a key framework within Agile Planning. It discusses practical encounters with Scrum, the challenges of applying Scrum in traditional organisations, and the importance of aligning with Agile principles. The depth of discussion is significant, covering various aspects of Scrum and its impact on team dynamics and problem-solving capabilities. However, while it aligns well with Agile Planning, it does not explicitly cover all aspects of Agile Planning methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -907,11 +979,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T06:57:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T02:03:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the application of Scrum in a practical training context, focusing on team dynamics, roles, and the challenges faced by Scrum teams in traditional organisations.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the APS course's practical application of Scrum, highlighting the roles and challenges faced by Scrum teams. While it mentions Scrum and its application, the focus is more on the course structure and less on the dynamics and collaboration within Scrum teams. The depth of discussion on team roles and collaboration techniques is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Technical Mastery": {
@@ -1033,12 +1108,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum within traditional organisational constraints and highlights the challenges of fostering agility at an organisational level, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the application of Scrum at the team level, discussing practical training and simulations without addressing broader organisational structures or strategies for fostering a culture of agility. While it touches on challenges faced in traditional organisations, it lacks a comprehensive exploration of enterprise-level agility concepts such as scaling frameworks, leadership roles, or metrics for measuring agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1096,12 +1174,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum, which is a methodology relevant to product delivery, but it primarily focuses on training and understanding Scrum rather than the broader aspects of delivering software products effectively.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on the application of Scrum, which is a key methodology in product delivery. It discusses practical encounters with Scrum, the challenges faced in traditional organisations, and how to effectively apply Scrum to enhance collaboration and problem-solving. While it does not explicitly mention all aspects of product delivery, it aligns well with the core themes of iterative development, cross-functional teams, and the importance of adapting methodologies to meet customer needs. The depth of discussion on Scrum's application and its impact on product delivery processes contributes to a high confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1117,25 +1198,31 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum and the learning experiences within the APS course, highlighting the importance of understanding Scrum principles and adapting to challenges. However, the primary focus is on Scrum implementation rather than broader discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the application of Scrum within a training context, discussing practical encounters and challenges faced by participants. While it touches on learning outcomes and the importance of adapting Scrum practices, the emphasis is more on the mechanics of Scrum rather than on broader discovery and learning methodologies. The discussion of dysfunctions and problem-solving capabilities hints at learning from experiences, but it lacks a deeper exploration of continuous learning or innovation processes. Therefore, while there are relevant elements, the primary focus remains on Scrum application rather than on discovery and learning as a core theme.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum in navigating complexity and solving complex problems, which aligns with Systems Thinking principles. However, the primary focus is on Scrum methodology rather than a comprehensive exploration of Systems Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the application of Scrum within organisations, discussing practical encounters and challenges rather than explicitly addressing Systems Thinking principles. While it touches on complexity and decision-making, it lacks a thorough exploration of interconnectedness and holistic analysis typical of Systems Thinking discussions.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-07T14:16:52",
+    "calculated_at": "2025-03-15T02:02:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1143,7 +1230,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses the application of Scrum in a practical setting, focusing on exercises and participant experiences rather than explicitly addressing complexity science or its principles. While there are elements of organisational change and engagement that touch on complexity, the discussion lacks depth in exploring non-linear dynamics, emergent behaviours, or frameworks like the Cynefin Framework. The content does not sufficiently align with the core themes of Complexity Thinking, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1168,11 +1255,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the APS course, which is a structured training event focused on applying Scrum effectively. While it primarily details the course's content and benefits, it does relate to a formal learning experience, making it a significant theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the APS course, which is a training event focused on applying Scrum effectively. While it does mention practical encounters and simulations that occur during the course, it lacks explicit references to broader events or presentations, such as conferences or webinars. The discussion aligns with the core themes of Agile and Scrum, but the depth of detail is more focused on the course structure rather than on sharing insights from a wider community or industry experts. Therefore, while it is relevant, it does not fully meet the criteria for the 'Events and Presentations' category.",
     "level": "Tertiary"
   },
   "Market Adaptability": {
@@ -1213,21 +1303,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the APS course, which is a training product related to Scrum, making it a major theme. However, it primarily focuses on the course's practical applications rather than providing a review or analysis of a specific product or literature.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily discusses the APS course, which is a training programme rather than a specific product or book. While it touches on the application of Scrum and Agile principles, it lacks direct references to specific literature or tools that would typically fall under the 'Products and Books' category. The discussion is more focused on the course's structure and outcomes rather than providing a review or analysis of a product or book. Therefore, while there is some relevance, it does not meet the primary focus required for a higher confidence score.",
     "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the application of Scrum within traditional organisational constraints, highlighting the challenges and the need for agility. However, the primary focus is on Scrum methodology rather than broader business agility principles.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the APS course and its application of Scrum, which is a specific agile framework. While it touches on themes of organisational constraints and the need for agility, it does not deeply explore the broader principles of business agility or provide substantial insights into how organisations can adapt and innovate in a dynamic market. The discussion is more about Scrum practices than the overarching concept of business agility.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1261,11 +1357,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T02:03:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum within traditional organisational structures and highlights the challenges and dysfunctions that arise from rigid practices. While it primarily focuses on Scrum training, it also touches on themes of organisational agility, such as navigating complexity and fostering a culture of adaptability, making it a major but secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the application of Scrum, which is a framework that supports agile methodologies. While it discusses the challenges of traditional organisational structures and the need for agility, it does not deeply explore broader organisational agility strategies or cultural shifts. The discussion is more centred on Scrum practices rather than the overarching principles of organisational agility, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Personal": {

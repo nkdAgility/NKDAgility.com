@@ -27,7 +27,13 @@ aliasesArchive:
 - /blog/tfs-for-cross-team-and-cross-business-line-work-item-tracking
 - /resources/blog/tfs-cross-team-cross-business-line-work-item-tracking
 tags:
+- Practical Techniques and Tooling
 - Software Development
+- Pragmatic Thinking
+- Azure DevOps
+- Product Delivery
+- Operational Practices
+- Team Collaboration
 categories:
 - Social Technologies
 - DevOps

@@ -133,7 +133,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:37:11",
+    "calculated_at": "2025-03-15T03:30:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -141,7 +141,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, particularly in the context of the Department of Defence and its impact on software development. While it touches on themes relevant to DevOps, such as iterative development and the importance of user involvement, it lacks a direct focus on DevOps principles, practices, and tools. The discussion is more centred on agile practices rather than the integration of development and operations, which is a core aspect of DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -265,11 +265,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T18:33:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T17:00:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies in the context of product delivery, highlighting the benefits of iterative development, user involvement, and the impact of government policies on software delivery practices.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies in the context of the Department of Defence and its implications for product delivery. It explicitly mentions key principles of agile, such as iterative development, user involvement, and flexible processes, which align closely with the core themes of product delivery. The depth of discussion is substantial, providing detailed examples and metrics that illustrate the benefits of agile practices over traditional methods. Overall, the content is highly relevant to the category of Product Delivery.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -301,11 +304,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-14T18:33:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:23",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, highlighting principles of iterative development, incremental delivery, and the impact of Agile on value delivery in government projects, particularly within the DOD and FBI contexts.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the shift from waterfall to agile methodologies, highlighting the iterative and incremental delivery of value, particularly in the context of the Department of Defence and the FBI's software projects. It directly mentions principles of agile, such as delivering early and often, and the importance of user involvement, which aligns well with the core themes of value delivery. The depth of discussion is significant, providing detailed examples and outcomes of agile practices, thus reinforcing its relevance to the category.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -346,29 +352,38 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T18:33:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the transition from waterfall to agile methodologies, highlighting principles of iterative development, user involvement, and the impact of agile practices in government IT projects, which aligns closely with the Agile Product Operating Model.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the transition from waterfall to agile methodologies, particularly in the context of the Department of Defence and its impact on IT procurement. It highlights principles of iterative development, user involvement, and the benefits of agile over traditional project management. While it does not explicitly mention the Agile Product Operating Model, it aligns closely with its core themes, such as value delivery and cross-functional teams. The depth of discussion is substantial, providing examples and principles that resonate with the category, but it lacks a direct focus on the Agile Product Operating Model as a holistic framework.",
     "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-14T18:33:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies within the Department of Defence and its implications for organisational agility, including principles of iterative development, user involvement, and the cultural changes necessary for agility.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, particularly in the context of the Department of Defence and its impact on organisational practices. It explicitly mentions principles of agile, such as iterative development and user involvement, aligning well with the core themes of organisational agility. The depth of discussion is substantial, providing examples and case studies that illustrate the transformation towards agility, thus supporting a high confidence score.",
     "level": "Secondary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-14T18:33:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses recent developments in Agile methodologies, particularly in relation to the Department of Defence's shift away from waterfall processes. It provides insights into the impact of these changes on the industry and includes analysis of the Sentinel project failure, making it relevant to the category.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses a significant update in the Department of Defence's procurement rules, which directly impacts Agile methodologies in the context of government projects. It provides detailed insights into the shift from waterfall to Agile practices, supported by specific examples and statistics, thus aligning well with the core themes of industry news and reviews. The depth of discussion is substantial, covering the implications of these changes and their effects on project success rates, making it highly relevant to practitioners in Agile and DevOps.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -463,12 +478,12 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T09:08:40",
+    "calculated_at": "2025-03-15T03:30:20",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses the shift from waterfall to agile methodologies in project management, particularly within the context of the Department of Defence and the FBI. While it touches on aspects of project success rates and iterative development, it primarily focuses on the challenges and changes in project execution rather than the strategic alignment and management of a portfolio of projects.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -481,11 +496,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-14T18:34:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, highlighting principles of agile planning, iterative development, and the impact of agile practices on project success, particularly in the context of the DOD and FBI projects.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting principles of Agile Planning such as iterative development, user involvement, and flexible processes. It provides detailed examples of how these principles have been applied in the context of the DOD and FBI projects, demonstrating a strong alignment with Agile Planning concepts. The depth of discussion is substantial, with specific references to agile practices and their benefits, although it does not delve deeply into specific Agile Planning tools or frameworks.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {
@@ -508,11 +526,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T18:34:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies in the context of the Department of Defence and its implications for operational efficiency, including principles of iterative development, user involvement, and flexible processes.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the shift from waterfall to agile methodologies, highlighting operational practices that enhance efficiency and delivery in IT projects, particularly within government contexts. It provides detailed examples of principles such as iterative development, user involvement, and flexible processes, which are core to operational practices in Agile and Lean frameworks. The depth of discussion is significant, with specific case studies and metrics illustrating the benefits of these practices, thus aligning closely with the category's focus.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -526,20 +547,26 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-14T18:34:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, highlighting the principles of agile, the benefits of iterative processes, and the cultural changes required for agile adoption, making Agile Philosophy a central theme.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of agility, such as higher success rates and cost-effectiveness. It references key Agile principles like iterative development, user involvement, and flexible processes, aligning well with the core themes of Agile Philosophy. The depth of discussion is substantial, providing examples from the DOD and FBI, which illustrates the practical implications of adopting Agile principles in large organisations. Overall, the content serves as a strong commentary on the Agile mindset and its impact on organisational behaviour.",
     "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-14T18:34:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the strategic shift from waterfall to agile methodologies within the context of the Department of Defence and its implications for project delivery and organisational change, aligning with key topics in the Strategy category.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, particularly in the context of the Department of Defence (DOD) and its implications for project success rates and delivery processes. It highlights strategic principles such as iterative development, user involvement, and flexible processes, which align closely with the core themes of the Strategy category. The depth of discussion is substantial, providing specific examples and metrics that illustrate the strategic advantages of agile approaches. However, while the content is primarily focused on strategy within Agile contexts, it also touches on broader implications and historical failures, which slightly detracts from its strict alignment with the category.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -553,11 +580,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-14T18:34:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, highlighting the benefits of agile practices, principles, and the impact of government initiatives on organisational agility, particularly in the context of the Department of Defence and the FBI.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the shift from waterfall to agile methodologies, particularly in the context of the Department of Defence and the FBI. It highlights key agile principles such as iterative development, user involvement, and flexible processes, which are central to Agile Transformation. The depth of discussion includes specific examples, metrics of success, and the impact of agile practices on project outcomes, demonstrating a strong alignment with the category's focus on strategies and methodologies for leading successful Agile transformations.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -589,11 +619,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-14T18:34:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, emphasising the importance of incremental and iterative development, which aligns closely with the concept of Increment in Agile and Scrum.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the importance of incremental and iterative development. It mentions principles such as 'Deliver Early and Often' and 'Incremental and Iterative Development and Testing', which are directly related to the concept of Increment in Agile. The depth of discussion includes examples from the DOD and FBI, illustrating the impact of adopting agile practices on project success rates and the delivery of working software. However, while the Increment is a significant focus, the content also touches on broader themes of project management and organisational change, which slightly dilutes its primary focus.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -607,29 +640,38 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T18:34:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies in software development, particularly in the context of the Department of Defence and its impact on project success rates and practices.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies in software development, particularly in the context of the Department of Defence (DOD) and its impact on project success rates. It explicitly mentions agile principles, iterative development, and the failures of traditional approaches, aligning closely with key topics in software development. The depth of discussion is substantial, providing detailed examples and insights into the implications of these methodologies on project outcomes.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T18:34:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the shift from traditional waterfall methodologies to agile practices, highlighting principles of iterative development, user involvement, and the impact of agile on project success, particularly in the context of the DOD and FBI projects.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the shift from traditional waterfall methodologies to agile practices, particularly in the context of the Department of Defence and the FBI. It highlights key agile principles such as iterative development, user involvement, and the benefits of agile over waterfall, which aligns closely with the core themes of Agile Project Management. The depth of discussion is significant, providing detailed examples and metrics that illustrate the advantages of agile methodologies, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T18:34:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, highlighting key agile principles such as iterative development, user involvement, and the benefits of agility in project success. It also references the impact of these principles on government projects, making Agile values a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of iterative processes, user involvement, and flexibility in IT projects. It references principles such as delivering early and often, incremental development, and the importance of user collaboration, which align closely with Agile values. However, while it touches on these principles, the focus is more on the implications of government policies and specific case studies rather than a deep exploration of Agile values themselves.",
     "level": "Secondary"
   },
   "Professional Scrum": {
@@ -652,11 +694,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-14T18:34:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:30:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, highlighting principles of iterative development, user involvement, and the benefits of empirical process control in the context of the DOD and FBI projects.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of iterative processes and user involvement, which aligns with empirical process control principles. However, it primarily focuses on the DOD's procurement changes and the FBI's project failures rather than deeply exploring empirical process control itself. While it mentions key concepts like iterative development and user involvement, it lacks a thorough examination of transparency, inspection, and adaptation as core themes.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -688,11 +733,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-14T18:34:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:01",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies within the Department of Defence and its implications for organisational change, highlighting the principles of agile transformation and the impact of leadership and culture on this change.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies within the context of the Department of Defence and its implications for organisational change. It highlights the need for iterative processes and user involvement, which aligns with the principles of Agile transformation. However, while it touches on organisational change, the primary focus is on the technical aspects of agile implementation rather than a comprehensive exploration of change management strategies or frameworks. The depth of discussion on organisational change principles is moderate, leading to a high confidence score but not a complete alignment with the category.",
     "level": "Secondary"
   },
   "Lean Startup": {
@@ -706,11 +754,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-14T18:35:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the shift from waterfall to agile methodologies, emphasising the principles of delivering software in an iterative and incremental manner, which aligns with the concept of frequent releases.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of iterative and incremental development, which aligns with the principles of frequent releases. It mentions delivering capabilities more frequently and the importance of user involvement, but it does not focus specifically on the mechanics of frequent releases or provide in-depth strategies or tools for implementing them. The discussion is more about the cultural shift and the impact of government policies rather than a detailed exploration of frequent release practices.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -808,11 +859,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T18:35:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies in the context of the DOD and FBI, highlighting practical problem-solving strategies, real-world applications of Agile principles, and the importance of adaptability in project management.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, particularly in the context of the Department of Defence (DOD) and its implications for project management. It provides practical examples of how agile principles have been applied to improve project outcomes, highlighting the importance of iterative development, user involvement, and flexible processes. The depth of discussion includes specific case studies, such as the FBI's Sentinel project, which illustrates the real-world application of these concepts. Overall, the content aligns closely with the themes of pragmatic thinking, focusing on practical problem-solving strategies and the integration of experience-based approaches in complex environments.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -826,20 +880,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:31:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the shift from waterfall to agile methodologies in the context of the DOD and FBI, highlighting the importance of iterative processes and user involvement, which are relevant to innovation practices. However, the primary focus is on agile practices rather than a direct exploration of the Ability to Innovate as a central theme.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of iterative processes and user involvement. However, it primarily focuses on the implications of these changes rather than directly addressing the measurement and improvement of innovation capabilities. While there are mentions of success rates and project outcomes, the depth of discussion on frameworks, metrics, or Evidence-Based Management principles is limited.",
     "level": "Tertiary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T18:35:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the shift from waterfall to agile methodologies, specifically highlighting the use of Scrum in the context of government projects, which aligns with Scrum principles and practices.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, specifically highlighting the benefits of iterative development and the role of Scrum in improving project outcomes. While it does mention Scrum and its application in the context of the FBI's project, the primary focus is on the broader implications of agile practices rather than a detailed exploration of Scrum principles or processes. Therefore, it aligns with the category but lacks depth in discussing specific Scrum practices.",
     "level": "Secondary"
   },
   "Scaled Agile": {
@@ -889,11 +949,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-14T18:35:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the transition from waterfall to agile methodologies, highlighting the benefits of iterative development and the importance of delivering working software. It includes examples and principles that align closely with the characteristics of working software in Agile frameworks.",
+    "final_score": 80.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of iterative development and the importance of delivering working software. It provides specific examples, such as the FBI's Sentinel project, illustrating the impact of agile practices on project success rates and cost-effectiveness. The depth of discussion on principles like user involvement, incremental delivery, and the need for flexibility in processes aligns closely with the core themes of working software. Overall, the content is focused on the delivery of functional software and its alignment with user needs, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -970,11 +1033,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-14T18:35:59",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:31:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the transition from waterfall to agile methodologies, highlighting principles of iterative development and waste reduction, which align with Lean Principles. However, the primary focus is on agile practices rather than Lean specifically.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of iterative processes and waste reduction. While it mentions lean-agile initiatives and touches on principles like incremental development, the primary focus is on agile practices rather than Lean Principles specifically. The discussion lacks depth in Lean-specific tools and concepts, which affects the overall alignment with the category.",
     "level": "Secondary"
   },
   "Release Management": {
@@ -1015,20 +1081,26 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-14T18:36:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:17",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the shift from waterfall to agile methodologies, emphasising the importance of delivering software incrementally and iteratively, which aligns with the principles of deployment frequency in Agile and DevOps practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of iterative and incremental development, which directly relates to deployment frequency. It mentions principles like 'Deliver Early and Often' and 'multiple, rapidly executed increments or releases of capability', which are core to optimising deployment intervals. The depth of discussion includes examples from the DOD and FBI, illustrating the impact of these changes on deployment practices. However, while deployment frequency is a significant theme, the content also covers broader agile principles, which slightly dilutes its primary focus.",
     "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-14T18:36:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies within the Department of Defence and its implications for change management in IT projects, highlighting the principles of effective change management, the role of leadership, and the importance of user involvement.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, particularly in the context of the DOD and FBI, which aligns with change management principles. However, while it touches on the impact of these changes, it primarily focuses on the benefits of agile over waterfall rather than providing a comprehensive discussion on change management strategies, stakeholder engagement, or leadership roles in transformation.",
     "level": "Secondary"
   },
   "Team Collaboration": {
@@ -1051,11 +1123,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-14T18:36:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:23",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies in the context of the Department of Defence and its implications for digital transformation in government IT projects, highlighting the strategic adoption of digital technologies to enhance operational efficiency and agility.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, particularly in the context of the Department of Defence (DOD) and its impact on business processes and culture. It explicitly mentions the benefits of agile practices, such as increased success rates and cost-effectiveness, which align closely with the core themes of digital transformation. The depth of discussion includes specific examples and principles that illustrate how digital tools and methodologies can enhance operational efficiency and foster innovation. Overall, the content is highly relevant to the category, focusing on strategic adoption of digital technologies to transform business practices.",
     "level": "Secondary"
   },
   "MVP": {
@@ -1150,11 +1225,14 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-14T18:36:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the shift from waterfall to Agile methodologies at a large scale, particularly within the Department of Defence and its influence on broader government practices. It highlights principles of Agile transformation, cross-team collaboration, and the impact of cultural shifts required for enterprise agility.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the shift from waterfall to Agile methodologies, particularly in the context of large organisations like the DOD and FBI. It highlights the impact of these changes on project success rates and the cultural shifts required for Agile adoption. However, while it touches on large-scale agility, the primary focus remains on the benefits of Agile over waterfall rather than on frameworks or strategies for scaling Agile across an entire organisation.",
     "level": "Secondary"
   },
   "Team Motivation": {
@@ -1231,11 +1309,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-14T18:36:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:28",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies in software development, particularly in the context of the Department of Defence and its implications for software developers. It covers best practices in Agile, the impact of Agile on project success rates, and the importance of iterative development, which are all central themes relevant to software developers.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, particularly in the context of the Department of Defence and its impact on software development practices. It explicitly mentions agile principles, iterative development, and the importance of user involvement, which are core themes relevant to software developers. The depth of discussion includes specific examples and outcomes related to agile implementation, demonstrating a strong alignment with the category's focus on enhancing productivity and collaboration among developers.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1297,20 +1378,26 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-14T18:37:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies, detailing principles of agile, its benefits, and specific case studies, particularly in the context of the DOD and FBI. It explores the impact of agile frameworks on project success and organisational change, making it a central theme.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, specifically highlighting the Department of Defence's new procurement rules and their impact on agility. It mentions key agile principles such as iterative development, user involvement, and flexible processes, which align well with the core themes of Agile frameworks. The depth of discussion includes specific examples and case studies, particularly the FBI's transition to agile, demonstrating practical applications of agile principles. However, while the content is heavily focused on agile, it also references waterfall methodologies, which slightly detracts from its primary focus on Agile frameworks.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-14T18:37:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:40",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies within the Department of Defence and its implications for project success, aligning with key topics of Agile Strategy such as continuous value delivery, adaptability, and the integration of Agile practices into strategic planning.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the shift from waterfall to Agile methodologies, particularly in the context of the Department of Defence (DOD) and its implications for project success rates. It highlights key Agile principles such as iterative development, user involvement, and the importance of flexibility in processes. The depth of discussion includes specific examples and case studies, particularly the failure of the Sentinel project and its subsequent Agile transformation, which aligns well with the core themes of Agile Strategy. However, while the content is rich in examples and implications, it does not delve deeply into strategic planning or leadership roles, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1333,20 +1420,26 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-14T18:37:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:31:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting principles of iterative development, user involvement, and the elimination of waste in IT projects, which aligns with Lean Product Development concepts. However, the primary focus is on agile practices rather than Lean specifically.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the benefits of iterative processes and user involvement, which aligns with Lean principles. However, it primarily focuses on agile practices rather than Lean specifically, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-14T18:37:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:31:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the shift from waterfall to agile methodologies within the context of the Department of Defence and its implications for organisational practices, making it a clear analysis of trends in Agile and DevOps.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses significant shifts in procurement rules by the DOD and their implications for Agile methodologies, particularly in the context of software development. It highlights the transition from waterfall to Agile practices, providing insights into how these changes affect organisational responsiveness and adaptability. The mention of the FBI's Sentinel project failure serves as a case study illustrating the impact of adopting Agile practices. The depth of discussion includes specific principles of Agile and their benefits, aligning well with the core themes of trend analysis in Agile and DevOps. However, while the content is rich in examples and implications, it does not delve deeply into tools or metrics for monitoring trends, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -1387,7 +1480,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T18:28:42",
+    "calculated_at": "2025-03-15T03:30:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1395,7 +1488,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the shift from waterfall to agile methodologies, highlighting the impact of leadership decisions within the DOD and FBI on project outcomes. However, it primarily focuses on the technical aspects of agile implementation and the failures of specific projects rather than providing a comprehensive discussion on leadership practices or strategies. While there are mentions of leadership influence, they are not the primary focus, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

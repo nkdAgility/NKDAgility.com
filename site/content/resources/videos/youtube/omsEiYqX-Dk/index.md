@@ -2,7 +2,7 @@
 title: 'Unlocking Organisational Agility: How to Empower Your Team for Rapid Market Response'
 description: Unlock your business's potential with organisational agility! Discover how to empower teams, streamline communication, and respond swiftly to market changes.
 date: 2023-09-01T07:00:18Z
-weight: 770
+weight: 700
 ResourceId: omsEiYqX-Dk
 ResourceType: videos
 ResourceImport: true
@@ -27,6 +27,15 @@ duration: 242
 isShort: false
 tags:
 - Organisational Agility
+- Business Agility
+- People and Process
+- Enterprise Agility
+- Market Adaptability
+- Agile Transformation
+- Agile Philosophy
+- Agile Leadership
+- Organisational Change
+- Agile Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -13,12 +13,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:34:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the implementation of a Kanban strategy using Azure DevOps, which touches on strategic alignment and optimisation of delivery processes. However, it primarily focuses on practical implementation details rather than a comprehensive strategic discussion.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the development and implementation of a Caman strategy within the context of Azure DevOps, which aligns well with the Strategy category. It discusses the importance of establishing shared rules and visualising workflows, both of which are crucial for strategic alignment in Agile environments. The depth of discussion is significant, providing detailed steps for setting up a Caman board and customising it, which reflects a thorough understanding of strategic execution. However, while it touches on Agile principles, the emphasis on specific tools and practices may slightly detract from a broader strategic discussion.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -31,11 +34,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the use of Azure DevOps in managing work for software teams, which relates to the delivery of functional software. However, the primary focus is on Kanban strategies and tool configurations rather than directly on the characteristics or delivery of working software.",
+    "calculated_at": "2025-03-14T19:15:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the use of Azure DevOps for visualising workflows and managing work items, which is relevant to working software. However, it primarily focuses on the implementation of a Caman strategy rather than directly addressing the characteristics or delivery of functional software. While there are mentions of Scrum and Agile processes, the depth of discussion on working software principles is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
@@ -88,12 +94,15 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:15:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of a Kanban strategy using Azure DevOps, which includes visualising work and managing workflows. However, it primarily focuses on the tool and its configuration rather than on scaling Kanban principles across multiple teams or departments.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a 'Caman strategy' and the use of Azure DevOps for visualisation, which deviates from the core principles of Kanban. While there are mentions of workflow visualisation and managing work items, the focus is more on tool usage and Scrum practices rather than on scaling Kanban principles across multiple teams or departments. The discussion lacks depth in addressing the specific challenges and strategies related to scaling Kanban, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -133,11 +142,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:16:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of shared understanding and rules within a team, which aligns with systems thinking principles. However, the primary focus is on practical implementation of Kanban in Azure DevOps rather than a deep exploration of organisational dynamics.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of establishing shared rules and understanding the impact of individual choices on the overall system, which aligns with systems thinking principles. It also touches on the dynamics of workflow and the need for collaboration in a hybrid work environment. However, while it mentions organisational dynamics, the primary focus is on practical implementation of tools rather than a deep exploration of organisational physics concepts.",
     "level": "Tertiary"
   },
   "Scrum Values": {
@@ -169,38 +181,50 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses backlog management and the role of the product owner in configuring and managing work items in Azure DevOps, which is relevant to the Product Owner's responsibilities. However, the primary focus is on Kanban and Azure DevOps tools rather than the specific responsibilities and practices of a Product Owner.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:16:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Caman strategy and the use of Azure DevOps for visualisation in hybrid work environments. While it touches on Agile concepts, it does not specifically address the responsibilities or practices of a Product Owner. The discussion lacks direct mentions of backlog management, stakeholder engagement, or prioritisation strategies, which are central to the Product Owner role.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:52:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Kanban and Azure DevOps that relate to the flow of work, including cycle time and lead time, which are relevant to throughput. However, the primary focus is on the implementation of Kanban boards and tools rather than a comprehensive exploration of throughput as a central theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of visualising work and managing workflows using Azure DevOps, which relates to throughput. It mentions lead time and cycle time, which are key metrics for measuring throughput. However, the primary focus is on Caman strategy and visualisation rather than a deep exploration of throughput itself. The discussion on shared rules and workflow management contributes to the understanding of throughput but lacks comprehensive strategies for optimisation.",
     "level": "Tertiary"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:16:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of visualising work and sharing information within a Kanban strategy, which relates to transparency in Agile processes. However, the primary focus is on the implementation of Azure DevOps and the technical aspects of setting up a Kanban board, making transparency a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of visualisation and shared rules in a Caman strategy, which aligns with the core themes of transparency in Agile. It highlights the need for clear communication and shared understanding among team members, particularly in a hybrid work environment. The mention of establishing shared rules and the impact of individual choices on the overall workflow further supports the theme of transparency. However, while it touches on these aspects, the primary focus is more on the practical implementation of Azure DevOps rather than an in-depth exploration of transparency itself.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:16:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban and workflow management, which are related to Lean principles, particularly in terms of visualising work and optimising processes. However, the primary focus is on using Azure DevOps for Kanban rather than a deep exploration of Lean principles themselves.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a Caman strategy and the use of Azure DevOps for visualising workflows, which touches on aspects of Lean principles such as minimising waste and optimising processes. However, the primary focus is on digital tools and specific methodologies rather than a thorough exploration of Lean principles themselves. While there are mentions of shared rules and workflow management, the depth of discussion on Lean concepts is limited, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -298,11 +322,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:16:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of a Kanban strategy using Azure DevOps, touching on aspects of software workflow management and visualisation. However, the primary focus is on the tool and its configuration rather than broader principles of software craftsmanship or engineering excellence.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of Azure DevOps in the context of a Caman strategy, which touches on software engineering practices. However, while it mentions technical tools and some principles of workflow management, it primarily focuses on the implementation of a specific strategy rather than delving deeply into broader software craftsmanship principles or best practices. The discussion lacks a comprehensive exploration of clean code, testing, or architectural principles, which are central to the 'Technical Mastery' category.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -409,12 +436,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:15:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Scrum process in the context of using Azure DevOps, touching on roles and states within a Scrum framework, but primarily focuses on Kanban strategies and tools.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions Scrum in the context of Azure DevOps and work item states, but the primary focus is on Caman strategy and digital tools rather than the dynamics and roles within a Scrum Team. While there are references to team collaboration and workflow management, the depth of discussion on Scrum-specific roles and practices is limited.",
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -445,16 +475,19 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Kanban strategies and the use of Azure DevOps, which are relevant to Agile Planning, but the primary focus is on tool usage rather than the core principles and methodologies of Agile Planning.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:16:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the use of Azure DevOps in the context of a Caman strategy, which is related to Agile methodologies. However, it primarily focuses on tool usage and visualisation rather than the core principles of Agile Planning. While there are mentions of Scrum and Kanban, the discussion lacks depth in Agile Planning concepts such as iterative planning, user stories, and stakeholder alignment.",
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:02:43",
+    "calculated_at": "2025-03-14T19:15:11",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -462,7 +495,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the technical implementation of a Caman strategy using Azure DevOps, which is more aligned with project management and technical execution rather than the strategic aspects of product management. While it touches on the importance of team collaboration and visualisation, it lacks a direct discussion on product management methodologies, customer feedback prioritisation, or alignment with business strategy, which are core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -493,12 +526,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:15:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Azure DevOps as a digital tool to implement a Kanban strategy, which relates to enhancing business agility and operational efficiency. However, the primary focus is on the specifics of Kanban and Azure DevOps rather than a broader discussion on digital transformation strategies or case studies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the use of Azure DevOps as a digital tool to enhance workflow visualisation in a hybrid work environment, which aligns with the themes of digital transformation. However, while it touches on the importance of digital tools and strategies for managing work, it lacks a comprehensive exploration of broader digital transformation concepts such as organisational culture, change management, or metrics for success. The focus is primarily on practical implementation rather than strategic adoption, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -613,12 +649,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the implementation of a Kanban strategy using Azure DevOps, which includes elements of visualising work and managing workflows. While it touches on aspects of efficiency and minimising waste, the primary focus is on the tool and its configuration rather than a comprehensive discussion on Lean principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:16:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of visualisation and collaboration in a hybrid work environment, which aligns with Lean principles of minimising waste and optimising workflows. However, it primarily focuses on the implementation of a Caman strategy using Azure DevOps rather than explicitly addressing Lean Product Development concepts. While there are mentions of shared rules and workflow management, the depth of discussion on Lean principles is limited, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -667,12 +706,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:16:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of shared decision-making and the impact of individual choices on the overall system, which aligns with collaborative decision-making techniques. However, the primary focus is on implementing a Kanban strategy using Azure DevOps rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of establishing shared rules and the impact of individual choices on the overall system, which aligns with decision-making principles. However, it primarily focuses on practical implementation of a Caman strategy using Azure DevOps rather than structured decision-making methodologies. The discussion lacks depth in evidence-based practices and does not provide substantial detail on decision-making frameworks or empirical evidence.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -745,11 +787,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban strategies and the use of Azure DevOps, which are relevant to Agile practices. However, it primarily focuses on tool usage and specific configurations rather than broader Agile transformation principles or methodologies.",
+    "calculated_at": "2025-03-14T19:16:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the implementation of a Caman strategy using Azure DevOps, which is related to Agile practices, particularly Kanban. However, it primarily focuses on the use of digital tools for visualisation rather than a comprehensive discussion on Agile transformation principles, methodologies, or cultural shifts. While it touches on aspects of Agile, such as collaboration and workflow management, it lacks depth in discussing broader Agile transformation strategies and does not explicitly mention key Agile principles or frameworks beyond Kanban.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -856,12 +901,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:16:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of sharing visualizations and establishing rules for collaboration within teams using Azure DevOps, which aligns with team dynamics and communication. However, the primary focus is on the technical aspects of implementing a Kanban strategy rather than on broader themes of team collaboration.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of shared rules and collaboration in establishing a Caman strategy, which aligns with team dynamics and communication. However, it primarily focuses on the technical aspects of using Azure DevOps and visualisation tools, with less emphasis on broader team collaboration techniques or cultural aspects. The discussion on shared rules and gathering participants hints at collaboration but lacks depth in exploring trust, psychological safety, or cross-functional teamwork.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -892,11 +940,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:16:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban strategies and the use of Azure DevOps to visualise work, which aligns with Lean principles of flow and waste minimisation. However, the primary focus is on the technical implementation of Kanban rather than a comprehensive discussion of Lean Thinking principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of visualising workflows and establishing shared rules, which aligns with Lean principles of minimising waste and enhancing efficiency. It mentions the need for collaboration and continuous improvement, which are key aspects of Lean Thinking. However, the primary focus is on the Caman strategy and Azure DevOps, with Lean principles being a secondary theme rather than the main subject. The depth of discussion on Lean concepts is moderate, as it does not delve deeply into specific Lean tools or techniques.",
     "level": "Tertiary"
   },
   "AI": {
@@ -910,11 +961,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the implementation of a Kanban strategy using Azure DevOps, which touches on Agile methodologies. However, it primarily focuses on technical practices and tool usage rather than a comprehensive Agile strategy or its alignment with organisational vision and adaptability.",
+    "calculated_at": "2025-03-14T19:15:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the implementation of a Caman strategy using Azure DevOps, which aligns with Agile principles of visualisation and workflow management. However, while it touches on aspects of Agile methodologies, such as collaboration and adaptability, the primary focus is on technical practices and tool usage rather than a comprehensive Agile strategy. The depth of discussion on strategic alignment and leadership roles is limited, which affects the overall confidence score.",
     "level": "Tertiary"
   },
   "Psychological Safety": {
@@ -949,16 +1003,19 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-13T18:04:25",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a Kanban strategy using Azure DevOps, which is a key Agile framework. It explores the principles of Kanban, the configuration of boards, and the flow of work, aligning well with the category's focus on Agile frameworks and their practical applications.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T19:15:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses a Caman strategy and its implementation using Azure DevOps, which is related to Agile practices. However, it primarily focuses on the tool and its application rather than a comprehensive exploration of Agile frameworks like Scrum or Kanban. While there are mentions of Scrum and Kanban, the discussion lacks depth in comparing frameworks or exploring their principles, which diminishes its alignment with the Agile Frameworks category.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:53:48",
+    "calculated_at": "2025-03-14T19:15:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -966,7 +1023,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on implementing a Caman strategy using Azure DevOps, which is more aligned with project management and visualisation tools rather than directly discussing engineering excellence or software craftsmanship. While it touches on aspects of workflow management and team collaboration, it lacks a strong emphasis on coding standards, quality assurance, or continuous improvement practices that are central to the category of Engineering Excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -979,11 +1036,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-13T18:04:31",
-    "ai_confidence": 85,
-    "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the implementation of Kanban strategies using Azure DevOps, which is a key aspect of software development methodologies. It covers practical applications, configurations, and the importance of visualising work in a software development context.",
+    "calculated_at": "2025-03-13T15:26:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps within a Caman strategy, which is directly related to software development practices. It discusses the importance of digital tools in managing workflows, customising boards, and visualising work, all of which are essential aspects of the software development lifecycle. The author’s background as a Scrum and Kanban trainer adds credibility and depth to the discussion, aligning well with key topics in software development methodologies. The content provides detailed steps for setting up a Caman board, demonstrating a strong understanding of practical application in a software development context.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -997,12 +1057,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the Scrum process within the context of using Azure DevOps for Kanban, making Scrum a significant but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:16:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the use of Azure DevOps in a Caman strategy, which is related to visualising workflows but does not explicitly focus on Scrum principles or practices. While it mentions Scrum in the context of work item states, the primary focus is on Kanban and digital tools rather than Scrum product development. The discussion lacks depth in Scrum-specific methodologies and does not provide substantial insights into Scrum roles, sprint processes, or product backlog management.",
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1033,12 +1096,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the use of Azure DevOps for managing work items, including references to backlog management and the relationship between work items and their states. However, the primary focus is on Kanban strategies and tool usage rather than a detailed exploration of the Product Backlog itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:16:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on implementing a Caman strategy using Azure DevOps, discussing visualisation and workflow management rather than the Product Backlog itself. While it briefly mentions backlog options in Azure DevOps, it does not delve into the definition, purpose, or management of the Product Backlog in Agile. The discussion lacks depth on backlog refinement, prioritisation, or the role of the Product Owner, which are key aspects of the Product Backlog category.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1078,20 +1144,26 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of adapting work strategies in response to the challenges posed by hybrid work environments, which aligns with themes of resilience and change. However, the primary focus is on technical implementations of Kanban and Azure DevOps rather than a comprehensive exploration of organisational resilience or change management practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:16:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of establishing shared rules and adapting workflows in a hybrid work environment, which aligns with the themes of resilience and change. However, the primary focus is on technical implementation and the use of Azure DevOps, with limited exploration of broader organisational resilience strategies or change management practices. The discussion lacks depth in addressing the human and cultural aspects of change, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban strategies and the use of Azure DevOps for visualising work, which relates to product delivery methodologies. However, it primarily focuses on tool usage and specific configurations rather than the broader principles of product delivery.",
+    "calculated_at": "2025-03-14T19:15:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of Azure DevOps in the context of a Caman strategy, which relates to visualising and managing work in software development. While it touches on aspects of product delivery, such as workflow visualisation and team collaboration, it lacks a direct focus on broader product delivery methodologies like Agile or CI/CD practices. The discussion is more centred on tool usage rather than the end-to-end process of delivering software products, which diminishes its alignment with the core themes of product delivery.",
     "level": "Tertiary"
   },
   "Discovery and Learning": {
@@ -1162,7 +1234,7 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-03-06T14:53:51",
+    "calculated_at": "2025-03-14T19:15:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1170,61 +1242,79 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses the implementation of a Caman strategy using Azure DevOps, which includes some aspects of configuration, such as setting up boards and managing work items. However, it lacks a clear focus on installation procedures or comprehensive configuration best practices. While it touches on configuring elements within Azure DevOps, the overall emphasis is more on strategy and workflow rather than detailed installation and configuration guidance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:15:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Azure DevOps for managing work in a software development context, which relates to application lifecycle management. However, it primarily focuses on Kanban strategies and tool usage rather than the broader aspects of the application lifecycle such as governance, compliance, or risk management.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps for visualisation in a hybrid work environment, discussing Caman strategy and Scrum practices. While it touches on aspects of managing workflows and visualising work items, it lacks a direct focus on the entire application lifecycle, including stages like deployment, maintenance, and retirement. The discussion is more about tools and methodologies rather than comprehensive application lifecycle management, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:15:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of a Kanban strategy using Azure DevOps, which touches on aspects of visualising work and managing workflows. However, it primarily focuses on technical implementation details and tool usage rather than explicitly discussing value delivery principles or strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the use of Azure DevOps in the context of a Caman strategy, which indirectly relates to value delivery through visualisation and workflow management. However, it lacks explicit discussions on iterative development, customer value measurement, or alignment with customer needs, which are core themes of the Value Delivery category. The depth of discussion is primarily focused on technical implementation details rather than strategic value delivery practices.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of visualising work and managing workflows in Azure DevOps, which relates to metrics and performance data. However, it primarily focuses on Kanban strategies and tool usage rather than a deep exploration of metrics and learning principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:15:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the use of Azure DevOps for visualising workflows and managing work items, which touches on metrics like lead time and cycle time. However, the primary focus is on implementing a Caman strategy rather than a deep exploration of metrics and learning principles. While there are mentions of shared rules and workflow visualisation, the discussion lacks a thorough examination of feedback loops, evidence-based decision-making, or continuous improvement methodologies, which are central to the 'Metrics and Learning' category.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:15:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban strategies and the use of Azure DevOps, which are related to agile methodologies. However, it primarily focuses on tool usage and specific configurations rather than broader organisational agility principles or cultural shifts.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the implementation of a Caman strategy using Azure DevOps, which aligns with the principles of organisational agility by emphasising the importance of shared rules and visualising workflows. However, while it touches on aspects of agility, such as collaboration and adaptability, it primarily focuses on tool usage and specific practices rather than broader organisational strategies or cultural shifts. The depth of discussion on agility principles is moderate, but the primary focus remains on practical implementation rather than a comprehensive exploration of organisational agility.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:16:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban, which is a Lean methodology, and touches on visualising work and managing workflows, but it primarily focuses on the use of Azure DevOps and does not deeply explore Lean principles or waste reduction.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of visualising workflows and establishing shared rules, which aligns with Lean principles of continuous improvement and minimising waste. However, the primary focus is on Caman strategy and Azure DevOps, with Lean concepts being secondary. The depth of discussion on Lean-related topics is moderate, but it lacks a comprehensive exploration of Lean methodologies or tools.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:15:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Azure DevOps as a tool for implementing a Kanban strategy, which aligns with Agile practices. However, it primarily focuses on practical implementation rather than providing a review or analysis of literature or products.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on leveraging Azure DevOps as a tool for implementing a Caman strategy, which aligns with discussions on software products that facilitate Agile practices. However, while it provides practical insights and a step-by-step guide, it lacks in-depth analysis or reviews of literature related to Agile methodologies or DevOps principles, which would strengthen its alignment with the 'Products and Books' category.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -1240,21 +1330,27 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:15:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding the interconnectedness of choices made by participants in a system and how these choices impact the overall workflow. It touches on the need for shared rules and the implications of local optimisations on the larger system, which aligns with Systems Thinking principles. However, the primary focus is on implementing a Kanban strategy using Azure DevOps, making Systems Thinking a major but secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of shared rules and the impact of individual choices on the overall system, which aligns with Systems Thinking principles. However, the primary focus is on practical implementation of a Caman strategy using Azure DevOps, with limited depth on Systems Thinking concepts. The mention of systems and workflows is present but not the main focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of team collaboration and shared understanding in implementing a Kanban strategy, which aligns with the category's focus on human behaviour and structured methodologies. However, the primary focus is on the technical aspects of using Azure DevOps for Kanban, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:16:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of establishing shared rules and collaboration among team members in the context of a Caman strategy, which aligns well with the category's focus on team dynamics and communication. It highlights the human factors influencing workflow and the need for collective decision-making, which are key themes in the 'People and Process' category. However, the primary focus on Azure DevOps and technical setup slightly detracts from a deeper exploration of human behaviour and structured methodologies.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1288,12 +1384,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:15:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of shared understanding and collaboration among team members in the context of implementing a Kanban strategy using Azure DevOps. It touches on the interplay between technology (Azure DevOps) and team dynamics, but the primary focus is on the technical implementation rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of establishing shared rules and the impact of individual choices on the overall system, which aligns with sociotechnical principles. However, the primary focus is on the technical aspects of using Azure DevOps and Caman strategy, with limited exploration of the broader sociotechnical interactions. While it touches on team dynamics and collaboration, it does not delve deeply into the organisational culture or structure, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1315,12 +1414,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Kanban strategies and the use of Azure DevOps, which are relevant to Agile methodologies. However, the primary focus is on tool usage and configuration rather than on Agile product management principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T19:15:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on implementing a Caman strategy using Azure DevOps, which is more aligned with Kanban practices than Agile Product Management. While it mentions Scrum and discusses visualisation and workflow management, it lacks a direct focus on Agile principles related to product management, such as stakeholder engagement or prioritising product backlogs. The depth of discussion on Agile concepts is limited, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1333,12 +1435,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T13:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T19:16:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of shared understanding and decision-making within a team, which aligns with complexity thinking principles. However, it primarily focuses on practical implementation of Kanban in Azure DevOps rather than a deep exploration of complexity science or its frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of shared rules and the impact of individual choices on the overall system, which aligns with complexity thinking. However, it primarily focuses on practical applications of Azure DevOps and Caman strategy without deeply engaging with complexity science principles or frameworks like the Cynefin Framework. The discussion lacks a thorough exploration of non-linear dynamics or emergent behaviours, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",

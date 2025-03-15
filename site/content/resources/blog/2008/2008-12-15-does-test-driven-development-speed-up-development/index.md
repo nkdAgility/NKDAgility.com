@@ -33,7 +33,6 @@ tags:
 - Technical Excellence
 - Software Developers
 - Test First Development
-- Technical Mastery
 categories:
 - Engineering Excellence
 preview: metro-binary-vb-128-link-2-2.png

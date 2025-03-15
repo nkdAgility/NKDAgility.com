@@ -32,6 +32,15 @@ aliasesArchive:
 - /resources/blog/continuous-deliver-sprint
 tags:
 - Agile Project Management
+- Increment
+- Working Software
+- Empirical Process Control
+- Agile Planning
+- Professional Scrum
+- Scrum Product Development
+- Software Development
+- Product Delivery
+- Software Developers
 categories:
 - Scrum
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg

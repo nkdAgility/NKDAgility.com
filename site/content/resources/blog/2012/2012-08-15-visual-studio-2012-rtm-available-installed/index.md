@@ -30,10 +30,6 @@ tags:
 - Install and Configuration
 - Products and Books
 - Software Development
-- News and Reviews
-- Practical Techniques and Tooling
-- System Configuration
-- Troubleshooting
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png

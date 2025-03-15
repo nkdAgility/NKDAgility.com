@@ -26,13 +26,10 @@ preview: https://i.ytimg.com/vi/whKX9Mn1eb8/maxresdefault.jpg
 duration: 48
 isShort: true
 tags:
+- Operational Practices
 - Product Delivery
 - Software Development
-- Working Software
-- Automated Testing
-- Engineering Practices
-- Value Delivery
-- Software Developers
+- Practical Techniques and Tooling
 sitemap:
   filename: sitemap.xml
   priority: 0.6

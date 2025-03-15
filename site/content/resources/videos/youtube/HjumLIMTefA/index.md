@@ -30,15 +30,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Continuous Learning
 - Discovery and Learning
-- Change Management
-- Business Agility
-- Resilience and Change
-- People and Process
-- Enterprise Agility
-- Organisational Agility
+- Continuous Learning
 - Organisational Change
+- Agile Transformation
+- Pragmatic Thinking
+- Agile Philosophy
+- Change Management
+- Operational Practices
+- Agile Values and Principles
+- Customer Feedback Loops
 resourceTypes:
 - video
 categories:

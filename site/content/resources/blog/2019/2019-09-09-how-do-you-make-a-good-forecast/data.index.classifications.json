@@ -13,12 +13,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:26:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses forecasting techniques within Agile, specifically focusing on metrics and methodologies that can enhance predictability in Scrum, which aligns with practical techniques and tooling.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses practical techniques for forecasting in Agile projects, specifically focusing on metrics like Cycle Time, Throughput, and Work In Process, which are essential tools for improving predictability. It aligns well with the category by providing insights into methodologies for implementing Agile practices and discussing the transition from project-based to product-based budgeting. However, while it touches on practical application, it does not delve deeply into specific tools or frameworks, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -127,7 +130,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:36:47",
+    "calculated_at": "2025-03-15T03:25:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -135,7 +138,7 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses Scrum practices and forecasting within Agile project management, with only a brief mention of transitioning from a project-based to a product-based budget, which aligns with DevOps principles. However, the focus remains on Scrum methodologies rather than core DevOps practices such as CI/CD, automation, or collaboration between development and operations teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -292,20 +295,26 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-14T18:15:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T17:00:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses forecasting in Agile projects and references a specific book, 'Actionable Agile Metrics for Predictability', which aligns with the category's focus on literature relevant to Agile methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses a specific book, 'Actionable Agile Metrics for Predictability', which aligns with the category of Products and Books. However, the primary focus is on the discussion of forecasting in Agile projects rather than a detailed review or analysis of the book itself. While it touches on relevant Agile concepts and methodologies, the depth of discussion on the book and other products is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-14T18:15:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses forecasting within Agile frameworks, focusing on metrics that enhance predictability and value delivery. It addresses the transition from project-based to product-based budgeting, which aligns with value delivery principles.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses forecasting within an Agile context, touching on metrics and their impact on predictability, which aligns with value delivery principles. However, it primarily focuses on technical aspects of forecasting and metrics rather than broader strategies for delivering value to customers. While it mentions the transition from project-based to product-based budgeting, the depth of discussion on value delivery practices is limited.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -328,12 +337,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:26:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the complexities of forecasting within agile projects and touches on the interconnectedness of team dynamics, budgeting, and organisational change, which aligns with Systems Thinking principles. However, the primary focus is on Scrum methodologies and metrics rather than a comprehensive exploration of Systems Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses forecasting within an agile context, touching on metrics and the transition from project-based to product-based budgeting. While it hints at interconnectedness and complexity in organisational dynamics, it primarily focuses on specific agile methodologies and metrics rather than a holistic exploration of Systems Thinking principles. The mention of transitioning roles and involving stakeholders suggests some alignment with Systems Thinking, but the overall focus remains on linear problem-solving and specific methodologies, which detracts from a stronger classification in this category.",
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -346,20 +358,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T18:15:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the transition from project-based budgeting to a product-centric approach, emphasising the importance of metrics and team structures in Agile environments, which aligns closely with the Agile Product Operating Model.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses aspects of Agile methodologies, particularly in relation to forecasting and budgeting within Scrum teams. It touches on the transition from project-based to product-based budgeting, which aligns with the Agile Product Operating Model. However, the primary focus is on forecasting techniques and metrics rather than a comprehensive exploration of the Agile Product Operating Model itself. While it does mention the need for a product-centric approach, the depth of discussion on key topics such as cross-functional teams and continuous feedback is limited.",
     "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-14T18:15:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses agile methodologies, metrics for predictability, and the transition from project-based to product-based budgeting, all of which align with the principles of organisational agility.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses agile methodologies and the transition from project-based to product-based budgeting, which aligns with the principles of organisational agility. It touches on metrics and the cultural shifts needed for agility, but the primary focus is on forecasting and specific Scrum practices, which limits its depth in exploring broader organisational agility strategies.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -445,11 +463,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:26:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from project-based to product-based budgeting and the cultural pushback associated with this change, indicating a significant focus on organisational culture in the context of Agile and DevOps.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the transition from a project-based to a product-based budget, highlighting the cultural resistance stemming from traditional Tayloristic ideas. It addresses the need for organisational change and the involvement of various roles in adapting to Agile methodologies, which aligns with the core themes of organisational culture. However, the primary focus is on forecasting and metrics rather than a deep exploration of cultural elements, which slightly limits the depth of discussion.",
     "level": "Tertiary"
   },
   "Definition of Ready": {
@@ -481,11 +502,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-14T18:16:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses forecasting within an Agile context, focusing on metrics, team dynamics, and budgeting in relation to Agile principles, which aligns well with Agile Planning.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses forecasting within an Agile context, specifically addressing metrics and their impact on predictability, which aligns with Agile Planning principles. It explores the transition from traditional budgeting to Agile budgeting, emphasising the need for adaptability and iterative processes. However, while it touches on Agile concepts, the focus on metrics and budgeting may detract from a broader discussion on Agile Planning methodologies and practices.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {
@@ -508,21 +532,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T18:16:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses forecasting techniques and metrics within Agile frameworks, focusing on improving predictability and operational efficiency in Scrum teams, which aligns well with the category of Operational Practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses forecasting within Agile projects, focusing on metrics and their impact on predictability, which aligns with operational efficiency. It mentions the transition from project-based to product-based budgeting, reflecting on the need for process optimisation. However, while it touches on relevant topics, the primary focus is on forecasting rather than a broader operational practice discussion, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:26:20",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of Scrum Team dynamics, particularly in relation to forecasting and budgeting, which are relevant to team roles and responsibilities. However, it primarily focuses on metrics and predictability rather than the core dynamics of Scrum Teams.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses aspects of forecasting within a Scrum context, touching on team composition and budgeting related to Scrum Teams. However, it primarily focuses on metrics and predictability rather than the dynamics and collaboration within the Scrum Team itself. While it mentions Scrum Teams, the depth of discussion on roles, collaboration, and team dynamics is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -535,11 +565,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-14T18:16:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses forecasting within Agile projects, focusing on metrics and budget considerations, which are central to strategic planning in Agile environments.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses forecasting within an Agile context, touching on metrics and their impact on predictability, which aligns with strategic planning in Agile environments. However, while it mentions strategic concepts like budget cycles and team costs, the primary focus is on practical forecasting techniques rather than a comprehensive strategic discussion. The depth of discussion on strategic alignment and leadership roles is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -553,11 +586,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-14T18:16:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile practices, specifically within the context of Scrum, and addresses the transition from project-based to product-based budgeting, which is a key aspect of Agile transformation.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile principles, specifically within the context of Scrum, and addresses the challenges of forecasting in Agile environments. It aligns well with Agile transformation themes, such as the shift from project-based to product-based budgeting, and the need for cultural change in organisations. However, while it provides valuable insights and metrics related to Agile practices, it does not delve deeply into broader transformation strategies or case studies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -580,11 +616,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T18:16:34",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:25:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses metrics and methodologies for improving predictability and team performance within an Agile context, making it a significant theme, though not the sole focus.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses forecasting within an agile project context, touching on metrics and their impact on team performance. It mentions the importance of team composition and the transition from project-based to team-based budgeting, which aligns with team dynamics and collaboration. However, while it provides valuable insights into metrics and budgeting, it lacks a deeper exploration of team cohesion, conflict resolution, or specific agile ceremonies, which limits its overall depth in the context of team performance.",
     "level": "Secondary"
   },
   "Increment": {
@@ -607,20 +646,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T18:16:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Agile methodologies, specifically Scrum, and how to improve forecasting within that framework, making it central to software development practices.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses forecasting within an Agile framework, specifically Scrum, which is a key aspect of software development methodologies. It addresses metrics and practices that impact predictability in software projects, aligning well with the core themes of the Software Development category. The depth of discussion on Agile metrics and the transition from project-based to product-based budgeting indicates a strong focus on software development practices, although it also touches on broader organisational change, which slightly detracts from its primary focus.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T18:16:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses agile forecasting techniques, metrics for predictability, and the transition from project-based to product-based budgeting within an agile context.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily discusses agile project management concepts, particularly within the context of Scrum. It addresses the importance of forecasting in agile projects, critiques traditional metrics like velocity and story points, and suggests alternative metrics that align with agile principles. The depth of discussion is significant, covering various aspects of agile methodologies, team dynamics, and the transition from project-based to product-based budgeting, which are all core themes of Agile Project Management.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
@@ -634,11 +679,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-14T18:16:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Scrum principles, particularly around forecasting and metrics within the Scrum framework, while also addressing the roles and responsibilities of Scrum teams in an agile environment.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses forecasting within an agile project context, touching on Scrum principles such as team dynamics and metrics. However, it primarily focuses on forecasting techniques and budget considerations rather than a comprehensive exploration of Scrum roles, events, or artifacts. While it aligns with some core themes of Scrum, it lacks depth in discussing the Scrum framework itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -688,11 +736,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-14T18:16:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the transition from a project-based budget to a product-based budget, highlighting the need for organisations to adapt to agile methodologies and the resistance faced during this change, which aligns with the principles of organisational change.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the transition from a project-based budget to a product-based budget, which aligns with organisational change principles. It touches on the complexities of moving towards agility and the resistance faced from traditional management structures. However, the primary focus is on forecasting and metrics within Scrum, which detracts from a deeper exploration of organisational change methodologies and frameworks. While there are relevant insights, the content does not provide extensive detail on change management practices or leadership roles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Lean Startup": {
@@ -733,11 +784,14 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-14T18:16:58",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:25:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of metrics and data-driven approaches in forecasting and budgeting within Agile environments, which aligns with evidence-based leadership principles. However, the primary focus is on specific Agile practices rather than a broader discussion on evidence-based leadership itself.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses forecasting in Agile projects and the importance of metrics for predictability, which aligns with evidence-based practices. It mentions specific metrics and their impact on decision-making, reflecting a data-driven approach. However, the primary focus is on technical aspects of Agile rather than leadership decisions, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -760,7 +814,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:31:20",
+    "calculated_at": "2025-03-15T03:25:03",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -768,7 +822,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily discusses forecasting within an agile project context, focusing on metrics and their impact on predictability. While it touches on some aspects of engineering practices, such as metrics and team dynamics, it does not explicitly promote high standards in software craftsmanship or development practices. The discussion is more aligned with project management and agile methodologies rather than the core themes of engineering excellence, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -790,11 +844,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-14T18:17:07",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:25:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the dynamics of organisational budgeting and team structures within an agile context, touching on systems thinking principles and the transition from project-based to product-based budgeting. However, it primarily focuses on forecasting and metrics rather than a comprehensive exploration of organisational dynamics.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses forecasting within an agile project context, touching on metrics and their impact on predictability, which aligns with systems thinking principles. It also addresses the transition from project-based to product-based budgeting, reflecting on organisational change and complexity. However, the primary focus is on specific agile practices rather than a comprehensive exploration of organisational dynamics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Customer Retention": {
@@ -808,11 +865,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T18:17:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:44",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies within an Agile context, particularly focusing on forecasting and metrics that enhance predictability in Scrum. It emphasises real-world applications of Agile principles and the transition from project-based to product-based budgeting, aligning well with the category's focus on pragmatic approaches.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses practical forecasting strategies within an Agile context, emphasising the importance of metrics like Cycle Time and Throughput over traditional methods. It aligns well with the core themes of pragmatic thinking by addressing real-world applications of Agile principles and the complexities of project management. The depth of discussion is substantial, providing insights into transitioning from project-based to product-based budgeting, which reflects experience-based problem-solving. However, while it mentions Agile and Scrum, the primary focus is on forecasting rather than a broader discussion of pragmatic thinking.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -826,20 +886,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:26:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics and forecasting in Agile environments, which relates to the ability to innovate through improved predictability and adaptability. However, the primary focus is on Scrum practices rather than a direct exploration of innovation capabilities.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses forecasting within Agile projects and critiques traditional metrics like Story Points and Burnups, suggesting a shift towards flow metrics for better predictability. While it touches on the need for innovation in budgeting and team structuring, it primarily focuses on Agile practices and metrics rather than directly addressing the Ability to Innovate as a primary theme. The discussion lacks depth in exploring frameworks or strategies specifically aimed at enhancing innovation capabilities.",
     "level": "Tertiary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T18:17:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Scrum principles, metrics for forecasting in Scrum, and the transition from project-based to product-based budgeting, which are central to Scrum product development.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses various aspects of Scrum, including forecasting, metrics, and the transition from project-based to product-based budgeting, which aligns well with Scrum principles. It provides insights into the roles of Scrum teams and the importance of metrics in predicting outcomes, demonstrating a solid understanding of Scrum practices. However, while it touches on key topics, it does not delve deeply into specific Scrum events or roles, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Scaled Agile": {
@@ -961,11 +1027,14 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-14T18:17:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses forecasting within an Agile context, focusing on evidence-based metrics and methodologies to improve predictability and decision-making regarding budget and team staffing. It aligns well with the principles of structured decision-making.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses forecasting within an Agile context, touching on metrics and their impact on predictability, which aligns with decision-making principles. However, it primarily focuses on practical advice and personal insights rather than structured methodologies or empirical evidence, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -997,11 +1066,14 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-14T18:17:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses Cycle Time as a key metric for improving predictability and workflow efficiency in Agile environments, making it a primary topic.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Cycle Time as part of a broader conversation about forecasting and metrics in Agile. While it mentions Cycle Time and its relationship to other metrics, the primary focus is on forecasting and budget considerations rather than an in-depth exploration of Cycle Time itself. The discussion provides some relevant insights but lacks comprehensive detail specifically about Cycle Time, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -1024,11 +1096,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-14T18:17:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the transition from project-based to product-based budgeting, which aligns with change management principles in Agile environments. It addresses the resistance to change and the need for stakeholder engagement, making it a primary topic.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the transition from project-based to product-based budgeting, which aligns with change management principles. It touches on the resistance to change and the need for stakeholder engagement, but the primary focus is on forecasting and metrics in Agile rather than on change management strategies. While it does mention the need for organisational transition and involves some change management concepts, it lacks a comprehensive exploration of the category's core themes.",
     "level": "Secondary"
   },
   "Team Collaboration": {
@@ -1105,11 +1180,14 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-14T18:17:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses forecasting within Agile, including metrics for predictability and the impact of team dynamics on estimation, making it a central theme.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various aspects of forecasting within Agile, particularly focusing on the importance of metrics like Cycle Time and Throughput for improving predictability. It addresses the challenges of traditional estimation methods and advocates for a more empirical approach to estimation, aligning well with the core themes of the Estimation category. The depth of discussion is substantial, providing insights into how to effectively forecast and manage budgets in an Agile context, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -1231,11 +1309,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-14T18:18:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:25:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Agile methodologies, specifically focusing on forecasting within Scrum, which is central to the role of software developers in Agile contexts.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile methodologies and their implications for forecasting and budgeting within software development teams. It touches on the role of metrics in Agile and the transition from project-based to product-based budgeting, which aligns with the themes of Agile and DevOps. However, the focus is more on the financial and managerial aspects rather than the direct role of software developers, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1297,20 +1378,26 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-14T18:18:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:26:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum principles, metrics, and the transition towards Agile practices, making Agile frameworks a central theme.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses Scrum, a specific Agile framework, and addresses practical aspects of forecasting within Agile projects. It mentions key Agile concepts such as metrics, team dynamics, and the transition from project-based to product-based budgeting, which aligns well with the principles of Agile frameworks. The depth of discussion is substantial, providing insights into metrics and their impact on predictability, which is relevant to the Agile context. However, while it is focused on Scrum, it does not explore a wide range of Agile frameworks or provide comparative analysis, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-14T18:18:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:26:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses forecasting within an Agile context, addressing the alignment of budgeting with Agile principles and the transition from project-based to product-based budgeting, which are central to Agile strategy.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses forecasting within an Agile context, touching on metrics and the transition from project-based to product-based budgeting, which aligns with Agile principles. However, it primarily focuses on technical practices and specific metrics rather than a broader strategic discussion on Agile methodologies. While it does mention the need for adaptability and understanding within the organisation, it lacks a comprehensive exploration of Agile strategy as a primary focus.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1324,11 +1411,14 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-14T18:18:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:26:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses methods for making effective forecasts within Agile and Scrum, including the use of metrics and the impact of team dynamics on predictability.",
+    "final_score": 74.0,
+    "reasoning": "The content explicitly discusses forecasting within the context of Agile and Scrum, particularly in relation to budget estimation and team staffing. It mentions various metrics and their impact on predictability, aligning well with the core themes of the category. The depth of discussion is significant, as it explores different forecasting methods and their implications for Agile practices, providing a nuanced view of how to enhance forecasting in Scrum environments.",
     "level": "Secondary"
   },
   "Lean Product Development": {
@@ -1369,11 +1459,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-14T18:18:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:26:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the importance of throughput and related metrics in forecasting and improving predictability within Agile environments, making it a central theme.",
+    "final_score": 77.0,
+    "reasoning": "The content discusses throughput metrics, such as Cycle Time and Work In Process, and their importance in improving predictability within Agile environments. It aligns with the core themes of throughput by addressing how these metrics can enhance the flow of work and provide better estimates. However, the primary focus is on forecasting and budget considerations, which slightly detracts from a strict throughput discussion.",
     "level": "Secondary"
   },
   "Test Driven Development": {

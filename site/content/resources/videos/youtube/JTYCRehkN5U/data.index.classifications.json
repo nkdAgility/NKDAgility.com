@@ -64,12 +64,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:58:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of technical excellence and its impact on product delivery, which relates to evidence-based practices in leadership. However, the primary focus is on technical aspects and Agile methodologies rather than explicitly on evidence-based leadership principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical excellence in Agile development, focusing on practices and examples rather than explicitly addressing evidence-based leadership principles. While it touches on the importance of quality and metrics in product delivery, it lacks a direct connection to evidence-based decision-making or leadership strategies. The mention of the Azure DevOps transformation provides a case study, but it does not sufficiently explore how empirical evidence informs leadership decisions.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -121,12 +124,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile development and technical excellence, which are relevant to digital transformation, but the primary focus is on Scrum roles and engineering practices rather than the strategic adoption of digital technologies for business transformation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:58:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile development and technical excellence, which are relevant to digital transformation, particularly in terms of improving operational efficiency and fostering innovation. However, it primarily focuses on Agile methodologies and technical practices rather than the broader strategic adoption of digital technologies across an organisation. While there are mentions of transformation (e.g., Azure DevOps), the discussion lacks a comprehensive exploration of digital tools and their strategic impact on business agility and culture.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -172,12 +178,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:59:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of technical excellence and delivering usable working products regularly, which aligns with Lean principles of minimising waste and maximising value. However, the primary focus is on Agile methodologies and technical excellence rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on technical excellence within Agile development, discussing the importance of delivering a usable product and managing technical debt. While it touches on concepts like continuous improvement and value delivery, it does not explicitly address Lean principles or waste reduction in the product development process. The discussion is more aligned with Agile methodologies than Lean Product Development specifically.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -265,12 +274,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:58:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of technical excellence and its impact on delivering value, which relates to the ability to innovate. However, the primary focus is on technical practices and Agile methodologies rather than directly measuring or enhancing innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses technical excellence and its impact on product delivery, which indirectly relates to innovation by emphasising quality and continuous improvement. However, it lacks a direct focus on the Ability to Innovate category, as it primarily centres on Agile practices and technical debt rather than explicitly measuring or enhancing innovation capabilities.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -304,12 +316,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering a usable working product to customers and the role of technical excellence in ensuring customer satisfaction. However, the primary focus is on technical processes and engineering quality rather than directly addressing customer satisfaction strategies or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:58:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical excellence in Agile development, discussing risk mitigation and product delivery rather than customer satisfaction. While it briefly touches on delivering value to customers, it lacks explicit discussions on customer satisfaction metrics, feedback mechanisms, or strategies for enhancing customer engagement, which are central to the category.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -376,11 +391,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:59:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering a usable working product regularly and the relationship between technical excellence and throughput. However, it primarily focuses on technical excellence and risk mitigation rather than directly measuring or optimising throughput.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of delivering a usable working product at the end of each iteration, which relates to throughput. However, it primarily focuses on technical excellence and risk mitigation rather than explicitly measuring or optimising throughput. While there are mentions of increased feature delivery and the impact of technical debt on delivery rates, the discussion lacks depth in terms of specific throughput metrics or strategies for improvement.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
@@ -460,12 +478,15 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:59:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering a usable working product to real users at the end of each iteration, which aligns with product validation principles. However, the primary focus is on technical excellence and engineering quality rather than directly on methodologies for validating product ideas through user engagement.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of delivering a usable product at the end of each iteration, which aligns with the concept of validating product ideas through user feedback. However, the primary focus is on technical excellence and risk mitigation rather than directly exploring methodologies for product validation. While there are mentions of user usability and the need for a Definition of Done that ensures quality for real users, the overall discussion leans more towards Agile practices and technical processes rather than specific validation techniques or user testing methodologies.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -487,11 +508,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-12T05:44:41",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of technical excellence in Agile development, focusing on how it impacts software delivery, risk mitigation, and the role of developers in maintaining quality. It aligns well with the key topics of Agile methodologies and modern engineering practices, making it a central theme.",
+    "calculated_at": "2025-03-13T15:03:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of technical excellence within Agile development, focusing on how developers can enhance productivity and quality through practices like establishing a Definition of Done and managing technical debt. It aligns well with the core themes of Agile methodologies and the impact on developer productivity, providing detailed examples and recommendations relevant to software developers.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -532,11 +556,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-12T05:44:49",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of delivering a usable working product at the end of each iteration, aligning closely with the concept of Increment in Agile and Scrum. It emphasises the need for technical excellence to ensure quality and value in each Increment, making it a central theme throughout the discussion.",
+    "calculated_at": "2025-03-13T15:25:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 34,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of delivering a usable working product at the end of each iteration, which is a core aspect of the Increment in Agile and Scrum. It highlights the significance of technical excellence in ensuring quality and completeness of the Increment, and it provides detailed examples and best practices related to the Definition of Done. The discussion aligns well with the key topics of the Increment category, particularly in terms of delivering value to customers and stakeholders, and the relationship between the Increment and team dynamics. However, while the focus is strong, some sections delve into broader concepts of technical excellence that may slightly detract from a purely Increment-focused discussion.",
     "level": "Secondary"
   },
   "Windows": {
@@ -559,12 +586,15 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:58:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering a usable working product regularly, which relates to Lead Time, but it primarily focuses on technical excellence and engineering quality rather than directly measuring or optimising Lead Time.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of delivering a usable working product at the end of each iteration, which indirectly relates to Lead Time. However, it primarily focuses on technical excellence and risk mitigation rather than explicitly measuring or optimising Lead Time. The mention of delivering features faster aligns somewhat with the concept, but the depth of discussion on Lead Time itself is minimal.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -577,11 +607,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T05:44:56",
-    "ai_confidence": 85,
-    "non_ai_confidence": 10,
+    "calculated_at": "2025-03-13T16:34:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
     "final_score": 78.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies within Agile and Scrum contexts, emphasising the importance of technical excellence and real-world applications to mitigate risks and enhance product delivery. It provides insights into navigating complexity and uncertainty in project management, making it a clear fit for the category.",
+    "reasoning": "The content extensively discusses the importance of technical excellence within Agile and Scrum frameworks, providing practical strategies for risk mitigation and product delivery. It includes real-world examples, such as the Azure DevOps transformation, which illustrates the application of pragmatic thinking in a complex environment. The depth of discussion on the Definition of Done and the emphasis on continuous improvement further align with the core themes of pragmatic thinking.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -595,30 +628,39 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T05:45:00",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of technical excellence within the context of Agile methodologies, specifically referencing Scrum and the iterative process of delivering usable products. It highlights key agile principles such as risk mitigation through regular delivery and the significance of quality in agile development, aligning closely with the core themes of Agile Project Management.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T14:51:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 30,
+    "final_score": 81.0,
+    "reasoning": "The content extensively discusses the principles of Agile and Scrum, particularly focusing on the importance of delivering a usable product at the end of each iteration, which aligns closely with Agile methodologies. It provides a detailed exploration of technical excellence, the Definition of Done, and the role of the Scrum team, all of which are core themes in Agile Project Management. The depth of discussion is significant, with real-world examples and practical recommendations, reinforcing its relevance to the category.",
+    "level": "Primary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:58:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering a usable working product at the end of every iteration, which aligns with CI principles. However, the primary focus is on technical excellence and Agile methodologies rather than CI practices specifically.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical excellence and Agile principles, which are related to Continuous Integration but do not explicitly focus on CI practices or tools. While it mentions the importance of delivering a usable product regularly, it lacks direct references to CI tools, automated testing, or specific CI strategies. The discussion is more centred on Agile methodologies and technical debt rather than the core themes of Continuous Integration.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:58:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and the importance of technical excellence in delivering value, but it primarily focuses on technical practices rather than strategic alignment or broader Agile strategy implementation.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile principles, particularly the importance of delivering a usable product at the end of each iteration and the role of technical excellence in mitigating risks. However, while it touches on Agile methodologies, it primarily focuses on technical practices rather than strategic alignment or broader Agile strategy discussions. The mention of the Azure DevOps transformation provides a case study, but the overall emphasis is more on technical execution than on strategic planning or leadership roles in fostering an Agile culture.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -667,12 +709,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:58:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of technical excellence and its impact on delivering a usable working product, which relates to team performance in an Agile context. However, the primary focus is on technical aspects rather than team dynamics or collaboration strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of technical excellence in Agile development, which indirectly relates to team performance by emphasising the role of the Scrum team in establishing a Definition of Done and delivering a usable product. However, while it touches on team dynamics and productivity, the primary focus is on technical practices rather than explicit strategies for enhancing team collaboration or performance metrics.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -721,20 +766,26 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T05:45:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of technical excellence within Agile development, linking it to Agile principles and practices, particularly in the context of Scrum. It addresses how technical excellence contributes to delivering usable working products regularly, which is central to Agile methodologies. The focus on mitigating risk through iterative delivery and the emphasis on quality aligns well with Agile transformation themes.",
+    "calculated_at": "2025-03-14T15:12:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile principles, particularly in the context of Scrum, and highlights the importance of technical excellence in Agile development. It provides a real-world example of an Agile transformation (Azure DevOps) and discusses the role of a 'Definition of Done', which aligns with Agile practices. However, while it touches on Agile transformation, the primary focus is on technical excellence rather than a comprehensive exploration of Agile transformation strategies and methodologies.",
     "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-12T05:45:31",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of technical excellence and its relationship to technical debt, including the consequences of neglecting technical debt and strategies for managing it effectively. It provides examples and case studies that illustrate the impact of technical debt on development velocity and product quality.",
+    "calculated_at": "2025-03-14T18:58:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of technical excellence and its relationship to technical debt, particularly through the example of the Azure DevOps team. It highlights the consequences of neglecting technical debt and the benefits of addressing it, aligning well with the core themes of the category. The depth of discussion is significant, providing real-world examples and actionable recommendations, which further supports a high confidence score.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -766,30 +817,39 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T05:45:38",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T18:58:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the importance of delivering a usable working product at the end of each iteration, which aligns with Scrum principles. It touches on technical excellence and its role in mitigating risk and enhancing product quality, which are relevant to Scrum practices. However, the primary focus is on technical excellence rather than Scrum-specific processes, making it a secondary theme.",
+    "final_score": 77.0,
+    "reasoning": "The content discusses Scrum principles, particularly the importance of delivering a usable working product at the end of each iteration, which aligns with Scrum practices. It also highlights the role of the Scrum team in establishing a Definition of Done, which is crucial for maintaining quality. However, while it touches on Scrum, the primary focus is on technical excellence rather than a comprehensive exploration of Scrum product development methodologies.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T05:45:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:58:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of technical excellence in Agile development, focusing on how it enhances operational efficiency and delivery. It covers strategies for mitigating risk through regular delivery of usable products, the significance of quality in engineering, and the impact of technical debt on operational performance, aligning well with the key topics of operational practices.",
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses the importance of technical excellence within Agile development, focusing on practical applications such as delivering a usable product every iteration, establishing a Definition of Done, and reducing technical debt. It aligns well with operational practices by highlighting strategies for continuous improvement and operational excellence, particularly through the real-world example of the Azure DevOps transformation. The depth of discussion is significant, providing detailed insights into how these practices enhance operational efficiency and delivery speed.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of technical excellence and empirical evidence in decision-making processes, particularly in Agile development. However, it primarily focuses on technical aspects and practices rather than a comprehensive discussion on Evidence-Based Management principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:58:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses technical excellence in Agile development, focusing on the importance of delivering a usable product and mitigating risks. However, it lacks explicit references to Evidence-Based Management principles, empirical data, or metrics that guide decision-making. While it touches on continuous improvement and real-world examples, it does not delve deeply into EBM practices or the integration of EBM with Agile methodologies.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -838,11 +898,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T05:45:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:58:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of technical excellence in agile development, focusing on how it impacts product delivery, team dynamics, and risk mitigation. It aligns well with the principles of technical leadership, particularly in fostering a culture of continuous improvement and aligning technical decisions with business objectives.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of technical excellence in agile development, which aligns with the principles of technical leadership. It mentions the role of the Scrum team and the need for a strong Definition of Done, indicating a focus on guiding teams. However, while it touches on relevant topics, it lacks a deeper exploration of mentoring, coaching, or specific leadership strategies, which limits its overall depth in the context of technical leadership.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -883,12 +946,15 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:58:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivering a usable working product at the end of every iteration, which aligns with MVP principles. However, the primary focus is on technical excellence and engineering quality rather than explicitly on MVP development or market validation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of delivering a usable working product at the end of each iteration, which aligns with the MVP concept. However, it primarily focuses on technical excellence and risk mitigation rather than explicitly addressing MVP strategies, user feedback, or case studies related to MVPs. The discussion on the Definition of Done and the Azure DevOps example provides some depth but does not directly relate to MVP development or validation processes.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -919,30 +985,39 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:58:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of delivering a usable working product in Agile and Scrum, touching on roles and responsibilities indirectly, but primarily focuses on technical excellence and risk mitigation rather than Scrum team dynamics.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Scrum team in establishing a Definition of Done and highlights the importance of technical excellence in delivering a usable product. However, while it touches on Scrum principles, the primary focus is on technical excellence rather than the dynamics and collaboration within a Scrum team.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T05:46:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:58:17",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of technical excellence in software development, particularly within the context of Agile methodologies. It covers best practices, the significance of quality in product delivery, and the impact of technical debt, all of which align closely with the principles of software craftsmanship and engineering excellence.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the importance of technical excellence within Agile development, focusing on principles such as maintaining a usable working product, managing technical debt, and establishing a strong Definition of Done. It aligns closely with the core themes of software craftsmanship and engineering practices, providing detailed examples and recommendations that enhance understanding of technical mastery. The depth of discussion is significant, with real-world examples illustrating the impact of technical excellence on product delivery and team performance.",
     "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Agile development and technical excellence, which are related to release management, particularly in terms of delivering usable working products and mitigating risks. However, the primary focus is on Agile principles and technical quality rather than the specific strategies and practices of release management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:58:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses Agile principles and technical excellence, which are relevant to software delivery but does not focus specifically on release management processes. While it touches on risk mitigation and the importance of delivering a usable product, it lacks explicit discussions on release planning, version control, or coordination between teams, which are central to release management.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1018,12 +1093,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:58:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of technical excellence and its impact on delivering value to customers, which aligns with the theme of strategic goals in terms of enhancing business agility and competitive advantage. However, the primary focus is on technical practices rather than explicitly defining long-term strategic objectives.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses technical excellence and its importance in Agile development, focusing on operational tactics rather than long-term strategic goals. While it touches on the need for quality and continuous improvement, it lacks a clear articulation of strategic objectives that align with business agility. The examples provided, such as the Azure DevOps transformation, illustrate operational success rather than strategic alignment with Agile principles.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1036,21 +1114,27 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making processes in the context of Agile development and technical excellence, particularly in relation to risk mitigation and quality assurance. While it primarily focuses on Agile methodologies, it does touch on decision-making frameworks and the impact of technical decisions on outcomes, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:58:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical excellence in Agile development, discussing risk mitigation and the importance of delivering a usable product. While it touches on decision-making aspects, such as planning in low-variance vs. high-variance environments, it does not delve deeply into decision theory concepts or frameworks. The discussion is more about technical practices than the decision-making processes in uncertain environments, leading to a low confidence score in alignment with the Decision Theory category.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:58:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical excellence and its importance in agile development, which is a significant aspect of enterprise agility. However, it primarily focuses on team-level practices and technical quality rather than broader organisational agility strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical excellence within Agile development, discussing Scrum practices and the importance of delivering a usable product. While it touches on aspects of agility, such as risk mitigation and continuous improvement, it lacks a broader organisational context and does not explicitly address enterprise-level agility frameworks or structures. The examples provided, including the Azure DevOps transformation, illustrate improvements at a team level rather than across the entire organisation, which diminishes its relevance to the category of Enterprise Agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1135,12 +1219,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:59:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of technical excellence and its impact on product delivery, which relates to learning from past experiences and improving processes. However, the primary focus is on technical implementation and Agile methodologies rather than on discovery and learning as a central theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on technical excellence within Agile development, discussing risk mitigation and the importance of delivering a usable product. While it touches on aspects of continuous improvement and feedback, which are relevant to discovery and learning, the main emphasis is on technical practices rather than the processes and methodologies that foster innovation and learning. The discussion lacks a strong focus on experimentation, knowledge sharing, or learning from failures, which are key themes in the 'Discovery and Learning' category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1171,12 +1258,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:58:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of technical excellence and its impact on Agile practices, particularly in delivering usable working products. However, it primarily focuses on the philosophical aspects of Agile and technical debt rather than specific tools or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of technical excellence in Agile development, providing insights into methodologies like Scrum and the significance of a well-defined Definition of Done. It includes a real-world example from Azure DevOps, illustrating practical application and outcomes. However, while it touches on Agile practices and their implementation, it lacks a detailed exploration of specific tools or frameworks, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -1207,7 +1297,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T13:00:38",
+    "calculated_at": "2025-03-14T18:58:05",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1215,7 +1305,7 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content primarily discusses Agile methodologies and technical excellence, with a focus on Scrum practices. While it touches on aspects of DevOps, such as continuous delivery and the importance of quality in software development, it does not explicitly centre on DevOps principles or practices. The discussion lacks depth in DevOps-specific tools, cultural shifts, or metrics, leading to a lower confidence score in alignment with the DevOps category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1240,11 +1330,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of technical excellence in agile development, which is a significant aspect of business agility. However, the primary focus is on technical practices rather than broader business agility principles and strategies.",
+    "calculated_at": "2025-03-14T18:59:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of technical excellence in Agile development, which indirectly relates to business agility through the emphasis on delivering value and adapting to change. However, it primarily focuses on technical practices rather than the broader principles of business agility. While it mentions the need for a usable product and continuous feedback, it lacks a direct exploration of business agility principles, leadership roles, or cultural strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -1282,12 +1375,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:59:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and the importance of technical excellence in delivering usable products, which aligns with the principles of organisational agility. However, the primary focus is on technical aspects rather than broader organisational strategies or cultural shifts.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile principles and the importance of technical excellence, which aligns with the themes of organisational agility. However, it primarily focuses on technical aspects and specific practices rather than broader organisational strategies or cultural shifts. While it mentions the need for adaptability and continuous improvement, these concepts are secondary to the emphasis on technical quality and delivery processes.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1309,12 +1405,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:58:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of technical excellence in Agile development and its impact on product delivery, which touches on the interplay between technical practices and organisational effectiveness. However, the primary focus is on technical aspects rather than a comprehensive exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on technical excellence in Agile development, discussing practices and principles without a significant exploration of the interplay between social and technical systems. While it touches on team dynamics and the importance of a well-defined 'Definition of Done', it lacks a comprehensive examination of how these elements influence software delivery and organisational effectiveness, which is central to the Sociotechnical Systems category.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1327,21 +1426,27 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:59:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of technical excellence and its impact on delivering usable working products, which relates to metrics and performance improvement. However, the primary focus is on technical excellence rather than metrics and learning specifically.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of technical excellence and its impact on product delivery and risk mitigation, which indirectly relates to metrics and learning. However, it lacks explicit discussions on metrics, data analysis, or feedback mechanisms that are central to the category. While it touches on continuous improvement and the need for a Definition of Done, these concepts are not explored in the context of metrics or evidence-based decision-making, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:45:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Agile development and technical excellence, which are relevant to the application lifecycle, particularly in terms of development and maintenance. However, it primarily focuses on Agile methodologies and technical quality rather than a comprehensive view of the entire application lifecycle management process.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:59:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Agile development and technical excellence, discussing concepts like risk mitigation and the importance of a usable product at the end of iterations. While it touches on aspects relevant to the application lifecycle, such as the 'Definition of Done' and the impact of technical debt, it does not explicitly address the full scope of Application Lifecycle Management, including stages like deployment and retirement. The discussion is more centred on Agile methodologies rather than a comprehensive view of managing the entire application lifecycle.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",

@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/about-me
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Personal
+tags: []
 
 ---
 I thought I should take a leaf out of [Scott Dorman's](http://geekswithblogs.net/sdorman/archive/2007/08/15/About.aspx "About Scott Dorman") book and post some information about me:

@@ -31,15 +31,15 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - Pragmatic Thinking
 - Agile Product Management
+- Discovery and Learning
+- Agile Project Management
 - Software Developers
+- Agile Philosophy
 - Metrics and Learning
-- Value Delivery
-- Hypothesis Driven Development
-- Personal
-- Product Owner
-- Evidence Based Leadership
+- People and Process
 resourceTypes:
 - video
 categories:

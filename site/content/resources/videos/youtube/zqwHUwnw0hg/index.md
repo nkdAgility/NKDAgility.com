@@ -28,8 +28,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Project Management
 - Agile Frameworks
+- Increment
+- Empirical Process Control
+- Professional Scrum
+- Scrum Team
+- Software Development
 - Scrum Master
+- People and Process
+- Scrum Product Development
 resourceTypes:
 - video
 categories:

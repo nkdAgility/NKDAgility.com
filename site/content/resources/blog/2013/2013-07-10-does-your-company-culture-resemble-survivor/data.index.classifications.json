@@ -130,7 +130,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:48:33",
+    "calculated_at": "2025-03-15T05:01:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -138,7 +138,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which is a key aspect of DevOps. However, it primarily focuses on cultural issues rather than specific DevOps practices, tools, or metrics. While it touches on themes relevant to DevOps, such as teamwork and problem-solving, it lacks direct references to DevOps principles like Continuous Integration or Continuous Delivery, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -274,11 +274,14 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-15T18:11:27",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:01:11",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of collaboration and team dynamics in achieving agility, which aligns with human-centric approaches and adaptive organisational cultures. However, it primarily focuses on the challenges of traditional individualistic work cultures rather than directly addressing BetaCodex principles.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of collaboration and team dynamics, which aligns with the human-centric approaches of BetaCodex. It critiques traditional individualistic work cultures and advocates for a shift towards team-oriented practices, reflecting decentralisation and adaptive organisational cultures. However, while it touches on these themes, it does not explicitly mention BetaCodex principles or provide in-depth analysis, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Value Stream Management": {
@@ -301,11 +304,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T18:11:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:01:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of team collaboration and culture in delivering value within Agile frameworks, highlighting how cultural changes can enhance the ability to deliver software effectively.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of collaboration and team culture in delivering value within Agile frameworks. It highlights the detrimental effects of individualistic work environments on team performance and value delivery, aligning well with the principles of iterative development and the role of cross-functional teams. However, while it touches on these themes, it lacks specific methodologies or techniques for measuring customer value, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -328,11 +334,14 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:02:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of collaboration and team dynamics in achieving agility, which aligns with Systems Thinking principles. However, it primarily focuses on cultural aspects rather than a comprehensive exploration of Systems Thinking methodologies or frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of collaboration and team dynamics in achieving agility, which aligns with Systems Thinking principles. However, it primarily focuses on cultural issues and individual behaviours rather than explicitly exploring interconnected systems or providing detailed frameworks for analysis. The mention of a 'unit mentality' and the need for a collaborative culture hints at Systems Thinking, but the depth of discussion is limited and lacks specific techniques or tools associated with the category.",
     "level": "Tertiary"
   },
   "One Engineering System (1ES)": {
@@ -355,11 +364,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-15T18:11:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:01:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of fostering a collaborative culture within an organisation to achieve agility, addressing cultural roadblocks and the need for team-oriented practices.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of collaboration and a team-oriented culture as essential components of organisational agility. It highlights the need for cultural change to foster agility, emphasising the role of leadership and the impact of team dynamics on adaptability. The depth of discussion on cultural shifts and their implications for agile practices supports a high confidence score, as it aligns well with the core themes of the category.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -445,11 +457,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:01:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of organizational culture on agility, emphasizing the importance of collaboration, team dynamics, and leadership commitment in fostering a culture that supports Agile methodologies.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the impact of organisational culture on agility, highlighting the importance of collaboration and teamwork over individualism. It addresses cultural roadblocks to agility and the need for leadership commitment to foster a culture of change. The depth of discussion includes specific examples and implications of cultural shifts, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Definition of Ready": {
@@ -508,29 +523,38 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T05:01:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "Content discusses the importance of a collaborative culture in Agile practices and touches on operational improvement through teamwork and process changes.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which aligns with operational practices. However, it primarily focuses on cultural aspects rather than specific operational techniques or methodologies. While it mentions the need for a team-oriented approach and the drawbacks of individualistic work styles, it lacks detailed strategies or metrics for improving operational efficiency, which limits its depth in the category.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:01:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of a collaborative culture and teamwork in the context of Agile practices, which relates to the dynamics of a Scrum Team. However, it does not explicitly mention Scrum roles or detailed Scrum practices.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of collaboration and teamwork, which are essential aspects of a Scrum Team. It highlights the need for a unit mentality and the detrimental effects of individualistic cultures on team performance. However, while it touches on relevant themes, it lacks explicit references to specific Scrum roles or practices, which limits its depth in the context of Scrum. Overall, it aligns with the category but does not fully delve into the intricacies of Scrum Team dynamics.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:01:50",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which aligns with Agile Philosophy principles like teamwork, adaptability, and continuous improvement.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which aligns well with Agile Philosophy. It highlights the need for a cultural shift towards teamwork and collective problem-solving, reflecting core Agile values. The depth of discussion on cultural implications and the need for commitment from leadership further supports its relevance to Agile Philosophy.",
     "level": "Secondary"
   },
   "Strategy": {
@@ -553,11 +577,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T05:01:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the culture needed for successful Agile transformation, emphasizing collaboration and team mentality, which are key aspects of Agile principles.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of collaboration and cultural change as essential components of Agile transformation. It highlights the need for a team-oriented culture over an individualistic one, which aligns with Agile principles. However, while it touches on Agile concepts, it lacks detailed exploration of specific Agile frameworks or methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -580,11 +607,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:02:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of collaboration, team culture, and the impact of individual versus team mentality on agility, aligning well with strategies to enhance team performance in an Agile context.",
+    "final_score": 79.0,
+    "reasoning": "The content discusses the importance of collaboration and teamwork in achieving agility, which aligns closely with the core themes of team performance. It highlights the detrimental effects of a 'Survivor' culture on team dynamics and productivity, emphasising the need for a unit mentality and collective problem-solving. The depth of discussion is substantial, covering cultural implications, leadership roles, and the impact of individual versus team-focused work. Overall, the content is a strong fit for the 'Team Performance' category.",
     "level": "Secondary"
   },
   "Increment": {
@@ -607,29 +637,38 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:02:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of collaboration and team culture in Agile software development, as well as the implications of organizational culture on software delivery. It aligns well with topics related to Agile methodologies and practices within the software development lifecycle.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of collaboration and team dynamics in software development, particularly in the context of Agile methodologies. It highlights cultural issues that impede agility, which is a core aspect of software development practices. The depth of discussion on team collaboration, problem-solving, and the impact of culture on software delivery indicates a strong alignment with the category, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T05:02:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content discusses the importance of collaboration, team dynamics, and cultural aspects critical for agility, aligning with core Agile principles, though it is mostly focused on cultural issues rather than specific Agile methodologies or practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which aligns with agile principles. It highlights the need for a team-oriented mindset and the challenges of individualistic cultures, which are relevant to agile project management. However, it lacks specific references to agile frameworks, roles, or detailed practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:02:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the importance of collaboration, teamwork, and cultural change within an organization, aligning with the Agile principles of team dynamics and customer-centricity. It emphasizes the need for a supportive culture conducive to agility, which reflects a deep understanding of Agile values.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of collaboration and teamwork, which aligns with Agile principles. It highlights the need for a culture that fosters teamwork over individualism, reflecting Agile's emphasis on self-organising teams and customer-centricity. The depth of discussion on cultural change and its implications for agility adds to the overall alignment with Agile values, although it does not explicitly mention the Agile Manifesto or its principles.",
     "level": "Secondary"
   },
   "Professional Scrum": {
@@ -661,11 +700,14 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T05:01:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the importance of collaboration and teamwork, which aligns with the Scrum values of Commitment, Courage, and Respect. It emphasizes the need for a supportive team culture and collective problem-solving, making Scrum values a major but secondary theme in the discussion.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of collaboration, commitment, and courage within teams, which aligns well with Scrum Values. It highlights the need for a culture that fosters teamwork and problem-solving, directly referencing the values of commitment and courage. However, while it touches on these values, the discussion is more focused on cultural implications rather than providing a deep exploration of each Scrum Value, which slightly limits the depth of the discussion.",
     "level": "Secondary"
   },
   "Azure Boards": {
@@ -688,11 +730,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T05:02:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the need for cultural change within organizations to achieve agility, emphasizing collaboration, leadership commitment, and the transition from individualistic to team-based mindsets. Although it touches on Agile practices, the core focus on cultural transformation aligns well with the theme of organisational change.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of changing company culture to foster collaboration and agility, which aligns with the principles of organisational change. It highlights the need for leadership commitment and the implications of cultural shifts on agility, indicating a focus on change management. However, while it touches on relevant themes, it lacks detailed frameworks or methodologies for implementing change, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Lean Startup": {
@@ -742,11 +787,14 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:02:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of a collaborative team culture and the dangers of individualism in the workplace, which relates to the concept of psychological safety. However, it is primarily focused on the challenges of adopting agility and team dynamics, making psychological safety a major but secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of collaboration and a supportive culture in the context of Agile practices, which aligns with the concept of psychological safety. It highlights the detrimental effects of a 'Survivor' culture on teamwork and problem-solving, suggesting that fostering a unit mentality is crucial for effective collaboration. However, while it touches on psychological safety, it does not delve deeply into specific strategies or techniques for cultivating it, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -760,7 +808,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:46:15",
+    "calculated_at": "2025-03-15T05:01:09",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -768,7 +816,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of collaboration and team dynamics in software development, which aligns with the principles of engineering excellence. However, it primarily focuses on cultural aspects rather than specific engineering practices, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -790,11 +838,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:01:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the implications of company culture on collaboration and teamwork, which relates to systems thinking in organisational dynamics. However, the primary focus is on agile practices rather than systems thinking as a central theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of collaboration and team dynamics within an organisation, which aligns with the principles of systems thinking. It highlights how individual behaviours impact organisational culture and effectiveness, particularly in the context of agile methodologies. The depth of discussion on cultural change and its implications for organisational performance supports a strong alignment with the category, although it does not explicitly mention systems thinking terminology. Overall, the content provides a nuanced exploration of organisational dynamics, justifying a relatively high confidence score.",
     "level": "Secondary"
   },
   "Customer Retention": {
@@ -808,11 +859,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:01:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of collaboration and team dynamics in achieving agility within organizations, presenting practical considerations and implications for software development. It emphasizes real-world applications of teamwork and problem-solving strategies relevant to Agile practices.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the importance of collaboration and team culture in Agile environments, highlighting practical strategies for overcoming cultural roadblocks to agility. It provides real-world implications of fostering a team mentality over individualism, which aligns well with pragmatic thinking. The depth of discussion on cultural change and its impact on problem-solving in software development further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -853,11 +907,14 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:01:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the importance of collaboration and team mentality within an organization, which are critical aspects of employee engagement. It highlights the negative impact of individualistic culture on teamwork and employee commitment, suggesting that a collaborative culture leads to better employee satisfaction and productivity. However, it also heavily focuses on aspects of agile methodology and software development, making employee engagement a significant but secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of collaboration and teamwork in fostering a positive company culture, which aligns with employee engagement principles. It highlights the detrimental effects of a 'Survivor' culture on team dynamics and productivity, emphasising the need for a supportive environment that encourages collective problem-solving. However, while it touches on key aspects of employee engagement, such as commitment and collaboration, it lacks detailed exploration of specific strategies or practices for enhancing engagement, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Lean Thinking": {
@@ -916,20 +973,23 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T09:08:55",
+    "calculated_at": "2025-03-15T05:01:09",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "While the content discusses the importance of fostering a team-centric culture to improve agility and delivery in software development, it does not specifically address market share strategies or competitive advantage in a market context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:01:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the importance of a collaborative team culture for achieving agility, noting the role of leaders in fostering such a culture and addressing impediments to Agile adoption, which aligns well with Agile Leadership principles.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of fostering a collaborative culture within teams, which aligns with Agile Leadership principles. It highlights the role of leadership in changing organisational culture to support agility, emphasising the need for commitment from all levels of leadership. The depth of discussion on cultural change and team dynamics contributes significantly to the confidence score, although it lacks explicit references to specific Agile leadership strategies or frameworks.",
     "level": "Secondary"
   },
   "Sensemaking": {
@@ -1024,20 +1084,26 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T05:01:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content mainly discusses the importance of changing company culture to achieve agility, emphasizing commitment from leadership, collaboration, and fostering a team mentality. It aligns well with change management themes, though it primarily focuses on cultural aspects rather than comprehensive strategies or techniques.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of changing company culture to foster collaboration and agility, which aligns with change management principles. It highlights the need for commitment from leadership and the implications of cultural change on agility. However, while it touches on change management, it primarily focuses on cultural issues and team dynamics rather than providing a comprehensive discussion on change management strategies or practices.",
     "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:01:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the need for a collaborative culture within organizations to enhance agility, emphasizing teamwork over individualism. It addresses the importance of fostering a team mentality and the consequences of a culture that promotes isolation, making it a central theme.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the importance of collaboration within teams and critiques a culture that promotes individualism over teamwork. It aligns well with the core themes of team dynamics, shared ownership, and the need for a collaborative culture to achieve agility. The depth of discussion is significant, providing insights into the implications of team culture on performance and agility, making it a strong fit for the Team Collaboration category.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -1096,11 +1162,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:01:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses essential aspects of fostering collaboration and team dynamics as a crucial element of achieving agility, which aligns with technical leadership principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of collaboration and team dynamics in achieving agility, which aligns with the principles of technical leadership. It highlights the need for a cultural shift towards teamwork and the implications of individualistic work environments. However, while it touches on relevant themes, it lacks direct mentions of specific technical leadership practices or detailed strategies for mentoring and coaching, which limits its depth of discussion.",
     "level": "Secondary"
   },
   "Estimation": {
@@ -1114,11 +1183,14 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:01:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of collaboration and teamwork in an Agile context, emphasizing the need for a team mentality rather than an individualistic approach, aligning well with the principles of cross-functional teams.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of collaboration and teamwork in achieving agility, which aligns with the concept of cross-functional teams. However, it primarily focuses on cultural issues and individual behaviours rather than explicitly detailing the characteristics, formation, or management of cross-functional teams. While it touches on the need for a team-oriented culture, it lacks depth in exploring the specific dynamics and practices of cross-functional teams.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -1159,11 +1231,14 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:01:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of collaboration, team culture, and engagement in agile teams, emphasizing how a culture of support and teamwork can enhance performance and agility.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the importance of fostering a collaborative team culture over an individualistic approach, which aligns with key topics in team motivation. It highlights the need for teamwork, shared goals, and the impact of culture on team dynamics. However, while it touches on these themes, the depth of discussion on specific motivational strategies and practices is somewhat limited, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Remote Working": {
@@ -1231,11 +1306,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:02:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the impact of company culture on Agile methodologies and teamwork in software development, emphasizing collaboration, team mentality, and productivity—all key aspects relevant to software developers in Agile contexts.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of collaboration and team dynamics in software development, which aligns well with Agile methodologies. It highlights the need for a culture that fosters teamwork over individualism, directly addressing the role of software developers in Agile contexts. The depth of discussion on cultural implications and the impact on productivity further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,11 +1327,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:02:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of collaboration and team dynamics in Agile development, which aligns with the engineering practices theme, particularly related to fostering a team culture for effective software engineering. However, it primarily focuses on cultural aspects rather than technical practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of collaboration and team dynamics in Agile development, which aligns with the core themes of Engineering Practices. It highlights the need for a culture that fosters teamwork, which is essential for effective software development. However, it lacks direct references to specific engineering practices like TDD, CI/CD, or clean code principles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -1288,29 +1369,38 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T05:01:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the importance of a collaborative culture and teamwork within Agile frameworks, emphasizing the need for self-organisation and team dynamics over individual performance. While it primarily focuses on cultural aspects and challenges to agility, self-organisation is a significant theme in fostering a unit mentality and effective collaboration.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of collaboration and teamwork in achieving agility, which aligns with the principles of self-organisation. It highlights the need for a culture that fosters team mentality over individualism, which is a key aspect of self-organisation. The depth of discussion includes the implications of cultural change and the necessity for leadership support, further reinforcing its relevance to the category. However, while it touches on self-organisation, it does not delve deeply into specific techniques or tools that facilitate it, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T05:01:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the importance of organizational culture in achieving agility, emphasizing collaboration and teamwork, which are key aspects of Agile frameworks. However, it does not delve deeply into specific Agile frameworks or methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of collaboration and team dynamics in achieving agility, which aligns with Agile principles. However, it lacks direct references to specific Agile frameworks and does not provide in-depth analysis or case studies related to Agile methodologies. The focus is more on cultural aspects rather than a thorough exploration of Agile frameworks themselves.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T18:53:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:02:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of collaboration, team culture, and organizational mindset shifts that are integral to adopting Agile methodologies, making it primarily aligned with Agile Strategy.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of collaboration and team culture in achieving agility, which aligns with Agile principles. It highlights the need for a cultural shift towards teamwork and the implications of individualistic work environments on Agile adoption. The depth of discussion on cultural change and its impact on Agile practices supports a strong alignment with the Agile Strategy category.",
     "level": "Secondary"
   },
   "Azure Repos": {

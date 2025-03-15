@@ -38,10 +38,6 @@ tags:
 - Agile Project Management
 - Metrics and Learning
 - People and Process
-- Agile Frameworks
-- Software Development
-- Pragmatic Thinking
-- Throughput
 resourceTypes:
 - video
 categories:

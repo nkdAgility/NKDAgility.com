@@ -40,7 +40,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T12:12:05",
+    "calculated_at": "2025-03-15T00:02:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -48,11 +48,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content touches on the role of project managers in the context of agility, hinting at the need for leaders to embrace complexity and adapt their styles. However, it primarily focuses on the challenges faced by project managers rather than providing a comprehensive discussion on leadership practices. The mention of project managers transitioning to scrum masters suggests a connection to leadership, but it lacks depth and explicit discussion of leadership strategies or frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-07T13:57:50",
+    "calculated_at": "2025-03-15T00:02:53",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -60,7 +60,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the concept of agility in project management, suggesting a shift from control to collaboration. However, it primarily focuses on the challenges project managers face in adopting agile principles rather than exploring broader themes of business agility. The discussion lacks depth and does not provide substantial insights into the principles, strategies, or impacts of business agility as defined in the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -130,7 +130,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T14:20:34",
+    "calculated_at": "2025-03-15T00:02:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -138,7 +138,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly touches on the concept of agility in project management and mentions the role of a project manager in relation to Scrum. However, it lacks a comprehensive exploration of Agile frameworks, their principles, or practical applications. The discussion is more focused on the challenges of integrating agility into traditional project management rather than a detailed analysis of Agile frameworks themselves.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -241,7 +241,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-10T18:16:11",
+    "calculated_at": "2025-03-15T00:02:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -249,7 +249,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the role of project managers in an agile context, which relates to product delivery. However, it lacks explicit discussions on methodologies, practices, or detailed insights into the product delivery process. The focus is more on the challenges of integrating agility into project management rather than on the end-to-end delivery of software products.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -388,7 +388,7 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-11T16:30:31",
+    "calculated_at": "2025-03-15T00:02:53",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -396,7 +396,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the transition of project managers to agile roles, including some references to Scrum practices like daily stand-ups and sprint reviews. However, it primarily focuses on the broader concept of project management rather than the specific role and responsibilities of a Scrum Master. While there are relevant points about collaboration and mindset shifts, the depth of discussion on Scrum Master-specific practices and challenges is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -412,12 +412,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:33:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the transition from traditional project management to Agile principles, highlighting the need for collaboration and acceptance of complexity, which aligns with Agile values. However, it primarily focuses on the role of project managers rather than a deep exploration of Agile values and principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:42:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 30,
+    "final_score": 77.0,
+    "reasoning": "The content discusses the shift from traditional project management to an agile mindset, emphasising the importance of collaboration, flexibility, and embracing uncertainty, which aligns closely with Agile values. It provides detailed recommendations for project managers to embody agile principles, indicating a strong understanding of the core themes. However, it does not explicitly mention the Agile Manifesto or its principles, which slightly lowers the direct mention score.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -457,12 +460,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:33:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:50:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the mindset shift required for project managers to embrace agility, which touches on cultural aspects but primarily focuses on the roles and responsibilities within project management.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the shift in mindset required for project managers to embrace agility, which aligns with the cultural aspects of organisational change. It highlights the importance of fostering collaboration and a supportive environment, which are key elements of organisational culture. However, while it touches on these themes, the primary focus remains on project management practices rather than a deep exploration of organisational culture itself.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -592,12 +598,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:03:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional project management to a more collaborative and Agile approach, indicating a focus on leadership roles in Agile contexts. However, it does not extensively elaborate on the principles of Agile leadership itself, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the transition of project managers to embrace Agile principles, focusing on the shift from control to collaboration, which aligns well with Agile Leadership. It highlights the importance of empowering teams, fostering collaboration, and embracing uncertainty, all of which are key themes in Agile Leadership. The depth of discussion is substantial, providing practical recommendations for project managers to adopt an Agile mindset, thus reinforcing the leadership aspect within an Agile context.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -745,12 +754,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:03:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between project management and agile practices, touching upon themes of collaboration and complexity, which relate to sociotechnical interactions, but does not fully explore the interplay between social and technical systems as a primary focus.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of project managers in an agile environment, touching on themes of collaboration, team dynamics, and the shift in mindset required for effective software delivery. While it does not explicitly mention 'sociotechnical systems,' it aligns with the category's focus on the interplay between social and technical aspects within organisations. The depth of discussion is moderate, providing insights into the challenges and recommendations for project managers transitioning to agile, but it lacks comprehensive exploration of organisational structures or case studies that would strengthen its alignment with the category.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -781,12 +793,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:02:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses embracing complexity and agility in project management, highlighting the need for project managers to adapt to complex environments, which aligns with sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transition from traditional project management to an agile mindset, emphasising the importance of embracing complexity and uncertainty. It highlights the need for project managers to adapt their roles and foster collaboration, which aligns with sensemaking principles. However, while it touches on these themes, the primary focus remains on project management practices rather than a deep exploration of sensemaking frameworks or models.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -799,11 +814,14 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:28:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from traditional project management to a more collaborative and agile approach, touching on themes related to self-organisation, but focuses primarily on the role of project managers in this context.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the transition from traditional project management to an agile mindset, highlighting the importance of empowering teams and fostering collaboration. However, while it touches on self-organisation principles, it primarily focuses on the role of project managers and their mindset shift, which makes self-organisation a secondary theme rather than the primary focus.",
     "level": "Tertiary"
   },
   "Market Share": {
@@ -880,21 +898,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:03:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of project managers in the context of agility, implying potential references to a book or literature, but does not focus primarily on product or book analysis.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of project managers in the context of agility, touching on agile principles and practices. However, it does not explicitly mention any specific products or books, nor does it provide detailed reviews or analyses of literature related to Agile or DevOps. The focus is more on personal experiences and recommendations rather than on products or literature that would fit the category of 'Products and Books'.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:03:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to Agile project management and Scrum, which are relevant to software development methodologies, but the focus is primarily on project management rather than software development practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of project managers in the context of agile methodologies, which is a key aspect of software development. It touches on agile principles, the shift in mindset required for project managers, and the importance of collaboration and adaptability. However, while it mentions agile practices, the focus is more on project management rather than software development techniques or methodologies themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -925,12 +949,12 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T07:25:17",
+    "calculated_at": "2025-03-15T00:02:53",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content touches on themes of agility and the mindset required for effective project management, but it primarily focuses on the role of project managers rather than change management principles or practices. The connection to change management is not central.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -988,11 +1012,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:03:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses themes related to complexity and the roles within project management, which aligns somewhat with systems thinking, but it is primarily focused on project management and agility rather than a comprehensive exploration of organisational dynamics.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the transition from traditional project management to an agile mindset, touching on themes of complexity, uncertainty, and collaboration. While it does not explicitly mention 'Organisational Physics,' it aligns with the core themes of systems thinking and organisational dynamics. The depth of discussion on embracing complexity and fostering collaboration indicates a significant engagement with the principles of the category, though it primarily focuses on project management rather than a broader organisational context.",
     "level": "Tertiary"
   },
   "Throughput": {
@@ -1087,12 +1114,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:02:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of project managers in relation to agility, indicating a significant theme of how project management can incorporate agile principles, although it primarily focuses on Scrum roles and project management paradigms rather than broader organisational agility concepts.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the transition from traditional project management to an agile mindset, emphasising the importance of embracing complexity, fostering collaboration, and shifting focus from control to facilitation. It aligns well with the core themes of organisational agility, particularly in terms of leadership's role in cultivating a culture of agility and the need for continuous learning. However, while it provides substantial insights, it primarily focuses on the project manager's perspective rather than broader organisational strategies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1150,12 +1180,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:03:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from traditional project management to Agile practices, focusing on collaboration and the mindset needed to embrace agility, which aligns with the themes of Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content discusses the shift from traditional project management to an agile mindset, emphasising the importance of collaboration, adaptability, and continuous improvement. It directly addresses the challenges project managers face in embracing agility and provides recommendations that align with Agile principles. The depth of discussion on mindset shifts and the role of project managers in an agile environment supports a high confidence score.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1285,39 +1318,48 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:03:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content offers personal reflections on the role of project managers in Agile environments, indicating a personal perspective on the challenges and transformations in adopting Agile practices.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content provides personal insights and reflections on the challenges faced by project managers in adopting agile methodologies. It discusses the author's experiences and recommendations for transitioning to an agile mindset, which aligns well with the Personal category. The direct mentions of personal experiences and the depth of discussion regarding mindset shifts and team dynamics contribute to a high confidence score. However, the content also includes some technical aspects of agile practices, which slightly detracts from its personal focus.",
+    "level": "Secondary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:03:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the need for project managers to adapt to agile principles and embrace complexity, which aligns with the pragmatic thinking theme of adaptability and real-world application. However, the focus seems more on the roles and perceptions of project managers rather than explicit pragmatic problem-solving strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the transition from traditional project management to an agile mindset, emphasising practical strategies for embracing complexity and uncertainty. It highlights the importance of adaptability, collaboration, and real-world applications of agile principles, aligning well with the core themes of pragmatic thinking. The depth of discussion is significant, providing actionable recommendations and insights based on experience, which further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T07:25:17",
+    "calculated_at": "2025-03-15T00:02:53",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content briefly mentions agility and the role of project managers in an agile context but primarily focuses on the conflict between traditional project management and agile principles rather than discussing organisational change strategies or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:03:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the challenges project managers face when shifting to Agile practices and touches on the concepts of Scrum roles, indicating a major theme of Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the transition of project managers to embrace agility, highlighting the need for a mindset shift and the importance of collaboration, which aligns well with Agile transformation principles. It provides specific recommendations for project managers to adopt Agile practices, indicating a strong focus on the category. However, while it touches on Agile concepts, it does not delve deeply into specific frameworks or methodologies, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -1330,12 +1372,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:03:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between project management and agility, indicating a recognition of Agile principles, but primarily focuses on the role of project managers rather than strategic alignment or broader Agile strategy implementation.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the transition of project managers to embrace agility, highlighting the need for a shift in mindset and the importance of collaboration, which aligns well with Agile Strategy principles. It addresses the integration of Agile practices into project management and the necessity of adapting to change, reflecting key themes of the category. However, while it provides substantial insights, it primarily focuses on the role of project managers rather than a broader organisational strategy, which slightly limits its depth in strategic context.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1357,12 +1402,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T07:25:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of project managers in the context of embracing agility, hinting at teamwork dynamics but does not primarily focus on collaboration techniques or team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:03:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of fostering collaboration and open communication within teams, which aligns well with the core themes of team dynamics and shared ownership in Agile. It provides practical recommendations for project managers to enhance team collaboration, indicating a strong focus on the category. However, while it touches on team collaboration, it also heavily discusses the role of project managers and their mindset, which slightly detracts from the primary focus on team collaboration.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",

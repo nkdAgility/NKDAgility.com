@@ -26,8 +26,7 @@ aliasesArchive:
 - /blog/community-credit-and-geekswithblogs-up-a-tree---
 - /community-credit-and-geekswithblogs-up-a-tree
 - /resources/blog/community-credit-and-geekswithblogs-up-a-tree
-tags:
-- News and Reviews
+tags: []
 categories: []
 preview: metro-award-link-1-1.png
 

@@ -29,14 +29,14 @@ aliasesArchive:
 tags:
 - News and Reviews
 - Practical Techniques and Tooling
+- Software Developers
+- Software Development
 - Agile Planning Tools
 - Agile Project Management
 - Collaboration Tools
 - Portfolio Management
-- Product Backlog
 - Team Collaboration
-- Agile Planning
-- Agile Strategy
+- Product Delivery
 categories:
 - Social Technologies
 - Scrum

@@ -24,6 +24,11 @@ aliasesArchive:
 - /resources/blog/upgrading-to-team-foundation-server-2013
 tags:
 - Install and Configuration
+- System Configuration
+- Windows
+- Software Development
+- Practical Techniques and Tooling
+- Products and Books
 categories: []
 
 ---

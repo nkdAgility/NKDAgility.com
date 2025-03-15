@@ -24,9 +24,6 @@ aliasesArchive:
 - /resources/blog/connecting-to-sql-server-using-dns-update
 tags:
 - Install and Configuration
-- System Configuration
-- Troubleshooting
-- Windows
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
 

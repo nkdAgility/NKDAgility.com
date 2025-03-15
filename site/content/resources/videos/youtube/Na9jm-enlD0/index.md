@@ -2,7 +2,7 @@
 title: Where is consensus valuable and where does it kill great product development?
 description: "Explore the balance of consensus in product development! Discover when it fuels progress and when it stifles innovation. Join Martin for insights! \U0001F680"
 date: 2023-09-25T07:00:08Z
-weight: 775
+weight: 850
 ResourceId: Na9jm-enlD0
 ResourceType: videos
 ResourceImport: true
@@ -32,13 +32,9 @@ tags:
 - People and Process
 - Entrepreneurship
 - Decision Theory
-- Agile Project Management
 - Products and Books
 - Decision Making
-- Sensemaking
 - Agile Product Management
-- Agile Leadership
-- Complexity Thinking
 resourceTypes:
 - video
 categories:

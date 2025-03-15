@@ -24,16 +24,11 @@ preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: false
 tags:
-- Agile Values and Principles
-- Agile Philosophy
-- Value Delivery
-- Miscellaneous
 - Personal
 - Pragmatic Thinking
-- People and Process
+- Agile Values and Principles
+- Agile Philosophy
 - Customer Satisfaction
-- Agile Project Management
-- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6

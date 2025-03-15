@@ -28,6 +28,9 @@ aliasesArchive:
 - /resources/blog/merge-many-team-projects-one-tfs
 tags:
 - Install and Configuration
+- Practical Techniques and Tooling
+- Software Development
+- System Configuration
 categories: []
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 

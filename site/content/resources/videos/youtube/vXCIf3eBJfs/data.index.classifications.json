@@ -526,12 +526,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T23:35:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:50:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses considerations for choosing an agile coach, hinting at decision-making regarding the best practices and tools for business, but it largely focuses on the attributes of the coach rather than systematic decision-making processes.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the selection of an Agile coach, which indirectly relates to decision-making in terms of evaluating options and tailoring approaches. However, it primarily focuses on personal experiences and recommendations rather than structured, evidence-based methodologies. While it touches on the importance of adaptability and customization, it lacks a strong emphasis on empirical evidence or collaborative insights, which are central to the Decision Making category.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -745,7 +748,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-10T18:03:00",
+    "calculated_at": "2025-03-14T20:50:39",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -753,7 +756,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the role of an agile coach, which relates to technical leadership, but it lacks a direct focus on the principles of guiding teams or fostering collaboration. The discussion is more about the qualifications of an agile coach rather than the leadership aspects of mentoring or implementing agile methodologies effectively.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1009,12 +1012,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:35:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:32:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an agile coach in the context of Agile methodologies, but it is more focused on the qualifications of a coach rather than directly discussing software development practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content primarily discusses the selection of an Agile coach, which is relevant to Agile methodologies, a key aspect of software development. It mentions frameworks like Scrum and Kanban, aligning with the Software Development category. However, the focus is more on personal experiences and recommendations rather than in-depth discussions of software engineering practices or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1294,16 +1300,19 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:35:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:09:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the selection of an agile coach, which is related to supporting Agile transformation but does not focus directly on transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on selecting an Agile coach, which is a crucial aspect of Agile transformation. It discusses the importance of an agnostic approach to Agile frameworks, emphasising adaptability and customisation, which aligns well with Agile principles. The depth of discussion includes personal experiences and practical advice, enhancing its relevance to the category. However, while it covers key aspects of Agile transformation, it does not delve deeply into broader organisational strategies or change management, which slightly limits its overall alignment.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-10T11:53:17",
+    "calculated_at": "2025-03-14T20:50:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1311,7 +1320,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly touches on the importance of selecting an agile coach who can adapt to various methodologies, which aligns with the adaptability aspect of Agile Strategy. However, it lacks a comprehensive discussion on strategic alignment, implementation at scale, or continuous value delivery, making it more of a secondary mention rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1354,7 +1363,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-11T10:01:33",
+    "calculated_at": "2025-03-14T20:50:39",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1362,7 +1371,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly touches on the importance of an agile coach's versatility and ability to adapt to various methodologies, which aligns with the concept of business agility. However, it lacks a direct focus on the principles, strategies, or practices that enable organisations to adapt and innovate in a dynamic market environment. The discussion is more centred on the selection of an agile coach rather than a comprehensive exploration of business agility itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1420,7 +1429,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:53:26",
+    "calculated_at": "2025-03-14T20:50:39",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1428,6 +1437,6 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions Scrum in the context of evaluating an agile coach's expertise. However, it does not delve into Scrum principles, practices, or frameworks, making it a secondary focus rather than a primary discussion. The mention of Scrum is limited and lacks depth, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

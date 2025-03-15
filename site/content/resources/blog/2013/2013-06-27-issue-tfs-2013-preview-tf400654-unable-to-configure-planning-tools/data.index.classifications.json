@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T14:59:43",
+    "calculated_at": "2025-03-15T05:05:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses an error related to configuring planning tools in Team Foundation Server (TFS) and provides a solution for updating process templates. While it touches on aspects of configuration and process management, it lacks a direct focus on DevOps principles such as CI/CD, automation, or cultural shifts. The mention of the Visual Studio Scrum process template indicates a connection to Agile methodologies rather than a comprehensive discussion of DevOps practices. Overall, the content is more technical and specific to TFS rather than embodying the broader themes of DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -217,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:18",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to configuring Planning Tools in Team Foundation Server, which involves modifying process templates and custom fields. However, the primary focus is on troubleshooting rather than broader engineering practices or methodologies that enhance agility.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a specific error related to configuring Planning Tools in Team Foundation Server (TFS) and provides a solution that involves updating the process template. While it touches on technical aspects of software configuration and customisation, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is primarily on troubleshooting rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -244,7 +247,7 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-03-11T14:58:58",
+    "calculated_at": "2025-03-15T05:05:13",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -252,7 +255,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses a specific error related to configuring planning tools in Team Foundation Server, which touches on aspects of product delivery, particularly in the context of process templates and team configurations. However, it lacks a broader discussion on methodologies, practices, or strategies that are central to product delivery. The focus is more on troubleshooting a specific issue rather than on the end-to-end process of delivering software products. Therefore, while there are mentions of planning tools and process templates, the overall alignment and depth of discussion do not strongly support the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -358,12 +361,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to configuring planning tools in Team Foundation Server, which is relevant to the application lifecycle, particularly in the context of deployment and maintenance. However, it primarily focuses on a specific error and its resolution rather than a broader discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses a specific error related to configuring planning tools in Team Foundation Server (TFS) and provides a solution for updating the process template. While it touches on aspects of application management, such as customisation and configuration, it lacks a broader discussion on the application lifecycle stages, governance, or best practices. The focus is more on troubleshooting rather than comprehensive lifecycle management, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -457,7 +463,7 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-03-11T16:49:08",
+    "calculated_at": "2025-03-15T05:05:13",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
     "ai_alignment": 20.0,
@@ -465,7 +471,7 @@
     "non_ai_confidence": 20,
     "final_score": 24.0,
     "reasoning": "The content briefly mentions the term 'Product Backlog Item' in the context of updating a process template, but it does not focus on the Product Backlog's definition, purpose, or management strategies. The discussion primarily revolves around a specific error in TFS and does not delve into backlog refinement, prioritisation, or the roles of the Product Owner, which are key aspects of the Product Backlog category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -496,12 +502,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the customisation of process templates in Team Foundation Server (TFS) and provides solutions that relate to improving operational efficiency within the context of Agile practices, albeit the primary focus is on addressing a specific technical error.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a specific error related to configuring planning tools in Team Foundation Server (TFS) and provides a solution that involves updating the process template. While it touches on operational practices by addressing a practical issue in a workflow context, the primary focus is on troubleshooting a specific error rather than broader operational efficiency strategies. The mention of customising process templates aligns somewhat with operational practices, but the depth and breadth of discussion are limited to a specific technical issue without exploring wider implications or methodologies.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -607,12 +616,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily deals with configuring planning tools related to Team Foundation Server, which has implications for Scrum process templates, indicating Agile application.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific error related to configuring planning tools in Team Foundation Server (TFS) and mentions the Visual Studio Scrum 3.0 process template. While it touches on aspects of agile project management, such as process templates and team configurations, it lacks a comprehensive discussion of agile principles, frameworks, or methodologies. The focus is more on technical troubleshooting rather than on agile project management concepts, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -661,11 +673,14 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the configuration and customization of work item types within Team Foundation Server (TFS), which relates to Azure Boards functionalities but is primarily focused on a specific issue rather than an overview or primary discussion about Azure Boards.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses an error related to configuring planning tools in Team Foundation Server (TFS), which is part of the Azure DevOps ecosystem. However, it primarily focuses on a specific error message and the process of customising process templates rather than providing a comprehensive overview of Azure Boards or its functionalities. While it touches on aspects relevant to Azure Boards, such as work item types and customisation, the discussion lacks depth and does not fully align with the broader themes of Agile project management or best practices for using Azure Boards.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
@@ -796,11 +811,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical steps to solve a specific error within a process template in TFS 2013, which relates to real-world application of problem-solving strategies in an Agile context.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses a specific error related to configuring Planning Tools in Team Foundation Server, providing a practical solution to a real-world problem. While it does touch on aspects of Agile processes, such as modifying process templates and custom fields, the primary focus is on troubleshooting a technical issue rather than a broader discussion of pragmatic thinking in Agile or Scrum contexts. The depth of discussion is limited to a specific error and its resolution, lacking a comprehensive exploration of pragmatic strategies or principles.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -823,12 +841,12 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:55",
+    "calculated_at": "2025-03-15T05:05:13",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "The content discusses issues related to configuring planning tools in Team Foundation Server, which is a technical topic and does not primarily focus on Scrum practices or product development methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -889,12 +907,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses issues with configuring planning tools within the context of Team Foundation Server, which is related to Agile planning methodologies, but does not primarily focus on Agile Planning Tools.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses an error related to configuring planning tools within Team Foundation Server (TFS), which is relevant to Agile Planning Tools. However, it primarily focuses on a specific error message and troubleshooting steps rather than providing a comprehensive overview or in-depth discussion of Agile planning methodologies or tools. The mention of 'planning tools' is present but not central to the content, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1126,11 +1147,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:05:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to Team Foundation Server (TFS) 2013, which is a product within the Microsoft ecosystem and often utilized in Windows environments. However, it primarily focuses on TFS configuration and process templates rather than directly addressing Windows operating system topics such as installation, troubleshooting, or updates.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily discusses an error related to Team Foundation Server (TFS) 2013, which is a Microsoft product that operates within the Windows environment. It provides specific troubleshooting steps for a Windows-related issue, indicating a strong alignment with the Windows category. However, while it mentions Windows indirectly through TFS, it does not delve deeply into broader Windows operating system topics such as installation, configuration, or updates. The focus is more on TFS and its configuration rather than the Windows OS itself, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
@@ -1390,7 +1414,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T12:46:54",
+    "calculated_at": "2025-03-15T05:05:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1398,7 +1422,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific error related to configuring Planning Tools in Team Foundation Server (TFS) and provides a solution involving the Visual Studio Scrum 3.0 process template. While it mentions Scrum indirectly through the reference to the process template, the primary focus is on troubleshooting a technical issue rather than on the principles or practices of Scrum, Kanban, Lean, or Agile methodologies. The depth of discussion is moderate, as it provides a step-by-step solution, but it lacks a broader context of social technologies or their impact on collaboration and continuous improvement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",

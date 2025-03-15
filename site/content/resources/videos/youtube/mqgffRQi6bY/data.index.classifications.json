@@ -31,7 +31,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:30:52",
+    "calculated_at": "2025-03-14T21:49:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -39,7 +39,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the complexity of work in a Scrum context but does not delve into product management methodologies or frameworks. It critiques the use of Lego as a training tool, which is more about the training method than product management itself. The discussion lacks depth and does not provide substantial insights into product management principles or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -130,7 +130,7 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-03-10T11:58:49",
+    "calculated_at": "2025-03-14T21:49:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -138,7 +138,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly touches on the complexity of work in Agile environments, which aligns with Agile principles, but it does not explicitly discuss Agile frameworks or provide a detailed exploration of them. The mention of Lego as a metaphor for the challenges in software development hints at Agile concepts but lacks depth and direct references to specific frameworks like Scrum or Kanban.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -562,7 +562,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T10:05:33",
+    "calculated_at": "2025-03-14T21:49:40",
     "ai_confidence": 35.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -570,7 +570,7 @@
     "non_ai_confidence": 0,
     "final_score": 32.0,
     "reasoning": "The content briefly touches on personal experiences and reflections regarding the complexity of software development, contrasting it with the simplicity of Lego. However, it primarily focuses on critiquing the use of Lego as a training tool rather than sharing deeper personal insights or anecdotes related to Agile methodologies. The discussion lacks substantial personal context and does not delve into individual experiences with Agile transformations or team dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -709,7 +709,7 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-03-11T11:28:33",
+    "calculated_at": "2025-03-14T21:49:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -717,7 +717,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the complexity of work and the challenges of integrating independently built software, which hints at the need for learning and adaptation. However, it primarily critiques the use of Lego as a training tool without delving into methodologies or processes that foster discovery and learning. The discussion lacks depth and does not explicitly explore key topics such as experimentation, feedback loops, or knowledge sharing.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -880,7 +880,7 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-03-11T17:35:22",
+    "calculated_at": "2025-03-14T21:49:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -888,7 +888,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily critiques the use of Lego in Scrum training, focusing on the oversimplification of complex realities in software development. While it touches on the importance of understanding complexity, it does not explicitly discuss Agile principles or values. The discussion is more about the limitations of a specific training tool rather than the broader Agile philosophy, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -955,20 +955,26 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T17:20:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:49:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the complexity of work in Agile environments and critiques the use of Lego as a metaphor for Scrum training, indicating a focus on Agile principles, but it does not primarily address Agile Product Management topics.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the limitations of using Lego as a training tool in Scrum, which indirectly relates to Agile principles. However, it primarily focuses on the oversimplification of complex realities rather than providing a detailed exploration of Agile Product Management practices or methodologies. The mention of Scrum is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T17:20:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:35:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses complexity in work and the challenges of integrating independently built software, which aligns with Systems Thinking principles. However, it primarily focuses on the limitations of using Lego as a metaphor for Scrum training rather than a comprehensive exploration of Systems Thinking itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the complexity of contemporary work and critiques the oversimplification of reality through the use of Lego in Scrum training. While it touches on the importance of understanding complexity, it does not explicitly mention Systems Thinking or its principles. The discussion aligns somewhat with the category's themes, particularly regarding the need for a holistic understanding of complex systems, but lacks depth and direct references to Systems Thinking methodologies or frameworks.",
     "level": "Tertiary"
   },
   "Value Stream Management": {
@@ -991,12 +997,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T17:20:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:49:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the complexity of software development and the challenges of integrating independently built software, which touches on the interplay between technical aspects and organisational practices. However, it primarily critiques the use of Lego as a training tool rather than focusing on sociotechnical systems as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the oversimplification of complex realities in Scrum training, which touches on the relationship between training tools and the complexities of software development. However, it lacks direct mentions of sociotechnical systems and does not explore the interplay between social and technical aspects in depth. The focus is primarily on the limitations of using Lego as a training tool rather than a broader examination of sociotechnical interactions.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1027,12 +1036,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T17:20:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:00:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the complexity of work in Scrum and contrasts it with the simplicity of Lego, indicating a pragmatic approach to understanding real-world challenges in software development.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the complexities of Scrum training and critiques the use of Lego as a training tool, highlighting the oversimplification of real-world challenges. It aligns well with the core themes of pragmatic thinking by emphasising the need for realistic training tools that reflect the complexities of software development. The depth of discussion is substantial, providing specific examples of how Lego fails to represent the intricacies of real-world projects, thus demonstrating a strong understanding of practical problem-solving in Agile contexts.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1054,12 +1066,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T17:20:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the complexity of software development and contrasts it with the simplicity of Lego, indicating a major theme related to working software, but it primarily focuses on the challenges rather than delivering functional software.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:49:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the limitations of using Lego as a training tool in Scrum, focusing on the oversimplification of complex software development realities. While it touches on the challenges of software integration and the need for realistic training tools, it does not explicitly address the delivery of functional software or customer needs, which are central to the 'Working Software' category.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1099,12 +1114,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T17:20:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:49:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the complexities of software development in relation to Scrum, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the use of Lego as a training tool in Scrum, highlighting its oversimplification of complex software development realities. It directly addresses Scrum training, which is a key aspect of software development methodologies. The discussion aligns well with the themes of complexity and integration challenges in software projects, providing a nuanced critique of training tools. However, while it offers valuable insights, the depth of technical detail regarding Scrum practices and methodologies could be more extensive.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1153,12 +1171,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T17:21:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:49:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the complexities of software development and indirectly critiques the use of Lego as a metaphor for Scrum training, suggesting a connection to Agile methodologies. However, it does not primarily focus on the role of software developers within Agile or DevOps contexts.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the limitations of using Lego as a training tool in Scrum, which indirectly relates to the role of software developers in understanding complexity and integration challenges. However, it primarily critiques a training method rather than focusing on the developers' roles or practices within Agile or DevOps frameworks. The discussion touches on relevant themes but lacks depth in exploring best practices or methodologies directly applicable to software developers.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1378,12 +1399,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T17:21:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:49:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the complexity of work and the challenges of integrating independently built software, which relates to the principles of agility and adaptability in organisational contexts. However, it primarily critiques the use of Lego as a training tool rather than focusing on organisational agility as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges of using Lego as a training tool in Scrum, highlighting the oversimplification of complex realities in software development. While it touches on the need for realistic training methods, it does not explicitly address organisational agility or its core themes. The focus is more on the limitations of a specific training tool rather than broader strategies or practices that enhance organisational adaptability.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",

@@ -8,7 +8,7 @@ ResourceImportId: 9915
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2020-12-10
-weight: 245
+weight: 235
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -24,16 +24,16 @@ aliasesArchive:
 - /a-better-way-than-staggered-iterations-for-delivery
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
+- Software Development
+- Scrum Product Development
 - Value Delivery
+- Software Developers
+- Working Software
 - Practical Techniques and Tooling
 - Product Delivery
+- Team Performance
+- Agile Planning
 - Agile Product Management
-- Technical Excellence
-- People and Process
-- Organisational Agility
-- Increment
-- Test First Development
-- Business Agility
 categories:
 - Scrum
 preview: staggered-iterations-for-delivery1-2-2.png

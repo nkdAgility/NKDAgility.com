@@ -29,6 +29,15 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Software Development
+- Agile Transformation
+- Pragmatic Thinking
+- Agile Leadership
+- Agile Project Management
+- Team Collaboration
+- Agile Strategy
+- Sociotechnical Systems
+- Change Management
 resourceTypes:
 - video
 categories:

@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
 tags:
 - Events and Presentations
-- News and Reviews
 categories:
 - Engineering Excellence
 preview: metro-event-icon-3-3.png

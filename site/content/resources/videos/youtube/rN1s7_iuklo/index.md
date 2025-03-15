@@ -32,6 +32,15 @@ sitemap:
   priority: 0.6
 tags:
 - Pragmatic Thinking
+- Continuous Learning
+- Discovery and Learning
+- Agile Philosophy
+- Team Motivation
+- Value Delivery
+- Agile Project Management
+- Agile Leadership
+- Team Performance
+- Business Agility
 resourceTypes:
 - video
 categories:

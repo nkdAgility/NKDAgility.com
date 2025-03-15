@@ -76,7 +76,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-11T11:39:10",
+    "calculated_at": "2025-03-15T00:47:01",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -84,7 +84,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on agile consulting and the importance of understanding team dynamics, but it lacks a direct focus on Scrum principles, roles, or practices. While it mentions agile and hints at transparency, it does not delve into the specific Scrum framework or its core elements, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -298,20 +298,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:22:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile consulting and mentions Scrum, which are relevant to software development methodologies, but the primary focus is on tips for consultants rather than on software development processes or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-15T00:47:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses essential skills for agile consultants, which aligns with software development practices, particularly in Agile methodologies. It mentions understanding the domain of software development and highlights the importance of active listening and transparency in teams, which are relevant to Agile and DevOps practices. However, the focus is more on personal skills and experiences rather than detailed methodologies or technical practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T10:22:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content touches on agile consulting and coaching, emphasizing the supportive aspects of improving team performance, but primarily focuses on tips for new consultants rather than a deep discussion on coaching practices.",
+    "calculated_at": "2025-03-14T15:30:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses essential skills for agile consultants, including active listening and understanding team dynamics, which align with coaching principles. However, it primarily focuses on the consultant's role rather than coaching itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -637,12 +643,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T10:22:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:47:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses agile consulting which is linked to business agility principles, but primarily focuses on tips for new agile consultants rather than a comprehensive exploration of business agility itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses skills relevant to agile consulting, such as understanding the domain and active listening, which are important for fostering business agility. However, it does not explicitly focus on the principles or practices of business agility itself, nor does it provide in-depth exploration of how these skills contribute to organisational adaptability or innovation. The discussion is more centred on the consultant's role rather than the broader context of business agility.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -820,12 +829,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:22:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T00:47:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile consulting and provides insights related to agile practices, making it a secondary theme in the context of Agile Project Management.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses essential skills for agile consultants, touching on aspects of understanding the domain, active listening, and communication, which are relevant to Agile Project Management. However, it lacks direct references to specific agile methodologies or frameworks like Scrum or Kanban, and does not delve deeply into agile principles or practices. The focus is more on the consultant's role rather than on agile project management itself.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -1042,12 +1054,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T10:22:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:44:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses tips for an agile consultant and mentions agile practices, but does not focus primarily on organizational Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses essential skills for agile consultants, which indirectly relates to Agile transformation. It mentions understanding the domain, active listening, and articulating truths, which are relevant to facilitating Agile practices. However, it lacks direct references to Agile principles, frameworks, or transformation strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",

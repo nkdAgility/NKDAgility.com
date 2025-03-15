@@ -64,12 +64,15 @@
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:56:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses automation in the context of software delivery and quality assurance, which aligns with Agile practices, but does not primarily focus on AI or its integration within Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses quality enablement and predictable delivery in software development, touching on concepts like automated builds and deployments, which are relevant to automation in Agile. However, it lacks a direct focus on AI and does not explore how AI specifically enhances Agile practices. The discussion is more centred on quality management and traditional Agile principles rather than the integration of AI and automation technologies.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -241,12 +244,12 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T09:08:54",
+    "calculated_at": "2025-03-15T04:55:47",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses quality enablement and predictability in software delivery, but it primarily focuses on traditional management practices and does not engage deeply with complexity science or its principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -328,12 +331,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:56:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interconnectedness of quality, delivery, and team dynamics in software development, which aligns with Systems Thinking principles. However, it primarily focuses on quality enablement and delivery predictability rather than a comprehensive exploration of Systems Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses quality enablement and its impact on predictable delivery in software development, touching on interconnected factors like acceptance criteria and automated processes. However, it primarily focuses on linear problem-solving approaches and does not delve deeply into Systems Thinking principles or holistic analysis of organisational dynamics.",
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -373,11 +379,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T18:01:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:55:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses quality enablement in the context of software delivery, focusing on aspects such as Definition of Done, Acceptance Criteria, and automated processes, which are integral to Application Lifecycle Management.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses quality enablement in the context of software delivery, which is relevant to Application Lifecycle Management (ALM). It mentions ALM assessments and touches on aspects like the Definition of Done and Acceptance Criteria, which are important in the development and deployment stages of the application lifecycle. However, while it aligns with some core themes of ALM, such as quality management and predictability in delivery, it lacks a comprehensive exploration of the entire lifecycle and governance practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -391,11 +400,14 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:56:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) as a measure of quality and emphasizes its importance for predictable software delivery, making it a primary topic.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) as a critical measure for quality in software development, explicitly stating its importance in achieving predictable delivery. It provides a clear definition of the DoD and its role in the development process, which aligns well with the core themes of the category. However, the overall focus is broader, addressing quality enablement and predictability in software delivery, which slightly dilutes the primary focus on the DoD itself. The depth of discussion on the DoD is moderate, with some detail provided, but it is part of a larger narrative about quality and delivery challenges.",
     "level": "Secondary"
   },
   "Technical Mastery": {
@@ -418,11 +430,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:55:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of quality in software delivery and highlights practices such as definition of done, acceptance criteria, automated builds, and automated deployment, which are central to Continuous Delivery principles.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses quality enablement and its impact on predictable delivery, which aligns with Continuous Delivery principles. It mentions the importance of automated builds and deployments, which are key aspects of CD. However, the primary focus is on quality management rather than the broader Continuous Delivery practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -454,12 +469,12 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T09:08:54",
+    "calculated_at": "2025-03-15T04:55:47",
     "ai_confidence": 30,
     "non_ai_confidence": 20,
     "final_score": 29.0,
     "reasoning": "While the content discusses the importance of quality and acceptance criteria in relation to software delivery, it primarily focuses on the Definition of Done and the measurement of quality rather than explicitly defining the Definition of Ready. The category is not central to the content.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -472,11 +487,14 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:55:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "While the content primarily discusses quality enablement and predictable delivery, it touches on key aspects of the Product Backlog, specifically around acceptance criteria and definitions of done, which are crucial for backlog items. However, the overall focus is more on quality management rather than the Product Backlog itself.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of acceptance criteria and the Definition of Done, which are directly related to the Product Backlog. However, the primary focus is on quality enablement and predictability in software delivery rather than a comprehensive exploration of the Product Backlog itself. While it touches on backlog management, it does not delve deeply into techniques for backlog refinement or prioritisation, which are key topics in the category.",
     "level": "Secondary"
   },
   "Agile Planning": {
@@ -508,20 +526,26 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T04:56:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content discusses practical measures such as the Definition of Done, Acceptance Criteria, and Automated Builds and Deployments that are crucial for enhancing quality and predictability in software delivery, directly aligning with the key operational practices in Agile methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses the importance of quality enablement in achieving predictable software delivery, which directly aligns with operational practices aimed at enhancing efficiency and delivery within Agile frameworks. It mentions specific techniques such as Definition of Done, Acceptance Criteria, and the role of automation in builds and deployments, all of which are key topics in operational practices. The depth of discussion is significant, providing actionable insights and strategies for improving quality and predictability in software delivery.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:56:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles and responsibilities related to quality in software delivery, specifically mentioning the Development Team and the importance of acceptance criteria and Definition of Done, which align with Scrum principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses quality enablement and its impact on predictable delivery, touching on aspects like Definition of Done and Acceptance Criteria, which are relevant to Scrum practices. However, it lacks a direct focus on Scrum Team dynamics, roles, and collaboration, making it more of a general discussion on quality in software delivery rather than a specific exploration of Scrum Team effectiveness.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
@@ -535,11 +559,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:56:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of quality enablement in achieving predictable delivery, focusing on aspects such as the Definition of Done, acceptance criteria, and automation, which are strategies for improving delivery processes. However, the primary focus is more on quality assurance and problem-solving rather than a central strategic theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of quality enablement in achieving predictable delivery, which aligns with strategic approaches in Agile environments. It explicitly mentions concepts like Definition of Done and Acceptance Criteria, which are crucial for strategic alignment in Agile teams. The depth of discussion on how to improve predictability through quality measures indicates a strong focus on strategy, although it could benefit from a more explicit connection to broader strategic frameworks.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -571,56 +598,74 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:56:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of automated builds, automated acceptance tests, and maintaining quality through automated processes, which are central to the principles of automated testing.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of quality in software delivery and mentions automated builds and tests as part of the solution to improve predictability. However, while it touches on automated testing, it does not delve deeply into the principles or methodologies of automated testing itself, making it a secondary focus rather than a primary discussion.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:56:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses quality enablement in software delivery, focusing on practices like Definition of Done and Acceptance Criteria, which are relevant to enhancing team performance in an Agile context. While it primarily addresses quality and delivery predictability, it connects well to team dynamics and methodologies.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of quality enablement in achieving predictable delivery, which directly relates to team performance in an Agile context. It mentions specific practices such as Definition of Done and Acceptance Criteria, which are crucial for enhancing team dynamics and productivity. The depth of discussion on how quality impacts team pressure and delivery timelines further supports its relevance to team performance. However, while it touches on Agile principles, it does not delve deeply into team collaboration or conflict resolution, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:56:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses quality enablement in software delivery, mentioning the Definition of Done and acceptance criteria, which are closely related to ensuring that increments of software are shippable and valuable. However, the primary focus is on quality and predictability rather than the concept of Increment itself.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of quality in software delivery, which is closely related to the concept of Increment in Agile. It highlights the need for a Definition of Done and acceptance criteria, both of which are essential for ensuring that increments are potentially shippable and meet stakeholder expectations. However, while it touches on Agile principles, the primary focus is on quality enablement rather than the Increment itself, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:55:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content extensively discusses the importance of acceptance criteria, collaboration between teams, and how defining a clear definition of done can lead to better quality assurance and predictability in software delivery, which are central tenets of ATDD.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the importance of acceptance criteria and its role in defining quality and predictability in software delivery, which aligns with ATDD principles. However, it primarily focuses on broader quality enablement and delivery predictability rather than a detailed exploration of ATDD as a collaborative development approach. The mention of acceptance criteria is significant but not the sole focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:56:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses quality enablement in software development processes, with specific mentions of definitions of done, acceptance criteria, and automated testing and deployment, all of which are critical practices in the software development lifecycle.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses quality enablement in software delivery, focusing on the importance of defining quality metrics such as Definition of Done and Acceptance Criteria. It aligns well with key topics in software development, particularly in relation to Agile practices and quality assurance. The depth of discussion is significant, providing actionable insights and methodologies for improving predictability in software delivery, which is central to effective software development practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:56:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content focuses on quality enablement in software delivery, discussing the importance of Definition of Done and Acceptance Criteria, which are central to Agile practices.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses quality enablement in software delivery, touching on concepts like Definition of Done and Acceptance Criteria, which are relevant to Agile practices. However, it lacks a direct focus on Agile methodologies and frameworks, making it more of a general discussion on quality rather than a deep dive into Agile Project Management principles.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
@@ -652,11 +697,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:56:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of defining standards such as Definition of Done and Acceptance Criteria, which are key elements of empirical process control. It emphasizes the need for measurable quality to improve predictability and addresses the role of feedback and adaptation in software delivery, aligning it with empirical process principles. However, the primary focus seems to be on quality enablement and predictability rather than on empirical process control itself.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of quality enablement in achieving predictable delivery, which aligns with the principles of empirical process control by emphasising the need for measurable criteria (Definition of Done and Acceptance Criteria) to inform decision-making. It highlights the role of transparency in understanding what needs to be completed for delivery and the impact of quality on predictability, which are core themes of the category. However, while it touches on empirical process control concepts, it does not delve deeply into inspection and adaptation practices or provide case studies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -733,11 +781,14 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T22:06:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:56:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of setting measurable standards (like Definition of Done and Acceptance Criteria) to achieve predictable software delivery, which implies using empirical evidence to improve leadership and decision-making processes. However, it mainly revolves around quality management and software delivery practices rather than explicitly focusing on leadership decisions or frameworks typically associated with evidence-based leadership.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of quality enablement and its impact on predictable delivery, which indirectly relates to evidence-based leadership through the emphasis on measurable quality and defined criteria. However, it lacks direct references to evidence-based practices or leadership principles, focusing more on technical aspects of software development and quality assurance. While it touches on the need for empirical evidence in predicting delivery, it does not delve deeply into leadership decision-making or organisational improvements based on data-driven approaches.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -751,12 +802,12 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:08:54",
+    "calculated_at": "2025-03-15T04:55:47",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses quality enablement in the context of software delivery but primarily focuses on team-level practices and the definition of done, without delving into scaling agility at an organizational level or frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -808,11 +859,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T22:06:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:56:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical strategies for improving software delivery predictability through quality enablement, focusing on the importance of well-defined processes like the Definition of Done and Acceptance Criteria within an Agile context.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses practical strategies for improving software delivery quality, which aligns closely with pragmatic thinking in Agile and DevOps contexts. It explicitly mentions the importance of defining quality through measures like Definition of Done and Acceptance Criteria, demonstrating a clear application of real-world problem-solving techniques. The depth of discussion is substantial, providing detailed methods to enhance predictability in delivery, which reflects a strong understanding of navigating complexity in project management.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -826,20 +880,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:56:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of quality enablement and metrics for achieving predictable delivery, which can relate to innovation in terms of quality improvement and process enhancement. However, it primarily focuses on quality measurement rather than a broader ability to innovate, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of quality in software delivery and how it impacts predictability, which indirectly relates to the Ability to Innovate. However, it primarily focuses on quality assurance practices rather than directly addressing innovation capabilities or Evidence-Based Management principles. While it mentions the need for empirical evidence and measurement, it lacks a strong emphasis on fostering a culture of innovation or specific frameworks for measuring innovation capabilities.",
+    "level": "Secondary"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T22:06:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:56:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses quality enablement in software delivery, emphasizing the importance of acceptance criteria and definitions of done, which are relevant to Scrum practices. However, it primarily focuses on quality control and delivery predictability rather than the Scrum framework itself or Scrum-specific roles and ceremonies.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses quality enablement and its impact on predictable delivery, which indirectly relates to Scrum principles, particularly around the importance of the Definition of Done and acceptance criteria. However, it lacks explicit references to Scrum roles, events, or iterative development processes, which are central to the category. The focus is more on quality management than on Scrum practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scaled Agile": {
@@ -871,11 +931,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T22:06:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:56:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses aspects of quality enablement in software delivery and mentions automated builds and automated tests as part of the process to improve quality and predictability. While testing automation is a significant part of the discussion, it is not the primary focus; the main emphasis is on the overall quality management and processes in software development.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of quality in software delivery and mentions automated builds and automated tests as part of the solution to improve predictability. However, the primary focus is on quality enablement and delivery processes rather than a detailed exploration of test automation principles, frameworks, or best practices. While there are relevant mentions of automation, they are not the central theme of the discussion.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -889,11 +952,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T22:06:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:56:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses quality enablement, definitions of done, acceptance criteria, and automated processes, all of which align closely with the delivery and assurance of high-quality working software.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the importance of quality in software delivery, focusing on concepts such as Definition of Done and Acceptance Criteria, which are crucial for ensuring working software. It aligns well with the category by addressing the need for measurable quality standards and the impact of quality on predictability in delivery. The depth of discussion is significant, providing actionable insights and best practices, although it could benefit from more explicit examples of working software in practice.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -907,11 +973,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T22:06:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:56:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of automated builds and automated deployment as part of achieving quality and predictability in software delivery, which are key components of Continuous Integration practices. However, the primary focus is on broader quality management and delivery predictability rather than solely on CI.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses quality enablement and its impact on predictable delivery, touching on aspects of Continuous Integration such as automated builds and automated deployment. However, the primary focus is on quality management and project delivery rather than CI principles. While it mentions CI-related practices, it does not delve deeply into CI as a standalone topic, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -934,21 +1003,21 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T09:08:54",
+    "calculated_at": "2025-03-15T04:55:47",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "While the content discusses the importance of quality and predictability in software delivery, it primarily focuses on process improvements and implementation details rather than on interpreting complex situations or sensemaking in decision-making contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T09:08:54",
+    "calculated_at": "2025-03-15T04:55:47",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses software delivery predictability and quality enablement, which are not directly related to Site Reliability Engineering principles. While there are mentions of automation and quality assurance practices that could tangentially connect to reliability, the main focus is on development processes rather than SRE practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -979,11 +1048,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T22:06:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:56:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of quality in software delivery, emphasizing the need for a Definition of Done, acceptance criteria, automated builds, and automated deployment—components that are relevant to release management practices.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses quality enablement in the context of predictable software delivery, which aligns closely with release management principles. It mentions key aspects such as the Definition of Done, Acceptance Criteria, and the importance of automated builds and deployments, all of which are crucial for effective release management. The discussion is detailed and provides actionable insights, indicating a strong focus on the release process. However, while it touches on release management, it also delves into broader quality assurance topics, which slightly dilutes its primary focus.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -1006,30 +1078,36 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-15T22:06:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:56:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses automated builds and automated deployments, which are relevant to Azure Pipelines. However, the primary focus is on quality enablement and predictability in software delivery, making Azure Pipelines a secondary theme.",
-    "level": "Secondary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses quality enablement and its impact on software delivery, touching on concepts like automated builds and deployments, which are relevant to Azure Pipelines. However, it lacks a direct focus on Azure Pipelines specifically, and the discussion is more general about software quality and delivery processes rather than detailing Azure's CI/CD practices or pipeline configurations. Therefore, while there are relevant mentions, they are not the primary focus of the content.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T22:06:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T04:56:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of automated deployments as part of achieving predictable delivery, which relates to deployment frequency. However, the primary focus is on quality and predictability rather than the optimization of deployment intervals.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of quality in software delivery and mentions automated deployment as a means to improve predictability and quality. While it does touch on aspects related to deployment frequency, such as the need for automated builds and deployments, the primary focus is on quality assurance rather than the optimisation of deployment intervals. The discussion on how quality impacts delivery schedules and the need for a clear definition of done aligns with the category, but it does not delve deeply into strategies specifically aimed at increasing deployment frequency or measuring it. Therefore, while there is relevant content, it is not the primary focus.",
     "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T09:08:54",
+    "calculated_at": "2025-03-15T04:55:47",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses improving predictability in software delivery and establishing quality measures, but it does not clearly focus on Change Management principles or how to navigate organizational transformation in an Agile context.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -1087,12 +1165,12 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T09:08:54",
+    "calculated_at": "2025-03-15T04:55:47",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
     "final_score": 19.0,
     "reasoning": "The content primarily focuses on quality enablement and delivery processes in software development, discussing technical measures and challenges rather than product strategy frameworks, vision formulation, or market analysis.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -1231,11 +1309,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T22:06:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:56:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses improving software quality through Agile practices, such as Definition of Done and acceptance criteria, directly relating to the role of software developers in Agile environments.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the role of software developers in achieving predictable delivery through quality enablement, which aligns closely with Agile and DevOps principles. It explicitly mentions the importance of Definition of Done and Acceptance Criteria, both of which are critical in Agile methodologies. The depth of discussion on quality measures and their impact on developer pressure and delivery timelines indicates a strong focus on the developer's role in the software delivery process.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1249,11 +1330,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-15T22:06:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:56:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of quality in software delivery through principles such as Definition of Done, Acceptance Criteria, Automated Builds, and Automated Deployment, which align closely with engineering practices and methodologies in Agile development.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses quality enablement in software delivery, focusing on the importance of defining quality through concepts like Definition of Done and Acceptance Criteria, which are closely aligned with Agile engineering practices. It also mentions automation in builds and deployments, which are key aspects of CI/CD. The depth of discussion is substantial, providing specific strategies to improve predictability and quality in software development, thus aligning well with the core themes of the category.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -1324,11 +1408,14 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-15T22:06:43",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T04:56:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses how quality enablement affects the predictability of software delivery, focusing on the need for empirical evidence and defined measures for delivery timelines. It mentions concepts like Definition of Done and Acceptance Criteria, which relate to enhancing forecasting practices in Agile frameworks. However, the primary focus is more on quality issues than direct forecasting methodologies.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of quality enablement in achieving predictable delivery, which directly relates to forecasting in Agile and Scrum. It highlights the need for empirical evidence to make accurate predictions about delivery timelines and addresses the impact of quality on predictability. The mention of 'Definition of Done' and 'Acceptance Criteria' aligns with forecasting methodologies, as these elements are crucial for establishing a baseline for future predictions. However, while the content touches on forecasting, it primarily focuses on quality management rather than providing in-depth techniques or practices specifically for forecasting, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Lean Product Development": {
@@ -1378,12 +1465,15 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:57:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses quality management and the importance of automated testing in the development process, which are relevant to TDD, but does not focus specifically on TDD principles or practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses quality enablement and the importance of definitions like Definition of Done and Acceptance Criteria, which are relevant to TDD principles. However, it does not explicitly mention TDD or the Red-Green-Refactor cycle, and the focus is more on general quality assurance and delivery predictability rather than the specific practices of TDD. The depth of discussion on related concepts like automated testing is present, but it lacks a direct focus on TDD itself.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",

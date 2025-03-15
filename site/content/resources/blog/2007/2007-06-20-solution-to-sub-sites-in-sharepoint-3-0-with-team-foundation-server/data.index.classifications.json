@@ -1,11 +1,14 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:44:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Team Foundation Server (TFS) with SharePoint 3.0, which relates to managing software applications, but primarily focuses on specific implementation details rather than the broader principles of Application Lifecycle Management.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the integration of Team Foundation Server (TFS) with SharePoint 3.0, which relates to application lifecycle management in terms of project creation and management. However, it lacks a comprehensive exploration of the application lifecycle stages, best practices, or governance, focusing instead on specific technical solutions. While it mentions ALM in tags, the primary focus is on technical implementation rather than broader lifecycle management principles.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -295,12 +298,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:44:44",
+    "ai_confidence": 45.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, but primarily focuses on SharePoint integration rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, but it primarily focuses on integrating TFS with SharePoint 3.0 rather than on Azure DevOps functionalities or best practices. While there are direct mentions of TFS, the discussion lacks depth regarding Azure DevOps services and methodologies, making it more of a technical implementation guide rather than a comprehensive exploration of Azure DevOps.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -322,12 +328,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:44:42",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical solutions and processes related to Team Foundation Server and SharePoint, but it primarily focuses on specific implementation details rather than broader engineering practices or methodologies that enhance agility in software development.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a technical solution involving Team Foundation Server (TFS) and SharePoint 3.0, which touches on aspects of software development and deployment processes. However, it primarily focuses on a specific implementation issue rather than broader engineering practices or methodologies that enhance agility. While there are mentions of custom solutions and process updates, the depth of discussion on principles like TDD, CI/CD, or modular architecture is lacking, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -958,12 +967,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:44:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation details of integrating Team Foundation Server with SharePoint, which relates to technical practices and methodologies in software engineering. However, the focus is more on specific implementation rather than broader principles of software craftsmanship or architectural best practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a technical solution involving Team Foundation Server and SharePoint 3.0, which touches on software engineering practices. However, it primarily focuses on a specific implementation issue rather than broader principles of software craftsmanship or best practices. While it does provide some technical details, it lacks depth in discussing methodologies or principles that contribute to high-quality software development.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1252,7 +1264,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:23:10",
+    "calculated_at": "2025-03-15T07:44:37",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1260,7 +1272,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a technical solution involving Team Foundation Server and SharePoint, but it primarily focuses on specific implementation details rather than broader engineering excellence principles. While it touches on automation and process improvement, it lacks a comprehensive exploration of best practices or quality assurance in software craftsmanship.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1300,7 +1312,7 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-03-11T12:16:50",
+    "calculated_at": "2025-03-15T07:44:37",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1308,7 +1320,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses a specific technical solution involving Team Foundation Server and SharePoint, which touches on operational practices related to project management and workflow automation. However, it lacks a broader discussion on operational efficiency or methodologies like Agile, DevOps, or Lean. The focus is more on a specific implementation rather than general strategies for improving operational practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",

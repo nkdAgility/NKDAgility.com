@@ -8,7 +8,7 @@ ResourceImportId: 46108
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2021-04-19
-weight: 495
+weight: 420
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,15 +25,15 @@ aliasesArchive:
 - /resources/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 tags:
 - People and Process
+- Agile Project Management
 - Increment
 - Software Development
-- Agile Philosophy
-- Agile Project Management
-- Agile Transformation
-- Team Performance
 - Agile Product Management
 - Agile Values and Principles
+- Agile Philosophy
+- Agile Transformation
 - Software Developers
+- Team Performance
 categories:
 - Social Technologies
 - Scrum

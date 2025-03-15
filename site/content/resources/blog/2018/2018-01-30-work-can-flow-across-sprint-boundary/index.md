@@ -28,7 +28,16 @@ aliasesArchive:
 - /blog/work-can-flow-across-the-sprint-boundary
 - /resources/blog/work-can-flow-across-sprint-boundary
 tags:
+- Software Development
+- Transparency
+- Increment
+- Empirical Process Control
+- Scrum Product Development
+- Professional Scrum
+- Working Software
+- Software Developers
 - Agile Project Management
+- Product Delivery
 categories:
 - Social Technologies
 - Scrum

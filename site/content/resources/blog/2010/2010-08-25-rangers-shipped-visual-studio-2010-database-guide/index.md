@@ -28,8 +28,6 @@ tags:
 - Products and Books
 - Install and Configuration
 - Application Lifecycle Management
-- Modern Source Control
-- Technical Mastery
 categories:
 - DevOps
 - Engineering Excellence

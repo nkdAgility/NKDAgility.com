@@ -37,7 +37,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T18:13:26",
+    "calculated_at": "2025-03-14T23:22:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -45,7 +45,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the transition from a developer to a Scrum developer, touching on Agile principles and the importance of continuous delivery and quality. However, it lacks a direct focus on product management strategies, methodologies, or frameworks. The discussion is more about the challenges faced by developers rather than the strategic alignment of customer needs and business objectives, which is central to product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -58,7 +58,7 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-07T13:46:41",
+    "calculated_at": "2025-03-14T23:22:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -66,7 +66,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous delivery and Agile principles, which are related to business agility. However, it lacks a direct focus on the broader principles of business agility, such as organisational adaptability or leadership roles. The discussion is more centred on individual practices rather than the strategic aspects of business agility.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -79,7 +79,7 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-03-10T12:07:45",
+    "calculated_at": "2025-03-14T23:22:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -87,7 +87,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly touches on the transition to a Scrum developer and mentions concepts related to continuous delivery and Agile practices. However, it lacks explicit discussion of Scrum roles, events, or artifacts, which are central to the Professional Scrum category. The focus is more on general Agile principles rather than a deep exploration of Scrum itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -343,7 +343,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T17:40:55",
+    "calculated_at": "2025-03-14T23:22:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -351,7 +351,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the transition from a developer role to a Scrum developer, focusing on Agile principles rather than specific release management practices. While it mentions continuous delivery and the importance of quality in software development, it lacks a detailed exploration of release management strategies, scheduling, or coordination between teams, which are central to the category. Therefore, the confidence score reflects a low alignment with the core themes of release management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -382,11 +382,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T21:40:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:40:11",
+    "ai_confidence": 47.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous delivery and engineering practices, which are relevant to technical leadership in an agile context, but it does not delve deeply into the principles or strategies of technical leadership.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the transition from a developer to a Scrum developer, touching on Agile principles and continuous learning, which aligns with some aspects of technical leadership. However, it primarily focuses on personal experiences and insights rather than providing a structured discussion on technical leadership principles or strategies. The depth of discussion is moderate, but it lacks explicit mentions of key technical leadership topics such as mentoring, team dynamics, or conflict resolution.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -409,21 +412,27 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T21:40:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous delivery and Agile principles, making Agile Planning a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:48:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the transition to a Scrum developer and touches on Agile principles, but it primarily focuses on personal experiences and challenges rather than providing a structured discussion on Agile Planning methodologies. While it mentions continuous delivery and the Agile philosophy, it lacks detailed exploration of Agile Planning techniques, tools, or best practices.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T21:41:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous delivery and quality, which are related to Agile principles, but the primary focus is on the challenges of the transition rather than a deep exploration of Agile values.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:26:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the transition to a Scrum developer and touches on Agile principles, particularly the emphasis on continuous improvement and learning. However, it primarily focuses on Scrum practices rather than the underlying Agile values and principles, which limits its alignment with the category. The mention of Agile philosophy and ethos indicates some relevance, but the depth of discussion on core Agile values is moderate.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -508,21 +517,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T21:41:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the transition to a Scrum developer and touches on Agile principles like continuous delivery and quality, but it primarily focuses on the challenges faced by developers rather than a comprehensive discussion on Agile transformation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:22:06",
+    "ai_confidence": 76.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 26.0,
+    "non_ai_confidence": 10,
+    "final_score": 69.0,
+    "reasoning": "The content discusses the transition from a traditional developer role to a Scrum developer, which aligns with Agile transformation principles. It mentions the importance of continuous practices and understanding Agile philosophy, indicating a conceptual alignment with the category. However, the discussion lacks depth in terms of specific frameworks or methodologies beyond Scrum, and it primarily focuses on personal experience rather than broader organisational strategies.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T21:41:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:22:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of continuous delivery and testing, which are key aspects of engineering practices, but it primarily focuses on the transition to a Scrum developer rather than detailing specific engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the transition from a developer to a Scrum developer, touching on continuous delivery and the importance of high-quality engineering practices. However, it primarily focuses on personal experiences and the Scrum framework rather than delving deeply into specific engineering practices like TDD, CI/CD, or clean code principles. While there are relevant mentions of Agile principles, the depth of discussion on core engineering practices is limited.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -553,11 +568,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T21:41:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:22:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous delivery and engineering practices, which are relevant to Agile methodologies. However, it lacks a detailed exploration of specific tools or techniques, making it a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the transition from a developer to a Scrum developer, touching on Agile principles and continuous practices. However, it lacks specific references to tools or methodologies that enhance Agile and DevOps practices, which diminishes its alignment with the category. The discussion is more personal and philosophical rather than focused on practical techniques or tooling.",
     "level": "Tertiary"
   },
   "Value Stream Mapping": {
@@ -580,12 +598,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T21:41:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the personal challenges faced in transitioning to a Scrum developer role, reflecting on the difficulties and practices required, but it primarily focuses on technical aspects of Agile practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:22:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the author's personal journey transitioning from a developer to a Scrum developer, which aligns well with the Personal category. It includes direct mentions of personal experiences and insights, particularly regarding the challenges faced during this transformation. However, while it does touch on personal reflections, a significant portion of the content leans towards technical discussions about Scrum practices and Agile principles, which slightly detracts from its alignment with the Personal category. The depth of discussion is substantial, but the technical focus limits the overall confidence score.",
+    "level": "Secondary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -616,11 +637,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T21:41:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:22:16",
+    "ai_confidence": 47.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the transition to a Scrum developer, touching on continuous practices relevant to Scrum, but does not primarily focus on Scrum team dynamics or roles.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses the transition from a traditional developer role to a Scrum developer, touching on the challenges and continuous learning involved in adopting Scrum practices. However, it lacks explicit discussions on Scrum roles, team dynamics, or collaboration techniques, which are central to the Scrum Team category. The focus is more on individual development rather than team interactions, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scaling Agility": {
@@ -652,11 +676,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T21:41:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Continuous Delivery as part of a broader topic on transitioning to a Scrum developer, making it a major but secondary theme.",
+    "calculated_at": "2025-03-14T23:22:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions 'continuous delivery' within the context of Scrum but primarily focuses on the transition from a developer to a Scrum developer. While it touches on the importance of continuous practices, it lacks a detailed exploration of Continuous Delivery principles, practices, and methodologies. The discussion is more centred on Agile and Scrum rather than the specificities of Continuous Delivery.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -688,11 +715,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T21:41:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:22:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to a Scrum developer and touches on Agile principles, but it primarily focuses on individual developer practices rather than team collaboration dynamics.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the transition from a developer to a Scrum developer, touching on Agile principles and continuous learning. However, it primarily focuses on individual experiences and challenges rather than team dynamics or collaboration techniques. While there are mentions of Agile philosophy, the depth of discussion on team collaboration is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -724,12 +754,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T21:41:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for continuous improvement and practice in the context of transitioning to a Scrum developer, which aligns with the theme of learning and adaptation. However, the primary focus is on the challenges of the transition rather than on broader discovery and learning methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:22:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the transition from a developer to a Scrum developer, emphasising continuous learning and the Agile philosophy. It highlights the importance of adapting to new methodologies and practices, which aligns well with the core themes of the 'Discovery and Learning' category. However, while it touches on these themes, the focus is more on personal experience and the challenges of the transition rather than a broader exploration of discovery and learning processes. The depth of discussion is moderate, providing insights but lacking extensive detail on methodologies or frameworks that support learning.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -742,12 +775,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:41:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous delivery and Agile principles, but it primarily focuses on the challenges faced by developers rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:22:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the transition to a Scrum developer and touches on Agile principles, but it primarily focuses on personal experiences and the challenges of adopting Scrum rather than a comprehensive exploration of the Agile Product Operating Model. While there are mentions of continuous delivery and Agile philosophy, the discussion lacks depth in terms of product-centric development and value delivery, which are core themes of the category.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -769,12 +805,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T21:41:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:22:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and continuous practices, which are relevant to market adaptability, but the primary focus is on the transition to a Scrum developer rather than on broader market adaptability strategies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the transition to Scrum and the importance of continuous practices, which aligns with Agile methodologies. However, it lacks a direct focus on market adaptability strategies and does not delve deeply into how these practices enhance responsiveness to market changes.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -814,12 +853,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T21:42:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of continuous practices in Agile, which relates to metrics and learning, but it primarily focuses on the challenges of transitioning roles rather than on metrics or data-driven decision-making.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:22:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content discusses the transition from a developer to a Scrum developer, focusing on continuous learning and Agile principles. However, it lacks explicit discussions on metrics, data analysis, or feedback mechanisms, which are central to the 'Metrics and Learning' category. The mention of 'continuous delivery' and 'continuous testing' hints at some alignment with the category, but the overall focus is more on personal experience and transformation rather than evidence-based decision-making or detailed methodologies related to metrics.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -877,21 +919,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T21:42:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:22:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous delivery and quality in the context of transitioning to a Scrum developer, which aligns with operational practices, but it is primarily focused on the challenges of the transition rather than specific operational techniques or strategies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous practices within Agile, but it primarily focuses on personal experiences and insights rather than providing detailed operational strategies or techniques. While it mentions concepts like continuous delivery and the importance of Agile principles, it lacks depth in discussing specific operational practices or metrics that enhance efficiency.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T21:42:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of transitioning to a Scrum developer role, touching on continuous delivery and the need for engineering practices, which are related to Agile principles. However, it primarily focuses on the practical aspects of Scrum rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:22:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the transition to a Scrum developer, highlighting continuous learning and the Agile philosophy. While it mentions Scrum practices, it also reflects on the broader Agile mindset, emphasising continuous improvement and adaptability. However, the focus on specific Scrum roles and practices slightly detracts from a purely philosophical discussion.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -913,21 +961,27 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T21:42:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:22:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous delivery and release in the context of transitioning to a Scrum developer, making it a major but secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of continuous delivery within the context of transitioning to a Scrum developer, which aligns with the principles of Frequent Releases. However, the primary focus is on personal experiences and the challenges of adopting Scrum rather than a detailed exploration of frequent release practices. The mention of continuous delivery is brief and lacks depth, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T21:42:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for continuous improvement and practice in the context of transitioning to a Scrum developer, which aligns with the principles of Continuous Learning, but it is primarily focused on the challenges of the transition rather than a broader exploration of Continuous Learning practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:22:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the journey of transitioning from a developer to a Scrum developer, highlighting the importance of continuous learning throughout this process. It mentions 'continuous everything' in the context of Scrum, which aligns well with the principles of Continuous Learning. The depth of discussion is significant, as it covers personal insights, challenges, and the necessity of practice in mastering Agile principles. Overall, the content is focused on the growth mindset and the ongoing learning required in Agile environments.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -958,12 +1012,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T21:42:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous delivery and quality, which are relevant to Agile principles, but it does not focus primarily on Agile Product Management practices or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:22:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the transition to a Scrum developer and touches on Agile principles, particularly continuous delivery and the importance of quality in product development. However, it lacks a direct focus on Agile Product Management topics such as backlog prioritisation or stakeholder engagement, which limits its alignment with the category. The depth of discussion is moderate, providing personal insights but not delving deeply into Agile product management practices.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1021,21 +1078,27 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T21:42:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:22:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions continuous delivery and continuous testing, which are related to Continuous Integration, but the primary focus is on the transition to a Scrum developer and Agile practices.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the transition from a developer to a Scrum developer, touching on concepts of continuous delivery and continuous testing. However, it primarily focuses on Agile and Scrum methodologies rather than the principles and practices of Continuous Integration specifically. While there are mentions of continuous practices, they are not the primary focus, and the depth of discussion on CI-related tools, strategies, or case studies is lacking.",
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T21:42:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:22:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of transitioning to a Scrum developer and highlights the importance of continuous practices, which aligns with pragmatic problem-solving in Agile contexts. However, it does not delve deeply into specific strategies or real-world applications.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the transition from a developer to a Scrum developer, highlighting practical challenges and the importance of continuous learning within the Agile framework. While it mentions Agile principles and the need for practical application, the depth of discussion on specific pragmatic strategies or real-world applications is limited. The focus is more on personal experience rather than a comprehensive exploration of pragmatic thinking in complex environments.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1057,11 +1120,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T21:42:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:22:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous delivery and maintaining high quality in products, which aligns with the principles of working software. However, the primary focus is on the transition to a Scrum developer rather than directly on working software itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the transition to a Scrum developer and emphasises continuous delivery and quality, which are relevant to working software. However, it primarily focuses on personal experiences and the journey rather than providing detailed insights into working software itself. The mention of Agile principles and quality standards aligns with the category, but the depth of discussion on working software is limited.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -1102,11 +1168,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T21:42:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the transition to a Scrum developer, focusing on Agile principles and continuous practices, which are central to software development methodologies.",
+    "calculated_at": "2025-03-14T23:22:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the transition from a traditional developer role to a Scrum developer role, which is a specific aspect of Agile methodologies within software development. It discusses the challenges and learning involved in adopting Scrum practices, emphasising continuous delivery and quality standards, which align closely with key topics in the Software Development category. The depth of discussion includes personal insights and practical advice, enhancing its relevance to the category.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -1156,21 +1225,27 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T21:42:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:23:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the transition from a developer to a Scrum developer, focusing on continuous delivery and engineering practices within an Agile context.",
+    "final_score": 71.0,
+    "reasoning": "The content explicitly discusses the transition from a developer to a Scrum developer, which directly relates to the role of software developers within Agile frameworks. It mentions key Agile concepts such as continuous delivery and the importance of understanding engineering practices, aligning well with the core themes of the category. The depth of discussion includes personal insights and the challenges faced during this transition, providing a nuanced view of the developer's journey in an Agile context.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T21:42:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:23:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous delivery and release, which are related to deployment frequency, but the primary focus is on the transition to Scrum and the challenges faced by developers.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the transition to a Scrum developer and mentions continuous delivery, which is related to deployment frequency. However, it does not focus specifically on deployment intervals or strategies to optimise them. The discussion is more about the personal journey and the Agile philosophy rather than concrete practices or metrics related to deployment frequency.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1219,11 +1294,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T21:43:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:23:09",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous delivery and the need for engineering practices, which are relevant to technical excellence, but the primary focus is on the transition to a Scrum developer rather than on specific technical methodologies.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the transition from a developer to a Scrum developer, touching on continuous delivery and testing, which are relevant to technical excellence. However, the primary focus is on the Scrum philosophy and personal experiences rather than specific engineering practices or methodologies that enhance agility. While there are mentions of high-quality standards and sustainable coding, the depth of technical discussion is limited, making it a secondary focus rather than a primary one.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -1291,11 +1369,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T21:43:13",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of continuous delivery and the need for developers to adapt their practices to support Agile principles, making value delivery a significant theme.",
+    "calculated_at": "2025-03-14T23:23:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous delivery and Agile principles, which are relevant to value delivery. However, it primarily focuses on personal experiences and insights rather than providing a structured discussion on value delivery strategies or methodologies. The mention of continuous practices aligns with the category, but the depth of discussion lacks specific techniques or frameworks that enhance customer satisfaction and business agility.",
     "level": "Secondary"
   },
   "System Configuration": {
@@ -1327,12 +1408,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T21:43:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition to a Scrum developer and touches on Agile principles, but it primarily focuses on the challenges of continuous delivery and engineering practices rather than specific Scrum practices or product development.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:23:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the transition to a Scrum developer and touches on Scrum principles like continuous delivery and Agile philosophy. However, it lacks detailed exploration of Scrum roles, specific practices, or product development metrics, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1354,21 +1438,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T21:43:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous delivery and Agile principles, but it primarily focuses on the challenges faced by developers rather than a comprehensive Agile strategy.",
+    "calculated_at": "2025-03-14T23:23:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the transition to a Scrum developer and touches on Agile principles, particularly the concept of continuous delivery. However, it primarily focuses on personal experiences and practical challenges rather than a strategic overview of Agile methodologies or their implementation at an organisational level. The discussion lacks depth in strategic planning and does not explicitly address the alignment of organisational vision with Agile principles, which limits its relevance to the Agile Strategy category.",
     "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T21:43:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:23:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous delivery and maintaining high quality, which are relevant to the concept of Increment, but the primary focus is on the challenges of transitioning roles rather than the Increment itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the transition to a Scrum developer and touches on Agile principles, but it lacks a focused discussion on the concept of Increment itself. While it mentions continuous delivery and quality standards, it does not explicitly define or elaborate on the Increment's significance in delivering value to stakeholders or its relationship with other Scrum artifacts.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1381,11 +1471,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T21:43:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:23:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to a Scrum developer and touches on continuous delivery and Agile principles, making it a major but secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the transition to a Scrum developer, which touches on Agile principles and continuous improvement. However, it primarily focuses on personal experiences and the challenges of adopting Scrum rather than broader organisational agility strategies. While it mentions Agile philosophy and continuous practices, it lacks a comprehensive exploration of organisational structures, leadership roles, or cross-functional teams that are crucial for a full alignment with the category.",
     "level": "Tertiary"
   },
   "Troubleshooting": {

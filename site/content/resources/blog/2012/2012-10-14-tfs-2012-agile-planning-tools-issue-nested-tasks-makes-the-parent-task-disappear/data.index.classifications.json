@@ -169,11 +169,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:36:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Agile Planning Tools and the implications of task management within a team context, indicating a secondary theme related to team processes and methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the use of nested tasks and Product Backlog Items (PBIs) within the context of Agile planning tools, which touches on team processes and methodologies. However, it primarily focuses on technical aspects of tool usage rather than the human factors or team dynamics involved in Agile practices. While there are mentions of team collaboration in the context of planning, the depth of discussion on human behaviour and process improvement is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {
@@ -214,12 +217,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:35:57",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of nested tasks and Product Backlog Items in the context of Agile Planning Tools, which relates to engineering practices. However, the primary focus is on tool usage rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the use of nested tasks and Product Backlog Items (PBIs) within the context of Agile planning tools, which touches on aspects of technical practices in software development. However, it primarily focuses on the limitations of the tools rather than delving deeply into engineering methodologies or practices that enhance agility. While it mentions Agile concepts, it does not provide substantial insights into technical excellence principles like TDD, CI/CD, or modular architecture, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -271,21 +277,27 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:35:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Visual Studio 2012 Team Foundation Server Agile Planning Tools, which relates to tools that facilitate Agile practices, but the primary focus is on specific issues and solutions rather than a review or analysis of products or literature.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the use of Visual Studio 2012 Team Foundation Server's Agile Planning Tools, focusing on nested tasks and Product Backlog Items (PBIs). While it provides practical insights into the tool's functionality and its implications for Agile practices, it lacks direct references to specific books or broader product reviews. The discussion is somewhat aligned with Agile methodologies, but it does not delve deeply into literature or comparative analyses of different products, which are key aspects of the 'Products and Books' category.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:35:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications of using nested tasks within Agile Planning tools, which relates to value delivery in terms of aligning development processes with customer needs. However, the primary focus is on technical implementation details rather than overarching strategies for value delivery.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the use of nested Product Backlog Items (PBIs) and tasks within the context of Agile planning tools, which touches on aspects of value delivery. However, it primarily focuses on technical implementation details and specific tool usage rather than broader strategies or methodologies for delivering value to customers. While there are mentions of Agile principles, the depth of discussion on value delivery practices is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -385,12 +397,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:35:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Agile Planning Tools and the implications of nested tasks in the context of software development, which relates to best practices in software design and engineering. However, the primary focus is on tool usage rather than broader principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the use of nested tasks and Product Backlog Items (PBIs) within the context of Agile planning tools, which touches on software development practices. However, the primary focus is on the limitations of the tools rather than on best practices or principles of software craftsmanship. While it does mention aspects of Agile methodology, it lacks a deeper exploration of technical excellence, clean code principles, or architectural considerations, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -439,12 +454,15 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:36:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications of task management in Agile, which relates to the Definition of Ready, but it primarily focuses on tool usage and specific issues rather than establishing clear criteria for readiness.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the breakdown of Product Backlog Items (PBIs) into tasks, which touches on aspects of readiness but does not explicitly define or discuss the Definition of Ready (DoR) as a concept. While it mentions the importance of correctly categorising work items, it lacks a comprehensive exploration of the criteria for establishing a DoR or the role of the Product Owner in this process. The focus is more on tool limitations and practical issues rather than the principles of backlog item readiness.",
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -499,39 +517,51 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:35:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of nested tasks and Product Backlog Items in Agile planning tools, which relates to process optimisation and workflow management. However, it primarily focuses on specific issues with the tools rather than broader operational practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of nested Product Backlog Items (PBIs) and tasks within the context of Agile planning tools, which relates to operational practices in Agile methodologies. It provides practical insights on how to effectively manage tasks and PBIs to enhance workflow efficiency. However, while it touches on operational practices, the focus is more on specific tool usage rather than broader strategies for operational efficiency, which limits its overall alignment and depth.",
     "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:35:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and tasks, which relates to Scrum roles and responsibilities, but primarily focuses on tool usage rather than team dynamics or collaboration.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the breakdown of Product Backlog Items and tasks within the context of Agile Planning Tools, which is relevant to Scrum. However, it primarily focuses on tool usage rather than the dynamics, roles, and collaboration within a Scrum Team. While it mentions Product Backlog Items and tasks, it lacks a deeper exploration of team roles, collaboration techniques, or communication strategies, which are central to the Scrum Team category.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:36:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile Planning Tools and the breakdown of Product Backlog Items, which relates to Agile principles, but primarily focuses on technical aspects of using a specific tool rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses technical aspects of using Agile Planning Tools in TFS, focusing on nested tasks and their implications. While it touches on concepts related to Agile, such as Product Backlog Items and the development process, it lacks a thorough exploration of the Agile Philosophy itself. The discussion is more about practical tool usage rather than the foundational principles and values of Agile, leading to a low confidence score in alignment with the Agile Philosophy category.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:36:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications for Agile planning, which relates to strategic alignment and optimisation of delivery processes. However, it primarily focuses on tool usage rather than broader strategic concepts.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of nested tasks and Product Backlog Items (PBIs) within the context of Agile planning tools, which touches on aspects of Agile strategy. However, it primarily focuses on practical issues and tool usage rather than a broader strategic discussion. While it mentions the importance of aligning tasks with PBIs, it lacks a comprehensive exploration of strategic alignment, value-driven approaches, or leadership roles in strategy formulation. The depth of discussion is moderate, but it does not fully engage with the key topics outlined in the Strategy category.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -544,12 +574,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:36:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile Planning Tools and the handling of Product Backlog Items and Tasks within an Agile framework, indicating a major but secondary theme related to Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the use of Agile Planning Tools within the context of Team Foundation Server, specifically addressing the handling of nested tasks and Product Backlog Items (PBIs). While it touches on Agile concepts, such as PBIs and task management, it lacks a broader discussion on Agile transformation strategies, methodologies, or cultural shifts. The focus is more on tool usage rather than the principles and practices of Agile transformation, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -571,20 +604,26 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:36:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Agile Planning tools and the breakdown of Product Backlog Items, which relates to team workflows and processes. However, it primarily focuses on tool usage rather than broader team performance strategies or dynamics.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the use of nested tasks and Product Backlog Items (PBIs) within the context of Agile planning tools, which touches on team dynamics and workflow. However, it primarily focuses on technical issues related to the tools rather than broader strategies for enhancing team performance or collaboration. While there are mentions of Agile principles, the depth of discussion on team performance and collaboration is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:36:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications for Agile planning, which relates to the concept of Increments, but it primarily focuses on the use of tools and task management rather than the delivery of software increments.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the breakdown of Product Backlog Items (PBIs) into tasks, which is relevant to the Increment concept in Agile. It touches on the importance of correctly identifying PBIs and tasks to ensure that the work aligns with delivering a potentially shippable product increment. However, the focus is more on the use of specific tools (TFS) and their limitations rather than a comprehensive discussion on the Increment itself. While it mentions Agile principles, it lacks depth in exploring the broader implications of Increments in delivering value to stakeholders.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -622,20 +661,26 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:36:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications of using nested tasks within Agile Planning Tools, which relates to Agile principles. However, it primarily focuses on specific tools and their functionalities rather than a broader discussion of Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items (PBIs) within the context of Team Foundation Server (TFS) and does not explicitly address Agile values or principles. While it touches on aspects of Agile planning and workflow, it lacks a direct discussion of the Agile Manifesto, its core values, or the principles of Agile software development. The focus is more on tool usage rather than the underlying Agile philosophy, resulting in a low confidence score for alignment with the category.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:36:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the breakdown of Product Backlog Items and the implications of nested tasks within the context of Agile Planning Tools, which relates to Scrum principles, but it primarily focuses on tool usage rather than an in-depth exploration of Scrum roles or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of Product Backlog Items (PBIs) and tasks within the context of Agile Planning Tools, which relates to Scrum practices. However, it primarily focuses on the technical aspects of using a specific tool (TFS 2012) rather than providing a comprehensive exploration of Scrum principles, roles, or events. While there are mentions of PBIs and tasks, the depth of discussion on Scrum's theoretical foundations and practices is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -649,12 +694,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:36:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile planning tools and the breakdown of Product Backlog Items, which relates to empirical process control principles, but it primarily focuses on tool usage rather than the core concepts of transparency, inspection, and adaptation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Agile Planning Tools and the breakdown of Product Backlog Items, which touches on aspects of empirical process control, such as transparency and adaptation. However, it primarily focuses on tool usage and specific issues rather than a comprehensive discussion of empirical process control principles. The mention of Agile concepts is present but not deeply explored, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -667,21 +715,27 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-14T16:49:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:35:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of nested tasks and Product Backlog Items (PBIs) within the context of Azure Boards and Agile project management, providing insights into best practices and tool limitations.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the use of nested tasks and Product Backlog Items (PBIs) within the context of Team Foundation Server (TFS) and Agile Planning Tools, which are related to Azure Boards. It provides insights into how these tools function and the implications of using nested tasks, aligning with the category's focus on Agile project management. However, the discussion is somewhat limited in scope, primarily addressing a specific issue rather than exploring broader functionalities or best practices of Azure Boards. The depth of discussion is moderate, focusing on a particular problem without extensive exploration of the overall capabilities of Azure Boards.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:35:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Agile Planning Tools within Team Foundation Server, which relates to collaboration in Agile teams, but primarily focuses on the technical aspects and limitations of the tool rather than broader collaboration strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the use of Agile Planning Tools within Team Foundation Server, focusing on the management of Product Backlog Items and tasks. While it touches on aspects of Agile workflows, it primarily addresses specific issues related to task management rather than broader collaboration tools or their impact on team dynamics. The mention of Agile principles is present, but the depth of discussion is more technical and procedural, lacking a comprehensive exploration of collaboration tools as a category.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -757,7 +811,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:52:22",
+    "calculated_at": "2025-03-15T05:35:08",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -765,7 +819,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the use of nested tasks and Product Backlog Items (PBIs) within the context of Agile planning tools, which touches on aspects of software development practices. However, it primarily focuses on tool usage and project management rather than the core principles of engineering excellence, such as coding standards, quality assurance, or continuous improvement. The discussion lacks depth in terms of best practices and does not provide substantial insights into engineering processes or craftsmanship.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -805,20 +859,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T16:49:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:35:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to Agile Planning Tools, specifically addressing the use of nested tasks and Product Backlog Items in a real-world context. It provides insights into navigating complexities within Agile frameworks, making it a clear fit for the category.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses practical issues related to using Agile Planning Tools in TFS, specifically addressing the challenges of nested tasks and their implications for project management. It provides a real-world example of how to effectively manage Product Backlog Items (PBIs) and tasks, aligning with pragmatic thinking in Agile contexts. However, while it touches on practical problem-solving, the depth of discussion on broader Agile principles and strategies is somewhat limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-14T16:49:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:35:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the breakdown of Product Backlog Items and the implications of using nested tasks, which aligns closely with backlog refinement practices in Agile.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the breakdown of Product Backlog Items (PBIs) into tasks, which is relevant to backlog refinement. It touches on the importance of understanding the nature of work items and how they should be structured for effective planning. However, it lacks a comprehensive exploration of backlog refinement techniques, prioritisation methods, or the role of the Product Owner, which are key topics in the category. The discussion is somewhat focused but does not delve deeply into the principles of backlog refinement as a practice.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
@@ -832,11 +892,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T16:49:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:35:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the management of Product Backlog Items and the implications of using nested tasks within the Scrum framework, which aligns closely with Scrum principles and practices.",
+    "final_score": 76.0,
+    "reasoning": "The content discusses the management of Product Backlog Items (PBIs) and the implications of using nested tasks within the context of Scrum. It provides a detailed explanation of how to effectively break down PBIs into tasks, which aligns well with Scrum principles. The discussion includes practical examples and solutions, demonstrating a strong understanding of Scrum practices. However, while it focuses on Scrum-related tools and practices, it does not explicitly mention all Scrum roles or the full Scrum framework, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scaled Agile": {
@@ -886,20 +949,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-14T16:49:35",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:35:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the use of nested Product Backlog Items and tasks within Agile Planning Tools, which relates to the delivery of functional software. However, it primarily focuses on tool usage and specific issues rather than broader principles of working software.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the use of nested tasks and Product Backlog Items (PBIs) within the context of Agile planning tools, which relates to the delivery of functional software. However, while it touches on Agile principles and the importance of structuring work items effectively, it lacks a comprehensive exploration of working software characteristics, quality assurance practices, or customer feedback mechanisms. The focus is more on tool usage than on the broader implications of delivering working software.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-14T16:49:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:35:27",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning Tools within the context of Team Foundation Server, focusing on nested tasks and their implications for backlog management and sprint planning.",
+    "final_score": 77.0,
+    "reasoning": "The content explicitly discusses the use of Agile Planning Tools within the context of Visual Studio 2012 Team Foundation Server, focusing on nested tasks and their implications for backlog management. It provides a detailed examination of how these tools function, the challenges faced when using nested tasks, and offers solutions that align with Agile principles. The depth of discussion is significant, covering practical steps and findings related to Agile planning, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -958,12 +1027,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:36:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the decision-making process involved in breaking down Product Backlog Items into tasks, which aligns with structured decision-making principles. However, the primary focus is on the technical aspects of using Agile Planning Tools rather than a comprehensive exploration of decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the use of nested tasks and Product Backlog Items (PBIs) in Agile planning, which touches on decision-making processes related to task management. However, it lacks a structured, evidence-based approach to decision-making and does not delve into empirical methodologies or frameworks. The focus is more on practical usage of tools rather than on the principles of decision-making as defined in the category.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -985,11 +1057,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-14T16:49:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:35:29",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the management of Product Backlog Items (PBIs) and the implications of task nesting in Agile planning, which are central to the responsibilities of a Product Owner.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the breakdown of Product Backlog Items (PBIs) and the implications of nested tasks within the context of Agile Planning Tools. While it mentions PBIs, which are relevant to the Product Owner's responsibilities, the focus is primarily on technical implementation details and tool limitations rather than on the broader responsibilities, strategies, or stakeholder engagement aspects of the Product Owner role. The discussion lacks depth in exploring how these practices relate to maximising product value or engaging with stakeholders.",
     "level": "Secondary"
   },
   "Cycle Time": {
@@ -1102,12 +1177,15 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:36:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses breaking down Product Backlog Items into tasks, which relates to estimation practices in Agile, but the primary focus is on tool usage rather than estimation techniques.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the breakdown of Product Backlog Items (PBIs) into tasks, which touches on estimation as it relates to planning and understanding the work required. However, it lacks a focused discussion on specific estimation techniques or empirical data, and the depth of exploration into estimation practices is limited. The primary focus is on tool usage rather than the estimation process itself.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -1183,11 +1261,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-14T16:50:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:35:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue with nested tasks in TFS 2012 Agile Planning Tools, providing steps to reproduce the problem and suggesting a solution, which aligns well with troubleshooting methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses an issue related to nested tasks in TFS 2012 Agile Planning Tools, providing a clear problem statement and a solution. It directly addresses a technical issue, which aligns with the troubleshooting category. However, while it mentions troubleshooting in the context of Agile tools, the depth of discussion on systematic problem-solving techniques and methodologies is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1228,11 +1309,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-14T16:50:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:35:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning Tools in the context of software development, specifically addressing the handling of nested tasks and Product Backlog Items within the Agile framework, which is central to the role of software developers.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the use of Agile Planning Tools within the context of software development, specifically addressing the handling of nested tasks and Product Backlog Items (PBIs) in Team Foundation Server (TFS). It directly mentions Agile practices and provides detailed insights into how these tools affect the development process. The discussion aligns well with the core themes of Agile methodologies and their impact on software delivery, showcasing best practices and potential pitfalls. The depth of the discussion is substantial, offering practical steps and solutions for developers, which reinforces its relevance to the category.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1294,21 +1378,27 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-14T16:50:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:35:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of Agile Planning Tools within the context of Team Foundation Server, focusing on the breakdown of Product Backlog Items and the implications for Agile workflows, which aligns with Agile principles.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the use of Agile Planning Tools within the context of Team Foundation Server, specifically addressing the handling of nested tasks and Product Backlog Items (PBIs). While it does mention Agile concepts and tools, the focus is primarily on the technical aspects of using a specific software rather than a broader exploration of Agile frameworks like Scrum or Kanban. The discussion aligns with Agile principles but lacks depth in exploring various frameworks or their comparative analysis. Therefore, it has a moderate confidence score reflecting its relevance to the category.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:35:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Agile Planning Tools and the breakdown of Product Backlog Items, which relates to Agile methodologies. However, it primarily focuses on technical practices rather than strategic context.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses the technical aspects of using Agile Planning Tools in TFS, focusing on nested tasks and Product Backlog Items. While it touches on Agile principles, such as breaking down work items and the importance of workflow, it lacks a strategic focus on how these practices align with broader organisational goals or Agile methodologies. The discussion is more about tool usage than about implementing Agile strategies at scale or fostering an Agile culture.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",

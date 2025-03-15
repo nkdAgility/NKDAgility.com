@@ -24,13 +24,12 @@ preview: https://i.ytimg.com/vi/9CkvfRic8e0/maxresdefault.jpg
 duration: 141
 isShort: false
 tags:
-- System Configuration
 - Install and Configuration
+- System Configuration
 - Practical Techniques and Tooling
-- Release Management
-- Software Development
 - Troubleshooting
-- Product Delivery
+- Software Development
+- Release Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6

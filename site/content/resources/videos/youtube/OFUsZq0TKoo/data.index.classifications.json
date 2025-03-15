@@ -61,11 +61,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving collaboration and understanding problems, which aligns with coaching principles, but it primarily focuses on product development techniques and outcomes.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses enhancing collaboration and fostering a growth mindset through structured learning, which aligns with coaching principles. However, it lacks direct mentions of coaching techniques or the role of a coach, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
@@ -130,20 +133,26 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving product development processes and user value through experimentation and data-driven decision-making, which aligns with themes of digital transformation. However, it primarily focuses on product development techniques rather than a broader strategic adoption of digital technologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses aspects of product development that align with digital transformation, such as enhancing user value and improving collaboration through structured learning. However, it lacks explicit mentions of digital technologies or strategic initiatives that are central to digital transformation. The focus is more on methodologies and practices rather than the integration of digital tools, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improving user value and collaboration in product development, which are relevant to working software, but it primarily focuses on the course's impact rather than directly on the delivery of functional software.",
+    "calculated_at": "2025-03-14T18:15:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses concepts related to user value, collaboration, and reducing waste in product development, which are relevant to working software. However, it lacks direct mentions of working software and does not delve deeply into Agile or Scrum principles. The focus is more on the learning process and methodologies rather than the delivery of functional software itself.",
     "level": "Tertiary"
   },
   "Decision Making": {
@@ -199,11 +208,14 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:16:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses understanding user needs and improving collaboration with stakeholders, which are related to customer feedback, but it primarily focuses on product development practices rather than explicitly detailing feedback loop mechanisms.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding user needs and gathering evidence through experimentation, which aligns with the concept of customer feedback. However, it lacks a direct focus on structured feedback loops and does not delve deeply into methods for collecting and integrating feedback into product development processes.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -283,12 +295,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles related to user value, waste reduction, and collaboration, which are relevant to Agile methodologies, but it does not focus primarily on Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses concepts related to user value, waste reduction, and collaboration, which are relevant to Agile principles. However, it does not explicitly mention Agile frameworks or provide a comparative analysis of them. The focus is more on structured learning and product development rather than on Agile frameworks themselves, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -301,20 +316,26 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses improving collaboration between teams and stakeholders, which aligns with the category, but the primary focus is on product development techniques and user value rather than team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:16:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses collaboration as a significant aspect of product development, providing practical tools and strategies to enhance it. While it does not focus exclusively on team dynamics within Agile or DevOps frameworks, it aligns well with the core themes of improving communication and fostering collaboration among stakeholders. The depth of discussion on collaboration techniques and their impact on product development contributes to a higher confidence score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses understanding user needs and improving collaboration with stakeholders, which are related to customer satisfaction, but the primary focus is on product development techniques rather than customer satisfaction itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses increasing user value and understanding user needs, which are relevant to customer satisfaction. However, it lacks explicit mentions of customer satisfaction metrics or methodologies, and the focus is more on product development processes rather than directly addressing customer satisfaction as a primary theme.",
     "level": "Tertiary"
   },
   "Lean Thinking": {
@@ -355,11 +376,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product development and methodologies that can enhance user value and collaboration, which are relevant to software development practices, but the primary focus is on product management and user experience rather than software engineering specifically.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses product development and structured learning, which are relevant to software development but primarily focuses on broader concepts like user value and collaboration rather than specific software engineering practices. While it touches on agile principles and evidence-based decision-making, it lacks detailed exploration of software development methodologies or coding practices.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
@@ -391,12 +415,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:16:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses user value, collaboration, and the importance of understanding problems, which are aligned with Agile principles, but it primarily focuses on the outcomes of a specific course rather than a deep exploration of Agile values.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses themes such as increasing user value, reducing waste, and enhancing collaboration, which align with Agile principles. However, it does not explicitly mention Agile values or the Agile Manifesto, leading to a lower direct mention score. The depth of discussion on Agile principles is moderate, focusing on practical applications rather than a thorough exploration of Agile values.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -418,20 +445,26 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:16:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improving user value, stakeholder collaboration, and product development techniques, which are relevant to the Product Owner role, but it is primarily focused on the course outcomes rather than the specific responsibilities of a Product Owner.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses themes relevant to the Product Owner role, such as increasing user value, stakeholder engagement, and collaboration. However, it lacks direct mentions of the Product Owner and does not delve deeply into specific responsibilities or techniques unique to the role. The focus is more on general product development principles rather than the specific practices of a Product Owner.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improving collaboration and understanding user needs, which are relevant to change management, but the primary focus is on product development techniques rather than change management strategies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses themes related to product development and structured learning, which touch on aspects of change management, such as enhancing collaboration and fostering a culture of continuous improvement. However, it lacks a direct focus on change management principles, strategies, or the role of leadership in guiding transformation. The discussion is more centred on product development techniques rather than the broader implications of change management within an organisation.",
     "level": "Tertiary"
   },
   "Mentoring": {
@@ -445,12 +478,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:16:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of designing experiments based on evidence to understand user needs and improve product development, which aligns with empirical process control principles. However, it primarily focuses on the course's benefits rather than a deep exploration of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of evidence-based decision-making and experimentation, which aligns well with the principles of empirical process control. It highlights the role of structured learning in enhancing user value and reducing waste, emphasising the need for data-driven discussions and continuous improvement. However, while it touches on relevant themes, it does not delve deeply into specific Agile frameworks or case studies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -574,11 +610,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T23:11:49",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies, evidence-based decision-making, and improving collaboration in product development, which aligns well with the principles of Pragmatic Thinking.",
+    "calculated_at": "2025-03-13T15:00:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical strategies for enhancing product development through structured learning, focusing on user value, reducing waste, and improving collaboration. It aligns well with the core themes of Pragmatic Thinking by emphasising evidence-based decision-making, experimentation, and real-world applications of Agile principles. The depth of discussion is substantial, providing specific techniques and insights that can be immediately applied, which reinforces its relevance to the category.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -610,11 +649,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving user value, reducing waste, and enhancing collaboration, which are relevant to Agile principles. However, it primarily focuses on the practical aspects of a course rather than a comprehensive Agile strategy.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses key aspects of product development that align with Agile principles, such as increasing user value, reducing waste, and enhancing collaboration. However, it lacks explicit references to Agile methodologies or strategic planning, which limits its direct alignment with the Agile Strategy category. The depth of discussion on user-centric approaches and continuous improvement indicates a strong conceptual alignment, but the absence of a clear Agile framework or strategic context reduces the overall confidence score.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
@@ -646,11 +688,14 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:16:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses understanding user needs and improving decision-making through experimentation, which aligns with sensemaking principles. However, it primarily focuses on product development techniques rather than a comprehensive exploration of sensemaking in complex environments.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses structured learning in product development, emphasising user value, evidence-based decision-making, and collaboration. While it touches on aspects of sensemaking, such as understanding user needs and fostering data-driven discussions, it primarily focuses on practical applications and techniques rather than a deep exploration of sensemaking principles or frameworks. The discussion is relevant but lacks a comprehensive analysis of complexity and decision-making processes, which limits its alignment with the core themes of the category.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -664,11 +709,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improving collaboration between teams and stakeholders, which is a significant aspect of team performance, but it primarily focuses on product development and user value rather than directly on team dynamics or Agile practices.",
+    "calculated_at": "2025-03-14T18:15:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses enhancing collaboration, which is a key aspect of team performance. It mentions practical tools and strategies for improving collaboration and engaging stakeholders, aligning with the category's focus. However, while it touches on team dynamics, it lacks detailed exploration of Agile methodologies or specific team performance metrics, which limits its depth in the context of the category.",
     "level": "Tertiary"
   },
   "AI": {
@@ -709,12 +757,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:16:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses increasing user value and decreasing waste, which are aligned with Lean principles. However, it primarily focuses on product development and experimentation rather than a comprehensive exploration of Lean concepts.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content explicitly discusses reducing waste and increasing user value, which are core tenets of Lean Principles. It also touches on continuous improvement and evidence-based decision-making, aligning well with Lean thinking. However, while it provides a good depth of discussion on these topics, it does not delve deeply into specific Lean tools or techniques, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -745,12 +796,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improving product development processes and collaboration, which are related to organisational change, but the primary focus is on specific techniques and practices rather than a comprehensive discussion on organisational change strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses themes related to enhancing collaboration and reducing waste, which are relevant to organisational change. However, it primarily focuses on product development techniques and structured learning rather than the broader strategies and frameworks of organisational change. While there are mentions of agility and user value, these are not deeply tied to organisational change methodologies or leadership roles, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -763,29 +817,38 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:16:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses improving product development processes and collaboration, which aligns with Scrum principles, but it does not explicitly focus on Scrum practices or frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses various aspects of product development, including user value, waste reduction, and collaboration, which are relevant to Scrum principles. However, it lacks explicit references to Scrum roles, events, or the framework itself, leading to a moderate confidence score. The focus on structured learning and experimentation aligns with iterative development but does not delve deeply into Scrum-specific practices.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses techniques for increasing user value, reducing waste, and improving collaboration, which are relevant to operational efficiency. However, it primarily focuses on product development rather than operational practices in Agile, DevOps, or Lean frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses various aspects of product development that align with operational practices, such as reducing waste, enhancing collaboration, and using evidence-based decision-making. It explicitly mentions techniques for increasing user value and improving ROI, which are key to operational efficiency. However, while it touches on relevant themes, the focus is more on the course's benefits rather than a deep dive into specific operational methodologies like Agile or Lean. This results in a strong but not fully comprehensive alignment with the category.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T23:12:22",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the use of evidence and data-driven approaches in product development, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on the course's benefits rather than a comprehensive discussion of EBM principles.",
+    "calculated_at": "2025-03-13T15:23:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of structured learning and experimentation in product development, which aligns with the principles of Evidence-Based Management. It highlights the use of empirical evidence to inform decisions, particularly in increasing user value and reducing waste. However, while it touches on EBM concepts, it does not delve deeply into specific EBM practices or metrics, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -844,29 +907,38 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-12T23:12:34",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses methodologies for understanding user needs, designing experiments, and improving collaboration in product development, which aligns closely with the principles of product discovery.",
+    "calculated_at": "2025-03-13T16:23:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on enhancing product development through understanding user needs, structured learning, and experimentation, which aligns closely with the core themes of Product Discovery. It discusses techniques for user research, the importance of empathy-driven design, and the role of collaboration in product development. The depth of discussion is substantial, providing specific strategies and insights that relate to defining valuable product features and validating ideas. However, while it touches on key aspects of Product Discovery, it does not delve deeply into frameworks like Lean Startup or Design Thinking, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-12T23:12:35",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T16:31:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses concepts related to understanding user needs, designing experiments, and improving product development processes, which align with Lean Startup principles. However, it also touches on broader themes of collaboration and general product development practices, making Lean Startup a major but secondary theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses structured learning and experimentation in product development, which aligns with Lean Startup principles. However, it lacks explicit references to the Minimum Viable Product (MVP) and the Build-Measure-Learn feedback loop, which are central to the Lean Startup methodology. While it touches on user value and reducing waste, it does not delve deeply into validated learning or specific Lean metrics, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:16:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles related to user value, collaboration, and evidence-based decision-making, which are relevant to Agile Planning, but it primarily focuses on the outcomes of a specific course rather than Agile Planning methodologies or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses principles that align with Agile Planning, such as increasing user value, reducing waste, and enhancing collaboration. However, it does not explicitly mention Agile methodologies or practices like sprints or backlogs, which limits its depth in the context of Agile Planning. The focus on structured learning and experimentation suggests an understanding of Agile principles, but the lack of direct references to Agile frameworks reduces the overall confidence score.",
     "level": "Tertiary"
   },
   "Accountability": {
@@ -880,21 +952,27 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to user value, experimentation, and evidence-based decision-making, which are relevant to MVP development. However, it does not explicitly focus on MVP as a primary topic, making it a secondary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses principles relevant to product development, such as user value, experimentation, and collaboration, which align with MVP concepts. However, it does not explicitly mention MVP or focus on its specific strategies or metrics, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:16:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses improving collaboration between teams and stakeholders, which is a significant theme, but it primarily focuses on product development and user value rather than specific collaboration tools.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses collaboration in the context of product development, highlighting its importance and providing strategies to enhance it. However, it does not focus specifically on collaboration tools or platforms, which limits its alignment with the category. The mention of collaboration is significant but not the primary focus, and while it provides some depth, it lacks detailed exploration of specific tools or their integration with Agile methodologies.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -961,11 +1039,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T23:12:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T14:49:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses principles related to user value, collaboration, and continuous improvement, which align with Agile Philosophy. However, it primarily focuses on the outcomes of a specific course rather than a deep exploration of Agile principles.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses key Agile principles such as user value, collaboration, and continuous improvement, which align with the Agile Philosophy. However, it lacks direct references to the Agile Manifesto or its principles, and the discussion is more focused on practical applications rather than the underlying philosophy itself.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -1024,39 +1105,51 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-12T23:13:01",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the principles of continuous learning through deliberate experimentation, understanding user needs, and improving collaboration, which aligns well with the category's focus on growth mindset and knowledge sharing.",
+    "calculated_at": "2025-03-14T15:10:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses structured learning and its transformative power in product development, which aligns with the principles of Continuous Learning. It mentions experimentation, user value, and collaboration, all of which are relevant to the category. However, while it touches on continuous improvement and ongoing learning, the focus is more on practical applications rather than a deep exploration of Continuous Learning principles. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes related to product development and user value, but it primarily focuses on practical applications and techniques rather than a theoretical exploration of decision theory.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses decision-making in the context of product development, particularly through structured learning and experimentation. While it touches on concepts like evidence-based budgeting and data-driven discussions, which align with decision theory, the primary focus is on product development strategies rather than a deep exploration of decision-making processes in uncertain environments. The mention of user value and collaboration indicates some relevance, but it lacks a thorough examination of decision theory principles.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improving collaboration and understanding user needs, which are relevant to enterprise agility, but it primarily focuses on individual product development practices rather than broader organisational agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:15:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses concepts related to user value, waste reduction, and collaboration, which are important in agile practices. However, it primarily focuses on individual product development rather than organisational agility. While it touches on collaboration and continuous improvement, it lacks a broader organisational context and does not explicitly address enterprise-level agility frameworks or structures.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses increasing user value and decreasing waste, which are key principles of Lean. However, it primarily focuses on product development and experimentation rather than Lean methodologies specifically.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses reducing waste and increasing user value, which aligns with Lean principles. It mentions structured learning and experimentation, which are relevant to Lean methodologies. However, while it touches on Lean concepts, it primarily focuses on product development and collaboration, which may dilute its alignment with Lean as a primary focus.",
+    "level": "Secondary"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1105,12 +1198,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:16:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of product development, user value, and collaboration with stakeholders, which are relevant to product delivery, but it primarily focuses on the course's benefits rather than a comprehensive discussion on product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses various aspects of product development, including user value, waste reduction, and collaboration, which are relevant to product delivery. However, while it touches on methodologies and practices, it lacks a direct focus on the end-to-end delivery process and specific practices like Agile or CI/CD. The depth of discussion is substantial but not exhaustive in terms of product delivery methodologies.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1177,12 +1273,15 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a course that likely involves presentations and learning experiences, but it primarily focuses on the outcomes and benefits of the course rather than the event itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a course related to product development, which implies a structured learning experience. However, it does not explicitly mention any specific events, presentations, or discussions that align with the category of 'Events and Presentations'. While it touches on themes of collaboration and learning, it lacks direct references to actual events or presentations, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1231,12 +1330,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles of user value, collaboration, and experimentation, which are relevant to business agility, but it primarily focuses on the PPDV course and its immediate benefits rather than a comprehensive exploration of business agility principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:16:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses principles related to user value, waste reduction, and collaboration, which are relevant to business agility. However, it does not explicitly mention business agility or its core principles. The focus on structured learning and experimentation aligns with agile methodologies, but the depth of discussion on business agility concepts is limited.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1303,12 +1405,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses collaboration between teams and stakeholders, which aligns with sociotechnical principles, but the primary focus is on product development techniques rather than the interplay between social and technical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of collaboration and user value in product development, which are relevant to sociotechnical systems. However, it primarily focuses on structured learning and individual practices rather than the interplay between technology and organisational structures. While there are mentions of collaboration and stakeholder engagement, the discussion lacks depth in exploring how these elements influence software delivery and team effectiveness within an organisational context.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1342,12 +1447,15 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T12:16:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:16:15",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses increasing user value, decreasing waste, and improving collaboration, which are relevant to Value Stream Management principles, but it primarily focuses on a course and its benefits rather than a comprehensive discussion on Value Stream Management itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses concepts related to increasing user value and reducing waste, which are relevant to Value Stream Management. However, it primarily focuses on structured learning and product development rather than explicitly addressing the principles and techniques of Value Stream Management. While there are mentions of reducing waste and enhancing collaboration, the depth of discussion does not fully align with the core themes of Value Stream Management, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1435,7 +1543,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:44:35",
+    "calculated_at": "2025-03-14T18:15:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1443,6 +1551,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses concepts related to product development and collaboration, which are relevant to Scrum principles, but it does not explicitly mention Scrum roles, events, or artifacts. The focus is more on general agile practices and improving collaboration rather than a detailed exploration of Scrum itself. Therefore, while there is some conceptual alignment with Scrum's emphasis on collaboration and iterative improvement, the lack of direct mentions and depth in discussing Scrum specifically lowers the confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

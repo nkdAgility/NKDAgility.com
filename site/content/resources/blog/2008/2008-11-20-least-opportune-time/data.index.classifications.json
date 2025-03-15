@@ -10,7 +10,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-10T13:11:32",
+    "calculated_at": "2025-03-15T07:27:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses a personal experience with a specific tool (TFS Sticky Buddy) and a server outage, which is somewhat relevant to the category. However, it lacks detailed analysis or review of the product itself, and the focus is more on the author's frustration rather than a structured discussion about the product's effectiveness or its alignment with Agile or DevOps principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -268,7 +268,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T15:13:42",
+    "calculated_at": "2025-03-15T07:27:13",
     "ai_confidence": 45.0,
     "ai_mentions": 10,
     "ai_alignment": 30,
@@ -276,7 +276,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content reflects a personal experience with a technical issue related to TFS, showcasing individual frustration and appreciation for the service. However, it primarily focuses on a technical problem rather than deeper personal insights or reflections on Agile methodologies, which limits its alignment with the Personal category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -370,7 +370,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-10T15:09:02",
+    "calculated_at": "2025-03-15T07:27:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -378,7 +378,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the release of TFS Sticky Buddy v2.0 and the impact of a server outage on the release process. However, it lacks a detailed discussion on release management strategies, practices, or metrics. The focus is more on a personal experience with a server issue rather than a structured exploration of release management concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -670,7 +670,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-07T15:48:44",
+    "calculated_at": "2025-03-15T07:27:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -678,7 +678,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions TFS (Team Foundation Server) and the author's experience with it, which relates to software development. However, it lacks a detailed discussion on Agile or DevOps methodologies, best practices, or the role of developers in these contexts. The focus is more on a personal experience with a service outage rather than exploring the broader themes of software development practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -910,12 +910,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:15",
+    "calculated_at": "2025-03-15T07:27:13",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content discusses a server outage affecting the development of a specific software version, but it primarily focuses on the author's frustration rather than delivering discussions on the characteristics, best practices, or the functionalities of working software.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1063,7 +1063,7 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-03-11T10:44:44",
+    "calculated_at": "2025-03-15T07:27:13",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1071,7 +1071,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content mentions TFS (Team Foundation Server) and discusses an outage affecting the author's ability to check in code, which relates to source control. However, the focus is primarily on the outage experience rather than best practices or methodologies in modern source control. The discussion lacks depth in terms of strategies or techniques for effective version control, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1237,7 +1237,7 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-03-11T12:10:27",
+    "calculated_at": "2025-03-15T07:27:13",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1245,7 +1245,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses an issue with a TFS server, which aligns with troubleshooting in a technical context. However, it lacks detailed methodologies for diagnosing or resolving the issue, focusing more on the author's frustration rather than providing insights or solutions. The mention of reporting the issue does indicate some troubleshooting activity, but it is not the primary focus of the content.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -1411,7 +1411,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:56:38",
+    "calculated_at": "2025-03-15T07:27:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1419,6 +1419,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses an issue with a TFS server and does not mention Scrum principles, roles, events, or any related topics. While it touches on project management tools, it lacks any direct references to Scrum or its framework, resulting in a very low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

@@ -29,7 +29,6 @@ aliasesArchive:
 tags:
 - Windows
 - News and Reviews
-- Products and Books
 categories: []
 preview: Web-Intel-Metro-icon-3-3.png
 

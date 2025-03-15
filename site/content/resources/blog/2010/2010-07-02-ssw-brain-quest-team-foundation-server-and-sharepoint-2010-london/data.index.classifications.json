@@ -1,12 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-03-15T06:52:46",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily focuses on Team Foundation Server and SharePoint 2010, discussing project management tools and techniques rather than Agile Product Management principles. While there are mentions of user stories and requirements gathering, these are not central themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and SharePoint 2010, which are tools that can be part of an internal development platform, but the primary focus is on training and project management rather than platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on training sessions for Team Foundation Server (TFS) and SharePoint 2010, which are tools that can be part of a platform engineering context. However, it does not explicitly discuss platform engineering principles or Internal Developer Platforms (IDPs). While there are mentions of improving developer productivity and project management, the discussion lacks depth in terms of platform engineering concepts and practices. The content is more oriented towards specific tools and their functionalities rather than the overarching discipline of platform engineering.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -40,21 +43,27 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses tools and practices related to software development, particularly focusing on Team Foundation Server and SharePoint, which are relevant to project management and development processes. However, it does not delve deeply into the complexities of code quality or the theoretical aspects of complexity theory.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on a training course for Team Foundation Server and SharePoint, discussing project management and software development tools rather than the complexities of code quality or architecture. While there are mentions of software development processes and tools that could relate to code quality, the discussion lacks depth in exploring the relationship between code complexity and best practices. The content does not engage with complexity theory or its application in software systems, which is a key aspect of the 'Code and Complexity' category.",
+    "level": "Ignored"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses training sessions that aim to enhance understanding of tools and methodologies in software development, which aligns with learning aspects. However, the primary focus is on project management and specific software features rather than broader discovery and learning processes.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on training sessions for Team Foundation Server and SharePoint, with an emphasis on project management and technical features rather than on discovery and learning methodologies. While there are elements of learning through the training provided, the discussions are largely centred around tool usage and project management techniques, which do not align closely with the core themes of fostering innovation or continuous learning. The depth of discussion on learning processes is limited, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -76,12 +85,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training sessions on Team Foundation Server and SharePoint, which includes aspects of installation and configuration, but it primarily focuses on project management and software development processes.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a training course focused on Team Foundation Server (TFS) and SharePoint 2010, which includes elements of installation and configuration. However, it primarily emphasises the features and benefits of these tools rather than providing detailed installation or configuration instructions. While there are mentions of how to use TFS and SharePoint effectively, the content lacks a step-by-step guide or troubleshooting advice, which are critical for a higher confidence score in the 'Install and Configuration' category.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -103,12 +115,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools and training related to Team Foundation Server and SharePoint, which are technical in nature, but it also touches on project management and the integration of these tools within organisational processes. However, the primary focus remains on the technical aspects rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on specific tools (Team Foundation Server and SharePoint) and their features, which aligns with the technical aspects of software development. While there are mentions of project management and team productivity, the discussion lacks a strong emphasis on the interplay between social and technical systems, which is central to the Sociotechnical Systems category. The depth of discussion on how these tools affect organisational culture or team dynamics is minimal, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -172,11 +187,14 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses training sessions that focus on project management and software development processes, which are relevant to team dynamics and collaboration. However, the primary focus is on tools and technologies rather than the human factors involved.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses training sessions focused on Team Foundation Server and SharePoint, which are tools that facilitate project management and team collaboration. While it mentions aspects of project management and team dynamics, the primary focus is on the tools and their features rather than the human factors or processes involved. The content does touch on how these tools can improve team productivity and project outcomes, but it lacks a deeper exploration of the interplay between human behaviour and structured methodologies, which is central to the 'People and Process' category.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {
@@ -289,21 +307,27 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools and methodologies related to project management and software development, which are relevant to value delivery, but the primary focus is on training sessions rather than explicit value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on training sessions for Team Foundation Server and SharePoint, discussing project management and software development tools. While it touches on aspects of value delivery, such as improving project health and productivity, it lacks a direct emphasis on iterative development or customer value maximisation. The discussions are more technical and project management-oriented rather than centred on value delivery strategies within Agile or DevOps frameworks.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:30",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, but it also heavily focuses on SharePoint and general project management practices, making Azure DevOps a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a component of Azure DevOps, and its integration with Visual Studio and SharePoint. It provides detailed insights into project management, requirements gathering, and the software development lifecycle, aligning well with Azure DevOps functionalities. However, it lacks a broader discussion on Azure DevOps as a suite and does not mention other Azure DevOps services like Pipelines or Artifacts, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -394,12 +418,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T01:27:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:52:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical tools and methodologies related to software development, specifically focusing on Visual Studio 2010, Team Foundation Server 2010, and SharePoint 2010, which aligns well with the principles of software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on a training course that covers tools like Team Foundation Server and SharePoint, which are relevant to software development practices. However, while it discusses project management and software development tools, it lacks a deeper exploration of software craftsmanship principles, clean code practices, or methodologies that contribute to technical excellence. The mention of tools and their benefits aligns with the category, but the overall discussion is more about the tools themselves rather than the mastery of technical practices.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -475,11 +502,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:54:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses elements related to project management and requirements gathering, such as user stories and work items, which are important in Agile Planning, but the main focus is on tools like Team Foundation Server and SharePoint rather than Agile principles or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses aspects of project management and tools like Team Foundation Server (TFS) and SharePoint, which are relevant to Agile Planning. However, it primarily focuses on the features of these tools rather than the principles and practices of Agile Planning itself. While there are mentions of user stories and requirements gathering, the overall discussion lacks depth in Agile methodologies and does not explore iterative planning or feedback loops, which are central to Agile Planning.",
     "level": "Tertiary"
   },
   "Value Stream Mapping": {
@@ -502,11 +532,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T01:27:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:53:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server and SharePoint 2010 to enhance project management and operational practices within software development. It covers how tools can improve workflow, requirements gathering, tracking of work items, and streamline testing processes, which are all relevant to operational efficiency in Agile and DevOps contexts.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a training course focused on Team Foundation Server (TFS) and SharePoint, which are tools that can enhance operational practices in software development. However, while it mentions project management and workflow improvements, it lacks a detailed exploration of specific operational practices or methodologies like Agile, DevOps, or Lean. The primary focus is on the training event rather than a deep dive into operational efficiency techniques.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -565,21 +598,27 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-16T01:27:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:52:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses automated testing methodologies within the context of Visual Studio 2010 and Team Foundation Server, making it a primary topic in its sessions.",
-    "level": "Secondary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions testing in the context of Visual Studio 2010 and Team Foundation Server, specifically discussing the 'life of a bug' and how to streamline the testing process. However, it lacks a comprehensive exploration of automated testing principles, methodologies, or best practices. The focus is more on project management and tools rather than on automated testing as a primary topic.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools and methodologies related to project management and team dynamics through the lens of Team Foundation Server and SharePoint, but it primarily focuses on the features and benefits of these tools rather than techniques for enhancing team performance or collaboration.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on training sessions related to Team Foundation Server and SharePoint, which are tools that can support team performance. However, it lacks direct discussions on team dynamics, collaboration strategies, or Agile methodologies. While it mentions project management and software development processes, it does not delve into the core themes of enhancing team effectiveness or collaboration, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -601,21 +640,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:27:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:52:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content focuses primarily on software development tools, practices, and methodologies related to Team Foundation Server and Visual Studio, specifically for project management and development processes.",
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on a training course related to Team Foundation Server (TFS) and SharePoint 2010, which are tools integral to the software development process. It discusses project management, requirements gathering, user stories, and the software development lifecycle, aligning well with key topics in software development. The depth of discussion is significant, covering various aspects of TFS and its integration with Visual Studio, as well as the role of SharePoint in enhancing business processes. Overall, the content is highly relevant to software development practices.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Team Foundation Server and its application for project management, including techniques for requirement gathering and work item tracking, which align with Agile practices. However, it also covers traditional project management aspects, making Agile a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its role in project management, including aspects like requirements gathering and work item management, which are relevant to Agile practices. However, it lacks a direct focus on Agile methodologies such as Scrum or Kanban, and does not explicitly mention Agile principles or frameworks. The depth of discussion on project management tools is moderate, but it does not fully explore Agile concepts, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -637,12 +682,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T06:54:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "While the content discusses Team Foundation Server (TFS), which is a version control tool, the primary focus is on project management, requirements gathering, and SharePoint integration rather than specific modern source control practices. Therefore, it is a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its role in project management and software development, which aligns with modern source control practices. It mentions specific features and methodologies related to TFS, such as work item tracking and integration with Visual Studio, which are relevant to version control. However, the focus on project management and SharePoint integration dilutes the emphasis on source control practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -664,20 +712,26 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is closely related to Azure Boards as TFS is a predecessor to the Azure DevOps Services platform that includes Azure Boards for Agile project management. However, the primary focus is on TFS and its functionalities, rather than specifically on Azure Boards.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and SharePoint 2010, with a focus on project management and software development processes. While it mentions work items and user stories, which are relevant to Azure Boards, the overall emphasis is on TFS rather than Azure Boards specifically. The discussion lacks depth in Azure Boards functionalities and best practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-16T01:27:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:53:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and SharePoint 2010, which are collaboration tools used for project management and enhancing team communication in Agile environments.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and SharePoint 2010, which are tools that can enhance collaboration within Agile teams. However, the focus is primarily on training and features rather than on best practices or integration with Agile methodologies. While there are mentions of project management and team productivity, the depth of discussion on collaboration tools specifically is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -700,12 +754,12 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-03-15T06:52:46",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
     "final_score": 19.0,
     "reasoning": "The content mainly focuses on training sessions for Visual Studio, Team Foundation Server, and SharePoint, discussing project management and software development practices without delving into the concepts of frequent releases or continuous delivery.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -802,11 +856,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T01:27:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T06:52:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on practical applications and problem-solving techniques related to Team Foundation Server and SharePoint in project management contexts, aligning well with the concepts of Agile and Scrum.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical applications of Team Foundation Server (TFS) and SharePoint 2010 in project management, emphasising real-world problem-solving strategies and tools that enhance collaboration and efficiency. It provides detailed insights into user stories, work item management, and integration with Office tools, aligning well with the core themes of pragmatic thinking. However, while it covers practical aspects, it lacks extensive case studies or deep exploration of adaptability in complex environments, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -865,12 +922,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides insights on Visual Studio 2010 Testing with TFS and mentions streamlining the testing process and automating more, indicating that test automation is a secondary theme in the context of broader software development and project management discussions.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Visual Studio 2010 and Team Foundation Server (TFS) with a focus on project management and software development processes. While there are mentions of testing and the lifecycle of bugs, the primary focus is on project management tools and features rather than on test automation principles, frameworks, or best practices. The discussion lacks depth in the specific area of test automation, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -895,12 +955,12 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-03-15T06:52:46",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses Team Foundation Server and SharePoint features, which are general project management tools, rather than focusing specifically on Agile Planning Tools or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -958,12 +1018,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content details training related to project management and software development tools, which includes structured methodologies for managing projects. While decision-making is not the primary focus, there are elements related to project health, requirements gathering, and the integration of tools that can influence decision-making processes in a development context.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on training sessions related to Team Foundation Server and SharePoint, with an emphasis on project management and software development tools. While there are mentions of project management and requirements gathering, which are relevant to decision-making, the discussion lacks a structured, evidence-based approach to decision-making as outlined in the category definition. The content does not delve into cognitive biases, data analytics, or frameworks for evaluating options, which are critical for a higher confidence score in the Decision Making category.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -976,12 +1039,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its role in project management, including tracking of releases, which aligns with release management processes but primarily focuses on project management and training.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its role in project management, which touches on aspects of release management, such as tracking releases and managing work items. However, the primary focus is on project management and training rather than a comprehensive exploration of release management strategies and practices. While there are mentions of tools and processes that could relate to release management, the depth of discussion does not fully align with the core themes of the category.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1030,12 +1096,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools and practices (Team Foundation Server and SharePoint) that facilitate collaboration in software development, making team processes more efficient. However, the primary focus is more on tools and project management rather than explicitly enhancing team dynamics or communication.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on training sessions for Team Foundation Server and SharePoint, which are tools that can facilitate team collaboration. However, it lacks direct discussions on team dynamics, communication techniques, or shared ownership principles. While it touches on project management and software development processes, it does not delve deeply into the collaborative aspects of Agile, Scrum, or DevOps methodologies, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1048,12 +1117,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of digital tools such as Team Foundation Server and SharePoint 2010, which can support digital transformation strategies in organizations, though the primary focus is on training and technical features rather than broader strategic implications.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses tools like Team Foundation Server and SharePoint 2010, which are integral to modern software development and project management. While it does mention the benefits of these tools in improving project management and software development processes, it lacks a direct focus on broader digital transformation strategies or case studies. The discussion is more about specific tools rather than the strategic adoption of digital technologies across an organisation, which is a key aspect of digital transformation.",
+    "level": "Secondary"
   },
   "MVP": {
     "category": "MVP",
@@ -1075,12 +1147,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Team Foundation Server and SharePoint 2010's features and applications, but the main focus is on project management and software development practices rather than direct system configuration. The reference to configuration is secondary to overall software usage.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on training sessions related to Team Foundation Server (TFS) and SharePoint, which are tools used in software development and project management. While there are mentions of configuration aspects, such as gathering requirements and using templates, the overall emphasis is on project management and software development processes rather than the technicalities of system configuration. The depth of discussion on configuration is limited, focusing more on the features and benefits of the tools rather than best practices or methodologies for system configuration.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1129,12 +1204,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Team Foundation Server and SharePoint 2010, which are tools that run on Windows but do not focus explicitly on the Windows operating system itself. The content is related to software development in a Windows environment, making Windows a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and SharePoint 2010, which are tools that operate within the Windows ecosystem. However, it does not focus on the Windows operating system itself, such as installation, configuration, or troubleshooting. While there are mentions of Microsoft products that run on Windows, the discussion is more about software development processes and project management rather than the Windows environment specifically. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1174,21 +1252,27 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses training sessions aimed at improving knowledge and skills in Team Foundation Server and SharePoint, which aligns with the theme of continuous learning; however, it does not primarily focus on the growth mindset or knowledge sharing principles as outlined in the category definition.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a training course for Team Foundation Server and SharePoint, which includes some elements of knowledge sharing and skill development. However, it lacks a strong emphasis on continuous learning principles such as growth mindset, feedback loops, or a culture of experimentation. The discussion is more about specific tools and their functionalities rather than broader continuous learning practices.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily focuses on training sessions for Visual Studio and SharePoint with a significant emphasis on project management and features, it includes discussions about the software development lifecycle, particularly in relation to bugs and the testing process, which are relevant to troubleshooting topics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on training sessions for Team Foundation Server and SharePoint, discussing features and benefits rather than troubleshooting specific issues. While there are mentions of bug tracking and testing processes, these are not the main focus. The content lacks detailed methodologies or case studies on troubleshooting, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1249,12 +1333,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:53:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools and practices related to software development, including Team Foundation Server and testing processes, which align with engineering practices, albeit with a significant focus on project management aspects.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses tools and methodologies related to software development, particularly focusing on Team Foundation Server (TFS) and Visual Studio 2010. While it touches on aspects of project management and testing, which are relevant to engineering practices, the primary focus is on the features of specific tools rather than the underlying principles of Agile engineering practices. The mention of user stories and the lifecycle of work items indicates some alignment with Agile methodologies, but the depth of discussion on clean code, TDD, or CI/CD is limited. Therefore, while there is some relevance, it does not fully meet the criteria for a strong alignment with the category.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1276,7 +1363,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T13:04:15",
+    "calculated_at": "2025-03-15T06:52:46",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1284,7 +1371,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content primarily focuses on training sessions related to Team Foundation Server and SharePoint, which are tools used in project management and software development. While it touches on aspects like requirements gathering and project management, it lacks a strong emphasis on the strategic alignment of customer needs and business objectives, which are core to product management. The discussions are more technical and implementation-focused rather than strategic, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1426,7 +1513,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:50:26",
+    "calculated_at": "2025-03-15T06:52:46",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1434,6 +1521,6 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and SharePoint 2010, with some references to project management and user stories, which are relevant to Scrum. However, it lacks a direct discussion of Scrum roles, events, or artifacts, and does not delve deeply into Scrum principles or practices. The mention of user stories aligns with Agile principles, but the overall focus is more on tools rather than the Scrum framework itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

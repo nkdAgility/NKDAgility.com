@@ -26,13 +26,9 @@ tags:
 - Software Development
 - Technical Excellence
 - Practical Techniques and Tooling
-- Test Driven Development
+- Engineering Practices
 - Technical Mastery
 - Automated Testing
-- Engineering Practices
-- Software Developers
-- Troubleshooting
-- Test First Development
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png

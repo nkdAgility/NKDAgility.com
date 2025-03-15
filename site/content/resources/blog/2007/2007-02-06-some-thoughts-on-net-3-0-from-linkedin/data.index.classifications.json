@@ -142,7 +142,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-10T15:21:59",
+    "calculated_at": "2025-03-15T07:49:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -150,7 +150,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses .NET 3.0 and its features, but it primarily focuses on the practical aspects of its adoption and comparison with other technologies rather than delving into the complexities of code quality or software development processes. While there are mentions of coding and integration work, the discussion lacks depth in exploring the relationship between code quality and complexity, which is central to the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -229,7 +229,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T10:53:54",
+    "calculated_at": "2025-03-15T07:49:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -237,7 +237,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses .NET 3.0 and its features, but it primarily focuses on personal experiences and opinions rather than practical techniques or tooling related to Agile or DevOps. While there are mentions of tools and frameworks, the discussion lacks depth in terms of methodologies or best practices for implementation, which are key aspects of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -526,12 +526,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T11:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:49:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of .NET 3.0 in new applications and mentions its features and implications for software development, which relates to the functionality and delivery of software. However, the primary focus is more on the technology itself rather than on the principles of working software as defined by Agile or Scrum.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses .NET 3.0 and its applications, but it primarily focuses on technical features and comparisons rather than the delivery of functional software that meets user needs. While there are mentions of using .NET 3.0 for new applications, the discussion lacks depth on best practices for ensuring software quality or customer feedback integration, which are key aspects of the 'Working Software' category.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -553,11 +556,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T11:09:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:49:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses specific technologies related to .NET 3.0, including Windows Workflow Foundation, Windows Communication Foundation, and their implications for software development practices and tool usage, making it a relevant discussion within the software development category.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the adoption and implications of .NET 3.0, which is a software development framework. It provides insights into its features, comparisons with other technologies, and the impact on development practices. However, while it touches on relevant topics, the discussion lacks depth in methodologies or best practices, focusing more on personal experiences and opinions rather than structured software development processes.",
     "level": "Secondary"
   },
   "Test First Development": {
@@ -607,12 +613,12 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T11:09:02",
+    "calculated_at": "2025-03-15T07:49:41",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses the adoption of .NET 3.0 and its integration into business processes, but it primarily focuses on specific technology features and comparisons rather than a broad digital transformation strategy.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -733,11 +739,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T11:09:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T07:49:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses .NET 3.0 and its features, comparisons with other technologies, and best practices for using it in new applications, aligning closely with software craftsmanship and technical excellence.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the adoption and implications of .NET 3.0, touching on aspects of software design and architecture, particularly in relation to Windows Workflow Foundation (WF) and Windows Presentation Foundation (WPF). However, while it provides insights into the technical features and comparisons with other technologies, it lacks a deeper exploration of best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The focus is more on the practical application of .NET 3.0 rather than a comprehensive discussion on technical mastery.",
     "level": "Secondary"
   },
   "Asynchronous Development": {
@@ -958,7 +967,7 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-03-11T17:11:05",
+    "calculated_at": "2025-03-15T07:49:41",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -966,7 +975,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses .NET 3.0 and its implications for software development, touching on aspects relevant to developers, such as integration with existing systems and the impact of new technologies. However, it lacks a direct focus on Agile or DevOps methodologies, which are central to the category. The discussion is more about technology adoption rather than the role of developers within Agile or DevOps frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1078,7 +1087,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T13:26:40",
+    "calculated_at": "2025-03-15T07:49:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1086,7 +1095,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the adoption of .NET 3.0 and its features, but it primarily focuses on the technology itself rather than on engineering excellence practices. While there are mentions of coding and integration work, the discussion lacks depth in terms of best practices, quality assurance, or continuous improvement in engineering processes. The content does not explicitly promote high standards in software craftsmanship or delve into metrics for assessing engineering performance.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1117,11 +1126,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T11:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:49:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical applications and considerations related to the adoption of .NET 3.0 in real-world situations, focusing on experience-based insights and decision-making processes, which aligns with pragmatic thinking in a software context.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses practical applications of .NET 3.0 in a corporate environment, highlighting real-world considerations and decision-making processes related to technology adoption. It addresses the need for training and integration of new technologies, which aligns with pragmatic thinking in Agile and DevOps contexts. However, while it touches on practical problem-solving, it lacks a deeper exploration of Agile or Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Market Share": {

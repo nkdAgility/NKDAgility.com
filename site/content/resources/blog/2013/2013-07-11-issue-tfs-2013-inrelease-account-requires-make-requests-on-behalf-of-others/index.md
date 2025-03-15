@@ -32,8 +32,6 @@ tags:
 - Practical Techniques and Tooling
 - Software Development
 - System Configuration
-- Azure DevOps
-- Pragmatic Thinking
 categories: []
 preview: puzzle-issue-problem-128-link-5-5.png
 

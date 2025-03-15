@@ -28,6 +28,7 @@ aliasesArchive:
 - /resources/blog/moving-onedrive-business-files-different-drive
 tags:
 - Windows
+- Install and Configuration
 categories: []
 preview: clip_image001-1-1-1.png
 

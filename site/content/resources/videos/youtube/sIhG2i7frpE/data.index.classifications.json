@@ -103,7 +103,7 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-07T12:56:49",
+    "calculated_at": "2025-03-14T18:25:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -111,7 +111,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to enhancing workflow and adaptability. However, it lacks explicit references to Agile, DevOps, or Lean methodologies, and does not provide in-depth strategies or case studies related to market adaptability. The focus is more on workflow improvement rather than a direct response to market shifts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -187,7 +187,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T00:21:56",
+    "calculated_at": "2025-03-14T18:25:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -195,7 +195,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of continuous improvement and the use of metrics and visual tools, which are relevant to enhancing workflows. However, it lacks direct mentions of specific engineering practices like TDD or CI/CD, and the discussion is more focused on general improvement rather than technical excellence. The alignment with the core themes is moderate, but the depth of technical discussion is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -223,7 +223,7 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-03-11T13:11:04",
+    "calculated_at": "2025-03-14T18:25:21",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
     "ai_alignment": 30.0,
@@ -231,7 +231,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of metrics and visual tools for improving workflows, which is relevant to the application lifecycle, particularly in the context of continuous improvement. However, it lacks explicit mentions of the application lifecycle stages, governance, or specific ALM tools. The focus is more on workflow improvement rather than a comprehensive discussion of Application Lifecycle Management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -298,11 +298,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:23:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:01:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and visual tools in improving workflows, which relates to measuring delivery performance and customer satisfaction, but it does not primarily focus on the end-to-end process of delivering software products.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of metrics and visual tools in improving workflows, which aligns with the core themes of product delivery, particularly in the context of continuous improvement and iterative processes. It mentions key aspects such as identifying metrics, fostering transparency, and regular reviews, which are relevant to planning and quality assurance. However, it lacks a direct focus on deployment and release management, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -316,39 +319,51 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:23:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:24:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to organisational agility, but it primarily focuses on the Caman system rather than broader agile principles.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to organisational agility. However, while it touches on key aspects like transparency and iterative processes, it lacks a direct focus on agile methodologies or leadership roles in fostering agility. The depth of discussion is moderate, primarily centred on metrics rather than broader agile principles.",
+    "level": "Secondary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:23:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of metrics and visual tools in enhancing transparency within workflows, which aligns with the theme of accountability. However, the primary focus is on continuous improvement and workflow changes rather than transparency and accountability as central topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T16:32:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of transparency in relation to metrics and visual tools, highlighting how these elements foster open discussions and trust within teams. It aligns well with the core themes of the category, particularly in the context of Agile methodologies. The depth of discussion is substantial, covering strategies for continuous improvement and the role of data in decision-making. However, while transparency is a significant focus, the content does not delve deeply into accountability mechanisms, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:23:39",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T14:50:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of continuous improvement and the use of metrics and visual tools to enhance understanding and transparency, which aligns with the themes of experimentation and learning. However, it primarily focuses on workflow improvement rather than broader discovery and learning methodologies.",
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses continuous improvement, the use of metrics, and visual tools, which are integral to the processes of discovery and learning. It highlights the importance of experimentation, feedback loops, and fostering a culture of transparency and collaboration within teams. The depth of discussion on strategies for improvement and the iterative nature of learning aligns well with the core themes of the category. Overall, the content is focused on enhancing team performance and product quality through learning and adaptation.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:23:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:10:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of metrics and visual tools for continuous improvement, which aligns with the principles of Evidence-Based Management, but it does not primarily focus on EBM as a central theme.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of metrics and visual tools in driving continuous improvement, which aligns well with the principles of Evidence-Based Management. It explicitly mentions the use of metrics to inform decision-making and improve workflows, reflecting a data-driven approach. However, while it touches on key aspects of EBM, such as fostering a culture of transparency and continuous improvement, it does not delve deeply into the specific principles outlined by Schwaber and Sutherland or provide case studies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -379,20 +394,26 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T12:23:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:25:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous improvement and the use of metrics and visual tools to understand patterns within a system, which aligns with complexity thinking principles. However, it primarily focuses on workflow improvement rather than a deep exploration of complexity science or its frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to complexity thinking in terms of understanding systems and processes. However, it lacks direct references to complexity science principles, such as non-linear dynamics or emergent behaviours. The focus is more on practical applications rather than theoretical frameworks, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:23:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:25:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and continuous improvement, which are relevant to enterprise agility, but it primarily focuses on workflow improvements without a clear organisational context.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to enterprise agility. However, it primarily focuses on team-level practices and does not explicitly address broader organisational structures or strategies for fostering a culture of agility. The discussion lacks depth in terms of organisational implications and does not mention frameworks or leadership roles, which are critical for a higher confidence score in the Enterprise Agility category.",
     "level": "Tertiary"
   },
   "Leadership": {
@@ -418,12 +439,15 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of metrics and visual tools in improving workflow, which aligns with key topics of Scaling Kanban, particularly on continuous improvement. However, it does not clearly focus on the scaling aspects or the application of Kanban in large organizations.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:25:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses metrics and visual tools, which are relevant to Kanban practices, but it does not explicitly focus on scaling Kanban principles or their application in large organisations. While it touches on continuous improvement and transparency, it lacks depth in addressing the specific challenges and strategies associated with scaling Kanban across multiple teams and departments.",
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -445,21 +469,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:26:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement, which aligns with Agile principles. However, it primarily focuses on specific practices and tools related to workflow improvement rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses continuous improvement, transparency, and the importance of metrics and visual tools, which align well with Agile principles. It emphasises a mindset of ongoing enhancement and collaboration, reflecting core Agile values. However, it primarily focuses on specific practices and tools rather than the broader Agile philosophy, which slightly limits its depth of discussion on the foundational principles.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:25:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses making improvements and changes to a system in the context of continuous improvement, which is a major theme in change management, though it does not focus specifically on Agile principles or broader change management strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to change management. It highlights the importance of fostering a culture of transparency and adaptability, aligning with key themes of the category. However, while it touches on change management principles, it lacks a direct focus on strategies for engaging stakeholders or managing resistance, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -553,12 +583,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:26:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and metrics, which are related to Lean Thinking principles, but does not primarily focus on Lean practices or terminology. It seems to be more about general process improvement without explicit Lean principles.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses continuous improvement, metrics, and visual tools, which are closely aligned with Lean Thinking principles. It explicitly mentions continuous improvement as a core tenet and discusses the importance of metrics and visualisation in enhancing workflows. The depth of discussion on strategies for improvement and the use of tools like Kanban indicates a strong focus on Lean methodologies. However, while it aligns well with Lean principles, it does not delve deeply into all key topics of Lean Thinking, such as waste identification or value stream mapping, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -571,12 +604,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses metrics and continuous improvement related to workflows, it does not directly focus on working software or its delivery. It touches on concepts that are somewhat related but does not center on the key topics outlined in the Working Software category.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:25:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of metrics and visual tools in improving workflows, which aligns with the principles of working software. However, it lacks direct mentions of working software and does not delve deeply into specific software delivery practices or Agile methodologies. The focus is more on continuous improvement and metrics rather than the delivery of functional software itself.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -589,20 +625,26 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:25:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of continuous improvement and making changes to workflows, which aligns with themes of organisational change, but it primarily focuses on metrics and visual tools rather than frameworks or leadership in change management.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to organisational change. However, it primarily focuses on workflow enhancement and does not explicitly address broader organisational change strategies or frameworks. The mention of fostering a culture of transparency and regular reviews aligns somewhat with change management principles, but the depth of discussion lacks specific methodologies or leadership roles in driving change.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T18:26:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the importance of continuous improvement and the use of metrics and visual tools to enhance workflows, aligning with the principles of Continuous Learning. However, it does not explicitly address growth mindset, knowledge sharing, or team dynamics in a direct manner, making it a secondary theme.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses continuous improvement and the importance of metrics and visual tools in enhancing workflows, which aligns closely with the principles of Continuous Learning. It provides detailed strategies for fostering a culture of transparency, regular reviews, and experimentation, all of which are key aspects of a growth mindset and knowledge sharing. The depth of discussion is substantial, covering various techniques and their implications for team dynamics and performance, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Scaling Scrum": {
@@ -616,20 +658,26 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:25:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of metrics and visual tools for continuous improvement, which aligns with evidence-based practices, but it primarily focuses on workflow improvements rather than direct leadership decisions.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the importance of metrics and visual tools in driving continuous improvement, which aligns with evidence-based leadership principles. It highlights the use of data to inform decisions and improve workflows, reflecting a data-driven approach. However, while it touches on key aspects of evidence-based practices, it lacks explicit references to leadership decision-making frameworks or empirical evidence, which limits its depth in the context of evidence-based leadership.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:25:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses improving workflows through metrics and visual tools, which can relate to digital transformation, it primarily focuses on continuous improvement and workflow management rather than a strategic adoption of digital technologies for broader business transformation.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the use of metrics and visual tools to enhance workflows, which aligns with the themes of operational efficiency and continuous improvement. However, it lacks explicit mentions of digital transformation as a strategic initiative and does not delve deeply into the broader implications of digital technologies on business agility or culture. The focus is more on process improvement rather than a comprehensive digital transformation strategy.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -643,12 +691,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of metrics and visual tools for continuous improvement, which aligns with the principles of empirical process control. However, it primarily focuses on workflow improvement and the use of Caman rather than directly addressing empirical process control in relation to Agile methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:25:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of metrics and visual tools in driving continuous improvement, which aligns well with the principles of empirical process control. It emphasises transparency, the iterative nature of improvement, and the need for data-driven decision-making. However, while it touches on key aspects, it does not delve deeply into specific Agile frameworks or case studies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -661,12 +712,12 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T13:53:47",
+    "calculated_at": "2025-03-14T18:25:21",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content discusses the importance of making improvements and changes to the workflow based on metrics and visual tools, but it does not explicitly focus on hypothesis-driven experimentation or systematic testing of ideas. The primary focus is on continuous improvement rather than experimentation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -706,16 +757,19 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:25:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of metrics and visual tools to improve workflows and make data-driven changes, which relates to trend analysis in a secondary manner. However, it focuses more on individual workflow improvement rather than major trends in Agile or DevOps.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of metrics and visual tools in driving continuous improvement, which aligns with the broader themes of trend analysis in Agile and DevOps. However, it lacks explicit references to specific trends or shifts within these frameworks, focusing more on personal experiences and methodologies rather than a comprehensive analysis of trends. The depth of discussion on how these practices can inform strategic decision-making is present but not fully developed, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T11:41:36",
+    "calculated_at": "2025-03-14T18:25:21",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -723,7 +777,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of metrics and visual tools in improving workflows, which aligns with the product management focus on metrics and KPIs for measuring success. However, it lacks direct mentions of product management frameworks or methodologies, and the discussion is more general about workflow improvement rather than specific product management strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -736,12 +790,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:25:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools to enhance workflow, which aligns with Lean principles, but it does not explicitly focus on Lean Product Development as the central theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to Lean principles. However, it lacks explicit references to Lean Product Development concepts and does not delve deeply into waste reduction or customer feedback mechanisms, which are central to the category.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -802,20 +859,26 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:26:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which aligns with Agile principles and practices, but does not primarily focus on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to Agile practices. It mentions Kanban boards, a key Agile tool, and emphasises the importance of transparency and iterative processes, aligning with Agile principles. However, it lacks a direct focus on broader Agile transformation strategies and frameworks, which limits its depth in that specific area.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T18:25:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of metrics and visual tools to enhance workflow, which aligns with the themes of process optimization and continuous improvement within operational practices.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the use of metrics and visual tools to enhance workflow, which aligns closely with operational practices aimed at continuous improvement. It provides detailed strategies for identifying key metrics, using visualisation tools, and fostering a culture of transparency, all of which are core themes in operational efficiency. The depth of discussion on continuous improvement and actionable insights further supports its strong alignment with the category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -838,12 +901,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:25:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses continuous improvement and the use of metrics and visual tools, which are concepts aligned with Agile principles, it does not clearly focus on Agile strategy as a primary topic. It emphasizes workflow improvements rather than explicitly linking those improvements to a broader Agile strategy implementation.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to Agile methodologies. However, it lacks explicit references to Agile principles or strategic alignment with organisational vision. While it touches on important aspects of Agile, such as transparency and iterative processes, it does not delve deeply into strategic planning or leadership roles, which are crucial for a higher confidence score in the Agile Strategy category.",
+    "level": "Secondary"
   },
   "Software Developers": {
     "category": "Software Developers",
@@ -919,30 +985,39 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:26:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and the importance of metrics and visual tools, which are relevant to technical leadership and agile methodologies. However, it does not explicitly address leadership roles or strategies in an agile context, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of metrics and visual tools in driving continuous improvement, which aligns with the principles of fostering a culture of continuous improvement and learning. However, it lacks direct mentions of technical leadership roles or specific agile practices, making it more of a general discussion on improvement rather than a focused exploration of technical leadership.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 70,
-    "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the role of metrics and visual tools in enhancing transparency, particularly in the context of improving workflow and system changes. While it emphasizes transparency in relation to understanding data, the primary focus is on continuous improvement rather than solely on transparency itself.",
+    "calculated_at": "2025-03-14T18:26:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses the importance of transparency in relation to metrics and visual tools, highlighting how they foster open discussions and trust within teams. It aligns well with the core themes of transparency by emphasising clear communication and shared information. The depth of discussion is substantial, providing specific strategies and examples that illustrate how transparency can be enhanced in Agile processes.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:25:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses improving workflows and using metrics and visual tools to understand data for continuous improvement, which aligns with the themes of measuring and enhancing innovation capabilities. However, it mainly focuses on general improvement methods rather than specific strategies for fostering innovation.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to the Ability to Innovate category. However, it lacks explicit references to frameworks or metrics specifically designed for measuring innovation capabilities. While it aligns with the core themes of fostering a culture of improvement and using data for decision-making, the depth of discussion on innovation practices and Evidence-Based Management principles is limited.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -955,11 +1030,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:25:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and metrics in the context of Caman, which is related to Agile methodologies, but it primarily focuses on workflow and improvement rather than a comprehensive exploration of Agile frameworks.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the use of metrics and visual tools in the context of continuous improvement, which aligns with Agile principles. However, it primarily focuses on the implementation of Caman and does not explicitly explore various Agile frameworks or provide a comparative analysis. While it touches on concepts relevant to Agile, such as transparency and iterative processes, it lacks depth in discussing specific Agile frameworks like Scrum or Kanban, which diminishes its overall alignment with the category.",
     "level": "Tertiary"
   },
   "Team Performance": {
@@ -1018,12 +1096,12 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T13:53:47",
+    "calculated_at": "2025-03-14T18:25:21",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses improvements and metrics but does not focus on hypothesis formulation, experimentation, or data-driven decision-making in the context of product development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1036,12 +1114,12 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:53:47",
+    "calculated_at": "2025-03-14T18:25:21",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are somewhat related to Continuous Delivery concepts; however, it lacks a direct focus on the core principles and practices of Continuous Delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1081,21 +1159,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-14T18:26:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "The content discusses the use of metrics and visual tools to inform decisions about workflow improvements, aligning with evidence-based decision-making practices.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of metrics and visual tools in making informed decisions, which aligns well with evidence-based decision-making principles. It highlights the role of data in guiding improvements and encourages a culture of transparency and collaboration. However, while it touches on decision-making, it does not delve deeply into structured methodologies or frameworks, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:25:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses improving workflows with a focus on metrics and visual tools, it mainly addresses continuous improvement practices that are applicable in software development environments, particularly with methodologies like Agile. However, it does not directly delve into specific software development practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are relevant to software development practices, particularly in Agile methodologies. However, while it touches on important aspects like transparency and iterative processes, it lacks a direct focus on specific software development methodologies or practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1126,11 +1210,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T18:26:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools to transform workflows, which aligns with Lean Principles. However, it leans more towards discussing a specific practice (Caman) rather than a broad application of Lean principles.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are aligned with Lean principles. However, it lacks explicit references to core Lean concepts such as waste reduction or specific Lean tools. The depth of discussion on Lean principles is moderate, focusing more on the application of metrics rather than a comprehensive exploration of Lean philosophy.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -1144,11 +1231,14 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:26:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of metrics and visual tools to understand data and improve workflow, which aligns with sensemaking in interpreting complex systems and making informed decisions. However, it primarily focuses on continuous improvement practices rather than a direct exploration of sensemaking principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of metrics and visual tools in improving workflows, which aligns with sensemaking principles by emphasising data interpretation for informed decision-making. However, it primarily focuses on continuous improvement and specific tools rather than a broader exploration of sensemaking frameworks or leadership roles in complex environments.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -1207,12 +1297,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:26:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of continuous improvement, which is a key aspect of Agile principles. However, it mainly focuses on metrics and visual tools without deeply exploring Agile values or the Agile Manifesto.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses continuous improvement and the importance of metrics and transparency, which align with Agile principles. However, it primarily focuses on specific tools and practices rather than the foundational values of Agile. While it touches on concepts like retrospectives and fostering a culture of transparency, it lacks a direct reference to the Agile Manifesto or its core values, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1225,11 +1318,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:26:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses systems improvement and the use of metrics and visual tools to facilitate understanding and changes within a workflow, which aligns with themes of organisational dynamics. However, it primarily focuses on continuous improvement and metrics rather than a comprehensive systems thinking approach.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which aligns with systems thinking principles. However, it primarily focuses on practical applications rather than a deep exploration of organisational dynamics or systems thinking as a primary theme. The mention of transparency and collaboration hints at organisational culture but lacks a thorough examination of the interplay between structure and processes. Overall, while there are relevant elements, the content does not fully embrace the core themes of Organisational Physics.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
@@ -1243,12 +1339,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:26:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and the use of metrics in workflows, which are relevant to strategic alignment and optimization within Agile contexts, but does not explicitly focus primarily on strategic concepts.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses continuous improvement and the use of metrics and visual tools, which are integral to Agile methodologies. It aligns well with the Strategy category by focusing on how these elements can optimise team performance and enhance delivery processes. The depth of discussion on metrics, transparency, and iterative processes indicates a strong understanding of strategic alignment within Agile frameworks. However, while it touches on strategic concepts, it does not explicitly frame them within a broader strategic context, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -1315,11 +1414,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T18:26:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses practical aspects of using metrics and visual tools for continuous improvement in workflows, which aligns with pragmatic approaches in Agile and DevOps contexts. However, it does not extensively cover specific Agile or Scrum strategies, making it a major but secondary theme.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical strategies for continuous improvement using metrics and visual tools, which aligns well with pragmatic thinking in Agile contexts. It emphasises real-world applications, such as identifying key metrics and fostering transparency, demonstrating a strong understanding of how to navigate complexity in workflows. The depth of discussion on continuous improvement and actionable insights further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -1369,12 +1471,12 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T13:53:47",
+    "calculated_at": "2025-03-14T18:25:21",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content discusses improving workflow and the use of visual tools, but it primarily focuses on metrics and system improvement rather than directly addressing Value Stream Mapping, which limits its relevance to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1405,12 +1507,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T13:53:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving workflow and utilizing metrics and visual tools, which indirectly relates to team collaboration but does not focus on teamwork dynamics or Agile practices as primary themes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:26:01",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of metrics and visual tools in enhancing team transparency and collaboration, which aligns with the core themes of team dynamics and communication. It provides specific strategies for fostering a culture of transparency and continuous improvement, indicating a strong focus on team collaboration. However, while it touches on these themes, it does not delve deeply into the nuances of team dynamics or shared ownership, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1441,7 +1546,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:45:11",
+    "calculated_at": "2025-03-14T18:25:21",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1449,6 +1554,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the concept of continuous improvement, which is a key aspect of Scrum, but it primarily focuses on metrics and visual tools without explicitly discussing Scrum roles, events, or the framework itself. The mention of improving workflows aligns with Scrum principles, but the lack of direct references to Scrum practices and a detailed exploration of its core themes limits the overall confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

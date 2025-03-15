@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/screenshots-of-vista-from-2002-to-today
 - /screenshots-of-vista-from-2002-to-today
 - /resources/blog/screenshots-of-vista-from-2002-to-today
-tags:
-- Windows
+tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
 

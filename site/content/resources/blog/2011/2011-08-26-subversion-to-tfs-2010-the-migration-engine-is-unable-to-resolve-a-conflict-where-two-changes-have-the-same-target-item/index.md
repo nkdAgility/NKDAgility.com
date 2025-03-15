@@ -31,8 +31,6 @@ tags:
 - Software Development
 - Install and Configuration
 - Practical Techniques and Tooling
-- Pragmatic Thinking
-- Modern Source Control
 preview: image-1.png
 categories: []
 

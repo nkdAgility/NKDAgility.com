@@ -27,16 +27,16 @@ aliasesArchive:
 - /blog/can-you-really-commit-to-delivering-work-
 - /resources/blog/can-you-really-commit-to-delivering-work
 tags:
-- Forecasting
-- Transparency
-- People and Process
-- Agile Planning
-- Agile Values and Principles
 - Software Development
-- Scrum Product Development
-- Agile Frameworks
-- Agile Philosophy
 - Agile Project Management
+- Forecasting
+- Professional Scrum
+- Software Developers
+- People and Process
+- Pragmatic Thinking
+- Transparency
+- Scrum Product Development
+- Agile Values and Principles
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png

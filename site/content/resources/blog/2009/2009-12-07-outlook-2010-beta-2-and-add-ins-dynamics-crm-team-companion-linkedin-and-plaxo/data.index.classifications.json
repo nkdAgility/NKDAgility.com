@@ -10,7 +10,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T18:13:01",
+    "calculated_at": "2025-03-15T07:18:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses specific add-ins for Outlook 2010, which relates to tooling, but it lacks a broader exploration of methodologies or frameworks that enhance Agile and DevOps practices. While there are mentions of practical tools, the focus is primarily on user experience and compatibility issues rather than on practical techniques or best practices for implementation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -352,12 +352,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:18:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to add-ins for Outlook, including compatibility and support, which are relevant to the maintenance and management aspects of application lifecycle management. However, it primarily focuses on specific add-ins rather than the broader application lifecycle management methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the functionality and issues related to Outlook 2010 and its add-ins, particularly focusing on Dynamics CRM and other plugins. While it briefly mentions ALM in the tags, the main focus is on user experience and compatibility rather than the comprehensive management of the application lifecycle. There is minimal direct mention of application lifecycle stages, governance, or tools, leading to a low confidence score in alignment with the Application Lifecycle Management category.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -478,7 +481,7 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-03-11T12:07:33",
+    "calculated_at": "2025-03-15T07:18:29",
     "ai_confidence": 32.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -486,7 +489,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses issues with Outlook add-ins and includes a direct request for improvements to the add-ins, which aligns with the concept of customer feedback. However, it lacks a structured exploration of feedback mechanisms or practices, making it a secondary focus rather than a primary discussion on customer feedback loops.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -589,12 +592,12 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:21",
+    "calculated_at": "2025-03-15T07:18:29",
     "ai_confidence": 25,
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content mentions add-ins for Outlook, which relates tangentially to software development, but the primary focus is on user experiences and troubleshooting rather than software development practices or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
@@ -661,7 +664,7 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-03-11T17:01:58",
+    "calculated_at": "2025-03-15T07:18:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -669,7 +672,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses various add-ins for Outlook, including Team Companion, which could be considered a collaboration tool. However, the primary focus is on the functionality and compatibility of these add-ins rather than on enhancing communication and coordination within Agile teams. The discussion lacks depth in terms of Agile principles and best practices, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -700,12 +703,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:18:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the usability issues of Outlook add-ins, particularly in relation to user experience, which aligns with customer satisfaction principles, but it is primarily focused on technical implementation rather than a broader discussion of customer satisfaction.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses issues related to add-ins for Outlook 2010, including user frustrations and requests for improvements. While it touches on aspects that could relate to customer satisfaction, such as the usability of add-ins and the need for better support, it lacks a focused discussion on customer satisfaction principles or methodologies. The primary focus is on technical details rather than a holistic approach to enhancing customer experience.",
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -871,7 +877,7 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-03-11T15:11:23",
+    "calculated_at": "2025-03-15T07:18:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -879,7 +885,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the functionality of various add-ins for Outlook 2010, which relates to working software in terms of operational software and user experience. However, it lacks a comprehensive exploration of Agile principles, best practices for software quality, or iterative development, which are key aspects of the 'Working Software' category. The focus is more on specific software issues rather than broader discussions on delivering functional software.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1063,7 +1069,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T10:42:01",
+    "calculated_at": "2025-03-15T07:18:29",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1071,7 +1077,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the use of add-ins in Outlook 2010, which touches on aspects of software configuration, particularly regarding compatibility and installation issues. However, the primary focus is on user experience and specific add-in functionalities rather than a comprehensive exploration of system configuration methodologies or best practices. The discussion lacks depth in terms of configuration management tools or optimisation strategies, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",

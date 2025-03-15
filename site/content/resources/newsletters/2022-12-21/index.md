@@ -22,12 +22,7 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- People and Process
 - News and Reviews
-- Events and Presentations
-- Agile Project Management
-- Scrum Team
-- Scrum Master
 
 ---
 \[caption id="attachment_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]

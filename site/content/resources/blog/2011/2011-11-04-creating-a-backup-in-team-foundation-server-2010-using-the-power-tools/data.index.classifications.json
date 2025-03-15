@@ -124,7 +124,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T15:26:20",
+    "calculated_at": "2025-03-15T06:19:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -132,7 +132,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the technical aspects of backing up Team Foundation Server (TFS) and troubleshooting related issues. While it touches on some operational concerns, such as permissions and service accounts, it lacks a broader discussion on DevOps principles, practices, or cultural shifts. The mention of TFS and SQL Server does not directly align with the core themes of DevOps, which emphasise collaboration, continuous delivery, and automation. Therefore, the content is only tangentially related to DevOps.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -292,12 +292,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:19:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, but primarily focuses on backup procedures and SQL Server configurations rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses backup procedures for Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it lacks a direct focus on Azure DevOps functionalities, best practices, or methodologies. While it mentions TFS, it does not delve into CI/CD pipelines, Agile project management, or integration with other tools, which are key topics for the Azure DevOps category. The discussion is more technical and procedural rather than strategic or best practice-oriented, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -493,12 +496,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:19:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses backup practices and error management for Team Foundation Server (TFS), which relates to operational efficiency in a DevOps context, particularly regarding SQL Server maintenance and permissions management. However, the main focus is on troubleshooting specific issues rather than broader operational strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating backups in Team Foundation Server, detailing specific errors and troubleshooting steps. While it touches on operational practices related to permissions and backup management, it lacks a broader discussion on process optimisation, continuous improvement, or integration of methodologies like Agile or DevOps. The operational efficiency aspect is present but not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",

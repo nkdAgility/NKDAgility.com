@@ -24,6 +24,15 @@ aliasesArchive:
 - /resources/blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 tags:
 - Install and Configuration
+- Software Development
+- Practical Techniques and Tooling
+- System Configuration
+- Continuous Integration
+- Azure DevOps
+- Azure Pipelines
+- Pragmatic Thinking
+- Technical Mastery
+- Troubleshooting
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-11-11.png

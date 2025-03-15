@@ -31,9 +31,6 @@ aliasesArchive:
 tags:
 - Troubleshooting
 - Software Development
-- Windows
-- Install and Configuration
-- Practical Techniques and Tooling
 categories: []
 preview: metro-problem-icon-3-3.png
 

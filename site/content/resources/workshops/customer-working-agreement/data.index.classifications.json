@@ -28,11 +28,14 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:21",
+    "ai_confidence": 45.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of the Product Owner and the importance of the Product Backlog in the context of a Customer Working Agreement, making it a significant but secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of the Product Owner and mentions the Product Backlog in the context of a customer working agreement. However, the primary focus is on the working agreement itself rather than the Product Backlog, leading to a moderate confidence score. While there are relevant mentions, the depth of discussion on backlog management techniques and practices is limited.",
     "level": "Tertiary"
   },
   "Professional Scrum": {
@@ -133,30 +136,39 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:38",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of a working agreement that relate to customer involvement and expectations in software development, which aligns with the principles of working software, but it is primarily focused on the facilitation of a workshop rather than the delivery of functional software itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of a 'Working Agreement' which is crucial for establishing expectations and responsibilities in software development, particularly in Agile contexts. It mentions the importance of delivering usable increments and the role of the customer in providing necessary resources and goals, aligning well with the principles of working software. However, while it touches on relevant themes, it lacks detailed exploration of software quality and functionality, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of a Working Agreement that involve decision-making processes, particularly in terms of customer commitments and understanding trade-offs. However, it primarily focuses on the facilitation of a workshop rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' workshop, which involves elements of decision-making, such as agreeing on the type of work and understanding trade-offs. However, it lacks explicit references to structured, evidence-based methodologies or frameworks for decision-making. The focus is more on facilitation and workshop logistics rather than on the principles of evidence-based decision-making, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of a working agreement that includes customer involvement and roles, which are relevant to self-organisation, but the primary focus is on the facilitation of a workshop and customer commitments rather than self-organisation principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a 'Working Agreement' workshop, which touches on aspects of collaboration and customer involvement in Agile processes. However, it lacks a direct focus on self-organisation principles, such as team autonomy or empowerment. The mention of customer roles and responsibilities indicates some alignment with self-organisation, but the overall depth and explicit discussion of self-organisation concepts are minimal.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -292,21 +304,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a working agreement that involves collaboration between the team and the customer, which is relevant to team dynamics and communication. However, it primarily focuses on the structure and facilitation of the agreement rather than broader themes of team collaboration.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' which touches on aspects of collaboration between the team and the customer, particularly in the context of Agile practices. However, it primarily focuses on the structure and facilitation of a workshop rather than deeply exploring team dynamics, communication techniques, or shared ownership. While there are mentions of customer involvement and roles, the depth of discussion on team collaboration principles is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of customer understanding and engagement in the context of a working agreement, which relates to customer satisfaction, but it primarily focuses on the facilitation of a workshop rather than customer satisfaction as a central theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' which implies a focus on customer involvement and expectations, but it lacks explicit discussions on measuring or enhancing customer satisfaction. While it touches on customer commitments and roles, it does not delve into customer satisfaction metrics or strategies for improving customer experience, which are central to the category.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -412,12 +430,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:49",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in the context of a working agreement, highlighting responsibilities such as developing the Product Goal and managing the Product Backlog. However, the primary focus is on the facilitation of a workshop rather than the Product Owner's responsibilities alone.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Product Owner in the context of a Customer Working Agreement, highlighting responsibilities such as developing and communicating the Product Goal, creating and ordering Product Backlog items, and ensuring transparency. While it does not delve deeply into the broader responsibilities or techniques of a Product Owner, it does provide a clear mention of the role and its importance in the Agile process, thus aligning well with the category.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -439,12 +460,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of transparency and customer involvement in Agile processes, which are related to empirical process control, but it primarily focuses on the working agreement rather than the principles of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' which touches on aspects of transparency and customer involvement in Agile processes. However, it lacks a direct focus on empirical process control principles such as inspection and adaptation. While it mentions the importance of clarity and understanding in the working agreement, it does not delve deeply into the core themes of empirical process control or provide substantial detail on its implementation. The discussion is more about establishing agreements rather than the empirical processes themselves.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -475,11 +499,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:46",
+    "ai_confidence": 45.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Agile methodologies, specifically the working agreement between developers and customers, which is relevant to the role of software developers in Agile contexts. However, it primarily focuses on the facilitation of a workshop rather than on the developers' practices or methodologies themselves.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' in the context of Agile practices, mentioning the roles of developers and the importance of collaboration with customers. However, it lacks a direct focus on software developers' roles and responsibilities within Agile and DevOps frameworks, making it more of a general discussion on Agile processes rather than a deep dive into the developers' perspective.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -538,11 +565,14 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:29",
+    "ai_confidence": 45.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the customer's commitment to attend a Sprint Review and outlines the importance of stakeholder engagement, making it a significant but secondary theme within a broader context of a working agreement.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions the Sprint Review in the context of a Customer Working Agreement, indicating that the customer agrees to attend the Sprint Review. However, the primary focus of the content is on the Working Agreement itself, with limited depth on the Sprint Review process or its significance within the Scrum framework. While there is some alignment with the category through the mention of stakeholder involvement, the overall discussion lacks detail and does not explore the core themes of the Sprint Review.",
     "level": "Tertiary"
   },
   "Lead Time": {
@@ -565,12 +595,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the facilitation of a Working Agreement workshop, which involves practical problem-solving strategies and customer collaboration in an Agile context. However, it primarily focuses on the structure and steps of the workshop rather than broader pragmatic thinking principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of a 'Customer Working Agreement' in the context of Agile practices, particularly focusing on the roles and commitments of both the customer and the development team. It mentions practical aspects of collaboration and transparency, which align with pragmatic thinking. However, while it touches on Agile principles, it lacks a deeper exploration of problem-solving strategies or real-world applications, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -604,11 +637,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Working Agreement in the context of Agile methodologies, focusing on customer involvement and expectations, which aligns with Agile principles. However, it primarily details facilitation steps and materials rather than a broader strategic discussion.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the concept of a 'Working Agreement' which is relevant to Agile methodologies, particularly in terms of customer collaboration and expectations. It mentions the importance of agility in the work and outlines customer commitments that align with Agile principles. However, the discussion lacks depth in strategic planning and broader Agile strategy implementation, focusing more on operational aspects rather than high-level strategy.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
@@ -640,12 +676,15 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:31",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 35.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Working Agreement and includes a reference to the Cynefin model, which relates to understanding complexity in decision-making. However, the primary focus is on the facilitation of a workshop rather than a deep exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content briefly mentions the Cynefin model, which is relevant to sensemaking, but the primary focus is on the logistics of a working agreement and customer commitments rather than exploring the complexities of decision-making or sensemaking principles. While there are elements that touch on understanding customer needs and facilitating discussions, the overall depth and alignment with the core themes of sensemaking are limited.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -658,12 +697,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of a working agreement that can influence team dynamics and collaboration, particularly in the context of Agile practices. However, it primarily focuses on the agreement with the customer rather than directly on team performance or collaboration strategies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' which touches on aspects of collaboration and expectations between the team and the customer. However, it primarily focuses on the logistics of the agreement rather than directly addressing team performance or dynamics. While there are mentions of roles and responsibilities that could influence team effectiveness, the depth of discussion on team performance strategies and methodologies is limited.",
+    "level": "Ignored"
   },
   "AI": {
     "category": "AI",
@@ -772,12 +814,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a Working Agreement workshop that outlines roles and responsibilities, which relates to operational practices in Agile. However, it primarily focuses on the facilitation of the workshop rather than specific operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' which touches on aspects of operational practices, particularly in the context of Agile methodologies. However, it primarily focuses on the facilitation of a workshop and the roles and commitments of the customer rather than providing in-depth strategies or techniques for enhancing operational efficiency. While there are mentions of agility and customer involvement, the content lacks detailed discussion on process optimisation, metrics, or continuous improvement strategies that are central to the category of Operational Practices.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -808,12 +853,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses aspects of a working agreement that involves customer collaboration and roles, which are relevant to the Scrum Master’s responsibilities in facilitating team dynamics and ensuring Agile principles are followed.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses aspects of a working agreement that involves customer collaboration and roles, including the importance of a Product Owner, which is relevant to Scrum. However, it lacks a direct focus on the Scrum Master role and does not delve deeply into Scrum practices or ceremonies, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -835,21 +883,27 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of a working agreement in an agile context, which relates to facilitating collaboration and understanding between teams and customers, but it does not primarily focus on technical leadership principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' and touches on aspects of agility and customer collaboration, which are relevant to technical leadership. However, it lacks direct mentions of technical leadership principles, such as mentoring, coaching, or team dynamics. The focus is more on the logistics of a workshop rather than on guiding development teams or fostering a culture of continuous improvement, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of customer engagement and understanding customer needs through a working agreement, which is relevant to product discovery, but it primarily focuses on the facilitation of a workshop rather than in-depth methodologies for identifying customer needs.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' which touches on customer involvement and expectations, but it primarily focuses on the facilitation of a workshop and the roles of the customer and team rather than exploring methodologies for identifying customer needs or defining product features. While there are elements that hint at understanding customer requirements, the overall emphasis is more on project management and operational agreements than on product discovery practices.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -874,12 +928,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:07",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses customer commitments and responsibilities in the context of a working agreement, which relates to accountability in Agile. However, it primarily focuses on the facilitation of a workshop rather than a deep exploration of accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 64.0,
+    "reasoning": "The content discusses the responsibilities of the customer in the context of a working agreement, particularly highlighting the need for accountability in providing a Product Owner and setting goals. However, the primary focus is on the facilitation of a workshop rather than a deep exploration of accountability as a principle within Agile teams. While there are mentions of accountability, they are not the central theme, and the depth of discussion is limited.",
+    "level": "Secondary"
   },
   "MVP": {
     "category": "MVP",
@@ -919,12 +976,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses aspects of a working agreement that involves roles and responsibilities of the customer in relation to the Scrum framework, particularly the Product Owner's role.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses aspects of a working agreement that involves the customer and their role in the Scrum process, particularly in relation to the Product Owner and the commitments required for effective collaboration. However, it lacks a comprehensive exploration of Scrum Team dynamics, roles, and practices, focusing more on customer interactions than on team collaboration or internal team dynamics.",
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -982,12 +1042,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of a working agreement that relates to Agile principles, particularly in the context of customer collaboration and expectations, which are relevant to Agile planning. However, it does not primarily focus on specific Agile planning tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' which is related to Agile practices but does not focus specifically on Agile Planning Tools. While it mentions aspects of agility and customer involvement, it lacks direct references to specific planning tools or methodologies that facilitate Agile planning. The discussion is more about agreements and roles rather than the tools and techniques for effective planning in Agile frameworks.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1018,11 +1081,14 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of customer commitments to provide strategic goals, including a Product Vision and Product Goal, which are relevant to long-term objectives. However, the primary focus is on the working agreement and facilitation steps rather than a comprehensive discussion on strategic goals.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the importance of customer commitments to provide strategic goals, such as a Product Vision and Product Goal, which aligns with the category's focus on long-term objectives. However, the primary focus is on the facilitation of a working agreement rather than a deep exploration of strategic goals themselves. While there are mentions of strategic goals, the content lacks extensive detail on frameworks or techniques for adapting these goals, which affects the depth of discussion.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
@@ -1141,21 +1207,27 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Cynefin model, which is a tool related to Systems Thinking, and mentions the importance of understanding trade-offs and ramifications in a working agreement context. However, the primary focus is on the working agreement process rather than a comprehensive exploration of Systems Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly mentions the Cynefin model, which relates to Systems Thinking, but the primary focus is on a working agreement and facilitation steps for a workshop. There is limited discussion on the interconnectedness of components within a system or the principles of Systems Thinking, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the Cynefin model, which is related to complexity thinking, but the primary focus is on the working agreement and facilitation steps rather than a deep exploration of complexity science.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content briefly mentions the Cynefin model, which is a key framework in complexity thinking, indicating some relevance to the category. However, the overall focus is primarily on the logistics of a working agreement and facilitation steps, lacking a deeper exploration of complexity science principles. The discussion does not sufficiently delve into non-linear dynamics, emergence, or the role of uncertainty in management, which are core themes of complexity thinking.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1171,21 +1243,27 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the facilitation of a Working Agreement workshop, which involves practical techniques for applying Agile principles, but it does not focus on specific tools or methodologies in depth.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' workshop, which touches on Agile practices and customer collaboration. However, it lacks explicit mentions of specific tools or methodologies, and the depth of discussion is limited to facilitation steps and tips without detailed exploration of Agile or DevOps frameworks. While it aligns conceptually with the category, it does not provide substantial practical techniques or tooling insights.",
     "level": "Tertiary"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a workshop format and facilitation steps, indicating a focus on a structured learning experience, but it primarily centres around the working agreement rather than specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a 'Working Agreement' workshop, which implies a structured event. However, it lacks explicit references to specific presentations or talks, and the focus is more on the facilitation of a workshop rather than on broader events or presentations in Agile or DevOps. While it touches on workshop facilitation, it does not delve deeply into the themes of events or presentations, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1234,11 +1312,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a Working Agreement that includes aspects of agility and customer collaboration, which are relevant to business agility, but it primarily focuses on the facilitation of a workshop rather than broader principles or strategies of business agility.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses a 'Working Agreement' that includes aspects of agility, such as customer commitments and roles in an agile context. However, it primarily focuses on the logistics of a workshop rather than exploring broader principles or strategies of business agility. While there are mentions of agility and customer involvement, the depth of discussion is limited, and it does not fully align with the core themes of business agility, such as fostering a culture of innovation or leadership roles.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -1252,12 +1333,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:59",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a Customer Working Agreement that outlines how agility will be applied to work, which relates to aligning product development with customer needs and feedback. However, it primarily focuses on the facilitation of a workshop rather than delivering value directly.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' which touches on aspects of customer engagement and expectations in an Agile context. However, it primarily focuses on the facilitation of a workshop rather than delivering value directly. While there are mentions of customer roles and commitments that align with value delivery principles, the depth of discussion on iterative development, customer value measurement, or CI/CD practices is limited. Thus, while it is relevant, it does not fully meet the criteria for a strong focus on value delivery.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1270,12 +1354,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:47:34",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of agility in a working agreement context, highlighting customer roles and commitments, which aligns with organisational agility principles, but it is primarily focused on the facilitation of a specific workshop rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of a 'Working Agreement' which is closely related to agile practices, particularly in how it outlines customer roles and expectations in an agile context. It mentions the application of agility in the work and the importance of customer involvement, which aligns with the principles of organisational agility. However, while it touches on these themes, the discussion lacks depth in exploring broader strategies or frameworks that enhance organisational agility, thus limiting its overall confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1300,12 +1387,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T17:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:46:57",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the facilitation of a working agreement workshop, which touches on the interaction between customer roles and agile practices, indicating a relationship between social and technical aspects. However, it primarily focuses on the workshop structure rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses a 'Customer Working Agreement' and mentions the Cynefin model, which suggests an awareness of sociotechnical interactions. However, the primary focus is on the facilitation of a workshop and the specifics of customer commitments rather than a deep exploration of the interplay between social and technical systems. While there are elements that touch on organisational dynamics and customer roles, the discussion lacks comprehensive detail on how these aspects influence software delivery and team effectiveness.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",

@@ -10,7 +10,7 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-03-11T16:58:32",
+    "calculated_at": "2025-03-15T06:40:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Service Pack 1, which is a practical technique related to tooling. However, it lacks a broader discussion on methodologies or frameworks that enhance Agile and DevOps practices. While it does provide some insights into the installation experience, it does not delve into best practices, tool selection, or integration within teams, which are key aspects of the category. Therefore, the confidence score reflects a moderate alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -268,7 +268,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-10T18:48:52",
+    "calculated_at": "2025-03-15T06:40:35",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -276,7 +276,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Service Pack 1, which is a software product. While it does provide some insights into the installation experience, it lacks a detailed review or analysis of the product's features or its relevance to Agile or DevOps methodologies. The discussion is more about the technical aspects of installation rather than a comprehensive evaluation of the product itself, which limits its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -298,7 +298,7 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-03-11T15:08:10",
+    "calculated_at": "2025-03-15T06:40:35",
     "ai_confidence": 25.0,
     "ai_mentions": 5,
     "ai_alignment": 10,
@@ -306,7 +306,7 @@
     "non_ai_confidence": 0,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2010 Service Pack 1, with minimal personal reflection or insights related to Agile, Scrum, or DevOps. While there are brief mentions of personal experiences, they do not delve into the broader themes of the Personal category, such as challenges faced in Agile transformations or team dynamics. The discussion lacks depth and does not provide substantial personal anecdotes or subjective interpretations.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -382,7 +382,7 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-03-11T12:03:53",
+    "calculated_at": "2025-03-15T06:40:35",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -390,7 +390,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 Service Pack 1, which is more of a procedural guide than a discussion on technical mastery. While it touches on aspects of software installation, it lacks in-depth exploration of software craftsmanship, architecture, or engineering practices. The mention of installation speed and experiences does not align with the core themes of technical excellence, and the depth of discussion is minimal, primarily anecdotal.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -964,7 +964,7 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-03-11T10:38:43",
+    "calculated_at": "2025-03-15T06:40:35",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -972,7 +972,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the installation of Visual Studio 2010 Service Pack 1, which is related to software updates and patches. However, it lacks a comprehensive focus on release management strategies, practices, or processes. While it mentions the installation process and some considerations, it does not delve into planning, scheduling, or controlling software releases, which are core themes of release management. The discussion is primarily anecdotal and lacks depth in terms of release management concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1135,12 +1135,12 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:14",
+    "calculated_at": "2025-03-15T06:40:35",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
     "final_score": 19.0,
     "reasoning": "The content discusses the installation of a software service pack, which is a part of deployment, but it is primarily focused on the installation process rather than deployment strategies like Blue-Green Deployments or Canary Releases.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1180,12 +1180,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:40:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation process of Visual Studio 2010 Service Pack 1, briefly mentioning the lack of problems encountered during the process, which may imply troubleshooting aspects, but primarily focuses on installation rather than specific issue identification or resolution.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily describes the installation process of Visual Studio 2010 Service Pack 1, with a focus on the author's personal experience. While it briefly touches on potential issues (e.g., needing to install both components to avoid breaking the product), it lacks detailed troubleshooting techniques or methodologies. The discussion is more about the installation experience rather than diagnosing or resolving specific technical issues, which diminishes its alignment with the troubleshooting category.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",

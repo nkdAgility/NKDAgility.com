@@ -58,21 +58,24 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:44:40",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses the negative impacts of handoffs in Agile environments and strategies to eliminate them, rather than focusing on coaching practices or the role of a coach in facilitating team growth and development.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 45,
+    "calculated_at": "2025-03-14T16:45:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content primarily discusses the negative impacts of handoffs in Agile practices and offers solutions to improve team collaboration and efficiency. While it touches on organisational practices that could relate to evidence-based leadership, it does not focus on empirical evidence or data-driven decision-making as a central theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the negative impacts of handoffs in Agile environments and suggests practices to improve team collaboration and efficiency. However, it lacks a direct focus on evidence-based leadership principles, such as the use of empirical data to inform leadership decisions. While it touches on organisational improvements and team dynamics, it does not provide substantial evidence or metrics to support its claims, nor does it delve into the principles of Evidence-Based Management as outlined by Schwaber and Sutherland.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -97,11 +100,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:45:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the impact of handoffs on agility and the importance of cross-functional teams, which relates to leadership in fostering collaboration and continuous improvement. However, it primarily focuses on technical practices and challenges rather than explicitly addressing leadership roles or strategies.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and suggests solutions that involve team structure and collaboration, which are relevant to Agile Leadership. However, it primarily focuses on technical practices and operational efficiency rather than explicitly addressing leadership roles or strategies in fostering an Agile culture.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -175,11 +181,14 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T08:53:19",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T16:44:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 80.0,
-    "reasoning": "The content primarily discusses the negative impact of handoffs on agility and efficiency, emphasising the elimination of waste and the importance of cross-functional teams, which aligns closely with Lean principles. It also addresses the need for continuous improvement and value delivery, making Lean Product Development a central theme.",
+    "final_score": 77.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and efficiency, aligning closely with Lean principles of minimising waste and maximising value delivery. It provides detailed insights into how handoffs introduce inefficiencies and suggests strategies for eliminating them, such as creating cross-functional teams and adopting continuous delivery practices. The emphasis on organisational hygiene and the need for a Lean-Agile mindset further supports its relevance to Lean Product Development. Overall, the content is a strong fit for the category, with a primary focus on Lean principles.",
     "level": "Secondary"
   },
   "Organisational Culture": {
@@ -193,12 +202,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:45:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of feedback loops in the context of eliminating handoffs and improving agility, but it primarily focuses on the issues caused by handoffs rather than on customer feedback integration.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the negative impact of handoffs on agility and efficiency in software development, with a focus on organisational structure and practices. While it briefly touches on the importance of feedback loops in the context of eliminating handoffs, it does not delve deeply into customer feedback mechanisms or practices for integrating customer insights into product development. The discussion lacks a strong emphasis on customer feedback collection and analysis, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -211,12 +223,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:45:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the negative impact of handoffs on communication and collaboration, which indirectly relates to transparency in Agile processes. However, the primary focus is on eliminating handoffs rather than on transparency itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the negative impact of handoffs on communication and collaboration, which indirectly relates to transparency. However, it primarily focuses on the problems caused by handoffs rather than explicitly addressing transparency in Agile processes. While it touches on the importance of clear communication and team dynamics, it lacks a thorough exploration of transparency as a core theme.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -256,21 +271,27 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T08:53:19",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T15:05:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 80.0,
-    "reasoning": "Content primarily discusses the strategic implications of eliminating handoffs in Agile environments, focusing on optimising team performance and aligning practices with Lean principles.",
-    "level": "Secondary"
+    "final_score": 81.0,
+    "reasoning": "The content primarily focuses on the strategic implications of handoffs in Agile environments, discussing how they hinder agility and proposing solutions that align with Agile principles. It provides a detailed analysis of the costs associated with handoffs and offers actionable strategies for eliminating them, which directly relates to optimising delivery processes and enhancing team performance. The depth of discussion on cross-functional teams, continuous delivery practices, and minimising work in progress further solidifies its alignment with the Strategy category.",
+    "level": "Primary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:45:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of handoffs on agility and efficiency, which indirectly relates to the ability to innovate by emphasising the need for cross-functional teams and continuous improvement practices. However, the primary focus is on operational challenges rather than directly measuring or enhancing innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and efficiency, which indirectly relates to the ability to innovate by highlighting the importance of cross-functional teams and continuous delivery practices. However, it lacks a direct focus on measuring or enhancing innovation capabilities, and does not explicitly mention Evidence-Based Management principles or frameworks for measuring Ability to Innovate.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -349,20 +370,23 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:44:40",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses the issues related to handoffs in software development and their impact on agility, rather than focusing on the management of a portfolio of projects or strategic alignment with business goals.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-14T16:46:03",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 88.0,
-    "reasoning": "The content primarily discusses the negative impact of handoffs in software development, emphasising Agile practices, cross-functional teams, and Continuous Delivery, which are all central themes in software development methodologies.",
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the negative impact of handoffs in software development, aligning closely with Agile methodologies and practices. It provides detailed insights into how handoffs create inefficiencies and suggests actionable solutions, such as creating cross-functional teams and adopting Continuous Delivery practices. The depth of discussion on eliminating handoffs and improving collaboration demonstrates a strong focus on software development principles, justifying a high confidence score.",
     "level": "Primary"
   },
   "Engineering Excellence": {
@@ -391,12 +415,12 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:44:40",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content discusses general Agile and Lean practices, focusing on the concept of handoffs in software development, but does not specifically address Azure Pipelines or related CI/CD practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -490,12 +514,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:46:01",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
-    "reasoning": "Content primarily discusses the negative impact of handoffs on software development agility, emphasising the importance of cross-functional teams and modern engineering practices like Continuous Delivery and Test-Driven Development, which are central to the role of software developers in Agile and DevOps contexts.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the negative impact of handoffs on software development, directly linking it to Agile and DevOps principles. It provides detailed insights into how handoffs create inefficiencies and suggests modern engineering practices like Continuous Delivery and Test-Driven Development to mitigate these issues. The focus on cross-functional teams and the importance of collaboration aligns well with the core themes of the category, demonstrating a strong understanding of the role of software developers in enhancing productivity and quality in software delivery.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -526,21 +553,21 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:44:40",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses the negative impacts of handoffs in software development, which can relate to troubleshooting issues in collaboration and efficiency. However, it primarily focuses on organisational practices and Agile methodologies rather than directly addressing the identification and resolution of technical issues.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:44:40",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses the negative impact of handoffs on agility and collaboration, rather than focusing on the delivery of software increments or Agile practices related to producing potentially shippable product increments.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -589,30 +616,39 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:45:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of handoffs on agility and cycle time, which indirectly relates to deployment frequency. However, the primary focus is on eliminating handoffs rather than optimising deployment intervals.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and cycle time, which indirectly relates to deployment frequency. However, it does not explicitly focus on deployment frequency itself or provide detailed strategies for optimising deployment intervals. The mention of Continuous Delivery practices suggests some alignment, but the overall discussion is more centred on eliminating handoffs and improving team collaboration rather than on deployment frequency as a primary topic.",
+    "level": "Ignored"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:45:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
-    "reasoning": "Content heavily discusses the negative impact of handoffs on agility and promotes the adoption of cross-functional teams and continuous delivery practices, which are central to Agile methodologies.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the negative impact of handoffs on agility, emphasising the importance of cross-functional teams and continuous delivery practices, which are core principles of Agile Project Management. It aligns well with agile methodologies by advocating for collaboration, iterative development, and the elimination of silos, while also referencing agile concepts like backlog refinement and the shift-left approach. The depth of discussion is significant, providing detailed insights into the challenges and solutions related to handoffs in an agile context.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:45:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the elimination of handoffs and the adoption of Continuous Delivery practices, which are related to Continuous Integration principles. However, the primary focus is on organisational structure and collaboration rather than CI itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the concept of handoffs in software development and their negative impact on agility, which indirectly relates to Continuous Integration principles. However, it primarily focuses on eliminating handoffs and improving team collaboration rather than explicitly addressing Continuous Integration practices, tools, or methodologies. The mention of Continuous Delivery practices and automation hints at CI but lacks depth and direct discussion on CI itself.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -667,12 +703,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T08:53:19",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-14T16:44:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the negative impact of handoffs on team morale and motivation, highlighting the importance of cross-functional teams and collaboration, which are relevant to team dynamics and motivation.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the negative impact of handoffs on team morale and motivation, highlighting how silos can lead to frustration and burnout. It also touches on the importance of cross-functional teams and shared goals, which are relevant to team motivation. However, the primary focus is on the technical aspects of eliminating handoffs rather than on motivational strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -694,12 +733,12 @@
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:44:40",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses the concept of handoffs and their impact on agility, which is relevant to Kanban principles, but it primarily focuses on Agile practices and the elimination of silos rather than specifically addressing the scaling of Kanban in large organisations.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -730,20 +769,26 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-11T14:47:39",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-13T14:45:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the negative impact of handoffs on agility and outlines strategies for eliminating them, which aligns with Agile transformation principles and practices.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and promotes practices that align with Agile principles, such as cross-functional teams and continuous delivery. However, while it touches on Agile concepts, it primarily focuses on the issue of handoffs rather than a comprehensive exploration of Agile transformation strategies, which limits its depth and direct mention of the category.",
     "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T08:53:19",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-14T16:44:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the negative impacts of handoffs on software development, including increased cycle time and reduced quality, which can lead to growing technical debt. However, the primary focus is on eliminating handoffs and improving agility rather than directly addressing technical debt management.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the negative impacts of handoffs on software development, including increased cycle time and reduced quality, which can contribute to the accumulation of technical debt. However, the primary focus is on the concept of handoffs rather than a direct exploration of technical debt itself. While there are mentions of how these issues can lead to growing technical debt, the discussion lacks depth and does not provide strategies for managing or measuring technical debt, which is essential for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "Scrum Values": {
@@ -757,11 +802,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-11T14:47:49",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-13T14:55:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the negative impact of handoffs on organisational agility and proposes strategies for eliminating them, which aligns with the principles of organisational change and Agile transformation.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the negative impact of handoffs on organisational agility and suggests strategies for eliminating them, which aligns with the principles of organisational change. However, it primarily focuses on software development practices and does not delve deeply into broader organisational change frameworks or methodologies. While it touches on the need for cross-functional teams and modern engineering practices, it lacks a comprehensive exploration of change management processes or leadership roles in driving change.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -784,11 +832,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 95,
+    "calculated_at": "2025-03-14T16:45:26",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 10,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses the negative impact of handoffs on operational efficiency and agility, providing practical strategies for eliminating them and optimising workflows, which aligns closely with the key topics of operational practices.",
+    "final_score": 84.0,
+    "reasoning": "The content extensively discusses the negative impact of handoffs on operational efficiency, aligning closely with the core themes of operational practices in Agile and Lean methodologies. It provides detailed insights into how handoffs introduce waste, increase cycle time, and reduce quality, which are critical aspects of operational efficiency. The article also suggests practical solutions such as creating cross-functional teams, adopting continuous delivery practices, and minimising work in progress, demonstrating a strong focus on improving operational practices. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Primary"
   },
   "Backlog Refinement": {
@@ -802,12 +853,15 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 45,
+    "calculated_at": "2025-03-14T16:45:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the concept of handoffs and their impact on agility, but it does not primarily focus on Scaling Scrum principles or frameworks. It touches on Agile practices and team collaboration, which are relevant but not central to the topic of scaling Scrum in large organisations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and suggests practices to eliminate them, which indirectly relates to Scrum principles. However, it does not explicitly mention scaling Scrum frameworks or the coordination of multiple Scrum teams, which are key aspects of the category. The focus is more on general Agile practices rather than specifically on scaling Scrum in large organisations.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -838,47 +892,59 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-11T14:48:09",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-13T15:19:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the impact of handoffs on agility and the importance of cross-functional teams, which aligns with technical leadership principles in fostering collaboration and optimising team dynamics.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and productivity, which aligns with the principles of fostering collaboration and optimising team dynamics. However, it lacks direct mentions of technical leadership roles or specific agile practices, focusing more on the problems caused by handoffs rather than on leadership strategies or mentoring. The depth of discussion on technical leadership concepts is limited, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:44:40",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses the issues related to handoffs in software development and their impact on agility, rather than focusing on methodologies for identifying customer needs or defining product features.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 45,
+    "calculated_at": "2025-03-14T16:45:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 42.0,
-    "reasoning": "The content discusses the concept of handoffs and their impact on agility in software development, which is related to Lean principles. However, it primarily focuses on organisational structure and practices rather than the core Lean Startup methodology, such as MVPs, the Build-Measure-Learn loop, or validated learning.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the elimination of handoffs and the importance of cross-functional teams, which aligns with Lean principles. However, it does not explicitly mention Lean Startup concepts such as MVPs, the Build-Measure-Learn loop, or validated learning. The focus is more on Agile practices rather than the Lean Startup methodology, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-11T14:48:15",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-13T16:19:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "Content primarily discusses the negative impact of handoffs on agility and advocates for Agile practices such as cross-functional teams and continuous delivery, which are central to Agile Planning principles.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and promotes practices that align with Agile principles, such as cross-functional teams and continuous delivery. However, it primarily focuses on the problems caused by handoffs rather than directly addressing Agile Planning methodologies or practices. While it touches on relevant themes, it lacks a comprehensive exploration of Agile Planning itself.",
     "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-11T14:48:16",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-13T16:25:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of ownership and accountability in the context of eliminating handoffs and fostering collaboration within Agile teams, making it a significant theme.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of eliminating handoffs and fostering cross-functional teams, which indirectly relates to accountability by promoting ownership and collaboration. However, it primarily focuses on the negative impacts of handoffs rather than explicitly addressing accountability as a core principle. The mention of 'shift left' and ownership in production hints at accountability but lacks a thorough exploration of the concept within Agile frameworks.",
     "level": "Secondary"
   },
   "MVP": {
@@ -892,21 +958,24 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:45:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of collaboration and communication within teams, particularly in the context of eliminating handoffs. While it mentions collaboration tools like Microsoft Teams and Slack, the primary focus is on the issues caused by handoffs and the need for cross-functional teams rather than a detailed exploration of collaboration tools themselves.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the negative impact of handoffs on collaboration and suggests creating cross-functional teams and using collaboration tools like Microsoft Teams and Slack. However, the primary focus is on the concept of handoffs rather than a detailed exploration of collaboration tools themselves. While there is some mention of tools, it is not the main theme, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:44:40",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses team dynamics and the negative impact of handoffs on morale, but it primarily focuses on the inefficiencies and structural issues in Agile practices rather than directly addressing psychological safety as a central theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -919,20 +988,26 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:45:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of cross-functional teams and collaboration, which are relevant to Scrum Team dynamics, but the primary focus is on the concept of handoffs and their impact on agility rather than specific Scrum roles or practices.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the concept of handoffs and their impact on team dynamics, which indirectly relates to Scrum Team collaboration and roles. However, it primarily focuses on Lean practices and general Agile principles rather than specific Scrum roles or practices. While it mentions cross-functional teams, it lacks detailed exploration of Scrum-specific roles, communication strategies, or team dynamics as outlined in the category definition.",
+    "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T16:45:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the negative impact of handoffs on software development and promotes practices such as cross-functional teams, continuous delivery, and test-driven development, which are aligned with technical excellence. However, the primary focus is on organisational structure and agility rather than solely on technical practices.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the negative impact of handoffs on software development and suggests practices to eliminate them, such as creating cross-functional teams and adopting continuous delivery. While it touches on some technical practices, the primary focus is on organisational structure and agility rather than deep technical mastery or software craftsmanship principles.",
     "level": "Secondary"
   },
   "Release Management": {
@@ -946,57 +1021,72 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T08:53:19",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-14T16:44:50",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 60.0,
-    "reasoning": "The content discusses Test-Driven Development (TDD) as part of a broader conversation about eliminating handoffs and improving agility in software development. While TDD is mentioned and its benefits are highlighted, the primary focus is on the issues caused by handoffs and organisational structure, making TDD a significant but secondary theme.",
+    "final_score": 44.0,
+    "reasoning": "The content briefly mentions Test-Driven Development (TDD) as part of a broader discussion on eliminating handoffs and improving agility in software development. While TDD is referenced, it is not the primary focus of the content, which centres around the issues caused by handoffs and the importance of cross-functional teams. The discussion on TDD lacks depth and does not explore its principles or practices in detail, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of handoffs on agility and organisational practices, which relates to trends in Agile methodologies. However, it primarily focuses on the issue of handoffs rather than a broader analysis of trends.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and suggests practices to eliminate them, which indirectly relates to trends in Agile methodologies. However, it lacks a direct focus on trend analysis, emerging trends, or strategic decision-making based on identified patterns, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-11T14:48:35",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-13T16:27:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the negative impact of handoffs on agility and advocates for cross-functional teams and continuous improvement, aligning closely with Agile principles of collaboration and value delivery.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and emphasises the importance of cross-functional teams and continuous improvement, which aligns with Agile principles. However, it primarily focuses on practical solutions and technical aspects rather than a deep exploration of Agile philosophy itself.",
     "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:44:40",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses the concept of handoffs in software development and their impact on agility, rather than focusing on version control practices or methodologies. While it touches on some aspects of collaboration and team dynamics, it does not directly address modern source control systems or related best practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:45:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of handoffs on agility and suggests practices for improving team collaboration and flow, which are relevant to Agile planning. However, it primarily focuses on the concept of handoffs rather than specific Agile planning tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and suggests practices for improving team collaboration and flow, which are relevant to Agile methodologies. However, it does not explicitly mention Agile Planning Tools or provide detailed insights into specific tools or techniques for backlog management or sprint planning, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:45:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content briefly mentions Acceptance Test Driven Development (ATDD) as part of a broader discussion on eliminating handoffs and improving collaboration, but it does not primarily focus on ATDD principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Acceptance Test Driven Development (ATDD) as one of several methodologies but does not focus on it as a primary topic. The discussion primarily revolves around the issues of handoffs and collaboration in Agile environments, lacking in-depth exploration of ATDD principles, acceptance criteria, or collaborative practices specific to ATDD.",
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -1018,12 +1108,12 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:44:40",
     "ai_confidence": 45,
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content primarily discusses the negative impact of handoffs on agility and efficiency in software development, focusing on operational challenges rather than long-term strategic goals. While it touches on the importance of cross-functional teams and modern practices, it does not clearly articulate long-term objectives or align with the definition of strategic goals.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1102,12 +1192,15 @@
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-14T16:45:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 40,
-    "final_score": 62.0,
-    "reasoning": "The content discusses the elimination of handoffs and the importance of automation in achieving agility, making automation a significant theme. However, it primarily focuses on organisational structures and practices rather than a direct exploration of AI's role in Agile methodologies.",
-    "level": "Secondary"
+    "final_score": 33.0,
+    "reasoning": "The content primarily discusses the negative impact of handoffs on agility and suggests solutions to eliminate them, focusing on cross-functional teams and continuous delivery practices. However, it lacks a direct discussion on AI and automation technologies specifically within Agile frameworks, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1120,39 +1213,51 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T08:53:19",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-14T16:44:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 30,
-    "final_score": 80.0,
-    "reasoning": "Content primarily discusses the impact of handoffs on agility and the importance of cross-functional teams, which aligns closely with Agile principles in product management.",
+    "final_score": 73.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and emphasises the importance of cross-functional teams, which aligns well with Agile principles. It provides detailed strategies for eliminating handoffs and enhancing collaboration, reflecting a strong understanding of Agile Product Management practices. However, while it touches on Agile concepts, it does not explicitly mention the role of the Product Owner or prioritisation techniques, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:44:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of eliminating handoffs to improve agility and collaboration, which relates to learning from inefficiencies and fostering a culture of continuous improvement. However, the primary focus is on the negative impacts of handoffs rather than on discovery and learning methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the negative impacts of handoffs in software development and how to eliminate them, which is more about project management and operational efficiency than on discovery and learning processes. While it touches on the importance of cross-functional teams and continuous delivery practices, it lacks a strong emphasis on methodologies that foster innovation or learning from experimentation. The discussion does not delve deeply into the processes of learning or adapting based on feedback, which are central to the 'Discovery and Learning' category.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:45:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interconnectedness of teams and processes in software development, highlighting the negative impact of handoffs on agility and efficiency. While it touches on holistic approaches to improve collaboration and reduce waste, the primary focus is on eliminating handoffs rather than a comprehensive exploration of Systems Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the negative impact of handoffs in software development and promotes cross-functional teams and holistic approaches to improve agility. However, it primarily focuses on specific practices and methodologies (Lean, Agile) rather than exploring the broader principles of Systems Thinking. While there are elements of interconnectedness and organisational dynamics, the discussion lacks depth in Systems Thinking concepts and does not explicitly mention key topics such as feedback loops or causal analysis.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T08:53:19",
-    "ai_confidence": 65,
+    "calculated_at": "2025-03-14T16:44:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 58.0,
-    "reasoning": "The content discusses the implications of handoffs in software development and their impact on agility, which relates to complexity in organisational behaviour. However, it primarily focuses on practical solutions and Agile practices rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the negative impact of handoffs on agility and organisational efficiency, which touches on themes of complexity in systems. However, it primarily focuses on practical solutions and Agile practices rather than explicitly engaging with complexity science principles or frameworks. While it hints at non-linear dynamics and the need for cross-functional teams, it lacks a thorough exploration of complexity theory or its application in decision-making, thus limiting its depth in this category.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -1219,12 +1324,12 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:00:57",
+    "calculated_at": "2025-03-14T16:44:40",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses general Agile practices and the concept of handoffs in software development without specific reference to Azure DevOps services or tools.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1258,12 +1363,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 92,
+    "calculated_at": "2025-03-14T16:45:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 85.0,
-    "reasoning": "The content primarily discusses the negative impact of handoffs on agility and value delivery, emphasising the importance of cross-functional teams, continuous delivery practices, and strategies to optimise flow, all of which align closely with the principles of value delivery in Agile and Lean methodologies.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content primarily focuses on the negative impact of handoffs on value delivery in Agile environments, discussing how they introduce waste and reduce agility. It aligns well with key topics such as the role of cross-functional teams, continuous delivery practices, and the importance of optimising for flow. The depth of discussion is substantial, providing detailed insights into the costs of handoffs and strategies for eliminating them, which directly ties back to enhancing customer value and business agility.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1327,12 +1435,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:45:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of handoffs on agility and efficiency, touching on the importance of feedback loops and continuous improvement, but it primarily focuses on the problems caused by handoffs rather than metrics and learning as a central theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the negative impact of handoffs on agility and efficiency in software development, focusing on organisational structure and team dynamics rather than on metrics or learning processes. While it touches on concepts like feedback loops and continuous improvement, it lacks a strong emphasis on data-driven decision-making or specific metrics, which are central to the 'Metrics and Learning' category.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1357,12 +1468,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T08:55:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:45:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of handoffs on team dynamics and morale, referencing psychological concepts like motivation and purpose. However, the primary focus is on technical practices and methodologies rather than core psychological principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses technical practices related to Agile and Lean methodologies, focusing on the concept of handoffs in software development. While it briefly touches on team morale and motivation, which are relevant to organisational psychology, the main emphasis is on operational efficiency and process improvement rather than psychological principles or theories. The discussion lacks depth in exploring psychological aspects such as leadership styles, employee engagement, or team dynamics, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -1411,7 +1525,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T11:34:31",
+    "calculated_at": "2025-03-14T16:44:40",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1419,7 +1533,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the negative impact of handoffs on agility and the importance of cross-functional teams, which indirectly relates to leadership in fostering collaboration and accountability. However, it primarily focuses on technical practices and organisational structures rather than explicitly addressing leadership strategies or frameworks. The discussion lacks depth in leadership concepts, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

@@ -157,11 +157,14 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:42:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses installation and configuration of a release management suite, which is related to Application Lifecycle Management but primarily focuses on the setup process rather than the broader themes of managing the application lifecycle.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of release management tools, which is a component of Application Lifecycle Management. It discusses specific steps for setting up a release management server, client, and deployment agent, indicating a direct mention of ALM practices. However, while it touches on aspects of the application lifecycle, such as deployment and management, it lacks a broader discussion on governance, compliance, or integration with Agile and DevOps principles. The depth of discussion is practical and step-by-step, but it does not delve into strategic considerations or metrics, which limits its overall alignment with the full scope of Application Lifecycle Management.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -292,12 +295,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:42:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on installing and configuring a release management tool, which is relevant to software development practices, but does not discuss broader methodologies or processes in depth.",
-    "level": "Tertiary"
+    "final_score": 74.0,
+    "reasoning": "The content provides a detailed step-by-step guide on setting up release management tools, which directly relates to software development practices. It discusses installation and configuration processes, which are essential aspects of the software development lifecycle. The mention of Team Foundation Server (TFS) and managing permissions also aligns with collaborative development practices. Overall, the content is focused on practical implementation within the software development context, demonstrating a strong alignment with the category.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -574,7 +580,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-07T14:51:20",
+    "calculated_at": "2025-03-15T04:42:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -582,7 +588,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the installation and configuration of release management tools, which is a technical task. However, it lacks explicit discussions on broader engineering practices or methodologies that enhance agility, such as TDD, CI/CD, or modular architecture. While it does touch on aspects of deployment and configuration, it does not delve into the principles or techniques that would elevate it to a discussion of technical excellence. The depth of the discussion is moderate, providing a step-by-step guide but not exploring the implications or best practices associated with these technical tasks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -838,7 +844,7 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-03-10T12:42:48",
+    "calculated_at": "2025-03-15T04:42:02",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -846,7 +852,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the installation and configuration of release management tools, which is more of a procedural guide than a discussion or review of products or literature. While it does mention specific tools, it lacks a broader analysis or review of their effectiveness in relation to Agile or DevOps principles. The discussion is technical and practical, but does not delve into how these tools enhance understanding or implementation of Agile methodologies, which is a key aspect of the 'Products and Books' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1087,11 +1093,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T12:23:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T04:42:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content specifically discusses the installation and configuration of a release management tool within the context of Visual Studio, making it a practical example of tooling in a DevOps environment.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on setting up release management tools, which directly aligns with the category's focus on practical techniques and tooling. It discusses specific tools (release management server, client, and deployment agent) and methodologies for installation and configuration, demonstrating a clear application of DevOps practices. The depth of discussion is substantial, covering various aspects of the setup process, including permissions management and configuration settings, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Sensemaking": {

@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/tfs-handover
 - /tfs-handover
 - /resources/blog/tfs-handover
-tags:
-- Install and Configuration
+tags: []
 categories: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 

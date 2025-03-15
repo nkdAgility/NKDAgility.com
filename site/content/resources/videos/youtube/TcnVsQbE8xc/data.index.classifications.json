@@ -43,7 +43,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T14:15:56",
+    "calculated_at": "2025-03-14T23:00:26",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -51,11 +51,11 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the role of the Scrum Master in helping teams and the organisation, which relates to leadership in an Agile context. However, it primarily focuses on the responsibilities and effectiveness of the Scrum Master rather than providing a comprehensive discussion on leadership practices or strategies. The mention of helping the team and organisation indicates some alignment with leadership themes, but the depth of discussion is limited and lacks a broader exploration of leadership concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-03-07T13:43:11",
+    "calculated_at": "2025-03-14T23:00:26",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -63,7 +63,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the role of a Scrum Master and the responsibilities associated with it, which are more aligned with Scrum practices than with the broader principles of business agility. While there are mentions of helping teams and organisations, the discussion lacks depth in exploring how these roles contribute to overall business agility. The content does not explicitly address key topics such as innovation, leadership in agility, or the integration of agile methodologies with organisational structures.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -355,7 +355,7 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-03-11T16:26:55",
+    "calculated_at": "2025-03-14T23:00:26",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -363,7 +363,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on the PSM II course, which is centred around Scrum practices and team-level skills. While it briefly mentions organisational benefits and agile maturity, the discussion lacks a comprehensive exploration of enterprise agility principles, frameworks, or broader organisational implications. The emphasis remains on individual and team-level improvements rather than organisational agility as a whole.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -397,21 +397,27 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T20:39:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:17:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of a Scrum Master, focusing on how to help teams and organisations, which aligns well with the category.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the PSM II course, which is directly related to enhancing the skills of a Scrum Master. It discusses advanced Scrum knowledge, team empowerment, and the role of the Scrum Master in fostering high-performing teams. While it does not delve deeply into specific Scrum ceremonies or conflict resolution, it aligns well with the core themes of the Scrum Master role, such as coaching and mentoring. The depth of discussion is substantial, providing actionable insights and benefits of the course, which supports the development of Scrum Master competencies.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T20:39:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master and their responsibilities in helping teams and organisations, which relates to Agile Planning, but it primarily focuses on the PSM II course rather than Agile Planning methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:00:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the PSM II course and its benefits for Scrum Masters, which indirectly relates to Agile Planning through the discussion of Scrum principles and team dynamics. However, it lacks a direct focus on Agile Planning methodologies and practices, making it more of a promotional piece rather than a detailed exploration of Agile Planning concepts.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -460,21 +466,27 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T20:39:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping the organisation adopt practices, which relates to organisational culture, but the primary focus is on Scrum roles and responsibilities.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:00:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the PSM II course and its benefits for Scrum Masters, with only brief mentions of team dynamics and fostering a high-performing environment. While it touches on aspects of organisational impact and continuous improvement, it lacks a deep exploration of organisational culture as defined in the category. The discussion is more centred on technical skills and course content rather than the cultural elements that influence Agile practices.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T20:39:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:00:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping the organisation adopt Agile practices, which aligns with the theme of large-scale agility, but primarily focuses on team-level practices.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on the PSM II course, which is centred around Scrum practices and individual skill enhancement rather than large-scale Agile principles. While it briefly touches on organizational benefits, it lacks a comprehensive discussion on scaling Agile methodologies or frameworks, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -505,12 +517,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T20:39:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum Master roles and responsibilities, which are relevant to Agile transformation, but the primary focus is on the PSM II course rather than a comprehensive discussion on Agile transformation strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:00:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on the PSM II course, which is related to Scrum, a framework within Agile. While it discusses the benefits of advanced Scrum mastery and its impact on teams and organisations, it does not explicitly address broader Agile transformation strategies or methodologies. The discussion is somewhat aligned with Agile principles, particularly in fostering team effectiveness and continuous improvement, but lacks depth in exploring organisational agility or change management strategies. Therefore, while it touches on Agile concepts, it does not fully meet the criteria for a primary focus on Agile transformation.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -613,21 +628,27 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T20:40:03",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T23:00:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "Content discusses the role of the Scrum Master and their responsibilities towards the team and the organisation, making it a major theme, but it is primarily focused on the PSM II course rather than the dynamics of a Scrum Team.",
-    "level": "Secondary"
+    "final_score": 58.0,
+    "reasoning": "The content discusses the PSM II course, which is relevant to Scrum roles, particularly the Scrum Master. However, it primarily focuses on the course's benefits rather than in-depth discussions about Scrum Team dynamics, roles, or collaboration techniques. While there are mentions of fostering a high-performing team and supporting product owners, the overall depth and focus on Scrum Team specifics are limited.",
+    "level": "Tertiary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T20:40:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:00:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the Scrum Master in helping the organisation adopt agile practices, which aligns with scaling agility, but primarily focuses on team-level practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the PSM II course, which is centred around Scrum practices and team-level skills. While it briefly mentions the role of the Scrum Master in steering the wider organization towards agile maturity, it lacks a comprehensive discussion on scaling agility frameworks, leadership roles, or cross-team collaboration. The depth of discussion is limited to team-level benefits and does not explore the broader organisational implications of agility.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -676,21 +697,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T20:40:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:00:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping the organisation adopt practices, which relates to change management, but the primary focus is on Scrum roles and responsibilities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the benefits of the PSM II course and its impact on Scrum Master skills, with only brief mentions of change and improvement. While it touches on themes of team empowerment and continuous improvement, it lacks a comprehensive discussion on change management principles, strategies, or leadership roles in guiding transformation, which are central to the category.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T20:40:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:00:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping the team and the organisation, which relates to team collaboration, but it primarily focuses on the responsibilities and effectiveness of the Scrum Master rather than broader team dynamics.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the PSM II course, which focuses on enhancing Scrum Master skills and team effectiveness. While it mentions fostering a high-performing team environment and improving team dynamics, the primary focus is on individual skill development and course benefits rather than a deep exploration of team collaboration principles. The content aligns with the category's themes but lacks extensive detail on collaborative practices.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -730,21 +757,27 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T20:40:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:00:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping teams and the organisation, which relates to self-organisation, but it is primarily focused on the responsibilities of the Scrum Master rather than self-organisation as a central theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the PSM II course and its benefits for Scrum Masters, touching on themes of team empowerment and continuous improvement. However, it lacks a direct focus on self-organisation principles and does not delve deeply into how these concepts are applied within teams. While there are mentions of fostering a high-performing team environment and supporting product owners, the overall emphasis is more on the course's benefits rather than a thorough exploration of self-organisation.",
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:40:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in relation to product management and team effectiveness, which aligns with Agile principles, but it primarily focuses on Scrum roles rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:00:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on the PSM II course and Scrum Master skills, with limited direct discussion on the Agile Product Operating Model. While it touches on concepts like product ownership and team empowerment, it lacks a comprehensive exploration of the product-centric approach and value delivery principles central to the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -775,12 +808,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T20:40:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:00:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping the organisation adopt practices and improve effectiveness, which relates to organisational dynamics, but the primary focus is on Scrum roles rather than systems thinking.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the PSM II course and its benefits for Scrum Masters, with limited direct discussion on systems thinking or organisational dynamics. While it touches on team effectiveness and organisational roles, it lacks a comprehensive exploration of the interplay between organisational structure, culture, and processes, which are central to the category of Organisational Physics.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -838,11 +874,14 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T20:40:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:00:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master in helping teams and organisations, which relates to mentoring, but it primarily focuses on the responsibilities and effectiveness of the Scrum Master rather than on mentoring techniques or strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the PSM II course, which includes elements of mentorship through seasoned instructors and the importance of feedback loops. While it primarily focuses on the course's benefits and skills development, it does touch on mentoring aspects, particularly in the context of professional growth and community engagement. However, the primary focus remains on the course content rather than mentoring itself.",
     "level": "Tertiary"
   },
   "AI and Automation in Agility": {
@@ -865,30 +904,39 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T20:40:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:00:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping teams and organisations, which relates to strategic alignment and optimisation of delivery processes, but it primarily focuses on the responsibilities and effectiveness of the Scrum Master rather than a broader strategic approach.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on the benefits of the PSM II course for Scrum Masters, discussing skills and knowledge enhancement rather than strategic alignment or execution within Agile frameworks. While it touches on team empowerment and organizational roles, it lacks a deep exploration of strategic concepts or frameworks, making it more of a promotional piece than a strategic discussion.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T20:40:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping teams and organisations improve effectiveness, which aligns with operational practices, but it primarily focuses on the Scrum Master role rather than specific operational techniques or strategies.",
+    "calculated_at": "2025-03-14T23:00:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the PSM II course, which focuses on enhancing Scrum Master skills and team effectiveness. While it mentions actionable insights and automation practices, the primary focus is on personal and team development rather than directly addressing operational efficiency or specific methodologies like Agile, DevOps, or Lean. The discussion is relevant but not deeply aligned with the core themes of operational practices.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T20:40:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master and their responsibilities, which relates to Agile principles, but primarily focuses on specific Scrum practices rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:00:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the PSM II course, which is a specific Scrum framework, rather than discussing the broader Agile Philosophy. While it touches on concepts like team empowerment and continuous improvement, these are framed within the context of Scrum practices rather than the foundational principles of Agile. The discussion lacks depth in exploring Agile as a mindset or ethos, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -901,12 +949,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T20:40:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master in helping teams and organisations, which aligns with coaching principles, but it primarily focuses on the responsibilities and understanding of the Scrum Master rather than coaching techniques or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:01:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the PSM II course, which is relevant to coaching in Agile environments, particularly in relation to Scrum Master skills. It mentions empowering teams and fostering a high-performing environment, which aligns with coaching principles. However, the focus is more on the course benefits and skills rather than in-depth coaching techniques or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -919,12 +970,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T20:40:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master in helping teams and organisations improve, which aligns with the theme of Continuous Learning, but it primarily focuses on the PSM II course rather than broader principles of continuous learning.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:01:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the PSM II course, which promotes advanced Scrum Master skills and continuous improvement within teams. It explicitly mentions fostering a high-performing team environment and cultivating feedback loops, aligning well with the principles of Continuous Learning. However, while it touches on key topics, the primary focus is on the course itself rather than a broader discussion of Continuous Learning principles.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -955,12 +1009,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T20:41:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master and their interaction with the Product Owner, indicating a focus on Agile practices in product management, but it is primarily centred on the Scrum Master role rather than Agile Product Management as a whole.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:01:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the PSM II course, which is related to Scrum and the role of Scrum Masters. While it mentions product ownership and the importance of supporting product owners, the discussion is more about the course benefits rather than a deep exploration of Agile Product Management principles. The content does not extensively cover key topics such as backlog prioritisation or stakeholder engagement, which are central to Agile Product Management.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -982,21 +1039,27 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T20:41:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:01:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping the organisation adopt Scrum practices, which aligns with the theme of scaling Scrum, but it is primarily focused on the individual role rather than broader scaling frameworks or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the PSM II course and its benefits for individual Scrum Masters rather than discussing the scaling of Scrum in large organisations. While it mentions Scrum roles and team dynamics, it does not address frameworks for scaling, coordination among multiple teams, or challenges in scaling Scrum, which are key topics in the category.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T20:41:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:01:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping teams and organisations, indicating a focus on the interplay between social and technical aspects, but it primarily centres on Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the PSM II course and its benefits for Scrum Masters, with limited direct discussion on sociotechnical systems. While it touches on team dynamics and organisational benefits, it lacks a thorough exploration of the interplay between social and technical aspects, which is central to the category. The discussion is more about individual skills and tools rather than the broader sociotechnical context.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1027,12 +1090,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T20:41:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:01:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master and how to help teams and organisations be more effective, which aligns with pragmatic approaches in Agile contexts. However, it primarily focuses on the benefits of a specific course rather than broader pragmatic thinking strategies.",
-    "level": "Tertiary"
+    "final_score": 70.0,
+    "reasoning": "The content discusses the PSM II course, focusing on practical applications of Scrum principles and problem-solving strategies. It highlights actionable insights and real-world benefits for teams and organisations, aligning well with the core themes of pragmatic thinking. However, while it mentions practical applications, it does not delve deeply into specific case studies or evidence-based management practices, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1099,11 +1165,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T20:41:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:01:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum roles and responsibilities, which are central to software development methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on the PSM II course, which is directly related to Scrum, an Agile framework within software development. It discusses advanced Scrum Master skills, team empowerment, and product ownership, all of which align with core themes of software development methodologies. The depth of discussion includes actionable insights and benefits for teams and organisations, indicating a strong focus on improving software development practices. However, it lacks extensive detail on broader software engineering principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -1153,11 +1222,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T20:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:01:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master and their responsibilities in helping teams and organisations adopt Agile practices, which is relevant to software developers but is primarily focused on Scrum methodology rather than the developers' roles directly.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the PSM II course, which is related to Scrum and Agile methodologies. While it discusses the role of Scrum Masters and their impact on teams and organisations, it does not explicitly address software developers or their specific practices within Agile and DevOps contexts. The mentions of team dynamics and feedback loops align somewhat with the category, but the depth of discussion is limited to the course benefits rather than a comprehensive exploration of software development practices.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
@@ -1189,12 +1261,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T20:42:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions the Product Owner in the context of helping them be more effective, but the primary focus is on the Scrum Master role and its responsibilities.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:01:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the PSM II course for Scrum Masters, with only brief mentions of the Product Owner role. While it discusses how Scrum Masters can support Product Owners, the main emphasis is on Scrum Master skills and team dynamics rather than the specific responsibilities and practices of a Product Owner. Therefore, while there is some relevant content, it does not meet the criteria for a strong alignment with the Product Owner category.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1243,21 +1318,27 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T20:42:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping teams and the organisation, which aligns with Agile Leadership themes, but it primarily focuses on Scrum practices rather than leadership itself.",
+    "calculated_at": "2025-03-14T23:01:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the PSM II course, which focuses on enhancing Scrum Master skills and team effectiveness. While it mentions empowering teams and fostering a high-performing environment, it primarily centres on technical skills and course benefits rather than explicitly addressing Agile leadership principles. The discussion lacks depth in leadership strategies and does not fully align with the core themes of Agile Leadership.",
     "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T20:42:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:01:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping the team be more effective, which aligns with team motivation, but it primarily focuses on the responsibilities and understanding of Scrum roles rather than directly addressing team motivation strategies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the PSM II course and its benefits for Scrum Masters, with a focus on fostering high-performing teams and empowering team dynamics. It mentions techniques for feedback and continuous improvement, which align with team motivation principles. However, the primary focus is on the course itself rather than a deep exploration of team motivation strategies.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1288,12 +1369,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T20:42:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping teams and organisations be more effective, which relates to value delivery, but it primarily focuses on the responsibilities and understanding of the Scrum Master rather than specific value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:01:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the PSM II course and its benefits for Scrum Masters, touching on aspects like team empowerment and product ownership, which align with value delivery principles. However, it primarily focuses on the course's advantages rather than explicitly addressing value delivery strategies or methodologies. The depth of discussion on value delivery is limited, as it lacks detailed exploration of iterative development or customer value measurement.",
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1324,21 +1408,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T20:42:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:01:35",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses the role of the Scrum Master and its impact on team effectiveness and product management, making Scrum a major theme.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the PSM II course, which is related to Scrum principles and roles, particularly focusing on the Scrum Master and Product Owner. However, it primarily promotes the course rather than delving deeply into Scrum product development practices or methodologies. While it mentions aspects like team empowerment and feedback loops, it lacks detailed discussions on core Scrum processes such as sprint planning or product backlog management.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T20:42:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:01:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping the organisation adopt practices, which relates to organisational change, but the primary focus is on Scrum roles and responsibilities.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the PSM II course, which is centred around Scrum practices rather than organisational change. While it briefly mentions benefits for the organisation and touches on fostering a high-performing team, it lacks a direct discussion on organisational change methodologies or frameworks. The depth of discussion is moderate, but it does not align closely with the core themes of organisational change, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1351,12 +1441,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T20:42:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping the organisation adopt Agile practices, which aligns with Agile Strategy as a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:01:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on the PSM II course, which is centred around Scrum practices rather than a broader Agile strategy. While it mentions the importance of team effectiveness and organizational agility, it lacks a direct discussion on strategic alignment or the integration of Agile principles into organisational vision and planning. The depth of discussion is more about skills and techniques rather than strategic implementation, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1378,11 +1471,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T20:42:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:01:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping the organisation adopt agile practices, which aligns with the theme of organisational agility, but it primarily focuses on Scrum roles and responsibilities.",
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on the PSM II course and its benefits for Scrum Masters, with some references to team and organisational benefits. However, it lacks a direct discussion on organisational agility principles and practices, making it more of a promotional piece rather than an in-depth exploration of agility as a core theme.",
     "level": "Tertiary"
   },
   "Troubleshooting": {

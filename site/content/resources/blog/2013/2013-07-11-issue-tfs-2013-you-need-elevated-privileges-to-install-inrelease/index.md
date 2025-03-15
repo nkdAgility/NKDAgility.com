@@ -30,8 +30,6 @@ tags:
 - Troubleshooting
 - Install and Configuration
 - Windows
-- Practical Techniques and Tooling
-- System Configuration
 categories: []
 preview: puzzle-issue-problem-128-link-3-3.png
 

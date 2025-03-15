@@ -26,12 +26,7 @@ aliasesArchive:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Pragmatic Thinking
-- Miscellaneous
-- People and Process
-- Ability to Innovate
-- Resilience and Change
+tags: []
 resourceTypes:
 - video
 categories: []

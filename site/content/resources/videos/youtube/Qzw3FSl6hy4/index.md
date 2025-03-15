@@ -31,6 +31,14 @@ sitemap:
   priority: 0.6
 tags:
 - People and Process
+- Discovery and Learning
+- Product Discovery
+- Agile Product Management
+- Product Owner
+- Product Strategy
+- Strategy
+- Pragmatic Thinking
+- Strategic Goals
 resourceTypes:
 - video
 categories:

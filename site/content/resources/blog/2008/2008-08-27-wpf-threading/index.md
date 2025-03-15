@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/wpf-threading
 - /wpf-threading
 - /resources/blog/wpf-threading
-tags:
-- Troubleshooting
+tags: []
 categories: []
 preview: metro-binary-vb-128-link-1-1.png
 

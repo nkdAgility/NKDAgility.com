@@ -24,6 +24,9 @@ aliasesArchive:
 - /resources/blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
 tags:
 - Windows
+- Install and Configuration
+- System Configuration
+- Practical Techniques and Tooling
 preview: metro-SSWLogo-128-link-10-10.png
 categories: []
 

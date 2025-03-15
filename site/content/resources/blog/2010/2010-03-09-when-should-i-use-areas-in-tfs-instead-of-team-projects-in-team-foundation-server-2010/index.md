@@ -28,14 +28,8 @@ tags:
 - Software Development
 - Operational Practices
 - Pragmatic Thinking
-- Modern Source Control
-- System Configuration
-- Azure DevOps
-- Agile Frameworks
 preview: metro-visual-studio-2010-128-link-8-8.png
-categories:
-- Engineering Excellence
-- Scrum
+categories: []
 
 ---
 Well, it depends… If you are a small company that creates a finite number of internal projects then you will find it easier to create a single project for each of your products and have TFS do the heavy lifting with reporting, SharePoint sites and Version Control.

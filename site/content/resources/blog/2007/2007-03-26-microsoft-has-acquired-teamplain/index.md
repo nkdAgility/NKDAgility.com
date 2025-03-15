@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/microsoft-has-acquired-teamplain
 - /microsoft-has-acquired-teamplain
 - /resources/blog/microsoft-has-acquired-teamplain
-tags:
-- Products and Books
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

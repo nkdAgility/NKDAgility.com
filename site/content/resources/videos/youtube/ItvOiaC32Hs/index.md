@@ -25,16 +25,16 @@ preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
+- Team Collaboration
+- Agile Project Management
 - Agile Strategy
-- Strategic Goals
-- Agile Product Management
-- Sociotechnical Systems
-- Strategy
-- Agile Leadership
-- People and Process
-- Team Motivation
-- Pragmatic Thinking
+- Organisational Agility
 - Team Performance
+- Software Development
+- Agile Product Management
+- Agile Leadership
+- Agile Planning
+- People and Process
 sitemap:
   filename: sitemap.xml
   priority: 0.6

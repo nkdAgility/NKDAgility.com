@@ -24,10 +24,15 @@ aliasesArchive:
 - /resources/blog/the-fallacy-of-the-rejected-backlog-item
 tags:
 - Scrum Product Development
-- Software Development
 - Agile Project Management
 - Professional Scrum
+- Transparency
+- Increment
 - Empirical Process Control
+- Working Software
+- Software Development
+- Sprint Review
+- Scrum Team
 categories:
 - Scrum
 - Social Technologies

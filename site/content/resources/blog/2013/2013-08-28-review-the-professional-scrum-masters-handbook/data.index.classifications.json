@@ -1,20 +1,26 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of the Scrum Master and critiques the practices described in a Scrum-related book, indicating a focus on Agile principles, but it primarily addresses project management rather than product management specifically.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of Scrum and the responsibilities of the Product Owner, which are relevant to Agile Product Management. However, the focus is more on critiquing the book and its author rather than providing a structured discussion on Agile principles or product management strategies. While there are mentions of Scrum practices and anti-patterns, the depth of discussion on Agile methodologies and their application to product management is limited.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the application of Scrum practices and provides insights into the mechanics of Scrum, which aligns with practical techniques. However, it primarily critiques the book rather than focusing on the exploration of tools or methodologies in a structured manner.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses a specific book related to Scrum, which touches on practical techniques and methodologies. However, the focus is more on the author's critique of the book rather than a detailed exploration of practical tools or techniques. While there are mentions of Scrum practices, the depth of discussion on practical application and tooling is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -100,12 +106,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum and its principles, which indirectly touches on the interplay between organisational structures and technology adoption in software development. However, the primary focus is on the book review rather than a deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on the mechanics of Scrum and critiques the author's understanding of Scrum principles rather than exploring the interplay between technology and organisational structures. While it touches on team dynamics and the role of the Scrum Master, it lacks a comprehensive discussion on how these elements collectively influence software delivery and team effectiveness, which is central to sociotechnical systems.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -238,12 +247,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum methodologies and their implications for project management, which are relevant to product delivery, but the primary focus is on the author's critique of the book rather than a comprehensive discussion on product delivery practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the book 'The Professional Scrum Masters Handbook', which is relevant to product delivery through its focus on Scrum methodologies. It mentions key aspects of Scrum that relate to product delivery, such as roles, responsibilities, and planning. However, the discussion is more critical and anecdotal rather than providing a structured exploration of product delivery methodologies. While it aligns with the category's themes, the depth of practical application and structured discussion is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -277,12 +289,12 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:53",
+    "calculated_at": "2025-03-15T04:51:21",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses a book review related to Scrum practices and the author's opinions on its content, rather than focusing on strategies or methodologies for delivering value to customers.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -295,12 +307,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections and experiences related to the review of a Scrum handbook, but it primarily focuses on critiquing the book's content rather than sharing personal anecdotes or insights about Agile practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a review of a Scrum-related book, discussing the author's insights and personal reactions to its content. While there are personal reflections and anecdotes about the author's experiences with Scrum, the overall emphasis is on critiquing the book rather than sharing personal experiences or insights related to Agile methodologies. The direct mentions of personal feelings and reactions contribute to the score, but the lack of depth in personal experiences and the focus on technical aspects of Scrum limit the alignment with the 'Personal' category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -331,11 +346,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum practices and the transition to agility, which are relevant to organisational agility, but the primary focus is on critiquing a specific book rather than exploring broader strategies or frameworks for organisational agility.",
+    "final_score": 58.0,
+    "reasoning": "The content primarily critiques a specific Scrum handbook, focusing on its mechanical aspects rather than discussing broader organisational agility principles. While it touches on the transition to Scrum and mentions the need for a new way of thinking, it lacks a comprehensive exploration of agility as a cultural and structural shift within organisations. The discussion is more about the book's content and its applicability to project managers rather than a deep dive into organisational agility strategies or frameworks.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -451,20 +469,26 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of Scrum and the role of the Product Owner, which are related to the Product Backlog, but the primary focus is on the review of a book and its implications for Project Managers rather than a detailed discussion on backlog management.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses various aspects of Scrum and the role of the Product Owner, including some mentions of the backlog. However, the primary focus is on critiquing the book and its interpretation of Scrum principles rather than providing a detailed exploration of the Product Backlog itself. The discussion lacks depth on backlog management techniques and best practices, which are crucial for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the role of the Scrum Master, which are relevant to Agile Planning, but it primarily critiques a specific book rather than focusing on Agile Planning methodologies and practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the book 'The Professional Scrum Masters Handbook' and critiques its approach to Scrum, which is a framework within Agile Planning. While it mentions some Agile concepts and practices, the focus is more on the author's personal opinions and critiques rather than a structured discussion on Agile Planning principles. The content lacks depth in exploring Agile methodologies and does not provide substantial insights into planning techniques or strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Value Stream Mapping": {
@@ -487,12 +511,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum practices and offers insights into operational challenges and anti-patterns, making it a major but secondary theme. However, it primarily focuses on the author's critique of the book rather than providing clear operational strategies or techniques.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily critiques a book on Scrum practices, which indirectly relates to operational practices in Agile. However, it lacks a focused discussion on techniques or strategies for enhancing operational efficiency. While it mentions some anti-patterns and misconceptions in Scrum, the overall emphasis is more on personal opinion and critique rather than actionable operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -508,21 +535,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the principles and value of Scrum, highlighting the importance of understanding Agile philosophy, but primarily focuses on critiques of specific practices within the Scrum framework.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the mechanics and practices of Scrum rather than the underlying Agile philosophy. While it touches on some principles, such as the importance of understanding roles and the need for a shift in mindset, the focus remains on specific practices and critiques of the book rather than a broader discussion of Agile values and principles.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of Scrum and its principles, which are related to strategic approaches in Agile environments, but it primarily focuses on the review of a specific book rather than a comprehensive discussion on strategy.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content primarily focuses on a review of a Scrum-related book, discussing its merits and shortcomings. While it touches on some strategic concepts related to Scrum, such as the role of the Scrum Master and the importance of understanding Scrum principles, the overall emphasis is more on the mechanics of Scrum rather than a strategic approach to Agile or Scrum frameworks. The discussion lacks depth in strategic alignment and does not provide a comprehensive exploration of strategic techniques or practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -535,11 +568,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to Scrum and the role of Project Managers in Agile practices, making Agile transformation a significant theme, though it primarily critiques a specific book.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the book 'The Professional Scrum Masters Handbook' and critiques its approach to Scrum, which is a key framework in Agile transformation. While it mentions Scrum principles and practices, the focus is more on the book's content rather than a broader discussion on Agile transformation strategies or methodologies. The critique of the author's understanding of Scrum indicates some alignment with Agile principles, but the depth of discussion is limited to the book's mechanics rather than a comprehensive exploration of Agile transformation as a whole.",
     "level": "Tertiary"
   },
   "Mentoring": {
@@ -562,12 +598,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum and its practices, which are relevant to team performance, but the primary focus is on critiquing the book rather than directly addressing team dynamics or performance strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily critiques a book on Scrum practices, highlighting misconceptions and anti-patterns. While it touches on Scrum roles and methodologies, the focus is more on the author's interpretation and critique rather than on strategies for enhancing team performance or collaboration. The discussion lacks depth in exploring team dynamics or effective practices, which are central to the 'Team Performance' category.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -613,21 +652,27 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the principles of Scrum and critiques the understanding of Agile values, making Agile a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily critiques a specific Scrum handbook, focusing on its mechanical aspects rather than the underlying Agile values and principles. While it touches on some Agile concepts, such as the role of the Scrum Master and the importance of understanding Agile principles, the discussion is largely centred on the author's opinions about the book's content and its practical implications. The Agile values and principles are not the main focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Professional Scrum Masters Handbook and critiques its alignment with Scrum principles, making Scrum a major theme, but it also includes personal opinions and experiences that detract from a purely professional exploration.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a review of 'The Professional Scrum Masters Handbook', which includes critiques and insights related to Scrum principles and practices. While it mentions specific Scrum roles and concepts, the focus is more on the author's personal opinions and experiences rather than a structured exploration of Scrum as a framework. The depth of discussion on Scrum principles is moderate, but the overall tone leans towards critique rather than a professional exploration of Scrum, which affects the confidence score.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -640,12 +685,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the principles of Scrum and critiques the author's understanding of these principles, which relates to empirical process control, but it is primarily focused on the book review rather than a deep exploration of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the book 'The Professional Scrum Masters Handbook' and critiques its understanding of Scrum principles, which are related to empirical process control. However, the focus is more on the author's opinions and critiques rather than a thorough exploration of empirical process control itself. While there are mentions of Scrum practices and some alignment with Agile principles, the depth of discussion on empirical process control is limited, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -676,12 +724,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition to Scrum and the challenges faced by Project Managers, which relates to organisational change, but the primary focus is on the mechanics of Scrum rather than broader change management strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a book on Scrum and its mechanics, which is more focused on project management practices rather than organisational change. While there are mentions of transitioning to Scrum and some implications for organisational structure, the discussion lacks a direct focus on the principles and methodologies of organisational change as defined in the category. The depth of discussion on organisational change is minimal, primarily touching on the mechanics of Scrum rather than the broader strategies for enhancing agility and resilience within an organisation.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -823,12 +874,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Scrum framework and its principles, particularly in relation to the role of the Scrum Master and common misconceptions, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the book 'The Professional Scrum Masters Handbook' and critiques its interpretation of Scrum principles. While it mentions Scrum roles and practices, the focus is more on the author's perspective and critique rather than a structured discussion on Scrum product development. The content does not provide in-depth insights into Scrum methodologies or product development processes, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -877,21 +931,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and principles, which are related to the delivery of functional software, but it primarily focuses on the review of a book rather than directly addressing working software itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses a book review related to Scrum practices and the role of a Scrum Master, which indirectly touches on the concept of working software. However, it lacks a direct focus on the delivery of functional software or customer value, making it more of a critique of Scrum principles rather than a discussion on working software itself.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and practices, which are related to Agile methodologies, but it primarily focuses on the book review rather than specific Agile planning tools.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses a book on Scrum and its principles, with some critiques of the author's understanding of Scrum practices. While it touches on topics relevant to Agile methodologies, such as release planning and backlog management, it does not focus specifically on Agile Planning Tools or their functionalities. The discussion is more about the Scrum framework and its application rather than the tools that facilitate Agile planning.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -913,12 +973,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters and Project Managers in the context of Scrum, which relates to Agile leadership, but the primary focus is on the mechanics of Scrum rather than leadership practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily critiques a book on Scrum practices rather than focusing on Agile leadership principles. While it touches on the role of Scrum Masters and project managers, it lacks a comprehensive discussion on leadership strategies, team empowerment, or fostering a culture of trust and collaboration, which are central to Agile leadership. The critique is more about technical practices than leadership roles, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -967,20 +1030,26 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of release planning within the context of Scrum, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the Scrum framework and its principles, with some references to release planning. However, it lacks a focused discussion on release management as a whole, and the mention of release planning is not explored in depth. The content is more about the critique of Scrum practices rather than a comprehensive examination of release management strategies and processes.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:23",
+    "ai_confidence": 45.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of the Product Owner in relation to Scrum practices, particularly in contrast to the Scrum Master role, but it primarily focuses on the Scrum Master's perspective and the book's critique rather than the Product Owner's responsibilities.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master and critiques a book focused on Scrum practices, with only brief mentions of the Product Owner's responsibilities. While it touches on some relevant aspects, such as the Product Owner's role in reporting and backlog ownership, the overall focus is not on the Product Owner's responsibilities or practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Cycle Time": {
@@ -1012,21 +1081,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition of Project Managers to Scrum, which relates to change management, but the primary focus is on the book's critique rather than on change management strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the review of a Scrum handbook, discussing its mechanics and principles rather than directly addressing change management strategies or practices. While it briefly mentions the transition to Scrum and the challenges faced by Project Managers, it lacks a comprehensive exploration of change management concepts such as stakeholder engagement, leadership roles, or measuring impact. The discussion is more centred on Scrum practices than on the broader themes of effective change management in Agile environments.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum and its practices, which are relevant to team collaboration, but the primary focus is on the author's critique of the book rather than on enhancing team dynamics or collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on a review of a Scrum-related book, discussing its mechanics and the author's understanding of Scrum principles. While it touches on aspects of team dynamics and the role of the Scrum Master, it lacks a direct focus on enhancing team collaboration or communication. The discussion is more critical of the book's content than it is about fostering collaboration within teams, which is a key aspect of the category. Therefore, while there are relevant mentions, the overall alignment and depth of discussion do not strongly support the category.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1084,12 +1159,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters and the principles of Scrum, which are relevant to technical leadership, but the primary focus is on reviewing a book rather than providing a clear discussion on technical leadership itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on a review of a book about Scrum, which includes some critiques and insights related to Scrum practices. While it touches on aspects of technical leadership, such as the role of the Scrum Master and the importance of understanding Scrum principles, the discussion lacks depth in exploring broader technical leadership themes. The review is more about the author's personal experience and opinions rather than providing structured guidance or strategies for leading development teams effectively.",
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1165,12 +1243,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to Scrum and the learning process involved for Project Managers, but it primarily critiques the book rather than focusing on continuous learning principles or practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily critiques a specific book on Scrum, focusing on its mechanics rather than discussing principles of Continuous Learning. While it touches on the importance of understanding Scrum practices, it lacks a strong emphasis on growth mindset, knowledge sharing, or continuous improvement, which are central to the Continuous Learning category.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1222,11 +1303,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and their implications for Project Managers, which is relevant to software development methodologies, but the primary focus is on project management rather than the role of software developers.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Scrum Masters and their relationship to Agile practices, which is relevant to software developers. However, the focus is more on project management and the author's critique of the book rather than on software development practices themselves. While it touches on Agile principles, it lacks depth in discussing how developers can leverage these methodologies directly.",
     "level": "Tertiary"
   },
   "Coaching": {
@@ -1267,7 +1351,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:55:40",
+    "calculated_at": "2025-03-15T04:51:21",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1275,7 +1359,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily discusses a book review related to Scrum and its mechanics, which is more focused on project management rather than the strategic aspects of product management. While it touches on some relevant points, such as the role of the Product Owner, the overall emphasis is on the practical application of Scrum rather than the strategic alignment of customer needs and business objectives. The discussion lacks depth in product management methodologies and frameworks, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1300,12 +1384,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:51:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum and its principles, which are relevant to Agile methodologies, but it primarily focuses on the review of a specific book rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on a review of a specific Scrum handbook, discussing its mechanics and the author's interpretation of Scrum principles. While it touches on some Agile concepts, such as the role of the Scrum Master and the importance of understanding Agile principles, it lacks a comprehensive discussion on Agile strategy as defined in the category. The review is more about the book's content and its applicability for Project Managers rather than a strategic alignment or implementation of Agile methodologies at an organisational level.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",

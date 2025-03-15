@@ -145,7 +145,7 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-03-10T14:08:04",
+    "calculated_at": "2025-03-14T20:59:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -153,7 +153,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of knowledge for Agile coaches, touching on the need for understanding processes and tools. However, it primarily focuses on static knowledge transfer rather than promoting a growth mindset or continuous improvement practices. While there are mentions of learning about Scrum and Kanban, the discussion lacks depth in exploring how this knowledge contributes to team dynamics or a culture of experimentation, which are key aspects of Continuous Learning.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -184,12 +184,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses knowledge important for an Agile coach, including Scrum, Kanban, and Lean practices. While related to operational practices, the primary focus seems to be on the knowledge and expertise required rather than operational efficiencies themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:18:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile coaching and the importance of understanding frameworks like Scrum, Kanban, and Lean, which are relevant to operational practices. However, it primarily focuses on the knowledge and principles behind these methodologies rather than specific operational techniques or strategies aimed at enhancing efficiency. While there are mentions of improving delivery and eliminating waste, the depth of practical application in terms of operational practices is limited.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -268,12 +271,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile coaching, Scrum, and Kanban, making Agile a major but secondary theme, with a focus on tools and techniques rather than deep exploration of Agile Project Management principles.",
-    "level": "Tertiary"
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses Agile coaching, focusing on frameworks like Scrum and Kanban, and emphasises the importance of understanding Agile principles. It provides detailed insights into the roles and practices within Agile methodologies, aligning well with the core themes of Agile Project Management. The depth of discussion on practical recommendations and continuous learning further supports its relevance to the category.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -304,11 +310,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content touches on the knowledge needed for Agile coaching, specifically mentioning Scrum and Lean Kanban, which are related to Agile frameworks. However, the focus is more on the tools and practices rather than strategic alignment or development of strategic approaches.",
+    "calculated_at": "2025-03-13T15:32:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of knowledge in Agile coaching, touching on frameworks like Scrum, Kanban, and Lean, which are relevant to strategic alignment and optimisation in Agile environments. However, while it mentions strategic concepts, the primary focus is on coaching and knowledge rather than a direct discussion of strategy itself. The depth of discussion on strategic alignment and execution is moderate, leading to a confidence score that reflects a significant but not primary focus on the Strategy category.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -331,12 +340,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the knowledge and understanding required for Agile coaching, indicating its relevance to the coaching theme, but primarily focuses on processes and practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:59:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the knowledge and skills necessary for effective Agile coaching, which aligns well with the coaching category. It discusses the importance of understanding frameworks, principles, and technical expertise, which are crucial for a coach's role. However, while it mentions coaching explicitly, the depth of discussion on specific coaching techniques and the collaborative nature of coaching is somewhat limited, leading to a high but not perfect confidence score.",
+    "level": "Secondary"
   },
   "Scaling Kanban": {
     "category": "Scaling Kanban",
@@ -358,11 +370,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content briefly mentions Lean and discusses it as part of the broader topic of Agile coaching but the primary focus is on Agile, Scrum, and coaching practices rather than Lean principles specifically.",
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions Lean principles as part of a broader discussion on Agile coaching. While it acknowledges the importance of Lean in eliminating waste and delivering value, the primary focus is on Agile methodologies and coaching practices rather than an in-depth exploration of Lean principles themselves.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -421,12 +436,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an Agile coach, which is related to mentoring, but primarily focuses on the need for knowledge and technical expertise rather than direct mentoring techniques or relationship dynamics.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the role of an Agile coach, discussing the importance of knowledge and understanding in mentoring teams. It aligns well with the core themes of mentoring in Agile, such as supporting team members' professional growth and fostering a culture of continuous learning. However, while it touches on mentoring aspects, it leans heavily towards technical knowledge and frameworks, which slightly detracts from its alignment with the mentoring category.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -448,7 +466,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T10:02:28",
+    "calculated_at": "2025-03-14T20:59:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -456,7 +474,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the role of an Agile coach and the importance of understanding Agile methodologies, which indirectly relates to team collaboration. However, it lacks direct mentions of team dynamics, communication techniques, or shared ownership, which are crucial for a higher confidence score in this category. The focus is more on individual knowledge and expertise rather than on collaborative practices within teams.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -598,12 +616,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the need for knowledge of Agile processes, practices, and tools, mentioning Scrum and Kanban as important methodologies, but does not primarily focus on practical techniques or specific tools.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile coaching and the importance of understanding frameworks like Scrum and Kanban, which aligns with the category's focus on practical techniques. However, it primarily emphasises the philosophical aspects of Agile and the importance of knowledge rather than specific tools or methodologies. While there are practical recommendations, the depth of discussion on tooling and methodologies is not extensive enough to fully meet the category's criteria.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -616,7 +637,7 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-03-10T11:54:22",
+    "calculated_at": "2025-03-14T20:59:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -624,7 +645,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions Scrum as part of a broader discussion on Agile coaching, but it lacks a focused exploration of the Scrum Master role specifically. While there is some alignment with the themes of coaching and understanding Agile principles, the depth of discussion on Scrum Master responsibilities and practices is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -637,11 +658,14 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the knowledge and tools necessary for Agile coaching and briefly mentions methodologies like Scrum, Kanban, and Lean, making it a significant but secondary theme.",
+    "calculated_at": "2025-03-13T16:40:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile coaching and the importance of knowledge in Agile methodologies, but it does not explicitly review or analyse specific products or books. While it touches on frameworks like Scrum and Kanban, it lacks detailed discussions on specific literature or tools that would enhance understanding of Agile principles. The focus is more on personal insights and general advice rather than a critical evaluation of products or books.",
     "level": "Tertiary"
   },
   "Sprint Review": {
@@ -673,11 +697,14 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:13",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "Content mentions Lean in the context of Agile coaching, suggesting a relationship, but primarily focuses on Agile and Scrum practices.",
+    "final_score": 54.0,
+    "reasoning": "The content briefly mentions Lean principles in the context of Agile coaching, indicating some awareness of Lean concepts. However, the primary focus is on Agile methodologies, particularly Scrum and Kanban, with Lean being a secondary mention. The discussion lacks depth regarding Lean-specific strategies or methodologies, which diminishes its alignment with the Lean category.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
@@ -784,12 +811,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Scrum and Agile principles but is primarily focused on the role of an Agile coach and their need for knowledge rather than a direct discussion on Agile Product Management specifically.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile coaching and the importance of knowledge in Agile methodologies, touching on frameworks like Scrum and Lean. However, it primarily focuses on coaching rather than product management specifically. While it aligns with Agile principles, it lacks a direct focus on product management topics such as backlog prioritisation or stakeholder engagement.",
+    "level": "Secondary"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -991,11 +1021,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses Agile concepts which are related to product delivery, the primary focus is on the role and knowledge of an Agile coach rather than the specific methodologies and practices of delivering software products.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile coaching and methodologies, which are relevant to product delivery. It mentions frameworks like Scrum and Kanban, and highlights the importance of understanding principles and practices that drive effective delivery. However, the focus is more on coaching and knowledge rather than the end-to-end product delivery process itself, which slightly reduces the confidence score.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -1009,20 +1042,26 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:10:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses Agile coaching, it primarily focuses on specific practices and tools like Scrum and Kanban, which dilutes the emphasis on the Agile Philosophy.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of understanding Agile principles and the mindset required for effective coaching, which aligns well with the Agile Philosophy. However, it also heavily focuses on specific frameworks like Scrum and Kanban, which detracts from its primary focus on the broader philosophy. The depth of discussion on principles over processes and the emphasis on continuous learning contribute positively to the score.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T20:59:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "Content discusses Agile methodologies, including Scrum and Kanban, which are integral to software development practices. However, it primarily focuses on coaching aspects rather than the technical processes and practices of software development.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily focuses on Agile coaching, which is a key aspect of software development methodologies. It discusses specific frameworks like Scrum and Kanban, aligning well with the core themes of the Software Development category. The depth of discussion is substantial, providing insights into the principles and practices that underpin Agile methodologies, as well as practical recommendations for coaches. Overall, the content is highly relevant to software development, particularly in the context of Agile practices.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -1045,7 +1084,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-11T11:25:29",
+    "calculated_at": "2025-03-14T20:59:06",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1053,7 +1092,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the knowledge required for an Agile coach, touching on Scrum and Kanban, which are relevant to team performance. However, it lacks a direct focus on team dynamics, collaboration, or specific strategies for enhancing team performance. The discussion is more about the coach's role and knowledge rather than the performance of the team itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1102,12 +1141,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "While the content discusses the importance of understanding Agile principles, it primarily focuses on Agile frameworks like Scrum and Kanban, making them the central topic.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of understanding Agile principles, which aligns with the category's focus on foundational beliefs. However, it also heavily references specific frameworks like Scrum and Kanban, which detracts from its primary focus on Agile values. The depth of discussion on principles is good, but the emphasis on frameworks limits the overall alignment with the category.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1141,21 +1183,27 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and practices which are relevant to market adaptability but focuses primarily on the role of an Agile coach and the knowledge required rather than on market adaptability strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Agile coaching and the importance of understanding Agile principles and frameworks, which indirectly relates to market adaptability. However, it lacks a direct focus on strategies for responding to market shifts or competitive pressures. While it mentions Lean principles and the need for continuous learning, it does not provide specific techniques or case studies that demonstrate market adaptability. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Agile coaching and includes mentions of Scrum and Kanban, which are related to Agile Planning but is not focused primarily on the planning aspects.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Agile coaching and the importance of understanding Agile principles and frameworks, which aligns with Agile Planning. However, it primarily focuses on coaching rather than specific planning methodologies or practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -1177,11 +1225,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban and Lean Kanban methods, indicating a connection to Lean Thinking, but it primarily focuses on Agile coaching and practices.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions Lean principles in the context of Agile coaching, indicating some awareness of Lean Thinking. However, the primary focus is on Agile methodologies and coaching rather than a deep exploration of Lean principles. The discussion lacks detailed analysis or application of Lean concepts, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -1204,11 +1255,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content focuses significantly on Agile coaching and relevant frameworks like Scrum, Kanban, and Lean, highlighting their importance and practical applications. However, it also includes general knowledge and tools beyond just the frameworks, making Agile frameworks a major but secondary theme.",
+    "calculated_at": "2025-03-14T20:59:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses various Agile frameworks such as Scrum, Kanban, and Lean, highlighting their strengths and weaknesses. It aligns well with the core themes of the category by emphasising the importance of understanding these frameworks and their underlying principles. The depth of discussion is significant, as it provides practical recommendations for Agile coaches to enhance their knowledge and effectiveness in applying these frameworks. Overall, the content is focused on Agile frameworks and their application in coaching, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Frequent Releases": {
@@ -1297,21 +1351,27 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for knowledge in Scrum and mentions it as a part of Agile coaching, but it also covers other methodologies like Kanban and Lean, making Scrum a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:59:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Scrum as part of a broader exploration of Agile coaching, mentioning Scrum roles, events, and artifacts. However, it does not delve deeply into Scrum principles or practices, making it a secondary focus rather than a primary one.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile coaching and the need for knowledge about Agile practices like Scrum and Kanban, making Agile transformation a significant theme, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the role of knowledge in Agile coaching, which is a crucial aspect of Agile transformation. It discusses various frameworks like Scrum, Kanban, and Lean, aligning well with the principles and methodologies of Agile. The depth of discussion is significant, providing practical recommendations for coaches to enhance their effectiveness, which supports the cultural shift towards Agile practices. Overall, the content is highly relevant to Agile transformation, though it could benefit from more explicit discussions on change management and leadership roles.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -1351,21 +1411,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:57:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the knowledge and skills needed for Agile coaching, particularly in relation to Scrum and Kanban methodologies, making it a major but secondary theme related to organisational agility.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of knowledge in Agile coaching, which aligns with the principles of organisational agility. It emphasises understanding Agile frameworks and principles, which are crucial for fostering adaptability. However, while it touches on the role of knowledge in enhancing team dynamics and responsiveness, it does not delve deeply into specific strategies or cultural shifts that directly enhance organisational agility. The focus is more on coaching practices rather than broader organisational strategies.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:59:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile coaching, including knowledge of Agile methodologies like Scrum and Kanban, which are relevant to business agility, but it does not primarily focus on broader business agility principles or practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on Agile coaching and methodologies, such as Scrum and Lean, rather than directly addressing the broader principles of business agility. While it touches on the importance of understanding Agile principles and adapting practices, it lacks a comprehensive discussion on how these elements contribute to organisational agility in a dynamic market. The depth of discussion is more centred on coaching techniques and frameworks rather than the strategic aspects of business agility.",
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",

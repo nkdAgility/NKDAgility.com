@@ -109,7 +109,7 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-03-11T16:06:49",
+    "calculated_at": "2025-03-14T17:18:55",
     "ai_confidence": 42.0,
     "ai_mentions": 3,
     "ai_alignment": 35.0,
@@ -117,25 +117,31 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses data migration, which is related to system configuration, particularly in terms of planning and minimising downtime. However, it primarily focuses on the migration process rather than the technical aspects of configuring systems. While there are mentions of planning and tools, the depth of discussion on configuration management and optimisation strategies is limited, leading to a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of data migration to the cloud and the implications for software engineers, which relates to digital transformation. However, the primary focus is on the technical details of migration and downtime rather than a strategic discussion on digital transformation initiatives.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses data migration and strategies to minimise downtime, which are relevant to operational efficiency and the use of digital tools. However, it lacks a direct focus on broader digital transformation strategies or the integration of digital technologies into business processes. While it touches on planning and the use of tools like Git, it does not delve deeply into the strategic implications of digital transformation or its impact on organisational culture.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of software migration and the impact of downtime on software engineers, which relates to the operational functionality of software. However, it primarily focuses on migration processes rather than the delivery of working software itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T17:18:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses data migration and its impact on software engineers' productivity, which indirectly relates to working software. However, it lacks explicit discussions on the characteristics of working software, Agile principles, or best practices for ensuring software quality. The focus is more on operational challenges rather than the delivery of functional software that meets user needs.",
+    "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -193,12 +199,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:19:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Azure DevOps and Git as a source control system, but the primary focus is on migration and downtime rather than Azure Repos functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses data migration and mentions Azure DevOps and Git, but it primarily focuses on minimising downtime during migrations rather than exploring Azure Repos functionalities or best practices. While there are references to source control, they are not the main focus of the discussion, leading to a low confidence score in alignment with the Azure Repos category.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -283,7 +292,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T17:50:41",
+    "calculated_at": "2025-03-14T17:18:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -291,7 +300,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the impact of downtime on engineers' ability to collaborate during a data migration, which touches on team dynamics and communication. However, it primarily focuses on technical aspects of data migration rather than exploring techniques for improving team collaboration or fostering a culture of trust. While there are mentions of collaboration challenges, they are not the primary focus of the discussion, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -322,7 +331,7 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-03-11T13:07:41",
+    "calculated_at": "2025-03-14T17:18:55",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -330,7 +339,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses data migration and the importance of planning and dry runs, which are relevant to engineering practices. However, it primarily focuses on operational aspects rather than core Agile engineering principles like clean code, TDD, or CI/CD. While TDD is briefly mentioned, it lacks depth and does not explore the broader implications of Agile methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -355,7 +364,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:43:04",
+    "calculated_at": "2025-03-14T17:18:55",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -363,7 +372,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses data migration and minimising downtime, which touches on aspects of engineering practices, such as planning and execution. However, it lacks a direct focus on broader engineering excellence principles like coding standards, quality assurance, or CI/CD practices. While it mentions the importance of dry runs and planning, it does not delve deeply into the continuous improvement of engineering processes or the quality of deliverables, which are core themes of the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -514,11 +523,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:07:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses strategies for minimising downtime during a data migration, which relates to troubleshooting issues that arise in such scenarios. However, the primary focus is on migration logistics rather than direct troubleshooting techniques.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses strategies for minimising downtime during data migration, which indirectly relates to troubleshooting by addressing potential issues that may arise during the process. However, it primarily focuses on planning and preparation rather than the direct identification and resolution of technical problems, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -616,12 +628,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of migration and downtime management, which are relevant to Continuous Delivery principles, particularly in the context of maintaining a production-ready state and minimising downtime during deployments. However, the primary focus is on migration processes rather than Continuous Delivery itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on data migration and minimising downtime, which are not core principles of Continuous Delivery. While it briefly touches on aspects of planning and preparation that could relate to deployment processes, it lacks explicit discussions on Continuous Delivery practices, automation, or maintaining a production-ready state. The mention of Git as a source control system is relevant but does not sufficiently align with the broader themes of Continuous Delivery. Overall, the content does not provide a detailed exploration of Continuous Delivery principles.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -898,11 +913,14 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T14:46:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of migration and downtime management, which are relevant to deployment strategies, but it primarily focuses on the migration process rather than specific deployment methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses data migration and strategies to minimise downtime, which aligns with deployment strategies. However, it primarily focuses on the planning and execution of data migration rather than specific deployment methodologies like Blue-Green Deployments or Canary Releases. While it touches on relevant themes, the depth of discussion on deployment strategies is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scrum Team": {
@@ -997,12 +1015,15 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the ability of engineers to work and collaborate even when systems are down, which touches on asynchronous collaboration principles. However, the primary focus is on migration processes and downtime management rather than a comprehensive exploration of asynchronous development.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses data migration and the management of downtime, with a focus on how engineers can continue working during such periods. While it touches on aspects of asynchronous collaboration, such as using Git for offline work, it does not delve into the principles or practices of asynchronous development as a primary focus. The discussion is more about managing downtime rather than exploring asynchronous development methodologies or team dynamics.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1069,21 +1090,27 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses strategies for minimising downtime during a data migration, which relates to organisational resilience. However, the primary focus is on technical aspects of migration rather than broader themes of resilience and change management.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses strategies for minimising downtime during data migration, which touches on aspects of organisational resilience. However, it primarily focuses on technical implementations and specific practices rather than broader organisational change management or resilience frameworks. The mention of planning and communication hints at adaptability but lacks depth in discussing cultural or leadership aspects of change.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of data migration and downtime management, which are related to installation and configuration processes, but the primary focus is on the migration experience rather than detailed installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses data migration, which is closely related to installation and configuration processes, particularly in the context of setting up systems like Azure DevOps. It provides insights into planning and executing a migration with minimal downtime, which aligns with the category's focus on actionable instructions. However, while it touches on relevant tools and practices, it lacks detailed step-by-step installation or configuration procedures, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -1339,12 +1366,15 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:03:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T17:18:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of application migration and downtime management, which are relevant to the application lifecycle, but the primary focus is on the migration process rather than a comprehensive discussion of Application Lifecycle Management principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on data migration strategies and minimising downtime, which are tangentially related to the application lifecycle but do not explicitly discuss the stages or practices of Application Lifecycle Management. While it touches on planning and tools, it lacks a comprehensive exploration of ALM principles.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1438,7 +1468,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T10:40:56",
+    "calculated_at": "2025-03-14T17:18:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1446,6 +1476,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses data migration and the challenges associated with downtime during such processes. While it touches on collaboration among engineers, it does not explicitly mention Scrum principles, roles, events, or artifacts. The focus is on technical aspects of data management rather than Scrum practices, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

@@ -298,7 +298,7 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-03-10T14:38:57",
+    "calculated_at": "2025-03-15T03:42:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -306,7 +306,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the importance of perspective and connection in a team context, which aligns with coaching principles. However, it lacks explicit discussions on coaching techniques, team dynamics, or the role of a coach, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -607,7 +607,7 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-03-07T14:31:55",
+    "calculated_at": "2025-03-15T03:42:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -615,7 +615,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly touches on the importance of individual perspectives and team dynamics, particularly through the mention of Martin's unique perspective and connection with builders. However, it lacks explicit discussions on structured methodologies or detailed exploration of team collaboration, leadership, or process improvement, which are central to the 'People and Process' category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1396,7 +1396,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:33:37",
+    "calculated_at": "2025-03-15T03:42:45",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
     "ai_alignment": 10.0,
@@ -1404,6 +1404,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. While it discusses themes of collaboration and innovation, which are relevant to Agile methodologies, it lacks a direct focus on Scrum. The discussion is vague and does not provide sufficient detail or alignment with Scrum concepts, resulting in a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

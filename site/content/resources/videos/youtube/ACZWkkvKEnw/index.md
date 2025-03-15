@@ -34,7 +34,6 @@ sitemap:
   priority: 0.6
 tags:
 - Systems Thinking
-- Organisational Physics
 resourceTypes:
 - video
 categories: []

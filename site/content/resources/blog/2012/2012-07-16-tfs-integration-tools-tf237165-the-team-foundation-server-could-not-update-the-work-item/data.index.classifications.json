@@ -214,7 +214,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-11T11:59:05",
+    "calculated_at": "2025-03-15T05:51:30",
     "ai_confidence": 45.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -222,7 +222,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content discusses a specific technical issue related to TFS Integration Tools and provides a workaround for a configuration error. While it touches on technical aspects, such as mapping and validation errors, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is primarily on troubleshooting rather than on principles of technical excellence like TDD, CI/CD, or modular architecture.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -382,12 +382,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:51:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses issues related to software integration and configuration errors in Team Foundation Server (TFS), which ties into technical practices. However, the primary focus is on a specific error rather than broader principles of software craftsmanship or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS Integration Tools and provides a workaround for a configuration error. While it touches on aspects of software craftsmanship, such as debugging and error handling, it lacks a broader discussion on best practices, principles, or methodologies that define technical mastery. The focus is primarily on a specific problem rather than a comprehensive exploration of software engineering excellence.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -655,7 +658,7 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-03-11T18:05:31",
+    "calculated_at": "2025-03-15T05:51:30",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -663,7 +666,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses a specific error related to updating work items in Team Foundation Server (TFS), which is related to Azure Boards. However, it does not provide a comprehensive overview of Azure Boards' functionalities or best practices. The focus is primarily on a technical issue rather than the broader context of Agile project management or the features of Azure Boards.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",

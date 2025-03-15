@@ -32,12 +32,7 @@ aliasesArchive:
 - /resources/blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 preview: nakedalm-logo-128-link-1-1.png
 categories: []
-tags:
-- System Configuration
-- Practical Techniques and Tooling
-- Install and Configuration
-- Software Development
-- Troubleshooting
+tags: []
 
 ---
 I can see that this project is going to be fun. I need to deploy team system within the investment bank that I work for. The DBA's will not let me access their servers! And the TFS installation needs to be run on them.

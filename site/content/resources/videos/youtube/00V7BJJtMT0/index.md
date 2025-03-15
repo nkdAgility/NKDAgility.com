@@ -27,11 +27,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Value Delivery
+- Product Delivery
 - Software Developers
 - Software Development
-- People and Process
-- Organisational Agility
-- Pragmatic Thinking
+- Agile Philosophy
 resourceTypes:
 - video
 layout: video

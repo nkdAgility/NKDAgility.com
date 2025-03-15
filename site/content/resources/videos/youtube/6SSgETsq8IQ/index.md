@@ -25,6 +25,15 @@ duration: 137
 isShort: false
 tags:
 - Agile Product Management
+- Agile Project Management
+- Product Owner
+- Scrum Product Development
+- Professional Scrum
+- People and Process
+- Products and Books
+- Continuous Learning
+- Agile Product Operating Model
+- Agile Transformation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

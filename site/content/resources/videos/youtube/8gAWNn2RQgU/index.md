@@ -31,9 +31,10 @@ sitemap:
   priority: 0.6
 tags:
 - Agile Transformation
+- Pragmatic Thinking
+- Software Development
 - Technical Leadership
-- People and Process
-- Agile Values and Principles
+- Agile Leadership
 resourceTypes:
 - video
 categories:

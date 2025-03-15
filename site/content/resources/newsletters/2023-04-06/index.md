@@ -5,7 +5,7 @@ ResourceId: WAc9JUyPY5M
 ResourceImport: true
 ResourceType: newsletters
 date: 2023-04-06
-weight: 775
+weight: 700
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
@@ -21,16 +21,16 @@ categories:
 - Scrum
 - Social Technologies
 tags:
-- Pragmatic Thinking
-- Agile Product Management
-- Professional Scrum
-- Scrum Product Development
+- Software Development
 - Agile Frameworks
+- Pragmatic Thinking
+- Professional Scrum
 - Agile Project Management
+- Agile Product Management
+- Scrum Product Development
+- Empirical Process Control
 - Agile Transformation
-- Events and Presentations
-- People and Process
-- Transparency and Accountability
+- Practical Techniques and Tooling
 
 ---
 Learning about scrum is important, but growing your capability to deploy and implement scrum effectively is way more important.

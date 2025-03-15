@@ -26,13 +26,12 @@ duration: 36
 isShort: true
 tags:
 - Evidence Based Leadership
-- Metrics and Learning
-- Evidence Based Management
 - Decision Making
 - Pragmatic Thinking
-- Products and Books
-- Value Delivery
-- Agile Product Management
+- Metrics and Learning
+- Evidence Based Management
+- Ability to Innovate
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6

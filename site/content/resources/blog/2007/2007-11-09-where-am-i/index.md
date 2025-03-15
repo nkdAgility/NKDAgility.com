@@ -28,7 +28,6 @@ aliasesArchive:
 - /resources/blog/where-am-i
 tags:
 - Windows
-- Software Development
 categories: []
 preview: metro-merilllynch-128-link-5-1.png
 

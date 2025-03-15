@@ -28,6 +28,8 @@ isShort: false
 tags:
 - Windows
 - Install and Configuration
+- System Configuration
+- Troubleshooting
 sitemap:
   filename: sitemap.xml
   priority: 0.6

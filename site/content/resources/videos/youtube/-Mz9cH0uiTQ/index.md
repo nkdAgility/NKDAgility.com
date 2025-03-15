@@ -24,16 +24,10 @@ preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
 isShort: false
 tags:
-- People and Process
-- Agile Philosophy
-- Value Delivery
 - Pragmatic Thinking
-- Product Discovery
-- Agile Strategy
-- Business Agility
-- Organisational Agility
-- Personal
-- Agile Leadership
+- People and Process
+- Value Delivery
+- Agile Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.6

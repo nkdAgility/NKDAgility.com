@@ -55,7 +55,7 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-06T15:08:35",
+    "calculated_at": "2025-03-14T21:41:52",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -63,7 +63,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly references systems thinking and the shift from individual to systemic focus, which aligns with complexity thinking. However, it lacks explicit discussion of complexity science principles, frameworks, or detailed exploration of non-linear dynamics and emergent behaviours. The mention of systems problems hints at complexity but does not delve deeply into the nuances of complexity theory.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -286,7 +286,7 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-03-11T14:32:37",
+    "calculated_at": "2025-03-14T21:41:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -294,7 +294,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the historical shift from people to systems and touches on the importance of evaluating systems in Agile environments. However, it primarily focuses on Agile methodologies rather than Lean principles. While there are elements of continuous evaluation and empowerment, the core themes of Lean Thinking, such as waste minimisation and specific Lean tools, are not explicitly addressed.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -397,7 +397,7 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-03-11T16:22:08",
+    "calculated_at": "2025-03-14T21:41:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -405,7 +405,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the historical shift from people to systems and the importance of balancing these elements in Agile environments. While it touches on the need for systems to support work, it does not explicitly focus on flow efficiency principles, techniques for eliminating bottlenecks, or metrics for measuring flow. The discussion is more about the philosophical implications of systems in Agile rather than a direct exploration of flow efficiency, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -607,12 +607,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:41:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content reflects on historical changes in work focus from people to systems, offering personal opinions and reflections rather than aligning with specific Agile frameworks or methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses historical perspectives and the balance between systems and people in Agile environments. While it touches on Agile concepts, it primarily focuses on a broader discussion about systems and their impact on work, which aligns with the Miscellaneous category. However, the explicit mention of Agile methodologies and principles reduces the overall confidence score.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -652,12 +655,12 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-03-14T21:41:52",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "While the content touches on systems and their impact on people, it does not primarily focus on change management principles, strategies, or practices as defined in the category. The discussion is more about historical context and systems thinking rather than specific change management topics.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -751,12 +754,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:12:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the transition from individual-focused work to systems-oriented approaches, reflecting on the influence of systems in organisational contexts. While it doesn't delve deeply into specific organisational dynamics or systems thinking principles explicitly, the mention of systems and their impact on people suggests a secondary theme related to organisational physics.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses the historical shift from people to systems, referencing Frederick Winslow Taylor's philosophy, which aligns with systems thinking. It touches on the balance between systems and people in Agile environments, indicating an understanding of organisational dynamics. However, while it mentions systems thinking principles, the depth of discussion on organisational behaviour and dynamics is moderate, leading to a confidence score that reflects a solid but not exhaustive engagement with the category.",
+    "level": "Tertiary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -850,12 +856,12 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-03-14T21:41:52",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses the importance of systems in operational efficiency and implies a need for process improvement, but it primarily revolves around historical analysis and philosophy rather than practical methodologies or strategies for enhancing operational practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1009,7 +1015,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T14:10:40",
+    "calculated_at": "2025-03-14T21:41:52",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1017,7 +1023,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly references the shift from people to systems, which aligns with the theme of pragmatic thinking in terms of system optimisation. However, it lacks direct discussions on Agile, Scrum, or DevOps principles, and does not provide practical problem-solving strategies or detailed examples, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1057,7 +1063,7 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-03-11T11:27:59",
+    "calculated_at": "2025-03-14T21:41:52",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 30.0,
@@ -1065,11 +1071,11 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions the shift from people to systems, which aligns with Lean principles of improving processes. However, it lacks direct references to Lean methodologies or specific tools, and the discussion is more philosophical than practical, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-03-10T11:58:04",
+    "calculated_at": "2025-03-14T21:41:52",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1077,7 +1083,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions the shift from people to systems, which touches on organisational dynamics, but it lacks a direct focus on psychological principles or theories. The discussion is more about systems than the psychological aspects of organisational behaviour, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1324,7 +1330,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-07T13:28:35",
+    "calculated_at": "2025-03-14T21:41:52",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1332,7 +1338,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the shift from individual contributions to systemic outputs, which aligns with the theme of organisational change. However, it lacks a detailed discussion on specific methodologies or frameworks for implementing change, and does not explicitly address the principles of Agile transformation or leadership roles in driving change. The focus is more on historical context rather than actionable strategies for organisational change.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1417,7 +1423,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:16:58",
+    "calculated_at": "2025-03-14T21:41:52",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1425,6 +1431,6 @@
     "non_ai_confidence": 0,
     "final_score": 14.0,
     "reasoning": "The content briefly mentions the importance of systems over individuals, which could relate to team dynamics in Scrum. However, it lacks direct references to Scrum roles, events, or principles, and does not provide any substantial discussion on Scrum practices or frameworks.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

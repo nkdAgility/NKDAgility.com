@@ -31,7 +31,7 @@ videos:
 - title: Agile Evolution - An Enterprise transformation that shows that you can too - Martin Hinshelwood
   embed: https://www.youtube.com/embed/QA2QdBG5uLE
 date: 2024-09-17
-weight: 375
+weight: 410
 card:
   button:
     content: Learn More
@@ -41,14 +41,15 @@ categories:
 - Scrum
 - Social Technologies
 tags:
+- Increment
 - Transparency
 - Definition of Done
-- Increment
-- Working Software
-- Product Delivery
 - Scrum Product Development
 - Software Development
+- Working Software
 - Professional Scrum
+- Product Delivery
+- Agile Project Management
 - Empirical Process Control
 
 ---

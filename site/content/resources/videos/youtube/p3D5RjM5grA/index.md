@@ -28,10 +28,10 @@ tags:
 - People and Process
 - Agile Leadership
 - Events and Presentations
+- Agile Transformation
+- Agile Project Management
+- Discovery and Learning
 - Team Collaboration
-- Pragmatic Thinking
-- Technical Leadership
-- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6

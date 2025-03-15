@@ -10,7 +10,7 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-03-06T14:58:28",
+    "calculated_at": "2025-03-14T20:08:20",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -18,7 +18,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content critiques the use of burndown charts in Agile, suggesting that they lead to excessive upfront planning and do not align with the realities of product development. While it touches on the importance of adapting plans based on ongoing learning and feedback, it lacks a strong focus on metrics and learning as a primary theme. The discussion is more about the pitfalls of specific Agile practices rather than a comprehensive exploration of metrics, data analysis, or continuous improvement methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -97,7 +97,7 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-03-10T11:49:10",
+    "calculated_at": "2025-03-14T20:08:20",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -105,7 +105,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses Agile methodologies, particularly the limitations of burndown charts and the need for minimal upfront planning. While it touches on the importance of adapting plans based on ongoing feedback, it does not explicitly focus on broader market adaptability strategies or practices. The discussion is more centred on Agile practices rather than their application to market responsiveness, which limits its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -349,12 +349,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:28:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:07:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and the planning process within Sprints, highlighting the need for a product-centric approach. However, it primarily focuses on the critique of burndown charts rather than a comprehensive exploration of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile practices, particularly around Sprint planning and the limitations of burndown charts, which indirectly relate to the Agile Product Operating Model. However, it primarily focuses on specific practices rather than the broader principles of product-centric development or value delivery. While it touches on the need for flexibility and adaptability in product development, it lacks a comprehensive exploration of the Agile Product Operating Model's key themes, such as cross-functional teams and continuous feedback mechanisms.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -367,21 +370,27 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:28:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:29:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of traditional Sprint planning and burndown charts, suggesting a more flexible approach that aligns with continuous learning and adaptation in product development. However, the primary focus is on critiquing Agile practices rather than exploring broader methodologies for discovery and learning.",
+    "final_score": 57.0,
+    "reasoning": "The content critiques traditional sprint planning methods and burndown charts, advocating for a more flexible and adaptive approach to product development. It discusses the importance of continuous reassessment and learning from the uncertainties inherent in product development, which aligns with the core themes of the 'Discovery and Learning' category. However, while it touches on these concepts, the primary focus remains on project management practices rather than a broader exploration of discovery and learning methodologies.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T14:28:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:37:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the limitations of traditional Sprint planning and burndown charts, suggesting a focus on continuous flow and minimal planning, which aligns with flow efficiency principles. However, the primary focus is on critiquing Agile practices rather than directly addressing flow efficiency as a central theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the limitations of burndown charts and advocates for a more flexible approach to Sprint planning, which aligns with the principles of Flow Efficiency. It highlights the importance of minimising overhead and adapting plans to enhance throughput, which are key themes in Flow Efficiency. However, while it touches on these concepts, the primary focus is on critiquing specific Agile practices rather than a comprehensive exploration of flow efficiency principles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "One Engineering System (1ES)": {
     "category": "One Engineering System (1ES)",
@@ -430,11 +439,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:09:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content critically discusses the concepts of planning within Agile, focusing on the limitations of traditional burndown charts, which ties closely to Agile principles of adaptability, responsiveness to change, and the emphasis on delivering value rather than rigid planning.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the limitations of burndown charts and advocates for a more flexible approach to Sprint planning, aligning well with Agile principles of adaptability and continuous improvement. It critiques excessive upfront planning, which resonates with the Agile philosophy's emphasis on customer collaboration and value delivery. However, while it touches on Agile concepts, it primarily focuses on specific practices rather than the broader philosophical implications, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Change Management": {
@@ -475,11 +487,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Sprint planning and critiques the use of burndown charts, which are relevant to Scrum practices. However, the focus is largely on the critique of these practices rather than a detailed exploration of Scrum roles or principles.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Sprint Planning and critiques the use of burndown charts, which are relevant to Scrum practices. However, it primarily focuses on personal opinions and alternative approaches rather than a structured exploration of Scrum principles, roles, or events. While it touches on Scrum concepts, the depth and focus on established Scrum theory are limited.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
@@ -538,11 +553,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 2,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for minimal planning and continuous flow of value, which aligns with Lean Thinking principles. However, it primarily focuses on Agile methodologies and Scrum practices, making Lean a secondary theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of minimising overhead and adopting a just-in-time planning approach, which aligns with Lean principles. However, it primarily focuses on Agile practices and critiques of burndown charts rather than a comprehensive exploration of Lean Thinking concepts. The mentions of minimising tasks and fostering continuous flow suggest some alignment with Lean, but the depth of discussion on Lean-specific tools and principles is limited.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -556,12 +574,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile principles and challenges related to Sprint planning, which may impact the delivery of working software, but it primarily critiques the planning process rather than focusing explicitly on working software itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:08:47",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the challenges of Sprint planning and critiques the use of burndown charts, which indirectly relates to the delivery of working software. However, it primarily focuses on the planning process rather than the characteristics or delivery of functional software itself. While it touches on the need for flexibility and adaptability in software development, it lacks detailed discussions on best practices for ensuring software quality or metrics for assessing delivered software.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -583,11 +604,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses planning in Agile and emphasizes the need for flexibility and adaptability, which aligns with Continuous Learning principles. However, the focus is primarily on critiquing burndown charts rather than exploring a broad range of Continuous Learning topics.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the flaws of traditional burndown charts and advocates for a more flexible approach to Sprint planning, which aligns with the principles of adaptability and continuous improvement. However, it lacks explicit discussions on continuous learning practices, such as knowledge sharing or feedback loops, and does not delve deeply into the growth mindset or team dynamics. The focus is more on process critique than on fostering a culture of continuous learning.",
     "level": "Tertiary"
   },
   "Scaling Scrum": {
@@ -628,11 +652,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily critiques traditional planning methods in Agile, such as burndown charts, emphasizing the need for decision-making based on ongoing observations and adaptations rather than extensive upfront planning. It aligns with the principles of empirical process control by advocating for transparency and adaptability in response to the complexities and variances in product development.",
+    "calculated_at": "2025-03-14T20:08:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content critiques the use of burndown charts and advocates for a more flexible, adaptive approach to Sprint planning, which aligns with the principles of empirical process control. It discusses the importance of adapting plans based on real-time feedback and the uncertainties inherent in product development. However, it does not explicitly mention empirical process control or its key figures, and the discussion lacks depth in exploring the broader implications of transparency and inspection within Agile methodologies.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -673,20 +700,23 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-17T14:48:05",
+    "calculated_at": "2025-03-14T20:08:20",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses planning and the implications of estimating tasks in Scrum, but it primarily critiques the use of burndown charts and overall planning rather than focusing on estimation techniques or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses sprint planning and backlog management, which are relevant to the Product Owner's role, but it mainly critiques burndown charts and Agile practices without a strong focus on the specific responsibilities or strategies of a Product Owner.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses sprint planning and critiques the use of burndown charts, which are relevant to the Product Owner's responsibilities in managing the backlog and ensuring value delivery. However, it does not explicitly mention the Product Owner role or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Trend Analysis": {
@@ -730,11 +760,14 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:55:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content critiques traditional planning and emphasizes the need for flexibility and minimal planning, which aligns with self-organisation principles. However, it primarily discusses issues with burndown charts rather than directly exploring self-organisation as a primary theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the flaws of traditional sprint planning and burndown charts, advocating for a more flexible and adaptive approach, which aligns with self-organisation principles. However, it does not explicitly mention self-organisation or delve deeply into its principles, focusing instead on planning techniques and the critique of existing practices.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -784,21 +817,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:08:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Agile principles regarding sprint planning, the limitations of traditional burndown charts, and emphasizes the need for flexible and responsive planning within Agile frameworks, aligning with core topics of Agile transformation.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses Agile practices, specifically focusing on Sprint planning and critiques the use of burndown charts, which aligns with Agile principles. It emphasises flexibility, adaptability, and continuous reassessment, key themes in Agile transformation. However, while it provides valuable insights, it does not delve deeply into broader Agile transformation strategies or frameworks, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practices and philosophies related to Sprint planning and implies strategies for improving operational efficiency within Agile methodologies by advocating for an approach that reduces upfront planning and focuses on just-in-time decision-making.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:08:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the limitations of traditional burndown charts in Agile practices and advocates for a more flexible approach to Sprint planning, which aligns with operational efficiency. It provides practical strategies for minimising overhead and emphasises continuous reassessment, which are key aspects of operational practices. However, while it touches on these themes, the focus is more on critiquing existing practices rather than providing a comprehensive guide to operational optimisation.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -820,20 +859,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:08:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content critiques the use of burndown charts within Agile practices and suggests a more iterative approach to planning. While the focus is more on specific practices than the overarching Agile strategy, it touches on key aspects of adaptability and continuous value delivery, indicating a secondary theme related to Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the limitations of burndown charts and advocates for a more flexible approach to Sprint planning, which aligns with Agile principles. However, it primarily focuses on specific practices rather than broader strategic discussions, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:08:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Agile practices and challenges during Sprint planning, focusing on how developers manage tasks and planning within Agile frameworks.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses Agile practices, specifically focusing on Sprint planning and the critique of burndown charts, which are relevant to software developers. It aligns well with the category's themes of Agile methodologies and their impact on developer productivity. The depth of discussion is substantial, providing actionable insights and advocating for a flexible approach to planning, which is crucial for developers. However, while it is focused on Agile practices, it does not delve deeply into DevOps or other modern engineering practices, slightly limiting its overall alignment.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -901,11 +946,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of agile practices, particularly around Sprint planning and the use of burndown charts. However, it primarily critiques specific methodologies rather than focusing on the role of technical leadership or strategies to influence team dynamics.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses agile practices, particularly around Sprint planning and the critique of burndown charts, which aligns with the principles of technical leadership in fostering effective agile methodologies. However, it lacks direct mentions of technical leadership roles or strategies for mentoring teams, which limits its depth in that specific area. The focus is more on process critique than on guiding teams or influencing dynamics, which slightly reduces the overall confidence score.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -937,30 +985,39 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:08:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile principles related to Sprint planning and the drawbacks of using burndown charts within the Scrum framework, which is a specific Agile methodology. It focuses on improving Agile practices and fostering a more adaptive planning process.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses Sprint planning within the context of Agile frameworks, specifically critiquing the use of burndown charts. It aligns well with Agile principles by advocating for flexibility and adaptability in planning, which are core themes of Agile methodologies. The depth of discussion is substantial, providing insights into practical applications and challenges faced by Agile teams. However, while it focuses on Agile practices, it does not explore a wide range of frameworks or provide comparative analysis, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:08:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses sprint planning and the limitations of using burndown charts within agile teams, which relates to team dynamics and planning practices. However, the primary focus is on critiquing burndown charts rather than directly enhancing team performance or collaboration.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses Sprint planning and critiques the use of burndown charts, which are relevant to team performance in an Agile context. It touches on the need for flexibility and adaptability in planning, which aligns with enhancing team dynamics and productivity. However, it lacks direct mentions of team collaboration techniques or metrics for measuring performance, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:08:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the limitations of sprint planning and burndown charts, which indirectly relate to throughput by emphasizing the need for a continuous flow of value and minimizing unnecessary planning. However, the primary focus is not solely on throughput, but rather on planning practices in Agile.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the limitations of burndown charts and advocates for a more flexible approach to Sprint planning, which indirectly relates to throughput by emphasising the need for continuous flow and minimising overhead. However, it does not explicitly focus on measuring or optimising throughput, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -991,11 +1048,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses agile principles in the context of Sprint planning and critiques the use of burndown charts, aligning well with Agile Project Management discussions.",
+    "calculated_at": "2025-03-14T20:09:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses Sprint planning, critiques the use of burndown charts, and advocates for a flexible approach to Agile methodologies. It aligns well with Agile principles by emphasising adaptability, iterative progress, and minimising upfront planning. The depth of discussion is substantial, providing actionable insights and key takeaways that reflect core Agile values.",
     "level": "Secondary"
   },
   "Hypothesis Driven Development": {
@@ -1009,11 +1069,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:08:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses sprint planning and burndown charts, detailing the issues with over-planning and advocating for minimal, just-in-time planning. However, it primarily critiques the use of burndowns rather than focusing on Agile Planning Tools themselves.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses sprint planning and critiques the use of burndown charts, which are tools related to Agile planning. However, it primarily focuses on the drawbacks of these tools rather than providing a comprehensive overview of Agile Planning Tools or methodologies. While it touches on planning strategies, it lacks depth in discussing various Agile tools and their functionalities, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
@@ -1063,20 +1126,26 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses planning and decision-making in Agile environments, particularly criticizing excessive upfront planning and advocating for a more flexible, responsive approach. However, the focus is largely on practices and criticisms rather than structured methodologies or empirical evidence.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T20:09:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the limitations of burndown charts and advocates for a more flexible approach to Sprint planning, which indirectly relates to decision-making in Agile environments. However, it lacks explicit discussions on structured methodologies or evidence-based practices, focusing more on personal opinions and anecdotal evidence regarding planning strategies.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Agile practices, specifically around Sprint planning and the use of burndown charts, which are central themes in software development methodologies.",
+    "calculated_at": "2025-03-14T20:08:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses Agile methodologies, specifically focusing on Sprint planning and the critique of burndown charts. It aligns well with key topics in software development, such as Agile frameworks and practices, and provides a detailed examination of how to improve Sprint planning. The depth of discussion is significant, offering practical advice and insights into the Agile process, which reinforces its relevance to the Software Development category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -1090,29 +1159,38 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:08:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of Sprint Planning and the management of work items which relate to the Product Backlog, but primarily focuses on criticisms of burndown charts and the planning process rather than directly discussing the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses Sprint Planning and critiques the use of burndown charts, which are related to Agile practices but do not focus on the Product Backlog itself. While it touches on planning and the need for flexibility, it lacks direct discussion on backlog management, prioritisation techniques, or the role of the Product Owner, which are key aspects of the Product Backlog category.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum concepts, particularly focusing on Sprint planning and the issues with burndown charts in relation to agile product development, making it a central topic.",
+    "calculated_at": "2025-03-14T20:08:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Sprint planning and critiques the use of burndown charts, which are relevant to Scrum practices. However, while it touches on key aspects of Scrum, such as planning and adaptability, it does not provide a comprehensive exploration of Scrum roles or the overall framework. The focus is more on challenging existing practices rather than detailing Scrum methodologies, which limits its depth and alignment with the category.",
     "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of planning, waste as it relates to unnecessary tasks, and a focus on continuous flow of value, which are relevant to Lean principles, but primarily centers around Agile methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of minimising overhead and adopting a just-in-time planning approach, which aligns with Lean principles of waste reduction and value maximisation. However, the primary focus is on Agile practices rather than Lean itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Psychological Safety": {
@@ -1126,20 +1204,26 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:08:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses Agile methodologies and critiques the use of burndown charts, it touches on the complexity and uncertainty that teams face in product development, which aligns with themes of sensemaking. However, these themes are secondary to the main focus on Agile practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses agile practices and the limitations of burndown charts, highlighting the uncertainty in product development. However, it primarily focuses on project management techniques rather than explicitly addressing sensemaking principles or frameworks. While it touches on adaptability and reassessment, it lacks a deeper exploration of sensemaking as a primary focus.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T20:09:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the challenges and limitations of traditional planning methods, specifically burndown charts, within the context of Agile Planning. It emphasizes the need for flexible, just-in-time planning and aligns strongly with Agile principles.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses Sprint Planning within the Agile framework, critiquing traditional practices like burndown charts and advocating for a more flexible approach. It aligns well with Agile Planning principles by emphasising adaptability, minimal upfront planning, and continuous reassessment, which are core themes of Agile methodologies. The depth of discussion is substantial, providing actionable insights and key takeaways that reflect a strong understanding of Agile Planning concepts.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -1189,11 +1273,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-14T20:09:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "The content primarily critiques the use of burndown charts and illustrates the need for flexibility and adaptability in planning, which aligns with Agile principles. However, it leans heavily towards discussing practices rather than explicitly focusing on Agile values and principles.",
+    "final_score": 67.0,
+    "reasoning": "The content critiques the use of burndown charts and emphasises the need for flexibility and adaptability in Sprint planning, which aligns with Agile principles. However, it primarily focuses on specific practices rather than discussing the foundational values and principles of Agile in depth.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -1225,12 +1312,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:09:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses sprint planning and criticism of burndown charts, it also touches on the themes of Agile mindset and minimal planning, which aligns with strategic thinking in Agile contexts. However, the focus is largely on specific practices rather than a comprehensive strategy discussion.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the shortcomings of traditional burndown charts in Sprint planning, advocating for a more flexible and adaptive approach. It aligns with strategic themes by emphasising the need for minimal upfront planning and continuous reassessment, which are crucial for optimising delivery processes. The depth of discussion on planning techniques and the critique of existing practices indicates a strong focus on strategy within Agile frameworks.",
+    "level": "Secondary"
   },
   "AI": {
     "category": "AI",
@@ -1243,12 +1333,12 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T14:48:05",
+    "calculated_at": "2025-03-14T20:08:20",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses burndown charts and planning in Agile, but primarily critiques the practice and emphasizes the need for minimal upfront planning rather than focusing on forecasting methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -1297,11 +1387,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content critically discusses the limitations of traditional Sprint planning and burndown charts within Agile frameworks, emphasizing practical approaches to planning and execution based on real-world complexity and unpredictability.",
+    "calculated_at": "2025-03-14T20:08:52",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 79.0,
+    "reasoning": "The content explicitly critiques the reliance on burndown charts in Agile, advocating for a more pragmatic approach to Sprint planning. It discusses practical strategies such as minimal upfront planning and daily reassessment, which align well with the core themes of Pragmatic Thinking. The depth of discussion is substantial, providing specific recommendations and insights into navigating uncertainty in product development. Overall, the content is highly relevant and focused on real-world applications, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -1333,11 +1426,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T14:48:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T20:08:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Sprint Planning and critiques the use of burndown charts, which are relevant topics for a Scrum Master. However, the main focus of the content is on general Agile principles and planning strategies rather than specifically addressing the Scrum Master role or its responsibilities.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses Sprint Planning, a key Scrum ceremony, and critiques the use of burndown charts, which are often associated with Scrum practices. However, it lacks a direct focus on the Scrum Master role and does not delve deeply into the responsibilities or techniques specific to Scrum Masters. While it aligns with some core themes of the category, such as flexibility and continuous improvement, it does not provide comprehensive insights into the Scrum Master's contributions or coaching techniques.",
     "level": "Tertiary"
   },
   "Cycle Time": {

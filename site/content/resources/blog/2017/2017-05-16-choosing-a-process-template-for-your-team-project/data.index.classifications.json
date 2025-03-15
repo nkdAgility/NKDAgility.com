@@ -52,12 +52,12 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:42",
+    "calculated_at": "2025-03-15T03:46:35",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses the selection of process templates for Agile and Scrum, focusing on the implications of these choices rather than exploring methodologies that foster innovation or continuous learning.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -79,12 +79,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the selection and customisation of process templates in VSTS and TFS, which relates to configuration best practices. However, it primarily focuses on the theoretical aspects of Agile and Scrum rather than providing clear, actionable installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the selection of process templates for team projects in VSTS and TFS, which is related to configuration choices. However, it primarily focuses on the theoretical implications of choosing between Agile, CMMI, and Scrum templates rather than providing actionable installation or configuration instructions. While it touches on the importance of selecting the right template, it lacks detailed step-by-step guidance or troubleshooting advice, which are critical for a strong alignment with the 'Install and Configuration' category.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -97,12 +100,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the selection of process templates (Agile, CMMI, Scrum) for software development teams, focusing on the suitability and impact of these templates on agility and implementation practices. While it touches upon methodologies and practices that can enhance agility and possibly align with technical excellence, the primary focus remains on process selection rather than deeply technical engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the choice of process templates (Agile vs. Scrum) and their implications for team dynamics rather than focusing on technical excellence in engineering practices. While it touches on some relevant aspects, such as the importance of reducing friction and adapting processes, it lacks a deep exploration of methodologies like TDD, CI/CD, or modular architecture that are central to the category of Technical Excellence.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -127,21 +133,27 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses choosing between Agile and Scrum templates, highlighting the importance of selecting a process that minimizes friction and supports agile practices, which indirectly relates to market adaptability through organizational agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the choice of Agile and Scrum templates, which relates to Agile methodologies and their impact on team dynamics. However, it primarily focuses on the technical aspects of template selection rather than broader strategies for market adaptability. While it touches on friction and process alignment, it lacks a comprehensive exploration of how these choices enhance an organisation's ability to respond to market changes.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of choosing software process templates, specifically Agile vs Scrum, which indirectly relates to team dynamics, technology adoption, and organizational processes, but it primarily focuses on technical aspects of software development templates.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the selection of process templates (Agile, CMMI, Scrum) for software development teams, focusing on technical aspects without a significant exploration of the sociotechnical interplay. While it touches on team dynamics and the impact of process choices on team effectiveness, it lacks a comprehensive examination of organisational culture or the broader sociotechnical context. The discussion is more centred on technical choices and their implications rather than a deep dive into sociotechnical systems.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -172,12 +184,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making regarding the selection of a process template for Agile project management, touching upon factors that influence this decision and the implications of choosing different templates, which relates to decision-making processes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses decision-making in the context of selecting a process template for Agile projects, which aligns with decision theory. However, the focus is primarily on technical implementations and specific Agile methodologies rather than a broader exploration of decision-making processes, heuristics, or frameworks. While it touches on friction and the implications of choices, it lacks a deeper analysis of decision theory principles.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
@@ -220,12 +235,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses process templates for Agile methodologies, particularly the Scrum template, and addresses implications for team agility. However, while it touches on agile principles, it primarily focuses on the technical aspects of choosing templates rather than broader themes of business agility.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the choice of process templates in the context of Agile and Scrum, which relates to business agility. However, it primarily focuses on the technical aspects of template selection rather than broader principles of business agility. While it touches on the importance of reducing friction and adapting processes, it lacks a comprehensive exploration of the core themes of business agility, such as leadership roles, cultural aspects, or case studies. The depth of discussion is moderate, but it does not fully align with the category's intent.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -286,12 +304,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile and Scrum process templates in the context of aligning teams with effective methodologies; however, the primary focus is on process template selection rather than explicit strategies for delivering value to customers.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the selection of process templates in the context of Agile and Scrum, which relates to value delivery. However, it primarily focuses on the technical aspects of template selection rather than strategies for delivering value to customers. While it touches on the importance of reducing friction and aligning processes with agile principles, it lacks a comprehensive exploration of value delivery methodologies or practices.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -307,12 +328,12 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:42",
+    "calculated_at": "2025-03-15T03:46:35",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
     "final_score": 36.0,
     "reasoning": "The content primarily discusses the technical aspects of process templates in Agile and Scrum, rather than focusing on personal experiences or insights. While it touches on personal opinions regarding the templates, it lacks a clear personal reflection or anecdote.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -352,11 +373,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the choice of process templates for Agile teams, focusing on the implications of selecting Scrum versus Agile and CMMI templates, which relates to current trends in Agile methodology and practices. However, it mainly presents personal opinions and experiences rather than providing objective news or reviews in a broader industry context.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on the practical aspects of choosing a process template for Agile teams, particularly comparing Scrum with Agile and CMMI templates. While it discusses relevant topics within Agile methodologies, it lacks a broader context of industry news or reviews. The discussion is more about personal insights and experiences rather than providing a comprehensive review or analysis of tools or trends in the Agile space. Therefore, while it touches on relevant themes, it does not fully align with the 'News and Reviews' category.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -388,12 +412,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the use of process templates for Agile project management, specifically comparing Agile and Scrum templates. While there are elements related to software development practices, the focus is more on project management and process selection than on software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the selection of process templates in Agile and Scrum, which is more focused on project management strategies rather than the core principles of software craftsmanship. While it touches on some technical aspects, such as the implications of template choices on team dynamics and practices, it lacks a deep exploration of software design, architecture, or engineering excellence. The discussion is more about process selection and its impact on team performance rather than technical mastery in software development.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -469,11 +496,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:46:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the choice between Agile, Scrum, and CMMI process templates, focusing on their fit for agile teams, which aligns well with Agile Planning principles. It addresses friction in the planning process, the importance of template selection to support agility, and advocates for using the Scrum template as a base to create an agile process, which reflects key aspects of Agile Planning.",
+    "final_score": 66.0,
+    "reasoning": "The content primarily discusses the selection of process templates for Agile teams, specifically contrasting Agile and Scrum templates. It directly addresses Agile principles and the implications of choosing the right template for effective Agile implementation, which aligns with Agile Planning. The depth of discussion includes specific issues with the Agile template and recommendations for using the Scrum template, providing a nuanced view of Agile Planning practices. However, while it is focused on Agile methodologies, it does not delve deeply into broader Agile Planning strategies or techniques, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {
@@ -496,11 +526,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:46:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the selection and customization of process templates for Agile and Scrum, emphasizing the impact of these choices on operational efficiency and team dynamics within an Agile framework.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily discusses the selection of process templates within Agile frameworks, particularly focusing on the Scrum template. It addresses operational practices by evaluating the implications of choosing different templates on team efficiency and friction in Agile implementations. However, while it touches on operational efficiency, the discussion is more centred on personal opinions and experiences rather than providing structured techniques or strategies for improving operational practices. The depth of discussion is moderate, with some practical insights but lacking comprehensive strategies or metrics typically associated with operational excellence.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -517,21 +550,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the differences between Agile and Scrum templates while addressing how these choices impact agility and team dynamics, which relates to Agile principles, but it primarily focuses on specific frameworks rather than the overarching Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the differences between Agile and Scrum templates, focusing on practical implications rather than the underlying Agile philosophy. While it touches on Agile principles, such as reducing friction and adapting processes, it does so in the context of specific frameworks rather than exploring the broader Agile mindset or values. The discussion lacks depth in addressing the foundational principles of Agile, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the choice of process templates, particularly the Scrum template, in the context of Agile implementation, which reflects some strategic decision-making elements related to aligning teams with processes that minimize friction and promote efficiency. However, it primarily focuses on practical advice rather than a broad strategic approach.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the selection of process templates within Agile frameworks, particularly focusing on the Scrum template. It aligns well with strategic considerations in Agile, such as minimising friction and optimising team performance. The depth of discussion is substantial, providing insights into the implications of template choices on team dynamics and agile implementation. However, while it touches on strategic alignment, it does not delve deeply into broader strategic frameworks or leadership roles, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -574,11 +613,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:46:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the selection of process templates that affect agile team performance, specifically favoring the Scrum template which aims to reduce friction and improve agile practices. However, the primary focus is on choosing templates rather than deep exploration of team dynamics or collaboration strategies.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the selection of process templates for agile teams, particularly focusing on the Scrum template. It addresses the impact of these choices on team dynamics and performance, which aligns with the category of Team Performance. However, while it mentions team performance and friction in processes, it lacks detailed exploration of specific strategies or methodologies for enhancing collaboration and effectiveness within teams. The discussion is primarily centred on process templates rather than broader team performance strategies.",
     "level": "Secondary"
   },
   "Increment": {
@@ -601,38 +643,50 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T03:46:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "Content primarily discusses the choice of process templates (Agile, CMMI, Scrum) within the context of software development methodologies, focusing on their implications for team projects and agile implementation.",
-    "level": "Primary"
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the selection of process templates in software development, particularly focusing on Agile and Scrum methodologies. It provides a detailed analysis of the implications of choosing different templates, aligning closely with key topics in software development such as Agile frameworks, best practices, and the importance of process in software engineering. The depth of discussion is significant, offering insights into the friction caused by template choices and advocating for the Scrum template as a more effective option for agile teams.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T17:01:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the differences between Agile, CMMI, and Scrum process templates, emphasizing the suitability of the Scrum template for agile teams. It provides insights into agile principles, the importance of process templates in agile implementations, and the friction created by choosing inappropriate templates for agile projects.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the differences between Agile and Scrum templates, focusing on the implications of choosing the right process template for agile teams. It aligns well with agile principles, emphasising flexibility and the importance of selecting a template that supports agile practices. The depth of discussion on the Scrum template and its advantages over the Agile template demonstrates a strong understanding of agile methodologies, making it a primary focus of the content.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile templates in relation to their alignment with Agile values and principles, but primarily focuses on comparing specific templates (Agile, Scrum, CMMI) rather than exploring the core values and principles of Agile itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the choice between Agile and Scrum templates, focusing on practical implications rather than the underlying Agile values and principles. While it touches on some Agile concepts, such as flexibility and team dynamics, it does so in the context of specific frameworks rather than a deep exploration of Agile values. The discussion lacks a thorough examination of the Agile Manifesto or its principles, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:46:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the Scrum template in relation to Agile process templates, exploring the implications of choosing a Scrum framework for team project management.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the Scrum template in detail, comparing it with Agile and CMMI templates, and highlights the advantages of using the Scrum framework. It addresses Scrum principles, roles, and practices, particularly in the context of process templates in software development. However, while it provides substantial insights into Scrum, the focus on template selection and personal opinions slightly detracts from a purely theoretical exploration of Scrum principles.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -646,12 +700,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses selecting process templates for Agile and Scrum implementations, highlighting the importance of choosing a process that facilitates inspection and adaptation. However, the primary focus is on specific templates rather than deep principles of empirical process control.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the choice of process templates in Agile and Scrum, touching on the implications of these choices for team dynamics and adaptability. However, it primarily focuses on the practical aspects of selecting templates rather than deeply exploring the principles of empirical process control, such as transparency, inspection, and adaptation. While there are mentions of friction and the importance of aligning processes with team practices, the discussion lacks a thorough examination of empirical process control as a primary focus.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -685,12 +742,12 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T09:08:42",
+    "calculated_at": "2025-03-15T03:46:35",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "The content discusses process templates for Agile and Scrum but focuses primarily on technical choices within software development rather than on broader organisational change strategies or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -757,7 +814,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:33:43",
+    "calculated_at": "2025-03-15T03:46:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -765,7 +822,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the selection of process templates (Agile vs Scrum) for team projects, which is more aligned with project management than engineering excellence. While it touches on some aspects of software craftsmanship and the implications of template choices on team dynamics, it lacks a direct focus on best practices in coding standards, quality assurance, or continuous improvement of engineering processes. The depth of discussion on the implications of template choices does provide some insight into engineering practices, but it does not sufficiently cover the core themes of engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -787,12 +844,12 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T09:08:42",
+    "calculated_at": "2025-03-15T03:46:35",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
     "final_score": 18.0,
     "reasoning": "The content primarily discusses the choice of process templates (Agile vs Scrum) in project management rather than focusing on systems thinking principles or the dynamics of organisational behaviour, making it largely irrelevant to the category.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -805,11 +862,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T03:46:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses practical strategies for selecting the appropriate process template for Agile projects, emphasizing the real-world application of Scrum principles and the importance of minimizing friction in process implementation. It outlines practical decision-making aspects, such as current and future friction, and provides insights on customizing the Scrum template to better suit team needs, thus aligning well with pragmatic thinking.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on the practical implications of choosing process templates in Agile and Scrum contexts, emphasising real-world applications and the importance of reducing friction in team processes. It aligns well with the core themes of pragmatic thinking by offering practical problem-solving strategies and insights based on experience. The depth of discussion is significant, as it explores various templates, their implications, and recommendations for customisation, demonstrating a strong understanding of navigating complexity in project management.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -832,21 +892,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T08:56:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:46:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily focuses on the advantages of using the Scrum process template for agile teams, discussing Scrum principles, practices, and their implications for product development.",
+    "final_score": 77.0,
+    "reasoning": "The content extensively discusses the Scrum template in the context of Agile project management, highlighting its advantages over other templates. It directly addresses Scrum principles, such as the importance of backlog management and the iterative nature of Scrum, while also critiquing non-Scrum templates. The depth of discussion is significant, providing insights into the practical implications of choosing the right process template for Scrum teams, thus aligning well with the core themes of Scrum Product Development.",
     "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile process templates and their implications for team projects, particularly contrasting Scrum with Agile and CMMI templates. While it is primarily focused on choosing templates for team use, it touches on themes relevant to scaling Agile practices by addressing team coordination and suitability of templates for Agile transformations at an organizational level.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the choice of process templates (Agile, CMMI, Scrum) for team projects, focusing on individual Agile practices rather than on scaling Agile across multiple teams or at an enterprise level. While it touches on Agile principles, it lacks a broader discussion on frameworks for scaling Agile, coordination among teams, or enterprise-level strategies, which are essential for the 'Scaled Agile' category.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -895,11 +961,14 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T08:56:38",
-    "ai_confidence": 75,
+    "calculated_at": "2025-03-15T03:47:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the selection of process templates in the context of Agile and Scrum, focusing on how these templates impact Agile planning and team processes. However, it leans more towards discussing broader concepts of Agile methodologies rather than specific Agile planning tools.",
+    "final_score": 61.0,
+    "reasoning": "The content primarily discusses the selection of process templates within Agile frameworks, specifically contrasting the Agile and Scrum templates. It provides insights into the implications of choosing these templates for Agile teams, which aligns with the category's focus on Agile Planning Tools. However, while it touches on Agile planning, the discussion is more about the templates themselves rather than a broader exploration of Agile planning tools and methodologies. The depth of discussion is substantial, but it lacks a comprehensive overview of various Agile planning tools and techniques, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -958,21 +1027,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-15T08:56:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:47:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses decision-making regarding the selection of process templates for team projects, focusing on the implications of choosing between Agile, CMMI, and Scrum templates. It highlights the importance of making informed choices based on the needs of the team and the potential frictions involved, aligning well with structured decision-making principles.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on the decision-making process involved in selecting a process template for Agile teams, discussing the implications of different choices and the friction associated with them. It provides a structured analysis of the templates available, emphasising the importance of making informed decisions based on the team's needs and strategic direction. While it does not delve deeply into empirical evidence or data analytics, it does align with the core themes of decision-making by evaluating options and their impacts on team dynamics.",
     "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the selection of process templates in the context of Agile and Scrum, mentioning efficiency and reducing friction, which loosely aligns with Lean principles of waste reduction. However, the focus is more on Agile/Scrum frameworks rather than Lean principles themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the selection of process templates for Agile and Scrum, with a focus on reducing friction in team processes. While it touches on concepts related to efficiency and the minimisation of constraints, it does not explicitly address Lean Principles or provide in-depth discussions on waste reduction or value maximisation. The mention of 'lean-agile process' in the conclusion is too vague to significantly elevate the confidence score.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1021,20 +1096,23 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T09:08:42",
+    "calculated_at": "2025-03-15T03:46:35",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "While the content discusses Agile methodologies and the selection of process templates, it lacks a clear focus on change management principles, strategies, or discussions about facilitating effective transitions within organizations. The primary theme is more about process selection than managing organizational change.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:47:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the choice of process templates in the context of Agile and Scrum, emphasizing the importance of templates that support team dynamics and collaboration. However, it primarily focuses on the features of the templates rather than directly addressing collaborative practices or team dynamics.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the choice of process templates in Agile and Scrum contexts, which relates to team collaboration. However, it primarily focuses on the technical aspects of template selection rather than exploring team dynamics, communication, or shared ownership. While it touches on the implications of template choices on team performance, it lacks depth in discussing collaboration techniques or fostering a culture of trust, which are key themes in the category.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -1048,12 +1126,12 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:42",
+    "calculated_at": "2025-03-15T03:46:35",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses Agile vs Scrum process templates and their implications for teams, which is more focused on process methodologies and practices rather than the strategic use of digital technologies for business transformation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1201,11 +1279,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T08:56:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:47:12",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the choice of process templates, specifically comparing Agile and Scrum templates, which directly relates to the role of a Scrum Master in facilitating Scrum practices within teams.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Scrum template in detail, highlighting its advantages over other templates and how it can be customised for agile teams. However, it primarily focuses on the technical aspects of process templates rather than the role and responsibilities of a Scrum Master. While there are mentions of Scrum, the discussion lacks depth in exploring the Scrum Master's role in facilitating teams or coaching, which is essential for a higher confidence score in this category.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1228,11 +1309,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-15T08:56:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:47:05",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the discussion of Agile and Scrum process templates, specifically for teams involved in software development. It delves into how these methodologies impact the role and effectiveness of software developers, making it central to the topic of software developers and aligned with Agile practices.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the selection of process templates for Agile teams, specifically contrasting the Scrum template with Agile and CMMI templates. It directly addresses the role of software developers in choosing frameworks that enhance their workflow and reduce friction, which aligns well with the category's focus on Agile methodologies. The depth of discussion is significant, providing detailed insights into the implications of template choices on team dynamics and productivity. Overall, the content is highly relevant to software developers operating within Agile and DevOps contexts.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1273,7 +1357,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T14:34:04",
+    "calculated_at": "2025-03-15T03:46:35",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1281,33 +1365,42 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content primarily discusses the choice of process templates (Agile, CMMI, Scrum) in the context of team projects, which is relevant to product management. However, it focuses more on technical implementation details and personal opinions rather than the strategic aspects of product management. While it touches on Agile principles and the implications of template choices, it lacks a comprehensive exploration of methodologies or frameworks that guide product managers in making informed decisions. Therefore, the confidence score reflects a moderate alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T03:47:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses the Scrum process template and its suitability for agile teams, which relates to self-organisation principles by emphasizing how teams can operate autonomously and decide on their practices. However, the primary focus is on the choice of templates rather than the broader themes of self-organisation.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the choice of process templates in Agile and Scrum, but it primarily focuses on the technical aspects of template selection rather than the principles of self-organisation. While it touches on the importance of reducing friction for agile teams, it lacks a deep exploration of self-organisation principles, techniques, or case studies. The discussion is more about process frameworks than fostering autonomy and collaboration within teams.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T08:56:38",
-    "ai_confidence": 85,
+    "calculated_at": "2025-03-15T03:47:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the comparison between different Agile process templates, particularly focusing on the Agile and Scrum templates, and how they relate to Agile methodologies. It explores the implications of choosing these templates for Agile implementation, aligning well with the category of Agile Frameworks.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses the comparison between Agile and Scrum templates, focusing on their implications for Agile implementation. It provides a detailed analysis of the Scrum framework, its advantages, and the challenges associated with the Agile template. The depth of discussion on the principles of Agile and Scrum, along with practical recommendations for template selection, aligns well with the core themes of Agile frameworks. However, while it mentions Agile principles, the focus is heavily skewed towards Scrum, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T08:56:38",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T03:47:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the choice of process templates for Agile teams, particularly emphasizing the importance of aligning the chosen template with the team's Agile practices and values. While it does touch on some technical aspects of specific templates (Agile vs. Scrum), the core discussion revolves around strategic considerations in selecting a suitable process template to facilitate Agile implementation and reduce friction, making Agile strategy a significant theme.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the selection of process templates in the context of Agile methodologies, particularly contrasting the Scrum template with Agile and CMMI templates. While it touches on Agile principles and the importance of choosing the right framework to support an agile implementation, the focus is more on technical practices and specific templates rather than a broader strategic discussion on Agile strategy. The depth of discussion on the implications of these choices for team dynamics and adaptability is present, but it lacks a comprehensive exploration of Agile strategy as defined in the category.",
     "level": "Secondary"
   },
   "Azure Repos": {

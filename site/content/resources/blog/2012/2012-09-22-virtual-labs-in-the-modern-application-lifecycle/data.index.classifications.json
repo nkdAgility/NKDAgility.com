@@ -43,12 +43,15 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:40:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the complexities faced by Development and Operations teams in modern application development, particularly in relation to virtual labs and automation. While it touches on issues of code quality and the challenges of managing multiple environments, the primary focus is on operational challenges rather than a deep exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the complexities of modern application development, particularly in relation to virtual labs and their integration with development processes. It highlights the challenges faced by development and operations teams due to the increasing complexity of software environments, which aligns with the core themes of the category. The mention of automation, technical debt, and the need for maintainable solutions further supports its relevance. However, while it touches on these topics, the depth of discussion on specific coding practices and complexity theory is somewhat limited, preventing a higher confidence score.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
@@ -61,30 +64,39 @@
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:01",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 40,
-    "final_score": 49.0,
-    "reasoning": "The content discusses automation in the context of modern application development and virtual labs, which is a significant theme. However, it does not primarily focus on AI or its integration within Agile frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses automation in the context of virtual labs and their integration with development processes, which aligns with the category's focus on automation tools supporting Agile workflows. However, it lacks explicit references to AI and does not delve deeply into how AI specifically enhances Agile practices. The primary focus is on automation rather than AI, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses waste reduction and efficiency in the context of modern application development, which aligns with Lean principles, but it primarily focuses on virtual labs and automation rather than Lean methodologies themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses challenges in modern application development and the role of virtual labs in addressing complexity and waste. However, it primarily focuses on technical solutions and automation rather than Lean principles such as value stream mapping, waste reduction, or continuous improvement. While there are mentions of waste and efficiency, they are not deeply tied to Lean methodologies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the integration and automation of virtual labs within the application lifecycle, touching on installation and configuration aspects, but primarily focuses on challenges and solutions rather than providing clear, actionable installation procedures.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the challenges and solutions related to virtual labs in application development, touching on integration points and automation. However, it lacks explicit step-by-step installation or configuration instructions, making it more of a high-level overview rather than a focused guide on installation and configuration.",
+    "level": "Ignored"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
@@ -97,30 +109,39 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and solutions related to modern application development, including the need for agility and responsiveness to market demands, but it primarily focuses on technical aspects rather than explicitly outlining strategies for market adaptability.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application development, particularly focusing on the use of virtual labs and automation to enhance responsiveness to market demands. It touches on Agile principles by highlighting the need for rapid deployment and testing cycles, which aligns with the category's emphasis on adaptability. However, while it mentions relevant practices, it lacks a deeper exploration of Agile, DevOps, or Lean methodologies, which limits its overall alignment with the category.",
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges faced by Development and Operations teams in modern application development, highlighting the interplay between technology (virtual labs, automation) and organisational processes (team dynamics, integration points). However, the primary focus remains on technical solutions rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges faced by Development and Operations teams in modern application development, touching on the interplay between technology (virtual labs, automation) and organisational processes (team dynamics, integration points). However, it primarily focuses on technical solutions and tools rather than a comprehensive exploration of sociotechnical interactions. While there are mentions of team challenges and the need for collaboration, the depth of discussion on sociotechnical principles is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges and complexities faced by Development and Operations teams in modern application development, touching on the need for adaptability and resilience in response to these challenges. However, the primary focus is on technical implementations and tools rather than a comprehensive exploration of organisational resilience or change management strategies.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the challenges faced by Development and Operations teams in modern application development, highlighting the need for agility and adaptability in response to increasing complexity. While it touches on the importance of virtual labs in managing these challenges, it lacks a direct focus on organisational resilience or change management strategies. The discussion is more technical and operational rather than strategic, which diminishes its alignment with the core themes of resilience and change.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -163,12 +184,15 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges and solutions related to managing environments in modern application development, which indirectly relates to flow efficiency by addressing bottlenecks and the need for streamlined processes. However, it primarily focuses on virtual labs and automation rather than flow efficiency as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the challenges faced by Development and Operations teams in modern application development, touching on issues like environment management and automation. However, while it mentions aspects related to flow efficiency, such as reducing cycle time and improving throughput, these concepts are not the primary focus. The discussion is more about the complexities of virtual labs and automation rather than a direct exploration of flow efficiency principles or techniques for optimising work throughput.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -181,21 +205,27 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and solutions related to modern application development and the need for agility in responding to complex environments, which aligns with the theme of enterprise agility as a secondary focus.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges faced by Development and Operations teams in modern application development, touching on the need for agility in responding to complexity and rapid changes. However, it primarily focuses on technical solutions (like virtual labs and automation) rather than broader organisational strategies or cultural aspects of enterprise agility. While it mentions agility, it does not delve deeply into frameworks, leadership roles, or organisational structures that support agility, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and solutions related to modern application development, including the need for agility in responding to complex environments and the integration of tools to enhance operational efficiency. However, it primarily focuses on technical aspects rather than the broader principles and practices of business agility.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application development, particularly focusing on virtual labs and their role in enhancing operational efficiency. While it touches on aspects of agility, such as the need for rapid deployment and adaptation to changing environments, it does not explicitly delve into the principles of business agility or provide a comprehensive exploration of strategies for fostering a culture of innovation. The discussion is more technical and operational rather than strategic, which limits its alignment with the core themes of business agility.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -289,11 +319,14 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges and solutions related to modern application development, including the importance of virtual labs in delivering value through improved efficiency and integration of development and operations teams. However, the primary focus is on technical implementation details rather than explicit value delivery strategies.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application development, particularly focusing on virtual labs and their integration with development and operations teams. While it touches on aspects of value delivery, such as improving efficiency and reducing time to market, it lacks a direct focus on value delivery principles and methodologies. The discussion is more technical and operational rather than centred on strategies for maximising customer value or aligning product development with customer needs.",
     "level": "Tertiary"
   },
   "Azure DevOps": {
@@ -355,12 +388,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges and solutions related to virtual labs in modern application development, touching on tools like Visual Studio and Hyper-V, which are relevant to Agile and DevOps practices. However, it primarily focuses on technical details and problem-solving rather than providing a clear review or news update.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses the challenges and solutions related to virtual labs in modern application development, touching on tools like Visual Studio and Hyper-V. However, it lacks explicit news updates or reviews of specific products or methodologies, focusing more on theoretical discussions and problem-solving rather than providing industry news or evaluations. While it aligns with some core themes of Agile and DevOps, it does not sufficiently meet the criteria for a strong classification in the 'News and Reviews' category.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -508,11 +544,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T17:06:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:40:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to virtual labs in the context of modern application development, focusing on operational efficiency, automation, and integration within Agile and DevOps frameworks.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the challenges and solutions related to virtual labs in the context of modern application development, which directly relates to operational practices. It addresses issues such as the complexity of managing multiple environments, the impact of automation on operational efficiency, and the integration of tools to streamline processes. The depth of discussion on specific problems and solutions, such as false positives and automation maintenance, indicates a strong focus on improving operational efficiency. However, while it aligns well with the category, it does not exclusively focus on operational practices, as it also touches on broader themes of application development and technology integration.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -571,11 +610,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-14T17:07:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:40:32",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of automated testing within the context of virtual labs and modern application development, addressing challenges and solutions related to automation in testing environments.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses automated testing in the context of virtual labs and their integration with development processes. It mentions the challenges of automation maintenance and the importance of automated testing in modern application lifecycles. However, while it touches on relevant topics, the primary focus is on virtualisation and environment management rather than a deep exploration of automated testing principles and practices.",
     "level": "Secondary"
   },
   "Team Performance": {
@@ -607,11 +649,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T17:07:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:40:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to modern application development, including the use of virtual labs, automation, and integration with development tools, which are central to software development practices.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the challenges and solutions related to modern application development, particularly focusing on virtual labs, automation, and integration within the software development lifecycle. It aligns well with key topics such as CI/CD practices, automation maintenance, and the integration of development and operations teams, demonstrating a deep understanding of the complexities involved in software engineering. The depth of discussion on specific problems and solutions further supports its strong alignment with the Software Development category.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -706,11 +751,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-14T17:07:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:40:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the challenges and solutions related to delivering software updates frequently, highlighting the need for environments that support continuous delivery and the integration of development and operations teams.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application development, particularly in the context of frequent software updates and the need for agility. It mentions the necessity of delivering software at least every 30 days, which aligns with the principles of frequent releases. However, while it touches on the topic, the primary focus is more on the complexities of virtual labs and automation rather than a deep exploration of frequent release practices, which limits the depth of discussion.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -808,11 +856,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T17:08:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:40:39",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical problem-solving strategies related to virtual labs in modern application development, highlighting real-world applications of DevOps principles and the challenges faced by Development and Operations teams. It focuses on navigating complexity and uncertainty, making it a primary topic.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the complexities of modern application development and the role of virtual labs in addressing these challenges. It highlights practical problem-solving strategies, such as automation and integration of tools like Hyper-V and CloudShare, which align with the core themes of Pragmatic Thinking. However, while it provides some depth on the issues faced by Development and Operations teams, it lacks explicit discussions on Agile or Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -826,12 +877,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges and solutions related to modern application development and virtual labs, which are relevant to innovation in software delivery. However, it primarily focuses on operational issues rather than a direct exploration of innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application development and the use of virtual labs, which indirectly touches on innovation in terms of improving processes and efficiency. However, it lacks a direct focus on the measurement and enhancement of innovation capabilities, as well as Evidence-Based Management principles. The discussion is more about operational challenges rather than a structured approach to fostering a culture of innovation or empirical data-driven decision-making.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
@@ -871,11 +925,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-14T17:08:20",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:40:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the role of automated testing within the context of virtual labs and modern application development, highlighting challenges and integration points related to automation. However, the primary focus is on virtual labs and their impact on development and operations rather than solely on test automation.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of automated testing within the context of virtual labs and modern application development. It touches on automation maintenance and the challenges associated with it, which aligns with the principles of test automation. However, the primary focus is on virtual labs and their integration into development workflows rather than a deep exploration of test automation itself. The discussion on automation is present but not exhaustive, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -889,12 +946,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges and solutions related to modern application development, including the importance of virtual labs in delivering functional software. However, it primarily focuses on the complexities of managing environments rather than directly addressing the delivery of working software.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application development, particularly focusing on virtual labs and their role in facilitating the development and testing of software. While it touches on aspects of working software, such as the need for continuous delivery and the integration of development and operations teams, it lacks a direct focus on the characteristics and best practices of working software as defined in Agile and Scrum frameworks. The discussion is more about the tools and environments rather than the delivery of functional software that meets user requirements.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -907,11 +967,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the integration of virtual labs and automated testing within the context of modern application development, which relates to Continuous Integration practices. However, it primarily focuses on the challenges and solutions of managing environments rather than CI principles or best practices.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application development, including the use of virtual labs and automation. While it touches on aspects of Continuous Integration, such as automated testing and deployment, it primarily focuses on the broader context of application lifecycle management rather than CI principles and practices specifically. The mention of CI tools and practices is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Market Share": {
@@ -943,12 +1006,15 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and solutions related to managing environments for modern applications, which touches on aspects of reliability and operations. However, it primarily focuses on virtual labs and development processes rather than core SRE principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges faced by Development and Operations teams in modern application development, touching on automation and the need for reliable environments. However, it primarily focuses on virtual labs and automation tools rather than the core principles of Site Reliability Engineering (SRE). While there are mentions of operational challenges, the content lacks a direct discussion of SRE principles, SLOs, SLIs, or incident response practices, which are central to the SRE category.",
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -979,12 +1045,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and solutions related to managing environments for software development and testing, which aligns with aspects of release management, but it primarily focuses on virtual labs and automation rather than the broader strategies and practices of release management.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application development, particularly focusing on virtual labs and their integration with development and operations teams. While it touches on aspects of release management, such as the need for timely software delivery and the complexities of managing multiple environments, it lacks a direct and explicit focus on the core themes of release management. The discussion is more centred around the technical challenges and tools rather than the strategic planning and scheduling aspects of software releases.",
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1006,21 +1075,24 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:09:02",
+    "calculated_at": "2025-03-15T05:40:26",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses virtual labs and their integration with Visual Studio Team Foundation Server, but it does not focus primarily on Azure Pipelines or CI/CD practices. It mentions Azure in the context of potential future integrations, but this is not central to the discussion.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:23",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and solutions related to deploying software frequently, particularly in the context of modern application development and the use of virtual labs. However, it primarily focuses on the complexities of managing environments rather than solely on deployment frequency.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the challenges and solutions related to modern application development, including the need for frequent updates and the complexities of managing multiple environments. While it mentions the goal of delivering software at least every 30 days, the primary focus is on the operational challenges and technologies involved rather than on optimising deployment frequency itself. The discussion lacks depth in strategies for increasing deployment frequency and does not provide metrics or best practices specifically related to deployment intervals.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -1033,12 +1105,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges faced by Development and Operations teams in modern application development, touching on collaboration aspects through the integration of tools like Visual Studio Team Foundation Server and the importance of automation in facilitating teamwork. However, the primary focus is on technical solutions rather than explicit team collaboration strategies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges faced by Development and Operations teams in modern application development, touching on aspects of collaboration through the use of virtual labs and automation. However, it primarily focuses on technical solutions and the complexities of environments rather than explicitly addressing team dynamics, communication, or shared ownership, which are central to the Team Collaboration category.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1051,11 +1126,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-14T17:08:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:40:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of virtual labs and automated testing within the modern application lifecycle, highlighting how these digital technologies enhance operational efficiency and support agile development practices. It addresses the challenges faced by development and operations teams in adapting to modern application demands, which aligns closely with the themes of digital transformation.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the complexities and challenges of modern application development, particularly in relation to virtual labs and automation. While it touches on themes of agility and operational efficiency, it lacks a direct focus on strategic digital transformation initiatives or case studies. The mention of tools like Visual Studio and Hyper-V indicates some alignment with digital technologies, but the overall discussion is more about operational challenges than a comprehensive view of digital transformation strategies.",
     "level": "Secondary"
   },
   "MVP": {
@@ -1132,21 +1210,27 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-14T17:09:12",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:40:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the integration of virtual labs with Visual Studio and Hyper-V, which are specific to the Windows environment. However, the primary focus is on modern application development and virtualisation rather than Windows OS management or troubleshooting.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses various aspects of virtual labs and their integration with Visual Studio and Hyper-V, which are directly related to the Windows operating system. It provides detailed insights into the challenges faced by development and operations teams in a Windows environment, particularly in relation to software deployment and testing. The mention of Hyper-V and its integration with Team Foundation Server indicates a strong focus on Windows technologies. However, the content does not exclusively centre on Windows, as it also references other platforms and general application development concepts, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:41:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of virtual labs into the application lifecycle, touching on deployment automation and the challenges faced in managing multiple environments, which are relevant to deployment strategies. However, the primary focus is on virtualisation and development processes rather than specific deployment methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the challenges and solutions related to virtual labs in the context of modern application development, touching on aspects of deployment automation and integration. However, it primarily focuses on the complexities of managing environments rather than specific deployment strategies like Blue-Green Deployments or Canary Releases. The mention of deployment automation is present but not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1231,11 +1315,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-14T17:09:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:40:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to modern application development, focusing on the roles of Development and Operations teams, which aligns with Agile and DevOps methodologies.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses the challenges faced by development and operations teams in modern application development, particularly in relation to virtual labs and automation. It touches on the integration of tools like Visual Studio Team Foundation Server and Hyper-V, which are relevant to software developers. However, while it mentions some Agile and DevOps principles, the focus is more on the technical aspects of virtualisation and environment management rather than explicitly exploring the role of software developers within Agile and DevOps frameworks. Therefore, while there is some alignment, it lacks depth in discussing best practices or methodologies specific to software development roles.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1258,11 +1345,14 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:40:59",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges and complexities of modern application development, including the impact of technical debt on development and operations teams. However, it primarily focuses on virtual labs and automation rather than a direct exploration of technical debt management strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the challenges faced by Development and Operations teams in modern application development, including the complexities and inefficiencies that can lead to technical debt. While it mentions technical debt in the conclusion, the primary focus is on virtual labs and their integration into the application lifecycle, rather than a detailed exploration of technical debt management or remediation strategies.",
     "level": "Tertiary"
   },
   "Sprint Review": {
@@ -1420,7 +1510,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:43:07",
+    "calculated_at": "2025-03-15T05:40:26",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 10.0,
@@ -1428,6 +1518,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content primarily discusses virtual labs and their role in modern application development, focusing on operational challenges and automation rather than Scrum principles, roles, or events. While it touches on team dynamics and the need for collaboration, it does not explicitly mention Scrum or its framework, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

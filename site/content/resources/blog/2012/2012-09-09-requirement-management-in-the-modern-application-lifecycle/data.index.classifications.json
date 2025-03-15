@@ -1,12 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile Project Management tools and their integration with Team Foundation Server, highlighting aspects of Agile methodologies and the importance of managing requirements in an Agile context. However, it primarily focuses on tools rather than the broader principles of Agile Product Management.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses various tools and practices related to requirement management within the context of Agile methodologies, particularly focusing on Team Foundation Server (TFS) and its integration with Agile project management tools. While it mentions Agile principles and the importance of capturing customer feedback, the primary focus is on the technical aspects of TFS and its features rather than a comprehensive exploration of Agile Product Management concepts. The depth of discussion on Agile practices is moderate, but it lacks a thorough examination of the role of the Product Owner or detailed strategies for backlog prioritisation.",
+    "level": "Secondary"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -49,12 +52,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools and methodologies related to requirement management and Agile practices, which are relevant to learning and discovery processes in software development, but the primary focus is on technical implementation rather than on fostering a culture of innovation or continuous learning.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on requirement management and the tools associated with Team Foundation Server (TFS). While it touches on aspects of agile methodologies and the importance of capturing requirements effectively, it lacks a strong emphasis on the processes of discovery and learning. The discussion is more about technical implementation and project management rather than fostering a culture of innovation or continuous learning. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -103,12 +109,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of tools and processes within an organisation's software development lifecycle, touching on aspects of team dynamics and the challenges of requirements management, but it primarily focuses on specific tools rather than the broader sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on requirement management tools and their functionalities within Team Foundation Server (TFS), with limited discussion on the sociotechnical aspects of how these tools interact with organisational structures or team dynamics. While it touches on the challenges of capturing requirements and mentions the need for integration with various tools, it lacks a thorough exploration of the interplay between social and technical systems, which is central to the Sociotechnical Systems category.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -121,7 +130,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-10T14:53:17",
+    "calculated_at": "2025-03-15T05:42:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -129,7 +138,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on requirement management within the context of Team Foundation Server (TFS) and does not explicitly discuss DevOps principles or practices. While it touches on aspects of Agile methodologies and mentions tools that could be part of a DevOps toolchain, the main emphasis is on managing requirements rather than the integration of development and operations or continuous delivery. Therefore, it has a low confidence score for the DevOps category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -178,30 +187,39 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses tools and practices related to requirement management within the context of Team Foundation Server, which touches on agile principles and the need for organisations to adapt to changing market demands. However, it primarily focuses on specific tools rather than a broader organisational agility framework.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses requirement management and tools like TFS, which are relevant to agile practices. However, it primarily focuses on team-level tools and processes without addressing broader organisational agility or cultural aspects. While there are mentions of agile methodologies, the discussion lacks depth in terms of enterprise-level agility frameworks, leadership roles, or organisational structures that support agility.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of agile tools and practices in managing requirements, which is a significant aspect of business agility, but it primarily focuses on specific tools and their functionalities rather than broader principles or strategies of business agility.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS), which are relevant to agile practices. However, it primarily focuses on specific tools and their functionalities rather than exploring the broader principles and practices of business agility. While there are mentions of agile methodologies and the need for organisations to adapt, the depth of discussion on business agility principles, leadership roles, and cultural aspects is limited.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools and methodologies related to requirement management and Agile practices, which includes aspects of metrics and feedback mechanisms, but it primarily focuses on the tools rather than a deep exploration of metrics and learning principles.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS), but it does not focus on metrics or learning in a significant way. While there are mentions of feedback mechanisms and the importance of capturing requirements, the primary focus is on the tools and processes rather than on metrics, data analysis, or continuous improvement methodologies. The discussion lacks depth in terms of evidence-based decision-making and does not provide substantial insights into the role of metrics in Agile or DevOps practices.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -286,12 +304,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses requirement management and tools that facilitate Agile practices, but it primarily focuses on technical implementation details rather than strategies for delivering value to customers.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses requirement management and tools that support Agile methodologies, which aligns with value delivery principles. However, it primarily focuses on technical implementation details and specific tools rather than broader strategies for delivering value to customers. While there are mentions of Agile and continuous delivery, the depth of discussion on value delivery practices is limited.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -343,11 +364,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools and practices related to requirement management and Agile methodologies, indicating a major but secondary theme of organisational agility, particularly in the context of adapting to market changes and customer needs.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses requirement management and tools like Team Foundation Server (TFS) but lacks a primary focus on organisational agility. While it touches on agile project management tools and the need for organisations to adapt to changing market demands, the discussion is more centred on specific tools and their functionalities rather than broader strategies or cultural shifts that enhance organisational agility.",
     "level": "Tertiary"
   },
   "News and Reviews": {
@@ -391,12 +415,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses requirement management tools related to Team Foundation Server, which involves aspects of software development processes. While it touches on technical aspects, the focus on requirement management techniques and tools means that Technical Mastery is a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses various tools and integrations related to requirement management within the context of Team Foundation Server (TFS). While it touches on aspects of software development and agile practices, the primary focus is on tool usage rather than deep technical mastery principles such as clean code, architecture, or engineering practices. The discussion lacks a strong emphasis on best practices or methodologies that contribute to high-quality software development, which diminishes its alignment with the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -463,11 +490,14 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 55,
+    "calculated_at": "2025-03-15T05:43:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 52.0,
-    "reasoning": "The content discusses aspects of requirement management and tools utilizing TFS that can relate to the Product Backlog, but its primary focus is on requirements as a broader topic rather than directly on the Product Backlog itself.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS), which touches on aspects of backlog management. However, it primarily focuses on the challenges of managing requirements rather than the specific practices and principles of a Product Backlog in Agile. While there are mentions of Agile tools and the importance of managing a backlog, the depth of discussion on backlog refinement, prioritisation techniques, and the role of the Product Owner is limited. Therefore, the content aligns with the category but does not provide a comprehensive exploration of it.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -502,11 +532,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T05:42:57",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses various tools and practices related to requirement management within Team Foundation Server (TFS) and mentions the importance of agile practices, but it largely focuses on the capabilities of specific tools rather than providing operational practices or strategies for enhancing efficiency within Agile or DevOps frameworks.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses requirement management within the context of Team Foundation Server (TFS) and its integration with Agile practices. While it touches on operational practices, such as the need for effective requirement capture and the use of tools to streamline processes, it lacks a focused discussion on specific operational efficiency techniques or metrics. The mention of tools and integration points provides some depth, but the overall emphasis is more on the tools themselves rather than on operational practices aimed at enhancing efficiency.",
     "level": "Tertiary"
   },
   "Scrum Team": {
@@ -601,11 +634,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:47:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:42:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on requirement management in the context of software development, specifically using Team Foundation Server (TFS) and discusses its implications within the software development lifecycle, integrating agile methodologies, and collaboration practices. It extensively covers the tools and techniques associated with managing software requirements, which aligns well with the core topics of the Software Development category.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses requirement management within the context of the software development lifecycle, specifically focusing on Team Foundation Server (TFS) and its integration with Agile methodologies. It covers various aspects of software development practices, including the challenges of capturing requirements, the importance of traceability, and the role of tools in facilitating Agile project management. The depth of discussion on integration points, tools, and methodologies aligns well with the core themes of software development, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Agile Project Management": {
@@ -640,12 +676,12 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:02",
+    "calculated_at": "2025-03-15T05:42:38",
     "ai_confidence": 40,
     "non_ai_confidence": 10,
     "final_score": 37.0,
     "reasoning": "While the content discusses integration and functionality of TFS, it is primarily focused on requirements management and project tools rather than source control practices and strategies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -667,20 +703,26 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses various functionalities and integration points of Team Foundation Server (TFS) which is part of Azure DevOps, including work item tracking and Agile project management. However, it covers TFS broadly and other tools, rather than focusing solely on Azure Boards as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its work item tracking capabilities, which are relevant to Azure Boards. However, it primarily focuses on requirement management rather than the specific functionalities and best practices of Azure Boards in Agile project management. While there are mentions of work item types and integration with Agile tools, the overall emphasis is on TFS and its ecosystem rather than Azure Boards specifically.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various tools, including Team Foundation Server and its integrations, that facilitate requirements management and team collaboration, but the focus is primarily on requirements management rather than collaboration tools themselves.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its integration with various tools, which can enhance collaboration within Agile teams. However, the primary focus is on requirement management rather than on collaboration tools themselves. While there are mentions of tools that facilitate collaboration, the depth of discussion on how these tools specifically enhance team communication and coordination is limited.",
     "level": "Tertiary"
   },
   "Organisational Change": {
@@ -712,12 +754,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content mainly focuses on requirement management tools and processes, it highlights the importance of effectively capturing requirements to meet customer value expectations, which suggests an understanding of customer satisfaction as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS), with a focus on integration and functionality rather than directly addressing customer satisfaction. While it briefly touches on the importance of capturing requirements to meet customer expectations, it lacks a comprehensive exploration of customer satisfaction principles, measurement techniques, or strategies for enhancing customer engagement. The primary focus remains on technical implementation and tool capabilities, which does not align with the core themes of the Customer Satisfaction category.",
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -757,7 +802,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T12:53:12",
+    "calculated_at": "2025-03-15T05:42:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -765,7 +810,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS), which touches on aspects of software development practices. However, it primarily focuses on the challenges of managing requirements rather than promoting high standards in software craftsmanship or continuous improvement of engineering processes. While there are mentions of integration and tools that could enhance development efficiency, the overall emphasis is more on the tools and their functionalities rather than on engineering excellence principles or best practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -787,12 +832,12 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T09:09:02",
+    "calculated_at": "2025-03-15T05:42:38",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content discusses requirements management and the tools used within an organizational context, but it primarily focuses on specific tools (TFS and its integrations) rather than systems thinking principles or organizational dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -835,21 +880,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses requirement management tools in the context of software development, which includes agile considerations but lacks a strong emphasis on Scrum practices. Scrum roles and sprint processes are not central to the discussion.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS), which are relevant to Agile methodologies. However, it lacks a direct focus on Scrum principles, roles, or practices. While it touches on aspects of Agile project management, it does not delve deeply into Scrum-specific processes such as sprints, backlog management, or customer feedback integration, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and tools, particularly within the context of Team Foundation Server, indicating a major but secondary theme related to scaling Agile practices. However, the primary focus is on requirement management and tools rather than explicitly on scaling Agile across multiple teams or an enterprise level.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses requirement management within the context of Team Foundation Server (TFS) and does not explicitly address scaling Agile practices across multiple teams or at an enterprise level. While it touches on Agile project management tools and mentions the need for collaboration and integration, it lacks a focused discussion on frameworks for scaling Agile, enterprise-level transformation strategies, or the role of leadership in scaling Agile practices. Therefore, it only partially aligns with the key topics of the Scaled Agile category.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -889,20 +940,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses requirement management tools and practices that are integral to the development and delivery of functional software, but the emphasis is more on the tools and processes rather than the software outcomes themselves.",
+    "final_score": 58.0,
+    "reasoning": "The content discusses requirement management and tools like Team Foundation Server (TFS) that support the software development lifecycle. While it touches on aspects of working software, such as the importance of capturing requirements and integrating feedback, it primarily focuses on tools and processes rather than delivering functional software that meets customer needs. The discussion lacks depth in terms of best practices for ensuring software quality and functionality, which is crucial for the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T20:47:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T05:42:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on the integration and functionalities of Agile Planning Tools within the context of Team Foundation Server (TFS). It discusses various partner tools that enhance Agile project management, including features for backlog management, sprint planning, and overall agile execution, which are central to the category.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses various tools and solutions related to requirement management within the context of Agile methodologies, particularly focusing on Team Foundation Server (TFS) and its integration with Agile planning tools. It provides a detailed overview of how TFS can be used for backlog management, sprint planning, and collaboration, which aligns well with the core themes of Agile Planning Tools. However, while it mentions Agile planning tools, the primary focus is on requirement management rather than solely on Agile planning methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -979,12 +1036,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses requirement management and its integration with Team Foundation Server (TFS) and mentions tools related to Agile project management, but the focus is not directly on release management processes, which is a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on requirement management within the context of Team Foundation Server (TFS) and does not explicitly discuss release management strategies or practices. While it touches on aspects of integration and tools that could support release processes, it lacks a direct focus on planning, scheduling, or controlling software releases. The discussion is more aligned with requirements gathering and management rather than the broader scope of release management.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -997,11 +1057,14 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T20:47:14",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-15T05:42:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the need to reduce requirements definition cycle time and the implications of this reduction on operational efficiency, making Cycle Time a major theme albeit not the sole focus.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the challenges of managing requirements and mentions the need to reduce the requirements definition cycle time, which aligns with the concept of Cycle Time. However, the primary focus is on requirement management tools and processes rather than a detailed exploration of Cycle Time itself. The discussion lacks depth in terms of specific methods for measuring or strategies for reducing Cycle Time, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Azure Pipelines": {
@@ -1015,12 +1078,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and touches on the need for timely and well-documented requirements, which indirectly relates to the concept of deployment frequency through capturing customer feedback and iteration cycles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS) but does not focus on deployment frequency as a primary topic. While it touches on Agile practices and mentions the need for timely requirements capture, it lacks a detailed exploration of deployment frequency, strategies for optimisation, or metrics related to deployment intervals.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -1033,12 +1099,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools and solutions that can enhance team collaboration and integration in Agile environments, but its primary focus is on requirement management rather than direct exploration of collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on requirement management and tools related to Team Foundation Server (TFS), with only brief mentions of team collaboration aspects. While it discusses integration points and tools that could facilitate teamwork, it lacks a direct focus on enhancing team dynamics, communication, or shared ownership, which are core themes of the 'Team Collaboration' category. The depth of discussion on collaboration is limited, primarily addressing tools rather than strategies or cultural aspects of teamwork.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1051,12 +1120,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools and methodologies (like Team Foundation Server) that can aid in managing requirements, promoting agility, and improving efficiency in software development, which aligns with the themes of digital transformation. However, it focuses more on specific tools and their functionalities rather than a broader strategic discussion on digital transformation.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses requirement management within the context of Team Foundation Server (TFS) and its integration with various tools. While it touches on aspects of digital tools and methodologies, the primary focus is on specific functionalities and integrations rather than a broader strategic discussion on digital transformation. The mention of agile practices hints at a connection to business agility, but the overall depth and focus on digital transformation as a strategic initiative is limited.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1132,12 +1204,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:42:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its integrations with various tools, which are relevant to Visual Studio and the Windows operating environment. However, it is mainly focused on requirement management and project management practices rather than directly on the Windows operating system, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its integration with Visual Studio 2012, which are tools that operate within the Windows environment. However, the focus is more on requirement management and project management rather than on Windows-specific topics such as installation, configuration, or troubleshooting of the Windows operating system itself. While there are mentions of Microsoft products, the content does not delve deeply into Windows OS functionalities or management, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1231,12 +1306,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses tools and practices related to requirement management in the context of Team Foundation Server, which is relevant to software development and project management methodologies, particularly Agile. However, the main focus is on requirement management rather than a detailed exploration of software developers' roles within Agile and DevOps, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses requirement management within the context of Team Foundation Server (TFS) and its integration with Agile methodologies. It touches on tools that support Agile project management and highlights the importance of capturing requirements effectively, which aligns with the role of software developers in Agile environments. However, the focus is more on tools and processes rather than on the developers' roles and practices specifically, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1297,20 +1375,26 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile Project Management Tools within the context of Team Foundation Server (TFS), which aligns with Agile frameworks, but it does not primarily focus on Agile frameworks themselves; rather, it mentions them as part of a broader discussion on requirement management and tools.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses requirement management within the context of Team Foundation Server (TFS) and mentions Agile Project Management tools, indicating a connection to Agile frameworks. However, the primary focus is on tools and their functionalities rather than a thorough exploration of Agile frameworks themselves. While Agile principles are touched upon, the depth of discussion on Agile frameworks is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Agile tools with Team Foundation Server and mentions how organizations are moving towards Agile to meet market demands, but it primarily focuses on requirement management and tool functionality rather than a comprehensive Agile strategy.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses various tools and integrations related to requirement management within the context of Team Foundation Server (TFS), touching on Agile methodologies. However, it primarily focuses on technical practices and specific tools rather than a strategic discussion on Agile principles or the alignment of organisational vision with Agile methodologies. While Agile is mentioned, it is not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -1342,12 +1426,15 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the evolution of requirement management tools in the context of Agile and DevOps, and touches on the need for organizations to adapt to changing consumer expectations, indicating an awareness of trends impacting software development practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the evolution of requirement management tools within the context of Agile methodologies and mentions the shift towards Agile practices in organisations. It touches on the implications of these trends for software delivery and operational efficiency, particularly through the lens of Team Foundation Server (TFS) and its integration with various tools. However, while it references trends, the primary focus is on specific tools and their functionalities rather than a comprehensive analysis of trends themselves, which limits the depth of discussion on trend analysis.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -1369,12 +1456,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:09:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T05:43:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses requirement management and the challenges in capturing actionable requirements, which indirectly relates to throughput by highlighting the impact of cycle time on the execution of work items. However, it primarily focuses on tools and solutions rather than a direct exploration of throughput as a central concept.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS), but it does not focus on throughput as defined in Agile and DevOps contexts. While it mentions the need to reduce the requirements definition cycle time, it lacks a comprehensive exploration of throughput measurement, optimisation strategies, or the impact on team performance. The primary focus is on tools and processes rather than the flow of work and completion rates.",
+    "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1387,7 +1477,7 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T18:42:11",
+    "calculated_at": "2025-03-15T05:42:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1395,7 +1485,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS), with some references to Agile practices and project management tools. However, it lacks a focused discussion on the core frameworks of Scrum, Kanban, Lean, or Agile methodologies. While Agile is mentioned, it is not the primary focus, and the depth of discussion on social technologies and their role in collaboration and continuous improvement is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1426,7 +1516,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:43:18",
+    "calculated_at": "2025-03-15T05:42:38",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1434,6 +1524,6 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses requirement management and tools related to Team Foundation Server (TFS) but does not explicitly mention Scrum or its core principles. While it touches on agile project management tools, the focus is primarily on TFS and its integration capabilities rather than on Scrum roles, events, or artifacts. The discussion lacks depth in Scrum-specific practices, leading to a low confidence score in alignment with the Scrum category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

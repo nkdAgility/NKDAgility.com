@@ -8,7 +8,7 @@ ResourceImportId: 50
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: GeeksWithBlogs
 date: 2010-04-14
-weight: 440
+weight: 475
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -28,6 +28,15 @@ aliasesArchive:
 - /resources/blog/guidance-a-branching-strategy-for-scrum-teams
 tags:
 - Software Development
+- Software Developers
+- Modern Source Control
+- Practical Techniques and Tooling
+- Agile Project Management
+- Operational Practices
+- Release Management
+- Scrum Product Development
+- Engineering Practices
+- Product Delivery
 categories:
 - Scrum
 - Social Technologies

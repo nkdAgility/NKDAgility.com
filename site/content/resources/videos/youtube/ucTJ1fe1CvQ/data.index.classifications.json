@@ -25,11 +25,14 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:34:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product development and the importance of understanding user needs, which are relevant to entrepreneurship. However, the primary focus is on product management and development processes rather than entrepreneurship itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of understanding user needs and challenging assumptions in product development, which aligns with the entrepreneurial focus on innovation and value creation. It highlights the need for a learning mindset and experimentation, both of which are crucial for entrepreneurs. However, while it touches on entrepreneurial themes, it primarily centres on product development processes rather than broader entrepreneurial strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Backlog": {
@@ -43,39 +46,51 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:34:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product development and the importance of understanding assumptions, which relates to Scrum principles of empirical process control and continuous improvement, but it primarily focuses on a specific course rather than Scrum itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses product development and the importance of challenging assumptions, which is somewhat related to Scrum principles like continuous improvement and empirical process control. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum-specific practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:34:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses assumptions in product development and the complexities involved, which relates to systems thinking and organisational dynamics. However, it primarily focuses on product development processes rather than a comprehensive exploration of organisational behaviour.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of navigating assumptions in product development, which touches on systems thinking and the complexity of organisational dynamics. However, it primarily focuses on product delivery and individual behaviours rather than a holistic view of organisational behaviour or systems thinking principles. While there are elements of organisational dynamics mentioned, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding assumptions and learning in product development, which aligns with coaching principles. However, it primarily focuses on the PPDV course and product development rather than coaching itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of navigating assumptions in product development and highlights a course designed to help teams improve their processes. While it touches on themes of learning and collaboration, it lacks a direct focus on coaching practices or the role of a coach. The discussion is more about product development strategies than coaching methodologies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of understanding assumptions and gathering evidence in product development, which aligns with evidence-based practices. However, the primary focus is on the course and its structure rather than directly on leadership decisions.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of evidence-based decision-making in product development, particularly in relation to challenging assumptions and validating user needs. It aligns with the principles of Evidence-Based Leadership by emphasising the need for data and evidence to inform decisions, which is a core theme of the category. However, while it touches on these concepts, the primary focus is on product development rather than leadership practices specifically, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -136,11 +151,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of creating valuable products and solutions, which aligns with the concept of working software. However, it primarily focuses on assumptions in product development and does not directly address the delivery of functional software.",
+    "calculated_at": "2025-03-14T18:34:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding user needs and avoiding the 'Feature Factory' mindset, which aligns with the principles of delivering working software. However, it primarily focuses on assumptions and the process of product development rather than directly addressing the characteristics or metrics of working software itself. While it touches on delivery and validation, it lacks in-depth discussion on software quality and functionality, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Decision Making": {
@@ -175,12 +193,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of understanding user needs, making assumptions, and the learning process in product development, which aligns with Lean principles. However, it primarily focuses on the PPDV course and its structure rather than Lean Product Development as a central theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of challenging assumptions and navigating complexities in product development, which aligns with Lean principles of continuous learning and delivering value. However, it primarily focuses on the PPDV course and does not explicitly mention Lean methodologies or waste reduction techniques, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -193,11 +214,14 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding user needs and assumptions in product development, which relates to customer feedback, but it primarily focuses on assumptions and the course structure rather than specific feedback loop mechanisms.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of understanding user needs and validating assumptions, which aligns with the concept of customer feedback loops. However, it primarily focuses on assumptions and the delivery process rather than explicitly detailing mechanisms for collecting and integrating customer feedback. While it touches on related themes, it lacks a direct emphasis on feedback loops as a primary focus.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -229,12 +253,15 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:34:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding user needs, assumptions in product development, and the implications of these factors on creating valuable products, which aligns with customer-centric approaches in product strategy. However, it primarily focuses on a specific course rather than a broader product strategy discussion.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the importance of understanding user needs and challenging assumptions in product development, which aligns with customer-centric approaches and the need for effective product strategy. It also touches on the dangers of the 'Feature Factory' mindset, which relates to competitive analysis and market positioning. However, while it provides valuable insights into navigating assumptions and the course's approach, it lacks a comprehensive exploration of strategic planning and roadmapping techniques, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -256,30 +283,39 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:34:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding assumptions in product development and how this relates to creating valuable products, which aligns with strategic thinking in Agile environments. However, the primary focus is on the PPDV course and product development rather than a clear strategic framework or approach.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of challenging assumptions in product development, which aligns with strategic thinking in Agile environments. It highlights the need for teams to focus on user needs and value delivery, reflecting strategic alignment with organisational goals. However, while it touches on strategic concepts, the primary focus is more on product development processes rather than a comprehensive strategy discussion, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding assumptions in product development and the need for empirical evidence to create valuable products, which aligns with the theme of innovation. However, it primarily focuses on the PPDV course and its structure rather than a comprehensive exploration of the Ability to Innovate as a central topic.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the importance of challenging assumptions in product development, which aligns with the core themes of the Ability to Innovate category. It emphasises evidence-based decision-making and continuous improvement, which are crucial for fostering innovation. The course's focus on Discovery, Delivery, and Validation provides a structured approach to navigating assumptions, thus enhancing the organisation's capacity to innovate. However, while the content is rich in relevant themes, it does not delve deeply into specific frameworks or metrics for measuring innovation capabilities, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product development and the importance of understanding assumptions, which are relevant to Agile principles, but it does not primarily focus on Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses product development and the importance of challenging assumptions, which aligns with Agile principles of continuous improvement and responsiveness. However, it does not explicitly mention Agile frameworks or provide a comparative analysis of them. The focus is more on the PPDV course and its approach rather than on Agile frameworks themselves.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -301,12 +337,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding user needs and assumptions in product development, which relates to customer satisfaction, but it primarily focuses on the course structure and product development processes.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the importance of understanding user needs and avoiding the 'Feature Factory' mindset, which indirectly relates to customer satisfaction. However, it primarily focuses on assumptions in product development rather than directly addressing customer satisfaction principles or practices. While there are mentions of user needs and value delivery, the depth of discussion on customer satisfaction metrics or strategies is limited.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -346,11 +385,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product development and the importance of understanding assumptions in the context of creating valuable products, which relates to software development practices. However, it primarily focuses on product management and development processes rather than specific software engineering methodologies or practices.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses product development and the importance of challenging assumptions, which aligns with software development practices. However, it primarily focuses on product management and user needs rather than specific software engineering methodologies or practices. While it touches on concepts relevant to software development, such as delivery and validation, it lacks depth in discussing software development life cycles or coding practices.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
@@ -382,12 +424,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:34:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding user needs, collaboration, and learning in product development, which aligns with Agile principles. However, it primarily focuses on the PPDV course and specific challenges in product development rather than a deep exploration of Agile values.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of challenging assumptions and understanding user needs, which aligns with Agile principles of customer collaboration and responding to change. However, it primarily focuses on the PPDV course and product development practices rather than explicitly discussing Agile values or principles. The depth of discussion on Agile concepts is moderate, but the primary focus remains on the course rather than the foundational beliefs of Agile.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -409,12 +454,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product development and the role of product leaders, including product owners, in navigating assumptions and stakeholder collaboration, but it is not solely focused on the responsibilities and practices of the Product Owner.",
-    "level": "Tertiary"
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of product owners in navigating assumptions and ensuring that product development aligns with user needs. It highlights the importance of discovery, delivery, and validation, which are crucial for product owners. However, while it mentions product owners, the focus is more on general product development principles rather than specific responsibilities or techniques unique to the Product Owner role.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -436,12 +484,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:34:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of navigating assumptions and the need for evidence-based decision-making in product development, which aligns with empirical process control principles. However, it primarily focuses on the PPDV course and its structure rather than a deep exploration of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of navigating assumptions in product development, which aligns with the principles of empirical process control. It emphasises evidence-based decision-making, continuous validation, and the iterative nature of product development, which are core themes of the category. However, while it touches on these concepts, it does not delve deeply into specific Agile methodologies or frameworks, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -520,12 +571,15 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:34:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of creating a product increment and touches on the delivery of valuable products, but it primarily focuses on assumptions in product development and the challenges faced, making the Increment a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of delivery in product development, specifically mentioning the production of product increments at the end of sprints. However, it primarily focuses on the challenges of assumptions and the need for validation rather than the Increment itself. While it touches on the significance of delivering value, it does not delve deeply into best practices or the relationship between Increments and other Scrum artifacts, which limits its alignment with the Increment category.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -604,12 +658,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding assumptions in product development, which aligns with Agile principles of continuous learning and adaptation. However, it primarily focuses on the PPDV course and specific challenges in product development rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of navigating assumptions in product development, which aligns with Agile principles of continuous value delivery and adaptability. However, it primarily focuses on the PPDV course and its approach rather than a broader Agile strategy. While it touches on key Agile concepts like discovery, delivery, and validation, the depth of discussion on strategic alignment and implementation of Agile methodologies is limited.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -760,30 +817,39 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:34:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses product development and the importance of understanding user needs, which aligns with Scrum principles, but it does not focus primarily on Scrum practices or frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses product development with a focus on assumptions and user needs, which aligns with Scrum principles of iterative development and customer feedback. However, it lacks explicit references to Scrum roles, events, or the framework itself, which limits its direct mention score. The depth of discussion on navigating assumptions and validating user needs provides a reasonable level of detail, but it does not fully explore Scrum-specific practices.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding assumptions in product development and how this relates to improving processes, but it primarily focuses on the PPDV course and its educational aspects rather than directly addressing operational efficiency or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of navigating assumptions in product development, which indirectly relates to operational practices by emphasising continuous improvement and evidence-based decision-making. However, it primarily focuses on the theoretical aspects of product development rather than providing concrete operational strategies or techniques. The mention of 'continuous improvement' and 'evidence-based decision-making' aligns with operational practices, but the overall depth and direct focus on operational efficiency are limited.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of assumptions, evidence, and learning in product development, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on the PPDV course and product development rather than EBM as a central theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of challenging assumptions and validating them through empirical evidence, which aligns with the principles of Evidence-Based Management. It highlights the need for data-driven decision-making and continuous improvement, particularly in the context of product development. However, while it touches on relevant themes, the primary focus is on the PPDV course and its approach rather than a comprehensive exploration of EBM principles. The depth of discussion on EBM concepts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -853,20 +919,26 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-12T00:44:27",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T15:01:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of assumptions in product development, which aligns with Lean Startup principles. It touches on concepts like user understanding, validation, and learning from feedback, but it primarily focuses on a course offering rather than a direct application of Lean Startup methodology.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of validating assumptions and understanding user needs, which aligns with Lean Startup principles. It mentions concepts like discovery, delivery, and validation, which are relevant to the iterative learning process. However, it lacks a direct focus on the Minimum Viable Product (MVP) and the Build-Measure-Learn feedback loop, which are central to the Lean Startup methodology. The discussion is more about general product development practices rather than a strict application of Lean principles.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:11:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of product development that touch on Agile principles, such as the importance of understanding user needs and navigating assumptions. However, it primarily focuses on the PPDV course and the feature factory problem rather than directly addressing Agile Planning methodologies or practices.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of navigating assumptions in product development, which aligns with Agile principles of adaptability and continuous improvement. However, it primarily focuses on the challenges of delivery and user understanding rather than specific Agile planning methodologies or practices. While it touches on iterative processes and the need for validation, it lacks detailed discussions on Agile planning techniques, roles, or frameworks, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Accountability": {
@@ -880,11 +952,14 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of assumptions and learning in product development, which aligns with MVP principles, but it primarily focuses on a course offering rather than the MVP concept itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of validating assumptions and understanding user needs, which aligns with MVP principles. However, it does not explicitly mention MVP or focus on its development. The discussion on navigating assumptions and the empirical cycle touches on MVP concepts but lacks depth in specific MVP strategies or case studies.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
@@ -961,12 +1036,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:32:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding assumptions in product development and highlights the need for collaboration and learning, which are key themes in Agile philosophy. However, it primarily focuses on a specific course and its structure rather than a broader discussion of Agile principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of challenging assumptions and understanding user needs, which aligns with Agile principles of customer collaboration and continuous improvement. It also highlights the dangers of the 'Feature Factory' mindset, reflecting on the need for adaptability and responsiveness to change. However, while it touches on Agile concepts, it primarily focuses on a specific course rather than a broader discussion of Agile philosophy.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1024,20 +1102,26 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-12T00:45:16",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of learning from assumptions in product development, emphasising a conscious learning process and the integration of discovery and validation, which aligns well with the principles of Continuous Learning.",
+    "calculated_at": "2025-03-13T15:24:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of challenging assumptions and fostering a learning mindset in product development, which aligns with the principles of Continuous Learning. It highlights the need for teams to engage in discovery, delivery, and validation, promoting a culture of experimentation and knowledge sharing. However, while it touches on these themes, the primary focus is on the PPDV course and its structure rather than a broader discussion on Continuous Learning principles.",
     "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses assumptions in product development and the importance of understanding user needs, which relates to decision-making processes. However, it primarily focuses on product development rather than decision theory itself.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of challenging assumptions in product development, which aligns with decision-making processes in uncertain environments. It highlights the need for evidence-based decision-making and the role of validation in improving outcomes, reflecting key themes of decision theory. However, while it touches on these concepts, the primary focus remains on product development rather than a deep exploration of decision theory itself.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {
@@ -1141,11 +1225,14 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses complex problems and assumptions in product development, which aligns with Systems Thinking principles. However, it primarily focuses on product development processes rather than a comprehensive exploration of Systems Thinking itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the importance of navigating complex environments and challenging assumptions in product development, which aligns with Systems Thinking principles. However, it primarily focuses on product delivery and does not delve deeply into systemic analysis or interconnectedness, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -1171,29 +1258,38 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding assumptions in product development and mentions a course designed to help product teams navigate these assumptions. While it touches on practical aspects of product development, it primarily focuses on the theoretical understanding of assumptions rather than specific tools or methodologies related to Agile and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the importance of navigating assumptions in product development and introduces a course designed to help teams improve their processes. While it touches on practical techniques like Discovery, Delivery, and Validation, it lacks a strong focus on specific tools or methodologies commonly associated with Agile and DevOps practices. The discussion is more about the philosophical aspects of product development rather than concrete tooling or techniques, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a course designed for product leaders and teams, which suggests a structured learning experience. However, it primarily focuses on the course content and concepts rather than specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses a course related to product development, which is not a live or recorded event but rather an educational offering. While it touches on themes relevant to Agile and product management, it lacks direct references to specific events, presentations, or discussions that would align it with the 'Events and Presentations' category. The focus is primarily on the course content and its benefits rather than on sharing insights from industry events.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:34:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding user needs and assumptions in product development, which relates to adapting to market demands. However, it primarily focuses on the PPDV course and product development processes rather than directly addressing market adaptability strategies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the importance of navigating assumptions in product development, which aligns with the principles of Agile methodologies and continuous feedback loops. It highlights the need for teams to adapt to user needs and market demands through discovery, delivery, and validation processes. However, while it touches on relevant themes, it does not explicitly mention Agile or DevOps practices, which slightly lowers the confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -1276,12 +1372,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:50:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding assumptions in product development and the need for collaboration and learning, which are relevant to organisational agility. However, the primary focus is on the PPDV course and product development rather than organisational agility itself.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of navigating assumptions in product development, which aligns with the principles of organisational agility, particularly in fostering a culture of continuous improvement and learning. However, it primarily focuses on the PPDV course and its benefits rather than providing a comprehensive exploration of organisational agility as a whole. The mention of agile practices is limited, and while it touches on aspects of adaptability and responsiveness, it does not delve deeply into the broader strategies or frameworks that characterise organisational agility.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1306,12 +1405,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:33:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between assumptions in product development and the factors affecting team dynamics and collaboration, which aligns with sociotechnical systems. However, the primary focus is on the course and its content rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding user needs and the dangers of unconscious assumptions in product development, which touches on the interplay between social dynamics (team collaboration, stakeholder involvement) and technical processes (product delivery). However, it primarily focuses on product development strategies rather than explicitly addressing sociotechnical systems as a primary theme. The depth of discussion on how these elements influence software delivery is moderate, but it lacks a comprehensive exploration of organisational structures or frameworks like the Cynefin Framework.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1324,12 +1426,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:28:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of learning from assumptions and the need for evidence in product development, which aligns with the themes of metrics and learning. However, the primary focus is on assumptions and product development rather than metrics specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:34:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of challenging assumptions and the role of evidence-based decision-making in product development, which aligns with the core themes of metrics and learning. It highlights the need for continuous improvement and validation of assumptions, indicating a focus on learning from data. However, while it touches on metrics and their impact, the primary focus is more on assumptions and product development processes rather than a detailed exploration of metrics themselves.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1396,7 +1501,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T14:50:04",
+    "calculated_at": "2025-03-14T18:33:11",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1404,7 +1509,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of understanding assumptions in product development and highlights the role of product leaders and teams in navigating complex environments. However, while it touches on leadership roles, the primary focus is on product development processes and challenges rather than on leadership practices themselves. The discussion lacks depth in exploring leadership strategies or frameworks, which diminishes its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

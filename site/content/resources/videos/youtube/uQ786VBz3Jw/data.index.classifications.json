@@ -322,7 +322,7 @@
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-03-11T14:40:57",
+    "calculated_at": "2025-03-14T23:57:31",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -330,7 +330,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on Sprint planning principles, with some indirect references to alignment and teamwork. However, it lacks explicit discussions on transparency and accountability, making it a secondary theme rather than a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -394,30 +394,39 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:21:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:41:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses key principles for effective Sprint planning, which is a core responsibility of a Scrum Master.",
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on Sprint planning, which is a key Scrum ceremony, and discusses principles that are essential for effective collaboration and goal alignment within a Scrum team. However, while it touches on the role of the Scrum Master indirectly through the emphasis on teamwork and clarity, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities or techniques. The discussion is relevant but lacks a direct focus on the Scrum Master role itself.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:21:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:50:23",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses key principles for effective Sprint planning, including the importance of understanding the product backlog and having clear product and Sprint goals, which are central to Agile Planning.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content focuses extensively on Sprint planning, a core aspect of Agile Planning, discussing the importance of understanding the product backlog and establishing a clear product goal. It aligns well with Agile principles by emphasising teamwork, collaboration, and strategic direction, while providing detailed insights and practical tips for effective planning. The depth of discussion is significant, covering multiple facets of Sprint planning and its impact on team dynamics.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:21:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:28:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses key principles related to Sprint planning, which are important in Agile contexts, but it primarily focuses on specific practices rather than the underlying Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses key principles for effective Sprint planning, which indirectly relates to Agile values such as collaboration and shared goals. However, it primarily focuses on practical aspects of Sprint planning rather than explicitly addressing Agile values and principles. The mention of teamwork and collaboration aligns with Agile principles, but the depth of discussion remains more on the process than on the foundational beliefs of Agile.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -484,12 +493,15 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T23:21:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding the product backlog in the context of Sprint planning, which relates to backlog refinement, but it primarily focuses on Sprint planning rather than backlog refinement itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on Sprint planning rather than Backlog Refinement. While it mentions the importance of understanding the product backlog, it does not delve into techniques or practices specific to backlog refinement. The discussion lacks depth in terms of backlog prioritisation and the role of the Product Owner, which are key aspects of the category.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -502,11 +514,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:21:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:57:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses key principles of Sprint planning within the Agile framework, emphasising the importance of team understanding and product goals, which are central to Agile transformation practices.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on Sprint planning within the Agile framework, discussing key principles such as understanding the product backlog and establishing a clear product goal. While it aligns with Agile practices, it does not delve deeply into broader Agile transformation strategies or methodologies. The discussion is relevant but somewhat limited in scope, focusing more on tactical aspects rather than the overarching themes of Agile transformation.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -547,12 +562,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses key principles for effective Sprint planning, which is a practical technique within Agile methodologies. However, it primarily focuses on the importance of understanding goals and team dynamics rather than specific tools or frameworks.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses key principles for effective Sprint planning, which is a practical technique within Agile methodologies. It mentions the importance of understanding the product backlog and establishing a clear product goal, both of which are essential for successful Agile practices. However, while it provides useful insights, it lacks specific references to tools or frameworks that enhance Agile practices, which limits its depth in the context of tooling. Overall, the content aligns with the category but does not fully explore the tooling aspect.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -565,12 +583,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T23:22:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of understanding the product backlog in the context of Sprint planning, making it a significant theme, but it primarily focuses on Sprint goals and team dynamics.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content explicitly discusses the importance of understanding the Product Backlog as a foundational element for effective Sprint planning, which aligns well with the category's focus. It provides a good level of detail on how familiarity with the backlog contributes to clarity, anticipation of surprises, and team alignment. However, while it touches on the Product Backlog, the primary focus is on Sprint planning, which slightly diminishes the overall confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -610,11 +631,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T23:22:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:57:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses key principles of Sprint planning, emphasising the roles of the team, the importance of shared understanding of the product backlog, and the necessity of clear goals, which are central to Scrum Team dynamics.",
+    "final_score": 66.0,
+    "reasoning": "The content discusses key principles for effective Sprint planning, which is a crucial aspect of Scrum. It mentions the importance of understanding the product backlog and establishing a clear product goal, both of which are relevant to Scrum Team dynamics. However, while it touches on teamwork and collaboration, it lacks in-depth exploration of specific roles, communication strategies, or conflict resolution within the Scrum Team, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scaling Agility": {
@@ -682,11 +706,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:22:50",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of team understanding and collaboration during Sprint planning, emphasising shared goals and transparency, which are central to effective teamwork in Agile.",
+    "calculated_at": "2025-03-14T23:57:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 76.0,
+    "reasoning": "The content explicitly discusses the importance of teamwork and collaboration in the context of Sprint planning, which is a key aspect of Agile methodologies. It highlights the need for team members to understand the product backlog and establish a clear product goal, both of which are crucial for effective collaboration. The depth of discussion is significant, as it provides detailed insights into how these elements contribute to team dynamics and project success. Overall, the content aligns well with the themes of team collaboration, making it a strong fit for the category.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -727,21 +754,27 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T23:22:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team understanding and collaboration in Sprint planning, which relates to self-organisation, but it primarily focuses on specific tips for effective Sprint planning rather than self-organisation as a central theme.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses principles of Sprint planning, emphasising teamwork and collaboration, which are relevant to self-organisation. However, it primarily focuses on planning techniques rather than explicitly addressing self-organisation principles or practices. The mention of teamwork and common goals aligns with self-organisation, but the depth of discussion on self-organisation itself is limited.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:23:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses principles of Sprint planning and the importance of product goals, which are relevant to the Agile Product Operating Model, but it primarily focuses on Scrum practices rather than a broader discussion of the operating model itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses key principles of Sprint planning, which is a component of Agile methodologies. It mentions the importance of understanding the product backlog and establishing a clear product goal, both of which align with the Agile Product Operating Model's focus on product-centric development. However, the discussion is primarily centred on Sprint planning rather than a broader exploration of the Agile Product Operating Model itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -781,12 +814,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T23:23:10",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the importance of transparency in understanding the product backlog and goals during Sprint planning, emphasising the need for clear communication and shared understanding among team members and stakeholders.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T23:57:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of understanding the product backlog and establishing a clear product goal, which indirectly relates to transparency by promoting clarity and alignment within the team. However, it does not explicitly focus on transparency as a primary theme, nor does it delve deeply into techniques or tools that enhance visibility in Agile processes.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -799,11 +835,14 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T23:23:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding product goals and making informed choices during Sprint planning, which relates to decision-making processes. However, it primarily focuses on Agile practices rather than structured decision-making methodologies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses key principles for effective Sprint planning, which indirectly relates to decision-making by emphasising the importance of understanding the product backlog and establishing a clear product goal. However, it primarily focuses on practical tips rather than structured, evidence-based methodologies. While it touches on collaboration and informed choices, it lacks a deep exploration of decision-making frameworks or empirical evidence, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
@@ -853,38 +892,50 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T23:23:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:57:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding product goals and the context for decision-making during Sprint planning, which relates to sensemaking. However, the primary focus is on Scrum roles and events rather than a comprehensive exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing principles such as understanding the product backlog and establishing a clear product goal. While these elements can contribute to sensemaking in a team context, the discussion lacks a direct exploration of sensemaking principles or frameworks. The content does not delve into the complexities of decision-making processes or the dynamics of uncertainty, which are central to the sensemaking category. Therefore, while there are relevant mentions, the overall alignment and depth of discussion do not strongly support a high confidence score in this category.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:23:24",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T23:57:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of having a clear product goal and understanding the strategic direction during Sprint planning, which aligns with strategic alignment in Agile. However, it primarily focuses on practical tips for Sprint planning rather than a broader strategic discussion.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses key principles of Sprint planning, which directly relates to strategic alignment within Agile frameworks. It mentions the importance of understanding the product backlog and establishing a clear product goal, both of which are crucial for effective strategy formulation in Agile. The depth of discussion is moderate, providing actionable tips and insights, but it does not delve deeply into broader strategic concepts or metrics, which slightly limits its overall alignment with the Strategy category.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T23:23:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles of Sprint planning within Agile, which relates to operational practices, but it primarily focuses on team dynamics and product goals rather than specific operational efficiency techniques.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile, discussing key principles such as understanding the product backlog and establishing a clear product goal. While it does touch on operational practices, it does so in a limited context, primarily emphasising teamwork and collaboration rather than broader operational efficiency techniques. The discussion is relevant but lacks depth in terms of specific operational strategies or metrics, which affects the overall confidence score.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:23:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles related to Sprint planning and the importance of team goals, which are significant aspects of Agile practices. However, it primarily focuses on specific practices within the Scrum framework rather than the broader Agile philosophy.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on specific practices related to Sprint planning within the Agile framework, such as understanding the product backlog and establishing a product goal. While it touches on collaboration and teamwork, which are aligned with Agile principles, it lacks a broader discussion of the Agile Philosophy itself, such as the Agile Manifesto or the cultural shifts required for Agile adoption. Therefore, it does not fully meet the criteria for a strong alignment with the Agile Philosophy category.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -952,11 +1003,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:23:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:58:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Sprint planning, the role of the Product Owner, and the importance of product goals, which are central to Agile Product Management.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses key principles of Sprint planning, which is a fundamental aspect of Agile Product Management. It directly mentions the importance of understanding the product backlog and establishing a clear product goal, both of which are crucial for effective product management in Agile frameworks. The discussion aligns well with the core themes of stakeholder alignment, collaboration, and strategic direction. Additionally, the depth of the discussion is substantial, providing actionable insights and emphasising teamwork, which is vital in Agile practices.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -988,12 +1042,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:23:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team dynamics and the importance of shared understanding and goals within a team, which aligns with sociotechnical principles. However, it primarily focuses on Sprint planning and Agile practices, making the sociotechnical aspect a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing principles such as understanding the product backlog, establishing a product goal, and the importance of teamwork. While it touches on aspects of team dynamics and collaboration, which are relevant to sociotechnical systems, it lacks a direct exploration of the interplay between technology and organisational structures. The discussion is more centred on technical practices and team processes without a comprehensive examination of how these elements influence software delivery and organisational effectiveness.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1006,12 +1063,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:23:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of transparency and understanding within the team during Sprint planning, which aligns with empirical process control principles. However, it primarily focuses on Sprint planning techniques rather than a comprehensive discussion of empirical process control.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses key principles for effective Sprint planning, which is relevant to Agile methodologies. However, it primarily focuses on practical tips for planning rather than explicitly addressing empirical process control principles such as transparency, inspection, and adaptation. While there are mentions of understanding the product backlog and establishing a product goal, these concepts are not deeply tied to empirical process control. The discussion lacks a thorough exploration of how these principles contribute to decision-making based on observed evidence, which is central to the category.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1024,11 +1084,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:23:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:58:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for effective Sprint planning within Agile, emphasising the importance of team understanding and clear goals, which aligns closely with pragmatic thinking in Agile contexts.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses practical strategies for effective Sprint planning within Agile, focusing on understanding the product backlog and establishing a clear product goal. It aligns well with the core themes of pragmatic thinking by emphasising real-world applications and teamwork. However, while it provides valuable insights, the depth of discussion on navigating complexity and uncertainty is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -1051,12 +1114,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:23:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles of Sprint planning, which is a key aspect of Agile methodologies that contributes to the delivery of working software. However, it primarily focuses on planning processes rather than the delivery of functional software itself.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on Sprint planning within the Agile framework, discussing the importance of understanding the product backlog and establishing a clear product goal. While it does not explicitly mention 'working software,' it aligns with the category by emphasising the need for effective planning to deliver functional software. The depth of discussion is moderate, providing practical tips but lacking extensive exploration of software quality or customer feedback mechanisms.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1087,20 +1153,26 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T23:24:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of having a clear product goal and understanding the strategic direction of the product, which are relevant to product strategy. However, the primary focus is on Sprint planning and Agile practices, making product strategy a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on Sprint planning and Agile principles, with only brief mentions of product goals and backlog understanding. While it touches on aspects that could relate to product strategy, such as establishing a product goal, the overall discussion is more about team dynamics and Agile processes rather than a comprehensive exploration of product strategy methodologies or frameworks.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:24:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:58:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses principles and practices related to Sprint planning within Agile methodologies, which is a key aspect of software development.",
+    "final_score": 78.0,
+    "reasoning": "The content focuses extensively on Sprint planning within the Agile framework, which is a core aspect of software development methodologies. It discusses key principles that directly relate to the Software Development Life Cycle (SDLC) and Agile practices, providing detailed insights into the importance of understanding the product backlog and establishing a clear product goal. The depth of discussion is significant, as it offers actionable tips and highlights the importance of teamwork in achieving successful outcomes in software projects. Overall, the content aligns well with the category, making it a strong fit.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -1123,12 +1195,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T23:24:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 8,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes related to Sprint planning and the importance of understanding product goals, which aligns with decision theory principles. However, the primary focus is on Agile and Scrum methodologies rather than decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Agile principles and Sprint planning, with only brief mentions of decision-making processes. While it discusses the importance of understanding the product backlog and establishing a clear product goal, which are relevant to decision-making, it lacks a deeper exploration of decision theory concepts such as heuristics, biases, or frameworks. The discussion is more about practical Agile methodologies rather than a theoretical examination of decision-making under uncertainty.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1141,20 +1216,26 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T23:24:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team understanding and collaboration during Sprint planning, which relates to cross-functional teams, but it primarily focuses on Sprint planning principles rather than the broader concept of cross-functional teams.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:58:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on Sprint planning and the importance of understanding the product backlog and establishing a product goal. While it touches on teamwork and collaboration, it does not explicitly discuss cross-functional teams or their specific characteristics, benefits, or challenges. The discussion is more about effective practices within a team rather than the broader concept of cross-functional teams in Agile.",
+    "level": "Ignored"
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:24:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:58:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses key principles of Sprint planning within Agile, focusing on the roles and responsibilities of software developers in the context of team collaboration and product goals.",
+    "final_score": 74.0,
+    "reasoning": "The content focuses extensively on Sprint planning within the Agile framework, discussing key principles that directly relate to the role of software developers. It explicitly mentions the importance of understanding the product backlog and establishing a clear product goal, which are crucial for developers in Agile teams. The discussion on teamwork and collaboration further aligns with the core themes of enhancing productivity and quality in software delivery. The depth of the discussion is significant, providing actionable insights and emphasising the collaborative nature of Agile practices, which is essential for developers. Overall, the content is highly relevant to the category, with a strong focus on the role of software developers in Agile contexts.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -1186,11 +1267,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T23:24:16",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in the context of Sprint planning, emphasising the importance of understanding the product backlog and product goals, which are central to the Product Owner's responsibilities.",
+    "calculated_at": "2025-03-14T23:58:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses key principles of Sprint planning, which is closely related to the Product Owner's responsibilities, particularly in understanding the product backlog and establishing a clear product goal. It highlights the importance of stakeholder alignment and teamwork, which are essential aspects of the Product Owner role. However, while the content is relevant, it primarily focuses on Sprint planning rather than the broader responsibilities and techniques specific to the Product Owner, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "News and Reviews": {
@@ -1240,21 +1324,27 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T23:24:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles of Sprint planning and the importance of team understanding and goals, which are relevant to Agile leadership, but the primary focus is on technical practices rather than leadership roles.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily focuses on Sprint planning and technical aspects of Agile processes rather than on leadership roles or practices. While it touches on teamwork and collaboration, which are relevant to Agile Leadership, it lacks a direct discussion on how leaders facilitate change or empower teams. The emphasis is more on practical tips for planning rather than on the leadership dynamics that drive Agile success.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:24:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of a common goal and team understanding in the context of Sprint planning, which relates to team dynamics and motivation, but primarily focuses on technical aspects of Agile practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of teamwork and collaboration in the context of Sprint planning, which aligns with the core themes of team motivation. It highlights the need for a shared goal and understanding among team members, fostering engagement and collaboration. However, the primary focus is on the technical aspects of Sprint planning rather than deeply exploring motivational strategies or practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1285,12 +1375,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:24:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles of Sprint planning and the importance of understanding product goals, which are relevant to value delivery in Agile. However, it primarily focuses on the mechanics of Sprint planning rather than broader value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on Sprint planning within the Agile framework, discussing the importance of understanding the product backlog and establishing a clear product goal. These elements are crucial for delivering value to customers, as they ensure alignment and clarity among team members, which directly impacts customer satisfaction. The discussion is detailed, providing actionable insights that align well with the principles of iterative development and customer value maximisation. However, while it touches on value delivery, it does not delve deeply into broader strategies or methodologies beyond Sprint planning, which slightly limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1321,11 +1414,14 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:24:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:58:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses key principles of Sprint planning, including the importance of understanding the product backlog and having clear product and Sprint goals, which are central to Scrum practices.",
+    "final_score": 79.0,
+    "reasoning": "The content explicitly discusses key principles of Sprint planning, which is a core aspect of Scrum Product Development. It provides detailed insights into understanding the Product Backlog and establishing a clear Product Goal, both of which are essential for effective Scrum practices. The emphasis on teamwork and collaboration further aligns with Scrum principles. Overall, the content is rich in detail and directly relevant to the category.",
     "level": "Secondary"
   },
   "Organisational Change": {
@@ -1348,12 +1444,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:24:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:58:46",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses key principles for effective Sprint planning, which relates to Agile methodologies. However, it primarily focuses on technical practices rather than strategic context, making Agile Strategy a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on Sprint planning, which is a tactical aspect of Agile methodologies rather than a strategic discussion. While it mentions the importance of understanding the product backlog and establishing a product goal, which aligns with Agile principles, it lacks a broader discussion on organisational vision, adaptability, or the integration of Agile practices into strategic planning. The depth of discussion on these principles is moderate, but it does not fully explore the strategic implications of Agile methodologies.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",

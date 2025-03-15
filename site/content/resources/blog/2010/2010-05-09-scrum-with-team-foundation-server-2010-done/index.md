@@ -26,9 +26,6 @@ tags:
 - Events and Presentations
 - Software Development
 - Agile Project Management
-- Agile Frameworks
-- Practical Techniques and Tooling
-- Software Developers
 categories:
 - Scrum
 - Social Technologies

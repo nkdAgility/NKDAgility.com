@@ -31,7 +31,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:30:27",
+    "calculated_at": "2025-03-14T21:46:25",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -39,7 +39,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily discusses the concept of scaling Scrum, which is a specific Agile framework. While it touches on aspects of product management, such as delivering value and team dynamics, it lacks a broader discussion on strategic alignment with customer needs or business objectives. The focus is more on technical implementation rather than the strategic methodologies and frameworks that guide product managers. Therefore, while there are relevant mentions, the overall depth and alignment with the core themes of product management are limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -70,11 +70,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T21:46:31",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses scaling Scrum, specifically referencing the Nexus framework, which aligns with Scrum principles. However, it contains personal opinions that detract from a purely professional exploration of Scrum.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses the concept of scaling Scrum, specifically through the Nexus framework, which aligns with the key topic of scaling Scrum in the Professional Scrum category. It provides a moderate level of detail on how to embrace scaling in Scrum, but it does not delve deeply into the core Scrum roles, events, or values. The primary focus is on the debate around scaling, which is relevant but not exhaustive of the Professional Scrum principles.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -124,11 +127,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T16:43:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concept of scaling Scrum, which is a key aspect of Agile frameworks. It explores how Scrum can be adapted and applied in larger contexts, making Agile principles central to the discussion.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the Scrum framework, particularly its scalability and the Nexus framework as a method for scaling Scrum. It directly addresses misconceptions about Scrum's ability to scale, which aligns well with the core themes of Agile frameworks. The depth of discussion is significant, providing insights into practical applications and recommendations for scaling Scrum, thus enhancing organisational agility. Overall, the content is focused on Agile frameworks, particularly Scrum, and provides a thorough exploration of its principles and applications.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -160,11 +166,14 @@
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the concept of scaling Scrum and refers to Nexus as a framework for scaling, which aligns with the principles of Scaled Agile. However, the primary focus seems to be on Scrum rather than scaled Agile as a broader enterprise-level methodology.",
+    "calculated_at": "2025-03-14T21:46:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses the scaling of Scrum, specifically through the Nexus framework, which directly aligns with the Scaled Agile category. It addresses misconceptions about Scrum's scalability and provides practical recommendations for scaling, indicating a strong focus on the topic. However, while it covers important aspects of scaling, it does not delve deeply into enterprise-level strategies or broader frameworks beyond Nexus, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Test Automation": {
@@ -205,7 +214,7 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-03-06T15:09:09",
+    "calculated_at": "2025-03-14T21:46:25",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -213,7 +222,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the concept of scaling Scrum, which relates to team performance in an agile context. However, it primarily focuses on the idea of scaling rather than directly addressing team dynamics, collaboration, or specific practices that enhance team performance. While there are mentions of Scrum, the depth of discussion on team performance strategies is limited.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -286,11 +295,14 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:46:57",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum, including its scaling and the application of Scrum principles in larger contexts, aligning well with Agile Project Management.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the scaling of Scrum, a key framework within Agile Project Management. It directly addresses misconceptions about Scrum's scalability and introduces Nexus as a method for scaling Scrum effectively. The discussion aligns well with core Agile principles, emphasising iterative development and adaptation. The depth of the content is substantial, providing practical recommendations for scaling Scrum, which enhances its relevance to the category.",
     "level": "Secondary"
   },
   "Lean Thinking": {
@@ -361,7 +373,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T14:32:52",
+    "calculated_at": "2025-03-14T21:46:25",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -369,7 +381,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the scaling of Scrum, which is related to agile methodologies, but it primarily focuses on the misconceptions and practical approaches to scaling rather than on technical leadership principles. While it touches on aspects of agile practices, it lacks a direct focus on leadership strategies, mentoring, or team dynamics, which are central to the category of Technical Leadership.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -391,11 +403,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:21:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling Scrum and references the Scrum Guide, indicating a focus on Agile practices. However, it primarily centers on the debate around scaling Scrum rather than on Agile Planning principles and practices directly.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the scaling of Scrum, which is related to Agile methodologies, but it primarily focuses on the concept of scaling rather than the broader principles of Agile Planning. While it touches on aspects of value delivery and adaptation, it lacks a comprehensive exploration of Agile Planning techniques, strategies, and best practices. The discussion is more about the nuances of Scrum rather than planning within an Agile framework.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
@@ -454,12 +469,15 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:46:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses scaling Scrum and references Nexus as a framework for scaling, making it a major theme, but does not primarily focus on large-scale Agile principles or practices across an entire organization.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the scaling of Scrum through the Nexus framework, which directly relates to the principles of Large Scale Agility. It addresses misconceptions about Scrum's scalability and provides insights into how to effectively scale Scrum, aligning well with the core themes of the category. However, the focus remains primarily on Scrum rather than broader enterprise-level Agile practices, which slightly limits the depth of discussion on large-scale agility as a whole.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -490,12 +508,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:46:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content specifically discusses the scaling of Scrum, which is relevant to Agile methodologies, it primarily focuses on Scrum mechanics rather than broader Agile transformation strategies, principles, or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the scaling of Scrum, which is a key aspect of Agile transformation. It directly addresses misconceptions about Scrum's scalability and introduces the Nexus framework, which is relevant to Agile methodologies. The depth of discussion on how to embrace scaling in Scrum provides valuable insights into Agile practices. However, it lacks broader discussions on change management, leadership roles, and organisational readiness, which are also critical to Agile transformation.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -535,12 +556,15 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:46:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum in scaling contexts, which relates to practical techniques, but it primarily debates the philosophy rather than providing specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the scaling of Scrum, particularly through the Nexus framework, which aligns with practical techniques in Agile. However, it primarily focuses on the philosophical debate around scaling rather than providing in-depth practical methodologies or tooling insights. While it mentions how to embrace scaling in Scrum, the overall depth and focus on specific tools or frameworks is limited.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -607,11 +631,14 @@
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:35:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses scaling Scrum using frameworks like Nexus, which directly aligns with the category of Scaling Agility. It encourages exploring strategies for extending agile practices beyond individual teams.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the scaling of Scrum, particularly through the Nexus framework, which directly aligns with the category of Scaling Agility. It addresses misconceptions about Scrum's scalability and provides practical recommendations for scaling, indicating a strong conceptual alignment. The depth of discussion is substantial, as it explores both the challenges and solutions related to scaling Scrum, although it primarily focuses on Scrum rather than broader organisational agility practices.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -670,7 +697,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-10T14:10:59",
+    "calculated_at": "2025-03-14T21:46:25",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -678,7 +705,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content discusses the concept of scaling Scrum, which indirectly relates to team collaboration by suggesting that multiple teams can work together effectively. However, it lacks explicit discussions on team dynamics, communication, or shared ownership, which are core themes of the category. The depth of discussion is moderate, focusing on the mechanics of scaling rather than the collaborative aspects of teamwork.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -853,11 +880,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:13:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of scaling Scrum and the implications of using Scrum to manage larger teams or projects, which relates to strategy in Agile contexts. However, the primary focus is more on the mechanics of Scrum rather than a broader strategic framework.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the scaling of Scrum, particularly through the Nexus framework, which aligns with strategic approaches in Agile. It mentions the importance of adapting and iterating, which is relevant to strategic execution. However, the primary focus is on the mechanics of scaling rather than a broader strategic discussion, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Operational Practices": {
@@ -973,11 +1003,14 @@
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:46:41",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content explicitly discusses the concept of scaling Scrum, particularly referencing the Nexus framework and the idea of using Scrum principles to achieve scaling. It addresses relevant themes and is primarily focused on the topic of scaling Scrum despite some critical viewpoints.",
+    "final_score": 80.0,
+    "reasoning": "The content explicitly discusses the concept of scaling Scrum, particularly through the lens of the Nexus framework, which is a key topic in the Scaling Scrum category. It addresses misconceptions about Scrum's scalability and provides practical recommendations for implementing scaling strategies. The depth of discussion is significant, as it not only mentions Nexus but also elaborates on how to embrace scaling within Scrum, aligning well with the core themes of the category.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
@@ -1048,11 +1081,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:46:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the application of Scrum and scaling it, which relates to principles of delivering functional software, but the primary focus is on Scrum practices rather than directly on working software.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the scaling of Scrum, which is related to the delivery of functional software, but it primarily focuses on the misconceptions and strategies around scaling rather than directly addressing the characteristics or quality of working software itself. While it touches on value delivery, it lacks detailed exploration of software quality or customer feedback mechanisms.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -1093,11 +1129,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T21:46:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Scrum, which is a methodology within software development. It focuses on the implications of scaling Scrum, making software development practices central to the discussion.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the scaling of Scrum, a key Agile framework within software development. It directly addresses misconceptions about Scrum's scalability, providing insights into the Nexus framework, which is specifically designed for scaling Scrum. The discussion aligns well with core themes of software development, particularly Agile methodologies and practices. The depth of the content is substantial, offering practical recommendations for implementing scaling strategies, which further supports its relevance to the Software Development category.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -1285,12 +1324,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling Scrum, which is related to delivering more value through Agile practices, but the main focus is on the controversy around scaling rather than specific techniques or principles of value delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T21:46:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the scaling of Scrum and how it can enhance value delivery, particularly through the Nexus framework. It directly addresses the misconception that Scrum cannot scale and provides recommendations for scaling effectively, which aligns well with the principles of iterative development and maximising customer value. However, the primary focus is on the debate around scaling Scrum rather than a broader discussion on value delivery strategies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1321,12 +1363,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:46:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Scrum and its scalability but primarily focuses on the concept of scaling Scrum rather than detailed product development practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the scaling of Scrum, particularly through the Nexus framework, which is relevant to Scrum practices. However, it primarily focuses on the debate around scaling rather than detailed product development processes or customer feedback integration. While it mentions Scrum principles, it lacks depth in discussing product development specifically.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1348,7 +1393,7 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-03-11T10:05:14",
+    "calculated_at": "2025-03-14T21:46:25",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1356,7 +1401,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content discusses the concept of scaling Scrum, which is related to Agile methodologies, but it primarily focuses on the technical aspects of Scrum rather than the broader strategic implications of Agile strategy. While there are mentions of value delivery and scaling, the discussion lacks depth in terms of organisational vision alignment and strategic planning, which are key themes in the Agile Strategy category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1378,12 +1423,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:36:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:46:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of scaling Scrum, which relates to agile methodologies; however, it primarily focuses on Scrum roles and events rather than broader organisational agility strategies and practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the scaling of Scrum, which is a specific Agile methodology. While it touches on concepts related to organisational agility, such as adapting and iterating, it does not explicitly focus on broader organisational strategies or cultural shifts necessary for agility. The discussion is more centred on the mechanics of Scrum rather than the overarching principles of organisational agility.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",

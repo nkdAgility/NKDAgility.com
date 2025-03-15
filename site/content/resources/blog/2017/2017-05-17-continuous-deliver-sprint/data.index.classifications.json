@@ -34,12 +34,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:46:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the principles of Scrum and the importance of empirical processes, which are relevant to Evidence-Based Management, but the primary focus is on the Scrum framework rather than EBM itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Sprints in Scrum and their benefits, such as communication, alignment, and predictability. However, it primarily focuses on Scrum practices rather than explicitly addressing Evidence-Based Management principles. While there are mentions of empirical processes and feedback loops, the overall emphasis is on Scrum methodology rather than a data-driven approach to management decision-making.",
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -52,12 +55,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:46:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Sprints in Scrum and their importance in fostering communication, alignment, and predictability, which are relevant to learning and adapting processes. However, the primary focus is on Scrum practices rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of Sprints in Scrum and their relationship with continuous delivery, but it primarily focuses on project management aspects rather than exploring methodologies for innovation or learning. While it touches on the importance of feedback loops and communication, it lacks a deeper exploration of discovery processes or learning from experimentation.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -106,11 +112,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:46:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between Scrum practices and team dynamics, particularly in the context of communication, alignment, and predictability in software delivery. However, the primary focus is on Scrum methodology rather than a broader sociotechnical systems perspective.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses Scrum and its relationship with continuous delivery, touching on aspects of team dynamics and communication. However, it primarily focuses on technical practices and methodologies without deeply exploring the interplay between social and technical systems or organisational structures. While there are mentions of communication and alignment, the overall emphasis is on Scrum processes rather than a comprehensive sociotechnical analysis.",
     "level": "Tertiary"
   },
   "Resilience and Change": {
@@ -184,12 +193,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:46:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Sprints in Scrum and their impact on communication, alignment, and predictability, which are relevant to enterprise agility. However, it primarily focuses on team-level practices rather than broader organisational implications.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses Scrum practices and the role of Sprints in software delivery, which are more focused on team-level agile practices rather than the broader organisational context of Enterprise Agility. While it touches on aspects like communication and predictability, it lacks a comprehensive exploration of how these practices impact organisational agility or culture. The discussion does not address frameworks for scaling agility or leadership roles, which are critical to the Enterprise Agility category.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -202,11 +214,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:46:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Sprints in Scrum and their impact on communication, predictability, and feedback loops, which are relevant to metrics and learning, but the primary focus is on Scrum practices rather than metrics themselves.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Sprints in Scrum and how they facilitate feedback loops and planning, which aligns with the core themes of metrics and learning. It mentions the importance of predictability and communication, which are relevant to team dynamics and continuous improvement. However, the primary focus is on defending the use of Sprints rather than a deep exploration of metrics or learning methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -379,11 +394,14 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:46:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of delivering a 'Done' increment of software at the end of a Sprint, which relates to the Definition of Done, but primarily focuses on the concept of Sprints and continuous delivery.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses the importance of Sprints in Scrum and touches on the concept of delivering a 'Done' increment of software. However, it primarily focuses on the role of Sprints and continuous delivery rather than explicitly defining or detailing the Definition of Done itself. While there are references to the necessity of meeting a Definition of Done, the overall emphasis is on the Sprint process and its benefits, which detracts from a focused discussion on the Definition of Done.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
@@ -553,11 +571,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-14T19:25:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T17:01:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the role of Sprints within the Scrum framework, emphasising their importance in Agile practices, communication, and predictability, which aligns closely with Agile transformation principles.",
+    "final_score": 74.0,
+    "reasoning": "The content primarily discusses the role of Sprints within the Scrum framework, which is a key aspect of Agile transformation. It explicitly mentions Scrum practices and their benefits, such as communication, predictability, and planning. The discussion aligns well with Agile principles, particularly around the importance of iterative processes and feedback loops. However, while it provides substantial detail on Sprints, it does not delve deeply into broader Agile transformation strategies or change management, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -580,21 +601,27 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T19:25:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of Sprints in Scrum, focusing on communication, alignment, and predictability, which are key aspects of team performance and collaboration.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of Sprints in Scrum, emphasising their importance for communication, alignment, and predictability within teams. It provides detailed insights into how Sprints facilitate team dynamics and planning, aligning well with the core themes of team performance. However, while it touches on team collaboration, it does not delve deeply into specific strategies for enhancing team cohesion or resolving conflicts, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-14T19:25:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:14",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the importance of Sprints in Scrum, emphasising the delivery of a working Increment of software and its role in the Agile process.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of Sprints in Scrum, emphasising the delivery of a working Increment of software. It directly addresses the role of Sprints in ensuring that software is delivered at least every 30 days, aligning closely with the Increment category's focus on delivering value to stakeholders. The depth of discussion includes various Scrum events that contribute to the Increment, such as Sprint Planning and Sprint Review, and highlights the necessity of having a 'Done' Increment. Overall, the content is primarily focused on the Increment concept, providing substantial detail and alignment with the category's key themes.",
+    "level": "Primary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -607,20 +634,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T19:25:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of Sprints within the Scrum framework and their relationship with continuous delivery, making it a central topic in software development practices.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the role of Sprints within the Scrum framework, which is a key aspect of Agile methodologies in software development. It provides a detailed examination of how Sprints facilitate communication, predictability, and planning in the software development process. The author references specific Scrum practices and their integration with continuous delivery, demonstrating a strong alignment with the core themes of software development. The depth of discussion is substantial, covering various Scrum events and their importance in the development lifecycle.",
     "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T19:25:48",
-    "ai_confidence": 90,
+    "calculated_at": "2025-03-15T03:45:19",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "Content primarily discusses the role of Sprints in Scrum, their benefits, and how they relate to continuous delivery, aligning closely with Agile Project Management principles.",
+    "final_score": 83.0,
+    "reasoning": "The content extensively discusses the role of Sprints within the Scrum framework, highlighting their importance in facilitating communication, predictability, and iterative planning. It aligns closely with Agile principles by emphasising the empirical process and the necessity of delivering working software regularly. The depth of discussion on Scrum roles, ceremonies, and the relationship between continuous delivery and Sprints further supports a high confidence score.",
     "level": "Primary"
   },
   "Agile Values and Principles": {
@@ -634,11 +667,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-14T19:25:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of Sprints within the Scrum framework, including their purpose, benefits, and alignment with Scrum principles.",
+    "final_score": 79.0,
+    "reasoning": "The content provides a thorough exploration of the role of Sprints within the Scrum framework, discussing their importance in empirical process control, communication, and predictability. It directly references Scrum events and principles, aligning well with the core themes of Professional Scrum. The depth of discussion is significant, as it elaborates on how Sprints facilitate Scrum practices and the necessity of delivering working software, which is central to Scrum methodology.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -652,11 +688,14 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-14T19:25:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of Sprints in Scrum, emphasising the principles of empirical process control such as inspection and adaptation, and how these contribute to effective software delivery.",
+    "final_score": 80.0,
+    "reasoning": "The content discusses the role of Sprints in Scrum, emphasising their importance in fostering empirical process control through regular inspection and adaptation. It highlights how Sprints provide a structure for planning and communication, aligning well with the principles of transparency and continuous improvement. The depth of discussion on feedback loops and the necessity of delivering working software supports a strong alignment with the category, while the mention of continuous delivery adds a nuanced perspective. Overall, the content is primarily focused on empirical process control within an Agile context.",
     "level": "Secondary"
   },
   "Scrum Values": {
@@ -706,39 +745,51 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-14T19:26:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the relationship between Scrum and continuous delivery, emphasising the importance of frequent releases and the flexibility within Scrum to allow for more frequent shipping of software.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the relationship between Scrum and continuous delivery, highlighting the importance of frequent releases. It mentions the flexibility of release frequency within Scrum and advocates for more frequent shipping of software. However, while it touches on the principles of frequent releases, the primary focus is on the Scrum framework rather than a detailed exploration of release practices, which slightly limits its alignment and depth in the context of the category.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:46:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of delivery frequency and customer feedback in the context of Scrum and continuous delivery, making customer satisfaction a significant theme, though not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Sprints in Scrum and continuous delivery, focusing on communication, alignment, and predictability. However, it lacks direct references to customer satisfaction principles, measurement techniques, or strategies for enhancing customer experience. While it touches on the importance of delivering software to customers, it does not delve into customer feedback or satisfaction metrics, which are crucial for this category.",
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:45:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and the importance of Sprints, which are relevant to scaling Scrum practices, but it primarily focuses on continuous delivery rather than explicitly addressing scaling Scrum in large organisations.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the concept of Sprints within Scrum and their importance in the software delivery process. While it touches on aspects of communication and alignment, which are relevant to scaling Scrum, it does not explicitly address frameworks for scaling, coordination among multiple teams, or the challenges of scaling Scrum in large organisations. The focus remains on individual team practices rather than organisational scaling, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:45:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of Sprints in Scrum and their role in creating predictability and communication, which are relevant to evidence-based practices in leadership. However, the primary focus is on Scrum methodology rather than directly on evidence-based leadership principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Sprints in Scrum and their benefits, such as communication, predictability, and planning. However, it primarily focuses on Scrum practices rather than explicitly addressing evidence-based leadership principles or empirical decision-making. While there are mentions of inspection and adaptation, the content lacks a strong emphasis on data-driven leadership decisions or the application of empirical evidence in leadership contexts.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -808,11 +859,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T19:26:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:32",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the practical implications of using Sprints within Scrum, emphasising real-world applications, communication, and predictability in software delivery, which aligns well with pragmatic thinking in Agile contexts.",
+    "final_score": 74.0,
+    "reasoning": "The content discusses the practical implications of using Sprints within the Scrum framework, highlighting how they can enhance communication, predictability, and alignment in software delivery. It provides specific examples of how Sprints facilitate empirical processes and feedback loops, demonstrating a strong alignment with pragmatic thinking. The depth of discussion is substantial, as it explores the rationale behind Sprints and their role in continuous delivery, making it a primary focus rather than a secondary mention.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -826,20 +880,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:46:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of Sprints in the context of Scrum and continuous delivery, touching on aspects of predictability and communication, which are relevant to innovation practices. However, the primary focus is on Scrum methodology rather than directly measuring or enhancing the ability to innovate.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of Sprints in Scrum and their benefits for communication, predictability, and planning. However, it primarily focuses on Scrum practices rather than directly addressing the Ability to Innovate. While there are mentions of empirical processes and feedback loops, the overall emphasis is on Scrum methodology rather than on measuring or enhancing innovation capabilities within an organisation.",
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T19:26:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of Sprints in Scrum, their benefits, and how they relate to continuous delivery, aligning well with Scrum principles and practices.",
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the role of Sprints within the Scrum framework, highlighting their importance in facilitating communication, predictability, and alignment in product development. It directly addresses Scrum principles and practices, such as Sprint Planning, Daily Scrums, and the necessity of delivering working software. The depth of discussion on how Sprints contribute to the empirical process and feedback loops further solidifies its alignment with the category.",
     "level": "Secondary"
   },
   "Scaled Agile": {
@@ -889,20 +949,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-14T19:26:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of Sprints in Scrum and their role in delivering working software, emphasising the need for regular delivery and the alignment with customer feedback.",
+    "final_score": 80.0,
+    "reasoning": "The content extensively discusses the role of Sprints in Scrum and their relationship with continuous delivery, emphasising the necessity of delivering working software frequently. It directly addresses the importance of having a working increment of software at the end of each Sprint, aligning well with the core themes of the 'Working Software' category. The depth of discussion is significant, covering various aspects of Scrum practices and their impact on software delivery, thus providing a comprehensive view on the topic.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:46:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Sprints in Scrum, which includes elements of planning and execution within Agile methodologies, but it primarily focuses on the concept of Sprints rather than specific Agile Planning Tools.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the concept of Sprints within the Scrum framework, highlighting their role in planning and execution. However, it primarily focuses on the philosophical aspects of Sprints rather than specific Agile Planning Tools or methodologies. While it touches on planning elements, it lacks detailed exploration of tools or techniques that facilitate Agile planning, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -979,11 +1045,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:46:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Scrum and continuous delivery, highlighting the importance of release frequency and planning, but primarily focuses on Scrum practices rather than release management strategies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the relationship between Scrum and continuous delivery, highlighting the importance of release frequency and the role of Sprints in managing software delivery. While it touches on release management concepts, such as predictability and communication, the primary focus is on Scrum practices rather than a comprehensive exploration of release management strategies. Therefore, it aligns with the category but does not delve deeply into all aspects of release management.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -1015,11 +1084,14 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-14T19:26:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the relationship between Scrum practices and continuous delivery, emphasising the importance of frequent releases and the optimisation of deployment intervals within Agile methodologies.",
+    "final_score": 70.0,
+    "reasoning": "The content discusses the relationship between Scrum and continuous delivery, emphasising the importance of frequent releases and the flexibility of Sprints in facilitating deployment frequency. It directly addresses the concept of deployment intervals and their impact on feedback loops, aligning well with the core themes of the category. The depth of discussion is substantial, covering various aspects of Sprints and their role in enhancing predictability and communication, which are crucial for optimising deployment frequency.",
     "level": "Secondary"
   },
   "Change Management": {
@@ -1051,12 +1123,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:46:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum and continuous delivery in software development, which relates to digital transformation practices, but it primarily focuses on Scrum methodology rather than a broader strategic adoption of digital technologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Scrum and continuous delivery, which are related to digital transformation in terms of improving software delivery processes. However, it primarily focuses on Scrum practices rather than the broader strategic adoption of digital technologies for business transformation. While it touches on aspects of agility and predictability, it lacks a comprehensive exploration of digital transformation strategies, case studies, or the impact of emerging technologies.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -1204,11 +1279,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T19:27:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of Sprints within the Scrum framework, including their importance for planning, communication, and predictability, which are central to the responsibilities of a Scrum Master.",
+    "final_score": 71.0,
+    "reasoning": "The content discusses the role of Sprints within the Scrum framework, highlighting their importance in facilitating communication, predictability, and planning. It directly references Scrum ceremonies such as Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective, which are crucial for a Scrum Master. The depth of discussion on how Sprints contribute to the Scrum process and team dynamics aligns well with the responsibilities of a Scrum Master, although it does not focus explicitly on the Scrum Master's role itself.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -1231,11 +1309,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-14T19:27:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:46",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of Sprints within the Scrum framework and how they relate to continuous delivery, which is central to Agile methodologies and the practices of software developers.",
+    "final_score": 79.0,
+    "reasoning": "The content primarily discusses the role of Sprints within the Scrum framework, which is a key aspect of Agile methodologies. It explicitly mentions how Sprints can enhance communication, predictability, and planning in software development, aligning well with the category's focus on Agile practices. The depth of discussion is substantial, covering various Scrum events and their relevance to continuous delivery, which is a modern engineering practice. Overall, the content is highly relevant to software developers and their practices in Agile and DevOps contexts.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1288,29 +1369,38 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:45:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Sprints in Scrum and their impact on team communication and predictability, which are relevant to self-organisation principles, but the primary focus is on the mechanics of Scrum rather than self-organisation itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of Sprints in Scrum and their importance for communication, alignment, and predictability, which are relevant to self-organisation. However, it primarily focuses on the mechanics of Scrum rather than the principles of self-organisation itself. While it touches on aspects of team autonomy and the need for discipline, it does not deeply explore how self-organisation is fostered or supported within teams, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-14T19:27:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:48",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concept of Sprints within the Scrum framework, exploring their purpose, benefits, and relationship with continuous delivery, making Agile frameworks a central theme.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the concept of Sprints within the Scrum framework, providing a detailed exploration of their purpose, benefits, and alignment with continuous delivery practices. It explicitly references Scrum roles and events, demonstrating a strong focus on Agile principles. The depth of discussion is significant, covering various aspects of Sprints and their impact on team dynamics and predictability in software delivery.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-14T19:27:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-15T03:45:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the role of Sprints within the Scrum framework and their importance in fostering communication, alignment, and predictability, which are key aspects of Agile strategy.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of Sprints within the Scrum framework and their importance in fostering communication, alignment, and predictability in software delivery. It aligns well with Agile Strategy by emphasising the integration of Agile principles into planning and execution, as well as the necessity of continuous value delivery. However, while it touches on strategic aspects, the primary focus is on Scrum practices rather than a broader organisational strategy, which slightly limits its depth in the context of Agile Strategy.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1369,11 +1459,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:08:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T03:46:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of Sprints in Scrum and their role in creating predictability and communication, which are related to throughput. However, the primary focus is on the Scrum framework rather than directly measuring or optimising throughput.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the concept of Sprints in Scrum and their role in creating predictability and cadence in software delivery, which relates to throughput. However, it primarily focuses on the Scrum framework rather than directly measuring or optimising throughput. While it mentions the importance of delivery frequency and the relationship between Sprints and continuous delivery, it lacks detailed techniques for measuring throughput or specific strategies for improvement, which limits its depth in this category.",
     "level": "Tertiary"
   },
   "Test Driven Development": {

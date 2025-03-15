@@ -8,7 +8,7 @@ ResourceImportId: 10649
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2014-07-14
-weight: 375
+weight: 275
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,7 +27,16 @@ aliasesArchive:
 - /blog/avoid-the-pick-n-mix-branching-anti-pattern
 - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
 tags:
+- Release Management
+- Modern Source Control
+- Software Development
+- Product Delivery
+- Code and Complexity
+- Technical Excellence
+- Practical Techniques and Tooling
 - Technical Mastery
+- Engineering Practices
+- Pragmatic Thinking
 categories:
 - Engineering Excellence
 - DevOps

@@ -32,6 +32,15 @@ aliasesArchive:
 - /resources/blog/ndc-london-second-look-team-foundation-server-vso
 tags:
 - Application Lifecycle Management
+- Events and Presentations
+- Practical Techniques and Tooling
+- Software Development
+- Release Management
+- Product Delivery
+- News and Reviews
+- Azure DevOps
+- Scrum Product Development
+- Working Software
 categories:
 - DevOps
 - Engineering Excellence

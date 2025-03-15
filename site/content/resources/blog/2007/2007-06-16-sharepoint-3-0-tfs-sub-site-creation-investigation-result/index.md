@@ -22,8 +22,7 @@ aliasesArchive:
 - /blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
 - /sharepoint-3-0-tfs-sub-site-creation-investigation-result
 - /resources/blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
-tags:
-- Software Development
+tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories: []
 

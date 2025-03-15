@@ -1,21 +1,27 @@
 {
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses strategies to boost team collaboration within the context of a workshop, making collaboration a significant theme, but it primarily focuses on product discovery and validation skills.",
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions boosting team collaboration as part of the workshop's objectives, which aligns with the category. However, it lacks detailed discussion on specific collaboration tools or their integration with Agile methodologies. The focus is more on product discovery and validation rather than on collaboration tools themselves.",
     "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product validation and discovery skills, which are relevant to Agile practices, but the primary focus is on a workshop rather than a strategic discussion.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation skills, which is tangentially related to strategy in Agile contexts. While it mentions customer-centric development and team collaboration, it lacks a direct focus on strategic alignment or the refinement of strategic approaches within Agile frameworks. The discussion is more about practical skills and techniques rather than a deep exploration of strategic concepts.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -28,20 +34,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product validation and discovery, which are essential for ensuring that software meets customer needs, but it primarily focuses on a workshop rather than directly on working software itself.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation, which indirectly relates to working software by emphasising customer-centric development and validation techniques. However, it lacks direct discussions on the characteristics of working software, its role in delivering value, or specific best practices for ensuring software quality. The depth of discussion on working software concepts is minimal, making it a secondary focus rather than a primary one.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical skills and techniques related to product validation and discovery, which are relevant to Agile and Scrum contexts. However, it primarily serves as a promotional message for a workshop rather than a deep exploration of pragmatic thinking principles.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation, which aligns with pragmatic thinking by emphasising practical skills like customer-centric development and validation techniques. However, while it mentions Agile principles and practical applications, the discussion lacks depth in exploring complex problem-solving strategies or real-world case studies, which are crucial for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "Market Share": {
@@ -64,12 +76,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product validation and discovery, which are related to innovation practices, but it primarily focuses on a workshop promotion rather than a deep exploration of the Ability to Innovate framework or metrics.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a workshop focused on product validation and discovery, which indirectly relates to the Ability to Innovate by emphasising customer-centric development and validation techniques. However, it lacks a direct focus on measuring or enhancing innovation capabilities, and while it mentions fostering a culture of collaboration and innovation, it does not delve deeply into frameworks or metrics for A2I.",
+    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -157,12 +172,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses customer-centric development and team collaboration, which are aligned with Agile principles, but it primarily focuses on a specific workshop rather than a deep exploration of Agile values.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation, which is related to Agile practices but does not explicitly discuss Agile values or principles. While it mentions customer-centric development and team collaboration, these concepts are presented in a practical context rather than as foundational Agile principles. The depth of discussion on Agile values is limited, focusing more on the workshop's benefits than on the underlying Agile philosophy.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -214,12 +232,15 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:54",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses customer-centric development and validation techniques, which are relevant to product strategy, but it primarily focuses on promoting a workshop rather than providing a comprehensive exploration of product strategy methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily promotes a workshop focused on product validation and discovery skills, which are relevant to product strategy. However, it lacks a detailed exploration of methodologies or frameworks for product strategy, focusing instead on practical skills and customer-centric development. While it mentions customer needs and product alignment, it does not delve deeply into strategic planning or roadmapping, which are core themes of the category.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -325,12 +346,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product validation and discovery, which are related to empirical process control principles, particularly in the context of Agile methodologies. However, it primarily focuses on a workshop promotion rather than a deep exploration of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes a workshop focused on product validation and discovery, which aligns with Agile principles but does not explicitly discuss empirical process control. While it mentions customer-centric development and validation techniques, it lacks a detailed exploration of transparency, inspection, and adaptation as core themes of empirical process control.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -343,12 +367,15 @@
   },
   "MVP": {
     "category": "MVP",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product validation and discovery techniques, which are relevant to MVP development, but the primary focus is on promoting a workshop rather than a detailed exploration of MVP concepts.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses product validation and discovery, which are relevant to MVP concepts, but it does not explicitly mention MVP or its core principles. The focus is more on a workshop offering rather than a detailed exploration of MVP strategies or case studies.",
+    "level": "Secondary"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
@@ -388,12 +415,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses customer-centric development and validation techniques, which are related to customer feedback loops, but the primary focus is on promoting a workshop rather than a detailed exploration of feedback integration processes.",
-    "level": "Tertiary"
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of understanding customer needs and integrating them into product development, which aligns with the core themes of customer feedback loops. It mentions techniques for validation and iterative feedback, indicating a focus on customer-centric development. However, it lacks detailed exploration of specific feedback collection methods or case studies, which limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -406,7 +436,7 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-03-11T17:22:50",
+    "calculated_at": "2025-03-14T18:14:03",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -414,7 +444,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content primarily promotes a workshop focused on product discovery and validation, which is related to Agile practices but does not specifically delve into the dynamics, roles, or collaboration within a Scrum Team. While it mentions team collaboration, it lacks detailed discussion on Scrum roles or team dynamics, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -445,12 +475,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a workshop focused on product validation and discovery, which includes elements of Agile principles such as customer-centric development and iterative feedback loops. However, it primarily promotes the workshop rather than delving deeply into Agile Planning methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation, which aligns with Agile principles of customer-centric development and iterative feedback. However, it lacks direct discussions on Agile Planning methodologies, such as sprint planning or backlog refinement, which are crucial to the category. The depth of discussion on Agile concepts is moderate, but it does not delve deeply into Agile Planning specifics.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -466,12 +499,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses customer-centric development and team collaboration, which are aligned with Agile principles, but primarily focuses on a specific workshop rather than a broader discussion of Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content primarily promotes a workshop focused on product validation and discovery, which is closely related to Agile practices. However, it lacks direct discussions on the Agile Philosophy itself, such as the Agile Manifesto or its core principles. While it touches on customer-centric development and team collaboration, these are more practical applications rather than philosophical discussions. The depth of discussion on Agile principles is minimal, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -520,12 +556,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses fostering a culture of collaboration and innovation within teams, which aligns with the theme of organisational culture. However, the primary focus is on a workshop for product discovery and validation skills, making culture a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content briefly mentions fostering a culture of collaboration and innovation within teams, which aligns with the category's focus on organisational culture. However, the primary emphasis is on product validation and discovery skills rather than a deep exploration of cultural elements that influence Agile methodologies. The discussion lacks substantial detail on how culture impacts agility or team dynamics, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -538,12 +577,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses strategies for boosting team collaboration and enhancing validation techniques, which are relevant to coaching practices, but the primary focus is on a workshop for product development rather than coaching itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily promotes a workshop focused on product validation and discovery, which includes elements of team collaboration and customer-centric development. However, it lacks explicit discussions on coaching techniques or the role of a coach. While there are mentions of fostering collaboration and enhancing team dynamics, these are secondary to the main focus on product skills and training. Therefore, the alignment with the coaching category is moderate, but not strong enough to classify it as a primary focus.",
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
@@ -565,12 +607,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses strategies for boosting team collaboration and fostering a culture of innovation, which aligns with team motivation themes, but the primary focus is on a workshop for product development skills.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses strategies for boosting team collaboration and fostering a culture of innovation, which aligns with the core themes of team motivation. However, it primarily focuses on a workshop announcement rather than an in-depth exploration of team dynamics. The mention of Dr. Joanna Plaskonka's experience in leading high-performing teams adds relevant context, but the overall depth of discussion on team motivation is moderate.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -610,11 +655,14 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses customer-centric development and validation techniques, which align with Lean principles of maximising learning and delivering value. However, the primary focus is on a workshop rather than a comprehensive discussion of Lean Product Development.",
+    "final_score": 58.0,
+    "reasoning": "The content primarily promotes a workshop focused on product validation and discovery, which aligns with customer-centric development and iterative feedback loops. However, it lacks explicit discussions on Lean principles, waste reduction, or integration with Agile methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -664,12 +712,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product validation and discovery techniques, which are related to decision-making processes in product development. However, it primarily focuses on promoting a workshop rather than providing a structured discussion on decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation skills, which indirectly relates to decision-making by emphasising customer-centric development and validation techniques. However, it lacks explicit discussions on structured decision-making methodologies or empirical evidence, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -715,12 +766,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a workshop focused on product validation and discovery, which relates to Agile methodologies and team collaboration, but it primarily centres on product development rather than the specific role of software developers.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation, which is tangentially related to software development but does not explicitly discuss the role of software developers within Agile or DevOps frameworks. While it mentions collaboration and customer-centric development, it lacks depth in discussing Agile methodologies or DevOps principles specifically. The focus is more on product management and validation techniques rather than on the practices and challenges faced by software developers.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -742,11 +796,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a workshop focused on product validation and discovery, which are relevant to Agile practices, but the primary focus is on the workshop details rather than a comprehensive discussion on Agile transformation.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation, which is related to Agile practices but does not explicitly discuss Agile transformation strategies or methodologies. While it mentions Scrum and customer-centric development, it lacks depth in discussing Agile principles, frameworks, or transformation processes, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -832,30 +889,39 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a workshop focused on product validation and discovery, which includes techniques for customer-centric development and validation processes. However, it primarily promotes the workshop rather than delving deeply into operational practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation skills, which indirectly relates to operational practices by emphasising customer-centric development and validation techniques. However, it lacks a direct discussion on operational efficiency, process optimisation, or specific methodologies within Agile, DevOps, or Lean frameworks. The depth of discussion on operational practices is limited, focusing more on the workshop's promotional aspects rather than detailed operational strategies.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a workshop focused on product validation and discovery, which includes elements of learning and skill development. However, the primary focus is on promoting the workshop rather than a deep exploration of continuous learning principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily promotes a workshop focused on product validation and discovery, which indirectly supports continuous learning through skills enhancement and team collaboration. However, it lacks explicit discussions on growth mindset principles or detailed techniques for knowledge sharing, which are central to the Continuous Learning category.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses strategies to boost team collaboration within the context of a workshop, making it a significant but secondary theme compared to the primary focus on product validation and discovery skills.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses a workshop focused on product validation and discovery, which includes a mention of boosting team collaboration. However, the primary focus is on individual skills and product development rather than in-depth exploration of team dynamics or collaboration techniques. While there is some alignment with the category through the mention of fostering a culture of collaboration, the overall depth and direct discussion of team collaboration principles are limited.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -904,11 +970,14 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses customer-centric development and validation techniques, which are important aspects of Agile methodologies, but it primarily focuses on a specific workshop rather than a broader Agile strategy.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation skills, which are relevant to Agile methodologies. However, it lacks a direct discussion on Agile strategy as defined in the category. While it mentions customer-centric development and team collaboration, it does not delve into strategic planning or the alignment of organisational vision with Agile principles, which are crucial for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "Psychological Safety": {
@@ -922,29 +991,38 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses customer-centric development and understanding customer needs, which are relevant to customer retention strategies, but the primary focus is on promoting a workshop rather than directly addressing retention methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses customer-centric development and validation techniques, which are relevant to customer retention strategies. It highlights the importance of understanding customer needs and creating solutions that resonate with them, aligning well with the core themes of the category. However, the primary focus is on promoting a workshop rather than an in-depth exploration of retention strategies, which slightly lowers the depth of discussion.",
+    "level": "Secondary"
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:49",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a workshop focused on product validation and discovery, which are relevant to agile methodologies. However, it primarily promotes the event rather than deeply exploring agile principles or practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content primarily promotes a workshop focused on product validation and discovery, which aligns with agile principles such as customer-centric development and iterative feedback. However, it lacks detailed discussions on specific agile frameworks or methodologies like Scrum or Kanban, and does not delve deeply into agile project management practices. The mention of a Scrum Trainer adds relevance, but the overall focus is more on the workshop's promotional aspects rather than a comprehensive exploration of agile project management.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation, which is related to Agile principles and practices, particularly in the context of Scrum. However, it does not delve deeply into Agile frameworks themselves, making it a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation, which is related to Agile practices but does not delve deeply into Agile frameworks themselves. While it mentions Scrum and highlights the importance of customer-centric development and team collaboration, it lacks a thorough exploration of Agile frameworks, their principles, or comparative analyses. The discussion is more about the workshop's benefits rather than a comprehensive examination of Agile methodologies.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
@@ -958,21 +1036,27 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product validation and discovery, which are important aspects of entrepreneurship, particularly in understanding customer needs and developing market-driven solutions. However, the primary focus is on a workshop rather than a broader discussion on entrepreneurship principles.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily focuses on a workshop aimed at enhancing product development skills, which indirectly relates to entrepreneurship through customer-centric development and innovation. However, it lacks a direct discussion on entrepreneurship principles, risk-taking, or value-driven decision-making, which are core to the category. The depth of discussion on relevant topics like validation techniques and team collaboration is present, but it does not fully encapsulate the entrepreneurial mindset or strategies for creating and sustaining ventures.",
     "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a workshop focused on product validation and discovery, which relates to Agile methodologies and customer-centric development, making it a major but secondary theme in the context of software development.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation, which aligns with software development practices, particularly in Agile methodologies. However, it lacks in-depth technical discussions or specific software engineering practices, making it more of a promotional piece rather than a detailed exploration of software development concepts.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -985,29 +1069,38 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses a workshop focused on product validation and discovery, which aligns with Scrum principles, but it is primarily promotional and not deeply focused on Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content primarily promotes a workshop focused on product validation and discovery, which aligns with Scrum principles of customer-centric development and iterative feedback. However, it lacks direct references to specific Scrum roles, events, or detailed Scrum practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses validation techniques and hypothesis testing as part of a workshop, indicating a focus on hypothesis-driven development, but it is primarily promotional and not deeply analytical.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of validating product ideas and includes elements of hypothesis testing and iterative feedback loops. However, it primarily focuses on promoting a workshop rather than deeply exploring hypothesis-driven development principles. While there are mentions of customer-centric development and validation techniques, the overall depth and direct focus on hypothesis formulation and experimentation are limited.",
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T14:49:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product validation and discovery techniques, which align with Lean Startup principles, but it primarily focuses on a workshop offering rather than a deep exploration of Lean Startup methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses product validation and discovery, which aligns with Lean Startup principles, particularly in terms of customer-centric development and validation techniques. However, it lacks explicit references to the Lean Startup methodology, such as MVP or the Build-Measure-Learn loop, and focuses more on workshop promotion than on in-depth exploration of Lean concepts.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -1030,11 +1123,14 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:23:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product validation and discovery, which are important aspects of business agility, but the primary focus is on promoting a workshop rather than a deep exploration of business agility principles.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily promotes a workshop focused on product discovery and validation, which indirectly relates to business agility through customer-centric development and fostering innovation. However, it lacks explicit discussions on the principles of business agility or detailed strategies for organisational adaptability, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1123,12 +1219,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses product validation and discovery techniques that enhance responsiveness to market needs, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses a workshop focused on product validation and discovery, which aligns with market adaptability principles. It mentions customer-centric development and iterative feedback loops, both of which are crucial for adapting to market needs. However, the primary focus is on promoting the workshop rather than deeply exploring market adaptability strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1198,11 +1297,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product validation and discovery techniques that align with agile principles, but it primarily focuses on a workshop offering rather than a comprehensive exploration of organisational agility.",
+    "final_score": 60.0,
+    "reasoning": "The content primarily promotes a workshop focused on product validation and discovery, which aligns with some aspects of organisational agility, particularly in customer-centric development and team collaboration. However, it lacks a direct discussion of agile methodologies or organisational strategies that enhance adaptability. The depth of discussion on agility principles is moderate, but it does not fully explore the broader implications of organisational agility as defined in the category.",
     "level": "Tertiary"
   },
   "Lean": {
@@ -1267,12 +1369,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:14:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses product development skills and team collaboration, which are relevant to enterprise agility, but it primarily focuses on a specific workshop rather than broader organisational agility principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on a workshop for product discovery and validation skills, which is more aligned with team-level agile practices rather than enterprise-level agility. While it mentions fostering a culture of collaboration and customer-centric development, it lacks a broader discussion on organisational structures, frameworks, or strategies that support enterprise agility. The depth of discussion is limited to workshop details and does not explore the implications of agility on organisational performance.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -1294,11 +1399,14 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T18:15:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily promotes a workshop related to product discovery and validation, which is relevant to Agile practices. However, it lacks broader industry news or reviews, making the category a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily promotes a workshop on product discovery and validation, which is relevant to Agile practices. However, it lacks direct discussion of industry news or reviews, focusing instead on marketing the event. While it touches on Agile concepts, the depth of discussion is limited to promotional content rather than providing insights or evaluations that would typically characterise news and reviews.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -1396,7 +1504,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-06T14:48:19",
+    "calculated_at": "2025-03-14T18:14:03",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 15,
@@ -1404,7 +1512,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on a workshop for product discovery and validation, with some mentions of team collaboration and leadership in the context of the trainer's experience. However, it lacks a deep exploration of leadership principles or practices directly related to Agile or DevOps. The discussion is more about product development techniques than leadership strategies, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

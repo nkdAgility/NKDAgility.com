@@ -55,12 +55,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:35:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of consulting that involve engaging with teams and individuals to facilitate change and improvement, which aligns with coaching principles. However, the primary focus is on DevOps consulting rather than coaching itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses DevOps consulting and touches on aspects of facilitating conversations and cultural shifts, which align with coaching principles. However, it primarily focuses on consulting rather than coaching, with limited direct mentions of coaching techniques or the role of a coach. The depth of discussion on coaching is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -118,11 +121,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:35:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses DevOps consulting, which involves the strategic use of digital tools and methodologies to improve organisational processes. However, the primary focus is on DevOps practices rather than a broader discussion on digital transformation initiatives.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses DevOps consulting, which is related to digital transformation through its focus on improving processes and fostering a culture of continuous improvement. However, it primarily centres on DevOps practices and tools rather than explicitly addressing broader digital transformation strategies or metrics. While there are mentions of cultural shifts and operational excellence, the content lacks a detailed exploration of how these elements contribute to strategic digital transformation initiatives.",
     "level": "Tertiary"
   },
   "Working Software": {
@@ -262,12 +268,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile in the context of DevOps consulting, indicating a secondary theme related to Agile principles and practices, but the primary focus is on DevOps rather than Agile frameworks specifically.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on DevOps consulting, discussing tools, processes, and cultural aspects of DevOps rather than Agile frameworks. While there are mentions of principles that could relate to Agile, such as continuous improvement and cultural shifts, these are not explicitly tied to Agile frameworks like Scrum or Kanban. The discussion lacks depth in exploring Agile principles or frameworks, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -280,12 +289,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of DevOps consulting that involve communication and engagement with teams, which relates to team collaboration. However, the primary focus is on consulting services and tools rather than explicit strategies or techniques for enhancing team collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:34:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses DevOps consulting and touches on aspects of team dynamics and cultural shifts, which are relevant to team collaboration. However, it primarily focuses on the consultant's journey and technical aspects rather than providing in-depth strategies or techniques specifically aimed at enhancing team collaboration within Agile or DevOps frameworks.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -346,7 +358,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-07T13:49:45",
+    "calculated_at": "2025-03-14T23:34:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -354,7 +366,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on DevOps consulting, which is related to engineering practices but does not explicitly discuss the principles of software craftsmanship or quality assurance. While it touches on aspects of continuous improvement and tool usage, it lacks a detailed exploration of best practices in coding standards, testing methodologies, or metrics for assessing engineering performance. The discussion is more about consulting services rather than fostering a culture of engineering excellence.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -412,12 +424,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T15:27:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses DevOps consulting and touches on provoking change within organisations, which aligns with change management principles. However, the primary focus is on consulting services and tools rather than a deep exploration of change management strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses aspects of DevOps consulting, including cultural shifts and leadership alignment, which are relevant to change management. However, it primarily focuses on the technical and operational aspects of DevOps rather than providing a comprehensive discussion on change management strategies or practices. The mention of 'cultural shifts' indicates some alignment with change management principles, but the overall depth and focus on change management are limited.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -706,12 +721,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile in the context of DevOps consulting, indicating a major but secondary theme related to Agile transformation practices and methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on DevOps consulting rather than Agile transformation. While it touches on cultural shifts and processes, which are relevant to Agile, it does not explicitly discuss Agile principles, frameworks, or methodologies. The mention of leadership alignment and cultural aspects is too general and does not delve into Agile-specific practices or strategies, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -733,7 +751,7 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-03-11T11:34:49",
+    "calculated_at": "2025-03-14T23:34:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -741,7 +759,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on DevOps consulting, discussing tools and techniques rather than organisational change strategies. While there are brief mentions of provoking change within organisations and improving ways of working, these points are secondary to the main topic of DevOps tools and practices. The discussion lacks depth in organisational change frameworks or methodologies, which diminishes its alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -763,12 +781,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses DevOps consulting and touches on improving organisational practices, but it primarily focuses on the consultant's experiences and offerings rather than specific operational practices or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:34:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses DevOps consulting and its role in fostering operational excellence, which aligns with the category's focus on improving operational efficiency. However, while it mentions aspects of process improvement and cultural shifts, it lacks detailed techniques or strategies specific to Agile, DevOps, or Lean methodologies. The discussion is more about the consulting approach rather than concrete operational practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -826,7 +847,7 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-03-11T14:39:27",
+    "calculated_at": "2025-03-14T23:34:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -834,7 +855,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content discusses DevOps consulting, which touches on aspects of technical leadership, such as leadership alignment and cultural shifts. However, it primarily focuses on the consultant's personal journey and experiences rather than providing a structured discussion on technical leadership principles or practices. While there are mentions of fostering a culture of continuous improvement and engaging with leadership, the overall emphasis is more on the consulting process and personal insights rather than on guiding development teams or implementing agile methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -919,12 +940,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:35:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses DevOps consulting, which includes aspects of technical practices and tools, but primarily focuses on consulting services rather than deep technical mastery or software craftsmanship principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses DevOps principles and practices, which align with the category of Technical Mastery. It mentions the importance of culture, processes, and tools in achieving operational excellence, reflecting best practices in software engineering. However, the focus is more on consulting and cultural aspects rather than deep technical methodologies or specific engineering practices, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1018,12 +1042,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses consulting in DevOps, which includes elements of knowledge sharing and feedback loops, but the primary focus is on the consulting process rather than continuous learning principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:34:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of ongoing dialogues and cultural shifts in the context of DevOps consulting, which aligns with the principles of Continuous Learning. However, while it touches on the concept of continued learning, it does not delve deeply into specific techniques or frameworks that promote a growth mindset or knowledge sharing, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1036,11 +1063,14 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:40:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses DevOps consulting and its implications for organisational change, which aligns with the theme of enterprise agility. However, the primary focus is on DevOps practices rather than a comprehensive exploration of enterprise agility as a central topic.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses DevOps consulting, focusing on cultural shifts and leadership alignment, which are relevant to enterprise agility. However, it primarily centres on DevOps practices and tools rather than broader organisational agility frameworks or strategies. The mention of cultural change and leadership involvement indicates some alignment with enterprise agility principles, but the depth of discussion on these topics is limited.",
     "level": "Tertiary"
   },
   "Lean": {
@@ -1054,12 +1084,15 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses DevOps consulting, which includes elements of organisational change and improvement. However, the primary focus is on the consulting services offered rather than a deep exploration of resilience and change methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of cultural shifts and continuous improvement within the context of DevOps consulting, which aligns with the themes of resilience and change. However, it primarily focuses on technical aspects and tools rather than providing a comprehensive exploration of organisational resilience strategies or change management practices. The mention of leadership alignment and fostering a culture of adaptability contributes positively, but the overall emphasis remains on technical implementation and consulting services.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1120,12 +1153,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:35:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of DevOps consulting that involve understanding and improving organisational practices, which aligns with learning and discovery. However, the primary focus is on consulting services rather than a deep exploration of methodologies for fostering innovation or continuous learning.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the importance of continuous learning and cultural shifts within DevOps consulting, which aligns with the core themes of the 'Discovery and Learning' category. It mentions interactive workshops and ongoing dialogues, indicating a focus on fostering innovation and adapting practices. However, the primary focus remains on consulting and technical aspects rather than a deep exploration of discovery methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1168,21 +1204,27 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:35:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses presentations and workshops related to DevOps, indicating a secondary theme of events and presentations, but the primary focus is on consulting services rather than specific events.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses DevOps consulting and mentions interactive workshops, which could relate to events. However, it lacks specific references to formal events, presentations, or discussions that align with the category's focus. The primary emphasis is on consulting practices rather than sharing insights from events or presentations.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses DevOps consulting and its role in helping organisations understand and implement DevOps practices, which can enhance market adaptability. However, the primary focus is on the consulting process rather than specific strategies or methodologies that directly enhance market adaptability.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses DevOps consulting and its role in fostering cultural shifts and continuous improvement, which aligns with the principles of market adaptability. However, it lacks explicit discussions on agile methodologies or specific strategies for responding to market changes, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1246,20 +1288,26 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses DevOps consulting, which includes elements of value delivery through improving organisational practices and tools. However, the primary focus is on the consulting process and personal experiences rather than specific strategies or methodologies for delivering value to customers.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:35:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses various aspects of DevOps consulting, including the importance of cultural shifts, continuous delivery, and improvement, which align with the principles of value delivery. However, it primarily focuses on the consulting process and personal experiences rather than specific methodologies or strategies for delivering value to customers. While there are mentions of value delivery concepts, they are not the primary focus of the content.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:34:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses DevOps consulting, which includes some technical practices and tools related to software development and delivery. However, the primary focus is on consulting services and interactions rather than specific engineering methodologies or practices that enhance technical excellence.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses DevOps consulting, touching on aspects like CI/CD pipelines and technical troubleshooting, which align with technical excellence. However, the primary focus is on the consulting process and cultural aspects rather than deep technical practices or methodologies. The discussion lacks depth in specific engineering practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
@@ -1276,12 +1324,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and insights related to DevOps consulting, but the primary focus is on the consulting services offered rather than personal reflections or anecdotes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:34:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 7,
+    "non_ai_confidence": 50,
+    "final_score": 34.0,
+    "reasoning": "The content provides a personal narrative about the author's journey as a DevOps consultant, which aligns with the Personal category. However, the focus is primarily on technical aspects of DevOps consulting rather than personal reflections or insights. While there are mentions of personal experiences, they are not the primary focus, and the depth of personal anecdotes is limited.",
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1297,12 +1348,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:35:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of DevOps consulting in organisations, touching on how it influences team dynamics and organisational change. However, the primary focus is on the consulting services and tools rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of culture and processes in DevOps, which aligns with sociotechnical systems. However, it primarily focuses on DevOps practices and tools rather than a comprehensive exploration of the interplay between social and technical elements within organisations. The mention of cultural shifts and leadership alignment indicates some understanding of sociotechnical principles, but the overall depth and direct focus on sociotechnical systems are limited.",
+    "level": "Secondary"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1351,7 +1405,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T12:08:50",
+    "calculated_at": "2025-03-14T23:34:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1359,11 +1413,11 @@
     "non_ai_confidence": 50,
     "final_score": 34.0,
     "reasoning": "The content primarily focuses on DevOps consulting and technical aspects of Azure DevOps, with only brief mentions of engaging with leadership teams. While there are references to provoking change and discussing work processes, the depth of discussion on leadership practices is minimal, lacking a strong alignment with the core themes of leadership in Agile and DevOps contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-03-10T14:18:31",
+    "calculated_at": "2025-03-14T23:34:42",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1371,7 +1425,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions Agile and Scrum towards the end, but the primary focus is on DevOps consulting, which does not align closely with the core themes of Social Technologies. While there are elements of collaboration and improvement discussed, they are not explored in depth or as a primary focus.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1429,7 +1483,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:22:10",
+    "calculated_at": "2025-03-14T23:34:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
     "ai_alignment": 5.0,
@@ -1437,6 +1491,6 @@
     "non_ai_confidence": 30,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on DevOps consulting, with only a brief mention of Agile and Scrum at the end. There is no substantial discussion of Scrum principles, roles, events, or artifacts, which are essential for a strong alignment with the Scrum category. The content lacks depth in relation to Scrum, making it clear that it is not a primary focus.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

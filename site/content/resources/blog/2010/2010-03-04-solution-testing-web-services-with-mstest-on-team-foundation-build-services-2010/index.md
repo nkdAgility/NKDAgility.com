@@ -27,7 +27,16 @@ aliasesArchive:
 - /blog/solution--testing-web-services-with-mstest-on-team-foundation-build-services-2010
 - /resources/blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 tags:
+- Automated Testing
+- Practical Techniques and Tooling
 - Software Development
+- Test Automation
+- Technical Mastery
+- Pragmatic Thinking
+- Technical Excellence
+- Engineering Practices
+- Troubleshooting
+- Install and Configuration
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - Engineering Excellence

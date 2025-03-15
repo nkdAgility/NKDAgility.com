@@ -27,13 +27,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Complexity Thinking
-- Sensemaking
+- Software Development
 resourceTypes:
 - video
 categories:
 - Social Technologies
-- Scrum
 
 ---
 ## Confronting Complexity 

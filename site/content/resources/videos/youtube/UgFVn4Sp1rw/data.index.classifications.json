@@ -10,12 +10,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team understanding of costs and value in the context of product management, which relates to team dynamics and decision-making. However, the primary focus is on cost management and metrics rather than direct techniques for improving team collaboration or communication.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the importance of financial awareness among team members, which indirectly relates to team collaboration by promoting shared ownership and informed decision-making. However, the primary focus is on financial metrics and product management rather than direct techniques or strategies for enhancing team collaboration within Agile or DevOps frameworks.",
+    "level": "Ignored"
   },
   "MVP": {
     "category": "MVP",
@@ -178,20 +181,26 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses sprints, cost per sprint, and the importance of understanding team dynamics and metrics within the context of Scrum, indicating a significant but secondary theme related to the Scrum Master role.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:49:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses financial aspects of product development and team empowerment but does not explicitly mention the role of a Scrum Master or Scrum practices. While it touches on team dynamics and continuous improvement, it lacks a direct focus on Scrum ceremonies or the specific responsibilities of a Scrum Master.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding costs and metrics in the context of team performance and decision-making within Agile teams. While it touches on team dynamics and the need for team members to be aware of costs, the primary focus is on financial metrics and product management rather than directly on team collaboration or performance strategies.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the financial aspects of product development and how team members can be empowered with financial awareness, which indirectly relates to team performance. However, it primarily focuses on cost management rather than specific strategies for enhancing team dynamics or collaboration. While there are mentions of team members understanding their contributions and operating with a profit mindset, the depth of discussion on team performance methodologies and Agile practices is limited.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -265,12 +274,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding costs and value in the context of team dynamics and decision-making, which relates to accountability. However, it primarily focuses on cost management and product value rather than accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses financial awareness and the importance of team members understanding the costs associated with their work, which touches on accountability. However, it primarily focuses on financial metrics and product management rather than the core themes of accountability in Agile, such as ownership and team dynamics. While there are elements of accountability, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -382,25 +394,31 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the cost management and value measurement in the context of software development, particularly within Agile frameworks like Scrum. However, it primarily focuses on financial aspects and product management rather than the role of software developers in Agile and DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on financial aspects of product development rather than the role of software developers within Agile and DevOps frameworks. While it touches on team dynamics and decision-making, it lacks direct discussions on Agile methodologies, DevOps principles, or modern engineering practices. The emphasis on cost management and financial awareness does not align closely with the core themes of the category.",
+    "level": "Ignored"
   },
   "Scaled Agile": {
     "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices, specifically Scrum, and touches on metrics and value delivery, which are relevant to scaling Agile. However, it primarily focuses on cost management and product leadership rather than explicitly addressing the coordination of multiple teams or enterprise-level scaling strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses financial awareness and cost management in product development, which is relevant to Agile practices. However, it lacks explicit references to scaling Agile methodologies or frameworks, and does not address coordination among multiple teams or enterprise-level strategies. The focus is primarily on individual team dynamics rather than the broader context of Scaled Agile.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-03-11T16:04:49",
+    "calculated_at": "2025-03-14T16:48:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -408,7 +426,7 @@
     "non_ai_confidence": 20,
     "final_score": 40.0,
     "reasoning": "The content discusses financial aspects of product development, which is tangentially related to software development. While it mentions costs associated with software teams and the importance of understanding financial implications, it lacks a direct focus on software engineering practices, methodologies, or technical discussions. The primary emphasis is on financial management rather than software development processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -469,30 +487,39 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T15:34:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T14:45:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses measuring and monitoring costs in the context of continuous improvement, which aligns with operational efficiency and delivery within Agile frameworks. It addresses metrics, team dynamics, and decision-making processes that enhance operational practices.",
-    "level": "Secondary"
+    "final_score": 60.0,
+    "reasoning": "The content discusses financial awareness and cost management in product development, which relates to operational efficiency. However, it primarily focuses on financial metrics rather than specific operational practices or methodologies like Agile, DevOps, or Lean. While it touches on continuous improvement and metrics, it lacks detailed strategies or techniques for optimising processes, which diminishes its alignment with the core themes of operational practices.",
+    "level": "Tertiary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-12T15:34:03",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of understanding costs and metrics in the context of decision-making within product management. It emphasises evidence-based management principles and the need for teams to make informed choices based on data, which aligns closely with the category's focus on structured decision-making methodologies.",
+    "calculated_at": "2025-03-13T14:56:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 71.0,
+    "reasoning": "The content discusses financial awareness and metrics in product development, which are relevant to decision-making. It mentions evaluating costs and value, and encourages informed choices based on financial implications. However, it lacks a structured approach to decision-making methodologies and empirical evidence, which are core to the category.",
     "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses cost management and metrics in the context of software development, which relates to the delivery of functional software. However, it primarily focuses on financial aspects and team dynamics rather than the characteristics or practices of working software itself.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses financial aspects of product development rather than focusing on the delivery of functional software. While it touches on metrics and team empowerment, it lacks a direct emphasis on working software characteristics, Agile principles, or customer feedback mechanisms.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -559,11 +586,14 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses costs associated with building products, including personnel costs, and touches on the importance of understanding revenue in relation to team performance. However, it primarily focuses on cost management and product value rather than a direct analysis of revenue per employee as a central theme.",
+    "final_score": 59.0,
+    "reasoning": "The content discusses financial aspects of product development, including costs and revenue generation, but does not explicitly focus on the concept of revenue per employee. While it touches on related themes such as cost per sprint and financial awareness among team members, it lacks a direct exploration of the revenue per employee metric itself. The discussion is more about overall financial management and product development costs rather than a focused analysis of productivity per employee.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
@@ -577,12 +607,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T15:34:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:19:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the cost management and value measurement within the context of Agile methodologies, specifically referencing Scrum sprints and the importance of understanding costs in relation to project delivery and team dynamics.",
-    "level": "Secondary"
+    "final_score": 57.0,
+    "reasoning": "The content discusses financial aspects of product development and cost management, which are relevant to Agile Project Management, particularly in terms of evaluating sprints and team accountability. However, it lacks direct references to Agile methodologies, frameworks, or principles, and does not delve deeply into Agile practices or roles such as Scrum Master or Product Owner. The focus is more on financial metrics than on Agile processes, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -604,21 +637,27 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses cost management and metrics in the context of Agile practices, particularly focusing on team dynamics and decision-making. While it touches on aspects relevant to scaling Agile, such as understanding costs and value across teams, it primarily centres on team-level practices and individual decision-making rather than large-scale Agile frameworks or enterprise-level strategies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on financial management within product development, discussing cost metrics and team accountability. While it touches on team dynamics and decision-making, it lacks explicit references to large-scale Agile frameworks or enterprise-level strategies. The discussion is more aligned with team-level practices rather than the principles of scaling Agile across an organisation.",
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of understanding market value and future value in relation to the product backlog, indicating a secondary theme related to backlog management. However, the primary focus is on cost management and team dynamics rather than the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on financial aspects of product development rather than discussing the Product Backlog or its management. While it briefly mentions the concept of the backlog in relation to future value, it lacks depth and does not cover key topics such as backlog refinement, prioritisation techniques, or the role of the Product Owner.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -649,12 +688,12 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T11:57:54",
+    "calculated_at": "2025-03-14T16:48:45",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "The content primarily discusses cost management and metrics related to product development rather than focusing on methodologies for identifying customer needs or defining product features. While there are some mentions of understanding market value and customer problems, these are not the central themes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -676,21 +715,27 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding costs and value in product management, which relates to strategic goals in terms of long-term objectives and business agility. However, the primary focus is on operational metrics and cost management rather than explicitly defining or articulating strategic goals.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:49:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses financial awareness and cost management in product development, which indirectly relates to strategic goals by emphasising the importance of aligning team efforts with overall business objectives. However, it primarily focuses on operational tactics and metrics rather than explicitly defining long-term strategic goals or their alignment with Agile principles.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses lead time in the context of time to market and its relationship with other metrics, but the primary focus is on cost management and product value rather than lead time itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:48:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 24.0,
+    "reasoning": "The content primarily focuses on financial aspects of product development, discussing costs and value delivery rather than Lead Time specifically. While it touches on related concepts like time to market, it does not provide a direct discussion on Lead Time or its measurement, making it only tangentially relevant to the category.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -703,12 +748,15 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T15:34:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T16:48:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the cost management and value measurement within the context of Scrum sprints, emphasising the importance of understanding costs and metrics in product development.",
-    "level": "Secondary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses financial aspects of product development, which is relevant to Scrum but does not explicitly mention Scrum roles, events, or practices. While it touches on metrics and team empowerment, it lacks a direct focus on Scrum principles and iterative development processes.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -730,39 +778,51 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses cost management and metrics in the context of software development, which touches on aspects of technical delivery and the importance of understanding technical debt. However, the primary focus is on financial management and product leadership rather than core engineering practices or software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on financial aspects of product development rather than technical practices or software craftsmanship. While it touches on metrics and team empowerment, it lacks a strong emphasis on software design, architecture, or engineering excellence, which are core to the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding costs and value in Agile processes, which relates to transparency in decision-making and team dynamics. However, the primary focus is on cost management and metrics rather than transparency itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses financial awareness and cost management in product development, which indirectly relates to transparency in terms of team members understanding the financial implications of their work. However, it does not explicitly focus on transparency as a primary theme, nor does it delve deeply into Agile methodologies or practices that promote transparency. The discussion is more centred on financial metrics and decision-making rather than fostering an environment of openness and visibility.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses sprints as part of the Scrum framework and touches on team dynamics in relation to cost and value, making Scrum a significant theme, but it primarily focuses on cost management and metrics rather than the core dynamics of a Scrum Team.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:49:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses financial awareness and cost management in product development, which indirectly relates to team dynamics and decision-making. However, it lacks explicit references to Scrum roles, collaboration techniques, or specific Scrum practices, making it a secondary focus rather than a primary discussion on Scrum Teams.",
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:50:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses cycle time in the context of measuring and monitoring costs, as well as its impact on time to market and innovation. However, the primary focus is on cost management and product value rather than cycle time itself.",
-    "level": "Tertiary"
+    "final_score": 13.0,
+    "reasoning": "The content primarily focuses on financial aspects of product development, discussing costs and value rather than Cycle Time. While it touches on metrics like time to market, it does not explicitly address Cycle Time or its implications in Agile or DevOps contexts.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -775,12 +835,15 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses cost management and metrics in the context of Agile and product management, which relates to understanding trends in organisational practices. However, it primarily focuses on cost analysis rather than explicitly analysing trends in Agile methodologies or DevOps practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:49:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily focuses on financial management in product development rather than explicitly discussing trends in Agile, DevOps, or business agility. While it touches on metrics and organisational capabilities, it lacks a direct examination of emerging trends or shifts that inform strategic decision-making in these frameworks.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -793,7 +856,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-06T14:37:21",
+    "calculated_at": "2025-03-14T16:48:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -801,16 +864,19 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on product development costs and financial management rather than engineering practices. While it touches on metrics and the importance of understanding costs, it lacks a direct emphasis on software craftsmanship, coding standards, or continuous improvement in engineering processes. The discussion of Scrum and team dynamics is more about project management than engineering excellence, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses cost management and metrics in the context of product development, which relates to operational efficiency and decision-making in a digital environment. However, it primarily focuses on cost analysis and Scrum practices rather than a comprehensive digital transformation strategy.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses financial management in product development, which is tangentially related to digital transformation through the lens of operational efficiency and team empowerment. However, it lacks a direct focus on the strategic adoption of digital technologies or methodologies that drive transformation. While it touches on metrics and continuous improvement, it does not delve into the broader implications of digital tools or cultural shifts necessary for true digital transformation.",
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -823,21 +889,27 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of technical debt on time to market and innovation, indicating that it is a major theme. However, the primary focus is on cost management and product value rather than a direct exploration of technical debt itself.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content briefly touches on the concept of technical debt in the context of organisational capability and time spent on maintenance versus innovation. However, it primarily focuses on financial management and cost evaluation in product development, which is not the main theme of technical debt. The discussion lacks depth and specific strategies for managing technical debt, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scaling Scrum": {
     "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles, particularly in relation to cost management and metrics, which are relevant to scaling Scrum practices. However, it primarily focuses on cost analysis and product management rather than explicitly addressing the scaling of Scrum across multiple teams or frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:49:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on financial management in product development rather than discussing Scaling Scrum principles or practices. While it touches on team dynamics and metrics, it does not explicitly mention Scrum frameworks, roles, or scaling challenges, which are essential for the category.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -850,12 +922,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-12T15:35:34",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of understanding costs and metrics in product management, linking these concepts to evidence-based management principles. It emphasises the need for data-driven decision-making and the role of metrics in assessing team performance and organisational health, aligning well with the category's focus.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-13T16:25:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 60.0,
+    "reasoning": "The content discusses financial metrics and their importance in product development, which aligns with evidence-based decision-making. It mentions the need for teams to understand costs and value, reflecting a data-driven approach. However, it lacks direct references to evidence-based leadership principles or frameworks, and the focus is more on financial management than on leadership practices specifically.",
+    "level": "Tertiary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1006,12 +1081,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T15:36:06",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T16:48:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the cost per sprint and the importance of understanding costs within the context of the Scrum framework, making Agile principles a significant theme. However, the primary focus is on cost management and metrics rather than a comprehensive exploration of Agile frameworks.",
-    "level": "Secondary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses financial aspects of product development and team empowerment but does not explicitly mention Agile frameworks or principles. While it touches on concepts like cost per sprint and team dynamics, it lacks a direct focus on Agile methodologies such as Scrum or Kanban, which are central to the category. The discussion is more about financial management than Agile practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -1033,12 +1111,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of cost management and value measurement within the context of Agile sprints, which are part of the Scrum framework. However, the primary focus is on financial metrics and product management rather than specific Agile planning tools or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:48:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses financial aspects of product development and cost management, which are tangentially related to Agile planning but do not focus on Agile Planning Tools or methodologies. While it mentions metrics and team empowerment, it lacks a direct discussion on Agile tools or techniques for backlog management, sprint planning, or team collaboration within Agile frameworks.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1051,30 +1132,39 @@
   },
   "Products and Books": {
     "category": "Products and Books",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses concepts related to product management and cost analysis in the context of Agile methodologies, particularly Scrum. While it touches on relevant themes, it primarily focuses on operational aspects rather than specific products or literature.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses financial aspects of product development, which aligns with the category's focus on tools and methodologies relevant to Agile practices. However, it lacks direct references to specific products or literature, and while it provides a detailed analysis of cost management in product development, it does not delve into specific Agile or DevOps resources, limiting its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making processes related to cost management and value assessment in product development, which aligns with decision theory principles. However, the primary focus is on Scrum and Agile methodologies rather than decision theory itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:49:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses financial decision-making in product development, touching on cost evaluation and return on investment, which aligns with decision theory principles. However, it primarily focuses on financial metrics and team empowerment rather than explicitly exploring decision-making processes in uncertain environments or the theoretical frameworks of decision theory.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses cost management and metrics related to product development, which are relevant to flow efficiency. However, the primary focus is on cost analysis and P&L rather than directly optimising work throughput or addressing bottlenecks in the value stream.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T16:49:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses financial aspects of product development and cost management, which are tangentially related to flow efficiency. However, it lacks a direct focus on optimising throughput or eliminating bottlenecks in the value stream. While it mentions metrics like time to market, the primary emphasis is on financial awareness rather than flow efficiency principles.",
+    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1087,21 +1177,27 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between cost management, team dynamics, and organisational understanding in the context of software development. While it touches on sociotechnical aspects, such as the need for team members to understand costs and their impact on decision-making, the primary focus is on cost measurement and management rather than a comprehensive exploration of sociotechnical systems.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses financial awareness and team dynamics in product development, which touches on sociotechnical aspects. However, it primarily focuses on cost management and metrics without deeply exploring the interplay between social and technical systems or organisational structures. While there are mentions of team empowerment and organisational capability, the discussion lacks a comprehensive examination of how these elements collectively influence software delivery and team effectiveness.",
     "level": "Tertiary"
   },
   "Transparency and Accountability": {
     "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding costs and value within Agile teams, which relates to accountability in decision-making. However, the primary focus is on cost management and product value rather than transparency and accountability as central themes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses financial awareness and accountability within teams, which aligns with the principles of transparency and accountability. However, it primarily focuses on cost management and financial metrics rather than explicitly addressing transparency in communication or team dynamics. While it mentions the importance of team members understanding their contributions and the financial implications, it lacks a deeper exploration of how transparency and accountability manifest in Agile practices.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1114,12 +1210,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding costs and value in product management, which aligns with Systems Thinking principles. However, it primarily focuses on cost management and Scrum practices, making Systems Thinking a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses financial awareness and decision-making in product development, which touches on interconnectedness and holistic analysis. However, it primarily focuses on cost management and metrics rather than the core principles of Systems Thinking. While there are elements of organisational dynamics and continuous improvement, the discussion lacks explicit references to Systems Thinking methodologies or frameworks, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -1174,7 +1273,7 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-03-07T12:43:26",
+    "calculated_at": "2025-03-14T16:48:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1182,7 +1281,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content primarily focuses on product development costs and financial management within teams, with a significant emphasis on Scrum practices. While it touches on aspects of team dynamics and decision-making that could relate to DevOps, it lacks a direct discussion of DevOps principles, practices, or tools. The mention of metrics and time to market aligns somewhat with DevOps themes, but the overall focus remains on cost management rather than the integration of development and operations or continuous delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "People and Process": {
     "category": "People and Process",
@@ -1225,12 +1324,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses cost management and value creation in the context of product development, which aligns with Lean principles. However, it primarily focuses on Scrum and cost monitoring rather than Lean methodologies specifically.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses cost management and financial awareness in product development, which aligns with Lean principles of maximising value and minimising waste. However, it primarily focuses on financial metrics and does not delve deeply into Lean methodologies or tools. While there are mentions of value and continuous improvement, the discussion lacks specific Lean concepts such as value stream mapping or waste reduction techniques.",
+    "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1285,29 +1387,38 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses measuring costs and value in the context of product management, which aligns with some principles of Value Stream Management. However, it primarily focuses on Scrum practices and project management rather than a comprehensive exploration of value stream optimisation.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content discusses financial aspects of product development and cost management, which are tangentially related to value stream management. However, it lacks a direct focus on value stream principles, techniques for mapping value streams, or waste elimination. While it touches on metrics and continuous improvement, these are framed within a financial context rather than a value stream perspective.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and monitoring related to costs and value in product management, which aligns with the broader implications of agility on organisational performance. However, it primarily focuses on team-level practices and cost management rather than organisational agility as a central theme.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses financial awareness and cost management in product development, which touches on aspects of organisational agility, such as continuous improvement and team empowerment. However, it primarily focuses on team-level practices and financial metrics without a strong emphasis on broader organisational agility frameworks or cultural aspects, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:49:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses cost management and metrics in the context of product development, which relates to business agility principles. However, it primarily focuses on financial aspects and Scrum practices rather than a comprehensive exploration of business agility as a central theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses financial awareness and cost management in product development, which indirectly relates to business agility by emphasising the importance of understanding market dynamics and fostering a culture of continuous improvement. However, it lacks direct discussions on agile principles, leadership roles, or specific strategies for enhancing organisational responsiveness, which are central to the category of Business Agility.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -1342,12 +1453,15 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T11:57:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T16:48:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding costs and metrics in product development, which relates to continuous improvement and learning. However, the primary focus is on cost management and project management rather than on discovery and learning methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on financial management in product development rather than on discovery and learning processes. While it touches on the importance of understanding costs and fostering a culture of financial awareness, it lacks explicit discussions on experimentation, feedback loops, or methodologies that promote innovation. The depth of discussion on financial metrics and team empowerment is notable, but it does not sufficiently align with the core themes of discovery and learning.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",

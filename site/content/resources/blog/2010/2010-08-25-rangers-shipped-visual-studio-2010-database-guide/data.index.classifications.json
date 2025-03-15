@@ -22,12 +22,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:51:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses build and deployment automation, which is a relevant aspect of platform engineering, but it primarily focuses on Visual Studio Database projects and guidance rather than internal developer platforms.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Visual Studio 2010 Database projects and provides practical guidance on various aspects of database management and deployment automation. While it touches on topics like build and deployment automation, which are relevant to platform engineering, the primary focus is on specific tools and guidance rather than the broader principles of platform engineering or Internal Developer Platforms (IDPs). The discussion lacks depth in terms of platform engineering concepts and does not explicitly mention IDPs or the enhancement of developer productivity in a platform context.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -172,12 +175,15 @@
   },
   "People and Process": {
     "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:51:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions contributors and reviewers, highlighting the collaborative effort involved in creating the guide, which aligns with team dynamics and collaboration. However, the primary focus is on technical guidance and tools rather than a deep exploration of people and processes.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions contributors and the collaborative effort behind the guide, which aligns with the category's focus on team dynamics. However, the primary focus is on technical guidance and features of Visual Studio, with limited depth on human factors or process methodologies. The discussion lacks substantial exploration of team collaboration or leadership roles, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -217,12 +223,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:50:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various aspects of Visual Studio 2010 Database projects, including build and deployment automation, source code control, and database testing, which are relevant to technical excellence. However, the primary focus is on the guide and its practical applications rather than a deep exploration of engineering practices.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses practical guidance for Visual Studio 2010 Database projects, touching on topics such as build and deployment automation, source code control, and database testing. While it does mention relevant technical practices, the focus is more on the guide itself rather than a deep exploration of technical excellence principles. The discussion lacks a comprehensive analysis of methodologies like TDD or CI/CD, which are central to the category, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -244,12 +253,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:50:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of build and deployment automation, which are relevant to product delivery, but it primarily focuses on guidance for using Visual Studio Database projects rather than the broader methodologies and practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses various aspects of product delivery, particularly focusing on build and deployment automation, which is a key topic in the category. It mentions practical guidance for database projects, including deployment verification and integration with Team Build, aligning well with the methodologies and practices of delivering usable software products. However, while it provides a good overview, it lacks in-depth exploration of agile methodologies or iterative development, which are also crucial to the category.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -346,12 +358,15 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:51:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of a new guide for Visual Studio 2010 Database projects, providing practical guidance and insights, which aligns with the category's focus on updates and reviews in technology.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses the release of a new guide for Visual Studio 2010 Database projects, which aligns with industry updates relevant to technology. However, while it provides practical guidance and mentions contributors, it lacks a broader analysis of trends or reviews that would typically characterise the 'News and Reviews' category. The focus is more on the specifics of the guide rather than a comprehensive review or news analysis.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -406,11 +421,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:51:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Build and Deployment Automation, which is a significant aspect of Continuous Delivery, but it primarily focuses on Visual Studio Database projects and guidance rather than on Continuous Delivery as the central theme.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses aspects of build and deployment automation, which are relevant to Continuous Delivery. However, it primarily focuses on Visual Studio Database projects and guidance rather than the broader principles and practices of Continuous Delivery. The mention of deployment automation is too brief and lacks depth in discussing Continuous Delivery methodologies, making it a secondary focus rather than a primary one.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
@@ -496,11 +514,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:50:50",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical guidance for Visual Studio Database projects, including build and deployment automation and source code control, which are relevant to operational efficiency in software development environments. However, it does not explicitly focus on Agile, DevOps, or Lean methodologies.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses practical guidance for Visual Studio 2010 Database projects, including topics like build and deployment automation, source code control, and project management. While it touches on operational practices relevant to Agile and DevOps, such as automation and project management, the primary focus is on specific tools and guidance rather than broader operational efficiency strategies. Therefore, it aligns moderately with the category but lacks depth in discussing overarching operational practices.",
     "level": "Tertiary"
   },
   "Scrum Team": {
@@ -559,11 +580,14 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:51:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses 'Database Testing and Deployment Verification', which relates to automated testing practices, but the primary focus is on guidance for database projects and various development practices.",
+    "final_score": 57.0,
+    "reasoning": "The content briefly mentions 'Database Testing and Deployment Verification' as part of the Visual Studio 2010 Database Guide, which aligns with automated testing principles. However, the primary focus is on guidance for database projects and deployment automation rather than a detailed exploration of automated testing methodologies or practices. The discussion lacks depth and does not cover key topics such as testing frameworks, tools, or CI/CD practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Team Performance": {
@@ -805,12 +829,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T06:51:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content provides practical guidance for Visual Studio 2010 Database projects, emphasizing real-world applications and hands-on labs related to project management, source code control, and deployment automation, which aligns with pragmatic principles. However, it does not primarily focus on Agile, Scrum, or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical guidance for Visual Studio 2010 Database projects, which aligns with the category's focus on real-world applications and practical problem-solving strategies. It mentions hands-on labs and real-world scenarios, indicating a pragmatic approach. However, the primary focus is on the product features and guidance rather than a deep exploration of Agile, Scrum, or DevOps principles, which limits the overall depth and direct mentions of pragmatic thinking.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -868,12 +895,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:50:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses various aspects of database testing and deployment verification, which relates to the broader theme of test automation in the context of building and deploying databases using Visual Studio. However, it primarily focuses on tooling rather than automation strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 40.0,
+    "reasoning": "The content discusses database testing and deployment verification, which are relevant to test automation. However, the primary focus is on Visual Studio Database projects and related guidance rather than a comprehensive exploration of test automation principles or frameworks. The mention of unit tests indicates some alignment with test automation, but the overall depth and focus on broader software development practices limit its relevance to the category.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -886,12 +916,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 60,
+    "calculated_at": "2025-03-15T06:50:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses practical guidance for Visual Studio Database projects, including topics like deployment, build automation, and database testing, which align with the principles of delivering functional software. However, the primary focus appears to be on the guide itself rather than a broader discussion on working software principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses practical guidance for Visual Studio 2010 Database projects, which aligns with the delivery of functional software. It mentions hands-on labs and real-world scenarios, indicating a focus on working software. However, while it touches on aspects of software quality and deployment, it lacks a deeper exploration of iterative development or customer feedback mechanisms, which are crucial for a higher confidence score in the 'Working Software' category.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -904,11 +937,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:50:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Build and Deployment Automation and Source Code Control, which are relevant to Continuous Integration practices, but overall it focuses more on Visual Studio Database projects without a strong emphasis on CI principles.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses aspects of build and deployment automation, which are relevant to Continuous Integration. However, it lacks a direct focus on CI principles and practices, and the discussion is more about Visual Studio Database projects rather than CI as a primary topic. The mention of source code control and configuration management aligns somewhat with CI, but the overall depth and focus on CI is limited.",
     "level": "Tertiary"
   },
   "Market Share": {
@@ -976,12 +1012,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:50:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses Build and Deployment Automation as well as Source Code Control and Configuration Management, which are relevant to Release Management, although the primary focus is on Visual Studio guidance and tools.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the release of a guide for Visual Studio 2010 Database projects, which includes aspects of build and deployment automation, source code control, and configuration management. While it touches on relevant topics such as deployment and project management, it lacks a focused discussion on the broader strategies and practices of release management. The mention of hands-on labs and real-world scenarios provides some depth, but the overall emphasis is more on the guide itself rather than a comprehensive exploration of release management principles.",
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1012,11 +1051,14 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:50:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions build and deployment automation, which aligns with the concept of deployment frequency. However, the primary focus is on the Visual Studio Database Guide rather than specifically on optimizing deployment intervals.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses deployment automation and includes a section on 'Build and Deployment Automation' which is relevant to deployment frequency. However, it lacks a focused discussion on the optimisation of deployment intervals and does not provide metrics or strategies specifically aimed at increasing deployment frequency. The mention of deployment is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Change Management": {
@@ -1075,12 +1117,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:51:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of configuration management and build automation specific to Visual Studio Database Projects, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses various aspects of configuring Visual Studio Database projects, including source code control, configuration management, and build and deployment automation. These topics align well with the core themes of system configuration, particularly in the context of software setup and optimisation. However, while the content provides a good overview, it lacks in-depth technical details and best practices that would enhance its relevance to the category.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1120,12 +1165,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:51:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions database testing and deployment verification within the context of Visual Studio Database projects, but the primary focus is on general guidance for using Visual Studio rather than a clear discussion on Test First Development principles or practices.",
-    "level": "Tertiary"
+    "final_score": 31.0,
+    "reasoning": "The content briefly mentions 'Database Testing and Deployment Verification' as part of the Visual Studio 2010 Database Guide, which aligns with the concept of testing in software development. However, it does not explicitly discuss Test First Development or its principles, nor does it delve into the practices of writing tests before code. The focus is more on guidance for using Visual Studio rather than on the Test First Development methodology itself.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -1138,11 +1186,14 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:51:20",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a focus on 'Build and Deployment Automation' and 'WiX-Integration with deployment of databases', which relates to deployment strategies. However, it primarily emphasizes guidance for Visual Studio Database projects and additional topics that may not be strictly about deployment methodologies.",
+    "final_score": 43.0,
+    "reasoning": "The content discusses deployment automation and includes a section on 'Build and Deployment Automation with Visual Studio Database Projects', which aligns with the category. However, the primary focus is on guidance for using Visual Studio rather than specific deployment strategies. The depth of discussion on deployment strategies is moderate, but it lacks a comprehensive exploration of methodologies like Blue-Green Deployments or Canary Releases.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -1183,12 +1234,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:51:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical guidance for Visual Studio 2010 Database projects, which includes helping users manage and troubleshoot various aspects like project management, integration, and deployment. However, it primarily focuses on the guidance and resources available rather than explicitly troubleshooting issues.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses a guide for Visual Studio 2010 Database projects, which includes practical guidance and hands-on labs. However, it primarily focuses on project management and usage scenarios rather than directly addressing troubleshooting techniques or methodologies. While there are mentions of common guidance and lessons learned, the content lacks a strong emphasis on diagnosing and resolving specific technical issues, which is essential for a higher confidence score in the Troubleshooting category.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1249,11 +1303,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:50:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses build and deployment automation, database testing, and includes references to project management and configuration management, which are relevant to engineering practices. However, it mainly focuses on Visual Studio 2010 Database Projects rather than exclusively on Agile engineering practices.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses various aspects of Visual Studio 2010 Database projects, including build and deployment automation, source code control, and database testing. While it touches on relevant engineering practices, such as automation and testing, the primary focus is on the specific tools and guidance rather than the overarching principles of Agile engineering practices. The depth of discussion on these topics is moderate, providing practical guidance but lacking a thorough exploration of the core Agile methodologies.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -1375,12 +1432,12 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T09:09:16",
+    "calculated_at": "2025-03-15T06:50:39",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
     "final_score": 28.0,
     "reasoning": "While the content mentions database testing and deployment verification, it primarily focuses on visual studio database projects and related tools rather than on Test Driven Development principles or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

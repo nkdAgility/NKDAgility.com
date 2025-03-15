@@ -24,8 +24,7 @@ aliasesArchive:
 - /resources/blog/mozy-update
 categories: []
 preview: nakedalm-logo-128-link-1-1.png
-tags:
-- Personal
+tags: []
 
 ---
 Well, due to my campaign to get lots of free bandwidth I now have an additional 2.3 GB on top of my initial free 2GB bringing the grand total to 4.3 GB of online storage with [Mozy](https://mozy.com/?code=8R96AG)!

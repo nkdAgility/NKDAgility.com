@@ -37,11 +37,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:19:58",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile coaching and consulting in relation to Scrum teams, touching on Scrum principles but primarily focusing on the role of Agile consultants and technical understanding rather than a deep exploration of Scrum itself.",
+    "final_score": 52.0,
+    "reasoning": "The content discusses the role of Agile consultants in relation to Scrum teams, touching on the need for foundational understanding and technical depth, which aligns with Scrum principles. However, it lacks a direct focus on Scrum roles, events, or artifacts, and primarily critiques professional coaching rather than exploring Scrum in depth.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
@@ -55,12 +58,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:19:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of Agile coaching and the importance of understanding technical aspects in coaching teams, making coaching a major theme, but it also focuses significantly on the distinction between coaching and consulting, which detracts from its primary focus on coaching.",
-    "level": "Tertiary"
+    "final_score": 34.0,
+    "reasoning": "The content discusses the limitations of professional coaching in the context of Scrum teams and suggests that Agile consultants may be more beneficial in certain situations. While it touches on coaching, the primary focus is on the differences between coaching and consulting, with a significant emphasis on technical understanding and mentoring rather than the collaborative and supportive nature of coaching. This results in a low confidence score as the content does not align closely with the core themes of coaching.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -130,30 +136,39 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in helping teams understand technical practices and processes that contribute to delivering working software, but it primarily focuses on coaching and consulting rather than directly on working software itself.",
+    "calculated_at": "2025-03-14T23:19:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Agile consultants in helping Scrum teams understand their needs and improve their processes, which indirectly relates to working software. However, it lacks direct mentions of working software characteristics and does not provide in-depth discussion on delivering functional software or customer feedback mechanisms.",
     "level": "Tertiary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:20:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in guiding teams towards informed decision-making, particularly in understanding technical practices and methodologies. However, the primary focus is on the differences between coaching and consulting rather than structured decision-making processes.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the roles of Agile consultants versus professional coaches in Scrum teams, focusing on the need for technical understanding and mentoring. While it touches on decision-making indirectly by highlighting the importance of understanding what teams need, it lacks a structured discussion on evidence-based methodologies or frameworks for decision-making. The content does not explicitly mention decision-making principles or provide empirical evidence, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in helping teams understand their processes and practices, which relates to self-organisation. However, the primary focus is on the differences between coaching and consulting rather than on self-organisation principles themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:20:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of Agile consultants versus professional coaches, focusing on the need for technical understanding and mentoring rather than self-organisation principles. While it touches on team dynamics, it lacks a direct exploration of self-organisation concepts and does not provide depth on fostering autonomy or accountability within teams.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -175,12 +190,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:19:16",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in relation to team dynamics and the cultural aspects of Agile adoption, but it primarily focuses on technical practices and the skills required for effective coaching.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the roles of Agile consultants and professional coaches in Scrum teams, focusing on technical understanding and practices rather than organisational culture. While there are brief mentions of team dynamics and the need for understanding within teams, the overall emphasis is on technical aspects and coaching methodologies, which do not align closely with the core themes of organisational culture.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -247,12 +265,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:20:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in helping teams understand and implement Agile practices, which relates to strategic alignment and optimisation of delivery processes. However, the primary focus is on the differences between coaching and consulting rather than a clear strategic approach.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Agile consultants versus professional coaches, touching on the need for teams to understand their gaps in knowledge. However, it primarily focuses on the coaching aspect rather than strategic alignment or optimisation of delivery processes. While there are mentions of Agile principles, the depth of strategic discussion is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -325,11 +346,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:20:30",
+    "ai_confidence": 47.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 10,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of technical understanding in Agile consulting and coaching, touching on engineering practices like DevOps and continuous delivery, but primarily focuses on the role of Agile consultants rather than the core engineering practices themselves.",
+    "final_score": 44.0,
+    "reasoning": "The content discusses the role of Agile consultants in relation to Scrum teams, touching on the importance of technical understanding and engineering practices. However, it primarily focuses on the coaching aspect rather than delving deeply into specific engineering practices like clean code, TDD, or CI/CD. While there are mentions of technical depth and practices, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Portfolio Management": {
@@ -385,12 +409,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches, touching on foundational Agile principles and the importance of understanding Agile methodologies. However, it primarily focuses on the practical aspects of coaching and consulting rather than a deep exploration of Agile values and principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:20:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses the role of Agile consultants versus professional coaches in the context of Scrum teams. While it touches on the need for understanding Agile principles, it focuses more on the technical aspects and the practical application of Scrum rather than the foundational values and principles of Agile itself. The discussion lacks depth in exploring Agile's core values and principles, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -442,12 +469,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:20:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile coaching and consulting, touching on the importance of understanding processes and practices, which relates to empirical process control. However, it primarily focuses on the roles and responsibilities of Agile consultants rather than directly addressing empirical process control principles.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Agile consultants versus professional coaches in Scrum teams, touching on the need for understanding and adapting to team needs. However, it lacks direct references to empirical process control principles, such as transparency, inspection, and adaptation. The discussion is more focused on coaching and technical understanding rather than the core themes of empirical process control.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -613,21 +643,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:19:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in helping teams understand Agile principles and practices, which aligns with Agile strategy. However, the focus is more on technical aspects and coaching rather than a comprehensive discussion on Agile strategy itself.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of Agile consultants versus professional coaches in the context of Scrum teams, which touches on Agile methodologies. However, it primarily focuses on the technical aspects and coaching dynamics rather than a strategic alignment with Agile principles or broader organisational strategies. The discussion lacks depth in strategic planning and does not fully explore the integration of Agile practices into organisational vision or decision-making processes.",
+    "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Continuous Delivery in the context of Agile consulting and coaching, but it is primarily focused on the roles and responsibilities of Agile consultants rather than Continuous Delivery itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:20:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the roles of Agile consultants and coaches in Scrum teams, with no direct mention of Continuous Delivery principles or practices. While it touches on the importance of understanding technical processes, it does not align with the core themes of Continuous Delivery, such as automation, deployment strategies, or maintaining a production-ready state. The depth of discussion is also minimal, focusing instead on coaching methodologies rather than CD-specific topics.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -667,11 +703,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:19:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in enhancing team performance and understanding of Agile practices, making it a major but secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Agile consultants versus professional coaches, touching on the need for teams to understand their limitations and the importance of technical depth in Agile practices. However, it lacks a direct focus on team performance metrics, collaboration strategies, or Agile ceremonies, which are central to the 'Team Performance' category. The discussion is more about the roles and approaches rather than specific strategies or methodologies aimed at enhancing team dynamics.",
     "level": "Tertiary"
   },
   "AI": {
@@ -751,12 +790,12 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:13",
+    "calculated_at": "2025-03-14T23:19:14",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "The content primarily discusses the roles of Agile consultants and coaches in software teams, focusing on technical understanding and practices rather than on broader organisational change strategies or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -769,21 +808,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in relation to Scrum teams, touching on Scrum principles and practices, but primarily focuses on the broader context of Agile coaching rather than specifically on Scrum product development.",
+    "calculated_at": "2025-03-14T23:19:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Agile consultants in relation to Scrum teams, touching on the need for understanding Scrum practices and the technical aspects that support them. However, it lacks a direct focus on Scrum product development processes, such as sprint planning or product backlog management, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:19:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in improving team performance and understanding of Agile and DevOps practices, which relates to operational efficiency. However, it primarily focuses on the differences between coaching and consulting rather than specific operational practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of Agile consultants versus professional coaches, touching on the need for teams to understand their limitations and the importance of technical depth in Agile practices. However, it lacks a direct focus on operational efficiency techniques, metrics, or specific strategies for process optimisation, which are central to the 'Operational Practices' category.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -814,11 +859,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:19:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in relation to Scrum teams, touching on aspects of coaching and mentoring, which are relevant to the Scrum Master role, but it primarily focuses on the differences between Agile consultants and professional coaches rather than the Scrum Master specifically.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Agile consultants versus professional coaches in the context of Scrum teams, which indirectly relates to the Scrum Master role. However, it lacks direct mentions of Scrum Master responsibilities and does not delve deeply into Scrum practices or ceremonies. The focus is more on the technical aspects and the need for understanding within teams rather than on the Scrum Master's facilitative role.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -841,11 +889,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-12T04:49:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:40:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of Agile consultants and coaches in guiding teams, emphasising the importance of technical understanding and mentoring in Agile environments, which aligns well with the principles of technical leadership.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the role of Agile consultants and the importance of technical understanding in Scrum teams, which aligns with the principles of technical leadership. However, it primarily focuses on the comparison between coaching and consulting rather than providing in-depth strategies or practices for technical leadership itself. The discussion is relevant but lacks comprehensive detail on mentoring, team dynamics, or agile methodologies.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -868,11 +919,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:20:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in helping teams understand Agile principles and practices, which is relevant to Agile Planning. However, the primary focus is on the differences between coaching and consulting rather than on Agile Planning methodologies and practices themselves.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the role of Agile consultants versus professional coaches in the context of Scrum teams, touching on the need for understanding Agile principles and practices. However, it lacks a direct focus on Agile Planning methodologies and does not delve deeply into planning techniques, iterative processes, or specific Agile planning tools. The discussion is more about coaching and technical understanding rather than the core aspects of Agile Planning.",
     "level": "Tertiary"
   },
   "Accountability": {
@@ -922,20 +976,26 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:19:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in relation to Scrum teams, touching on team dynamics and the importance of understanding technical practices, which aligns with the category but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of Agile consultants in relation to Scrum teams, highlighting the need for understanding and technical depth in Scrum practices. While it does mention Scrum teams and their needs, the focus is more on the comparison between coaching and consulting rather than an in-depth exploration of Scrum team dynamics or roles. Therefore, it aligns with the category but lacks comprehensive detail on the core themes.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T04:50:05",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-13T16:48:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of technical understanding in Agile consulting and coaching, touching on DevOps principles and engineering practices. However, the primary focus is on Agile methodologies rather than a deep dive into technical mastery itself.",
+    "final_score": 61.0,
+    "reasoning": "The content discusses the technical understanding required for Agile practices and the role of Agile consultants in enhancing team performance. While it touches on technical aspects, the primary focus is on Agile coaching rather than software craftsmanship or engineering excellence, which slightly detracts from its alignment with the 'Technical Mastery' category.",
     "level": "Secondary"
   },
   "Release Management": {
@@ -967,12 +1027,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:20:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches, touching on the foundational principles of Agile and the importance of understanding Agile philosophy in practice. However, it primarily focuses on the technical aspects and specific roles within Scrum, making Agile philosophy a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the role of Agile consultants versus professional coaches in the context of Scrum teams, which is more focused on specific practices rather than the broader Agile philosophy. While it touches on the need for understanding and adaptability, it lacks a deep exploration of Agile principles or the mindset that underpins Agile philosophy.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1030,12 +1093,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-12T04:50:20",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of understanding and learning technical practices within Agile and DevOps contexts, highlighting the role of Agile consultants in facilitating knowledge sharing and continuous improvement. However, the primary focus is on the comparison between Agile consultants and coaches rather than on continuous learning itself.",
-    "level": "Secondary"
+    "calculated_at": "2025-03-14T23:19:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the need for teams to understand what they don't know and the role of Agile consultants in teaching and mentoring, which aligns with the principles of Continuous Learning. However, it primarily focuses on the comparison between Agile consultants and professional coaches, with less emphasis on broader Continuous Learning practices or techniques for knowledge sharing. The depth of discussion on Continuous Learning concepts is moderate, but not the primary focus.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1048,21 +1114,27 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:19:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in helping teams understand and implement Agile practices, which touches on aspects of organisational agility. However, it primarily focuses on team-level practices and coaching rather than broader enterprise agility concepts.",
-    "level": "Tertiary"
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the roles of Agile consultants and coaches within Scrum teams, which is more aligned with team-level practices rather than the broader organisational context of Enterprise Agility. While it touches on the need for understanding and adapting practices, it lacks a discussion on organisational structures, frameworks, or cultural aspects that are essential for enterprise-level agility.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile principles and their relationship with Lean, particularly in the context of coaching and technical understanding. However, the primary focus is on Agile and Scrum, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:19:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 11.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum methodologies, discussing the roles of Agile consultants and coaches without any direct reference to Lean principles or methodologies. While there are mentions of processes and practices, they do not align with Lean concepts such as waste reduction, value stream mapping, or continuous improvement. The discussion lacks depth in Lean-related topics, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
@@ -1111,30 +1183,39 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile consulting and coaching, which are relevant to product delivery methodologies, but it primarily focuses on the roles and responsibilities of Agile consultants rather than the end-to-end process of delivering software products.",
+    "calculated_at": "2025-03-14T23:19:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content discusses the role of Agile consultants in Scrum teams, which relates to product delivery methodologies. However, it primarily focuses on the limitations of professional coaching and the need for technical understanding rather than providing a comprehensive exploration of product delivery practices. While it touches on relevant themes, the depth and direct mentions of product delivery concepts are limited.",
     "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in Scrum teams, touching on techniques like impact mapping and the importance of technical understanding in Agile practices, which are relevant to Agile Product Management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:19:18",
+    "ai_confidence": 68.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of Agile consultants in Scrum teams, highlighting the importance of understanding Agile principles and practices. It aligns with Agile Product Management by addressing the need for teams to grasp their limitations and the value of mentorship in early stages. However, it leans more towards the technical aspects of Agile rather than directly discussing product management strategies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in helping teams understand their knowledge gaps and learn new practices, which aligns with the theme of continuous learning. However, the primary focus is on the technical aspects of Agile and Scrum rather than on broader discovery and learning methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:19:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of Agile consultants in helping teams understand their gaps in knowledge, which aligns with the theme of continuous learning. However, the primary focus is on the comparison between Agile consultants and professional coaches, with limited exploration of broader discovery and learning methodologies. The depth of discussion is moderate, primarily addressing the need for understanding rather than providing extensive insights into learning processes or frameworks.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1186,12 +1267,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:20:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile consulting and coaching, touching on the importance of understanding DevOps and technical practices, which are relevant to market adaptability. However, the primary focus is on the roles and responsibilities of Agile consultants rather than directly addressing strategies for enhancing market adaptability.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the role of Agile consultants versus professional coaches in Scrum teams, which is somewhat related to Agile methodologies. However, it lacks a direct focus on market adaptability strategies, such as responding to market shifts or leveraging data for decision-making. The discussion is more about the technical and coaching aspects of Agile rather than how these practices enhance an organisation's ability to adapt to market changes.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1234,12 +1318,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:19:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile coaching and consulting, which are related to fostering adaptability and innovation within teams, but it primarily focuses on Scrum roles and technical aspects rather than the broader principles of business agility.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the roles of Agile consultants and professional coaches in Scrum teams, which is tangentially related to business agility. However, it lacks a direct focus on the principles and practices of business agility itself. While it touches on the need for teams to adapt and learn, it does not explore broader themes such as organisational responsiveness, leadership roles, or case studies that demonstrate business agility. Therefore, the confidence score reflects a low alignment with the core themes of the category.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1252,30 +1339,39 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in helping teams understand and implement practices that can lead to value delivery, particularly in the context of Agile and DevOps. However, the primary focus is on the differences between coaching and consulting rather than on specific value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:19:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 29.0,
+    "reasoning": "The content discusses the role of Agile consultants versus professional coaches, touching on the need for teams to understand their gaps in knowledge. However, it lacks a direct focus on value delivery principles, such as iterative development or customer value maximisation. The discussion is more about coaching and technical understanding rather than strategies for delivering value to customers.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:19:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of technical understanding in Agile coaching and consulting, touching on practices like DevOps and continuous delivery, but primarily focuses on the role of Agile consultants rather than engineering practices themselves.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the role of Agile consultants in relation to Scrum teams, touching on the importance of technical understanding in engineering practices. However, it primarily focuses on coaching and mentoring rather than specific technical methodologies or practices that enhance agility in software development. While there are mentions of technical depth and practices, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:20:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in helping teams understand and implement Agile practices, which aligns with the theme of organisational agility. However, the focus is primarily on the technical aspects of Agile and Scrum rather than broader organisational strategies or cultural shifts.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of Agile consultants and coaches in helping teams understand their needs and improve their practices, which aligns with the principles of organisational agility. However, it primarily focuses on the technical aspects of Scrum and the distinction between coaching and consulting, rather than broader organisational agility strategies or cultural shifts. The discussion lacks depth in exploring how these roles contribute to overall organisational adaptability and responsiveness.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -1300,12 +1396,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:19:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Agile consultants and coaches in relation to team dynamics and technical understanding, which touches on sociotechnical interactions. However, the primary focus is on the technical aspects of Agile and Scrum rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the roles of Agile consultants and coaches in Scrum teams, focusing on technical understanding and practices. While it touches on team dynamics and the need for a deeper understanding of processes, it lacks a comprehensive exploration of the sociotechnical interplay between technology and organisational structures. The discussion is more centred on technical aspects and coaching rather than the broader sociotechnical systems context.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1354,7 +1453,7 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-03-10T14:17:18",
+    "calculated_at": "2025-03-14T23:19:14",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1362,7 +1461,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the role of Agile consultants and coaches in guiding teams, which touches on leadership aspects. However, it primarily focuses on technical understanding and specific practices rather than on leadership strategies or frameworks. The mention of cultural focus and enabling teams hints at leadership but lacks depth in discussing leadership principles or methods.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",

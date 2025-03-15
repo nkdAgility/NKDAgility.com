@@ -31,7 +31,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-10T12:06:40",
+    "calculated_at": "2025-03-14T23:11:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -39,7 +39,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content primarily focuses on Sprint planning within Agile and Scrum frameworks, which is a specific aspect of product management. However, it lacks a broader discussion on strategic alignment with customer needs or business objectives, which are key themes in product management. The depth of discussion is moderate, providing insights into the workshop format and coaching but not delving into the strategic implications of Sprint planning on product success.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -403,20 +403,26 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T21:10:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-13T15:39:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on Sprint planning, detailing workshops, coaching, and iterative improvements, which are central to Agile Planning practices.",
+    "final_score": 80.0,
+    "reasoning": "The content focuses extensively on Sprint planning, a key aspect of Agile Planning, discussing its importance, structure, and iterative nature. It provides detailed insights into facilitating effective Sprint planning sessions, aligning with Agile principles of adaptability and continuous improvement. The depth of discussion is significant, covering practical experiences and strategies for enhancing Sprint planning, which reinforces its relevance to the Agile Planning category.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T21:10:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Sprint planning, which is a specific Agile framework practice, but it also touches on the importance of adapting processes to organisational needs and continuous improvement, which are aligned with Agile values.",
+    "calculated_at": "2025-03-13T16:47:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 30,
+    "final_score": 59.0,
+    "reasoning": "The content primarily focuses on Sprint planning, which is a specific Agile framework practice rather than a discussion of Agile values and principles. While it touches on concepts like adaptability and continuous improvement, these are framed within the context of Sprint planning rather than the broader Agile philosophy. The discussion lacks direct references to the Agile Manifesto or its core values, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -502,11 +508,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T21:10:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T15:26:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on Sprint planning within an Agile context, discussing workshops, coaching, and practices that align with Agile transformation principles.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on Sprint planning, a key Agile practice, and discusses its importance in transforming teams' approaches to Agile. It explicitly mentions Agile principles and the facilitation of workshops aimed at improving Sprint planning, which aligns well with the category. However, while it provides a good level of detail on the process and its evolution, it lacks broader discussions on Agile transformation strategies, leadership roles, and organisational readiness, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -547,11 +556,14 @@
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T21:10:46",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T23:11:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses practical aspects of Sprint planning workshops, including tools and techniques for effective implementation, making it a major theme, though it also touches on broader Agile concepts.",
+    "final_score": 76.0,
+    "reasoning": "The content primarily focuses on the practical application of Sprint planning within Agile methodologies, detailing workshop structures, hands-on experiences, and iterative feedback processes. It explicitly discusses techniques for enhancing team performance and collaboration, aligning well with the core themes of the category. The depth of discussion is substantial, providing insights into facilitation, coaching, and adaptability of the Sprint planning process, which are essential for effective Agile practices.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {
@@ -583,11 +595,14 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T21:10:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:11:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a Sprint planning workshop, which is a structured learning event focused on Agile practices. It details the format, delivery, and coaching involved in the workshop, aligning well with the category's focus on events and presentations.",
+    "final_score": 71.0,
+    "reasoning": "The content primarily focuses on a workshop about Sprint planning, which aligns with the category of Events and Presentations. It discusses the structure, delivery formats, and hands-on experience of the workshop, indicating a clear connection to a live or recorded event. However, while it mentions workshops and provides some detail, it lacks explicit references to specific events or presentations, which slightly lowers the confidence score. Overall, the content is relevant but does not fully meet the criteria for a primary focus on events.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -610,12 +625,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T21:11:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Sprint planning, which is a key event in Scrum, but does not deeply explore team dynamics or roles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:11:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on Sprint planning, which is a key event within the Scrum framework. It discusses the structure, facilitation, and continuous improvement aspects of Sprint planning, which are relevant to Scrum Teams. However, it lacks explicit mentions of Scrum roles and team dynamics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -664,11 +682,14 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T21:11:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Sprint planning workshops, including the option for digital delivery, which relates to remote working practices. However, the primary focus is on the Sprint planning process itself rather than remote working strategies or challenges.",
+    "calculated_at": "2025-03-14T23:11:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 56.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing its structure, facilitation, and evolution. While it briefly touches on adapting to digital formats for remote teams, the main emphasis is on the Sprint planning process itself rather than remote working practices or challenges. Therefore, it does not fully align with the core themes of remote working in an Agile context.",
     "level": "Tertiary"
   },
   "Change Management": {
@@ -682,11 +703,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T21:11:11",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the Sprint planning workshop, focusing on techniques for improving team collaboration and communication within Agile frameworks, which aligns well with the category of Team Collaboration.",
+    "calculated_at": "2025-03-14T23:11:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on Sprint planning, which is a collaborative process within Agile frameworks. It discusses techniques for improving team communication and collaboration during Sprint planning sessions, emphasising the importance of shared understanding and feedback loops. However, while it touches on collaboration, the depth of discussion is more centred on the mechanics of Sprint planning rather than broader team dynamics or culture. Therefore, it aligns well with the category but does not fully explore all aspects of team collaboration.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -718,29 +742,38 @@
   },
   "Discovery and Learning": {
     "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T21:11:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:11:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses learning and adaptation in the context of Sprint planning workshops, but primarily focuses on the mechanics of Agile and Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing its structure, facilitation, and iterative feedback processes. While it touches on aspects of learning and adaptation, such as the importance of feedback loops and evolving processes, the emphasis is more on project management and execution rather than on broader discovery and learning principles. The discussion lacks a deeper exploration of innovation or continuous learning methodologies, which are central to the category.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T21:11:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:12:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Sprint planning and the facilitation of workshops aimed at improving Agile practices, which includes elements of self-organisation as teams are expected to take ownership over time. However, the primary focus is on the planning process rather than self-organisation principles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on Sprint planning, which is a key Agile practice, but it does not explicitly discuss self-organisation as a primary theme. While it touches on concepts like empowerment and adapting processes, it lacks a thorough exploration of self-organisation principles or techniques. The depth of discussion on how to foster autonomy and trust within teams is moderate, but it does not fully align with the core themes of self-organisation as outlined in the category description.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:11:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:12:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on Sprint planning within the Agile framework, which is a significant aspect of Agile methodologies. However, it does not extensively cover the broader Agile Product Operating Model or its principles, making it a secondary theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on Sprint planning, which is a specific Agile practice rather than a discussion on the broader Agile Product Operating Model. While it touches on principles of Agile and continuous improvement, it lacks a comprehensive exploration of product-centric development, cross-functional teams, or value delivery strategies that are central to the Agile Product Operating Model. Therefore, while there are relevant elements, they do not constitute a primary focus on the category.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -763,11 +796,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T21:11:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies, specifically Sprint planning, and how it can be adapted to meet organisational needs, which aligns with the theme of market adaptability as a secondary focus.",
+    "calculated_at": "2025-03-14T23:12:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing its structure, facilitation, and the importance of feedback loops. While it touches on adaptability and continuous improvement, it does not explicitly address broader market adaptability strategies or the impact of Agile on responding to market shifts. The discussion is relevant but lacks depth in connecting these practices to market adaptability as a primary focus.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
@@ -835,12 +871,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T21:11:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:12:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses coaching and feedback in the context of Sprint planning workshops, which aligns with mentoring themes, but the primary focus is on the Sprint planning process itself.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on Sprint planning and its execution rather than mentoring. While it includes elements of facilitation and coaching, which are related to mentoring, these aspects are not the main focus. The discussion lacks explicit references to mentoring techniques, leadership development, or emotional intelligence, which are key themes in the mentoring category. Therefore, while there is some alignment, it is not strong enough to classify the content as primarily about mentoring.",
+    "level": "Ignored"
   },
   "AI and Automation in Agility": {
     "category": "AI and Automation in Agility",
@@ -862,29 +901,38 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T21:11:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:12:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Sprint planning within an Agile context, which is a significant aspect of strategy in Agile environments, but it primarily focuses on the execution and facilitation of the Sprint planning process rather than broader strategic alignment or development.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile, discussing its importance, structure, and the iterative process involved. It aligns well with strategic themes such as continuous improvement and adapting processes to fit team needs. However, while it provides substantial detail on Sprint planning, it does not delve deeply into broader strategic alignment or organisational goals, which slightly limits its overall depth in the Strategy category.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T21:11:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Sprint planning workshops and coaching, which are related to Agile practices, but the focus is more on the facilitation and learning process rather than specific operational efficiency techniques or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:12:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 70.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile, discussing its structure, facilitation, and the importance of continuous improvement. It aligns well with operational practices by emphasising techniques for optimising the Sprint planning process, which is crucial for enhancing operational efficiency. The depth of discussion is substantial, providing insights into practical applications and the iterative nature of the process, although it could benefit from more explicit connections to broader operational metrics or KPIs.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T21:11:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:12:17",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Sprint planning in detail, which is a specific Agile framework practice, but it also touches on the importance of adapting practices to organisational needs and continuous improvement, making Agile philosophy a significant theme.",
+    "final_score": 57.0,
+    "reasoning": "The content primarily focuses on Sprint planning, a specific Agile framework practice, rather than discussing the broader Agile philosophy. While it touches on concepts like continuous improvement and adaptability, these are framed within the context of Sprint planning rather than the overarching principles of Agile. The discussion lacks a deep exploration of the Agile Manifesto or its core values, which diminishes its alignment with the Agile Philosophy category.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -898,11 +946,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T21:11:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:12:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the facilitation and coaching aspects of Sprint planning workshops, emphasising guidance, support, and feedback, which aligns well with the Coaching category.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses coaching in the context of facilitating Sprint planning workshops, which aligns with the coaching category. It mentions the role of the facilitator and coach, emphasises hands-on experience, and highlights the importance of feedback and empowerment. However, the primary focus is on Sprint planning rather than coaching techniques or broader coaching principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Frequent Releases": {
@@ -916,12 +967,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T21:11:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of learning and adapting Sprint planning practices, as well as the role of feedback and coaching in improving team performance, which aligns with the principles of Continuous Learning.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:12:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Sprint planning in detail, emphasising the importance of workshops, hands-on experience, and feedback loops, which align with Continuous Learning principles. However, while it touches on adaptability and learning from experiences, it primarily focuses on the mechanics of Sprint planning rather than broader Continuous Learning concepts.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -952,11 +1006,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T21:11:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:12:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on Sprint planning within Agile frameworks, discussing its implementation and coaching, which aligns closely with Agile Product Management principles.",
+    "final_score": 79.0,
+    "reasoning": "The content focuses extensively on Sprint planning, a key aspect of Agile methodologies, particularly within the Scrum framework. It discusses the importance of structured workshops, hands-on experience, and iterative feedback, all of which align closely with Agile principles. The depth of discussion regarding facilitation, coaching, and the evolution of the Sprint planning process demonstrates a strong understanding of Agile Product Management. Overall, the content is highly relevant and provides actionable insights, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -988,12 +1045,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T21:11:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:12:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Sprint planning in an organisational context, touching on the interplay between Agile practices and team dynamics, but primarily focuses on the technical aspects of the workshop rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing its structure, facilitation, and adaptability. While it touches on aspects of team dynamics and organisational culture, it does not explicitly address the broader sociotechnical interactions or the impact of organisational structures on software delivery. The discussion is more centred on technical practices rather than the interplay between social and technical systems, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1006,12 +1066,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T21:12:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Sprint planning and the importance of adapting the process based on feedback and learnings, which aligns with empirical process control principles. However, it primarily focuses on the workshop structure and facilitation rather than a deep exploration of empirical process control itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:12:30",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Sprint planning in detail, emphasising the importance of feedback loops and adaptability, which are key aspects of empirical process control. However, it primarily focuses on the practicalities of Sprint planning rather than explicitly discussing empirical process control principles. While it aligns with the core themes of transparency, inspection, and adaptation, it does not delve deeply into the theoretical foundations or broader implications of empirical process control in Agile methodologies.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1024,11 +1087,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T21:12:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:12:32",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical strategies for conducting Sprint planning workshops, emphasising real-world applications and adaptability in Agile contexts.",
+    "final_score": 78.0,
+    "reasoning": "The content focuses heavily on practical strategies for Sprint planning within Agile frameworks, discussing hands-on experiences, facilitation, and iterative feedback processes. It aligns well with the core themes of pragmatic thinking by emphasising adaptability and real-world applications of Agile principles. The depth of discussion is significant, providing detailed insights into workshop structures and the importance of evolving processes, which supports a high confidence score.",
     "level": "Secondary"
   },
   "Lead Time": {
@@ -1051,12 +1117,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T21:12:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Sprint planning, which is a key Agile practice that contributes to the delivery of working software, but it primarily focuses on the workshop format and facilitation rather than the characteristics or outcomes of working software itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:12:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile, which is a crucial aspect of delivering working software. It discusses the importance of effective Sprint planning sessions and how they can lead to better team performance and software delivery. However, while it touches on the iterative nature of Agile and the need for continuous improvement, it lacks direct references to the characteristics of working software or specific metrics for assessing software quality. The depth of discussion is more about the process of planning rather than the delivery of functional software itself.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1096,11 +1165,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T21:12:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:12:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Sprint planning within the Agile framework, which is a key aspect of software development methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content focuses extensively on Sprint planning within the Agile framework, which is a core aspect of software development methodologies. It discusses the structure, facilitation, and iterative nature of Sprint planning, aligning well with the principles of Agile and continuous improvement. The depth of discussion is significant, providing insights into practical applications and the importance of adapting processes to team needs, which are essential for effective software development practices.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
@@ -1150,11 +1222,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T21:12:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:12:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Sprint planning within the Agile framework, focusing on its implementation and coaching, which is central to the role of software developers in Agile practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, which is a key aspect of the role of software developers. It discusses best practices, the importance of iterative feedback, and the empowerment of teams, all of which align closely with the core themes of the category. The depth of discussion is substantial, providing insights into workshop structures and hands-on experiences, which are relevant to developers looking to enhance their Agile practices. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -1240,12 +1315,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T21:12:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:12:44",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Sprint planning and coaching within an Agile context, indicating a focus on facilitating Agile practices, which aligns with Agile leadership themes. However, it primarily centres on technical practices rather than leadership roles.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on Sprint planning, a technical practice within Agile, rather than on leadership roles or practices. While it mentions empowerment and adaptability, which are relevant to Agile leadership, the discussion lacks a strong emphasis on the leadership aspect and does not delve deeply into how leaders can facilitate change or foster a culture of trust and collaboration. Therefore, while there are elements that touch on Agile leadership, they are not the primary focus of the content.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -1285,12 +1363,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T21:12:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Sprint planning and its iterative nature, which relates to value delivery, but it primarily focuses on the workshop structure and facilitation rather than broader value delivery strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:12:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses Sprint planning in detail, highlighting its importance in Agile methodologies. It mentions the iterative feedback process and the need for continuous improvement, which aligns with the principles of value delivery. However, the focus is primarily on the mechanics of Sprint planning rather than broader strategies for delivering value to customers, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1321,21 +1402,27 @@
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T21:12:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-03-14T23:12:49",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Sprint planning, its execution, and coaching within a Scrum framework, aligning closely with Scrum Product Development principles.",
+    "final_score": 78.0,
+    "reasoning": "The content focuses extensively on Sprint planning, a core aspect of the Scrum framework, discussing its structure, facilitation, and iterative improvement. It aligns well with Scrum principles and practices, providing detailed insights into how to effectively implement Sprint planning within teams. The depth of discussion on practical applications and the importance of feedback loops further solidifies its relevance to Scrum Product Development.",
     "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T21:12:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Sprint planning workshops and Agile practices, which are related to organisational change but primarily focuses on specific Agile methodologies rather than broader organisational change strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:12:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": 20,
+    "final_score": 31.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, which is a specific practice rather than a broader discussion on organisational change. While it touches on aspects of team dynamics and adaptability, it lacks a comprehensive exploration of organisational change frameworks, leadership roles, or resistance management. The discussion is more about improving a specific process rather than transforming the organisation as a whole.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1348,12 +1435,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T21:12:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:12:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Sprint planning workshops and coaching, which are important aspects of Agile methodologies, but it primarily focuses on the technical practices of Sprint planning rather than the broader strategic implications or alignment with organisational vision.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content primarily focuses on Sprint planning, which is a tactical aspect of Agile methodologies rather than a strategic discussion. While it touches on the importance of adapting processes and empowering teams, it lacks a broader discussion on organisational vision alignment or strategic planning integration. The depth of discussion on Sprint planning is significant, but it does not fully encompass the strategic elements required for a higher confidence score in Agile Strategy.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -1375,12 +1465,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T21:12:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Sprint planning workshops and coaching, which are related to Agile practices, but the primary focus is on the execution of these practices rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:12:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content primarily focuses on Sprint planning within Agile methodologies, discussing its potential to enhance team effectiveness and adaptability. It explicitly mentions the importance of creating a shared understanding and the iterative feedback process, which aligns well with the principles of organisational agility. However, while it touches on aspects of agility, such as empowerment and adaptability, the depth of discussion is more centred on the mechanics of Sprint planning rather than broader organisational strategies or cultural shifts. Therefore, while it is relevant, it does not fully encompass the wider scope of organisational agility.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",

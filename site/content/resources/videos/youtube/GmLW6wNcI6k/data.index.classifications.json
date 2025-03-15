@@ -46,20 +46,26 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:31:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase of consulting engagements and the need for continuous adaptation to changing organisational needs, which aligns with systems thinking principles. However, the primary focus is on consulting practices rather than a deep exploration of organisational dynamics.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements, primarily from a Scrum Master's perspective. While it touches on themes of continuous assessment and adapting to organisational needs, it lacks a direct focus on systems thinking or the dynamics of organisational behaviour. The mention of engaging with teams and understanding organisational states hints at some alignment with organisational dynamics, but the overall depth and explicit discussion of systems thinking principles are minimal.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:30:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engaging with teams and understanding customer needs, which aligns with coaching principles, but it primarily focuses on the assessment phase of consulting rather than coaching itself.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the assessment phase in consulting, touching on the importance of continuous engagement and adaptation, which aligns with coaching principles. However, it primarily focuses on the consulting process rather than coaching techniques or the role of a coach, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
@@ -82,7 +88,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-07T13:47:44",
+    "calculated_at": "2025-03-14T23:30:25",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -90,15 +96,18 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content discusses the assessment phase of consulting engagements, which touches on understanding customer needs and adapting to them. However, it lacks a direct focus on product management methodologies or frameworks. While it mentions Agile and customer engagement, it does not delve into strategic alignment or product management principles in detail, leading to a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engaging with teams and adapting to changing needs, which aligns with Agile principles. However, it primarily focuses on the assessment phase of consulting rather than explicitly addressing leadership roles or practices within Agile contexts.",
+    "calculated_at": "2025-03-14T23:31:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements from the perspective of a Scrum Master, touching on Agile principles like continuous learning and adaptation. However, it lacks a direct focus on Agile leadership roles or practices, making it more about consulting processes than leadership in an Agile context.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -121,12 +130,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:30:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on themes of adapting to customer needs and the importance of engagement, which are relevant to digital transformation. However, it primarily focuses on consulting practices rather than a strategic discussion of digital technologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements, focusing on agile methodologies and continuous adaptation. While it touches on themes of engagement and understanding customer needs, it lacks a direct focus on digital technologies or their strategic adoption for business transformation, which is essential for the Digital Transformation category.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -139,20 +151,26 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:31:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase in consulting engagements and the importance of adapting to customer needs, which relates to decision-making processes. However, it primarily focuses on the practical aspects of engagement rather than structured, evidence-based methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on the need for continuous assessment and collaboration with clients. However, it lacks a structured, evidence-based approach to decision-making, focusing more on personal beliefs and experiences rather than empirical evidence or methodologies. The discussion is more anecdotal and does not delve deeply into the principles of evidence-based decision-making.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:48:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of engaging with teams and adapting to their needs, which aligns with self-organisation principles, but it primarily focuses on the assessment phase of consulting engagements.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the assessment phase in consulting and touches on Agile principles, but it does not explicitly focus on self-organisation. While it mentions the importance of continuous engagement and adapting to team needs, it lacks a detailed exploration of self-organisation principles or practices. The discussion is more about consulting processes than about fostering autonomy and collaboration within teams.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -247,11 +265,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:31:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on the need for adaptability and engagement with teams, which aligns with strategic approaches in Agile and DevOps. However, it primarily focuses on the consulting process rather than a clear strategic framework.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on Agile and Scrum principles. However, it primarily focuses on the practical aspects of consulting rather than strategic alignment or optimisation of delivery processes. While there are mentions of Agile mindsets and continuous adaptation, the depth of strategic discussion is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
@@ -265,12 +286,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase in consulting engagements and touches on Agile principles, particularly the need for adaptability and continuous engagement with clients, which aligns with Agile methodologies. However, it primarily focuses on consulting practices rather than a detailed exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:31:03",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements from the perspective of a Scrum Master, which indicates a direct mention of Agile frameworks, particularly Scrum. However, the primary focus is on the assessment phase rather than a comprehensive exploration of Agile frameworks. The content aligns with Agile principles, particularly the emphasis on continuous learning and adaptation, but lacks depth in discussing various Agile frameworks or their comparative analysis. Overall, while Agile concepts are present, they are not the main focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scaling Agility": {
     "category": "Scaling Agility",
@@ -283,21 +307,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:31:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engaging with teams and understanding customer needs, which relates to collaboration, but the primary focus is on the assessment phase of consulting rather than team dynamics or collaboration techniques.",
+    "final_score": 60.0,
+    "reasoning": "The content discusses the assessment phase in consulting, touching on the importance of engaging with teams and adapting to their needs, which aligns with team collaboration principles. However, it primarily focuses on the assessment process rather than explicitly exploring team dynamics or collaboration techniques, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:30:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding customer needs and adapting to them, which aligns with customer satisfaction principles, but it primarily focuses on the assessment phase of consulting engagements.",
-    "level": "Tertiary"
+    "final_score": 39.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on customer needs and the importance of continuous engagement. However, it lacks explicit focus on customer satisfaction metrics or methodologies, and while it aligns with some core themes, it does not delve deeply into customer satisfaction as a primary topic.",
+    "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -337,12 +367,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:30:34",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of consulting engagements in the context of Agile and DevOps, which are relevant to software development practices, but the primary focus is on the assessment phase rather than software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the assessment phase in consulting, with a focus on Agile and Scrum methodologies. While it touches on relevant themes such as continuous adaptation and the importance of understanding customer needs, the primary focus is on consulting practices rather than software development processes. The mention of Agile and Scrum provides some alignment, but the depth of discussion on software development practices is limited.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -373,12 +406,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of engaging with customers and adapting to their needs, which aligns with Agile principles of customer collaboration and responding to change. However, it primarily focuses on the assessment phase of consulting engagements rather than a deep exploration of Agile values.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:31:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the assessment phase in consulting, touching on Agile principles like continuous engagement and customer collaboration. However, it primarily focuses on the practical aspects of consulting rather than deeply exploring Agile values or principles. While there are mentions of Agile concepts, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -466,11 +502,14 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:30:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on Agile and DevOps principles, but primarily focuses on consulting practices rather than the role of software developers.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements, mentioning Agile and Scrum principles. However, it primarily focuses on consulting practices rather than the role of software developers specifically. While there are references to Agile and DevOps, they are not the main focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -577,12 +616,15 @@
   },
   "Agile Project Management": {
     "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adapting to changing needs and engaging with teams, which aligns with agile principles, but it primarily focuses on the assessment phase of consulting rather than agile project management specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:31:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the role of a Scrum Master and touches on agile principles, particularly the importance of continuous assessment and adaptation. However, it primarily focuses on the consulting engagement process rather than providing a comprehensive exploration of Agile Project Management principles or frameworks. The mention of Scrum is relevant but not deeply explored, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -595,12 +637,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adaptability and engagement in consulting, which aligns with Agile principles, but it primarily focuses on the assessment phase rather than a comprehensive Agile strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:30:38",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements with a focus on continuous learning and adaptation, which aligns with Agile principles. However, it primarily centres on practical experiences rather than strategic discussions about Agile methodologies. The mention of Agile and Scrum is present but not the main focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -706,12 +751,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase in consulting engagements and touches on Agile principles such as continuous adaptation and engagement with teams, but it primarily focuses on consulting practices rather than a comprehensive discussion on Agile transformation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:31:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements with a focus on Agile principles, particularly the importance of continuous assessment and adaptation. While it mentions Agile and Scrum, the primary focus is on the consulting process rather than a comprehensive exploration of Agile transformation strategies. The discussion aligns with Agile concepts but lacks depth in addressing specific methodologies or frameworks for Agile transformation.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -760,11 +808,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:31:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on the need for continuous adaptation and engagement with customers, which aligns with operational practices. However, it primarily focuses on the assessment process rather than specific operational efficiency techniques or methodologies.",
+    "final_score": 56.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on the importance of continuous assessment and adapting to client needs, which aligns with operational practices. However, it lacks detailed techniques or strategies for improving operational efficiency, focusing more on personal reflections and experiences rather than concrete methodologies or best practices.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
@@ -823,21 +874,27 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:30:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of engaging with customers and adapting to their needs, which relates to technical leadership in a consulting context, but it primarily focuses on the assessment phase rather than on guiding development teams or agile best practices.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the assessment phase in consulting, touching on agile principles and the importance of continuous engagement with teams. However, it lacks a direct focus on technical leadership concepts such as mentoring, team dynamics, or specific agile practices. While it aligns with some themes of technical leadership, it does not delve deeply into the core principles outlined for this category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on understanding customer needs and adapting to them, which aligns with product discovery principles. However, the primary focus is on the consulting process rather than a dedicated exploration of product discovery methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:30:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 39.0,
+    "reasoning": "The content discusses the assessment phase in consulting, touching on the importance of understanding customer needs and adapting to them. However, it primarily focuses on consulting practices rather than specific methodologies for product discovery. While there are elements of user engagement and continuous learning, the discussion lacks depth in defining product features or validating ideas, which are core themes of the Product Discovery category.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -850,12 +907,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for flexibility and adaptability in consulting engagements, which aligns with Agile principles. However, it primarily focuses on the assessment phase rather than Agile Planning specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:31:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 61.0,
+    "reasoning": "The content discusses the assessment phase in consulting, touching on Agile principles like continuous assessment and adaptation. However, it lacks a direct focus on Agile Planning methodologies and practices, making it more of a secondary mention rather than a primary discussion.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -949,11 +1009,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T07:02:01",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of continuous assessment and adaptation in consulting engagements, which aligns with Agile principles of flexibility and responsiveness to change. However, it primarily focuses on the consulting process rather than explicitly addressing Agile philosophy as a central theme.",
+    "calculated_at": "2025-03-13T15:40:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the assessment phase in consulting, touching on Agile principles like continuous learning and customer collaboration. However, it primarily focuses on practical aspects of consulting rather than the broader Agile philosophy. While it mentions an 'agile mindset' and the importance of adapting to customer needs, these concepts are not explored in depth, making the Agile philosophy a secondary theme rather than the primary focus.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -985,12 +1048,15 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:31:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase of consulting engagements and touches on the idea of continuous assessment and engagement, which aligns with asynchronous principles. However, it primarily focuses on the assessment process rather than a comprehensive exploration of asynchronous development practices.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content briefly touches on the idea of an assessment phase in consulting engagements and hints at the need for continuous assessment, which could relate to asynchronous practices. However, it primarily focuses on Scrum and Agile methodologies without a substantial exploration of asynchronous development principles, tools, or best practices. The discussion lacks depth in addressing the core themes of asynchronous collaboration, making it only tangentially relevant to the category.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1012,30 +1078,39 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adapting to changing needs and engaging with teams, which aligns with the principles of Continuous Learning, but it primarily focuses on the assessment phase of consulting engagements.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T23:31:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of continuous engagement and learning in consulting, aligning well with the principles of Continuous Learning. It highlights the need for adaptability and a growth mindset, particularly in the context of Agile and DevOps. The discussion on the assessment phase and the emphasis on hands-on engagement reflect a commitment to ongoing learning and improvement. However, while it touches on key topics, it does not delve deeply into specific techniques or frameworks for knowledge sharing, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:30:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on decision-making processes and the need for adaptability in uncertain environments, which aligns with decision theory principles. However, the primary focus is on consulting practices rather than a deep exploration of decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses the assessment phase in consulting engagements, focusing on the practical aspects of consulting rather than decision-making processes in uncertain environments. While it touches on the need for continuous assessment and adapting to client needs, it lacks a direct exploration of decision theory concepts such as heuristics, biases, or decision-making frameworks. The discussion is more about Agile practices and client engagement than about the theoretical underpinnings of decision-making, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:30:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for adaptability and responsiveness in consulting engagements, which aligns with the principles of enterprise agility, but it primarily focuses on the assessment phase rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements with a focus on continuous learning and adaptation, which aligns with the principles of enterprise agility. However, it primarily centres on team-level practices and does not explicitly address broader organisational structures or frameworks for scaling agility, limiting its relevance to the category.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1048,11 +1123,14 @@
   },
   "Resilience and Change": {
     "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:31:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for adaptability and continuous assessment in consulting engagements, which aligns with themes of resilience and change, but it primarily focuses on the assessment phase rather than a comprehensive exploration of organisational resilience.",
+    "final_score": 57.0,
+    "reasoning": "The content discusses the assessment phase in consulting, touching on themes of continuous learning and adaptation, which are relevant to resilience and change. However, it primarily focuses on Scrum practices and does not delve deeply into organisational resilience or change management strategies. The mention of adapting to customer needs aligns with the category, but the overall focus remains on consulting processes rather than broader organisational resilience.",
     "level": "Tertiary"
   },
   "Install and Configuration": {
@@ -1093,12 +1171,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:31:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of assessing customer needs and adapting to changing requirements, which are relevant to product delivery, but the primary focus is on the assessment phase rather than the end-to-end delivery process.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on Agile and Scrum principles. However, it primarily focuses on the consulting process rather than the end-to-end product delivery methodologies. While there are mentions of Agile and the importance of understanding customer needs, the discussion lacks depth in product delivery practices and does not provide substantial insights into planning, testing, or deployment phases.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1123,12 +1204,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:31:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase in consulting engagements and highlights the importance of understanding complex organisational dynamics and adapting to changing needs, which aligns with Systems Thinking principles. However, the primary focus is on consulting practices rather than a deep exploration of Systems Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements, focusing on continuous learning and adaptation rather than a rigid assessment process. While it touches on themes of complexity and the need for ongoing assessment, it does not explicitly mention Systems Thinking principles or techniques. The discussion is more aligned with Agile methodologies and does not delve deeply into the interconnectedness of systems or feedback loops, which are central to Systems Thinking.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1183,12 +1267,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:30:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase of consulting engagements and personal reflections on the process, which aligns with the Miscellaneous category as it does not directly reference specific Agile, Scrum, DevOps, or Lean principles, but it does touch on related concepts.",
-    "level": "Tertiary"
+    "final_score": 11.0,
+    "reasoning": "The content primarily discusses the assessment phase in consulting engagements, with a strong focus on Scrum principles and practices. It references the role of a Scrum Master and incorporates Agile concepts, which directly ties it to established frameworks. While it does explore the idea of adapting the assessment phase, the overall discussion is rooted in Agile and Scrum methodologies, making it unsuitable for the Miscellaneous category.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
@@ -1243,12 +1330,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:30:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the assessment phase in consulting engagements and the importance of understanding customer needs, which aligns with value delivery principles. However, it primarily focuses on the assessment process rather than specific value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 61.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on the importance of continuous assessment and adapting to customer needs, which aligns with value delivery principles. However, it lacks explicit focus on methodologies or strategies directly related to value delivery, making it a secondary rather than primary focus.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1297,12 +1387,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:30:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the assessment phase of consulting engagements, touching on the importance of understanding customer needs and adapting to changing requirements, which relates to the interplay between social and technical aspects in organisational contexts. However, the primary focus is on the consulting process rather than a deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the assessment phase in consulting engagements, touching on the importance of understanding organisational needs and adapting to them. However, it primarily focuses on the Scrum methodology and personal experiences rather than a comprehensive exploration of sociotechnical systems. While there are elements of team dynamics and organisational culture, the discussion lacks depth in addressing the interplay between social and technical systems, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "News and Reviews": {
     "category": "News and Reviews",
@@ -1426,7 +1519,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:22:01",
+    "calculated_at": "2025-03-14T23:30:25",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -1434,6 +1527,6 @@
     "non_ai_confidence": 30,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions Agile and Scrum in the context of consulting engagements but does not focus on Scrum principles, roles, or events. The discussion is more centred around assessment phases and customer engagement rather than the Scrum framework itself.",
-    "level": "Quaternary"
+    "level": "Ignored"
   }
 }

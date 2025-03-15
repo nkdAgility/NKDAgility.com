@@ -27,7 +27,16 @@ aliasesArchive:
 - /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/blog/can-the-definition-of-done-change-per-sprint
 tags:
+- Scrum Product Development
 - Definition of Done
+- Agile Project Management
+- Professional Scrum
+- Software Development
+- Software Developers
+- Working Software
+- Increment
+- Scrum Team
+- Scrum Master
 categories:
 - Scrum
 - Social Technologies

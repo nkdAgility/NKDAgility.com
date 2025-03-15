@@ -28,7 +28,7 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-03-06T15:08:26",
+    "calculated_at": "2025-03-14T21:40:45",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 25.0,
@@ -36,7 +36,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly references the importance of learning from past experiences to inform future decisions, which aligns with the concept of using historical data in product management. However, it lacks explicit discussion of product management methodologies, frameworks, or strategic alignment with customer needs and business objectives. The depth of discussion is limited, focusing more on a philosophical perspective rather than practical applications in product management.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -85,7 +85,7 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-03-11T11:27:54",
+    "calculated_at": "2025-03-14T21:40:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -93,7 +93,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly references the importance of learning from past experiences to inform future decisions, which aligns with the concept of using empirical evidence. However, it lacks explicit discussion of Evidence-Based Management principles, techniques, or metrics, and does not delve into the depth required for a comprehensive understanding of EBM.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
@@ -115,12 +115,15 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T23:36:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of validating ideas and using past experiences to inform future choices, which aligns with the principles of hypothesis-driven development, but it does not clearly focus on experimentation or empirical testing.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses reflective learning and data-driven decisions in Agile, which are related to hypothesis-driven development. However, it lacks explicit focus on formulating hypotheses or conducting experiments, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -412,12 +415,15 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T23:36:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting dots looking forward based on past experiences and assumptions, which relates to forecasting but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of reflective learning and leveraging historical data in Agile practices, which aligns with the core themes of forecasting. However, it primarily focuses on the philosophical aspect of learning from the past rather than specific forecasting techniques or methodologies. The discussion lacks depth in practical forecasting strategies and empirical data utilisation, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -604,12 +610,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T23:36:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T21:40:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a quote by Steve Jobs and reflects on the nature of assumptions about the future based on past experiences, which aligns with general discussions related to business agility but does not directly reference Agile, Scrum, DevOps, or any specific methodologies.",
-    "level": "Tertiary"
+    "final_score": 29.0,
+    "reasoning": "The content discusses Steve Jobs' quote in the context of Agile practices, which directly ties it to Agile methodologies. While it attempts to explore reflective learning and decision-making in Agile, it does so through the lens of a specific quote rather than providing a broader discussion on miscellaneous topics. The focus on Agile principles reduces its alignment with the Miscellaneous category, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -790,12 +799,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:36:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of learning from past experiences to inform future decisions, which touches on the importance of reflection and evaluation. However, it does not explicitly focus on metrics or data-driven decision-making, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T15:21:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of reflective learning and data-driven decision-making in Agile environments, aligning well with the core themes of the category. It mentions the use of past experiences and data analysis to inform future decisions, which is a key aspect of metrics and learning. However, while it touches on these concepts, the focus is more on philosophical insights rather than providing detailed methodologies or specific metrics, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -835,11 +847,14 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T23:36:24",
-    "ai_confidence": 70,
+    "calculated_at": "2025-03-14T14:59:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "Content discusses the importance of looking at past experiences to inform future decisions, which aligns with sensemaking principles. However, it lacks a deeper exploration of frameworks or techniques within the sensemaking category.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of reflective learning and the role of past experiences in Agile decision-making, which aligns with sensemaking principles. It explicitly mentions the need to interpret past data to inform future strategies, demonstrating a clear connection to the category. However, while it touches on sensemaking, the focus is primarily on Agile practices rather than a broader exploration of sensemaking frameworks or models, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Strategy": {
@@ -988,7 +1003,7 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-03-10T18:06:22",
+    "calculated_at": "2025-03-14T21:40:45",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -996,7 +1011,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly touches on the importance of learning from past experiences to inform future decisions, which aligns with the principles of empirical process control. However, it lacks explicit discussions on Agile methodologies, transparency, inspection, or adaptation, and does not delve into the depth required for a strong alignment with the category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -1009,7 +1024,7 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-03-10T11:57:58",
+    "calculated_at": "2025-03-14T21:40:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1017,7 +1032,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content references the importance of learning from past experiences to inform future decisions, which aligns with pragmatic thinking. However, it lacks direct mentions of Agile, Scrum, or DevOps frameworks, and does not provide detailed practical strategies or case studies, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1075,12 +1090,12 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T23:36:24",
+    "calculated_at": "2025-03-14T21:40:45",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
     "final_score": 27.0,
     "reasoning": "While the content touches on the importance of learning from past experiences to inform future decisions, it does not focus on the core principles of product strategy such as vision formulation, roadmapping, or competitive analysis.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1093,7 +1108,7 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-03-11T10:04:47",
+    "calculated_at": "2025-03-14T21:40:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1101,7 +1116,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content references the importance of learning from past experiences to inform future decisions, which aligns with the principles of evidence-based leadership. However, it lacks explicit discussion of empirical evidence, data-driven approaches, or specific leadership practices, resulting in a moderate confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1261,7 +1276,7 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-03-07T13:28:27",
+    "calculated_at": "2025-03-14T21:40:45",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
     "ai_alignment": 35.0,
@@ -1269,7 +1284,7 @@
     "non_ai_confidence": 0,
     "final_score": 38.0,
     "reasoning": "The content briefly mentions the need to validate ideas, which aligns with the concept of product validation. However, it lacks specific methodologies or practices related to user testing, market fit, or customer feedback loops. The discussion is more philosophical and does not provide detailed insights into practical applications of product validation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1309,7 +1324,7 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-03-11T16:22:02",
+    "calculated_at": "2025-03-14T21:40:45",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
     "ai_alignment": 12,
@@ -1317,7 +1332,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content discusses Agile methodologies and the importance of reflective learning, which indirectly relates to understanding customer needs and adapting product features. However, it primarily focuses on the concept of learning from past experiences rather than explicitly addressing product discovery techniques or methodologies. The discussion lacks specific techniques for user research or validation frameworks, leading to a lower confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Product Development": {
     "category": "Scrum Product Development",

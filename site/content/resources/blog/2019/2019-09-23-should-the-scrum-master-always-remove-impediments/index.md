@@ -8,7 +8,7 @@ ResourceImportId: 39856
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 date: 2019-09-23
-weight: 775
+weight: 675
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
@@ -27,16 +27,15 @@ aliasesArchive:
 - /blog/should-the-scrum-master-always-remove-impediments-
 - /resources/blog/should-the-scrum-master-always-remove-impediments
 tags:
+- Scrum Master
 - Scrum Team
 - Agile Project Management
 - Professional Scrum
 - People and Process
 - Software Development
-- Scrum Master
-- Team Collaboration
-- Agile Frameworks
 - Pragmatic Thinking
 - Scrum Product Development
+- Team Performance
 categories:
 - Scrum
 preview: PSX_20190823_113052-1-1.jpg

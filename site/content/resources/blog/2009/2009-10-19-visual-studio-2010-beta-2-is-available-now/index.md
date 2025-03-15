@@ -26,10 +26,7 @@ aliasesArchive:
 - /visual-studio-2010-beta-2-is-available-now-
 - /blog/visual-studio-2010-beta-2-is-available-now-
 - /resources/blog/visual-studio-2010-beta-2-is-available-now
-tags:
-- Products and Books
-- News and Reviews
-- Windows
+tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories: []
 

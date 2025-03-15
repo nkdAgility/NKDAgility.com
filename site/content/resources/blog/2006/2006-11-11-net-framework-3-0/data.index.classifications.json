@@ -94,7 +94,7 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-03-10T13:27:57",
+    "calculated_at": "2025-03-15T07:52:18",
     "ai_confidence": 45.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -102,7 +102,7 @@
     "non_ai_confidence": 0,
     "final_score": 40.0,
     "reasoning": "The content mentions the .NET Framework 3.0 and its impact on developer productivity, which aligns with the principles of technical excellence. However, it lacks a detailed discussion on specific engineering practices or methodologies such as TDD or CI/CD. The focus is more on personal experience and benefits rather than a structured exploration of technical excellence concepts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -142,7 +142,7 @@
   },
   "Code and Complexity": {
     "category": "Code and Complexity",
-    "calculated_at": "2025-03-10T15:23:05",
+    "calculated_at": "2025-03-15T07:52:18",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -150,7 +150,7 @@
     "non_ai_confidence": 20,
     "final_score": 31.0,
     "reasoning": "The content briefly mentions improvements in code quality and developer productivity due to the use of .NET Framework 3.0 and WCF, but it lacks a detailed discussion on the complexities of software development or the principles of code quality. The focus is more on the excitement of using a new framework rather than exploring the interplay between code and complexity.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -217,7 +217,7 @@
   },
   "News and Reviews": {
     "category": "News and Reviews",
-    "calculated_at": "2025-03-10T19:07:49",
+    "calculated_at": "2025-03-15T07:52:18",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -225,7 +225,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content mentions the release of .NET Framework 3.0, which aligns with industry news, but it primarily focuses on personal experiences and opinions regarding its use rather than providing a comprehensive review or analysis. While there is some discussion of productivity improvements, it lacks depth in evaluating the framework's impact on Agile or DevOps practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Practical Techniques and Tooling": {
     "category": "Practical Techniques and Tooling",
@@ -553,12 +553,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T11:09:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:52:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the .NET Framework 3.0 and its impact on developer productivity, mentioning the upgrade to WCF and its benefits, which are relevant to software development practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the .NET Framework 3.0 and its impact on developer productivity, which aligns with software development practices. It mentions specific technologies (WCF) and improvements in code quality, indicating a focus on software engineering. However, the discussion lacks depth in methodologies or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -790,11 +793,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T11:09:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:52:23",
+    "ai_confidence": 55.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions cleaner code and developer productivity, which relate to engineering practices, but the overall focus is primarily on the introduction of .NET Framework 3.0 and not strictly on Agile practices.",
+    "final_score": 50.0,
+    "reasoning": "The content mentions 'cleaner code' and 'less code', which aligns with the principles of clean code and automation. However, the discussion is primarily focused on the excitement of using .NET Framework 3.0 and its impact on productivity rather than a detailed exploration of engineering practices. The depth of discussion is moderate, as it highlights improvements but lacks comprehensive insights into methodologies like TDD or CI/CD.",
     "level": "Tertiary"
   },
   "Organisational Culture": {
@@ -961,12 +967,15 @@
   },
   "Software Developers": {
     "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:09:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:52:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses tools and technologies that can enhance developer productivity, specifically mentioning WCF and .NET Framework 3.0, but does not explicitly relate to Agile or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 38.0,
+    "reasoning": "The content mentions the use of .NET Framework 3.0 and WCF, which are relevant to software development, but it lacks a direct focus on Agile or DevOps methodologies. While it touches on developer productivity, it does not explore the core themes of Agile practices or collaboration in depth.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1078,7 +1087,7 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-03-10T15:23:03",
+    "calculated_at": "2025-03-15T07:52:18",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -1086,7 +1095,7 @@
     "non_ai_confidence": 0,
     "final_score": 29.0,
     "reasoning": "The content briefly mentions improvements in developer productivity and code cleanliness due to the use of .NET Framework 3.0 and WCF, which aligns with the principles of software craftsmanship. However, it lacks a detailed discussion on best practices, continuous improvement, or specific engineering processes, resulting in a low confidence score.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",

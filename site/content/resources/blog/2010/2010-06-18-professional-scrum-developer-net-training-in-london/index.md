@@ -27,11 +27,16 @@ aliasesArchive:
 - /blog/professional-scrum-developer-(-net)-training-in-london
 - /resources/blog/professional-scrum-developer-net-training-in-london
 tags:
-- Scrum Product Development
 - Professional Scrum
 - Software Development
-- Agile Frameworks
+- Increment
 - People and Process
+- Scrum Product Development
+- Agile Planning
+- Scrum Team
+- Engineering Practices
+- Practical Techniques and Tooling
+- Software Developers
 categories:
 - Scrum
 - Social Technologies

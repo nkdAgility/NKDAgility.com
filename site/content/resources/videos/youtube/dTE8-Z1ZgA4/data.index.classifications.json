@@ -55,7 +55,7 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-03-07T13:37:41",
+    "calculated_at": "2025-03-14T22:25:17",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
     "ai_alignment": 25.0,
@@ -63,7 +63,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions the complexity of the work and connects it to team dynamics through the Minecraft case study. However, it lacks explicit discussions on complexity science principles, frameworks, or theories. The focus is more on personal opinions about training effectiveness rather than a deep exploration of complexity thinking in organisational contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -559,7 +559,7 @@
   },
   "Events and Presentations": {
     "category": "Events and Presentations",
-    "calculated_at": "2025-03-10T18:09:20",
+    "calculated_at": "2025-03-14T22:25:17",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
     "ai_alignment": 40.0,
@@ -567,7 +567,7 @@
     "non_ai_confidence": 10,
     "final_score": 30.0,
     "reasoning": "The content briefly mentions a case study related to Agile training but lacks explicit references to events or presentations. While it discusses the effectiveness of a training method, it does not provide details about any specific event, talk, or structured learning experience, which is essential for a higher confidence score in this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -664,7 +664,7 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-03-11T11:30:44",
+    "calculated_at": "2025-03-14T22:25:17",
     "ai_confidence": 42.0,
     "ai_mentions": 20.0,
     "ai_alignment": 40.0,
@@ -672,7 +672,7 @@
     "non_ai_confidence": 10,
     "final_score": 39.0,
     "reasoning": "The content briefly mentions a case study related to training and team dynamics, which aligns with the category's focus on enhancing teamwork. However, it lacks explicit discussions on techniques for improving communication or fostering trust within teams. The depth of discussion is limited, primarily focusing on an individual's effectiveness rather than broader team collaboration principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -982,12 +982,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T18:54:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T15:15:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team dynamics and the effectiveness of a training case study, which relates to sociotechnical systems, but it is primarily focused on the case study itself rather than a broader exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Minecraft case study as a training tool for Agile practices, highlighting aspects of team dynamics and collaboration. While it touches on the interplay between social and technical elements, it does not explicitly frame these discussions within the broader context of sociotechnical systems. The focus is more on the training methodology and participant engagement rather than a comprehensive exploration of how organisational structures influence software delivery. Therefore, while there is relevant content, it lacks the depth and explicit focus required for a higher confidence score.",
+    "level": "Secondary"
   },
   "Products and Books": {
     "category": "Products and Books",
@@ -1018,12 +1021,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T18:54:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a case study that connects practical training with real-world applications, highlighting the effectiveness of experiential learning in Agile contexts.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-13T15:37:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the practical application of Agile training through the Minecraft case study, highlighting real-world complexities and team dynamics. It emphasises engagement, collaboration, and the importance of bridging theory with practice, aligning well with the core themes of Pragmatic Thinking. The depth of discussion on how the case study reflects real-world challenges and enhances understanding of Agile practices further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -1243,12 +1249,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T18:55:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-13T16:45:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the effectiveness of a training method that connects people to their work, which relates to team dynamics and engagement, but it primarily focuses on the trainer and the case study rather than broader team motivation strategies.",
-    "level": "Tertiary"
+    "final_score": 66.0,
+    "reasoning": "The content discusses team dynamics and collaboration within the context of the Minecraft case study, which enhances engagement and communication among team members. It explicitly mentions the importance of teamwork and the dynamics involved in tackling complex tasks, aligning well with the core themes of team motivation. However, while it touches on these aspects, the primary focus is on the training method rather than a comprehensive exploration of team motivation strategies, which slightly lowers the depth of discussion.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1414,7 +1423,7 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-03-04T11:19:02",
+    "calculated_at": "2025-03-14T22:25:17",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
     "ai_alignment": 10.0,
@@ -1422,6 +1431,6 @@
     "non_ai_confidence": 0,
     "final_score": 11.0,
     "reasoning": "The content briefly mentions training and team dynamics but does not explicitly discuss Scrum principles, roles, events, or artifacts. The focus is more on a specific case study rather than the Scrum framework itself, leading to a low confidence score.",
-    "level": "Quinary"
+    "level": "Ignored"
   }
 }

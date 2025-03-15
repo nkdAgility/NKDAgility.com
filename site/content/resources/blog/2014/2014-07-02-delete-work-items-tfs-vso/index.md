@@ -29,9 +29,6 @@ aliasesArchive:
 tags:
 - Practical Techniques and Tooling
 - Install and Configuration
-- Software Development
-- Troubleshooting
-- Azure DevOps
 categories: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 
