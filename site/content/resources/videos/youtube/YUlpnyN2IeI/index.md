@@ -40,7 +40,6 @@ tags:
 - Agile Philosophy
 - Agile Frameworks
 - Agile Transformation
-- Agile Philosophy
 - Empirical Process Control
 resourceTypes:
 - video

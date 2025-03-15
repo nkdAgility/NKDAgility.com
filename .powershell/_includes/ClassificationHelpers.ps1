@@ -5,7 +5,7 @@ $batchesInProgress = $null;
 $batchesInProgressMax = 40;
 $watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-02-18T09:00:00") -End (Get-Date)).Days # Wattermark for calculation algorythem Change.
 $watermarkScoreLimit = 10
-$watermarkCount = 30
+$watermarkCount = 0
 
 function Get-CatalogHashtable {
     param (

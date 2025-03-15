@@ -29,8 +29,6 @@ tags:
 - Agile Project Management
 - Scrum Values
 - Scrum Team
-- Scrum Product Development
-- Agile Frameworks
 - Professional Scrum
 - Scrum Product Development
 - Agile Frameworks

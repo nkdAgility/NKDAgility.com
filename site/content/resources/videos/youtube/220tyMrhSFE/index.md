@@ -24,7 +24,6 @@ preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg
 duration: 49
 isShort: true
 tags:
-- Team Collaboration
 - Operational Practices
 - Transparency
 - Pragmatic Thinking
