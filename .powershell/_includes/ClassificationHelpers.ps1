@@ -3,9 +3,9 @@
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
-$watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-02-18T09:00:00") -End (Get-Date)).Days
-$watermarkScoreLimit = 20
-$watermarkCount = 1
+$watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-02-18T09:00:00") -End (Get-Date)).Days # Wattermark for calculation algorythem Change.
+$watermarkScoreLimit = 10
+$watermarkCount = 30
 
 function Get-CatalogHashtable {
     param (
@@ -103,7 +103,8 @@ function Get-ClassificationsForType {
         }           
         # Check if the cache uses the latest calculations
         $recalculatedCount = 0
-        foreach ($key in $cachedData.keys) {
+        $keysToCheck = $cachedData.keys | ForEach-Object { $_ }
+        foreach ($key in  $keysToCheck ) {
             $entry = $cachedData[$key]
             $finalScore = Get-ComputedConfidence -aiConfidence $entry.ai_confidence -nonAiConfidence $entry.non_ai_confidence
             $level = Get-ComputedLevel -confidence $finalScore
@@ -299,8 +300,14 @@ function Get-ClassificationsForType {
                 $result = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -hugoMarkdown $hugoMarkdown
                 if ($result.reasoning -ne $null -and $result.category -ne "unknown") {
                     $oldConfidence = $cachedData[$result.category]?.ai_confidence ?? 0
-                    $DaysAgo = [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
                     $confidenceDiff = "{0}{1}" -f ($(if (($result.ai_confidence - $oldConfidence) -ge 0) { '+' } else { '-' }), [math]::Abs($result.ai_confidence - $oldConfidence))
+                    if ($cachedData[$result.category] -and $cachedData[$result.category].calculated_at) {
+                        $DaysAgo = [math]::Round(([DateTimeOffset]::Now - [DateTimeOffset]$cachedData[$result.category].calculated_at).TotalDays)
+                    }
+                    else {
+                        $DaysAgo = -1  # Or a default value like 0, depending on your needs
+                    }
+                    
                     Write-InformationLog "Updating {category} confidence {diff}! The old confidence of {old} was calculated {daysago} days ago. The new confidence is {confidence}!" -PropertyValues $result.category, $confidenceDiff, $oldConfidence, $DaysAgo, $result.ai_confidence
                     $CatalogFromCache[$result.category] = $result
                     $cachedData[$result.category] = $result
@@ -348,8 +355,8 @@ function Get-Classification {
 function Get-ClassificationOrderedList { 
     param (
         [array]$Classifications,
-        [int] $minScore = 30,
-        [string[]]$levels = @("Primary", "Secondary", "Tertiary", "Quaternary", "Quinary"),
+        [int] $minScore = 40,
+        [string[]]$levels = @("Primary", "Secondary", "Tertiary"),
         [switch]$byLevel
     )
 
@@ -385,8 +392,6 @@ function Get-ComputedLevel {
         { $_ -gt 80 } { return "Primary" }
         { $_ -gt 60 } { return "Secondary" }
         { $_ -gt 40 } { return "Tertiary" }
-        { $_ -gt 20 } { return "Quaternary" }
-        { $_ -gt 10 } { return "Quinary" }
         default { return "Ignored" }
     }
 }
